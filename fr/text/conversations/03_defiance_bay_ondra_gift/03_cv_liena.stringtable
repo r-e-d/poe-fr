@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_liena</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une jeune femme se tient derrière le comptoir, vous regardant avec des yeux rapides et intelligents.
+
+"Bienvenue. C'est votre première visite à la Compagnie commerciale vailienne, n'est-ce pas ? Dites-moi comment je peux vous aider." Son ton est à la fois professionnel et inquisiteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Avez-vous d'autres affaires à discuter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quel est cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"La Compagnie commerciale vailienne est une association de marchands des Républiques de Vailia. Nous supervisons des contrats et des négociations commerciales au nom de nos marchands." 
+
+Elle fait des gestes vers la porte sur sa droite. "Voici notre entrepôt, où nous stockons des marchandises en transit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je suis le directeur adjoint de cet entrepôt. J'aide actuellement Verzano aux affaires courantes, mais je prendrai la direction à sa retraite. Ou bien lorsque les chefs de l'entreprise de retour à la maison décideront qu'une nouvelle direction doit être désignée." Elle fait rouler ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bienvenue dans la Compagnie commerciale vailienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je suis le nouveau directeur de l'entrepôt. Verzano, mon prédécesseur..." Elle roule des yeux vers la porte. "Il ne s'acquittait plus de sa tâche."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

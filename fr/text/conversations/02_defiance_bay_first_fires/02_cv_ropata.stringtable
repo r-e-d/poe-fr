@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_ropata</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le robuste aumaua essuie ses mains tachées de suie sur le bord de sa tunique. "Je ne crois pas vous avoir déjà vu au donjon. Bienvenue.</DefaultText>
+      <FemaleText>Le robuste aumaua essuie ses mains tachées de suie sur le bord de sa tunique. "Je ne crois pas vous avoir déjà vue au donjon. Bienvenue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je suis l'apprenti de maître Dunstan. Lorsqu'il ne m'enseigne pas le métier de forgeron, je l'aide à entretenir les armes et les armures de tous les Chevaliers du donjon."
+
+"Je suis également chargé de la vente d'objets forgés à des clients spéciaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous faites partie des Chevaliers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Y a-t-il autre chose dont vous souhaitez parler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Il secoue la tête. "Je suis un novice et je n'ai pas encore été promu au rang de justicier."
+
+Il sourit. "Bien sûr, bon nombre de novices se font appeler "chevaliers", mais toujours à l'extérieur du donjon et jamais à proximité d'un véritable justicier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Puis-je vous acheter quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je ne peux rien vous vendre sans la permission de maître Dunstan. C'est lui qui choisit les clients du donjon."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

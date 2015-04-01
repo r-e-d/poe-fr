@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_lucen_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je vous en prie, mon seigneur... Je regrette ce que j'ai fait. Laissez-moi partir et je mènerai une vie honnête !"</DefaultText>
+      <FemaleText>"Je vous en prie, ma dame... Je regrette ce que j'ai fait. Laissez-moi partir et je mènerai une vie honnête !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je n'ai fait de mal à personne ! Je vous en prie, relâchez-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Non, ne vous approchez pas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Quelle... cruauté ! Quel mal vous ai-je donc fait ?"</DefaultText>
+      <FemaleText>"Quelle... cruauté ! Quel mal vous ai-je donc fait ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que la mer vous emporte, espèce de malade !" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

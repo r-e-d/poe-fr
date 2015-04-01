@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_bs_glanfathan_tribesman_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Surveillez vos manières, étranger, et vous serez le bienvenu ici."</DefaultText>
+      <FemaleText>"Surveillez vos manières, étrangère, et vous serez la bienvenue ici."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Puisse la lumière des étoiles vous guider, étranger."</DefaultText>
+      <FemaleText>"Puisse la lumière des étoiles vous guider, étrangère."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ce Glanfathan vous fixe un moment, puis bat des paupières et détourne le regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Si vous cherchez une chambre, vous pouvez descendre à l'auberge située à l'extrémité sud-est d'Hearthsong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Si vous avez besoin de provisions ou si vous voulez faire du commerce, rendez-vous au marché. Au nord-ouest d'Hearthsong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nos Anamfatha veillent sur les Ormes jumeaux depuis le Passage des six."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

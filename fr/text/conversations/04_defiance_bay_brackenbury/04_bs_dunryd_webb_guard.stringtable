@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_dunryd_webb_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Si dame Webb souhaite vous voir, elle vous enverra chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dame Webb va maintenant vous recevoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

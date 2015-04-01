@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_tsk_overseers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sceaux des Chemins infinis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez un moyen d'ouvrir la porte scellée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ouvrez la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Étudiez le mystérieux sceau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trouvez un moyen d'utiliser les trois sceaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>De mystérieux sceaux gravés de runes et de symboles oubliés sont éparpillés à travers les Chemins infinis d'Od Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Au sixième étage des Chemins infinis, j'ai découvert une grande porte scellée impossible à forcer tant elle est lourde. La porte présente trois cavités qui semblent avoir jadis abrité quelque chose, car elles sont entourées d'étranges symboles. Je vais devoir trouver un moyen d'ouvrir la porte si je veux continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé trois sceaux gravés correspondant aux trois cavités de la porte que j'ai découverte. Si je les y replace, la porte s'ouvrira peut-être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>En explorant les Chemins infinis, j'ai découvert un sceau gravé particulièrement lourd. J'ignore sa fonction, mais il porte des inscriptions qui doivent être d'origine engwithane. Je trouverai peut-être d'autres informations en poursuivant mes explorations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai découvert trois sceaux, chacun portant une gemme différente : saphir, péridot et héliotrope. Les caractères inscrits sur les sceaux semblent d'origine engwithane, ce qui signifie qu'ils devaient autrefois avoir une fonction particulière. Je doute qu'ils soient purement décoratifs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réussi à ouvrir la porte scellée.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

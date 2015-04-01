@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_aeldin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme robuste et large d'épaules s'essuie les mains sur son pantalon. Il dégage une odeur nauséabonde, la même que celle qui émane des cuves, et ses bras sont couverts de teinture. "Vous voulez acheter du cuir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que savez-vous sur Aelys Harond ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Il s'essuie le coude avec un pan de sa chemise pour enlever une tache de teinture. "Vous avez besoin d'autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Il hausse les épaules. "Je sais juste que les hommes de son père enfoncent les portes et sèment la pagaille partout où ils passent pour la retrouver. Personnellement, je ne l'ai jamais rencontrée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Permettez-moi de vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hmm. Hendyna m'a dit que vous vous étiez déjà rencontrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"C'est bizarre. Dengler m'a dit que vous vous connaissiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Quelle que soit la formulation de votre question, ma réponse est toujours la même. Je ne la connais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Il vous regarde en esquissant un sourire. "Il n'en rate pas une, celui-là. Que vous a-t-il dit exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Il se croise les bras en dégageant une odeur de suif et de fumier. "Ah bon, elle vous a dit ça ? Et qu'a-t-elle dit d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Il a dit qu'elle cherchait à s'enfuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Juste que vous vous connaissiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Son père l'a emmenée ici pour la marier à un noble. Elle voulait s'enfuir, oui... Et j'ai été ravi de l'aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Nous sommes allés à la rivière l'autre soir pour passer du bon temps ensemble. Mais nous n'étions pas seuls. Un ogre, plus grand que ceux des contes de Winfrith, a surgi de la forêt, et nous étions tellement absorbés l'un par l'autre que nous ne l'avons pas entendu arriver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Il a attrapé Aelys et, le temps que je relève mon pantalon, ils avaient disparu dans la nuit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Rumbald a parlé d'un ogre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Pourquoi n'avez-vous rien dit à son père ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Alors vous l'avez abandonnée ? Lâche !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Les gardes de sa Seigneurie ont enfoncé suffisamment de portes pour trouver la fille. Je n'ai pas très envie qu'ils me fracassent le crâne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Il vous jauge. "Elle est peut-être encore en vie. Je ne suis pas de taille pour me lancer à sa poursuite, mais Harond semble prêt à offrir une récompense à celui qui la retrouvera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Il se gratte la joue. Ses doigts sont tachés de teinture rouge et jaune. "Des gens ont vu l'ogre à l'est de la ville. Il a volé la plupart des cochons de Rumbald l'autre jour. Si quelqu'un le trouvait, tout le monde serait ravi à Dyrford."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Korgrak a juré qu'il n'avait jamais vu Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Il bredouille. "Kor-... l'ogre ? Ce monstre a un nom ?" Il s'esclaffe. "Je me demande ce qui est le plus drôle. Que vous appeliez le monstre par son nom ou que vous veniez me le dire." Il soulève sa hache. "En tout cas, j'en ai assez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Il ne parle plus que de ça depuis que ses cochons ont disparu. Tout le village a peur de ce monstre. Les gens voient des ombres passer devant leurs fenêtres la nuit, entendent des grognements dans les ronflements de leur mari ou de leur femme. Tout le monde serait soulagé si quelqu'un nous en débarrassait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Son sourire s'élargit. "C'est une façon de voir les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Et qu'est-ce que vous vouliez que je fasse ? Que je poursuive l'ogre armé de mon malheureux sceptre ? On aurait été bien avancés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ne vous approchez pas de chez moi. Et c'est valable pour vous comme pour les lèche-bottes d'Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je comprends pourquoi vous avez gardé ça pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je n'en suis pas fier, mais c'est comme ça que ça s'est passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ne le prenez pas mal, mais cette boutique empeste. J'ai du mal à croire que la fille d'un seigneur se soit enfuie dans les bois avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Trygil fronce les sourcils. "Et comment voulez-vous que je le prenne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je ne voulais pas vous vexer. J'essaie juste de la retrouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Racontez-moi ce qui s'est passé, exactement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Crachez à ses pieds.] "Un mot de plus et ce sera le dernier que vous prononcerez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"J'ai une lettre qui fait référence à un temple secret. Elle est pleine de taches de teinture et signée "T"... Ça vous dit quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je me demandais ce qui était arrivé à mon... collègue. Merci de m'avoir rapporté ça. Vous m'épargnez bien des ennuis." Il lève sa hache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Il soupire et lève sa hache. "J'espérais ne pas devoir en arriver là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Qu'est-ce que vous... Par les yeux d'Effigy ! Sabhan, arrêtez-le !" Il lève sa hache, les yeux fous de rage.</DefaultText>
+      <FemaleText>"Qu'est-ce que vous... Par les yeux d'Effigy ! Sabhan, arrêtez-la !" Il lève sa hache, les yeux fous de rage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Il plisse les yeux. "Je vous l'ai dit, l'ogre s'est volatilisé avec elle. Il l'a sans doute emmenée dans son repaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je ne le répéterai pas, ni à vous ni aux lécheurs de bottes d'un noble." Il essuie ses mains tachées de teinture sur son pantalon et se remet au travail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Trygil lève sa hache. "C'est ce qu'on verra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"J'ai trouvé le repaire de l'ogre, mais il n'y avait aucune trace d'Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Aelys était enceinte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"La jeune femme a été intoxiquée par votre... présence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vraiment ? Voilà qui expliquerait beaucoup de choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il rit. "Vos flatteries n'ont aucun effet sur moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>La main de Trygil se pose sur sa hache. "Attention ! C'est bien la première fois que j'entends un orlan se plaindre de l'odeur de quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Il racle le pigment rouge incrusté sous ses ongles. "Je m'aventure parfois dans la campagne. Je recueille des ingrédients pour mes teintures, si vous voulez savoir. J'ai vu des traces à l'est d'ici, près de la rivière. C'était sûrement ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Qu'y a-t-il dans la tour en ruine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Elle est en ruine. Il n'y a rien." Il lève les yeux au ciel et hausse les épaules. "Quelques peaux étendues sur des étagères et du suif puant au sujet duquel Dengler n'arrête pas de ronchonner. Le reste du donjon n'est plus qu'un amas de poussière, comme cette dame thaynu qui a essayé de s'en emparer. Il y a une barde à l'auberge qui vous racontera toute l'histoire si ça vous intéresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Avez-vous vu Nyfre, une orlane de la Baie du défi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je me fais un devoir de ne pas m'occuper des affaires des autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Elle vous a vu parler tous les deux. De quoi s'agissait-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Trygil fronce les sourcils. "Apprenez à tenir votre langue ! Comment voulez-vous que je le prenne, étranger ?"</DefaultText>
+      <FemaleText>Trygil fronce les sourcils. "Apprenez à tenir votre langue ! Comment voulez-vous que je le prenne, étrangère ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Un homme robuste et large d'épaules s'essuie les mains sur son pantalon. Il dégage une odeur nauséabonde, la même que celle qui émane des cuves, et ses bras sont couverts de teinture.
+
+Il regarde vos mains calleuses et acquiesce. "Vous êtes marchand, n'est-ce pas ? Je regrette de vous dire que vous ne trouverez pas beaucoup de travail ici."</DefaultText>
+      <FemaleText>Un homme robuste et large d'épaules s'essuie les mains sur son pantalon. Il dégage une odeur nauséabonde, la même que celle qui émane des cuves, et ses bras sont couverts de teinture.
+
+Il regarde vos mains calleuses et acquiesce. "Vous êtes marchande, n'est-ce pas ? Je regrette de vous dire que vous ne trouverez pas beaucoup de travail ici."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

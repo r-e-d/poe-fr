@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_wymund</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>75</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme imposant au cou de taureau et encapuchonné aide une jeune elfe à se diriger dans une pièce en verre reliée à un nombre impressionnant de câbles et de machines. Sa peau et ses vêtements sont maculés de sang frais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"La transfusion se passera mieux si vous vous détendez et vous reposez. L'essence implantée a déjà atteint votre cerveau et essayez de lutter sera inutile." Il se retourne vers vous et vous lance un regard froid. "Et j'espère que notre nouveau visiteur ne viendra pas compliquer les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Qu'est-ce qui se passe ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Vous avez rempli son cerveau de l'essence de cette étrange mare de sang, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous n'êtes pas en mesure de comprendre ce que je fais. Ni les rituels de Skaen ni l'animancie ne suscitent l'approbation auprès des braves gens." De sa grosse main ensanglantée, il prend une mèche de cheveux de la jeune femme. "Mais la laideur rappelle aux braves gens qu'il y a des limites. Quand personne ne se soucie des excès et des mœurs d'un seigneur, vous leur offrez quelque chose dont ils ne peuvent détourner le regard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>La fille sanglote dans sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je n'ai pas l'intention de tuer Nestor Harond. Je veux juste mettre un terme à son horrible lignée. Son nom sera maudit auprès des étrangers. Les exploits de sa maison seront éclipsés par sa ruine. En entendant son nom, l'ennemi frissonnera de pitié et les membres de sa famille qui lui survivront renonceront à leur fortune dans l'espoir de ne plus être associés à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Subversion. La brebis galeuse de la justice."
+
+"N'avez-vous pas entendu le récit des malheurs du seigneur Harond sur sa fille portée disparue et un éventuel mariage ? Il a envoyé ses soldats fouiller le village et attend son heure à l'auberge de Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Gardien, ne laissez pas cette fille et son enfant alimenter une quelconque vengeance. Permettez-moi d'entrer en contact avec son esprit pour que je la libère de ce piège et des souvenirs qui l'emprisonnent."</DefaultText>
+      <FemaleText>"Gardienne, ne laissez pas cette fille et son enfant alimenter une quelconque vengeance. Permettez-moi d'entrer en contact avec son esprit pour que je la libère de ce piège et des souvenirs qui l'emprisonnent."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Débarrassez l'esprit d'Aelys de l'essence vindicative.] "Je libérerai Aelys de son emprise, tout comme je la libérerai la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Allez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Faites-le. Si vous voulez détruire la famille Harond, je vous en empêcherai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vous avez rejoint Aelys et cherchez les crevasses sombres de son esprit. L'essence d'une centaine d'âmes rancunières obscurcit son esprit et vous l'en débarrassez du mieux que vous pouvez... En enlevant les horribles souvenirs auxquels elles sont liées. La tache est rude et certaines âmes s'en prennent à votre esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Des dizaines de voix manifestent leur colère et leur désespoir. Vous vous hâtez, extirpant les pensées et les images d'un homme qu'Aelys considérait autrefois comme un membre de sa famille. En lutte avec cette mémoire enchevêtrée, laissant certaines bribes flotter, puis se dissiper, vous entendez les sanglots d'une fille esseulée et apeurée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Elle se calme. Elle s'essuie la joue d'un revers de main, ravalant ses dernières larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Allez. Tout va bien se passer maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Nous n'avons rien d'autre à ajouter. Il vaut mieux en savoir le moins possible l'un de l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Non. Je vais résoudre cela d'une autre manière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>La Mère en deuil penche la tête. "Merci, Gardien."
+
+Vous la sentez approcher, persévérante mais douce. Aelys ne bouge pas, mais la Mère en deuil tremble et les lieux qui l'entourent résonnent du son des carillons.
+
+Enfin, à bout de souffle, elle s'effondre. La pression gronde dans son esprit.</DefaultText>
+      <FemaleText>La Mère en deuil penche la tête. "Merci, Gardienne."
+
+Vous la sentez approcher, persévérante mais douce. Aelys ne bouge pas, mais la Mère en deuil tremble et les lieux qui l'entourent résonnent du son des carillons.
+
+Enfin, à bout de souffle, elle s'effondre. La pression gronde dans son esprit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Pendant un court instant, Aelys ferme les yeux. Puis les rouvre, sans expression. Mais en voyant la scène, vous, Wymund, et la machine de cette étrange et sombre pièce, sa confusion se transforme en peur. Elle étouffe un cri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je vous en prie, ne faites pas cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Il blasphème et se retourne vers les autres fidèles. "Tuez-les. Tuez-les tous. Si elle ne peut tuer Harond, nous pouvons l'utiliser pour mettre fin à son héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Qu'est-ce que tout cela ? Ne me dites pas que vous avez pitié d'Harond. La fille était déjà son esclave. Elle va bientôt s'en libérer et cela profitera à tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Wymund sursaut alors qu'Aelys s'écroule. "Par les yeux d'Effigy, vous rendez-vous compte de ce que vous avez fait ? Elle était condamnée de toute façon, mais quand même..." Vous allez le payer, même si ce n'est pas le cas d'Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Calmez-vous. Je partage le joug de l'Esclave tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Dites-moi comment alléger le fardeau de l'Esclave tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>L'homme cagoulé vous examine lentement. "Il a de subtiles manières, en effet. J'ai ajouté une pointe d'animancie au rituel d'Effigy pour le rendre plus... prévisible. La fille retournera au village et poursuivra son voyage avec Harond..." ll dresse la tête et la capuche bouge. "Je doute que vous sachiez ce qui s'est vraiment passé, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Il acquiesce. "Retournez à Dyrford et veillez à ce que Harond poursuive sa route avec elle. Aucun d'entre nous n'assistera à la vengeance d'Aelys, mais si tout se passe comme prévu, tout Dyrwood en entendra parler." Il pousse du coude Aelys vers l'avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Laissez Aelys partir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Approchez-vous d'Aelys et tordez-lui le cou.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Un homme imposant au cou de taureau et cagoulé regarde une jeune femme hébétée située devant lui. Il vous voit entrer. Dans un soupire, il se retourne vers la fille et rompt le cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>ll dresse la tête et la capuche bouge. "Et cela ferait de vous un animancien. Voire davantage." Quoi qu'il en soit, quelque chose qui nous dépasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"De quoi est-ce que vous parlez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Aelys Harond attend un enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Les gens du coin soupçonnent le seigneur Lord Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"La décence est parfois curieuse. La plupart des gens sont prêts à voir d'horribles choses, mais pas à se salir les mains pour tenter d'y remédier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Harond a dit qu'il l'emmenait au Refuge d'Eina pour trouver un mari, mais son histoire n'était pas vraiment cohérente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Et à votre ton, je comprends que vous ne savez pas dans quelles circonstances cet enfant a été conçu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Vous avez mené votre enquête, non ? La plupart des gens ne veulent rien savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"La femme d'Harond n'a elle-même mis au monde que des sans-âme. Il n'a pas d'héritier et la fille de sa sœur, Aelys, sera bientôt en âge de se marier. Si Harond n'a pas de descendant, c'est elle qui héritera de lui. Alors il a trouvé un moyen de perpétuer sa noble lignée. En faisant un enfant à cette fille, sa propre nièce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vous n'étiez pas obligé d'avoir recours à la violence. Quelqu'un aurait aidé Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Mais personne n'a rien fait. Ni cet aubergiste qui a empoché l'argent de sa Seigneurie. Ni les domestiques d'Harond qui devaient être au courant. Ni même sa femme, la tante de la pauvre petite. Ce genre de chose ne se produit que parce que les gens laissent faire. Voilà la vérité que les gens "biens" ne veulent pas voir. L'excès est parfois nécessaire pour combattre des hommes comme Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"N'aurait-il pas pu avoir recours à un autre moyen pour avoir un enfant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Et l'animancie fait partie de votre plan pour le détruire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Pas s'il voulait un héritier bien né. Et même s'il avait trouvé un moyen de se débarrasser de sa femme, quelle famille aurait accordé la main de sa fille fertile à un tel homme ? Vous voyez à quoi mènent ces histoires de filiation ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Il ne s'agit pas seulement d'Harond ou de la fille. Il s'agit de l'influence néfaste du pouvoir et de la richesse. De la façon dont les privilégiés, comme Harond, se croient à l'abri des conséquences de leurs actes. L'essence même de dizaines d'esclaves et de sous-fifres maltraités prend déjà racine dans son esprit. Lorsqu'elle en sera imprégnée, je la pousserai à assassiner son oncle, sa tante et tous les imbéciles qui se mettront en travers de sa route. Les gens ne pourront alors plus détourner les yeux des péchés d'Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"C'est déjà fait. L'essence est à l'œuvre dans son esprit." Il lui donne un coup de coude pour la faire avancer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Elle hésite un instant, semblant retrouver l'équilibre. Elle se dirige vers la porte, séchant déjà ses larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je devrais vous remercier d'avoir tué le vieil homme, mais j'ai passé des semaines à me préparer pour rien." Il regarde le corps immobile à ses pieds. "Les gens croiront que Nestor Harond a été assassiné par un brigand à Dyrford. Ils ne sauront pas qu'il avait mis sa propre nièce enceinte pour se donner un noble héritier." Il se tourne vers les autres silhouettes cagoulées. "Tuez-le."</DefaultText>
+      <FemaleText>"Je devrais vous remercier d'avoir tué le vieil homme, mais j'ai passé des semaines à me préparer pour rien." Il regarde le corps immobile à ses pieds. "Les gens croiront que Nestor Harond a été assassiné par un brigand à Dyrford. Ils ne sauront pas qu'il avait mis sa propre nièce enceinte pour se donner un noble héritier." Il se tourne vers les autres silhouettes cagoulées. "Tuez-la."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Il marque une pause. Vous percevez un sourire dans sa voix. "Le récit de votre périple sanglant est même parvenu jusqu'à moi. Vous, plus que quiconque, êtes en mesure de comprendre ce que je fais. Les braves gens désapprouvent vos excès autant que mon animancie et mes rituels skaenites." D'une large main tachée de sang, il attrape une mèche de cheveux de la jeune femme. "Mais la laideur rappelle aux braves gens qu'il y a des limites. Quand personne ne se soucie des excès et des mœurs d'un seigneur, vous leur offrez quelque chose dont ils ne peuvent détourner le regard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Vous percevez un sourire de mépris dans sa voix. Vous n'êtes pas en mesure de comprendre ce que je fais. Vos épaules droites et vos mains douces trahissent vos privilèges. Ni les rituels de Skaen ni l'animancie ne suscitent l'approbation auprès des braves gens." De sa grosse main ensanglantée, il prend une mèche de cheveux de la jeune femme. Mais la laideur rappelle aux braves gens qu'il y a des limites. Quand personne ne se soucie des excès et des mœurs d'un seigneur, vous leur offrez quelque chose dont ils ne peuvent détourner le regard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Il marque une pause. Vous percevez un sourire dans sa voix. "Vous, plus que quiconque, êtes en mesure de comprendre ce que je fais. J'ignore qui vous êtes, mais je lis du mécontentement sur votre visage. Les braves gens désapprouvent votre lutte et vos idéaux autant que mon animancie et mes rituels skaenites." D'une large main tachée de sang, il attrape une mèche de cheveux de la jeune femme. Mais la laideur rappelle aux braves gens qu'il y a des limites. Quand personne ne se soucie des excès et des mœurs d'un seigneur, vous leur offrez quelque chose dont ils ne peuvent détourner le regard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Bank Node 119</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Hah ! Laissez à Skaen le soin d'en faire autant pour éviter toute confrontation. Comment ce seigneur apprendra-t-il s'il n'est pas directement puni ?"
+
+"Occupez-vous de ce seigneur. Et ne le ménagez pas. Faites en sorte qu'il comprenne pourquoi il doit souffrir. Ce n'est qu'alors que vous pourrez remédier au problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Cela semble laborieux quand on sait qu'une foule pourrait se charger de le lyncher. Ces gens ne sont pas bons à grand-chose, mais les lynchages, ils connaissent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Il regarde la jeune femme. "Le seigneur Harond dit à qui veut l'entendre qu'il s'agit de sa fille. Il l'a emmenée jusqu'ici pour éviter qu'on la reconnaisse."
+
+"Mais c'est sa nièce et elle porte son enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Bank Node 126</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Cette crise a apporté bien du mal... au point de faire porter à une fille un enfant de son propre sang. Impensable !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Les yeux de Sagani ressemblent à des orbes blancs et contrastent avec son visage coloré. "Son propre parent ?" Sa voix se calme. "Je sais comment je vais gérer cette affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Pallegina se retrousse de mépris. "S'attaquer à une jeune femme. De sa propre famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Le même sang coule dans leurs veines ? Je n'ai jamais rien entendu de pire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Mais pourquoi ferait-il une chose pareille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Vous me faites marcher ? C'est horrible !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je tuerai ce monstre de mes propres mains dès mon retour en ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Quoi ? Cela me semble un peu... tiré par les cheveux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Voilà à quoi mène une noblesse corrompue et dégénérée. Tout ça pour veiller à ce que sa fortune soit transmise à ses descendants longtemps après sa mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Vous ne ferez pas cela. Croyez-moi, j'ai déjà pris des dispositions pour qu'on s'occupe d'Harond d'une façon plus visible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Il secoue la tête. "C'est facile de refuser d'y croire. C'est facile de détourner les yeux d'une chose aussi laide en refusant de s'interroger sur ce qu'on a vu. C'est comme ça qu'il s'en est sorti jusqu'à présent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Pourquoi ferait-il une chose pareille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Je suppose que c'est de là que vient cette marre de sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Il acquiesce doucement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Les âmes déracinées se tournent vers vous, mais vous ne vous arrêtez pas avant d'avoir coupé le dernier fil. Vous reprenez vos esprits et partez. Vous ressentez également les effets de vos efforts. Vous avez très mal à la tête, et au moindre mouvement, la douleur vous étourdit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Je n'ai pas l'intention de tuer Nestor Harond. Je veux juste mettre un terme à son horrible lignée. Son nom sera maudit auprès des étrangers. Les exploits de sa maison seront éclipsés par sa ruine. En entendant son nom, l'ennemi frissonnera de pitié et les membres de sa famille qui lui survivront renonceront à leur fortune dans l'espoir de ne plus être associés à lui."
+
+Il vous regarde. "Vous faites preuve d'impulsivité. D'obstination. Mais miséricorde et vengeance ne font pas bon ménage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Vous ressentirez peut-être une sorte d'étourdissement pendant une heure ou deux, mais cela passera. De retour en ville, mangez et reposez-vous. La transfusion..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ma patience a des limites."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_male_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je me demande s'ils arriveront un jour à faire marcher ce phare à nouveau..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Si vous cherchez du travail, Wenan dans le Hall d'expédition pourrait avoir quelque chose pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Il y a tant de mercenaires dans la ville ces jours-ci... c'est un peu effrayant, en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Si les Chevaliers du Creuset ne peuvent se défendre eux-mêmes, comment peuvent-ils nous protéger ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Le vieux Dalton a généralement beaucoup d'histoires à raconter. Il est plutôt silencieux en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

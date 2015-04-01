@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_rhemen_gorge_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Quelques motifs simples ont été gravés dans la pierre. Une petite empreinte marque le centre, entourée d'un plus grand cercle. Au-dessus des deux cercles, vous remarquez ce qui ressemble à des écritures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Regardez l'empreinte circulaire.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examinez le cercle extérieur.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Placez le disque d'adra dans l'empreinte.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Plusieurs motifs ont été sculptés le long du cercle extérieur. Bien qu'ils soient à peine visibles, vous distinguez un croissant au-dessus du centre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'empreinte est relativement superficielle, mais semble en parfaite adéquation avec le disque d'adra récupéré auprès des Massacreurs de géants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>La pierre est stable et vous sentez de l'air se faufiler dans les minuscules orifices de l'empreinte. Elle semble parfaitement en place maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>L'empreinte est superficielle et lisse. Elle semble avoir été créée pour accueillir quelque chose de précis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Examinez ce qui est écrit.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Les caractères vous sont totalement étrangers et ressemblent à une langue tombée dans l'oubli depuis des lustres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Les runes incurvées et déformées vous sont curieusement familières. Il s'agit d'un ancien dialecte engwithan. Elles disent ce qui suit :
+
+"Tout prend fin dans l'unique but de renaître. Le crépuscule offre à chacun de nous une aube nouvelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>La pierre s'emboîte dans l'empreinte, mais finit par tomber à défaut d'être maintenue en place. Vous avez l'impression que quelque chose vous échappe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous entendez une pierre glisser sous vos pieds, puis de l'eau s'écouler à grands flots. La flaque située devant vous commence à se résorber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Attendez un moment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Les rayons du soleil mettent en lumière un motif sur le sol. Vous vous agenouillez pour l'examiner de plus près.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>La lumière des étoiles révèle un motif sur le sol. Vous vous agenouillez pour l'examiner de plus près.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous attendez quelques heures et observez les étoiles scintiller dans le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous attendez quelques heures et observez le soleil se déplacer dans le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

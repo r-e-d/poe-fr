@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_food_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bonjour, sire. Puis-je vous intéresser par quelques nouvelles recettes ou des ingrédients ? Quelque chose pour, hum, épicer le long voyage à venir ?"</DefaultText>
+      <FemaleText>"Bonjour, madame. Puis-je vous intéresser par quelques nouvelles recettes ou des ingrédients ? Quelque chose pour, hum, épicer le long voyage à venir ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bonjour, sire. Voulez-vous jeter un œil au nouveau stock ?"</DefaultText>
+      <FemaleText>"Bonjour, madame. Voulez-vous jeter un œil au nouveau stock ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je voudrais voir vos marchandises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous trouverez quelque chose même pour le plus exigeant des palais."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

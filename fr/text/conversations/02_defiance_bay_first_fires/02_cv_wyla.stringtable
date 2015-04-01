@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_wyla</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Le regard de la justicière se porte brièvement sur vous avant de revenir sur les novices rassemblés dans la zone d'entraînement.
+
+"S'il s'agit de patrouilles, mes novices font déjà le maximum. Entre l'afflux de réfugiés et la situation chaotique qui règne à la Colline de l'Héritage, je n'ai plus aucune unité de disponible."
+
+Après une pause, son regard se porte à nouveau sur vous. "Je suis désolée. Y a-t-il autre chose que je puisse faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Quelque chose ne va pas à la Colline de l'Héritage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Elle baisse la voix. "Qu'est-ce qui va, voilà la vraie question. Des hordes de cadavres cannibales y déambulent. Nous avons bouclé la zone il y a deux mois, juste après la mort de l'un de mes meilleurs commandants. Et pourtant c'est la deuxième rotation de gardes à disparaître.
+
+"Les rumeurs vont bon train au donjon... Sans parler des soldats qui s'interrogent sur ces... disparitions." Elle secoue la tête. "Je n'aurais pas hésité à abandonner les lieux, mais si ces monstres réussissent à s'en échapper..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je pourrais enquêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Elle recule et vous regarde. "Alors, c'est de vous dont parlent mes novices.
+
+"J'accepte volontiers votre aide. Surtout au vu de vos... exploits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Elle regarde posément les novices. "Je ne peux plus me permettre de perdre des soldats dans de telles circonstances. Pas avec tous ces réfugiés qui affluent en ville et ces Douzaines en quête de dissidence.
+
+"J'aurais tendance à dire qu'il s'agit d'une affaire interne, mais je n'ai pas les moyens d'organiser une expédition pour le moment. Et encore moins de provoquer une crise de confiance au donjon du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je vous autorise à rejoindre la Colline de l'Héritage. Je vais en informer les gardes postés à l'entrée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Elle recule et vous regarde. "Alors, c'est de vous dont parlent mes novices.
+
+"J'accepte volontiers votre aide. D'après ce que je sais, vous ne reculez devant rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Elle recule et vous regarde. "Après ce que je vous ai dit, vous êtes toujours d'accord pour aller à la Colline de l'Héritage ? J'y ai perdu des soldats aguerris. Pourquoi devrais-je laisser quelqu'un y aller ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Si des gens disparaissent, il va bien falloir découvrir ce qui leur arrive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Si la mort ne vous fait pas peur, je ne vous en empêcherai pas." Elle regarde posément les novices. "Et si vous êtes capable d'y mettre un terme..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous n'avez rien à perdre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vos chevaliers 'aguerris' ne savent rien de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Visiblement, vous auriez bien besoin d'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Que risquez-vous à me laisser essayer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Parlez-moi de la Colline de l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"C'était autrefois l'un des lieux les plus prestigieux de la Baie du défi, mais depuis quelques mois, tous ses habitants ont sombré dans la folie. Ils se sont livrés à des actes de cannibalisme, s'en prenant les uns aux autres et à tous les malheureux s'aventurant dans le coin. Je n'ai jamais rien vu de tel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Désormais, tous les novices qui y montent la garde, enfin ceux qui en reviennent, parlent de la puanteur qui y règne et des indicibles horreurs qui y sont perpétuées."
+
+Elle lève un doigt gantelé. "Je laisse le pourquoi et le comment aux animanciens. J'ai bouclé la région dans l'espoir de contenir ce qui s'y passe. Et cela semble fonctionner. Pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je m'occupe des novices du donjon. Je suis chargée de les entraîner et de leur attribuer des patrouilles." Elle désigne le groupe rassemblé dans la salle d'entraînement. "Ce sont de bons soldats et ils s'adaptent rapidement aux nouveaux défis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Faites vite, je vous en prie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tout à l'heure, vous avez dit que quelque chose ne tournait pas rond à la Colline de l'Héritage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Des nouvelles de la Colline de l'Héritage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vos gardes ont été charmés par l'esprit d'une certaine Leyra. Je m'en suis débarrassé."</DefaultText>
+      <FemaleText>"Vos gardes ont été charmés par l'esprit d'une certaine Leyra. Je m'en suis débarrassée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ses yeux fatigués s'arrondissent. "Par la flamme, vous l'avez trouvée ? Mon commandant disparu ?"
+
+Elle pousse un soupire et son regard se perd sur les carreaux du sol. "Et elle appelait à la garde depuis la tombe ? C'est insensé. Rien ne va plus dans cette région.
+
+"Qu'est-il arrivé aux soldats qu'elle a charmés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous voulez dire après qu'ils soient sortis de cette tombe ? Probablement des tas de choses dont ils ne se souviendront pas au petit matin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ils sont saints et saufs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ils s'en sont tous sortis ?" Son incrédulité est teintée de joie. "Cela va être la fête au donjon ce soir, j'en suis certaine."
+
+"Merci pour votre aide. Vos réponses suscitent bien des questions, mais au moins, je sais ce qui est arrivé à mes troupes. Et au commandant Leyra."
+
+"Je vous en prie, acceptez ceci en témoignage de ma reconnaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vos chevaliers ont fait preuve de courage, mais tous ne sont pas revenus. Pardon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je n'ai pas réussi à tous les sauver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Malgré tout, cela encouragera mes soldats de voir quelqu'un revenir de cette région abandonnée."
+
+"Merci pour votre aide. Vos réponses suscitent bien des questions, mais au moins, je sais ce qui est arrivé à mes troupes. Et au commandant Leyra."
+
+"Je vous en prie, acceptez ceci en témoignage de ma reconnaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Tous vos chevaliers sont morts. Tachez de mieux les entraîner la prochaine fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ils ne s'en sont pas sortis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je vois. Merci quand même pour votre aide. Vos réponses suscitent bien des questions, mais au moins, je sais ce qui est arrivé à mes troupes. Et au commandant Leyra."
+
+"Je vous en prie, acceptez ceci en témoignage de ma reconnaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je continue de chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Venez me voir dès que vous aurez quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Elle sourit. "Mais que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nous devons nous occuper de la Colline de l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Si c'est tout, je dois reprendre mon travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je ne comprends pas. Ces crétins envisagent-ils vraiment de patrouiller la ville ?"
+
+Elle a le regard distant et vide. "Ce n'était pas une bataille. Mais un massacre."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

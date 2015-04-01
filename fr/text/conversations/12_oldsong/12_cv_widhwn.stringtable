@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_widhwn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme maigre en guenilles attend sur la barge, appuyé à la rame. Un sourire chaleureux se dessine sur son visage buriné. 
+
+"Cela faisait longtemps qu'aucun étranger n'avait cherché à se rendre sur l'Île des sépultures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Faites-moi traverser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qu'est-ce que cette Île des sépultures ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Est-ce dangereux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"C'est un lieu sacré qui abrite les grandes œuvres des Bâtisseurs. Nos ancêtres et tous nos Anamfatha y sont enterrés. Peu de gens s'y rendent, mon ami. Ce n'est pas un lieu pour les vivants."</DefaultText>
+      <FemaleText>"C'est un lieu sacré qui abrite les grandes œuvres des Bâtisseurs. Nos ancêtres et tous nos Anamfatha y sont enterrés. Peu de gens s'y rendent, mon amie. Ce n'est pas un lieu pour les vivants."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Dorvhal vous salue avec le même sourire tranquille. "Avez-vous terminé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dorvhal acquiesce. "D'accord. Cramponnez-vous. Ces eaux sont capricieuses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dorvhal acquiesce solennellement. "Ceux que je conduis jusqu'à l'île reviennent par le même chemin, ou pas du tout. Seuls les morts y résident. Les esprits, ou plutôt les ombres, des Bâtisseurs y demeurent et veillent sur nos Anamfatha. Ils sont liés à l'île et la protègent farouchement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je suis prêt à rentrer à Oldsong."</DefaultText>
+      <FemaleText>"Je suis prête à rentrer à Oldsong."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Que savez-vous sur le temple de l'île ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Montez. Je vous ramène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Le visage ridé de Dorvhal se tourne vers l'île, puis vers vous. "Il s'agit de la Cour des pénitents. C'est un lieu à la fois redouté et respecté. Car si les dieux doivent parfois être craints, on leur doit toujours obéissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

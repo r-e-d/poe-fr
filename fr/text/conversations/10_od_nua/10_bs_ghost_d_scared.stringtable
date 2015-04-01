@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\10_bs_ghost_d_scared</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Eh oh ? Il y a quelqu'un ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oh, par tous les dieux, je... je ne vois rien..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je ne m'entends pas. Comment pourrais-je lui parler ? Pitié, il n'y a rien ici !"</DefaultText>
+      <FemaleText>"Je ne m'entends pas. Comment pourrais-je lui parler ? Pitié, il n'y a rien ici !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Pitié... Sortirai-je un jour de cet endroit ?" Vous entendez un sanglot. "R... Rebroussez chemin ! N'allez pas plus loin ! Les dieux ne peuvent pas nous atteindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je suis là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je lui ai dit. Je lui ai dit. Pitié, pitié, laissez-moi sortir. Laissez-moi sortir. Laissez-moi sortir !"</DefaultText>
+      <FemaleText>"Je lui ai dit. Je lui ai dit. Pitié, pitié, laissez-moi sortir. Laissez-moi sortir. Laissez-moi sortir !"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

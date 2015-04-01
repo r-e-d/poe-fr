@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_aufra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>113</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bon, finalement, je commençais à penser-" La femme exprime sa surprise lorsqu'elle se tourne et vous aperçoit. "Oh ! Excusez-moi, je m'attendais à quelqu'un d'autre." Elle vous fait un sourire prudent. "Puis-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bonjour. Vous vouliez quelque chose ?" Elle vous gratifie d'un large sourire, quoique troublé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Merci encore pour tout ce que vous avez fait. Nous sommes en sécurité maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'espère que Ranga sera d'accord pour vous aider. Je ne sais honnêtement pas quoi faire d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous étiez parti depuis un certain temps. Je me demandais si vous alliez revenir. C'est bien cela ? Vous l'avez rapporté ?" Aufra vous regarde avec beaucoup d'espoir. "Qu'a dit Ranga ?"</DefaultText>
+      <FemaleText>"Vous étiez partie depuis un certain temps. Je me demandais si vous alliez revenir. C'est bien cela ? Vous l'avez rapporté ?" Aufra vous regarde avec beaucoup d'espoir. "Qu'a dit Ranga ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"À qui vous attendiez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Partez.] "Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ma sœur, Calisca, voyage avec l'une des caravanes. Elle a envoyé une lettre avant de venir. Elle disait qu'elle allait payer son voyage en travaillant comme garde pour le maître de la caravane. Elle a toujours été forte." Elle fait une pause. "Je suppose que vous ne l'avez pas vue sur la route? Ou la caravane, peut-être ? Celle de Maître Odema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Calisca n'y est pas arrivé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Partez.] "Désolé, non. J'y vais maintenant."</DefaultText>
+      <FemaleText>[Partez.] "Désolée, non. J'y vais maintenant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Si seulement je ne l'avais pas appelée ici... si je ne lui avais pas écrit. Elle serait peut-être encore en vie, quelque part." Le visage d'Aufra se déforme, et une larme solitaire coule le long de sa joue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Pourquoi êtes-vous venu chercher Calisca ?"</DefaultText>
+      <FemaleText>"Pourquoi êtes-vous venue chercher Calisca ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"J'espérais que Calisca puisse m'aider. Ils disent que Ranga, l'ancienne sage-femme, connaît un moyen d'empêcher la naissance d'un sans-âme. Mais elle a déménagé au sud vers la Boussole d'Anslög il y a deux saisons. Le voyage serait trop long pour moi. Je ne pourrais pas y arriver tel quel. Mais je n'ai personne d'autre, maintenant que Calisca est partie." D'autres larmes coulent sur son visage. "Je vous en prie... m'aideriez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je retrouverai Ranga pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'y penserai si je passe par là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Partez.] "Je vous laisse avec votre chagrin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh, vous êtes de retour." Aufra s'essuie rapidement les joues humectées avec un mouchoir, essayant de retrouver une contenance. "Qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oui, je l'ai. Voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Partez.] "Je ne l'ai pas encore. Je reviendrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pourriez-vous me dire quelques mots sur la Vallée dorée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Partez.] "Je vais y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Aufra cligne des yeux grand ouverts. "Vous le ferez ? Oh, que dieu vous bénisse. Tenez, prenez de l'argent pour la payer. Il ne fallait pas vous inquiéter pour cela. Je pense que c'est une boisson qu'elle concocte avec... enfin, je ne sais pas vraiment. Mais cela ne devrait pas être trop encombrant à rapporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous avez réellement réussi. Oh, soyez béni. Soyez béni ! Je ne sais pas ce que j'aurais fait sans vous. Mon bébé sera maintenant en sécurité." Aufra vous regarde, rayonnante. "Je ne peux assez vous remercier."</DefaultText>
+      <FemaleText>"Vous avez réellement réussi. Oh, soyez bénie. Soyez bénie ! Je ne sais pas ce que j'aurais fait sans vous. Mon bébé sera maintenant en sécurité." Aufra vous regarde, rayonnante. "Je ne peux assez vous remercier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Attendez - Vous devez savoir quelque chose concernant cette potion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Heureux de pouvoir aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mais c'est..." Le bonheur d'Aufra s'évanouit rapidement. "Mais tout le monde disait..." Elle regarde ailleurs. "J'aurais dû le savoir. J'ai été si stupide. Comment ai-je pu penser - je suis désolée. Je vous ai fait perdre votre temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous ne savez pas que votre enfant va vivre le même destin. Il vaut peut-être mieux laisser le sort décider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'attends toujours d'être payé."</DefaultText>
+      <FemaleText>"J'attends toujours d'être payée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"J'ai pu voir l'océan, ce n'était pas si mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je peux certainement essayer. Que voudriez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Qu'y a-t-il d'autre à faire... ?" Un sans-âme signifie que nous allons mourir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Aufra prend une longue respiration. "Vous avez raison. Je... je ne devrais pas employer de telles manières. Il doit encore y avoir un autre moyen." Elle semble se dégonfler, le visage lassé. "Je ne prendrai pas la potion. Mais merci quand même pour me l'avoir apportée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Aufra semble encore une fois au bord des larmes. Elle acquiesce lentement. "Bien sûr. Merci pour le temps que vous avez pris pour aller là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Aufra reste silencieuse un long moment, le regard baissé et sur son ventre et sur le flacon. Elle redresse la tête pour essuyer une larme. "C'est ma faute d'y avoir cru. Merci de m'avoir dit la vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Qu'est-ce que vous voulez de plus ? Vous vanter ? Sortez immédiatement de ma maison !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je ne pense pas que Ranga vous aidera de sitôt, vu que je l'ai tuée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Aufra est saisie d'effroi. "Vous quoi ? Quelle raison aurait pu vous pousser à faire une telle chose ?" Elle s'écarte de vous. "Misérable ! Démon au cœur noir ! Vous m'avez ôté le seul espoir que j'avais. Quittez ma maison avant que j'appelle les gardes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ranga ? L'aumaua ? La dernière fois que je l'ai vue elle étouffait dans son sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Une femme dyrwoodane se tient devant la cheminée, fredonnant un air paisible à elle-même - ou peut-être à son enfant à venir, étant visiblement enceinte. Elle tourne légèrement la tête alors que vous entrez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je viens d'arriver dans la Vallée dorée. Je pensais venir faire la connaissance des locaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Oui, c'est exact. J'ai bien peur que le reste de la caravane ait été tué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Étiez-vous avec l'une des caravanes ?" Elle vous regarde pleine d'espoir. "Celle de maître Odema, par hasard ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous connaissiez Odema ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous ne les verrez plus. J'y ai veillé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Pourquoi demandez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Aufra se couvre la bouche de la main, les yeux emplis d'effroi. Pendant quelques instants elle ne peut rien exprimer d'autre qu'un halètement étranglé et atone, les yeux débordant de larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je le savais... je lui ai dit que c'était un chemin dangereux. Calisca était toujours persuadée de pouvoir affronter n'importe quel danger." Aufra renifle. "Oh, ma pauvre sœur. Je suis désolée, étranger, j'ai juste... je n'arrive pas à croire qu'elle est partie."</DefaultText>
+      <FemaleText>"Je le savais... je lui ai dit que c'était un chemin dangereux. Calisca était toujours persuadée de pouvoir affronter n'importe quel danger." Aufra renifle. "Oh, ma pauvre sœur. Je suis désolée, étrangère, j'ai juste... je n'arrive pas à croire qu'elle est partie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Aufra vous fixe, les yeux stupéfaits d'horreur. "Vous... vous ne voulez pas dire que... ?" Elle fait un pas en arrière. "Monstre ! Vous êtes là pour vous vanter ?" Elle prend une profonde respiration, regardant la porte. "À l'aide ! Quelqu'un à moi, au secours !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Joli chat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Eh bien, je dirais pas plus que la plupart des gens ici. Il ne passe généralement pas par ici, mais on dit que c'est un type fiable." Elle fait une pause, fronçant les sourcils. "Attendez... pourquoi dites-vous «connaissiez» ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"La Boussole d'Anslög est le nom qu'on donne au lagon du sud. Vous devrez traverser les régions sauvages pour vous y rendre. C'est ce qui m'empêche d'essayer moi-même." Elle étreint ses mains. "Merci encore, sincèrement. Vous nous sauverez tous les deux." Elle pose une main sur son ventre, souriant entre les larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Je suis désolé, mais la caravane a été attaquée. Je suis le seul survivant."</DefaultText>
+      <FemaleText>"Je suis désolée, mais la caravane a été attaquée. Je suis la seule survivante."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Parce qu'il est mort. Lui et le reste de la caravane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Calisca a mentionné qu'elle pensait que vous aviez besoin d'aide. Peut-être puis-je être d'une assistance quelconque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Aufra a un sourire éclatant. "Oh, merci. C'est un amour. Elle protège également la maison contre les souris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Puis-je faire quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Aufra s'essuie les yeux. "Je m'inquiète pour le bébé. À propos de l'Héritage. J'ai dit à Calisca tout ce que je savais, que depuis longtemps maintenant, chaque enfant né dans la Vallée dorée était... sans-âme. Vide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"C'est arrivé à tant de mères. Et le seigneur Raedric, il les a tous exilés, parlant d'un signe de disgrâce des dieux." Elle renifle. "Mon Häthort parti, je ne sais pas comment je vais faire si je perds aussi ma maison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Aufra vous regarde avec surprise, avant de se tamponner le nez avec sa manche. "C'est gentil de votre part. Mais je ne sais pas si j'ai le droit de vous imposer cela. Ce n'est pas une mince faveur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je..." Aufra acquiesce, bien que son expression s'atténue. "C'est tout ce que je peux demander. Merci." Elle prend une respiration tremblante. "Je suis désolée, j'ai juste - j'ai besoin d'un peu de temps." Elle se retourne, se couvrant le visage avec les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Vous vivez seule ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Où avez-vous dit que la boussole d'Anslög se trouvait, déjà ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Oh, au sud d'ici, après les terres sauvages." Aufra vous regarde avec espoir. "Si vous vouliez bien y accéder... pourriez-vous peut-être parler à Ranga pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Aufra acquiesce solennellement. "Oui. C'était mon mari et moi pendant de nombreuses années. Mon Häthort. Emporté par les bandits sur la route du sud. Que les dieux le gardent." Elle soupire, détournant le regard vers la cheminée. "Il n'est pas un jour où il ne me manque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Parlez-moi du village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"À qui sont ces terres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je n'ai plus d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Aufra acquiesce. "Y avait-il autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"J'étais avec cette caravane. J'ai bien peur que le reste de la caravane ait été tué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Laissez-moi réfléchir... Nous sommes des fermiers, mais il y a toujours eu du travail et l'opportunité pour les gens venant d'ailleurs de s'installer ici. Dans le temps, du moins. La maréchalerie du Marteau noir est installée là depuis longtemps. C'est là qu'habite Tuatanu, au sud du moulin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Et puis il y a le Chien noir, bien au sud d'ici..." Elle soupire, enchaînant. "Je dois admettre, je ne sors pas beaucoup, ou plus beaucoup. Avec ce... cet arbre horrible là dehors. Les choses ne sont plus ce qu'elles étaient. Mais je n'ai nulle part ailleurs où aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"La famille Raedric a possédé le titre de ces terres pendant des générations. Leur donjon est au nord-est d'ici, au-delà de l'Esternwood." Elle lève la main. "Je ne m'en approcherais pas, ceci dit. Il ne reçoit pas de visiteurs, ni de requérants. Pas ces temps-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Certaines personnes disent que... eh bien, que cette lignée contient de mauvaises graines. Une âme fragile. C'est peut-être la raison pour laquelle..." Elle hésite. "Peu importe. Je suis sûre que le seigneur Raedric a ses raisons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Acquiescez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Tenez, prenez cela. J'allais m'en servir pour payer Ranga, mais vous pouvez l'avoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Merci encore. Je prendrai cela avant d'aller au lit. Peut-être pourrai-je me reposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Aufra cligne des yeux, baissant le regard vers le flacon. "Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Cela ne fait pas ce à quoi vous pensez. Ranga dit que vous vous sentirez mieux, mais c'est tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Tenez, prenez cela. Vous pouvez également garder ce qui reste du paiement de Ranga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ce genre de choses pourrait vous fatiguer un peu plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Oh." Aufra rit. "Pour parler franchement, je ne crois pas que je le remarquerai. Mais merci de me prévenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Tenez, prenez cela. Vous pouvez également garder ce qui reste du paiement de Ranga. Et prenez ceci également. C'était à Häthort. Je le gardais avec moi, mais... je pense que cela vous sera plus profitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Je suppose qu'il ne me reste plus qu'à prier... peut-être que les dieux me seront favorables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Tenez, prenez cela. Et prenez ceci également. C'était à Häthort. Je le gardais avec moi, mais... je pense que cela vous sera plus profitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"C'est une longue route. Qu'ai-je à y gagner ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Je n'ai que de l'argent à vous offrir. Mais Ranga vend de nombreuses potions et autres objets. Peut-être trouverez-vous votre bonheur ? Cela justifierait le voyage." Elle renifle. "Je suis désolée, j'ai juste... Je n'ai pas grand chose. Vous pouvez vous servir dans mes vivres, si vous voulez. J'ai des fruits..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Je vous en prie, ne pleurez pas. Je peux peut-être vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Je ne fais pas la charité. Débrouillez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Je suis désolée, je pensais que... je pourrais vous payer ?" Aufra respire en tremblant et se retourne. "Mon dieu, que vais-je faire..." Elle plonge son visage dans ses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je suis désolé, cela n'a pas marché comme vous le souhaitiez."</DefaultText>
+      <FemaleText>"Je suis désolée, cela n'a pas marché comme vous le souhaitiez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Aufra lève brusquement son regard sur vous, son air est triste. Mais elle ne dit rien. Elle lève la main pour essuyer une larme et reste silencieuse pendant un long moment. "Merci de me dire la vérité," dit-elle enfin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ranga est morte. Elle ne peut pas vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Aufra vous fixe un moment avec une expression de désespoir. "Alors... alors il n'y a rien à faire." Elle pose la main sur son ventre, la tête baissée. "Je vous en prie... je... j'ai besoin d'un peu de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"La persécution en plus de la tragédie... vraiment, cette crise déchire Dyrwood fil par fil."
+
+Elle fait un geste vers Aufra mais ne la touche pas. "Si seulement nous pouvions apaiser ses peurs... au moins son ventre..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ses pensées rayonnent... elles brillent pleines d'espoir. C'est un beau présent pour quelqu'un comme elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>La Mère en deuil vous regarde, ses yeux effrayés vacillent. "Devez-vous vraiment lui retirer ce qui lui reste de confort ? Donnez-lui encore quelques mois d'espoir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Cessez vos pleurnicheries. Comment allez-vous élever cet enfant si vous êtes aussi faible ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Aufra lève le regard vers vous, stupéfaite. Pendant un moment un sentiment de colère la traverse, puis elle baisse la tête. "Je n'ai jamais été aussi forte qu'elle l'a été. Je n'aspirais qu'à une vie tranquille. Et à présent il n'y a personne pour m'aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je... je n'aurais pas pensé que vous voudriez..." Aufra se tamponne le nez avec sa manche. "Ceci dit, j'ai appris que... En fait, les gens jugent vite, c'est tout. Je suis sûre qu'ils exagéraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Oh, vous le pensez vraiment ?" Aufra vous regarde pleine d'espoir, les yeux humides. "J'ai appris que vous avez été utile en ville, mais... Il y a peu de bienveillance chez les gens ces temps-ci. Je ne pensais pas que c'était vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"J'espérais que Calisca puisse m'aider. Ils disent que Ranga, l'ancienne sage-femme, connaît un moyen d'empêcher la naissance d'un sans-âme. Mais elle a déménagé au sud vers la Boussole d’Anslög il y a deux saisons. Le voyage serait trop long pour moi. Je ne pourrais pas y arriver dans mon état..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Je vous en prie. Les voisins parlent en bien de vous. Ils disent que vous êtes un homme bien. Je n'ai personne vers qui me tourner."</DefaultText>
+      <FemaleText>"Je vous en prie. Les voisins parlent en bien de vous. Ils disent que vous êtes une femme bien. Je n'ai personne vers qui me tourner."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Bien, si je n'arrive pas à vous guider, je devrais au moins vous apporter cette cure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Payez-moi et vous avez mon serment que cela sera fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je... je n'ai pas grand chose. Je garde un peu d'argent de côté pour Ranga, mais... Bien, est-ce que cela suffirait ? Ranga vend de nombreuses potions et autres objets. Peut-être trouverez-vous votre bonheur ?" Elle renifle. "Je suis désolée. C'est vraiment tout ce que j'ai. Vous pouvez vous servir dans mes vivres, si vous voulez. J'ai des fruits..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Mais... mais vous aviez dit- !" Aufra respire en tremblant et se retourne. "Oh mon dieu. Que vais-je faire... ? Elle plonge son visage dans ses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Aufra s'essuie le visage sur sa manche. "Oui ? Qu'est-ce que c'est ? Vous n'en avez pas fait assez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Oh, vous êtes de retour. Je ne pensais pas que vous reviendriez." Aufra porte un regard misérable sur ses mains, posées en protection sur son ventre. "Qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Je vous ai apporté le remède de Ranga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Partez] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"C'est vrai ? Vous avez réussi. Vous avez réellement réussi !" Aufra vous fixe un moment, en larmes et stupéfaite. "Oh, soyez béni. Soyez béni ! Je ne sais pas quoi dire ! Je ne peux vous remercier assez."</DefaultText>
+      <FemaleText>"C'est vrai ? Vous avez réussi. Vous avez réellement réussi !" Aufra vous fixe un moment, en larmes et stupéfaite. "Oh, soyez bénie. Soyez bénie ! Je ne sais pas quoi dire ! Je ne peux vous remercier assez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je vais enfin pouvoir partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"La caravane a été attaquée et nous nous sommes échappés - mais Calisca a été prise dans un bîaŵac."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

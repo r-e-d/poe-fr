@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_flesh_construct</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La construction, un assemblage brut de chair, de cuivre et de laiton, regarde fixement les pavés en face d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bonjour ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Touchez la créature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Laissez-la tranquille.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rien n'indique si la créature vous a entendu ou compris.</DefaultText>
+      <FemaleText>Rien n'indique si la créature vous a entendue ou comprise.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>La tête de la construction tourne la tête lentement pour vous regarder. Le moment suivant, elle émet un grincement mécanique enragé... presque comme si elle vous reconnaissait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Attention !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Allons-nous en d'ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

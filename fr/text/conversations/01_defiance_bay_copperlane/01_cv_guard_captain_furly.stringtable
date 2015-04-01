@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_guard_captain_furly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bienvenue dans la Baie du défi, mais tenez-vous bien dans notre ville, compris ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que pouvez-vous me dire à propos de la Baie du défi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Désolé, mais je n'ai pas le temps pour le moment. Mais j'ai l'impression que Rowan, ce dingo des Douzaine, est encore en train de créer des problèmes." Il fait un geste de la tête en direction du portail.
+
+"Il serait trop content de vous présenter la ville. Librement teinté de propagande des Douzaines, évidemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je cherche le temple de Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous semblez être tendu. Quel est le problème ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Il se gratte la barbe. "Je me demande pourquoi vous voudriez aller là-bas." Il hausse les épaules. "C'est dans les Premiers Feux si vous voulez vraiment y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Des milliers d'entre eux, à dire vrai. Nous avons des réfugiés venant de tous les coins, mûs par l'idée fausse selon laquelle les choses sont meilleures ici. Que l'Héritage nous aurait épargnés. Alors ils se pointent sans projet ni argent et finissent par faire empirer les choses."
+
+Il vous regarde de la tête aux pieds. "Sans vouloir offenser personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Il grogne. "Et bonne chance à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

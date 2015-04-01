@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_aloth_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aloth vous regarde attentivement. "En quoi puis-je vous être utile ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Parlez-moi d'Aedyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Il vous regarde avec étonnement. "Vous avez déjà oublié votre pays natal ? Pas étonnant, vos affaires ici ont sûrement été très prenantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je suis parti depuis plus d'un an déjà, mais je crois que je ne me sentirai jamais chez moi ailleurs que dans les forêts et dans les champs d'Aedyr. Notre histoire et nos traditions millénaires développent chez nous un sens aigu de la dignité et de la responsabilité." 
+
+Il fronce les sourcils. "Mais nous avons aussi nos zones d'ombre. Notre passé impérial est encore frais dans l'esprit de beaucoup de gens, comme vous avez dû le constater ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"J'aimerais en savoir plus sur Iselmyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Il lève un sourcil. "C'est-à-dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pourrais-je lui parler directement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quand s'est-elle Réveillée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous m'avez dit qu'il y a bien longtemps que vous avez appris à la cacher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ma mère m'a appris à la cacher dès sa première manifestation. Elle craignait que les gens me rejettent s'ils apprenaient la vérité." 
+
+"Même si Iselmyr s'est révélée utile contre mon père, j'ai suivi les sages conseils de ma mère, et j'ai bien fait. Maerwald est un cas extrême, mais auquel je me réfère de plus en plus au fil des ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Mon père était un homme très strict. Il était très exigeant avec son fils unique et il ne tolérait pas l'échec." Son visage se crispe. 
+
+"Parfois, il était vraiment... inflexible. En particulier quand il avait bu. Iselmyr s'est manifestée à l'une de ces occasions. Pour être honnête, je ne me souviens pas des détails. Je sais seulement qu'après cela, il est devenu plus prudent avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Est-ce que vous avez eu du mal à vous adapter à Dyrwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Les gens ne font pas de manières ici. Ils sont impulsifs." Il vous sourit d'un air affecté. "Ils ont l'insulte facile et leur sens du devoir est douteux. Mais tant qu'on évite les provocations, ça se passe bien." 
+
+Ses doigts se touchent et forment une pyramide. "J'ai pris l'habitude de garder ce que je pense pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Combien de temps avez-vous passé dans la Vallée dorée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Il hausse les épaules en tripotant nerveusement l'ourlet de sa manche. "Je n'y suis pas resté beaucoup plus longtemps que vous. Comme vous avez pu le constater, c'est loin d'être le paradis promis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Alors, vous comprenez un peu mieux Iselmyr maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Il fronce le nez. "Ce n'est pas grâce à cette animancienne. Ma rate ? La bile noire ? N'importe quoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Les méthodes de Bellasege sont discutables, mais vous en avez quand même tiré des enseignements, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Les gens comme elle ne devraient pas avoir le droit de pratiquer l'animancie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Mais c'est bien le problème avec cette pratique. Tout repose sur la spéculation et l'expérimentation. Rien n'empêche une bande de charlatans de profiter de l'ignorance des masses. Quand un « expert » dit quelque chose, les gens sont prêts à croire n'importe quoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Pas forcément. La plupart des gens sont plus malins que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"C'est vrai. Les gens sont trop influençables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Peut-être. L'animancie a ses usages, mais il est difficile d'en évaluer les dangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Pourquoi vouliez-vous prendre les notes de Bellasege ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Il vous lance un regard oblique. "Je vous l'ai dit, je la trouvais trop indiscrète."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Parlez-moi de vos parents..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Seulement parce que vous et moi sommes des gens de bons sens. Mais une personne ordinaire ? Si un « expert » dit quelque chose, elle sera prête à croire n'importe quoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je ne sais pas. Je crois que vous seriez plus agréable sans votre rate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Il lève un sourcil. "Vous y croyez encore après tout ce que vous avez vu ? Je vous envie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Oui. Les gens ont besoin de croire à quelque chose. De suivre quelqu'un. Et le danger avec les animanciens, c'est qu'eux-mêmes ne savent pas où ils vont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Le problème, c'est qu'il n'y a personne pour encadrer la pratique, pas plus qu'il n'y a de principes ou de directives uniformes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ce n'est pas pire que de concentrer le pouvoir entre les mains d'une seule autorité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Oui, il faut un responsable pour réguler cette pratique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Il lève un sourcil. "Ce n'est pas une solution parfaite, mais c'est toujours mieux que le chaos actuel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Exactement. Les praticiens ne le feront pas d'eux-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Il ricane. "Oh, c'est hilarant ! Il faudrait qu'elle vous examine. Je me demande ce qu'elle retirerait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Il vous regarde prudemment. "Oui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Pourquoi votre mère était-elle si souvent absente ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"On dirait que votre père avait du mal à se contrôler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Bien qu'il ait initialement accepté cet arrangement, Père ne s'en est jamais accommodé. Il harcelait ma mère lorsqu'elle venait à la maison. Il voulait savoir si elle avait des relations intimes avec le thayn, et elle avait beau lui jurer que ce n'était pas le cas, il n'en démordait pas." 
+
+"Comme vous pouvez l'imaginer, elle a fini par espacer ses visites, tout en continuant à subvenir à nos besoins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Qu'est-ce qu'un haemneg ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Un mariage cérémonial entre humains et elfes. Dans la mesure où le continent d'Aedyr a historiquement été divisé entre les deux races, nous avons de nombreuses institutions chargées de normaliser nos relations. Notre monarchie est gouvernée par un ou une humaine, mais un ou une consort elfique règne aux côtés du fercönyng ou de la mecwyn. Il s'agit de l'exemple le plus éminent de haemneg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Souvent, un haemneg permet à deux familles de mettre leurs ressources en commun. Dans l'aristocratie, les haemnegs consolident le pouvoir. Parfois, comme dans le cas de ma mère, un haemneg permet à un noble de bénéficier des services d'un autre administrateur. Les consorts sont tout aussi respectés que leurs homologues de la noblesse, ce qui peut s'avérer très utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Évidemment, les haemnegs servent parfois à officialiser une liaison extraconjugale." Il hausse les épaules. "Je ne sais pas si c'est vraiment mieux, mais cela semble satisfaire les notions communes de décence. Et puis l'honneur est sauf puisque les unions entre elfes et humains sont stériles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Il avait un problème avec le haemneg de ma mère. Malgré leur accord initial, malgré les énormes avantages financiers de cet arrangement et même si les fonctions occupées par ma mère n'étaient pas si différentes de celles que mon père exerçait en tant qu'intendant du comte, il n'a jamais supporté cette situation. Alors, il buvait et s'emportait. Quand elle était à la maison, il s'emportait contre elle, et quand elle n'était pas là, il s'en prenait à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Son rêve était que je devienne un chevalier ésotérique au service de son comte. Il devait penser que cela validerait sa carrière et le maître qu'il avait choisi. C'était... un homme strict et je pense que son éducation m'a aidé à devenir le magicien que je suis aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"N'importe quoi ! Vous avez accompli tout ça tout seul, et vous auriez très bien pu réussir sans lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"On ne s'en rend pas toujours compte sur le moment, mais plus tard, on se dit qu'on a eu de la chance d'être poussé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"C'est aussi mon avis. Aujourd'hui, j'estime que les compétences que j'ai acquises valaient bien toutes ces épreuves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vous croyez ? J'ignorais ce que je voulais faire de ma vie à l'époque. Je n'aurais sûrement pas été aussi sérieux si je n'avais pas été poussé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Elle essayait sûrement de prendre soin de vous, à sa façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Elle n'aurait pas dû vous abandonner comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Il penche la tête. "Je ne l'ai jamais pris comme un abandon. Elle occupait des fonctions importantes puisqu'elle gérait les terres du thayn et toutes les tâches administratives, et même si elle était loin, elle subvenait à nos besoins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"C'est aussi ce que je crois. Elle occupait des fonctions importantes puisqu'elle gérait les terres du thayn et toutes les tâches administratives, et même si elle était loin, elle subvenait à nos besoins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Il semble soulagé. "Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Comment avez-vous rejoint la Clé plombée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Comme c'est souvent le cas avec ce genre de folies, j'étais jeune et perdu. Les membres de la Clé plombée m'ont offert la structure qui me manquait et un avenir, bien loin de mon père et de son comte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous avez fini par prendre le contrôle d'Iselmyr. Vous vous sentez différent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Alors... vous avez fait la paix avec Iselmyr ? Comment vous sentez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je me sens apaisé. Plus que je ne l'aurais imaginé. Chicaneuse comme elle est, je m'attendais au pire en lui laissant le champ libre. Mais maintenant que je ne lutte plus contre elle, on dirait qu'elle a baissé sa garde." 
+
+Il soupire. "Et vous aviez raison. J'ai découvert que j'ai beaucoup à apprendre d'elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je me sens... apaisé. Je suis content. C'est étrange, pour moi qui ai si longtemps combattu ses intrusions et incursions sans jamais véritablement les réprimer. Je n'avais pas l'habitude de prendre des décisions énergiques, et je ne pensais pas avoir le moindre pouvoir sur cet être qui s'était infiltré dans mon esprit." Il sourit timidement. "Ce fut une agréable surprise de découvrir que j'avais tort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"J'aimerais bien y retourner un de ces jours, mais je ne sais pas quand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il se raidit. "Ses... usurpations sont déjà bien assez désagréables. Je ne tiens pas à l'inviter à se manifester davantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"On lui a proposé un haemneg avec un thayn terrien quand j'étais très jeune. Son domaine se trouvait à cinq jours de chez nous à Cythwood, ce qui n'était pas rien." 
+
+Il fronce légèrement les sourcils. "Mais le vrai problème, c'était mon père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Même si je préfère parler avec ma propre voix, sachez qu'elle est présente, y compris en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Avez-vous une idée de ce que je devrais faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Eh bien, c'est vous qui décidez. En ce qui me concerne, aucun endroit ne peut être pire que la Vallée dorée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Il regarde Edér. "Sans vouloir vous contrarier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"L'animancie est peut-être encore plus controversée en Aedyr qu'ici. Sa pratique est hors la loi depuis six cents ans, mais cette interdiction attise la curiosité."
+
+"Le succès et la relative tolérance dont bénéficie l'animancie ici et dans les Républiques de Vailia ont suscité un regain d'intérêt en Aedyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"La Clé plombée a commencé à recruter de manière plus agressive, et je terminais ma formation lorsque l'un de mes instructeurs m'a approché." 
+
+Il hausse les épaules. "Comme je vous l'ai déjà dit, j'étais ravi d'échapper aux projets que mon père avaient faits pour moi, et après avoir vu quelques-uns de mes collègues abandonner leurs études de magie pour se consacrer à l'animancie dans les Républiques, j'étais convaincu qu'il fallait intervenir pour enrailler cette propagation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Il tire sur ses manches. "Maerwald vous a demandé de rechercher les agents de la Clé plombée dans la Baie du défi, n'est-ce pas ? Si son... état est préoccupant, nous devons les trouver de toute urgence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Son visage s'assombrit. "Nous savons ce qui nous attend. Finissons-en avec Thaos une bonne fois pour toutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Thaos a déjà une longueur d'avance sur nous. Nous devons faire vite si nous voulons lui mettre la main dessus à l'Ombre ensoleillée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Thaos et la Clé plombée semblent être responsables de cette situation." Il lisse ses vêtements. "Nous devons découvrir ce qu'ils complotent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Sa bouche se crispe et il fronce les sourcils. "Vous recherchez les membres de la Clé plombée, non ? À votre place, j'essaierais de découvrir ce qu'ils trament." Il plisse les yeux. "J'espère que les conseils de l'Acolyte se révéleront utiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"C'est tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Il regarde le pilier. "Même si vous envoyez maintenant les âmes quelque part en particulier, qui sait ce que le prochain tour de la Roue leur réserve. Nous ne pouvons pas vraiment contrôler ce qui leur arrive, [Player Name]. Et nous ne devrions pas essayer non plus. Il m'a fallu voir le monstre qu'était devenu Thaos pour réaliser cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Il regarde le pilier. "Cela nous dépasse tous les deux, [Player Name]. La certitude des dieux est une miséricorde. Un tel pouvoir est un lourd fardeau. Regardez simplement la façon dont il a anéanti Thaos."
+
+Il plante son regard dans le vôtre. "Peut-être qu'il avait raison de le soumettre à Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Il regarde l'immense pilier d'adra. "Stupéfiant. J'ai toujours su que la Clé plombée était quelque chose d'énorme, mais j'ignorais dans quoi je m'étais fourré." 
+
+"Et vous vous retrouvez maintenant au milieu de quelque chose d'encore plus énorme. La décision que vous prendrez aura des conséquences sur des millions de gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Thaos était dans l'erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"La décision vous appartient, bien sûr. Et quoi que vous fassiez, je suis heureux que nos chemins se soient croisés dans la Vallée dorée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Cette décision est trop importante pour être laissée au hasard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

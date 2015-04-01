@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\13_twin_elms_elms_reach\13_qst_servant_of_death</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un serviteur de la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Éliminez les deux silhouettes apparues dans la vision de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Berath à Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Berath est las des mortels qui évitent le cycle naturel de la mort et de la renaissance. Il m'a indiqué deux individus en particulier, un nain et une elfe, dont la vie dure depuis des siècles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>En vision, Berath, le dieu de la mort et de la renaissance, m'a montré une elfe et un nain au bord d'une route. Je les ai tués et j'ai ensuite pu reprendre mon chemin.
+
+Je crois que c'est la manière du dieu de me dire que ces deux individus échappent à la mort depuis bien trop longtemps. Berath sera certainement ravi d'apprendre qu'ils sont morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>L'archidruide Rehstin et la Grande Ovate Erona sont morts. Je vais prier Berath à Teir Evron pour recevoir ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dans ma vision, le nain avait curieusement un visage toujours jeune et semblait se renouveler du sang des autres. Il a dit quelque chose à propos des"Ethik Nôl". Quand j'apprendrai ce dont il s'agit, il sera certainement dans les parages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dans ma vision, l'elfe ressemblait étrangement à un arbre. Elle a parlé d'un lieu appelé le "Bosquet doré".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai tué l'archidruide Rehstin, le nain de la vision de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>L'elfe, la Grande Ovate Erona, est morte maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Les druides du Bosquet doré m'ont dit que la Grande Ovate Erona s'aventurait parfois au Rivage des ormes en quête de remèdes pour prolonger sa vie. Je soupçonne cette Erona d'être l'elfe de la vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai appris que le Bosquet doré était un petit bois situé à l'extrémité sud des Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Les Ethik Nôl vivent dans une grotte connue sous le nom de "Sables ensanglantés". Elle se trouve au nord des Ormes, non loin des arbres géants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Berath est ravi que ces deux chefs druidiques aient été renvoyés dans le cycle. Le dieu a promis de m'aider à rejoindre l'Ombre ensoleillée et à trouver Thaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

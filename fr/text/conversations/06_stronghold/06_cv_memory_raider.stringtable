@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_memory_raider</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un elfe se tourne pour vous faire face. Ses joues, ses avant-bras et le cartilage de ses longues oreilles pointues sont tachetés de peinture indigo et bleue. Il arbore un large sourire sous sa tignasse.
+
+"C'est bientôt l'heure. Daî et Hedhwr ont repéré le village hier soir. Ils rassemblent le reste du groupe en ce moment-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quel groupe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Son poing fantomatique vous traverse l'épaule. "Ne t'en fais pas, chacun se souvient que le raid était ton idée. Le rîow a dû accepter, vu comme tu as soulevé le reste du clan."
+
+"Personne ne pourra dire que les Neuf griffes ont fuit lorsqu'il a fallu affronter les étrangers qui ont profané nos ruines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Le rîow ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Les bandes déchiquetées de peinture sur son visage se tordent quand il rit. "Tu ne les aimes peut-être pas, mais ils sont nos anciens. Pour le moment." Une dent grise et morte apparaît entre ses lèvres.
+
+"C'était malin, de s'attirer le soutien de la communauté en premier. En te rapprochant du rîow, leur seule option était de nous soutenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Il ne fait aucun doute que tu rejoindras leurs rangs un jour. Tant qu'aucune fourche de fermier ne t'embroche ce soir." Il rit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le guerrier fantomatique vous lance un regard long et avide. Ses yeux semi-transparents s'enflamment alors qu'ils s'approchent de vous. "Les tribus ont besoin de plus de chefs de ta trempe. Des femmes qui privilégient les actes aux paroles."
+
+Il atteint votre joue mais s'arrête à mi-chemin, ses doigts écartés frémissant au moment où le doute le traverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Il laisse tomber sa main sur le côté, tirant sa lame de sa ceinture. "Tu avais raison. Nous étions trop tendres lorsque les étrangers sont arrivés. Et maintenant ils nous humilient."
+
+"On ne sera plus tendres. Et les envahisseurs apprendront à nous laisser tranquille une fois pour toutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nous allons prendre ces fermiers par surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

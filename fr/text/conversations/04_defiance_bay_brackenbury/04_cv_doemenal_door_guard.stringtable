@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_doemenal_door_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le robuste garde vous regarde d'un air méfiant. "Je ne vous reconnais pas. Qu'est-ce qui vous amène à la maison Doemenel ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"La maison Doemenel ? J'ai trouvé une lettre susceptible d'intéresser quelqu'un ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Parlez-moi de la maison Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je vois. Par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"C'est une famille aussi ancienne que respectée. Les activités des Doemenel ont largement contribué à la prospérité de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je vais vous accompagner jusqu'à la sortie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je voulais demander aux Doemenel de participer aux audiences d'animancie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"C'est donc à maître Abrecan qu'il vous faut vous adresser. Par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Attaquez.] "Je viens piller ces lieux et tuer tous ceux qui se mettront en travers de mon chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Avez-vous autre chose à faire ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Qu'est-ce qui vous amène voir les Doemenel ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Alors, c'est aux Doemenel qu'il vous faut vous adresser, pas à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"C'est Danna qui m'envoie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ah, oui ! Vous devez être [Player Name]. Par ici, je vous en prie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Le garde jette un coup d'œil à la rue derrière vous. "Vous êtes seul ? On n'est jamais trop prudent de nos jours."</DefaultText>
+      <FemaleText>Le garde jette un coup d'œil à la rue derrière vous. "Vous êtes seule ? On n'est jamais trop prudent de nos jours."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'ai aidé Medreth à régler une affaire à Dyrford."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ah, vous êtes [Player Name] ? Dans ce cas, suivez-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je dois parler à Bricanta Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Si vous le dites. Elle est à l'étage, dans la salle située au bout du couloir. Surveillez vos manières."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

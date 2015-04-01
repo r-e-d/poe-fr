@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_at_all_costs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>À tout prix</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Livrez le paquet à Gareth dans Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez voir Verzano dans la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Obtenez des graines de courge amère de Verzano à l'entrepôt de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Battez Danna Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Tuez Verzano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mestre Verzano, à la tête de la Compagnie commerciale vailienne dans la Baie du Défi, souhaite que je livre un paquet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mestre Verzano m'a donné un paquet à livrer à Gareth dans la taverne L'oie et le renard de Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Verzano s'est mis dans une situation difficile avec le cartel du crime local. Malheureusement, il m'a entraîné avec lui. 
+
+Il m'attend dans l'entrepôt dans la Compagnie commerciale vailienne. dans la Faveur d'Ondra. Lorsque je l'affronterai, je vais devoir décider comment je vais gérer sa trahison.</DefaultText>
+      <FemaleText>Verzano s'est mis dans une situation difficile avec le cartel du crime local. Malheureusement, il m'a entraînée avec lui. 
+
+Il m'attend dans l'entrepôt dans la Compagnie commerciale vailienne. dans la Faveur d'Ondra. Lorsque je l'affronterai, je vais devoir décider comment je vais gérer sa trahison.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>J'ai dit à Verzano que je n'étais pas intéressé par son travail de livraison. Il m'a dit de revenir le voir si jamais je change d'avis.</DefaultText>
+      <FemaleText>J'ai dit à Verzano que je n'étais pas intéressée par son travail de livraison. Il m'a dit de revenir le voir si jamais je changeais d'avis.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>J'ai décidé de protéger Verzano contre Danna Doemenel. À présent, elle et ses sbires en ont également après moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>J'ai décidé de tuer Verzano. Cela ne devrait pas représenter un grand défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai vaincu Danna et ses sbires à L'oie et le renard, offrant à Verzano un souci de moins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai protégé Verzano de la vengence de Danna Doemenel. Il me faudra ouvrir l'œil auprès de la maison Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Je me suis lavé les mains de la dispute entre Mestre Verzano et la Maison Doemenel. Danna Doemenel n'a fait qu'une bouchée du marchand.</DefaultText>
+      <FemaleText>Je me suis lavée les mains de la dispute entre Mestre Verzano et la Maison Doemenel. Danna Doemenel n'a fait qu'une bouchée du marchand.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué Mestre Verzano. Avec autant d'ennemis à son actif, sa mort n'était qu'une question de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai tenté de protéger Verzano de la vengence de Danna Doemenel, mais il est mort au cours du combat. Il me faudra ouvrir l'œil auprès de la Maison Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai tué Verzano, mais Danna Doemenel a également été tuée dans le combat. Heureusement le reste de la maison Doemenel ne me tiendra pas responsable de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai tué Verzano avant d'accomplir la mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai tué Gareth avant de livrer le paquet de Verzano.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

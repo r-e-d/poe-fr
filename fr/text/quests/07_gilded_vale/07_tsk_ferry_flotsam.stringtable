@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_tsk_ferry_flotsam</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Morceau d'épave de ferry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez l'épave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez à Peregund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai rencontré une marchande du nom de Peregund, située non loin des ruines du pont de Madhmr. Elle avait un ferry pour traverser la rivière mais une tempête a mis le vaisseau en pièces.
+
+Peregund désire que je l'aide à récupérer ses marchandises dans l'épave du ferry. Les pilleurs essayent de récupérer le chargement pour eux, et Peregund, qui ne peut se battre, ne peut reprendre ses biens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je devrais explorer les environs immédiats du pont de Madhmr et chercher des traces du bateau échoué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je devrais retourner voir Peregund et l'informer de sa cargaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Les "pilleurs" convoitant les marchandises de Peregund ne sont que les survivants démunis du naufrage. J'ai promis de mentir et dirai ne rien avoir trouvé pour qu'Hanwen puisse garder le chargement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Les pilleurs ont été éliminés et le chargement, ou ce qui en reste, du moins, a été récupéré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai rapporté les marchandises à Peregund, et elle m'a récompensé avec de l'argent pour le dérangement. Elle m'a aussi promis des réductions dans sa boutique de la Baie du défi.</DefaultText>
+      <FemaleText>J'ai rapporté les marchandises à Peregund, et elle m'a récompensée avec de l'argent pour le dérangement. Elle m'a aussi promis des réductions dans sa boutique de la Baie du défi.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Pour protéger Hanwen et ses amis, j'ai menti à Peregund, lui disant que tout son chargement a disparu dans les eaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Peregund est morte, elle n'aura que faire du sort de son chargement à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

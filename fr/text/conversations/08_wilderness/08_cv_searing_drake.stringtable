@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_searing_drake</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le drake incline son énorme tête, en vous regardant. Il émet une suite de mots directement dans votre esprit. "Lumineuse, brûlante. L'étincelle. Vous, [Race du joueur]-truc, vous venez me prendre mon étincelle, c'est cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Mon étincelle ! La mienne !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attaquez] "Bien sûr, pourquoi pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qu'est-ce que l'étincelle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je vais y aller maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Non !" Le drake rugit. "Vous venez la voler avec vos sales pattes froides ! Je dois la protéger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le drake se love pour protéger quelque chose. "L'étincelle est une braise. Chaude. Lumineuse. Belle." Il tourne la tête pour vous regarder d'une seule pupille fendue. "Un jour je serai une chose brûlante. Brillante et terrible comme mon étincelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Attaquez] "J'en ai assez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"J'ai promis que je ne venais pas prendre votre étincelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Menteur !" Le drake rugit. "Vous venez la voler avec vos sales pattes froides !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

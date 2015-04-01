@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_ff_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Jamais loin de la reine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Rejoignez le temple de Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouvez un moyen d'entrer dans le temple de Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Enquêtez sur les activités de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Restaurez la barbacane orientale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Parlez à l'intendant à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Maerwald m'a dit que je trouverais peut-être la Clé plombée dans la « cité du défi », « jamais loin de la reine ». Je dois m'y rendre pour mettre la main sur l'homme qui a déclenché mon Réveil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Maerwald m'a dit que les membres de la Clé plombée avaient tendance à vénérer Woedica et l'intendant a parlé d'un temple qui lui est dédiée à la Baie de défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Le temple de Woedica est en ruine... sa partie visible, du moins. Un escalier à moitié enseveli indique que le temple se prolonge sous terre. Bien que l'escalier ne me soit pas accessible, une autre entrée existe peut-être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai réussi à rejoindre les salles situées sous les ruines du temple de Woedica. Si ce Maerwald a dit vrai, j'y trouverai peut-être la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>La barbacane orientale barre la route menant à la Baie du défi. Elle doit être réparée pour me permettre d'aller plus loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Maerwald est mort et ses réponses étaient des plus laconiques. L'intendant de la grande salle de Caed Nua semble être la seule personne sensible de la forteresse. Peut-être me prodiguera-t-il quelques conseils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai prétendu être un membre de la Clé plombée. Tant que je fais preuve de discrétion et n'attaque personne, je pourrai me déplacer librement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Un homme encapuchonné, visiblement membre de la Clé plombée, a été pris en embuscade alors qu'il marchait dans les catacombes. Il a perdu le déguisement qui lui aurait permis de passer les sentinelles de la Clé plombée lorsqu'il a été emmené par des trolls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai récupéré un déguisement de membre de la Clé plombée. Il devrait me permettre de passer ses sentinelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Un esprit qui hante le temple m'a parlé d'une autre entrée menant aux catacombes. Selon lui, elle se trouverait près de la porte sud du quartier de Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai parlé à un jeune initié plutôt nerveux qui m'a donné les phrases secrètes permettant de m'adresser à l'Acolyte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai trouvé un livre renfermant les phrases secrètes permettant de s'adresser à l'Acolyte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai posé quelques questions et j'ai découvert que le temple se trouve dans une région appelée Premiers feux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je n'ai pas réussi à en savoir plus sur les activités de la Clé plombée ou l'identité du membre que je poursuis, mais j'ai trouvé quelques indices sur leurs activités dans la région.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

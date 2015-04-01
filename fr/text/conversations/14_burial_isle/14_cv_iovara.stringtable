@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_iovara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>150</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Une colonne d'adra se dresse devant vous, inébranlable. Ses couches successives témoignent du temps passé. Elle vous fait l'impression d'un épais bloc de glace dont la partie centrale brille d'une petite flamme qui vacille, une flamme préservée des affres du temps.
+
+Alors que vous vous approchez, la flamme semble se figer et les couches qui vous séparent d'elle se mettent à fondre. Sa lumière vous enveloppe, telle une balise dans l'obscurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Son intensité faiblit pour laisser place à Iovara, une ombre fantômatique qui plane au-dessus du sol humide de la prison.
+
+Malgré son éternelle jeunesse, elle semble différente... son port légèrement vouté peut-être ou quelque chose dans son regard. Son visage présente une large cicatrice, fibreuse et vermiforme à l'endroit où les flammes sont venues la lécher, sans guérir, même dans la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bonjour, frère. Cela fait très longtemps."</DefaultText>
+      <FemaleText>"Bonjour, ma sœur. Cela fait très longtemps."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mon ancien élève. Je suis ravie, mais un peu inquiète de vous voir. Errez-vous toujours dans l'obscurité après toutes ces années ?"</DefaultText>
+      <FemaleText>"Mon ancienne élève. Je suis ravie, mais un peu inquiète de vous voir. Errez-vous toujours dans l'obscurité après toutes ces années ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bonjour, mon vieil ami. J'espère que vous n'avez pas souffert au cours des années passées."</DefaultText>
+      <FemaleText>"Bonjour, ma vieille amie. J'espère que vous n'avez pas souffert au cours des années passées."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Revoilà enfin l'être aimé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous revoilà. Je pensais avoir réussi à vous remettre sur le droit chemin il y a des années."
+
+Elle secoue la tête, troublée. "Ou ai-je une nouvelle fois échoué ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Elle vous regarde. "Vous avez certes changé, mais pas tant que cela. De vieux problèmes sur un nouveau visage."
+
+"Qu'est-ce qui vous amène ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Il semblerait que je n'ai pas terminé ce que j'avais à faire ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je suis ici pour vous libérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je voulais m'assurer que vous souffriez toujours pour vos crimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je vais là où mon destin me mène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je cherche des réponses et vous avez tout intérêt à me les donner si vous ne voulez pas que votre situation s'aggrave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Encore faudrait-il que mon existence soit pénible pour rendre ma sentence douloureuse. La supposition de mon bourreau en dit plus sur lui que sur moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'ai eu largement le temps d'accepter mon sort. Plus personne ne peut me faire souffrir maintenant.
+
+"Mais inutile de me menacer. Je vous aiderai comme je l'ai fait par le passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Iovara sourit comme s'il s'agissait d'une plaisanterie. "C'est donc l'univers qui le veut. Voilà une raison comme une autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Un geste des plus galants, mais quelque peu malencontreux. Je pense que vous ne m'avez pas tout dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Après notre dernière entrevue, j'espérais que vous aviez trouvé ce que vous cherchiez. Cela vous a-t-il échappé pendant tout ce temps ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je pense que votre présence ici a quelque chose à voir avec Thaos. L'énergie de cet endroit... change lorsqu'il est dans les parages. Je ne sais pas ce qu'il a fait, mais je sais pour les âmes qui viennent ici. Elles ne le font pas par choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Thaos les dévie du cycle. Il entend renforcer Woedica et faire accuser l'animancie pour le mal qu'il a causé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Elle secoue la tête. "Après tout ce temps, il est toujours là, contre vents et marées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Son influence continue de peser sur vous tel un fardeau. Il en a toujours été ainsi. Il a... inspiré quelque chose en vous. Nous en avions déjà discuté lors de notre dernière entrevue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"C'était juste après le procès. Vous étiez en proie à... un certain malaise car vous commenciez à comprendre que je disais vrai, je crois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Et de quoi s'agissait-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je disais que les dieux dont nous répandions la foi n'étaient absolument pas des dieux, mais des êtres bien différents. Des êtres créés de toute pièce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Comment en étiez-vous arrivée à cette conclusion ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Disiez-vous vrai ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"C'est la raison pour laquelle vous avez créé une nouvelle foi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je n'ai jamais parlé de foi, mais je crois que vous avez raison de l'appeler ainsi."
+
+"Laisser à chacun le soin de juger. Leur offrir la possibilité de choisir. Telle était ma foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Qui a créé ces dieux ? Et dans quel but ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ils ont été créés par Engwith, une société composée d'esprits aussi brillants qu'inquiets. Le peuple de Thaos."
+
+"À l'époque, chacun vénérait ses propres dieux, ce qui déclenchait parfois des guerres. Après quelques guerres, les Engwithans ont cherché à y mettre fin. Ils ont tout mis en œuvre pour trouver les véritables Créateurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ce qu'ils ont trouvé les a terriblement ébranlés. S'ils ont découvert cela par eux-mêmes, combien de temps faudra-t-il aux autres pour en faire de même ? Combien de temps faudra-t-il avant que la guerre et le chaos ne règnent sur ce monde sans conséquence ?"
+
+"Mais ils ont réussi à maîtriser des tas de choses lors de leur quête de réponses. Et forts de ces connaissances, ils ont créé leurs propres dieux pour combler le vide et envoyé des missionnaires aux quatre coins du monde pour répandre leur foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je suis devenue missionnaire parce que les dieux étaient porteurs d'un espoir que je voulais transmettre aux autres. Pendant quelque temps, cette vérité m'a plongée dans l'obscurité. Puis un jour, j'ai réalisé que rien n'avait changé. Que j'avais toujours un but, que celui-ci n'avait pas changé et qu'il en valait la peine." 
+
+"J'ai commencé à critiquer publiquement les autres missionnaires. À dévoiler leurs ruses. Leurs fidèles sont devenus les miens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Les missionnaires engwithans le savaient, mais ils n'ont rien dit. Ils voulaient le garder pour eux et ont ainsi précipité le déclin de leurs lignées."
+
+"J'ai été chargée d'en rejoindre quelques-uns dans un temple. J'ai trouvé les portes de leurs chambres closes, mais ces portes étaient minces. J'ai tout entendu. Du moins... suffisamment. J'ai enquêté sur ce qu'ils disaient et tout était vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Après avoir quitté l'ordre, plusieurs Engwithans, convaincus par mes propos, ont rallié ma cause. Ils m'en ont dit encore plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous me l'avez déjà demandé. Rien de ce que je dirai ne sera probant, car votre âme a besoin de certitude. De résolution. Mais si vous allez à l'endroit où Thaos dirige ces âmes, vous pourrez en juger par vous-même, comme vous l'avez déjà fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous et moi savons que certaines choses sont irréversibles. Voulez-vous vraiment le savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Quoi ? S'il n'y a pas de dieux, comment tout cela peut-il être possible ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"La femme ment. À sa façon, c'est une fanatique. Elle peut remettre en question les écritures, la doctrine et tout ce qui est sujet à interprétation, mais la vérité des flammes est incontestable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>La question hante l'esprit de la Mère en deil, une chose aussi trouble qu'incertaine. "Nous sommes tous comme des enfants... orphelins et seuls. Et dès lors, où aller pour demander conseil ? Demander protection ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Si elle dit vrai et que les dieux ne sont pas réels..." En proie à la tristesse, Hiravias ne termine pas sa phrase. "Qui avons-nous vénéré pendant tout ce temps ?"
+
+D'un air suffisant, il crache par terre. "Elle a raison sur un point : il n'y a rien de mieux que d'en juger par soi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"... Même si les dieux ne sont qu'un mensonge inventé par les Engwithans. Le peuple d'Engwith n'était-il composé que de menteurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Des imposteurs, alors ? Pardonnez-moi de ne pas être aussi surprise que je devrais l'être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Quoi qu'il en soit, ces dieux et la foi qu'ils suscitaient ont façonné des civilisations pendant très longtemps. Cela ne les rend-il pas, à leur manière, réels ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank Node 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Chacun découvre cette vérité à un moment ou à un autre. Rares sont ceux à l'affronter. Rares sont ceux à oser se poser des questions ? Et en évitant ces questions, ils se privent de leur propre identité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Elle regarde Edér. "Et si toute cette tragédie, tout cet acharnement avaient pour objectif de défendre un imposteur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Iovara regarde en silence les gens qui vous entourent, s'attardant sur chacun, s'intéressant à des choses invisibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"C'est... c'est impossible. Éothas a fait des miracles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Puis son attention se porte sur Durance. "Et si votre malheur était le fruit de connaissances interdites et non d'une quelconque faute ? Quid de votre culpabilité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Durance se pince les lèvres, le visage livide. "Magran a tracé un chemin pour moi. Elle est volage et cruelle, mais c'est ainsi qu'elle transmet ses enseignements. Vous ignorez tout des feux qui m'ont façonné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Ses yeux se posent sur Aloth. "Et si vous aviez toujours été seuls, absolument seuls ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Aloth croise les mains derrière le dos et plisse le front. "Eh bien, j'ai si mal choisi mes guides que m'en libérer me serait d'un grand confort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Elle regarde Kana Rua. "Si tout ce qui nous lie est issu d'un mensonge, pourquoi rester ensemble ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Kana fronce les sourcils. "Depuis des sciècles, le mensonge des Engwithans nous aveugle. Comment prétendre qu'il n'y a pas d'autre solution si nous n'en avons jamais cherchée ? Des réponses subsistent... dans des endroits où nous n'avons jamais pensé à chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Son regard se porte sur Sagani. "Et si les fardeaux que nous portons était le fruit du hasard plutôt que celui d'actes délibérés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Sagani hausse les épaules. "Ils nous façonnent de la même manière. Peu importe la façon dont j'ai extrait la petite dent ou la façon dont Persoq s'est transformé en cerf. Cette tâche m'a été confiée et je l'ai menée à bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Elle s'attarde sur Pallegina. "Et si la maîtrise de toute chose ne suffisait pas à répondre aux questions les plus simples ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"J'ai arrêté de me poser ces questions depuis bien longtemps. Il vaut mieux consacrer le temps dont nous disposons à prendre soin de ceux que nous aimons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Elle regarde la Mère en deuil droit dans les yeux, faisant semblant de la voir comme tous les autres. "Et si le cycle de la vie et de la mort n'était rien d'autre que l'instrument d'une incessante obsession ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>La Mère en deuil regarde à son tour Iovara, acquiesçant de la tête de manière quasi imperceptible. Un long silence s'ensuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Iovara acquiesce, elle aussi, visiblement touchée par cette compréhension tacite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Elle regarde Hiravias dont les oreilles se mettent à le démanger. "Et si aucun guide n'avait de réponse ? Comment choisiriez-vous alors votre chemin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Eh bien..." Hiravias croise les bras et promène la main sous son menton.
+
+"Je suppose...," Hiravias répond quelques instants plus tard avec un sourire, "Que je choisirais toujours celui qui rend plus fort... Mais plutôt que de le faire pour faire plaisir à Galawain, je le ferais pour me faire plaisir à moi."
+
+Hiravias affiche un large sourire et rougit. Il penche rapidement la tête et vous l'entendez murmurer doucement : "Oh Galawain, sachez que votre humble serviteur parlait de façon rhétorique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Le pouvoir des dieux est incontestable. Mais pas la vérité de l'histoire qu'ils tissent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Et si les feux n'étaient eux-mêmes que des mensonges ? Des mensonges que vous avez inventés pour combler le vide qui sépare l'expérience de la vérité ?" 
+
+De la sueur se forme sur le front de Durance et ruisselle sur ses joues, comme un bloc de glace fondant devant un grand bûcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Nous avons toujours été libres. Mais nous nous sommes bercés d'illusion en imaginant que nous étions guidés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Vous sentez les yeux translucides d'Iovara se poser sur votre âme. "Et que faire si nous ne pouvons être assurés de rien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Alors, l'important réside dans ce que nous créons nous-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Alors, nous ferions mieux de nous renforcer pour le supporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Alors, ce n'est que lorsque nous cesserons d'exister en tant qu'êtres que nous trouverons la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Alors, ces questions ont toujours eu plus de valeur que leurs réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Alors, moins les gens le sauront, mieux cela vaudra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Alors, la seule solution consiste à le supporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Pallegina acquiesce. "Verus. Nous trouvons un but en nous et auprès des personnes qui nous entourent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Vous parlez comme un véritable chasseur, mon ami." Hiravias vous donne une petite tape sur le côté et sourit à pleines dents.
+
+"Galawain nous apprend que nous sommes tous responsables de notre propre force. Et si les dieux ne sont pas réels, il est doublement vrai que nous ne pouvons compter que sur nous-mêmes."</DefaultText>
+      <FemaleText>"Vous parlez comme une véritable chasseuse, mon amie." Hiravias vous donne une petite tape sur le côté et sourit à pleines dents.
+
+"Galawain nous apprend que nous sommes tous responsables de notre propre force. Et si les dieux ne sont pas réels, il est doublement vrai que nous ne pouvons compter que sur nous-mêmes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Bien dit," acquiesce Hiravias.
+
+"Réfléchissez un peu à notre conversation... le simple fait de nous poser la question de savoir si les dieux sont réels nous force à examiner de plus près ce que nous savons déjà. Même s'il nous est impossible de savoir s'ils le sont, cette exploration nous fait grandir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Oui, je crains que vous ayez raison." La voix d'Aloth est calme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Kana détourne le regard. "Peut-être. Si seulement je pouvais me remettre à croire en tout ce que je croyais lorsque j'ai quitté Rauatai..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Et profiter de ce que nous offre cette vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Et les vies que nous créons. N'est-ce pas là l'essence de la maternité ? Créer... chérir... nourrir... Donner de soi pour le bien d'un autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Aloth lève les mains. "N'est-ce pas ce qui nous a conduits ici ? Trouver l'homme qui vous hante depuis plusieurs vies, l'homme que j'ai suivi, contre mon gré, des années durant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ils ne nous laissent guère le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"En permettant aux autres de vivre dans l'obscurité, vous montrez que vous êtes aussi faible qu'eux, Gardien."</DefaultText>
+      <FemaleText>"En permettant aux autres de vivre dans l'obscurité, vous montrez que vous êtes aussi faible qu'eux, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ce sont les épreuves qui nous façonnent, Gardien. Ne l'ai-je pas toujours dit ?"</DefaultText>
+      <FemaleText>"Ce sont les épreuves qui nous façonnent, Gardienne. Ne l'ai-je pas toujours dit ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ce que nous créons est source de joie, comme de chagrin. Toute création porte les imperfections de son créateur et du créateur de son créateur."
+
+"Les arts, dont le chant fait partie, sont des créations au même titre que les armes et les mensonges. Nous devons veiller à ce que nos créations ne nous consument pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ce n'est pas nécessaire. Forts de ce constat, tout ce que vous ferez sera votre réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Mais la force ne se donne pas, elle s'acquiert, et toujours proportionnellement au prix à payer. Que sacrifierez-vous pour la vôtre et qui en paiera le prix ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Il est possible que nous soyons nous-mêmes le plus grand obstacle à la paix. Que l'esprit d'individualisme est source de conflit et de souffrance. Dès lors, aucun homme n'atteindra la paix dont vous parlez. S'agit-il de paix ou de vide ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Une question est un voyage et un voyage fait de nous ce que nous sommes, c'est vrai. Mais les voyages s'enchaînent, où trouvons-nous un quelconque repos ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Tous les deux, nous connaissons au moins une personne qui entend taire cette vérité. Il a condamné des milliers d'hérétiques alors qu'il était le plus infidèle de tous."
+
+"Je le plains pour le fardeau qu'il porte. Un fardeau qu'il porte inutilement seul. Si seulement il acceptait de se soulager et de le partager. Hélas, personne ne trouve grâce à ses yeux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"La Roue ne nous offre que peu de choix en la matière. Mais de toute évidence, nous sommes capables de plus qu'une simple épreuve. De toute évidence, lorsque la vérité apparaît à chacun, la souffrance peut être surmontée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Elle soupire. "Que les dieux ne sont pas réels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"C'est impossible." Il vous regarde pour que vous le confirmiez. "Ils nous guident depuis des milliers d'années. Si c'est vrai..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Elle n'est pas sérieuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Hah ! Peut-être pas pour elle. Les dieux ont méprisé beaucoup de gens. C'est un châtiment insignifiant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Kana rit discrètement, mais il semble troublé. "Voilà une théorie peu ordinaire. Mais nous avons nous-mêmes pu apprécier l'influence des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"C'est insensé !" Hiravias hausse la voix et son visage rougit en même temps qu'il s'exclame.
+
+"De toute évidence, elle n'a pas été confrontée à la colère des dieux... Elle saurait combien ils sont réels..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Pallegina rejette la tête en arrière et rit allègrement. "Ha ha ha ha ! Bien sûr que non ! Tout devient logique maintenant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Sagani plisse les yeux. "Cela semble impossible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText> [Antécédants : nihiliste] "JE LE SAVAIS !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Vous me connaissiez lorsque j'ai rencontré Thaos. J'aimerais savoir quelque chose sur cette époque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Iovara acquiesce. "Je vous dirai ce dont je me souviens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Cette vie possède quelque chose dont mon âme ne parvient pas à se détacher. Je dois savoir ce dont il s'agit, mais je manque de temps. Je vois des bribes de cette vie. De vous, de l'Inquisition, de Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Les générations successives ont tâtonné et essayé de comprendre le monde pour en percer les secrets. Un jour, elles ont trouvé une réponse, sauf que cette réponse n'en était absolument pas une. Les dieux étaient introuvables. Et s'ils avaient existé, ils avaient depuis disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Et si PERSONNE ne connaissait le chemin ?" Hiravias la regarde et sourit tout en se grattant le menton.
+
+"Tous les disciples de Wael savent que votre question est hors de propos. Sages ou non, les dieux ne confèrent pas la sagesse éternelle... Tout juste peuvent-ils vous mettre sur sa voie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Aloth secoue la tête. "Comment pouvez-vous dire cela ? Vous avez enfermé les gens dans le mensonge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Aloth rit avec amertume. "J'ai redouté cette idée au moment même où les délemgans l'ont suggérée. Mais elle apparaissait presque comme un soulagement..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Alors, nous nous débarrasserons de cette ineptie une bonne fois pour toutes. Parfait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Aloth déglutit, la mâchoire serrée. "Alors, c'est parce que j'ai réussi à trouver ma propre voie."
+
+Il fronce les sourcils. "Mais combien peuvent apprécier la réalité que vous proposez ? Les familles en deuil seront-elles soulagées d'apprendre que leurs enfants nés sans âme sont le résultat d'un conflit idéologique ? Cela permettra-t-il de mater les émeutes qui sévissent à la Baie du défi ?"
+
+Il secoue la tête. "Les dieux ont été créés et existent bel et bien désormais. C'est ce qui importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Sagani vous regarde et un sentiment d'inquiétude se lit dans ses yeux. "Si vous avez fait tout ce chemin pour en arriver là... j'en suis désolée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Une raison de plus de les rejeter. Nous n'avons aucune garantie au-delà de cette vie. Nous ferions mieux de profiter tant qu'il est encore temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Le visage de Sagani a un air sévère et posé à la fois. "Nous les respectons quoi qu'il en soit. Parce qu'ils comptent toujours pour ceux qui nous entourent, même si nous en savons plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Sagani fronce les sourcils. "Même s'il m'en coûte de le dire... il est des choses que je préférerais ne pas savoir. J'étais bien plus heureuse lorsque je pensais que ces cinq années avaient été utiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>L'expression de douleur du visage de Sagani se fait menaçante. "La réalité ne peut pas être aussi sinistre. Les défis que nous relevons, les choix que nous faisons face à l'adversité... tout cela nous façonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>L'expression de douleur sur le visage de Sagani se fait grimaçante. "Je crains que vous ayez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Tout ce qui est arrivé depuis. Si les dieux n'étaient pas réels, peut-être le sont-ils désormais. Suffisamment réels pour susciter l'inspiration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Kana regarde Iovara et son expression ne traduit rien. "Mais non... Est-ce là la vérité que nous sommes venus chercher ? Que même les dieux ne sont pas réels ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Vous ne pouvez pas dire cela. Pensez aux vérités que nous avons découvertes. À toutes les réponses que nous avons cherchées. Ce n'était pas toujours facile, mais c'était juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Les choses que nous avons vues, les histoires que nous raconterons... s'il n'y a rien de réel dans ce monde à part cela, j'en suis malgré tout satisfait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"...Ha ! Elle parle comme s'il s'agissait d'une cruelle vérité, mais réfléchissez-y, mon ami. Tout ce temps, toute cette puissance... Engwith en est à l'origine. Les êtres civilisés en sont à l'origine. Des dieux créés de toute pièce !"</DefaultText>
+      <FemaleText>"...Ha ! Elle parle comme s'il s'agissait d'une cruelle vérité, mais réfléchissez-y, mon amie. Tout ce temps, toute cette puissance... Engwith en est à l'origine. Les êtres civilisés en sont à l'origine. Des dieux créés de toute pièce !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Kana incline la tête et réfléchit.
+
+"Partout à Eora, nous luttons pour survivre. Pour donner un sens au monde dans lequel nous vivons. Qu'est-ce qui pourrait mieux nous unir que cette lutte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Kana Rua réfléchit quelques instants. Puis son visage se fend d'un large sourire. "Vous ne comprenez pas. Les plus belles histoires ne sont souvent qu'un tissu de mensonges. Mais elles n'en demeurent pas moins riches d'enseignements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Laissons nos aspirations et nos rêves, et non la peur, nous unir. Fil après fil, nous tissons une tapisserie. La déferiez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Kana secoue la tête. "Ne me regardez pas. Peut-être que rien ne nous unit. Rauatai se déchire et se cramponne à la vérité."
+
+"Et... j'aurais aimé étancher ma soif de vérité dans les couloirs de l'académie du savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Je... je ne sais pas. Je n'ai jamais trouvé les réponses que j'ai cherchées."
+
+"Mais dans toutes les nations, les mêmes dieux règnent en maîtres. Quelque chose dans ce mensonge nous parle. Quelque chose d'assez puissant... pour nous diviser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Je... je ne sais pas. Je n'ai jamais trouvé les réponses que j'ai cherchées."
+
+"Mais après tout ce que nous avons vu... je crois que les dieux ne suffisent pas. Peut-être les fils s'effilochent-ils. Le mensonge est trop ancien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Peut-être sommes-nous tous destinés à être divisés. Aucun effort, aucune quête de vérité unique n'aboutira... car il n'existe pas de vérité unique."
+
+Kana détourne le regard. "Nous cherchons de simples réponses lorsqu'il n'en existe aucune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Peut-être avons-nous juste besoin de nouvelles histoires en ces temps nouveaux. De nouveaux mensonges pour nous unir une fois encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Nous trouverons nos propres vérités. Nous les fabriquerons, si nécessaire. Nous n'avons pas besoin d'un ancien mensonge pour nous renforcer. Unis, les Engwithans ont créé des dieux. Des hommes et des femmes, tous mortels, unis pour tenter l'impossible. Faisons mieux qu'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Je n'ai pas besoin de regarder plus loin pour trouver des réponses. Prendre soin de ma famille et obtenir son approbation me suffisent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"J'ai vu de mes propres yeux les supercheries de ma déesse, telles que le Gardien me les a présentées." 
+
+"Mais ce n'est que maintenant que je comprends à quel point elle était désespérée et que je mesure la profondeur de sa supercherie."</DefaultText>
+      <FemaleText>"J'ai vu de mes propres yeux les supercheries de ma déesse, telles que la Gardienne me les a présentées." 
+
+"Mais ce n'est que maintenant que je comprends à quel point elle était désespérée et que je mesure la profondeur de sa supercherie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Vous parlez de ses supercheries, mais pas des vôtres ? Est-ce que ce sont ses paroles qui vous ont fait suivre votre chemin ou leur absence ? Un vide que vous avez comblé avec vos propres pensées brisées ?" 
+
+De la sueur se forme sur le front de Durance et ruisselle sur ses joues, comme un bloc de glace fondant devant un grand bûcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"C'est la réalité. Je ne l'ai pas inventée. C'est un fait, que vous l'acceptiez ou non." 
+
+"Et ce dont vous parlez, ces maux qui nécessitent un remède, croyez-vous qu'ils existeraient si les dieux n'avaient aucune influence ? Le monde serait-il meilleur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Les tissus de mensonges s'effilochent d'eux-mêmes, mon ami, car notre nature nous pousse à rechercher la vérité."</DefaultText>
+      <FemaleText>"Les tissus de mensonges s'effilochent d'eux-mêmes, mon amie, car notre nature nous pousse à rechercher la vérité."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Iovara se pince les lèvres et plisse le front. La pitié se lit sur son visage. Ses yeux scrutent les vôtres comme si elle cherchait en vous quelque chose pour l'inciter à parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

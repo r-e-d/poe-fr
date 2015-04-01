@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_roedric</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"J'aurais bien une idée, si marcher sur les plates bandes des Chevaliers du Creuset ne vous pose aucun problème. En y réfléchissant, les Doemenel ne seront pas non plus très contents. Ils n'ont jamais aimé voir quelqu'un posséder des plus jolies choses qu'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Cet homme à l'air abrupt vous regarde brièvement tout en comptant les mercenaires s'agitant dans la pièce. "Pas de cérémonies. Dites-moi ce que vous venez faire ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je cherche du travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Parlez-moi des Douzaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>L'expression de Wenan devient sérieuse, le timbre de sa voix s'approfondissant. "Des hommes et des femmes respectables qui essaient de suivre la voie tracée par leurs pairs avant eux."
+
+"Nous sommes une association informelle de guerriers et d'expéditionnaires dans le Dyrwood. Pas aussi coté que les Chevaliers du Creuset, voyez-vous, mais au moins, nous nous souvenons de nos racines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Wenan hoche négligemment de la tête vers vous. Ses yeux continuent de flotter d'un mercenaire à l'autre alors qu'il parle. "De quoi d'autre avez-vous besoin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Les Chevaliers du Creuset s'enorgueillent d'avoir joué un rôle capital dans la liberté de Dyrwood il y a cent cinquante ans de ça, mais nous sommes ceux qui l'avons protégée."
+
+"Tout le monde sait que la guerre du Saint s'est terminée lorsque le Marteau divin a détruit Waidwen au pont d'Evon Dewr. La plupart ne sait pas comment ça s'est fini pour Waidwen sur ce pont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sept hommes. Cinq femmes. Ils venaient de la citadelle d'Halgot et affrontèrent un dieu, réussirent à lui résister jusqu'à ce que la bombe n'explose."
+
+Il tambourine sur la table. "C'est l'héritage que nous défendons. Certains nous appellent des mercenaires, mais nous n'avons pas besoin d'armure assortie ni de capes en soie pour nous souvenir de notre rôle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous là. J'ai un nouveau travail qui pourrait vous intéresser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"J'espérais assister aux audiences sur l'animancie avec les Douzaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Il vous regarde de la tête aux pieds. "Il se pourrait que je vous aide. Mais si vous me demandez de mettre mon nom en jeu, j'ai besoin de quelqu'un qui pourra se porter garant pour vous."
+
+"Parlez à Osric. Il a l'œil pour repérer les talents. Si vous pouvez l'impressionner, alors vous aurez toute mon attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Il se creuse les joues. "Vous avez convaincu Osric, mais pour une faveur comme celle-ci, j'ai besoin de quelque chose de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Il vous donne une claque sur l'épaule. "Ce sera une bonne chose de vous avoir sous notre bannière. Quelqu'un doit convaincre le duc d'abandonner cette folie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Donnez-lui les armes engwithanes ternies.] "J'ai rapporté l'arsenal que vous recherchiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"En parlant des Chevaliers." Ses yeux se plantent en retour dans les vôtres. "J'ai entendu dire que vous avez eu un différent avec une patrouille dans la gorge de Stormwall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"À propos de cette invitation aux auditions traitant de l'animancie..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Et j'ai besoin de ces armes engwithanes. Rapportez-les moi et nous parlerons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"J'ai compris, vous voulez parler au duc. Mais si vous ne pouvez pas convaincre Osric que vous en valez la peine, vous ne m'intéressez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"On dit que vous recherchez le Cœur de la Marche blanche. Je vous le vends pour une fraction de ce que demandait Reymont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Impossible que vous..." Il se tait lorsque vous lui montrez le bijou. "Par la flamme, comment avez-vous obtenu ceci ? Attendez, non." Il lève une main. "Il vaut mieux ne pas me le dire. J'accepterai ceci comme un... cadeau chanceux. Et en retour, en voilà un pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Wenan vous regarde avec incrédulité. En examinant la gemme, sa surprise fait place à la furie. "Vous pensez que je suis incapable de reconnaître un faux ? Prenez la porte. Vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"S'il y a quelque chose qui puisse s'opposer à cette folie, ce sont les armes fabriquées par les Engwithans eux-mêmes. Ils ont effectué le même genre d'abominations en leur temps. Ils sauraient comment les tuer."
+
+"J'ai envoyé les Massacreurs de géants à la recherche des armes, mais ils n'ont pas eu de réussite pour le moment. Ils sont meilleurs combattants que chasseurs de trésor. Retrouvez-les dans les plaines de Woodend et voyez où ils en sont. Si vous arrivez à obtenir ces armes, je veillerai à ce que vous ayez votre part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Il vous observe de la tête aux pieds. Finalement, il pointe un homme menant l'entraînement. "Allez voir Osric. Il a toujours quelque chose. Si ça se passe bien avec lui, je pourrais peut-être vous en trouver plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Pas après la manière dont vous avez géré cette affaire avec Osric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"On dit que vous êtes dans les petits papiers des Doemenel. Je n'ai rien contre eux, mais nous essayons de garder nos distances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Il croise les bras. "J'ai bien peur de ne rien pouvoir pour un laquais des Chevaliers du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous n'avez pas l'air surpris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Rien que je puisse gérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ils m'ont attaqué en premier !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je n'avais pas le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Il vous regarde droit dans les yeux. "Je devrais peut-être les mettre sur votre piste. Il fallait qu'ils détournent leur attention de la ville pendant un moment. Maintenant ils vont doubler et tripler les patrouilles."
+
+"Ça va barder à la fin des auditions. Les gens en ont assez de l'Héritage. Ils en ont assez que des bouchers triturent des âmes et contrarient les dieux. Si le duc ne les arrête pas, je serai l'Effigy si le bon peuple de Dyrwood n'y veille pas lui-même. Et les Douzaines mèneront la charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Il vous donne une claque sur l'épaule. "Quoi qu'il en soit, je vous suis redevable. Si vous voulez prendre mon ancien arc de guerre. C'est une pièce fidèle, mais je ne pourrais pas tirer des ombres lorsque la Baie du défi aura besoin de nous. Sans rancune, j'espère."
+
+"S'il y a quelque chose d'autre que je peux faire pour vous, dites-le-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vos racines ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Merci pour l'information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Connaissez-vous un endroit dans la nature avec des mares chatoyantes et une cascade qui s'élève ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vous recherchez les Chutes brûlantes." Il touche la carte devant lui d'un doigt brusque. "Quel endroit fantastique. Les sources thermales valent à elles seules le voyage. Les chutes sont si chaudes, que la plupart de l'eau se transforme en vapeur ; c'est l'élévation dont vous parliez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Il croise les bras. "Oui. J'ai même une carte au chaud dans un coffre qui indique l'endroit en question." Il crache au sol. "Mais je ne vous la vend pas à moins de... oh, trois cents pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je connais l'endroit. J'ai même une carte au chaud dans un coffre qui indique l'endroit en question. Elle est à vous pour cinquante pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Payez 300 pc.] "Parfait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je ne pense pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous la trouverez dans l'arrière-boutique, derrière l'échoppe de Solind. L'endroit que vous cherchez est appelé les Chutes brûlantes." Il sourit et vous tend une clé. "C'est un plaisir de traiter avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Payer 50 pc.] "Voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Désolé, mais je ne peux payer cela."</DefaultText>
+      <FemaleText>"Désolée, mais je ne peux payer cela."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous la trouverez dans l'arrière-boutique, derrière l'échoppe de Solind." Il vous tend une clé. "Recherchez les Chutes brûlantes sur la carte. Un endroit fantastique. Les sources thermales valent à elles seules le voyage. Les chutes sont si chaudes, que la plupart de l'eau se transforme en vapeur ; c'est l'élévation dont nous parlions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Il hausse les épaules. "Alors revenez quand vous le pourrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>L'expression de Wenan devient sérieuse, le timbre de sa voix s'approfondissant. "Des hommes et des femmes respectables qui essaient de suivre la voie tracée par leurs pairs avant eux."
+
+"Nous sommes une association informelle de guerriers et d'expéditionnaires dans le Dyrwood. Pas aussi coté que vos amis des Chevaliers du Creuset, voyez-vous, mais au moins, nous nous souvenons de nos racines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>L'expression de Wenan devient sérieuse, le timbre de sa voix s'approfondissant. "Des hommes et des femmes respectables qui essaient de suivre la voie tracée par leurs pairs avant eux."
+
+"Nous sommes une association informelle de guerriers et d'expéditionnaires dans le Dyrwood. Pas aussi coté que les Chevaliers du Creuset, mais vous savez que cet « ordre » est une imposture. Au moins, nous nous souvenons de nos racines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Comme vous n'êtes pas un ami des Chevaliers, je suis sûr que ça ne va pas vous plaire de savoir qu'ils sont équipés de monstruosités métalliques animées par des âmes. Nous devons nous préparer à nous défendre, la ville y compris."</DefaultText>
+      <FemaleText>"Comme vous n'êtes pas une amie des Chevaliers, je suis sûr que ça ne va pas vous plaire de savoir qu'ils sont équipés de monstruosités métalliques animées par des âmes. Nous devons être prêts à nous protéger ainsi que la ville."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il vous lance un regard d'évaluation. "Vous êtes dans les petits papiers des Chevaliers. Vous avez dû entendre des rumeurs sur les monstruosités animées par des âmes qu'ils construisent. Je ne sais pas pour vous, mais je ne fais pas confiance à Clyver, ce moulin à paroles, pour ce genre de choses. Ceux, comme nous, qui ont la tête sur les épaules, doivent être prêts à nous protéger, la ville y compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Il lance un long regard de côté vers vous. "J'espère que vous n'irez pas tout déblatérer auprès du crieur public lorsque vous saurez que les Chevaliers touchent à l'animancie. Souiller des âmes pour construire des guerriers en métal."
+
+"Nous devons nous préparer à nous défendre ainsi que la ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Il lance un long regard de côté. "Les Chevaliers touchent à l'animancie. Souiller des âmes pour construire des guerriers en métal. Vous avez sûrement assez de bon sens pour voir comment ça va se terminer."
+
+"Nous devons nous préparer à nous défendre, la ville y compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Il lance un long regard de côté. "Les Chevaliers touchent à l'animancie. Souiller des âmes pour construire des guerriers en métal."
+
+"Nous devons nous préparer à nous défendre, la ville y compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Par où commencer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"En y réfléchissant, je ne suis pas encore prêt pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Il baisse la voix. "Certaines de mes autres expéditions sont revenues en colportant la rumeur d'un lieu nommé Lhe a Rhemen près de la gorge de Stormwall. Il est supposé contenir les plus grandes armes que ces ordures d'Engwithans ont jamais fabriquées. Et nous en avons besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Il vous toise de haut en bas et grogne. "Si vous décidez de vous salir les mains avec une véritable expédition, vous savez où me trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Il fronce les sourcils en observant le tas d'armes. "Elles sont vieilles, certes, mais ce n'est pas ce à quoi je m'attendais."
+
+Il se tourne à nouveau vers vous. "J'imagine que vous n'avez pas découvert ce qui est supposé les rendre si spéciales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Les Engwithans les emplissaient de fragments de leur propre essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Mentez] "Je n'ai aucune idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Il grogne. "Nous sommes deux. Mais peut-être y a-t-il de l'argent dedans. Ces culs serrés de Brackenbury adorent ce genre de camelote."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Que les monstres les emportent !" Il regarde les armes rouillées avec horreur et dégoût. "Si j'avais su... Je veillerai à ce que quelqu'un dispose de cette perversion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Il pose les armes. "Au moins je n'ai pas à gâcher d'autres expéditions là-dessus. Si les Chevaliers agissent, nous aurons simplement à les affronter avec le matériel désuet dyrwoodan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Bonne chance à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ils n'ont aucune chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Espérons que l'on puisse éviter tout conflit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"C'est le bon esprit ! Rien ne peut s'opposer à quelques dyrwoodans déterminés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Il croise les bras. "S'ils cherchent des ennuis, nous serons là pour riposter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Vous réalisez qu'ils sont mieux équipés que vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Depuis quand est-ce que cela a de l'importance ? Nos ancêtres ont bouté les militaires aedyrans. Nos fondateurs ont vaincu l'armée d'un soi-disant dieu."
+
+Il hoche la tête vers les hommes et les femmes autour du hall. "Nous sommes capables de les vaincre. Si on doit en arriver là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Les Chevaliers sont du côté du duc cette fois-ci. S'il prend une mauvaise décision, ils seront sur notre chemin. Je fais juste des préparatifs."
+
+Un rictus inégal se déploie sur son visage. "Je savais que vous y arriveriez. Ne m'en veuillez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Nous n'avons pas changé. Nous protégeons le peuple. Nous sommes sa première ligne de défense, quoi qu'il arrive."
+
+"Nous avons de nouveaux ennemis à présent. Si ce n'est pas Waidwen, c'est son fichu Héritage. Ce sont les sales bouchers d'âmes de Brackenbury qui font empirer les choses pour nous tous. C'est probablement eux qui sont responsables de toute la situation."
+
+"Bref, nous ne partons nulle part, et nous sommes bien plus que douze à présent. Nous avons déjà défendu Dyrwood, nous le feront de nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Au moins ils se souviennent des racines des autres et font semblant d'être comme eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Cela semble une réaction plutôt raisonnable de retrouver des artefacts que vous ne comprenez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ce n'est pas bien étonnant que les Glanfathans refusent que vous fouilliez les ruines, si vous détruisez tout ce que vous y trouvez !" Kana grimace. "Écoutez-moi un peu, à prendre leur parti !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"S'ils attaquent le sanatorium de Brackenbury, il y a toujours l'espoir qu'ils y restent un moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Les yeux dorés de Pallegina se plissent et elle vous lance un regard de côté, secouant la tête de désapprobation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"C'est une blague, n'est-ce pas ? Il s'attend à ce qu'on vole les Engwithans pour... pour quelques vieilles armes rouillées !" Hiravias fulmine et serre les poings.
+
+"Je devrais le tuer rien que pour l'avoir suggéré ! Nous n'allons pas faire cela. N'est-ce pas ?" Il vous regarde pendant un long moment à mesure que son visage pâlit. "Oh non... Vous y songez vraiment... Je le sens... vous y songez vraiment ! À quoi bon ESSAYER de vous inculquer la décence, à vous autres païens ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Vous savez qu'en vous opposant aux Chevaliers vous risquez de provoquer les Glanfathans ? Postenago, à quoi pensez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Où est le mal d'armer une bande de gars en colère qui n'aiment pas trop réfléchir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Kana secoue la tête. "Des ruines millénaires, et leur seule valeur pour ces gens-là est d'avoir un avantage sur les Chevaliers du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Les Chevaliers ont commencé tout comme vous. Attention à ne pas finir comme eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Vous n'aimez peut-être pas ce que les Chevaliers représentent, mais il y a beaucoup à apprendre d'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Considérez simplement le fait que la Baie du défi a besoin d'ordre à présent. L'Héritage a fait assez de dégâts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Tant que vous êtes prêt à prendre les choses en main. C'est le moment d'être décisif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Il fait courir ses doigts sur sa barbe rugueuse. "Comme si je ne le savais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Il renifle. "C'est une certitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Il renifle. "Comme la manière de gratter des lettres sur une armure ?" Mais il a l'air pensif en frottant ses doigts émoussés sur sa barbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Il renifle. "Ces soi-disant seigneurs patrouillant dans les rues n'ont aidé personne. Mais je vois ce que vous voulez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Les cicatrices couvrent les bras de Wenan et il arbore un œil violacé. Mais le rictus sur son visage est quasi triomphal.
+
+"Enfin, nous voyons les véritables intentions de ces animanciens et de leurs laquais dans le donjon du Creuset. Ce n'était qu'une question de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Quel était votre rôle dans les émeutes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Unifier la ville contre les Chevaliers, bien sûr. Leurs intentions étaient claires lorsque leur animancien a assassiné le duc."
+
+Il secoue la tête. "Beaucoup de sang dans les rues. Quel dommage de perdre autant d'hommes et de femmes de valeur, mais nous devions agir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"J'ai quelque chose, si ça ne vous gêne pas d'empiéter sur les plates-bandes des Chevaliers du Creuset. En y réfléchissant, les Doemenel ne seront pas non plus ravis. Ils n'ont jamais aimé voir quelqu'un avec des choses plus jolies qu'eux."
+
+"Mais cela irait à un explorateur comme vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Il lance un long regard de côté vers vous. "Les Chevaliers touchent à l'animancie. Souiller des âmes pour construire des guerriers en métal."
+
+"Vous comprenez sûrement pourquoi nous avons besoin d'être prêts à attaquer les premiers. Nous devons nous défendre. Et défendre la ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"J'ai quelque chose, si ça ne vous gêne pas d'empiéter sur les plates-bandes des Chevaliers du Creuset. D'un autre côté, je suis sûr qu'un radical en rêverait. En y réfléchissant bien, vous arriverez également à contrarier les Doemenel. Ils n'ont jamais aimé voir quelqu'un avec des choses plus jolies qu'eux."</DefaultText>
+      <FemaleText>"J'ai quelque chose, si ça ne vous gêne pas d'empiéter sur les plates-bandes des Chevaliers du Creuset. D'un autre côté, je suis sûr qu'une radicale en rêverait. En y réfléchissant bien, vous arriverez également à contrarier les Doemenel. Ils n'ont jamais aimé voir quelqu'un avec des choses plus jolies qu'eux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Alors les Douzaines participent aux auditions sur l'animancie dans le palais ducal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Il roule des yeux. "Quelqu'un doit empêcher les Chevaliers du Creuset de tous nous mener à la ruine, et les Doemenel ont certainement leur responsabilité là-dedans. Mais Rictus-de-loup est encore un homme du peuple, et il a toujours été sensible à d'autres sujets. Il nous écoutera à un moment ou un autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Que pensez-vous de l'animancie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Comment se passent les auditions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Assez parlé des auditions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Je suis d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Mentez] "Je suis d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Le duc entendra la vérité à propos de l'animancie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ce sera notre perte si nous laissons faire. Les êtres civilisés ne devaient pas se mêler aux affaires de l'âme et il n'y a que les imbéciles qui ne le comprennent pas. Ou les fauteurs de troubles." Il se penche en avant, les bras croisés. "Et je suspecte qu'il y en ait plus d'un qui rivalisent pour capter l'attention du duc. Les tricheurs et les imposteurs qui cherchent à profiter du désastre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Morley me dit qu'il s'agit d'un rude combat. Le duc cherche par tous les moyens à combattre l'Héritage, et chacun sait que les Chevaliers travaillent pour lui en coulisses. Et en ce qui concerne les Doemenel, je suis incapable de vous dire ce qu'ils font. Ils prennent probablement de l'argent des Chevaliers pour faire durer cette farce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je ne laisserai pas un laquais des Chevaliers entrer au palais sous ma bannière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"J'ai quelque chose. Mais tout d'abord, aidez-le. Après, vous savez où me trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Je pensais plus à une expédition."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

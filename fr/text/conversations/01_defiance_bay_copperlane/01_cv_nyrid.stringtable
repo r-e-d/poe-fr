@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_nyrid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'homme devant vous vous gratifie d'un rictus plein de dents et plutôt déplaisant. "Bien. Un nouveau visage. Bienvenue, l'ami. Je m'appelle Purnisc. Et ceci..." Il fait un grand geste vers la pièce autour de vous. "... est mon humble demeure, et mon bureau d'affaires."</DefaultText>
+      <FemaleText>L'homme devant vous vous gratifie d'un rictus plein de dents et plutôt déplaisant. "Bien. Un nouveau visage. Bienvenue, l'amie. Je m'appelle Purnisc. Et ceci..." Il fait un grand geste vers la pièce autour de vous. "... est mon humble demeure, et mon bureau d'affaires."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Comment osez-vous frapper votre propre fiancée ! Comment pouvez-vous vous regarder dans la glace ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je vais jeter un œil à votre stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Quitter] "C'est tout pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Voilà, c'est tout ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Elle semble vous aimer. Pourquoi faites-vous cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Il y a beaucoup de poissons dans la mer. Dites-lui d'aller s'installer au Mât salé si elle se sent seule." Purnisc hausse les épaules. "C'est fini entre nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Parlons de Kaenra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Pas étonnant que Kaenra vous ait quitté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Donnez-lui la bague de Kaenra.] "Kaenra m'a demandé de vous donner ceci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Purnisc prend la bague et la tourne autour de ses doigts. "Jolie. Qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous ne reconnaissez pas la bague de mariage que vous avez donnée à Kaenra ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Les yeux de Purnisc se plissent. "Alors, vous n'allez pas du tout partir, l'ami. J'en avais marre de ce visage, de toute façon." Il élève la voix. "Gardes ! À moi !"</DefaultText>
+      <FemaleText>Les yeux de Purnisc se plissent. "Alors, vous n'allez pas du tout partir, l'amie. J'en avais marre de ce visage, de toute façon." Il élève la voix. "Gardes ! À moi !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Partez] "J'y vais maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Purnisc sourit. "Vous êtes de retour. Autre chose que je puisse faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Cela semble une chose difficile à oublier, donner la bague de votre grand-mère à quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je vais faire simple. Si vous avez l'argent, j'ai du svef. Vous êtes libre d'utiliser les lieux, du moment que vous ne faites rien de stupide et que vous n'allez pas vous mêler avec les autres clients. Maintenant." Purnisc se frappe les mains. "Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Cela fait beaucoup de gardes pour un seul homme. Vous devez être populaire."</DefaultText>
+      <FemaleText>"Cela fait beaucoup de gardes pour un seul homme. Vous devez être populaire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Bonjour, l'ami. Vous savez ce dont vous avez besoin ?"</DefaultText>
+      <FemaleText>"Bonjour, l'amie. Vous savez ce dont vous avez besoin ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Qu'est-ce que le svef ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous êtes sérieux ?" Purnisc vous regarde avec suspicion, puis incrédulité. "Le svef vaut chaque pand investi, mon ami. C'est incroyable. Il vous fait voir votre propre âme. Et vous êtes en présence du plus important marchand de svef de la Baie du défi."</DefaultText>
+      <FemaleText>"Vous êtes sérieuse ?" Purnisc vous regarde avec suspicion, puis incrédulité. "Le svef vaut chaque pand investi, mon amie. C'est incroyable. Il vous fait voir votre propre âme. Et vous êtes en présence du plus important marchand de svef de la Baie du défi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"La mémoire a disparu, hein ? Pas grave. Le svef est l'une des substances les plus raffinées venant de Dyrwood, mon ami. Il vous fait voir votre propre âme.</DefaultText>
+      <FemaleText>"La mémoire a disparu, hein ? Pas grave. Le svef est l'une des substances les plus raffinées venant de Dyrwood, mon amie. Il vous fait voir votre propre âme.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Qu'est-ce que vous faites, exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Purnisc lève un sourcil. "Bien sûr. Très perspicace. Ce commerce attire certains individus peu fréquentables. La clientèle est parfois un peu brusque. Et de temps en temps, quelqu'un se retrouve à mettre le nez dans ce qui ne le regarde pas, et il faut apprendre les manières aux fauteurs de troubles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Il y a quelque chose qui cloche ici, et je ne compte pas partir avant de savoir ce que c'est."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Elle n'attendait que cela," grogne Purnisc. "Un peu comme vous, en ce moment. Peut-être devriez-vous arrêter de fouiller dans des affaires qui ne vous concernent pas. Moi, j'ai un commerce à faire fonctionner." Il tend le doigt. "La porte, c'est par là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Purnisc rit. "Oh, oui, je vois maintenant. Elle veut attirer l'attention, c'est ça ? Bon débarras, alors. Je suis navré d'avoir gâché de l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Purnisc roule des yeux. "Vous ne savez vraiment quand vous arrêter, n'est-ce pas ? Très bien. Que lui arrive-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Purnisc opine du chef. "Bien. Retour aux affaires ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Purnisc opine du chef. "Bien. Maintenant, voulez-vous acheter quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"J'ai trouvé l'homme que vous avez ligoté à l'étage... celui qui prétend être Purnisc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Le sourire franc vacille. "Voyez-vous cela ?" Il secoue la tête. "Bien dommage que vous ayez fouillé dans les parages, l'ami. Parce que maintenant, je ne peux plus exactement vous laisser partir, pas vrai ?"</DefaultText>
+      <FemaleText>Le sourire franc vacille. "Voyez-vous cela ?" Il secoue la tête. "Bien dommage que vous ayez fouillé dans les parages, l'amie. Parce que maintenant, je ne peux plus exactement vous laisser partir, pas vrai ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Purnisc hausse les épaules. "Bref, c'est une belle bague. On devrait pouvoir en tirer un bon prix. Merci l'ami."</DefaultText>
+      <FemaleText>Purnisc hausse les épaules. "Bref, c'est une belle bague. On devrait pouvoir en tirer un bon prix. Merci l'amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Et j'espère que vous êtes là pour faire des affaires." Il regarde le garde à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Si vous posez la question..." Purnisc se fend d'un sourir narquois. "Soyons clair. Vous allez voir les gardes, vous allez regretter d'avoir mis les pieds ici. En fait, je serais même prêt à parier que vous êtes en train de reconsidérer toutes les actions de votre vie qui vous ont menées ici, devant moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Peut-être qu'elle ne vaut même pas la peine de s'en souvenir, hein ?" Purnisc renifle. "Pendant que vous jouez au caniche avec elle, pourquoi vous n'allez pas la voir et lui dire de rester en dehors de tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Son visage tremble d'une émotion rapide et indéchiffrable.
+
+"Mais vous êtes malin, et je pense que nous pouvons finir bons amis. Vous pouvez demander à mes, euh, clients précédents. Ils parleront en ma faveur." Il sourit.</DefaultText>
+      <FemaleText>Son visage tremble d'une émotion rapide et indéchiffrable.
+
+"Mais vous êtes maligne, et je pense que nous pouvons finir bons amis. Vous pouvez demander à mes, euh, clients précédents. Ils parleront en ma faveur." Il sourit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Son visage tremble d'une émotion rapide et indéchiffrable.
+
+"Je suis sûr que vous êtes trop malin pour vous impliquer dans tout ça, pas vrai ?"</DefaultText>
+      <FemaleText>Son visage tremble d'une émotion rapide et indéchiffrable.
+
+"Je suis sûr que vous êtes trop maligne pour vous impliquer dans tout ça, pas vrai ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je commençais à me lasser de prétendre être ce type triste." Sa bouche se courbe en un nœud. "Gardes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous pouvez aller en paix dans mon donjon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Il recule, le regret se présentant déjà dans ses yeux. "SI c'est mon seul choix..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Laissez-moi sortir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Attendez. Peut-être pouvons-nous trouver un arrangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Attaquez] "C'est votre enterrement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Qu'est-ce que vous proposez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Faites-moi une réduction sur le svef et je n'interférerai pas dans vos opérations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Attaquez] "J'ai changé d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Nyrid vous considère un moment. "D'accord, mais d'abord j'ai besoin d'un signe de confiance de votre part. Tuez Purnisc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Considérez-le comme mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"C'est déjà fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Nyrid hoche la tête. "Alors il semble que nous sommes prêts à faire des affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Nyrid hoche la tête. "Quand vous aurez terminé, retour aux affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Nyrid sourit. "Mon bon ami [Player Name]. Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText>Nyrid sourit. "Ma bonne amie [Player Name]. Que puis-je faire pour vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je vais jeter un œil à votre stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je n'imagine pas qu'un honnête individu comme vous soit venu faire des affaires..." Il regarde le garde à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Il sourit. "Un incorrigible négociateur. "Qu'est-ce que vous proposez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Vous voulez dire que vous n'avez toujours pas compris ?" Purnisc se fend d'un sourir narquois. "Soyons clair. Vous allez voir les gardes, vous allez regretter d'avoir mis les pieds ici. En fait, je serais même prêt à parier que vous êtes en train de reconsidérer toutes les actions de votre vie qui vous ont menées ici, devant moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Purnisc roule des yeux. "Parfait. Épargnez-moi les jérémiades. Qu'est-ce qu'elle veut ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Stop !" Nyrid titube, une main ensanglantée devant lui. "Je me rends ! Partez et je m'en irai en paix, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Trop tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous êtes du genre prudent." Purnisc se fend d'un sourir narquois. "Soyons clair. Vous allez voir les gardes, vous allez regretter d'avoir mis les pieds ici. En fait, je serais même prêt à parier que vous êtes en train de reconsidérer toutes les actions de votre vie qui vous ont menées ici, devant moi."</DefaultText>
+      <FemaleText>"Vous êtes du genre prudente." Purnisc se fend d'un sourir narquois. "Soyons clair. Vous allez voir les gardes, vous allez regretter d'avoir mis les pieds ici. En fait, je serais même prêt à parier que vous êtes en train de reconsidérer toutes les actions de votre vie qui vous ont menées ici, devant moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je me suis occupé de Purnisc."</DefaultText>
+      <FemaleText>"Je me suis occupée de Purnisc."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Oui, on a entendu." Il pointe le plafond. "Celui-là n'a pas voulu partir en douceur, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

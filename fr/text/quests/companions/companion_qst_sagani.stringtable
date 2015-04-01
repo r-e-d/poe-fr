@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_sagani</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La longue chasse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez vers les falaises que vous avez vues en vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retrouvez l'arche d'adra dans les bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Localisez la forêt de la dernière vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sagani, une naine de l'île au sud de Naasitaq, est venue dans le Dyrwood à la recherche de la réincarnation de Persoq, un ancien de son village. Cela fait cinq ans qu'elle suit sa trace.
+
+Les autres villageois lui ont donné la figurine d'adra de Persoq, qui contient une partie de son âme. Elle l'utilise pour le retrouver, mais il est devenu de plus en plus dur de le localiser au fur et à mesure qu'elle s'est rapprochée. Lorsqu'elle a appris que je suis un Gardien, elle m'a demandé de l'aider.
+
+Lorsque Sagani voyage avec moi, ma sensibilité unique me permet d'apercevoir des traces du passage de Persoq, ou de ce qu'il est devenu.</DefaultText>
+      <FemaleText>Sagani, une naine de l'île au sud de Naasitaq, est venue dans le Dyrwood à la recherche de la réincarnation de Persoq, un ancien de son village. Cela fait cinq ans qu'elle suit sa trace.
+
+Les autres villageois lui ont donné la figurine d'adra de Persoq, qui contient une partie de son âme. Elle l'utilise pour le retrouver, mais il est devenu de plus en plus dur de le localiser au fur et à mesure qu'elle s'est rapprochée. Lorsqu'elle a appris que je suis une Gardienne, elle m'a demandé de l'aider.
+
+Lorsque Sagani voyage avec moi, ma sensibilité unique me permet d'apercevoir des traces du passage de Persoq, ou de ce qu'il est devenu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lorsque j'examine la statuette d'ours, j'ai le sentiment que je me tenais en haut des falaises surplombant l'eau. Persoq, ou celui qu'il est à présent, doit être là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Persoq était déjà parti le temps que l'on atteigne la Falaise du Bois de perle. Mais j'ai eu une autre vision, et cette fois-ci, il était au fond d'une forêt, courant vers une arche d'adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nous avons trouvé l'arche d'adra au Rivage des ormes, et j'ai eu une autre vision. Cette fois-ci, Persoq se tenait dans une forêt entourée d'arbres noircis et de ruines écroulées. Il se trouvait parmi un groupe de chasseurs glanfathans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Pallegina a reconnu l'endroit en se basant sur ma description. Elle a dit qu'elle avait vu des falaises comme celles-ci sur la côte, au sud de la Baie du défi, au cours de son voyage vers le Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>La brise était iodée. Ces falaises sont proches de l'océan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Les profondes ornières de la route suggèrent un passage de chariot lourd. Cet endroit ne peut être loin d'une grande ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Edér a déjà vu l'arche d'adra. Il a dit qu'elle se trouve sur les rives du lac Bael, à l'opposé des Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai entendu parler de cette arche. Il y a plusieurs piliers d'adra près d'ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>En se basant sur le sol humide et des roseaux de rivière des environs, je suppose que l'arche est proche d'une grande étendue d'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Hiravias connaissait la forêt que j'ai décrite. Il a dit qu'elle se trouve au nord des Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>La guerre des Arbres noirs a touché à l'évidence cet endroit. Nombre des batailles les plus féroces ont eu lieu juste à l'extérieur des villes et des villages glanfathans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Je pense que cette forêt se trouve sur le flanc d'une montagne, quelque part. Le sol était rocheux, les arbres étaient pour la plupart à feuilles persistantes et l'air était frais et raréfié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai entendu par hasard que les inondations ont baissé. Nous avons peut-être une chance de retrouver Persoq à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Je suis venu à la Falaise du Bois de perle, ce qui me rappelle la vision que j'ai eue de Persoq. Je vais devoir guetter des signes de lui par ici.</DefaultText>
+      <FemaleText>Je suis venue à la Falaise du Bois de perle, ce qui me rappelle la vision que j'ai eue de Persoq. Je vais devoir guetter des signes de lui par ici.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nous avons finalement trouvé Persoq. C'était un cerf et il avait été blessé par des chasseurs. Néanmoins, Sagani lui parla des changements que Massuk a connu et de quelle manière les villageois se souviennent de lui. Je pense que l'épreuve a réaffirmé son volontarisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Nous avons finalement trouvé Persoq. C'était un cerf et il avait été blessé par des chasseurs. Néanmoins, Sagani lui a parlé de sa famille. Je pense que l'épreuve lui a rappelé à quel point son mari et ses enfants lui manquent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nous avons finalement trouvé Persoq. C'était un cerf et il avait été blessé par des chasseurs. Sagani semblait réaliser qu'il s'agissait juste d'un rituel pour le confort de son peuple dans son village de Massuk. Elle a récité les noms des villageois, mais je pense qu'elle a trouvé toute cette initiative plutôt dénuée de sens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nous n'avons jamais trouvé la réincarnation de Persoq.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1012_cv_vithrack_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Votre tête vous démange, puis un tintement particulièrement aigu retentit. Des images apparaissent dans votre cerveau : vous voyez des nids alignés le long du mur d'une caverne obscure. Vous voyez aussi un vaste réseau de toiles, quelque part dans les profondeurs, ainsi que les sentinelles que vous avez récemment éliminées, leurs corps ratatinés sur le sol de la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Parlez-moi des vithracks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vouloir en savoir plus sur viande et os ? Ou sur villes, argent brillant ? Vithracks être peuple. Grands tisseurs." Le vithrack émet un étrange sifflement. "Vithracks pas avoir maison. Sans nid, vithracks être rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>La créature émet un sifflement aigu et perçant et s'élève de façon menaçante dans les airs. Tout autour de vous, d'autres créatures s'avancent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Le vithrack penche la tête en guise de salutation. "Animal [Player Race] de retour. Animal devoir être prudent dans profondeurs. Beaucoup d'yeux regarder là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tcharek saluer animal [Player Race]. Animal avoir été dans profondeurs ? Animal avoir ce que vithracks chercher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Animal [Player Race] de retour." Le vithrack vous regarde avec curiosité. "Animal vouloir quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bienvenue, animal [Player Race]. Animal bienvenu ici. Animal pouvoir se reposer si envie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Donnez les objets à Tcharek.] "J'ai tous les échantillons d'adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Partez.] "Je reviendrai bientôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Qu'allez-vous faire maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vithracks étudier ce que ami colonie avoir apporté. Vithracks trouver vite réponses. Pour apporter maison. Emmener jeunes aussi. Eux... grands quand vithracks atteindre Sstravek'narith." Le vithrack émet un son creux. Il doit s'agir d'une sorte de rire. "Tcharek vieux à ce moment-là."</DefaultText>
+      <FemaleText>"Vithracks étudier ce que amie colonie avoir apporté. Vithracks trouver vite réponses. Pour apporter maison. Emmener jeunes aussi. Eux... grands quand vithracks atteindre Sstravek'narith." Le vithrack émet un son creux. Il doit s'agir d'une sorte de rire. "Tcharek vieux à ce moment-là."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tcharek donner ça aussi. Trouvé dans tunnels, et servir à rien à vithracks. Protéger [Player Race], oui ? Ça porter chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Maître d'ici..." Le vithrack vous montre les murs qui vous entourent. "Culture d'adra. Pas couper, pas détruire. Faire pousser. Former. Si vithracks trouver secret..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Grands travaux. Statue. Machines. Vithracks pouvoir tisser soie et adra aussi. Nids plus robustes. Colonie plus forte. Vithracks faire grands travaux." Vous sentez tout à coup de la mélancolie chez le vithrack. "Vithracks être proches. Trouver machines, cristaux. Mais trouver hommes d'adra, aussi, dans profondeurs. Beaucoup morts. Beaucoup trop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Que cherchez-vous exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je vais y réfléchir. En attendant, j'aurais d'autres questions à vous poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Choses à étudier. Adra. Dans ruines, dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Devoir voir comment Od Nua faire hommes adra. Carapaces... adra, oui ? Pas besoin pour animal de tuer hommes adra. Juste besoin carapace. Besoin aussi pièce machine. Pièce comme cœur machine. Adra et métal brillant." Le vithrack réfléchit un moment. "Dernière pièce adra. Pas adra des murs. Différent. Pur. Difficile à trouver. Tcharek espérer trouver en dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Si animal [Player Race] rapporter tout ça, vithracks avoir dette envers animal. Aide précieuse pour colonie. Pour vithracks. Pouvoir rentrer maison après longue attente. Pour ça, Tcharek récompenser animal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je vais voir ce que je peux trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ça ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Le vithrack émet un étrange claquement et vous sentez une vague gratitude envahir votre esprit. "Alors, Tcharek reconnaissant. Accès aux ruines à l'est. Roche creusée par éclaireurs. Eux avoir trouvé marches. Et pas seulement marches. Maintenant, eux protéger colonie des dangers du dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Sa déception est palpable. "Tcharek comprendre." La voix du vithrack est calme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ça m'a fait plaisir de vous aider, Tcharek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vos éclaireurs n'étaient pas si reconnaissants. Ils ont essayé de me tendre une embuscade sur le chemin du retour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vos éclaireurs m'ont attaqué sur le chemin du retour. Pardonnez-moi, mais j'ai dû me défendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous sentez un écho de tristesse traverser votre esprit. "Tcharek comprendre. Tcharek désolé pour attitude de Kestorik. Elle protéger nid depuis des années. De beaucoup de dangers." Le vithrack marque une pause. "[Player Race] pas avoir de blessures, Tcharek espérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Vous sentez des doigts fantômes explorer vos pensées. "Tcharek comprendre... Tcharek désolé pour attitude de Kestorik. Tcharek parler aux éclaireurs. Expliquer. Eux pas devoir faire de mal à animal [Player Race]. Voilà. Tcharek donner ceci. D'accord pour faire paix ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"C'est tout ce que ça me rapporte d'avoir aidé votre colonie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vithrack se souvenir. Longtemps après que soleil plongé dans mer. Être... début de quelque chose. Nouveau tour de roue." Tcharek se tourne vers les nids alignés le long du mur. "Jeunes vivre dans meilleur endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Animal [Player Race] pas satisfait ? ... Tcharek avoir gemmes. Animal [Player Race] peut prendre. Animal faire meilleur usage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Savez-vous quelque chose sur le maître de cet endroit ? Od Nua ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Oui. Animal pas besoin de se battre." La créature déploie ses bras. "Vithracks saluer animal. Bienvenue au nid. Animal venir en paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vos éclaireurs m'ont attaqué sur le chemin du retour. Est-ce ainsi que les vithracks remercient ceux qui les aident ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Partez] "Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"J'ai déjà visité les profondeurs. J'ai avec moi certaines choses qui pourraient vous intéresser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Lorsque les images s'estompent, vous voyez une autre créature à tête d'araignée devant vous. Elle lève ses mains griffues. Vous sentez un nouvel élancement dans votre crâne, puis une voix inconnue s'immisce dans votre esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Orech ! Duvathi na rot uvraec nat." La créature marque une pause, les crocs contractés. "...Caledina fosta agrengidare ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Pardon, mais je ne comprends pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous parlez l'aedyran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Sortez de ma tête, créature. Nous n'avons rien à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Attaquez avant que la créature ne puisse en dire plus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>La créature émet un étrange gazouillis. Dans votre tête, vous entendez : "Langue d'Aedyr. Beaucoup de tours de roue depuis dernière pensée accordée... Animal intrus. Nids ici. Beaucoup de risques pour défense. Protecteurs morts. Animal rassasié ? Animal écouter maintenant ?" La créature émet un claquement. "Pas de combat ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Je ne suis pas un animal !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"J'écoute. Inutile de continuer à se battre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ce sont ces gardes qui ont lancé une attaque contre moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>La créature vous considère en silence pendant un moment. "Animal [Player Race]", corrige-t-elle, simplement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Quelles langues parliez-vous tout à l'heure ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Le vithrack émet un gazouillis mais ne répond pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Gardes pas avoir survécu", remarque calmement la créature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Attaquez] "Je vais vous montrer ce qu'est un animal, face d'araignée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je crois que vous avez besoin d'améliorer votre Aedyran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Pas parlé depuis des années. Beaucoup... d'accents. Eld tonge frae ylfen laerds. Oublié beaucoup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Mais animal plaisanter. Parler, oui ? Pas endroit pour se battre. Nids à protéger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>La créature vous fixe, impassible, pendant un long moment. "Bien", entendez-vous. "Bon, vithrack souhaiter voyage rapide." Elle recule et le tintement s'estompe dans votre tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>La créature qui est devant vous émet un grognement audible. Mais la voix qui résonne dans votre tête est calme. "Langue d'Aedyr. Animal premier depuis des années. Animal intrus." Elle désigne le chemin qui est derrière vous de la pointe de sa griffe. "Défenseurs du nid tués. Animal avoir fini ? ... Parler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>La créature émet un étrange gazouillis. Dans votre tête, vous entendez : "Langue d'Aedyr. Beaucoup de tours de roue depuis dernière pensée accordée... Animal intrus. Nids ici. Protecteurs morts. Animal avoir fini ? Animal écouter maintenant ? Pas de combat ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Très bien, j'écoute. Mais vous n'avez pas intérêt à tenter quoi que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Pas tenter", convient la créature, ravie. "Vithracks saluer animal. Bienvenue au nid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Le vithrack réfléchit en passant une griffe sur un de ses crocs. "Eret narek Od Nua... Nom saigner sur murs, mais vithracks pas connaître visage et voix. Vithracks voir grand travaux. Voir... statue, oui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Maître de beaucoup de choses. Maître d'adra. De beaucoup de voix, piégées dans pierre." Le vithrack désigne le reste des cavernes. "De choses en dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Beaucoup admiration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Comme avoir dit." Les mandibules du vithrack se crispent. "Nom maître vieux quand vithracks être arrivés. Seule œuvre toujours exister. Grands travaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Le vithrack vous regarde un moment, puis vous retourne la question ? "Qu'est-ce que animal [Player Race] ? Vithracks... voir ce que autres pas voir. Vithracks voir lumière intérieure." Il vous désigne. "Vithracks voir grande lumière brûler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vithracks parler sans voix. Centaines d'âmes, dans grande ville. Sstravek'narith être colonie. Grand voyage. Animal devoir marcher longtemps pour aller là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"À quoi ressemble la colonie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"C'est un dialecte très ancien. Vous parlez l'Aedyran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Vous sentez une autre démangeaison vous traverser le crâne, puis un écho de joie résonne dans votre tête. "Vithracks avoir dette. Ça permettre vithracks apprendre secrets du maître. Vithracks faire statues plus grandes que celle du vieux maître mort. Sstravek'narith briller comme mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Bon, j'y vais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vithracks remercier animal. Animal prendre pièce. Coutume, non ? Vithracks avoir pièces différentes époques. Pouvoir donner beaucoup." Il réfléchit un moment. "Si animal [Player Race] aller dans profondeurs, devoir parler à Krivi. Krivi avoir ressources. Krivi pouvoir aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Le vithrack penche légèrement la tête comme pour vous faire signe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vithracks sentir changement dans air. Chemins infinis tranquilles maintenant. Grâce à animal [Player Race], grands changements. Tcharek respecter ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Grande lumière dans obscurité." La voix surnaturelle du vithrack semble plus sombre. "Beaucoup de cœurs vivre ensemble. Construire." Le vithrack incline la tête. "Un jour, vithracks revenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Après ce que j'ai vu, je me demande s'il est judicieux que vous rapportiez cette chose dans votre colonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Pas d'inquiétude. Maître Od Nua talentueux, mais... pas comme vithracks. Vithracks créer tout ça, mais en mieux. Pas besoin de beaucoup plus. Quelques petites choses, pour étudier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Vithracks... chercher. Chercher connaissance pour chez eux. Pour colonie, Sstravek'narith. Loin d'ici. Vithracks chercher depuis longtemps. Vithracks nostalgiques avec... souvenirs. De chez vithracks. Vithracks avoir fait nids. Créé nouveau foyer. Et trouvé ce que vithracks chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Vous sentez la surprise du vithrack, tel l'écho de vos propres sentiments. "[Player Race] dire vrai ? Animal porter chance. Tcharek vouloir voir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Il vous considère avec un intérêt soudain. "Animal [Player Race] fort. Animal avoir vaincu autres animaux. Tué gardes. Animal pouvoir aider vithracks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Animal devoir expliquer tâche et Kestorik laisser animal passer." Tcharek marque une pause. "Kestorik pas gentille. Animal faire attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>La créature émet un étrange gazouillis. Dans votre tête, vous entendez : "Langue d'Aedyr. Beaucoup de tours de la roue depuis dernière pensée accordée… Animal intrus. Nids ici. Beaucoup de risques pour défense. Animal écouter ?" La créature émet un claquement. "Pas de combat ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

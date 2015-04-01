@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_sanitarium</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'homme qui attend</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parlez au gardien en chef du sanatorium de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Interrogez les animanciens à propos d'activités suspectes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Parlez d'Azo à Ethelmoer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Enquêtez sur le pavillon des patients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Interrogez les patients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Interrogez Gram dans le Pavillon nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Parlez au patient situé au bout du couloir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Maîtrisez Uscgrim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Interrogez Gram dans le Pavillon nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Cherchez l'agent de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Trouvez le "lieu de misère et de folie".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Lors d'une de mes visions, l'Acolyte de la Clé plombée m'a montré un agent dans un "lieu de misère et de folie". Je dois trouver cet agent et découvrir ce qu'il trame pour tenter d'obtenir des indices sur l'homme que je cherche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je devrais me rapprocher du gardien en chef du sanatorium, Ethelmoer, pour savoir comment y poursuivre mon enquête sur la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le gardien en chef Ethelmoer m'a invité à m'adresser aux animanciens du sanatorium pour savoir s'ils avaient remarqué quelque chose susceptible de prouver l'implication de la Clé plombée.</DefaultText>
+      <FemaleText>Le gardien en chef Ethelmoer m'a invitée à m'adresser aux animanciens du sanatorium pour savoir s'ils avaient remarqué quelque chose susceptible de prouver l'implication de la Clé plombée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Caedman Azo n'était pas dans son bureau, certainement trop occupé à se livrer à des expériences secrètes. Je devrais en référer au gardien en chef. Reste à savoir si cela est lié aux opérations de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Le gardien en chef a accepté que j'accède au pavillon des patients. L'animancien en charge, Caedman Azo, mène des expériences interdites. Son comportement suspect est mon meilleur indice pour trouver l'agent de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Azo dit ne pas avoir vraiment eu le temps de s'occuper de ses patients récemment. Il a indiqué que les patients les "plus fonctionnels" et situés dans la partie avant du pavillon étaient les mieux placés pour avoir observé un comportement suspect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Freyol a indiqué qu'un patient du Pavillon nord, un certain Gram, avait souvent servi de cobaye à Caedman Azo et ce, contre son gré visiblement. Gram sera peut-être en mesure de me dire si Azo collabore avec la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Une introspection dans l'âme d'un patient à moitié fou du nom de Gram a révélé l'étrange comportement d'un adolescent situé tout au bout du Pavillon nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>J'ai découvert que ce patient, Uscgrim, était possédé par l'homme que je cherche. Il doit être soumis pour me permettre de savoir comment remédier au Réveil dont suis victime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Les dossiers d'Azo indiquent qu'il a parfois forcé des patients à subir des expériences contre leur volonté. Un de ces patients du Pavillon nord, un certain Gram, lui a souvent servi de cobaye. Gram sera peut-être en mesure de me dire si Azo collabore avec la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Après m'être mis à dos le sanatorium, je vais devoir moi-même trouver l'agent de la Clé plombée. Cet agent doit être quelque part à l'intérieur du sanatorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>L'Acolyte de la Clé plombée m'a montré un beau quartier qui avait aussi son lot de misère et de folie. Quelqu'un y attendait, un « prisonnier par choix ». 
+
+Pour trouver cette personne, je dois d'abord me rendre dans ce quartier. Les gardes pourront peut-être me renseigner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Moedred a indiqué que les patients du sanatorium sont plus agités que d'habitude et que Caedman Azo en a la charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Cafden pense que Caedman Azo se livre à des expériences malgré l'interdiction qu'il a reçue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Audmer m'a dit que s'il se passait quelque chose d'étrange au sanatorium, il fallait enquêter du côté de l'étage inférieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Nans a indiqué qu'elle était trop absorbée par ses recherches pour prêter attention à ce qui se passe au sanatorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai tué Azo, mais je devrais pouvoir trouver quelque chose d'utile dans ses notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Après l'avoir interrogé, Azo a reconnu ne pas avoir traité Gram avec beaucoup d'éthique, mais a insisté pour que je lui parle afin de voir par moi-même ses progrès.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Freyol a indiqué que Caedman Azo est le seul à avoir accès au Pavillon nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Freyol a indiqué que Caedman Azo est le seul à avoir accès au Pavillon nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Bellasege prétend ne pas être la mieux placée pour parler du comportement des autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Azo m'a remis la clé permettant d'accéder au Pavillon nord. Il l'a fait à contrecœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Azo m'a remis la clé permettant d'accéder au Pavillon nord. Il l'a fait à contrecœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>J'ai trouvé des dossiers qui laissent à penser que Caedman Azo s'est livré à des expériences sur un certain Gram, mais contre son gré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai démasqué l'agent de la Clé plombée dans le sanatorium. Il est capable de prendre possession des âmes les plus faibles et utilisait un des patients pour influencer les recherches en animancie de Caedman Azo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

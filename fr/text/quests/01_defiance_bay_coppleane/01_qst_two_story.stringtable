@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_two_story</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un boulot à deux niveaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parlez du complot à quelqu'un.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Récupérez la note d'Abrecan Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez la note à Abrecan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Volez le cœur de la Marche blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Volez le cœur de la Marche blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Donnez le cœur de la Marche blanche à Abrecan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai appris l'existence d'un complot visant à cambrioler un noble de Brackenbury, le seigneur Reymont, et d'une lettre décrivant le plan en détails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai, sans le vouloir, contrecarré les voleurs potentiels lorsque je suis tombé sur leur cachette. Leur note donne toutes les instructions pour s'introduire dans le manoir du seigneur Reymont et voler un objet appelé le Cœur de la Marche blanche. 
+
+La lettre intéresserait probablement à la fois le seigneur Reymont et quelqu'un dont les initiales sont « AD ».</DefaultText>
+      <FemaleText>J'ai, sans le vouloir, contrecarré les voleurs potentiels lorsque je suis tombée sur leur cachette. Leur note donne toutes les instructions pour s'introduire dans le manoir du seigneur Reymont et voler un objet appelé le Cœur de la Marche blanche. 
+
+La lettre intéresserait probablement à la fois le seigneur Reymont et quelqu'un dont les initiales sont « AD ».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Abrecan Doemenel a engagé un groupe de voleurs pour s'introduire dans le manoir du Seigneur Reymont. Malheureusement, ils ont une lettre qui le lie au crime.
+
+Il m'a dit qu'ils avaient une cachette dans Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai repris avec succès la note d'Abrecan aux voleurs. Il s'attend à ce que je la lui rapporte. 
+
+D'un autre côté, si je préviens le seigneur Reymont du complot visant à voler le Cœur de la Marche Blanche, il pourrait récompenser mon honnêteté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai rapporté la lettre détaillant le cambriolage à Abrecan Doemenel. À présent il m'a demandé de voler le cœur de la Marche blanche. Abrecan pense que la gemme se trouve quelque part au deuxième étage ; il y a une fenêtre ouverte par laquelle je peux me glisser depuis la rue. Il veut éviter tout bain de sang.
+
+Le Cœur de la Marche blanche se vendra probablement aussi bien aux Chevaliers du Creuset qu'aux Douzaines. Les deux groupes veulent utiliser la gemme pour acheter l'amitié des nains de la Marche blanche. La Maison Doemenel souhaite qu'aucune des factions ne puisse obtenir des alliés aussi puissants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Abrecan Doemenel, héritier de l'empire criminel Doemenel, n'était pas franchement heureux d'apprendre que j'avais tué ses hommes et contrecarré son cambriolage. Il m'a donné un ultimatum : terminer le cambriolage et voler le cœur de la Marche blanche ou bien affronter la colère de la Maison Doemenel. 
+
+J'ai accepté de voler la gemme. Abrecan pense qu'elle se trouve quelque part au deuxième étage ; il y a une fenêtre ouverte par laquelle je peux me glisser depuis la rue.
+
+Le cœur de la Marche blanche se vendra probablement aussi bien aux Chevaliers du Creuset qu'aux Douzaines. Les deux groupes veulent utiliser la gemme pour acheter l'amitié des nains de la Marche blanche. La Maison Doemenel souhaite qu'aucune des factions ne puisse obtenir des alliés aussi puissants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai réussi à voler le cœur de la Marche blanche au seigneur Reymont. Pour aller au bout de mon accord avec Abrecan, je dois lui rapporter le bijou à Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai volé le cœur de la Marche blanche dans le manoir du seigneur Reymont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai informé le leigneur Reymont du complot visant à voler son bijou précieux, cœur de la Marche blanche, dans son manoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Abrecan Doemenel n'était pas heureux lorsque j'ai essayé de partir après lui avoir livré la lettre. Au moins ai-je mis un terme au complot visant le seigneur Reymont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai donné le cœur de la Marche blanche à Abrecan Doemenel. En retour, Abrecan a promis de parler à son père, Gedmar Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai donné la gemme aux Chevaliers du Creuset pour qu'ils puissent s'allier aux nains de la Marche blanche. Abrecan ne sera pas ravi d'apprendre cela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai donné la gemme aux Douzaines pour qu'ils puissent s'allier aux nains de la Marche blanche. Abrecan ne sera pas ravi d'apprendre cela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai tué Abrecan Doemenel. Il n'aura plus besoin du cœur de la Marche blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Abrecan Doemenel et le seigneur Reymont étant tous les deux morts, il n'y a plus personne se souciant du projet visant à dérober ce dernier.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

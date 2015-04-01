@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_tsk_family_lessons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rancunes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Affrontez Kolfecg à la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Bricanta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Bricanta Doemenel a demandé à ce que je lui rende un service en faisant un exemple d'un certain Kolfecg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Bricanta a indiqué que ce Kolfecg vivait quelque part à la Faveur Ondra. Elle m'a donné carte blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je me suis occupé de Kolfecg. Bricanta va vouloir savoir ce qui s'est passé.</DefaultText>
+      <FemaleText>Je me suis occupée de Kolfecg. Bricanta va vouloir savoir ce qui s'est passé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué Kolfecg. Bricanta a apprécié mon travail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai blessé Kolfecg et lui ai demandé de ne plus insulter les Doemenel. Bricanta a apprécié la manière dont j'ai géré le problème.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu Kolfecg de quitter la ville et Bricanta que je l'avais tué. Elle était ravie d'apprendre qu'il était mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Bricanta est morte. Cela va nuire à ma réputation auprès de la famille Doemenel et elle ne me récompensera plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

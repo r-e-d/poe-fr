@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_tsk_blade_paths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'Épée des Chemins infinis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez d'autres fragments de l'épée ancienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Forgez l'épée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Récupérez l'Épée des Chemins infinis auprès de Dunstan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une arme légendaire a été démantelée et ses fragments ont été éparpillés aux quatre coins des Chemins infinis d'Od Nua. En retrouvant ces fragments, je pourrais peut-être reforger l'arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>En explorant les Chemins infinis, j'ai découvert ce qui semble être un fragment de l'épée ancienne. J'en trouverai peut-être d'autres ailleurs dans les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai découvert tous les fragments de l'épée ancienne. Je dois trouver un forgeron capable de la restaurer si je souhaite l'utiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ma trouvaille a impressionné Dunstan. Il a accepté de reforger l'Épée des Chemins infinis pour moi. Il ne me reste plus qu'à attendre qu'elle soit terminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé une sphère en pierre polie. Elle est imprégnée de pouvoirs et, compte tenu des marques qu'elle présente, elle devait jadis être incrustée dans quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé un fragment de l'épée brisée. En l'état, il ne présente guère d'intérêt, mais si je trouve les fragments manquants, il sera peut-être possible de reforger cette arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé les deux moitiés de l'épée brisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé la poignée ornée d'une épée. L'ornementation semble d'origine aedyrane, elle a sûrement de la valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai récupéré tous les fragments de l'Épée des Chemins infinis et j'ai demandé au forgeron Dunstan de la Baie du défi de la reforger. Cette puissante arme devrait m'être très utile lors de mes aventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai reforgé l'Épée des Chemins infinis et enduit sa surface du venin d'araignée que j'ai pris à la grande reine des araignées. Ce puissant poison devrait se révéler très utile au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai reforgé l'Épée des Chemins infinis en utilisant le tentacule que j'ai récupéré sur le Spore humide géant. L'épée est désormais imprégnée d'une puissante énergie spirituelle qui devrait se révéler très utile au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai reforgé l'Épée des Chemins infinis en utilisant la glande de feu du drake. Le feu du drake brûle maintenant dans l'épée, ce qui devrait m'être très utile au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai reforgé l'Épée des Chemins infinis en utilisant la gemme de l'animat d'adra. L'épée est aussi tranchante qu'un rasoir. Elle devrait se révéler redoutable au combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Échec de la quête</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

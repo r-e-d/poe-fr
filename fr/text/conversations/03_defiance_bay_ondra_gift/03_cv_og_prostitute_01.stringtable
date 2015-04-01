@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_og_prostitute_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous m'avez l'air d'avoir besoin de prendre du bon temps, chéri, et je suis ouverte à toute proposition."</DefaultText>
+      <FemaleText>"Vous m'avez l'air d'avoir besoin de prendre du bon temps, chérie, et je suis ouverte à toute proposition."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pourquoi se presser ? Venez et restez avec moi un petit moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La prostituée se tient les hanches, poussant en avant sa poitrine alors que vous vous approchez.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

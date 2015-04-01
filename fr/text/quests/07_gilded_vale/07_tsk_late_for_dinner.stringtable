@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_tsk_late_for_dinner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>En retard pour dîner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez Tenfrith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parlez à l'aubergiste de la taverne du Chien noir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>La taverne du Chien noir de la Vallée dorée a perdu son cuisinier bien aimé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Comme le reste du village, la taverne de la Vallée dorée a vu de meilleurs jours. Les affaires ne sont pas très bonnes, mais le chef cuisinier attire un nombre, certes peu élevé, mais régulier de clients. Enfin, jusqu'à sa récente disparition lors d'un voyage de routine dans le nord pour récupérer des provisions. L'aubergiste pense qu'il pourrait lui être arrivé quelque chose sur la route traversant Valewood et cherche un volontaire pour partir à sa recherche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tenfrith m'était très reconnaissant de l'avoir libéré du camp des bandits. Il m'a suggéré de parler à l'aubergiste de la taverne du Chien noir, dans la Vallée dorée, qui sera mieux placée pour me récompenser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Tenfrith a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai sauvé le nain Tenfrith des griffes de bandits affamés. Très reconnaissant de mon assistance, il m'a suggéré que je m'arrête à la taverne du Chien noir pour y recevoir une récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai dit à Pasca, l'aubergiste du Chien noir, que Tenfrith a été tué par les bandits du Valewood. Elle était bouleversée et plutôt pessimiste sur l'avenir de l'auberge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Pasca, l'aubergiste du Chien noir, était très reconnaissante que je l'aide à sauver Tenfrith. Elle m'a promis une réduction sur la nourriture et le logis pour mon aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai dit à Pasca, l'aubergiste du Chien noir, que Tenfrith a été tué au cours de son voyage dans le Valewood. Elle était bouleversée de l'apprendre et plutôt pessimiste sur les chances de remise à flots de l'Auberge du chien noir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Pasca étant morte, l'Auberge du chien noir est encore une fois laissée sans propriétaire. Il n'y a plus vraiment besoin d'un cuisinier maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai sauvé le nain Tenfrith des griffes de bandits affamés. Il m'a dit qu'il est le cuisinier de la taverne du Chien noir. Une mauvaise surprise l'attend à son retour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Un personnage vital pour accomplir cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

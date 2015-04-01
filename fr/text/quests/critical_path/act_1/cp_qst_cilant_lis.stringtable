@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_cilant_lis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les Ruines de Cilant Lîs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Échappez-vous des ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rendez-vous à la Vallée dorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai échappé de justesse à l'étrange vent mortel qui souffle sur la vallée. Mais je suis à présent piégé dans les ruines antiques que le maître de caravane nous avait intimés d'éviter.</DefaultText>
+      <FemaleText>J'ai échappé de justesse à l'étrange vent mortel qui souffle sur la vallée. Mais je suis à présent piégée dans les ruines antiques que le maître de caravane nous avait intimés d'éviter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je vais devoir retrouver mon chemin dans ces ruines pour me mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je suis sorti des ruines. J'espère retrouver la route qui mène à la Vallée dorée, quelque part par ici.</DefaultText>
+      <FemaleText>Je suis sortie des ruines. J'espère retrouver la route qui mène à la Vallée dorée, quelque part par ici.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Je ne suis pas peut-être pas seul ici. Peut-être pourrais-je trouver une arme quelconque...</DefaultText>
+      <FemaleText>Je ne suis pas peut-être pas seule ici. Peut-être pourrais-je trouver une arme quelconque...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Heodan a besoin de repos. Il y a peut-être un coin plus tranquille dans les ruines où nous pouvons installer notre camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai rencontré un étrange groupe de personnes en robes, rassemblées autour de ce qui ressemble à une machine. Un autre homme était là, prononçant des paroles rituelles. Leur chef peut-être ? Il est parti, mais les autres ont bloqué le passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Heodan a besoin de repos. Il y a peut-être un coin tranquille dans les ruines où nous pouvons installer notre camp. Calisca, cependant, pense que nous devrions poursuivre notre chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Heodan n'a pas survécu. Il semble que Calisca et moi-même devions poursuivre seuls.</DefaultText>
+      <FemaleText>Heodan n'a pas survécu. Il semble que Calisca et moi-même devions poursuivre seules.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Mes compagnons de la caravane n'ont pas survécu. Je vais devoir m'aventurer dans les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Calisca ne s'en est pas sortie. Il semble que Heodan et moi-même devions poursuivre seuls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai croisé une section de tuiles marquées de symboles étranges. Il y a peut-être un indice sur leur signification dans les environs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis échappé des ruines. J'espère retrouver la route qui mène à la Vallée dorée, quelque part par ici.</DefaultText>
+      <FemaleText>Je me suis échappée des ruines. J'espère retrouver la route qui mène à la Vallée dorée, quelque part par ici.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

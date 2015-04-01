@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_danna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Danna passe la porte, flanquée d'une escouade de fantassins Doemenel. Elle laisse reposer sa main gantée sur la garde de son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Un rictus se fige sur son visage lorsqu'elle vous voit. "Il semble que j'ai eu tort de laisser passer votre bévue. Soyez assuré que je ne commets jamais deux fois la même erreur."</DefaultText>
+      <FemaleText>Un rictus se fige sur son visage lorsqu'elle vous voit. "Il semble que j'ai eu tort de laisser passer votre bévue. Soyez assurée que je ne commets jamais deux fois la même erreur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Elle hoche la tête avec approbation en vous regardant. "Alors, on a changé d'avis ? Croyez-moi, c'est bien plus drôle de se battre pour le côté du plus fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Danna s'appuie sur le chambranle de la porte. "Nous sommes arrivés juste au bon moment, semble-t-il. Ne vous interrompez pas pour moi !" Elle remue ses doigts fluets contre la garde. "Je préférerais éviter de souiller mes nouveaux gants, de toute façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Alors, on a la frousse ?" Elle tire sa lame. 
+
+"Si l'on doit en arriver là, vous êtes libre de sombrer avec Verzano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'espère que vous avez récolté tous les paiements encore en attente, car il ne va bientôt pas rester grand chose de ce misérable."
+
+En quittant l'entrepôt, vous entendez Verzano pousser un hurlement qui est rapidement interrompu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Un rictus se fige sur son visage lorsqu'elle vous voit. "Il semble que j'ai eu tort de laisser passer votre bévue. Soyez assuré que je ne commets jamais deux fois la même erreur."</DefaultText>
+      <FemaleText>Un rictus se fige sur son visage lorsqu'elle vous voit. "Il semble que j'ai eu tort de laisser passer votre bévue. Soyez assurée que je ne commets jamais deux fois la même erreur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Elle hoche la tête avec approbation en vous regardant. "Alors, on a changé d'avis ? Ne vous interrompez pas."
+
+Elle regarde Verzano et trace une ligne sur sa gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"J'espère que vous avez récolté tous les paiements encore en attente, car il ne va bientôt pas rester grand chose de ce misérable."
+
+Danna sort sa lame tandis que ses gardes du corps encadrent les soldats de Verzano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Bien joué. La Maison Doemenel pourrait toujours bénéficier d'amis comme vous, vous savez. La prochaine fois que vous vous trouvez à Brackenbury, allez parler à mon frère, Abrecan. Il pourrait avoir un ou deux travails à vous confier."
+
+Elle siffle ses gardes, qui la suivent hors de l'entrepôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ne vous en faites pas pour Verzano. Il n'a que ce qu'il mérite."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

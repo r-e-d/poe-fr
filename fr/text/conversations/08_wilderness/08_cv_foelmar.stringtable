@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_foelmar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah... ! Oh, bonjour ! Excusez-moi, mais vous m'avez fait une belle frayeur. J'ai l'impression d'avoir entendu quelque chose dans les buissons... Je suppose que c'était vous. Que je suis bête !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Deux précautions valent mieux qu'une, n'est-ce pas ? Dites, vous avez entendu quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ahh ! D'où sont-ils venus ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Par toutes les étoiles du ciel, merci ! C'est la première fois que je vois ces créatures si hardies. Les temps changent ! Tenez, prenez ceci. Pour ma part, je retourne à la Vallée dorée et vous en ferez meilleur usage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"N'auriez-vous pas besoin de quelques provisions ? Je pensais rejoindre le pont de Madhmr, mais je me dis que je ferais mieux de retourner en ville et de rassembler quelques personnes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Encore merci !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

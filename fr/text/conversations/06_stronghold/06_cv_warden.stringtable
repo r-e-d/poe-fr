@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_warden</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Soyez prudent dans la campagne. Les créatures sont impitoyables ces jours-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'ai croisé un skuldr. Je me disais que vous ne verriez aucun inconvénient à ce que j'accroche mon trophée au mur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'ai traqué hier un troll près de la Prairie noire. Faites attention où vous mettez les pieds dans ces broussailles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'ai vu des types un peu étranges à la Croisée de Magran... des bandits, d'après moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bonne chasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"J'ai entendu dire qu'une bande de xaurips a établi son camp à la Boussole. Dommage. Belle vue là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ce vieil homme grisonnant prend une bouffée de sa pipe et hoche la tête vers vous. "Je me demandais quand vous alliez finir par venir. Les être civilisés par ici ont connu leur part de difficultés, récemment. Je suis submergé d'offres de primes." 
+
+"Je me suis dit qu'au moins une d'entre elles pourrait intéresser quelqu'un avec vos compétences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Fyrgen hoche la tête vers vous. "Une chasse fructueuse, j'espère ? Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Quelles sont les primes les plus récentes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Partez.] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Voyons, on dit que le grand rôdeur des forêts a élu résidence dans la Prairie noire, juste à la sortie de la route principale. Les marchands l'ont appelé le Résident, et ils veulent qu'il parte avant qu'il ne commence à se repaître de leurs caravanes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Cette prime vient directement de la Nouvelle-Heomar. Sly Cyrdel et certains de ses complices se sont échappés de la prison là-bas, et ont tué deux justiciers sur le chemin. Les gardes meurent d'envie de se venger."
+
+"Un homme correspondant à sa description a été vu près de la Croisée de Magran. Il est bien armé et il aura ses amis avec lui également."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"C'est celui qui fait les rondes, Nalrend le Sage. C'est une sorte d'ogre shaman. Ils disent qu'il a attaqué une demi-douzaine de fermes partout dans le Dyrwood. On dit qu'il se terre quelque part aux Ormes, bien que personne qui y soit allé n'ait été vu depuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Le chef de guerre Iklak. C'est un xaurip, si le nom ne vous a pas alerté. Il se déplace beaucoup dans le coin, mais il est connu pour hanter le Valewood de temps en temps. Les gens veulent que l'on s'occupe de lui avant qu'il ne se lie à un dragon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"J'ai trouvé quelques nouvelles offres. Voyons ce que nous avons là..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je suis là pour réclamer la prime pour Nalrend le Sage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Le chef de guerre Iklak est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sly Cyrdel est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"J'ai abattu le Résident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Eh bien ! Il pue autant qu'il était laid. Bon travail. Voilà la prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Cela devrait rendre le Valewood un peu plus sûr pour un certain temps. Voilà votre récompense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Bon travail. Ils célébreront cela dans la Nouvelle-Heomar bien assez tôt. Voilà la prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Au grand soulagement des marchands, je n'en doute pas. Voilà l'argent qu'ils offraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Un certain alchimiste dans le Val de la clémence veut la tête de Glasdial le troll, aussi connu sous le nom de la Mort verte. Le type n'a pas dit pourquoi, seulement qu'il est prêt à mettre le prix pour cela. Si cela vous convient, je suggère que vous alliez chercher Glasdial dans Lle a Rhemen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Roska Chante-forge, une incantatrice de Norwaech. Elle et ses associées ont pillé des ruines engwithanes, et les Glanfathans du puits d'Ibrel veulent lui faire payer ses crimes. Et ils nous paieront pour que ce soit fait. Roska a installé son camp hors de Clîaban Rilag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"La rôdeuse Foemyna a mené à elle-seul une campagne de terreur contre les voyageurs passant à travers les Plaines dégagées. Les survivants rapportent qu'elle offre ses victimes en pâture aux animaux sauvages qui voyagent avec elle. Beaucoup de gens seraient heureux d'apprendre qu'elle est hors d'état de nuire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Celui-là a des dents. Galen Dalgard, l'esclavagiste. Lui et ses amis ont été signalés sur le pont de Madhmr. Personne du côté des autorités locales n'a l'intention de le toucher parce qu'il jouit de connexions puissantes jusqu'en Aedyr. Mais une âme anonyme est prête à mettre de l'argent sur la table pour voir Galen rendre son dernier souffle. Disons que c'est personnel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Je ne suis pas sûr de ce qu'il faut faire de celui-là. Une histoire de culte de druides meurtriers, menés par un menpwgra. La créature s'appelle Devŵen, et il semble qu'elle et ses dévots se sont installés dans une caverne dans le Northweald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Le capitaine Muārumi. Il s'en prend principalement aux vaisseaux vailiens et son équipage vient de débarquer à la Boussole d'Anslög. On ne sait pas exactement combien de temps il compte y rester, mais c'est l'occasion à saisir pour l'abattre avant qu'il ne hisse à nouveau les voiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vous avez abattu de dangereux ennemis. Un travail impressionnant. Les civils savent qu'ils peuvent compter sur vous."
+
+"J'en ai encore quelques-unes pour vous, si vous êtes d'humeur à mettre les mains dans la boue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Alors, celui-ci... Ah. On dirait que quelqu'un a trompé les Doemenel. La grande initiée Ysly. Elle et sa cabale de sorciers sont cloîtrés dans la tour de la Colline de l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"La prime pour Naroc le Prophète, un exilé glanfathan. Il a été banni de sa tribu pour ses, hum, vues extrémistes. Naroc est un clairvoyant, et il semble qu'il soit intéressé par Cilant Lîs, un site engwithan au nord de la Vallée dorée. Plusieurs tribus ont rassemblé l'argent pour sa prime ; ils disent qu'ils ne veulent pas le voir trafiquer avec une "machine" là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"En fait, l'un des exarques, ce Sserkal, est arrivé dans la Falaise du Bois de perle avec certains des siens. L'offre n'est pas signée, mais il semble que quelqu'un ne veuille pas le voir dans le coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Il secoue la tête. "C'est tout ce que j'ai à offrir pour le moment. Le temps que vous vous occupiez de celles-ci, je devrais en avoir d'autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Il secoue la tête. "C'est tout ce que j'avais en main. Je resterai à l'affût. Je devrais en avoir d'autres le temps que vous ayez terminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Il secoue la tête. "C'est tout ce que j'ai pour le moment. Laissez-moi du temps et je vous trouverai un vrai défi. Ces primes vous occuperont bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Il secoue la tête. "Je vous ai donné toutes les primes que j'ai. Ça représente une jolie somme, cependant. Cela devrait remplir vos coffres une fois que vous aurez terminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Rien d'important. Chaque hors-la-loi, bête ou charlatan semble éviter le Dyrwood à cause de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Daroth Grimault ne sera plus un problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"J'ai rapporté la tête de Glasdîal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je suis là pour la prime sur Roska."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Félicitations. Vous avez surpassé le palais ducal. Remarquez, ce n'est pas un exploit... Quoi qu'il en soit, voici votre paye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Une sale tête de troll, pour un sale petit alchimiste. Je le préviendrai du travail effectué. En attendant, voici votre prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vous avez peut-être évité une autre guerre des Arbres noirs... Voilà l'argent qu'ils offraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Foemyna ne pose plus de problèmes. Voici sa tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Les jours d'esclavage de Galen Dalgard sont du passé. J'ai rapporté sa tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je suis là pour la prime sur Devŵen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Je me suis occupé du Capitaine Muārumi.</DefaultText>
+      <FemaleText>Je me suis occupée du Capitaine Muārumi.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"C'est à se demander ce qui arrive à une civilisée comme elle. Je me félicite d'apprendre que le problème est réglé. Voilà votre prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"C'est une nouvelle qui va faciliter le sommeil de quelques âmes. J'espère que notre client sera rassuré. Voilà le paiement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ah, très bien. Voilà la prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Il y a fort à parier qu'un capitaine de mer vailien chante vos louanges en ce moment même. Tenez, comme promis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"J'ai la tête de Thorfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ysly est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"J'ai rapporté la tête de Naroc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Et voilà un vithrack de moins en ce monde. Sserkal est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Il semble que croiser le chemin des Chevaliers soit fatal. Ils payent plutôt bien, par contre. Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"J'en toucherai un, hum, mot auprès d'un des agents des Doemenel. Voilà la paye qu'ils offraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Bien. Voir des clairvoyants manipuler des machines antiques est bien la dernière chose dont on a besoin. Rien de bon ne peut en sortir. Voilà, vous l'avez mérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ugh. D'horribles créatures, pas vrai ? Si le client n'est pas intéressé, je vais peut-être m'équiper et m'en charger tout seul. En attendant, voici votre prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous êtes là pour les primes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Bon, je dois vous prévenir, il y a une raison pour laquelle ces primes sont encore ouvertes. Ce sont de sacrés salauds, chacun d'entre eux. Si vous ne le sentez pas pour le moment, revenez lorsque vous serez mieux préparé."</DefaultText>
+      <FemaleText>"Bon, je dois vous prévenir, il y a une raison pour laquelle ces primes sont encore ouvertes. Ce sont de sacrés salauds, chacun d'entre eux. Si vous ne le sentez pas pour le moment, revenez lorsque vous serez mieux préparée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Parlez-moi du rôdeur des forêts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Partez] "J'y vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Thorfen, un haut-prêtre du Dieu éparpillé, a profané des sites dans tout le Dyrwood. Aucune idée de ce qu'il cherche, mais lui et ses hommes ont tué une escouade de Chevaliers du Creuset envoyés l'arrêter, et maintenant ils veulent sa tête."
+
+"Leur dernier signalement a été dans l'Esternwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"En attendant, voilà de quoi bien nous lancer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Voyons voir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je voudrais en savoir plus sur Sly Cyrdel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je vais m'occuper de l'ogre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Parlez-moi du chef de guerre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Il y a un contrat en cours sur la tête de Sly Cyrdel, bien sûr. Et puis il y a le rôdeur de la forêt qui hante les routes commerciales, et cet ogre shaman qui devrait atteindre un bon prix. Et enfin, il y a le chef de guerre Iklak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Quelques noms importants, cette fois-ci. Il y a Daroth Grimault, le fampyr, et ce prêtre poursuivi par les Chevaliers du Creuset. J'ai aussi une prime pour la Mort verte. Et enfin une dernière venant des Glanfathans concernant le puits d'Ibrel ; ils semblent s'en prendre à un pilleur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Parlez-moi de Daroth Grimault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Daroth Grimault est un genre de fauteur de troubles, qui se prend pour un visionnaire. Seulement, ils ont déjà essayé de le tuer, mais en vain... Aujourd'hui ce fampyr a mis en place une espèce de culte dans les catacombes sous le quartier de Copperlane dans la Baie du défi. Le palais ducal veut le supprimer. Définitivement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"C'est quoi cette histoire de prêtre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Qu'est-ce que la Mort verte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Après qui en ont les Glanfathans ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Partez] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Il fouille parmi un tas de parchemins. "Réclamé, réclamé... ah, voilà. Voyons voir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Il y a un rôdeur causant des troubles dans les régions sauvages. Et puis il y a Galen Dalgard, un esclavagiste, pas exactement populaire par ici. Ensuite nous avons... une sorte de culte, semble-t-il. Et en voilà un que je n'ai pas vu depuis longtemps : le Capitaine Muārumi, le pirate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Je retrouverai ce rôdeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Parlez-moi de Galen Dalgard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"C'est quoi cette histoire de culte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je pourchasserai ce pirate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Voyons... Il y a un groupe de sorciers qui ont tous leur tête mise à prix. Et puis il y a une autre prime offerte par les tribus de Glanfathans. La dernière va être difficile. Vous avez déjà eu affaire à un vithrack ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Parlez-moi des sorciers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Parlez-moi de la prime des Glanfathans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Je retrouverai ce vithrack."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_built_to_last</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Construit pour durer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez le dortoir des scribes à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez Vianna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Recherchez Vianna à la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Reprenez les recherches de Vianna aux Douzaines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Donnez les recherches de Vianna à Dunstan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le commandant Clyver des Chevaliers du Creuset a échafaudé un plan pour pallier le manque de soldats entraînés. Il a demandé au maître forgeron Dunstan de fabriquer des chevaliers forgés, soldats fabriqués à partir de pièces d'armure. Dunstan a confectionné l'armure et maintenant, il lui faut les recherches de Vianna pour achever son projet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Clyver m'a demandé d'aller voir Vianna, une étudiante en animancie. Elle a mené des recherches qui devraient permettre à Dunstan de terminer les chevaliers forgés. D'après Clyver, elle vit dans le dortoir avec les autres scribes, mais ses novices ne l'ont pas vue récemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé le dortoir des scribes. D'après ce que Clyver m'a dit, Vianna et ses recherches devraient se trouver quelque part par ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai appris que Vianna devait rencontrer une certaine Clessia à la Faveur d'Ondra. Elles étaient censées se retrouver dans une maison désaffectée située à l'extrême nord de la région.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Vianna a été piégée par des membres des Douzaines. Maintenant, ils l'interrogent pour tenter d'en savoir plus sur les recherches qu'elle mène pour les Chevaliers du Creuset. Le meneur a dû lui confisquer ses notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai récupéré les notes de Vianna. Dunstan les attend au donjon du Creuset des Premiers feux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai interrogé Dunstan au sujet des chevaliers forgés sur lesquels il travaille. Il a semblé avoir des réserves sur le projet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai surpris quelques scribes en train de parler de la récente disparition de Vianna. Visiblement, elle occupait la dernière chambre à droite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai remis les recherches de Vianna à Dunstan. Il va maintenant pouvoir terminer les chevaliers forgés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Dunstan est mort. Il ne sera plus en mesure de terminer les soldats forgés pour les Chevaliers du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

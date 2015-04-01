@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_qst_final_act</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Dernier acte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parlez aux trois contacts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Interrogez Lumdala à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Enquêtez sur le théâtre secret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez auprès de Kurren à la maison Hadret de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Renseignez-vous auprès de Kurren à la maison Hadret de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Retournez auprès de Kurren à Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Rencontrez Kadal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kurren, un clairvoyant débordé du Rang de Dunryd, a demandé à ce que j'enquête sur des disparitions. Il soupçonne les animanciens d'en être à l'origine et me demande d'élucider, coûte que coûte, cette affaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kurren m'a parlé des trois personnes portées disparues ainsi que des personnes qui les ont signalées. Oly, Lora et Elcga sont susceptibles d'en savoir plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Les preuves désignent une certaine Lumdala et une troupe de théâtre appelée Goûteurs d'étoiles. Copperlane abrite un amphithéâtre et peut-être l'y trouverai-je.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je devrais être en mesure de savoir ce qui est arrivé aux personnes disparues dans le théâtre secret accessible depuis la maison de Lumdala.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai découvert que les personnes disparues ont été tuées par Lumdala au cours de 'spectacles' très particuliers organisés dans le théâtre secret situé dans les catacombes de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai dit à Kurren que je n'avais pas le temps de l'aider. Il m'a dit de revenir le voir si je changeais d'avis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Les indices recueillis désignent Lumdala et la troupe de théâtre des Goûteurs d'étoiles. Mais celle-ci étant morte, l'enquête est dans l'impasse. Je devrais retourner voir Kurren à la maison Hadret de Brackenbury pour l'informer de ce que j'ai trouvé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Kadal, un des acteurs de Lumdala, a souhaité s'entretenir avec moi en aparté à la maison de Lumdala à Copperlane. Il m'a dit qu'elle était plus impliquée dans ces disparitions qu'elle ne le laissait entendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Oly m'a dit que la dernière fois qu'il a vu Lendry, il était avec une certaine Lumdala. Ils se dirigeaient vers chez elle, à Copperlane, tout au nord du quartier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Lora m'a dit que sa sœur Kora avait rejoint une troupe de théâtre appelée Goûteurs d'étoiles avant de se volatiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Interrogée sur les disparitions, Lumdala n'a pas souhaité me répondre. Je devrais peut-être aller faire un petit tour chez elle pour tenter de trouver des indices. Elle habite près de la porte nord de Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Elcga a indiqué que Kendal s'était lancé dans le théâtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Lumdala m'a parlé de son plus fidèle client, un seigneur de Brackenbury appelé Gaderman. Le Rang de Dunryd va certainement s'y intéresser, mais je pourrais moi aussi l'interroger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Le seigneur Gaderman m'a supplié de faire accuser Linete Reymont pour ces meurtres. Il m'a remis sa chevalière en guise de preuve.</DefaultText>
+      <FemaleText>Le seigneur Gaderman m'a suppliée de faire accuser Linete Reymont pour ces meurtres. Il m'a remis sa chevalière en guise de preuve.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai surpris une discussion houleuse entre Lumdala et un certain Kadal. Visiblement, il voulait quelque chose, je ne sais pas vraiment quoi, et avait accepté de la rencontrer chez elle pour en discuter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Elcga a indiqué que Kendal s'était mis à traîner avec une femme qui faisait partie d'une troupe de théâtre. Elle n'a pas été en mesure de me donner son nom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Oly fréquente une maison close de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Lora est marchande à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Elcga passe son temps à Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>J'ai tué Lumdala. Elle n'organisera plus de spectacles macabres pour ses clients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Le seigneur Gaderman est mort. Il ne soutiendra plus les spectacles macabres organisés dans les catacombes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Après avoir confronté le seigneur Gaderman, j'ai décidé de le laisser repartir. Mais je pourrai toujours en parler à Kurren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai dit à Kurren que Lumdala était derrière les meurtres des trois personnes portées disparues. Il m'a remercié de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</DefaultText>
+      <FemaleText>J'ai dit à Kurren que Lumdala était derrière les meurtres des trois personnes portées disparues. Il m'a remerciée de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai fait accuser Linete Reymont des meurtres. Kurren m'a remercié de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</DefaultText>
+      <FemaleText>J'ai fait accuser Linete Reymont des meurtres. Kurren m'a remerciée de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué Kurren et mis fin à son enquête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai livré le seigneur Gaderman, le plus fidèle client de Lumdala, aux autorités. Kurren m'a remercié de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</DefaultText>
+      <FemaleText>J'ai livré le seigneur Gaderman, le plus fidèle client de Lumdala, aux autorités. Kurren m'a remerciée de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai livré le seigneur Gaderman et Lumdala aux autorités. Kurren m'a remercié de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</DefaultText>
+      <FemaleText>J'ai livré le seigneur Gaderman et Lumdala aux autorités. Kurren m'a remerciée de l'avoir aidé à résoudre cette affaire et m'a offert une récompense.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_bs_supplicants</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Il n'y a pas de plus grand honneur que de mourir pour sa tribu. En quoi est-ce différent de tomber au combat ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"À un moment ou un autre, tous les Anamfatha ont fait appel aux Ethik Nôl pour leur peinture de guerre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"On dit que les Ethik Nôl ont appris à fabriquer leur peinture de guerre à la Marche blanche, et qu'ils en ont été bannis à cause de ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ne vous en faites pas, estramor. Tous ceux qui se sacrifient ici le font de leur plein gré."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_shady_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un individu encapuchonné est appuyé contre un mur. Lorsqu'il vous remarque, il se relève et lève la main pour vous interrompre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Si vous connaissez les mots, prononcez-les et nous ferons affaires. Sinon, alors nous en avons terminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quels mots ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Et pourquoi ne pas me montrer ce que vous avez ? Ça m'éviterait d'avoir à répandre votre crâne sur le trottoir"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pas de marché alors. Partez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'homme baisse la main jusqu'à sa ceinture où se situe un poignard dans son étui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous n'avez peut-être pas les mots, mais vous avez les muscles. Faisons affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Yc Nybeon Eyldfeon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je suis désolé pour les désagréments. Je suis Curnd, le 'marchand de minuit' comme diraient certains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Maintenant, faisons affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>L'individu en capuche émerge à nouveau de l'ombre, cette fois-ci arborant un sourire. "Salutations, l'ami. Qu'est-ce que je peux pour vous ?"</DefaultText>
+      <FemaleText>L'individu en capuche émerge à nouveau de l'ombre, cette fois-ci arborant un sourire. "Salutations, l'amie. Qu'est-ce que je peux pour vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'homme vous lance un regard circonspect de dessous sa capuche. "Vous revenez. Vous avez les mots ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je négocie des produits... sensibles. Des précautions sont nécessaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oui, montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Pas aujourd'hui, Curnd. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Avez-vous vu quelqu'un venant d'ici portant un grand coffre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Cela dépend. Êtes-vous chargé de pièces de cuivre ?"</DefaultText>
+      <FemaleText>"Cela dépend. Êtes-vous chargée de pièces de cuivre ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Payez 200 pc.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Les pièces disparaissent de votre main. "Ils sont partis vers le sud. En longeant le quai."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_cipher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Naroc le Prophète</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Naroc et rapportez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la tête de Naroc à Fyrgen le gardien à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Naroc, l'exilé glanfathan, a vu un contrat placé sur sa tête par plusieurs tribus glanfathanes. Il a été signalé voyageant vers les ruines de Cilant Lîs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Naroc est un clairvoyant glanfathan exilé, condamné pour ses vues extrémistes. Les Glanfathans sont prêts à payer une belle somme si je voyage jusqu'à Cilant Lîs et que je lui coupe la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le cas de Naroc a été réglé. Tout ce que j'ai à faire est de rapporter sa tête à Fyrgen le gardien, et réclamer ma prime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réclamé la prime sur Naroc.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

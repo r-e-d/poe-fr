@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_jailer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Salutations, mon seigneur. Je suis là pour maintenir les cellules pour vous. Si jamais vous prenez des prisonniers pendant vos voyages, je m'assurerai qu'ils soient traités comme il vous plaira."</DefaultText>
+      <FemaleText>"Salutations, ma dame. Je suis là pour maintenir les cellules pour vous. Si jamais vous prenez des prisonniers pendant vos voyages, je m'assurerai qu'ils soient traités comme il vous plaira."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Il n'y a personne ici pour le moment, mais... Je suis sûr que vous y remédierez très vite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Avez-vous des instructions à me donner ? Que voulez-vous que l'on fasse de ces prisonniers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Montrez-leur qui est le maître ici. Je veux qu'ils soient régulièrement fouettés."</DefaultText>
+      <FemaleText>"Montrez-leur qui est la maîtresse ici. Je veux qu'ils soient régulièrement fouettés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je voudrais libérer un prisonnier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez.] "Je n'ai besoin de rien pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Oh ? Qui est l'heureux élu aujourd'hui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Libérez Eorn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Laissez partir Nyrid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je voudrais libérer Lücen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Libérez Aefre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je voudrais libérer Gramrfel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je voudrais libérer Kestorik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je voudrais libérer Naelde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Laissez partir Esmar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Mon seigneur, cette... créature que vous avez capturée, Kestorik... elle crée des problèmes. Que voudriez-vous que je fasse à son propos ?"</DefaultText>
+      <FemaleText>"Ma dame, cette... créature que vous avez capturée, Kestorik... elle crée des problèmes. Que voudriez-vous que je fasse à son propos ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Eorn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Montrez-lui ce qui arrive lorsque vous doublez le seigneur de Caed Nua."</DefaultText>
+      <FemaleText>"Montrez-lui ce qui arrive lorsque vous doublez la dame de Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Lucen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Aefre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Gramrfel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Montrez-lui ce qui arrive lorsque vous doublez le seigneur de Caed Nua."</DefaultText>
+      <FemaleText>"Montrez-lui ce qui arrive lorsque vous doublez la dame de Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Montrez-lui ce qui arrive lorsque vous doublez le seigneur de Caed Nua."</DefaultText>
+      <FemaleText>"Montrez-lui ce qui arrive lorsque vous doublez la dame de Caed Nua."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Très bien mon seigneur... De quel, euh, degré de sévérité souhaitez-vous que j'use ?"</DefaultText>
+      <FemaleText>"Très bien ma dame… De quel, euh, degré de sévérité souhaitez-vous que j'use ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Salutations, mon seigneur ! Vous venez visiter les donjons ?"</DefaultText>
+      <FemaleText>"Salutations, ma dame ! Vous venez visiter les donjons ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mon seigneur, il y a un problème urgent !"</DefaultText>
+      <FemaleText>"Ma dame, il y a un problème urgent !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Mon seigneur, Nyrid pose des problèmes récemment. Que voudriez-vous que je fasse à son propos ?"</DefaultText>
+      <FemaleText>"Ma dame, Nyrid pose des problèmes récemment. Que voudriez-vous que je fasse à son propos ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mon seigneur, Naelde pose des problèmes récemment. Que voudriez-vous que je fasse à son propos ?"</DefaultText>
+      <FemaleText>"Ma dame, Naelde pose des problèmes récemment. Que voudriez-vous que je fasse à son propos ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Occupez-vous en vous-même. Cela ne me regarde pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Il y a beaucoup de prisonniers épuisés, mon seigneur. Que voulez-vous que je fasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Trois coups de fouet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Cela suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Le prisonnier a été gravement blessé. Est-ce suffisant mon seigneur ?"</DefaultText>
+      <FemaleText>"Le prisonnier a été gravement blessé. Est-ce suffisant ma dame ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Cassez-lui une de ses mains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Coupez-lui quelques doigts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Comme il vous plaira, monsieur !"</DefaultText>
+      <FemaleText>"Comme il vous plaira, madame !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Comme il vous plaira, mon seigneur ! Veuillez m'excuser, mon seigneur."</DefaultText>
+      <FemaleText>"Comme il vous plaira, mon seigneur ! Veuillez m'excuser, ma dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"J'ai changé d'avis." "Gardez juste un œil ouvert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Bien sûr, mon seigneur."</DefaultText>
+      <FemaleText>"Bien sûr, ma dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"À vos ordres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"C'est comme si c'était fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bien, si vous êtes sûr... Je n'ai jamais aimé découper des morceaux.."</DefaultText>
+      <FemaleText>"Bien, si vous êtes sûre... Je n'ai jamais aimé découper des morceaux.."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
+      <FemaleText>"Tout de suite, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
+      <FemaleText>"Tout de suite, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
+      <FemaleText>"Tout de suite, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Si... si vous en êtes certain, m'seigneur."</DefaultText>
+      <FemaleText>"Si... si vous en êtes certaine, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
+      <FemaleText>"Tout de suite, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
+      <FemaleText>"Tout de suite, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
+      <FemaleText>"Tout de suite, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
+      <FemaleText>"Tout de suite, m'dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Le geôlier arbore un sourire en coin. "J'aime avoir de la compagnie."
+
+"Y aura-t-il autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

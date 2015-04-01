@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_lighthouse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La furie gémissante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Découvrez la source du bruit inquiétant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Occupez-vous de la cean gŵla.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez auprès de Niah au phare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Allez au phare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Niah essaye de rénover l'ancien phare dans la Faveur d'Ondra, mais les rumeurs de fantômes ont fait fuir les ouvriers. Elle voudrait que quelqu'un jette un œil dans cet endroit pour prouver qu'il est sûr afin que le travail puisse commencer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le phare est abandonné depuis un certain temps. Il est infesté d'ombres malveillantes, et j'entends une sorte de cri venant de l'un des étages. 
+
+Ce doit être la créature qui hante le phare depuis au moins un siècle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Une furie, ou ce que les locaux appellent une "cean gŵla", gémit et crie depuis le troisième étage du phare. Elle ne m'a pas encore attaqué, mais je vais devoir m'en débarrasser pour sécuriser la tour et permettre aux ouvriers de Niah de travailler.</DefaultText>
+      <FemaleText>Une furie, ou ce que les locaux appellent une "cean gŵla", gémit et crie depuis le troisième étage du phare. Elle ne m'a pas encore attaquée, mais je vais devoir m'en débarrasser pour sécuriser la tour et permettre aux ouvriers de Niah de travailler.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>La furie ne devrait plus poser de problèmes. Niah, à la Faveur d'Ondra, attendant de bonnes nouvelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Niah m'a donné une clé du phare au sud-ouest de la Faveur d'Ondra. Elle pense que tout va bien, mais elle voudrait que j'examine les rumeurs de fantômes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le dernier gardien du phare a tenu un journal dans les derniers jours de la guerre du Défi. Cette personne guettait également l'apparition d'un bateau appelé 'le Rêve rouge'." Niah pourrait en savoir plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Maerwith a révélé que le dernier gardien du phare, probablement la créature qui hante l'étage, était sa mère. J'ai convaincu Maerwith de le visiter dans l'espoir de pacifier l'esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Niah m'a dit que le Rêve rouge est un bateau pirate mené par une elfe du nom de Maerwith. Elle est connue pour fréquenter le Tonneau carbonisé dans Brackenbury lorsqu'elle est en ville, ce qui semble être le cas en ce moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Maerwith avait à l'évidence une connexion avec le phare et son dernier gardien, mais elle ne lui rendra pas visite. Je dois m'occuper de l'esprit d'une autre manière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Lorsque j'ai été assez proche pour bien voir, j'ai remarqué que l'esprit semblait fixer l'horizon en cherchant quelque chose. Ses mains étaient tachées de quelque chose de sombre, du sang ou de l'encre, peut-être. Je trouverai peut-être un indice dans les parages qui m'aidera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vaincu la furie dans le phare. Niah a pu reprendre ses rénovations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu Maerwith de rendre visite à la furie. Maintenant que l'esprit en colère est calmé, Niah peut reprendre ses rénovations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai tué Niah. Je ne recevrai aucune récompense de sa part pour avoir sécurisé le phare.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

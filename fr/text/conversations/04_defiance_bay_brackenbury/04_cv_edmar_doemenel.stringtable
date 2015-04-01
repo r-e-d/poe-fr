@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_edmar_doemenel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le seigneur Gedmar Doemenel en impose. Il est superbement vêtu comme les nobles aedyrans, mais porte aussi des cicatrices au niveau des articulations et des brûlures sur le cou qui ne sont pas l'apanage des gens bien nés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenfeld vivant, vous et moi n'aurons rien à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Gedmar Doemenel vous fait signe de la tête."Mais que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je rêve de servir la grande maison Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Acquiescez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous devez connaître mes conditions avant que nous poursuivions." Il marque une pause pour vérifier que vous l'écoutez. "Jusqu'à présent, vous avez bien servi ma maison. Les personnes de votre trempe sont toujours les bienvenues à la maison Doemenel. Ce que j'attends de vous est aussi dangereux qu'illégal, comme vous devez vous en douter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Alors, vous voulez éliminer cette mauvaise herbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Le seigneur Doemenel retrousse les lèvres et s'approche de vous. "Visiblement, mon fils vous en a déjà touché deux mots. Ce n'est pas ce que j'avais prévu."
+
+"Mais Abrecan semble avoir marqué un point. Les Chevaliers regardent par-dessus leurs épaules lorsqu'ils passent devant notre porte." Il sourit presque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Le maréchal Wenfeld nous pose un sérieux problème. Il s'intéresse de près à certaines activités de la maison Doemenel."
+
+"Impossible de le soudoyer, de le menacer ou de le convaincre de quelque moyen que ce soit. Il se montre inflexible. Une mauvaise herbe. Et si on ne fait rien, il finira par nous envoyer toutes les troupes du donjon du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Gedmar se redresse. "Wenfeld se trouve au donjon du Creuset des Premiers feux, un des bâtiments les mieux gardés de la ville. Sa piété devrait suffire à le coincer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sang-froid et discrétion. Parfait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Gedmar vous donne une poignée de main rapide et ferme. "Mes ancêtres ont appris aux citoyens de la Baie du défi à craindre et à respecter le nom des Doemenel. À la suite de la rébellion d'Hadret, se faire une réputation était… des plus opportun."
+
+"Nous ne vivons pas dans le même monde qu'eux. L'agitation menace, mais cette fois, nous devons nous montrer prudents pour éviter les tirs croisés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Il commence à faire les cent pas derrière son bureau. "Si vous échouez, vous vous mettrez à dos la maison Doemenel et d'autres puissants de la Baie du défi." Ses pieds ne font aucun bruit sur le tapis en velours.
+
+"Les esprits s'échauffent en ville et beaucoup s'en inquiètent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous devrez accepter cette mission sans en connaître préalablement les détails. J'attends une loyauté absolue de tous ceux qui cherchent à s'attirer les faveurs de ma maison." Il vous regarde. "Si c'est trop vous en demander, il est encore temps de renoncer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je ne peux pas accepter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Serrez sa main.] "J'accepte vos conditions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Il s'arrête, pose les deux mains sur son bureau et se penche en avant. "Mais si vous réussissez, vous recevrez une généreuse récompense. La maison Doemenel est un allié aussi riche que puissant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Le seigneur Doemenel tend la main par-dessus son bureau. "C'est d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Gedmar retire sa main aussi soudainement qu'il l'a tendue. Il s'assoit à son bureau et s'y affaire à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Alors, nous n'avons plus rien à nous dire. Quittez ces lieux et retournez auprès de mon fils buveur de vin et de sa sœur compteuse de pièces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Et si je refuse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Un regard sombre lui traverse le visage. Cette expression disparaît aussi vite qu'elle est apparue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Dans ce cas, prenez votre dû pour les services rendus et allez-vous-en. Je n'ai que faire d'une fidélité conditionnelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Les Chevaliers du Creuset font preuve d'audace au milieu du chaos. Ils craignent les Douzaines et leur capacité à encourager une foule en colère."
+
+"Ils cherchent à asseoir leur autorité par le seul moyen qu'ils connaissent… En frappant tous les puissants de la ville." Ses mains serrent ses poignets. Ses cicatrices ressortent et ses articulations blanchissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Pour faire court?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Le maréchal Wenfeld doit mourir. J'ai besoin de quelqu'un de suffisamment rusé et efficace pour mener à bien cette mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je veux que les Chevaliers du Creuset s'en prennent aux Douzaines, et pas à nous. Les tensions sont fortes et une étincelle suffira à les monter les uns contre les autres."
+
+"Laissez ceci sur l'autel d'Abydon dans la chapelle. Les Chevaliers du Creuset comprendront le message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Il sourit. "Vous comprenez vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Cela va me plaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Inclinez-vous.] "Comme vous voudrez, seigneur Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Préparez l'argent. Je n'en aurai pas pour longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Visiblement, je me suis trompé sur vous. Les personnes affichant une telle férocité sont rares… et appréciées au sein de ma maison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"J'ai besoin d'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"J'ai besoin d'une arme puissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je voudrais qu'un de vos hommes garde mon bastion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"J'aurais peut-être besoin de votre aide à l'avenir. J'attendrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je ne suis pas du genre à négliger mes amis. Un service est un service, dans ce cas. Réfléchissez à ce que vous me demanderez. Il peut s'avérer utile d'avoir un ami comme moi à vos côtés si… les choses ne se déroulent pas comme prévu. Surtout par les temps qui courent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Comme vous voudrez. Cela devrait plus que suffire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Gedmar se concentre à nouveau sur son bureau. "Si vous voulez bien m'excuser, mais j'ai à faire maintenant. Je suppose que vous trouverez la sortie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Il ouvre un tiroir, en retire une grosse bourse en cuir et la met sur le bureau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"J'ai besoin d'un service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il joue avec ses doigts. "Allez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Parlez-moi de la maison Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"L'arme parfaite pour un assassin de votre trempe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Certainement. Vous me trouverez ici quand vous serez prêt."</DefaultText>
+      <FemaleText>"Certainement. Vous me trouverez ici quand vous serez prête."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"C'est fait. Je vais immédiatement lui faire part de ses nouvelles fonctions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Tout dépend de ce que vous attendez de moi, mon seigneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Et vous n'aurez pas le luxe de le savoir avant de m'avoir assuré de votre loyauté." Il plie les mains derrière son dos. "Nous sommes la plus ancienne famille de nobles de la Baie du défi, pas une guilde de marchands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je ne crains pas de froisser certains, comme Abrecan pourra vous le dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Pas d'impudence ! Il ne s'agit pas d'une simple babiole dans le grenier d'un noble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ce sera fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Gedmar dit quelque chose à son garde du corps. Il astique une lame particulièrement effilée. Il se retourne lorsque vous entrez et ses yeux sont aussi froids que l'acier qu'il tient dans ses mains. "Eh bien, en voilà une surprise ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je suppose que je dois vous remercier d'être là. Vous m'avez épargné le souci de vous trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Je n'ai pas besoin de vous. " Allez-vous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"J'ai besoin d'une invitation pour participer à la réunion qui doit avoir lieu au palais ducal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Vous l'aurez." Il pose la main sur votre épaule. "Et alors, je suis certain que vous aurez à cœur de servir les intérêts de la maison Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Le seigneur Gedmar Doemenel en impose. Il est superbement vêtu comme les nobles aedyrans, mais porte aussi des cicatrices au niveau des articulations et des brûlures sur le cou qui ne sont pas l'apanage des gens bien nés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Le seigneur Doemenel acquiesce. "Beau travail, en effet. Mes contacts en ville m'ont fait part de violents complots entre les Chevaliers du Creuset et les Douzaines. Nous allons profiter de la situation pour accroître nos profits et étendre notre influence. Personne ne s'occupera de nous et personne ne nous arrêtera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vous savez tenir votre langue. Parfait."</DefaultText>
+      <FemaleText>"Vous savez tenir votre langue. Parfait."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Son regard se glace."Un esprit vif m'est plus utile qu'une verve trop rapide. J'espère que vous faites la différence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"L'heure n'est pas au marchandage ni à la tergiversation. De deux choses l'une… Ou j'ai votre loyauté ou je ne l'ai pas." Il croise les mains derrière le dos. "Nous sommes la plus ancienne famille de nobles de la Baie du défi, pas une guilde de marchands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText> "Je pense que nous pouvons trouver un arrangement. Cela étant, vous devez comprendre qu'un tel accord vous mettra en porte-à-faux avec les Chevaliers du Creuset et, dans une moindre mesure, avec les Douzaines."
+
+Il vous regarde dans l'expectative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Malheureusement, d'après mes sources, vous entretenez des liens étroits avec les Chevaliers du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Votre absolue loyauté  m'est indispensable. Vous le comprendrez, j'en suis certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"J'ai décidé de ne pas travailler pour la maison Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Alors, nous n'avons plus rien à nous dire. Allez-vous-en, je vous prie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Nous n'avons donc plus rien à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Un sourire se dessine sur ses lèvres. "Si vous n'avez que très peu entendu parler de nous, c'est que nous avons réussi à faire profil bas. Et c'est important dans ce domaine."
+
+"Nous étions autrefois l'une des plus grandes familles de la Baie du défi. Mais, lors de la guerre du Défi, nos ancêtres n'ont pas choisi le bon camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Malheureusement, d'après mes sources, vous entretenez des liens étroits avec les Douzaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Quel soulagement ! Je pensais qu'il allait nous récompenser par un coup de poignard dans le dos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"J'ai vu des tas de gens particulièrement redoutables dans cette maison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Il vaut mieux avoir les Doemenel pour alliés plutôt que les Douzaines, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Hiravias murmure, "Les hommes de son espèce ne sont rien d'autre que des coyotes sur deux pattes et il vaut mieux les avoir pour amis que pour ennemis. Alors, continuez de vous attirer ses faveurs !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Aloth se retourne vers vous et marmonne doucement. "Des amis hauts placés, en effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh, bien. Encore un type qui n'a pas l'intention de vous jeter dans la mer. Il vaut mieux nager aux cotés d'un requin que devant lui, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Meurtre et intrigue. Vous savez comment faire passer à une dame un... bon moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Eh bien, cela va barder après cela, c'est certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je pensais que les Doemenel ne voudrait pas voir leur ville ravagée par la guerre, mais en provoquant les Douzaines et les Chevaliers, c'est précisément ce qui se profile. Merla, cette famille est encore pire que je le pensais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Si nous devions tuer quelqu'un pour ARRÊTER les combats, je pourrais trouver cela logique. Mais ce meurtre en appellera un autre... J'implore Wael qu'il y ait une issue favorable à tout cela, mais elle m'échappe..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Attention, [Player Name]. Je ne pense pas que cet homme apprécie davantage l'échec que son fils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Un assassinat ne suffirait certainement pas à les monter l'un contre l'autre. Et pourquoi pas une subtile lettre ?" Kana soupire. "À ce rythme, nous allons passer le restant de nos jours dans des cachots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Comme je l'avais espéré, les Douzaines et les Chevaliers se déchirent à la moindre provocation. Quelqu'un va devoir rétablir l'ordre dans cette ville."
+
+Il vous fait un signe lent de la tête. "Vous apprécierez d'avoir rallié le camp du vainqueur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Malgré leur courte histoire, les Dyrwoodans ont la mémoire longue. Mes ancêtres n'étaient plus les bienvenus les cercles fermés et ont dû s'adapter." Il frotte ses doigts gantés de soie.
+
+"En fin de compte, on s'en est plutôt bien sortis. On est devenus les maîtres du commerce illicite de la Baie du défi, ce qui nous confère une puissance d'un tout autre genre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Mon fils m'a dit que vous viendriez me voir pour du travail. Et de l'avancement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Mon fils m'a dit que vous aviez besoin d'une invitation pour vous rendre au palais. Je peux arranger ça et même vous offrir une promotion au sein de ma maison en échange de vos services."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

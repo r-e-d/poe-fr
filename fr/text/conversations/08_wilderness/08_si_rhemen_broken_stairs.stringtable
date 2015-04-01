@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_rhemen_broken_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les escaliers se sont effondrés, créant un trou béant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Regardez en bas.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>L'étage inférieur est sombre, mais vous y remarquez des flaques d'eau et des champignons qui poussent à la surface des pierres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Lancez un grappin sur le côté et descendez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Alors que vous descendez le long de la corde, le bruit de l'eau parvient à vos oreilles. Visiblement, l'eau de la gorge s'écoule vers un lointain réservoir.
+
+Soudain, une violente secousse ébranle la caverne et vous déséquilibre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous accrochez un grappin sur une fissure de l'escalier délabré et lancez la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous parvenez à vous y accrocher jusqu'à ce que la secousse se calme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Les mains de [SkillCheck 0] ne parviennent plus à s'agripper à la corde et [SkillCheck 0] s'écrase, la tête la première, sur le sol mouillé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous arrivez en bas et vos pieds pataugent dans une flaque d'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

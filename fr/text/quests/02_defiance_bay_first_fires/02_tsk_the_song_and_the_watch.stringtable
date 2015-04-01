@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_tsk_the_song_and_the_watch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sentinelles portées disparues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Accédez à la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez les gardes portés disparus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Parlez à Wyla.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Plusieurs des novices de Wyla, une justicière des Chevaliers du Creuset, qui montaient la garde aux abords de la Colline de l'Héritage ont disparu dans de mystérieuses circonstances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La porte permettant d'accéder à la Colline de l'Héritage est fermée, mais Wyla m'a dit que les gardes m'attendraient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Les gardes portés disparus se trouvent certainement quelque part à la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai réglé le problème concernant Leyra. Elle n'importunera plus les Chevaliers du Creuset ni personne d'autre à la Colline de l'Héritage. Je devrais aller au donjon du Creuset des Premiers feux et dire à Wyla ce qui s'est passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le garde de la porte a indiqué que, lors de la dernière ronde, un des gardes avait entendu quelqu'un crier un ordre. Cela semblait venir du nord est.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Le garde de la porte a ajouté que les deux fois où des gardes ont disparu, la porte était ouverte. Il est possible que les gardes disparus soient entrés à la Colline de l'Héritage de leur propre chef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé le cadavre de ce qui semble être un commandant des Chevaliers du Creuset. Wyla a indiqué qu'un d'eux avait disparu avant que la Colline de l'Héritage ne soit bouclée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai indiqué à Wyla que j'avais réglé le problème concernant l'esprit agité de Leyra à la Colline de l'Héritage. Elle était contente d'apprendre ce qui était arrivé à ses novices disparus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai indiqué à Wyla que j'avais réglé le problème concernant l'esprit agité de Leyra à la Colline de l'Héritage. Elle était soulagée d'apprendre que tous les novices disparus n'étaient pas morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai indiqué à Wyla que j'avais réglé le problème concernant l'esprit agité de Leyra à la Colline de l'Héritage. Elle était soulagée d'apprendre que tous ses novices disparus étaient sains et saufs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Maintenant que Wyla est morte, ses novices disparus ne sont plus mon affaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

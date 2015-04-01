@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_becoming_watcher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Visions et murmures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retrouvez la femme naine du rêve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Demandez de l'aide pour votre situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Après avoir survécu à une explosion hors des ruines de Cilant Lîs, j'ai fait l'expérience d'une vision. Dès lors, j'entends des sons sans source, et je vois des choses qui ne sont pas là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dans mon rêve, j'ai entendu un message venant d'une femme - une femme morte, pendue à un arbre qui se trouve au centre de la Vallée dorée. Ce n'est peut-être rien d'autre qu'un rêve, mais il était empreint d'un étrange réalisme. J'ai besoin de retourner là-bas et de le découvrir par moi-même. Ma situation ne s'est pas améliorée, et je ne dors pas bien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ce n'est pas la maladie qui m'a frappé dans le chariot. C'est nouveau, une affliction de l'esprit, peut-être. Avec un peu de chance, quelqu'un dans la Vallée dorée saura quoi faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le magistrat m'a suggéré de me reposer en attendant que je trouve un logement permanent. Ce pourrait être la meilleure chose à faire pour mettre un terme à cette maladie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai mis un mot, à présent, sur ce que je suis devenu : un Gardien. Il semble que si je veux en apprendre plus sur cette affliction, je dois retrouver un homme du nom de Maerwald, dans l'ancien donjon de Caed Nua.</DefaultText>
+      <FemaleText>J'ai mis un mot, à présent, sur ce que je suis devenu : une Gardienne. Il semble que si je veux en apprendre plus sur cette affliction, je dois retrouver un homme du nom de Maerwald, dans l'ancien donjon de Caed Nua.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

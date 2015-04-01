@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_lighting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous êtes plein de surprises, n'est-ce pas, [Player Name] ?"</DefaultText>
+      <FemaleText>"Vous êtes pleine de surprises, n'est-ce pas, [Player Name] ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Regardez la taille de cet endroit..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Regardez ça ! Une ville à faire pâlir les autres d'envie. Mais disparue depuis longtemps..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Incroyable ! Je savais que les Bâtisseurs pouvaient faire des merveilles mais ÇA... c'est incroyable !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Beaucoup d'esprits rôdent par ici… emplis de fureur et de violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous pouvez refaire ça ? J'avais quelque chose dans l'œil. Je n'ai presque rien vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nous éclairons notre propre chemin, Gardien."</DefaultText>
+      <FemaleText>"Nous éclairons notre propre chemin, Gardienne."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

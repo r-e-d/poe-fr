@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_korgrak</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alors que vous avancez dans l'obscurité, le sol se met à trembler. Vous entendez des bruits de pas lourds, des grognements et des craquements d'os. Un ogre massif de trois mètres de haut sort de l'ombre. Il déchire de la bouche un membre à sabot à la chair rose avant de le jeter sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Attaquez] "C'en est trop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je n'avais pas l'intention de vous déranger. Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>L'ogre s'avance bruyamment vers vous. "Trop tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je cherche une noble et jeune elfe. Elle a disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Un fermier de Dyrford vous accuse d'avoir dévoré ses cochons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Le grognement de Korgrak laisse apparaître de grosses dents tachées. "Je fais tout ce que je peux pour éviter les êtres civilisés. Surtout ceux qui, en cas de disparition, font l'objet de recherches." Il se gratte les articulations et vous regarde. "Elle n'est jamais venue ici. J'en suis certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Attaquez] "Je vais commencer par m'occuper de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Dans ce cas, je devrais y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Il donne un coup de poing dans le mur et grogne. "Alors, j'aurai mieux fait de dévorer ce fermier ! J'ai sous-estimé à quel point ces villageois tiennent à leurs cochons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je constate que vous privilégiez votre gauche. Vous manquez de force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Bon, eh bien, je vais chercher ailleurs. D'abord, je voudrais vous demander quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>L'ogre grimace, montrant ses dents. "Et cela ne m'empêchera pas de vous défoncer le crâne ainsi qu'à tous ceux qui seraient assez stupides pour venir me voir ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Il grince des dents et vous lance un regard furieux, les yeux noirs et plissés de rage. Korgrak prend plusieurs respirations, prêts à charger d'une seconde à l'autre. Puis, il laisse tomber sa masse. "C'est ce que je craignais." Il soupire et vous sentez son souffle fétide. "Il est temps d'y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Nous avons peut-être un arrangement, mais je ne promets rien pour les autres qui s'aventureront ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Que faites-vous dans cette grotte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous vous cachez de vos congénères." Il se gratte une défense et vous fixe du regard. "Les êtres civilisés sont chassés de chez eux par d'étranges tempêtes. Des bandits assoiffés de sang et d'argent. Mes congénères ne sont jamais en sécurité, mais maintenant ? Ils s'emportent facilement et le sang des ogres est apprécié de vos alchimistes." Il tapote sa masse des doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"J'ai une forteresse à Caed Nua. Aidez-moi à la défendre et vous pourrez y rester aussi longtemps que vous le voudrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vendre mes services pour protéger une forteresse ? Voilà qui promet d'être source d'ennuis, mais je peux peut-être m'en occuper." Il retourne en traînant les pieds dans l'ombre. "Si vous avez besoin de moi, vous savez où me trouver. Je vais laisser Dyrford tranquille pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous avez déjà dévoré un troupeau entier de cochons. À ce rythme là, vous ne pourrez pas continuer de vous cacher ici bien longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je le sais ! Il frappe le sol avec sa masse et prend une longue respiration. "J'ai plus de chances ici, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Il vous observe sous sa ligne d'épais sourcils. "Trop bien équipé pour être un villageois. Un bandit de grand chemin, alors. Certainement." L'ogre grogne et tient bien serrée sa masse. "J'ai fait attention. Je n'ai tué que ceux qui sont suffisamment bêtes pour venir le traquer jusqu'ici. Qu'est-ce que vous me voulez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Laissez ce village en paix. Je ne vous le redirai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Mentez] "J'ai entendu dire qu'il y avait une ville avec plein de cochons un peu plus loin le long de la rivière. Ainsi que d'appétissants villageois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Cet endroit n'est pas sûr. Même si vous me tuez, quelqu'un d'autre ne tardera pas à vous trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Pour vous cacher dans cette grotte infestée d'araignées, quelque chose à l'extérieur doit vous faire très peur..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Dyrwood est immense. Il existe certainement un endroit plus sûr où vous cacher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Il grogne et brandit sa masse. "Bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Il tient sa masse des deux mains et s'approche. "Voilà qui devrait vous intéresser. Maintenant que vous m'avez trouvé, je ne peux pas vous laisser partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Les villageois appétissants sont dangereux lorsqu'ils sont nombreux." Ses yeux se plissent et il brandit sa masse. "Assez parlé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Il frappe le sol avec sa masse. "Vous croyez que je n'ai rien vu ? Au départ d'Isce Îen, j'ai erré dans les bois avant d'arriver ici. Il n'y a pas mieux qu'une grotte infestée d'araignées pour se cacher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Il frappe le sol avec sa masse. "Je vous l'avais dit ! De nos jours, les êtres civilisés ne cherchent qu'à manger ou à vendre quelque chose. Je ne survivrais pas une semaine dehors. Pas une semaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous constituez une menace pour les villageois. Trouvez un autre repaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Il montre les dents. "Je n'ai que faire des villageois. Et vous non plus, d'ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Il sourit à pleines dents. "Quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Calmez-vous. Peut-être pourriez-vous me dire quelque chose d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Il regarde par-dessus votre épaule comme s'il s'attendait à y voir quelqu'un d'autre. "Parlez. Vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Où irez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Eh bien, bonne chance à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Les Ormes jumeaux ? Voilà un bon choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>{CUT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Korgrak brandit sa masse et charge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bank Node 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"C'est curieux que vous le demandiez. Vous ne vous souvenez donc pas que j'avais évoqué les Ormes jumeaux lors de notre première rencontre ? Quelques ogres y auraient élu domicile, et pas en tant que serviteurs ou esclaves."
+
+Hiravias hausse les épaules et lance un sourire en direction de Korgrak. "Je doute que les druides apprécient de se faire dévorer, mais Korgrak peut s'amuser ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Un voyageur m'a dit qu'aux Ormes jumeaux, des ogres cœxistaient pacifiquement avec les êtres civilisés."
+
+"Ils préfèrent sûrement la compagnie des ogres à celle des Dyrwoodans, si vous voulez mon avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Les Glanfathans se montrent un peu plus tolérants envers les ogres, vous savez. Plusieurs d'entre eux vivent aux Ormes jumeaux. Si... cela se passe bien, tant mieux pour eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Il vous regarde avec suspicion. "Je vais suivre la rivière pour le moment. Elle abonde de bonnes proies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Allez-vous-en, ou vous allez le regretter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Il serre sa masse dans un grognement. "Bon sang ! Inutile de vous dire combien je suis désolé !" Il vous regarde et brandit sa masse. "Et c'est comme ça que vous me traquez..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Rien ne vous oblige à rester dans cette misérable grotte. Nul doute qu'un ogre de votre trempe pourrait aisément s'aventurer dans les bois..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vous n'avez pas à vous en aller. Vous devez juste apprendre avec subtilité. Faites profil bas le temps que les villageois vous oublient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Dyrford pourrait redevenir un lieu sûr pour vous. Occupez-vous juste de Rumbald, le fermier qui a mis votre tête à prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il esquisse un large sourire. "Calme. Discrétion. Je crois que je vois ce que vous voulez dire." Il retourne en traînant dans l'ombre. "Je vais suivre vos conseils. Ne leur donnez aucune raison de venir me chercher et j'en ferai de même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Il esquisse un large sourire. "Vous croyez que je devrais faire un exemple et le dévorer ? Voilà qui ne serait pas pour me déplaire." Il jette sa masse sur son épaule et regarde l'entrée de la grotte, souriant à pleines dents. "Je me réjouis à l'idée de sortir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Si vous ne vous occupez pas des autres, comment tous ces os sont-ils arrivés ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Il serre les dents d'impatience. "La faute aux araignées pour la plupart. Quant aux autres, ils cherchaient les ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Avant que vous partiez, j'aimerais vous interroger sur cette noble portée disparue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Bonne chance !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je fais tout ce que je peux pour éviter les êtres civilisés. Surtout ceux qui, en cas de disparition, font l'objet de recherches. Non, je ne l'ai pas vue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Merci pour l'information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Avant de partir, j'aimerais vous interroger sur cette noble portée disparue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Il retourne en traînant dans l'ombre. "Je ne vais pas tarder à partir. Mais en attendant, allez et venez comme vous voudrez. Je ne vous embêterai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"À la réflexion, j'ai une autre idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Oubliez ça. Visiblement, les Ormes jumeaux vous conviendraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"C'est bien de trouver un endroit qui ne sent pas les os de cochon ou la crotte d'araignée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je suis ravi que vous ayez une cuisine digne de ce nom. J'ai vu beaucoup de feux de camps dans le coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Votre marchande orlane... elle vend du sang d'ogre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Les murs sont bien solides ici. Plus sûrs que dans n'importe quelle grotte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ce gardien est un excellent compagnon de chasse. Et en plus, il connaît quelques chansons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"J'aime la manière dont vous avez arrangé votre jardin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Il tient sa masse des deux mains et s'approche. "Et vous semblez suffisamment sage pour comprendre que maintenant que vous m'avez trouvé, je ne peux pas vous laisser partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Il plisse les yeux. "C'est vous qui venez d'arriver, n'est-ce pas ? J'ai entendu parler de vous aux abords du village."
+
+Il tient sa masse des deux mains et s'approche. "Maintenant que vous m'avez trouvé, je ne peux pas vous laisser partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

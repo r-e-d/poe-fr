@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_commoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Si vous avez besoin d'un gîte pour la nuit, l'Oie et le Renard possède les lits les plus douillets et la meilleure bière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous êtes-vous déjà rendu dans la salle d'expédition ? Vous y trouverez le genre de travail qui vous convient."</DefaultText>
+      <FemaleText>"Vous êtes-vous déjà rendue dans la salle d'expédition ? Vous y trouverez le genre de travail qui vous convient."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Les Chevaliers du Creuset ont prévenu tout le monde de rester hors des catacombes, elles ne sont plus sûres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Si vous êtes un érudit, vous voudrez certainement visiter le Hall des mystères révélés."</DefaultText>
+      <FemaleText>"Si vous êtes une érudite, vous voudrez certainement visiter le Hall des mystères révélés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Le marché de Copperlane possède tout ce dont vous avez besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Certaines des pièces qu'ils mettent à l'affiche dans l'amphithéâtre sont assez bonnes."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

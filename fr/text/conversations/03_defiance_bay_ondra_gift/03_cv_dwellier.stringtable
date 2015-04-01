@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_dwellier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'homme baisse la tête devant vous. "Donc. Vous être un membre, je vois. Êtes-vous ici pour l'équipement exclusif du Club ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Montrez-moi votre stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Parlez-moi de cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Il croise les bras. "Pour simplifier, vous êtes dans le Club des gentilshommes raffinés et prestigieux, au premier étage du Mât salé." Il incline la tête. "Plus précisément, vous êtes dans le salon réservé aux membres, ce qui signifie que vous appartenez au club depuis au moins un an." Il vous regarde avec suspicion.
+
+"Nos règles sont strictes, mais elles permettent d'exclure la racaille. En général."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je collecte l'équipement le plus raffiné depuis plus de dix ans. Je vous garantis que vous ne trouverez pas une plus belle collection."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

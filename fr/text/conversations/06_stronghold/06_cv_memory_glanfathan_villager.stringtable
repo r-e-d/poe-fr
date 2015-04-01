@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_memory_glanfathan_villager</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une fumée spectrale s'agite tout autour de vous. Tout d'abord, vous ne voyez rien excepté la brume, mais graduellement, vous distinguez la forme flétrie et voûtée d'un vieil elfe. Son visage et ses bras décharnés sont recouverts de peinture.
+
+"Vous ne pouvez pas faire ça !" Il secoue la tête, vous crachant les mots au visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Faire quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Écoutez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Quittez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"C'est notre village. C'est chez nous ! Les Neuf griffes ont vécu ici pendant presque cinquante générations." Vous êtes incapable de deviner s'il plisse les yeux à cause de la fumée ou bien s'il est hargneux envers vous. "Nous étions ici bien avant que vous et vos semblables apportent la guerre sur nos terres."
+
+Une quinte de toux le fait trembler. "Vous ne pouvez pas tout brûler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Après une pause, il se retire et vous regarde avec une expression d'horreur, apparemment en réponse à quelque chose que vous n'avez pas dite. Mais les paroles illusoires des flammes vacillent aux coins de votre vision.
+
+"Ayez pitié, soldat ! Nos guerriers sont tous partis..." Il tousse. "Vous ne pouvez nous tuer à cause d'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Il s'approche de vous et ouvre la bouche pour dire quelque chose, mais tout ce qui émerge est une quinte de toux violente. Il tombe à genoux, s'étouffant à mesure que la fumée s'épaissit. Les flammes bouchent la vision alors que vous reculez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quittez notre village ! Nous ne vous avons rien fait !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

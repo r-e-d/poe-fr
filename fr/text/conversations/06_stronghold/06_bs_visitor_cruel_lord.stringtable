@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_visitor_cruel_lord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous êtes beaucoup trop indulgent avec vos sujets, mon seigneur. Quelques coups de fouet ne leur feraient pas de mal."</DefaultText>
+      <FemaleText>"Vous êtes beaucoup trop indulgente avec vos sujets, ma dame. Quelques coups de fouet ne leur feraient pas de mal."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Au moins ici, on est à l'abri de la foule. La Baie du défi est insupportable."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

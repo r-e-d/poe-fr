@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_ducal_palace</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'ermite de la maison Hadret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parlez à dame Webb à la maison Hadret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Faites-vous inviter par l'une des délégations pour assister aux audiences concernant l'animancie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez à Brackenbury et adressez-vous à dame Webb, à la maison Hadret, pour participer aux audiences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Participez aux audiences du palais ducal des Premiers feux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez à la maison Hadret, à Brackenbury, et racontez à dame Webb ce qui s'est passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Dites à dame Webb, à la maison Hadret, que vous n'avez pas réussi à vous procurer une invitation pour assister aux audiences d'animancie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Informez dame Webb des activités de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Je dois rejoindre le Rang de Dunryd à la demande de dame Webb, une femme solitaire qui semble en savoir plus sur moi que l'inverse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dame Webb m'a convoqué à la maison Hadret de Brackenbury pour une rencontre.</DefaultText>
+      <FemaleText>Dame Webb m'a convoquée à la maison Hadret de Brackenbury pour une rencontre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Pour participer aux audiences concernant l'animancie qui se déroulent au palais, je vais devoir être parrainé par une des trois principales factions a y être représentées : les Chevaliers du Creuset, la maison Doemenel ou les Douzaines.
+
+Les Chevaliers du Creuset possèdent un donjon aux Premiers feux.
+
+La maison Doemenel possède un manoir à Brackenbury.
+
+Les Douzaines ont leurs quartiers dans la salle des expéditions de Copperlane.</DefaultText>
+      <FemaleText>Pour participer aux audiences d'animancie du palais, je vais devoir être parrainée par une des trois principales factions a y être représentées : les Chevaliers du Creuset, la maison Doemenel ou les Douzaines.
+
+Les Chevaliers du Creuset possèdent un donjon aux Premiers feux.
+
+La maison Doemenel possède un manoir à Brackenbury.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que j'ai été officiellement invité aux audiences concernant l'animancie, je devrais retourner voir dame Webb pour lui faire part de mes progrès.</DefaultText>
+      <FemaleText>Maintenant que j'ai été officiellement invitée aux audiences d'animancie, je devrais retourner voir dame Webb pour lui faire part de mes progrès.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je devrais rejoindre le palais des Premiers feux et assister aux audiences le plus tôt possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Le duc a été assassiné et c'est la panique dans les rues de la Baie du défi. Dame Webb est peut-être la seule personne capable de rétablir l'ordre. Je dois rejoindre la maison Hadret et l'informer de ce qui s'est passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Je me suis mis à dos les Doemenel, les Chevaliers et les Douzaines. Obtenir une invitation pour assister aux audiences d'animancie est impossible. Je devrais informer dame Webb, à la maison Hadret, de la situation dans laquelle je me trouve.</DefaultText>
+      <FemaleText>Je me suis mise à dos les Doemenel, les Chevaliers et les Douzaines. Obtenir une invitation pour assister aux audiences d'animancie est impossible. Je devrais informer dame Webb, à la maison Hadret, de la situation dans laquelle je me trouve.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Dame Webb m'a demandé de l'informer au cas où j'apprendrais quelque chose sur les activités de la Clé plombée à Dyrwood. Tout ce que je découvrirai en suivant les indices que j'ai trouvés dans les catacombes de l'église woedicane lui sera utile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai déjà travaillé pour la maison Doemenel, mais il va me falloir faire grande impression sur le seigneur Doemenel pour espérer rejoindre sa délégation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Wenan, le chef des Douzaines, est d'accord pour m'accepter au sein de sa délégation sous réserve que j'accomplisse suffisamment de missions pour son compte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Le commandant Clyver des Chevaliers du Creuset veut bien m'autoriser à assister aux audiences si j'accepte d'aider leur cause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai été invité à rejoindre la délégation de la maison Doemenel.</DefaultText>
+      <FemaleText>J'ai été invitée à rejoindre la délégation de la maison Doemenel.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai été invité à rejoindre la délégation des Douzaines.</DefaultText>
+      <FemaleText>J'ai été invitée à rejoindre la délégation des Douzaines.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai été invité à rejoindre la délégation des Chevaliers du Creuset.</DefaultText>
+      <FemaleText>J'ai été invitée à rejoindre la délégation des Chevaliers du Creuset.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai déclenché la colère des Doemenel et ceux-ci ne veulent plus travailler avec moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Mes agissements ont irrémédiablement compromis mes relations avec les Douzaines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Les Chevaliers du Creuset ne veulent plus travailler avec moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Dame Webb m'a demandé de l'informer dès que j'apprends quelque chose sur les activités de la Clé plombée à Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai informé dame Webb des activités de la Clé plombée à la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Je l'ai informée de ce que j'ai réussi à glaner auprès de l'âme du membre défunt de la Clé plombée à Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Après avoir rencontré Thaos au sanatorium de Brackenbury, j'ai informé dame Webb qu'il semblait déterminé à nuire à la réputation des animanciens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Dame Webb a été tuée dans son sommeil par Thaos, après avoir découvert où il se dirigeait. Elle m'a rendu un grand service et je pense qu'elle le savait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>En tuant Lady Webb, j'ai mis fin à une importante relation. Sans ses conseils et ses relations, ma quête est vouée à l'échec.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

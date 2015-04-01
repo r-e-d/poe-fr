@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>{0} expirée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{0} ajoutée ! Expiration de la quête dans {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Construction de {0} terminée !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ingrédients recueillis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Jour de paie des mercenaires !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>{0} s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{0} a été payé {1}.</DefaultText>
+      <FemaleText>{0} a été payée {1}.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>{0} a été payé {1} et a repris le travail.</DefaultText>
+      <FemaleText>{0} a été payée {1} et a repris le travail.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>{0} n'a pas été payé {1}.</DefaultText>
+      <FemaleText>{0} n'a pas été payée {1}.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>{0} n'a pas été payé {1} et n'a pas repris le travail.</DefaultText>
+      <FemaleText>{0} n'a pas été payée {1} et n'a pas repris le travail.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{0} terminée ! {1} retourne à la forteresse avec {2}. Le butin vous attend dans le coffre au trésor de la grande salle !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>{0} a attaqué la forteresse !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>{0} n'a pas été payé {1} et a quitté la forteresse.</DefaultText>
+      <FemaleText>{0} n'a pas été payée {1} et a quitté la forteresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>{0} a attaqué la forteresse, mais aucun dégât n'est à déplorer !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>{0} a été détruit.</DefaultText>
+      <FemaleText>{0} a été détruite.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>{0} a été tué.</DefaultText>
+      <FemaleText>{0} a été tuée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous cumulez une dette de {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Taxes collectées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>{0} perdus au profit des malfrats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous gagnez {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Votre dette est remboursée !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Votre dette a été réduite à {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Tous les profits ont été saisis par les malfrats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Évasion ! {0} s'est enfui des cachots ! </DefaultText>
+      <FemaleText>Évasion ! {0} s'est enfuie des cachots !</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Enlèvement ! {0} a été enlevé à la forteresse !</DefaultText>
+      <FemaleText>Enlèvement ! {0} a été enlevée à la forteresse !</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>{0} a été tué par les ravisseurs !</DefaultText>
+      <FemaleText>{0} a été tuée par les ravisseurs !</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>{0} a été secouru par {1}.</DefaultText>
+      <FemaleText>{0} a été secourue par {1}.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>{0} arrive à la forteresse pour une visite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>La sécurité signale que {0} attaquera la forteresse dans {1} !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>{0} est arrivé et recherche un emploi.</DefaultText>
+      <FemaleText>{0} est arrivée et recherche un emploi.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Un groupe est arrivé et souhaite acheter la liberté de {0}. En échange du prisonnier, ils offrent {1} ou {2}.</DefaultText>
+      <FemaleText>Un groupe est arrivé et souhaite acheter la liberté de {0}. En échange de la prisonnière, ils offrent {1} ou {2}.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>{0} finit d'escorter {1} et rentre à la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>{0} abandonne {1}. Il retourne à la forteresse.</DefaultText>
+      <FemaleText>{0} abandonne {1}. Elle retourne à la forteresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Un suppliant est arrivé en provenance de {0}. Il cherche {1} ou une escorte.</DefaultText>
+      <FemaleText>Une suppliante est arrivée en provenance de {0}. Elle cherche {1} ou une escorte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Le traitement que vous avez infligé à {0} tombe dans l'oubli et votre réputation est rétablie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>{0} est arrivé et propose de vous vendre {1} pour {2}.</DefaultText>
+      <FemaleText>{0} est arrivée et propose de vous vendre {1} pour {2}.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vous ignorez le suppliant et il quitte la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous ignorez la suppliante et elle quitte la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{0} quitte la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{0} était en route pour Caed Nua lorsque des brigands l'ont accosté et contraint à fuir. Vous devriez renforcer la sécurité pour protéger les voyageurs.</DefaultText>
+      <FemaleText>{0} était en route pour Caed Nua lorsque des brigands l'ont accostée et contrainte à fuir. Vous devriez renforcer la sécurité pour protéger les voyageurs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{0} d'expérience</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>argent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>objets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>réputation auprès de {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>{0} et {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Rien de neuf à signaler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>{0}, un dirigeant cruel du nord, est arrivé à la forteresse.</DefaultText>
+      <FemaleText>{0}, une dirigeante cruelle du nord, est arrivée à la forteresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{0}, un idiot local, s'est introduit dans la forteresse et semble déterminé à y séjourner un moment.</DefaultText>
+      <FemaleText>{0}, une idiote locale, s'est introduite dans la forteresse et semble déterminée à y séjourner un moment.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Un criminel recherché répondant au nom de {0} est arrivé à la forteresse.</DefaultText>
+      <FemaleText>Une criminelle recherchée répondant au nom de {0} est arrivée à la forteresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>{0}, un ancien héros de la guerre du Saint, est arrivé à la forteresse.</DefaultText>
+      <FemaleText>{0}, une ancienne héroïne de la guerre du Saint, est arrivée à la forteresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Un noble fortuné répondant au nom de {0} est arrivé à la forteresse.</DefaultText>
+      <FemaleText>Une noble fortunée répondant au nom de {0} est arrivée à la forteresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>{0}, un dignitaire aedyran, est arrivé à la forteresse.</DefaultText>
+      <FemaleText>{0}, une dignitaire aedyrane, est arrivée à la forteresse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>{0}, un marchand de produits exotiques, est arrivé à la forteresse avec des articles rares.</DefaultText>
+      <FemaleText>{0}, une marchande de produits exotiques, est arrivée à la forteresse avec des articles rares.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>{0} est arrivé en demandant de l'argent pour le dédommager ou une escorte pour traverser la campagne.</DefaultText>
+      <FemaleText>{0} est arrivée en demandant de l'argent pour la dédommager ou une escorte pour traverser la campagne.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Un parent éloigné de {1} est arrivé à la forteresse et souhaite acheter sa libération.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>{0}, un marchand d'esclaves de Readceras, est arrivé et souhaite acheter un prisonnier.</DefaultText>
+      <FemaleText>{0}, une marchande d'esclaves de Readceras, est arrivée et souhaite acheter un prisonnier.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>{0}, un animancien, est arrivé et souhaite effectuer des expériences sur un prisonnier.</DefaultText>
+      <FemaleText>{0}, une animancienne, est arrivée et souhaite effectuer des expériences sur un prisonnier.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Tour {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>{3} {6}, {4} : heure {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Fin dans {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Départ dans {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>{0} restant(es)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Il a failli être attaqué par des brigands sur la route, mais vos patrouilles sont intervenues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Elle a failli être attaquée par des brigands sur la route, mais vos patrouilles sont intervenues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Total salaires payés : {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Une attaque était imminente, mais vos patrouilles ont repoussé l'ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Les forces ennemies s'approchent de votre forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Une amélioration a été effectuée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Un visiteur est arrivé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Les forces ennemies ont attaqué votre forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Les mercenaires ont été payés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Les impôts ont été collectés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Une nouvelle aventure est disponible dans votre forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Une aventure s'est terminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Un prisonnier s'est échappé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Un visiteur a été kidnappé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>J'ai trouvé Nyrid dans Copperlane, un bandit mercenaire incarnant un trafiquant de svef qui avait une dette envers son fournisseur. Il utilisait cette identité pour vendre du svef et couvrir les pertes de son fournisseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Naedle est un agent de la Clé plombée qui cherchait à m'attaquer en embuscade dans la Gorge de Stormwall. Après avoir vu que ses cohortes craignaient de m'affronter, elle réfléchit et se rendit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Kestorik était un éclaireur d'une population de vithrack habitant les Chemins infinis d'Od Nua. Il demanda à mourir, mais j'ai préféré l'enfermer dans le donjon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Aefre est un membre des Douzaines qui organisa une campagne d'intimidation contre les clients du Mât salé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Le capitaine Esmer se retrouva cerné par les Glanfathans après sont intrusion sur leur territoire. Les Glanfathans acceptèrent de le libérer si je le faisais prisonnier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Eorn était un fugitif recherché pour le meurtre de l'un des Chevaliers du Creuset. Je l'ai retrouvé se cachant dans les catacombes sous la Baie du défi et j'ai choisi d'appliquer ma propre justice pour ses crimes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Gramrfel et un groupe de brigands impitoyables m'ont attaqué lorsque je traversais la Croisée de Magran. Il a montré qu'il n'était pas préparé à affronter sa propre mort et me supplia de l'emprisonner à la place.</DefaultText>
+      <FemaleText>Gramrfel et un groupe de brigands impitoyables m'ont attaquée lorsque je traversais la Croisée de Magran. Il a montré qu'il n'était pas préparé à affronter sa propre mort et me supplia de l'emprisonner à la place.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>{0} : Tué</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>{0} : Kidnappé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Évènement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>{0} : Ignoré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Divers</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

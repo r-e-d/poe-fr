@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bienvenue dans Pillars of Eternity ! Si vous visitez le monde d'Eora pour la première fois, n'hésitez pas à consulter ces fenêtres pour vous familiariser avec les outils et interfaces disponibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Outre votre personnage, votre groupe comprend jusqu'à cinq compagnons ou aventuriers. Quand la caravane campe en-dehors des ruines glanfathanes, Odema désignera Calisca pour vous aider. Calisca appartient à la classe des combattants, une classe qui excelle dans le domaine de la défense rapprochée. Utilisez ses compétences pour compléter les vôtres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pour sélectionner un membre du groupe, cliquez sur son cercle de sélection ou sur son portrait, ou appuyez sur le bouton numéroté correspondant à sa position dans le groupe (à partir de 1 en partant de la gauche). Pour sélectionner plusieurs membres du groupe, cliquez n'importe où sur l'écran en maintenant le bouton de la souris enfoncé et dessinez un rectangle de sélection sur les cercles des membres que vous souhaitez inclure à votre sélection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Pour déplacer les personnages sélectionnés, cliquez sur une partie de l'écran où votre curseur se transforme en cercle composé de quatre parties égales. Tous les personnages sélectionnés se dirigent alors vers la position correspondante dans la formation. Un cercle barré rouge apparaît sur les portions de la carte auxquelles vous n'avez pas accès.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La plupart des personnages que vous rencontrez dans le monde du jeu sont neutres ou amicaux. Vous pouvez interagir avec eux en cliquant sur leur cercle de sélection. Certains personnages vous salueront et passeront leur chemin, tandis que d'autres engageront une conversation avec vous. Si vous engagez une conversation avec le marchand Heodan, vous aurez accès à une boutique d'équipements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Les boutiques vous permettent d'acheter ou de vendre des objets en échange de pièces de cuivre (pc) ou d'objets disponibles dans l'inventaire de la boutique. Les marchands vous achèteront vos objets à un prix nettement moins élevé que celui auquel ils les revendront. L'inventaire des boutiques est régulièrement réactualisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lorsque vous engagez une conversation avec un personnage, des spectateurs ou des compagnons peuvent également intervenir. Vos choix déterminent la suite de l'histoire et permettent à votre personnage de se forger progressivement une réputation, bonne ou mauvaise. Elle vous suivra partout tout au long du jeu et les personnages que vous croiserez réagiront en fonction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Selon les attributs, les compétences, la classe, la race, la culture et le sexe de votre personnage, différentes options peuvent être disponibles au cours du dialogue. Ces options ne sont pas nécessairement meilleures que les autres réponses, mais elles vous offrent un plus grand éventail de possibilités. Face à vos choix, les réactions des personnages dépendent de leur personnalité et de leur attitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>L'exploration est essentielle dans Pillars of Eternity. Au fil de votre progression dans les Contrées orientales, vous pouvez ouvrir la Carte de la zone pour voir les parties que vous avez déjà explorées et celles qu'il vous reste à découvrir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Lorsque des quêtes vous sont confiées, votre Journal est mis à jour avec les informations correspondantes. Si vous êtes bloqué, ouvrez-le pour revoir vos notes.</DefaultText>
+      <FemaleText>Lorsque des quêtes vous sont confiées, votre Journal est mis à jour avec les informations correspondantes. Si vous êtes bloquée, ouvrez-le pour revoir vos notes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les combats de Pillars of Eternity reposent sur un système en temps réel qui peut être mis en pause. Dans la mesure où vous devez souvent contrôler plusieurs personnages simultanément, n'hésitez pas à mettre le jeu en pause pour donner des ordres, puis à reprendre en temps réel pour voir leur résultat. À partir du menu Options, vous pouvez également mettre automatiquement le jeu en pause lorsque certaines conditions sont réunies (ex : le début d'un combat).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Pour faire face aux attaques, tous les personnages du jeu (amis et ennemis confondus) disposent de quatre propriétés défensives de base : Déviation, Courage, Réflexes et Volonté. Ces propriétés défensives reposent sur les attributs, le niveau, les objets et autres effets du personnage. Lors d'une attaque, la précision est comparée aux propriétés défensives de la cible. Si la précision du personnage est inférieure à la propriété défensive de sa cible, une pénalité est attribuée à l'attaque et celle-ci a de fortes chances de se solder par un échec. Si la précision du personnage est supérieure à la propriété défensive de sa cible, l'attaque a de fortes chances de se traduire par un coup critique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Toutes les attaques qui infligent des dégâts doivent pénétrer la réduction de dégâts (RD) de la cible. La RD d'un ennemi réduit les dégâts infligés selon le pourcentage indiqué, jusqu'à un pourcentage minimum. Si vous avez du mal à affaiblir un ennemi, choisissez une arme ou une attaque infligeant un autre type de dégâts. La plupart des ennemis résistent mieux à un ou deux types de dégâts et sont faibles contre un nombre similaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Parfois, une arme ou un sort ne permet pas de pénétrer la réduction de dégâts d'un ennemi. Lorsque l'attaque atteint sa cible, la RD encaisse la quasi-totalité de l'attaque, sauf un faible pourcentage. Vous entendrez d'ailleurs vos personnages s'en plaindre. Tenez-en compte en notant le type de dégâts paré et en choisissant une arme ou un sort qui inflige un autre type de dégâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous avez porté un coup critique ! Les coups critiques offrent de meilleurs résultats que les coups classiques, et leurs chances de réussite sont plus élevées lorsque la précision de l'attaque est supérieure à la défense de la cible. Les attaques qui infligent des dégâts sont plus dévastatrices lorsqu'un coup critique est porté. Les attaques qui infligent des effets de statut ou des supplices durent plus longtemps lorsqu'un coup critique est porté. Les écorchures sont moins dévastatrices que les coups car elles infligent moins de dégâts et leurs effets durent moins longtemps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous attaquez actuellement un ennemi dont au moins une propriété défensive (Déviation, Courage, Réflexes ou Volonté) est nettement supérieure à la précision de votre personnage. Lorsque la propriété défensive est nettement supérieure à la précision, il est extrêmement difficile de porter un coup et impossible de porter un coup critique. Essayez d'améliorer la précision de votre personnage ou d'utiliser un sort ou une capacité visant une autre propriété défensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Lorsqu'un membre du groupe subit des dégâts, sa résistance et sa santé déclinent. Un voile rouge commence à recouvrir son portrait et la barre de santé située à sa gauche baisse. Lorsque le voile recouvre entièrement le portrait, le personnage est KO. Des potions et des sorts peuvent être utilisés pour régénérer la résistance des personnages et leur permettre de continuer à combattre, mais seul du repos leur permettra de recouvrer la santé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aïe ! Lorsque la résistance d'un membre du groupe est épuisée, il est KO. Il ne peut alors plus combattre. Cela dit, si votre camp remporte le combat, sa résistance sera régénérée à l'issue de celui-ci. Contrairement à la résistance, la santé ne se régénère pas à l'issue du combat. Surveillez la barre située à gauche du portrait du personnage pour veiller à ce qu'il ne soit pas mutilé ou tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Dans Pillars of Eternity, le nombre d'utilisations de la plupart des sorts et capacités est limité. Lorsque le nombre d'utilisations d'une capacité utilisable un certain nombre de fois par combat est épuisé, il n'est régénéré qu'à l'issue du combat. Lorsque le nombre d'utilisations d'une capacité utilisable un certain nombre de fois par repos est épuisé, il n'est régénéré que si vous vous reposez dans une auberge ou utilisez du matériel de camping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous avez découvert du matériel de camping. Vous pouvez l'utiliser pour vous reposer dans la campagne ou dans un cachot. Vous régénérerez ainsi entièrement les capacités et la santé de vos personnages. Vous pouvez transporter davantage de matériel de camping au niveau Facile qu'au niveau Difficile. Si vous n'avez pas de matériel de camping, essayez de trouver une auberge. La plupart des auberges proposent des chambres bon marché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Les auberges permettent aux personnages de se reposer sans utiliser de matériel de camping. Des chambres bon marché sont généralement disponibles, mais si vous avez des pièces de cuivre à dépenser, vous pouvez aussi vous offrir des chambres plus chères. Les bonus qu'elles confèrent durent longtemps et s'appliquent à tout le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Oh oh. Lorsque la barre de santé d'un personnage commence à clignoter en rouge, cela signifie qu'il risque d'être mutilé ou tué. Il doit alors se reposer dans une auberge ou utiliser du matériel de camping pour régénérer sa santé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Lorsque la santé du personnage est épuisée, il tombe immédiatement. Et en fonction de votre paramètre de difficulté, il est mutilé ou tué. Un personnage mutilé reçoit d'importantes pénalités de combat et tout dégât supplémentaire peut le tuer. Dans Pillars of Eternity, les personnages tués ne peuvent pas revenir à la vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Les Contrées orientales sont dangereuses et regorgent d'ennemis cachés ainsi que de secrets bien gardés. Activez le mode Reconnaissance pour vous déplacer furtivement et rechercher des objets dissimulés, tels que des pièges et des portes secrètes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Le mode Reconnaissance est utilisé à la fois pour la furtivité et pour retrouver des objets cachés, comme les pièges ou les coffres secrets.
+
+En Reconnaissance, le cercle de sélection de votre personnage commence à se remplir en jaune lorsqu'il est détecté. Lorsque son cercle est entièrement jaune, le personnage devient méfiant et commence à enquêter. Son cercle commence alors à se remplir en rouge. Lorsque le cercle d'un de vos personnages est entièrement rouge, il est découvert.
+
+La capacité d'un personnage à retrouver des objets cachés est basée sur sa compétence de Mécanique. Une compétence plus élevée lui permettra de trouver des objets à de plus grandes distances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Si vous vous dirigez vers un personnage, celui-ci vous découvrira plus rapidement. Si vous touchez le cercle de sélection d'un personnage avec le vôtre, vous serez immédiatement détecté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vous avez appris un nouveau sort de magicien ! N'oubliez pas que vous devez ajouter les nouveaux sorts de magicien à un grimoire avant de pouvoir les utiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous avez trouvé un nouveau grimoire ! Les grimoires contiennent souvent des sorts que vos magiciens ne connaissent pas. Pour une somme modique, vous pouvez apprendre ces sorts à partir du panneau de description. Vous pouvez également remplir d'autres grimoires avec des sorts différents. Placez-les aux emplacements Objets rapides de vos magiciens pour les échanger, mais attention : changer de grimoire empêche les magiciens de jeter des sorts pendant quelques secondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Les magiciens peuvent apprendre un nombre impressionnant de sorts, mais ils sont toujours limités par la capacité de leurs grimoires. Un grimoire ne peut contenir que quatre sorts de chaque niveau à la fois. Cliquez sur un sort dans le panneau de droite pour le supprimer du grimoire. Pour ajouter des sorts, vous devez vider les emplacements occupés en cliquant sur les sorts correspondants dans le panneau de gauche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Au combat, les incantateurs passent leur temps à réciter des incantations. Ce sont des phrases magiques qui produisent différents effets. Lorsqu'une phrase vient d'être prononcée, ses effets se prolongent et empiètent sur les effets de la phrase suivante. Lorsqu'une incantation atteint la fin de la dernière phrase, elle revient automatiquement au début. L'ordre dans lequel les phrases sont utilisées peut générer une série d'effets passifs très puissants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Cliquez sur une incantation pour la sélectionner. Les phrases sur lesquelles vous cliquez dans le panneau de gauche sont ajoutées à l'incantation sélectionnée. Pour supprimer une phrase, cliquez sur celle-ci dans l'incantation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Pour choisir un nouveau jeu d'armes, sélectionnez l'icône Arme sur la barre d'action d'un personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Lorsque plusieurs membres du groupe sont sélectionnés, la barre d'action est masquée. Pour afficher les options d'un personnage, sélectionnez uniquement ce personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Lorsqu'un personnage est exclu du groupe, il retourne à l'Auberge du chien noir de la Vallée dorée ou à votre forteresse, si vous l'avez acquise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Votre personnage a acquis suffisamment d'expérience pour accéder au niveau supérieur. Cliquez sur l'icône de son portrait pour le faire accéder au niveau supérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Une fois le niveau suivant atteint, vous pouvez consulter les nouvelles statistiques. Ouvrez sa fiche pour connaître les attributs, compétences, capacités et talents de votre personnages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>La gestion de votre forteresse s'effectue quasiment entièrement depuis cet écran. En tant que nouveau Gardien de Caed Nua, vous êtes lié à l'âme de l'intendant, qui veille sur votre territoire. Il peut lire en vous à distance et exécuter vos ordres.</DefaultText>
+      <FemaleText>La gestion de votre forteresse s'effectue quasiment entièrement depuis cet écran. En tant que nouvelle Gardienne de Caed Nua, vous êtes liée à l'âme de l'intendant, qui veille sur votre territoire. Il peut lire en vous à distance et exécuter vos ordres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Deux statistiques déterminent les types d'événements qui se produisent dans votre forteresse : le prestige et la sécurité. Le prestige représente la renommée globale de la forteresse à travers Dyrwood. Lorsque le prestige est élevé, la renommée de Caed Nua et les événements qui en découlent sont plus favorables. La sécurité détermine le niveau de protection de Caed Nua et de ses territoires. Lorsque la sécurité est élevée, les malfrats commettent moins de vols (ce qui préserve les revenus issus des taxes) et les enlèvements ou assauts contre la forteresse sont moins fréquents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Les améliorations apportées à votre forteresse ont un coût et leur application peut prendre du temps. Chaque amélioration peut avoir un effet positif sur la sécurité ou le prestige de la forteresse, ou offrir des fonctionnalités supplémentaires comme des bonus de repos, des ingrédients gratuits ou de nouvelles boutiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Au fil du temps, des événements se produisent à la forteresse. Plus le prestige de votre forteresse est élevé, plus les événements qui s'y produisent sont positifs. Mais une sécurité élevée est également importante, car elle contribue à prévenir les vols et les enlèvements. Les aventures permettent à vos compagnons et aventuriers d'acquérir de l'expérience lorsqu'ils ne sont pas dans le groupe. Les visiteurs peuvent également avoir un impact sur la sécurité et le prestige de la forteresse. Certains événements permettent même d'acquérir des objets rares pendant une durée limitée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>En cas d'attaque, les mercenaires contribuent à défendre votre forteresse en lui épargnant de coûteux dommages collatéraux. L'entretien des mercenaires a évidemment un coût, mais celui-ci est généralement moins important que le coût des dégâts potentiels. Les mercenaires contribuent également à la sécurité et au prestige de la forteresse (parfois de façon négative).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>L'écran Gestion du groupe vous permet de voir ce que font vos alliés lorsqu'ils ne sont pas dans le groupe. Si vous leur avez confié des aventures, vous pouvez savoir combien de temps ils vont mettre à les accomplir. Si vous rappelez un compagnon ou un aventurier avant la fin de sa mission, vous perdrez tous les avantages potentiels de cette mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous disposez maintenant d'un classement pour la réputation relative à la disposition. La réputation indique comment votre personnalité est perçue dans le monde du jeu. Certains personnages apprécient parfois une mauvaise réputation, car une bonne réputation fait souvent ressortir les pires facettes de certains personnages. Aucune disposition n'est fondamentalement bonne ou mauvaise dans Pillars of Eternity, mais si votre personnage principal est un prêtre ou un paladin, vous devez veiller à ce que ses dispositions soient conformes à la volonté de sa divinité et de son ordre. Les dispositions du personnage principal (uniquement) modifient les effets de la capacité Rayonnement sacré (pour les prêtres) et de la capacité Foi et conviction (pour les paladins).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vous avez acquis une réputation ! La réputation que vous avez auprès d'une communauté ou faction des Contrées orientales peut déterminer les réactions de ses membres à votre égard. Dans certains cas, des amis ou ennemis de ces groupes réagiront également à vos affiliations. Si vous aidez un groupe, votre réputation auprès de celui-ci sera positive. Inversement, si vous nuisez à un groupe, votre réputation auprès de celui-ci sera négative. Si vous aidez autant un groupe que vous lui nuisez, votre réputation peut être à la fois positive et négative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Un de vos personnages est engagé en mêlée. Les personnages engagés cessent immédiatement de se déplacer. S'ils se déplacent, ils déclenchent une attaque de désengagement contre les ennemis qui les ont engagés. En outre, vos personnages engagent automatiquement les ennemis lorsque ceux-ci lancent des attaques contre eux avec des armes de mêlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Un de vos personnages est fatigué. La fatigue représente l'usure physique et psychologique liée à l'activité d'un personnage. Elle augmente progressivement au fil des voyages et des explorations du personnage, notamment lorsqu'il combat. Certaines interactions scriptées épuisantes provoquent également de la fatigue. La compétence Athlétisme ralentit automatiquement la progression de la fatigue, quelle que soit la source. 
+
+La fatigue passe par plusieurs étapes, en infligeant d'abord des pénalités mineures qui deviennent plus sévères au fil du temps.
+
+Le repos est le moyen le plus simple d'éliminer les effets de la fatigue, même si certains objets consommables peuvent également réduire la fatigue totale d'un personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Votre forteresse est désormais disponible ! Vous pouvez à tout moment la gérer via l'icône Forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Utilisez la touche Tabulation pour sélectionner les objets interactifs dans l'environnement.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

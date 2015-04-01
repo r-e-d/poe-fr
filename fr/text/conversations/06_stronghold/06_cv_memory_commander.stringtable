@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_memory_commander</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme spectral en armure et habillé d'une cape d'officier étudie une feuille de papier. Vous pouvez voir à travers les insignes ducal et aedyran sur son plastron. 
+
+Il semble lire la page plusieurs fois avant de lever les yeux vers vous. Lorsqu'il le fait, son expression est indéchiffrable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Parlez-moi des ordres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Écoutez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Quittez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Les instructions viennent d'Admeth Hadret, ce qui signifie qu'elles pourraient tout aussi bien venir du duc lui-même." Il roule les ordres dans un fin parchemin.
+
+"Nous devons brûler les gens qui habitent les huttes. Mettez le feu à Dyrwood pour qu'ils n'aient nulle où battre en retraite. Abattez-les à la sortie ou laissez-les flamber s'ils ne sortent pas." Un soupir fantomatique laisse échapper de la buée devant ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Il y a eu un changement de plan. Prenez votre escouade et marchez vers le sud, jusqu'à l'arc de la rivière."
+
+"Apportez un équipage et une douzaine de barils de poix." Sa voix hésite et il secoue la tête. La main tenant le papier tombe sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Son poing se resserre autour du papier enroulé. "D'accord, ce sera encore plus court que la guerre de la Pierre profanée." Il vous regarde. "Et on ne peut qu'espérer que cela découragera de futurs conflits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous ne sentez rien lorsque sa main tombe sur votre épaule. "Je sais que c'est un sujet sensible pour vous. C'en est un pour nombre d'entre nous. Mais comprenez bien - nous le faisons pour mettre un terme à cette guerre, pas pour continuer la précédente."
+
+"Rappelez-vous que nous nous débarrassons de l'ennemi, on ne brûle pas les villages pour le sport. Berath va avoir du pain sur la planche ce soir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"De nouveaux ordres, lieutenant. Préparez votre escouade."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

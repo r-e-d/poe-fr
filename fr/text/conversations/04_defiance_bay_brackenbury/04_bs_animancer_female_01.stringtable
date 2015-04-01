@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_animancer_female_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je vous en prie, regardez. La diffusion des connaissances est une bonne chose, n'êtes-vous pas d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ici, nous étudions l'âme ainsi que tous les maux susceptibles de l'affecter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Les âmes habitent tous les êtres vivants, voire les objets inanimés et les substances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'ai entendu dire que les âmes des anciens Glanfathans étaient conservées dans de l'adra lorsqu'ils mouraient. Si seulement ils laissaient les étrangers regarder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nous faisons face à de nombreuses menaces. Je parie que les Douzaines se cachent derrière tout ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

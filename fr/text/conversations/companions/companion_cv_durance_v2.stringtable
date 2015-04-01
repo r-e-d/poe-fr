@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Un homme incroyablement laid est accroupi au pied de cette statue. Il porte une maigre barbe, et ses joues sont bouffies, rougeaudes et couvertes de cicatrices de vérole. Il transpire, comme s'il avait de la fièvre, mais sa respiration est calme et régulière... telle un soufflet de forgeron, même si cette comparaison est un peu étrange et malvenue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Il vous fait également penser à un piège à ours, sans doute à cause de son sourire... Tout à coup, un feu alchimique surgit de nulle part... puis se dissipe presque aussi vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes là pour prier la statue ?"  
+
+Il s'agit plus d'une affirmation que d'une question. À peine l'homme a-t-il prononcé ces mots que la statue rougeoie, comme si quelqu'un en approchait une torche, puis des flammes apparaissent. L'homme ne se retourne pas lorsque la statue s'enflamme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Les autres sont les bienvenus, mais je préfère vous parler seul à seul. Dites à vos ombres de se tenir tranquilles et de déposer leurs armes, ésotériques et métalliques."  
+
+Son visage se crispe. Son sourire vous fait à nouveau penser à un piège à ours métallique. "De toute façon, c'est avec vous que je veux parler."</DefaultText>
+      <FemaleText>"Les autres sont les bienvenus, mais je préfère vous parler seul à seule. Dites à vos ombres de se tenir tranquilles et de déposer leurs armes, ésotériques et métalliques."  
+
+Son visage se crispe. Son sourire vous fait à nouveau penser à un piège à ours métallique. "De toute façon, c'est avec vous que je veux parler."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous voyagez seul.", dit-il sur un ton approbateur. "Je préfère vous parler seul à seul. Et déposez vos armes, ésotériques et métalliques."   Son visage se détend. "De toute façon, c'est avec vous que je veux parler."</DefaultText>
+      <FemaleText>"Vous voyagez seule.", dit-il sur un ton approbateur. "Je préfère vous parler seul à seule. Et déposez vos armes, ésotériques et métalliques."   Son visage se détend. "De toute façon, c'est avec vous que je veux parler."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je jure devant cette catin de Magran qu'aucun mal ne vous sera fait dans son ombre, si cette promesse vous sied. Sinon..."  
+
+Il a un bâton à la main... Celui-ci n'était pas là quelques instants plus tôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Cette catin de Magran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Surveillez vos propos, vous insultez ma foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Drôle de compagnie. La pierre a l'air froide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Examinez la statue.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Examinez l'homme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Examinez le bâton.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je n'ai pas saisi votre nom... ni pourquoi vous voulez parler avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Partez] "Je n'ai pas besoin de parler avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>La lumière émise par la statue ne produit aucune chaleur, à tel point que vous vous demandez si votre imagination ne vous joue pas des tours... L'homme laid qui se trouve devant vous ne semble rien remarquer ou ressentir, mais son front transpire toujours, comme s'il brûlait de l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>L'homme vous sourit... puis acquiesce, sans jamais vous quitter du regard. "Il y a mieux, c'est vrai. Mais les routes n'offrent pas grand-chose... d'autre." Il vous examine des pieds à la tête et ricane. "Pour l'instant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nous vouons un culte à de nombreuses catins dans ce monde. Les titres honnêtes inspirent le respect."   
+
+"Je suppose qu'il vous est aussi arrivé d'aller à l'encontre de votre instinct en échange de quelques pièces de cuivre... ou que vous avez payé, de multiples façons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>L'homme hausse les épaules, avec une décontraction telle que son dédain en devient presque insultant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Mais si je vous offense..." Il sourit à pleines dents comme pour vous défier. "Quand il ne reste plus que la parole à un homme, pourquoi devrait-il demander la permission de parler, en particulier à Dyrwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Les flammes de la statue de Magran éclairent soudain l'homme avec plus d'intensité. Sa robe est sale, tachée de graisse...   
+
+Ses ourlets, y compris sur les manches, sont brûlés, comme s'ils avaient été léchés par des flammes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Mais ses mains épaisses et calleuses ne portent aucune trace de brûlure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vestige d'un terrible incendie, le gros bâton est noir comme du charbon. Sous son enveloppe calcinée, le bois est incrusté de lignes qui représentent des formes et des motifs... Tout porte à croire que ce bâton devrait jadis être redoutable... mais ce n'est plus le cas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>En l'examinant de plus près, vous constatez qu'il luit légèrement en se reflétant dans vos yeux, comme l'eau reflète la lumière qui serpente sur la statue. Bien que ce bâton ait perdu une partie de son pouvoir, il n'en reste pas moins dangereux, à l'instar de celui qui le porte.  
+
+Vous levez les yeux et constatez que l'homme vous observe pendant que vous examinez le bâton. Lorsque son regard rencontre le vôtre, il vous fait un signe de tête en souriant froidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Je ne vous l'ai pas donné." L'homme grogne. "Comme moi, vous pensez sûrement que les noms sont inutiles..." Sa main se resserre autour du bâton.   
+
+"À quoi servent tous ces noms qui polluent le monde ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ce qui m'intéresse, c'est ce qu'il y a sous la peau et sous les lettres, ce qui brûle à l'intérieur. L'important pour moi est de savoir que vous êtes un Gardien, quels que soient la culture et l'accent qui ornent vos lettres, tels des couronnes embarrassantes."  
+
+"Soyez fier de vos actes, pas de vos origines..." Du feu germe brièvement sur le bâton de l'homme, puis les braises semblent s'éteindre. "... Ni d'un nom que n'importe quel menteur peut utiliser."</DefaultText>
+      <FemaleText>"Ce qui m'intéresse, c'est ce qu'il y a sous la peau et sous les lettres, ce qui brûle à l'intérieur. L'important pour moi est de savoir que vous êtes une Gardienne, quels que soient la culture et l'accent qui ornent vos lettres, tels des couronnes embarrassantes."  
+
+"Soyez fière de vos actes, pas de vos origines..." Du feu germe brièvement sur le bâton de l'homme, puis les braises semblent s'éteindre. "... Ni d'un nom que n'importe quel menteur peut utiliser."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Si vous tenez absolument à me donner un titre, Gardien, appelez-moi Durance. Et pendant que vous observez les âmes, moi je les teste."</DefaultText>
+      <FemaleText>"Si vous tenez absolument à me donner un titre, Gardienne, appelez-moi Durance. Et pendant que vous observez les âmes, moi je les teste."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Comment avez-vous su que j'étais un Gardien ?"</DefaultText>
+      <FemaleText>"Comment avez-vous su que j'étais une Gardienne ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Que voulez-vous dire ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Comment êtes-vous arrivé ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je crois que nous avons assez parlé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Pas moi. Je sais ce que vous êtes... Il est donc normal que vous sachiez à qui vous avez affaire, si vous ne l'avez pas déjà vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je suis un missionnaire. Je parcours cette nation malade peuplée de païens et d'imprudents qui se soucient aussi peu des esprits des autres et des leurs. Parmi eux, il y a des Gardiens."   
+
+"Oui, je sais ce que vous êtes, et votre nom ne m'intéresse pas. Les noms sont pour les honnêtes gens, et vous êtes une fissure qui émet une lumière... venue d'ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Durance secoue la tête et sa main s'enroule fermement autour de son bâton. "Je vois les questions jaillir. Brûlons-les une par une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Nous sommes faits pour voyager ensemble, vous et moi. Je vous ai vu dans les flammes... Pas votre visage, mais votre âme." Il grogne à nouveau et plisse les yeux. "Aussi serrée qu'un nœud de chasseur."</DefaultText>
+      <FemaleText>"Nous sommes faits pour voyager ensemble, vous et moi. Je vous ai vue dans les flammes... Pas votre visage, mais votre âme." Il grogne à nouveau et plisse les yeux. "Aussi serrée qu'un nœud de chasseur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vous avez vu mon âme dans les flammes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Et que pensez-vous pouvoir m'offrir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je ne veux pas de votre compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Il y a des choses que nous pouvons nous enseigner mutuellement, si vous avez besoin de réponses à vos innombrables questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je ne parlerai qu'à vous. Je me moque de savoir qui sont ceux qui marchent à vos côtés et je ne veux rien savoir de leurs problèmes et de leurs opinions politiques... Il y a suffisamment de hurlements à travers le monde sans que j'ai besoin d'entretenir ce feu."  
+
+"Je ne toucherai pas à vos provisions, je me contente de peu sur la route. Je peux porter mon fardeau...". Il inspire et vous avez à nouveau l'impression d'entendre un soufflet de forgeron, puis il sourit presque fièrement. "Qui est considérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Beaucoup de gens vont s'opposer à vous." Il vous regarde un moment en plissant le front. "À ce que je vois, ils ont probablement déjà... laissé leurs marques, comme un chemin tracé derrière vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Quel genre de marques ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"J'apprécierais d'avoir de la compagnie sur la route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Si votre maîtresse de pierre vous le permet, alors allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je n'ai pas besoin de votre aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Il vous dévisage, puis plante son regard dans le vôtre, presque timidement d'abord, puis plus attentivement. "La maladie ? Le vent spirituel ?" Il hausse les épaules. "Les deux auraient pu vous frapper, mais vous êtes là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Concernant la maladie..." Il tapote les cicatrices de vérole qui recouvrent son visage. "Nous n'avions pas tous d'eau à proximité quand la vérole a frappé, mais elle n'est plus l'hôte de ma chair. Elle a laissé ses marques, elle aussi."   
+
+"Mais comme des flammes, la vérole ne frappe pas et ne s'attrape pas deux fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vous me voyez comme un fardeau ?", demande Durance avec un air de mépris. "Je suis là pour vous aider, Gardien. Et vous pouvez m'aider en me laissant simplement marcher à vos côtés."  
+
+"Je sais me battre, si c'est ce qui vous fait peur. Et si besoin, je peux panser vos plaies et vous donner des conseils... mais seulement si vous me le demandez."</DefaultText>
+      <FemaleText>"Vous me voyez comme un fardeau ?", demande Durance avec un air de mépris. "Je suis là pour vous aider, Gardienne. Et vous pouvez m'aider en me laissant simplement marcher à vos côtés."  
+
+"Je sais me battre, si c'est ce qui vous fait peur. Et si besoin, je peux panser vos plaies et vous donner des conseils... mais seulement si vous me le demandez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je vous l'ai déjà dit, je n'ai pas besoin de votre aide. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Elle ?" Durance jette un coup d'œil à la statue, puis émet un faible gloussement. "N'ayez pas peur de sa jalousie." Son gloussement se transforme en sourire sincère. "Voyons ce que nous réserve la route, Gardien."</DefaultText>
+      <FemaleText>"Elle ?" Durance jette un coup d'œil à la statue, puis émet un faible gloussement. "N'ayez pas peur de sa jalousie." Son gloussement se transforme en sourire sincère. "Voyons ce que nous réserve la route, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Durance sourit. "Alors, marchons ensemble, Gardien."</DefaultText>
+      <FemaleText>Durance sourit. "Alors, marchons ensemble, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Durance se crispe et sa main se resserre sur son bâton.  
+
+Il vous regarde, comme s'il s'apprêtait à dire quelque chose, puis se détend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Gardien." Durance tourne se visage ravagé par la vérole vers vous, le regard ardent, presque passionné. "Je savais que vous alliez réfléchir. Nous revoici ici tous les trois : vous, moi et la catin. Avez-vous changé d'avis ?"</DefaultText>
+      <FemaleText>"Gardienne." Durance tourne se visage ravagé par la vérole vers vous, le regard ardent, presque passionné. "Je savais que vous alliez réfléchir. Nous revoici ici tous les trois : vous, moi et la catin. Avez-vous changé d'avis ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"J'ai senti votre regard posé sur moi. Et maintenant, place aux mots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Et que devez-vous dire maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Souffrez-vous de quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Votre visage trahit vos nombreux besoins." Durance grogne. "Il va finir par exploser si vous ne parlez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"J'aimerais vous poser quelques questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"J'ai besoin que vous partiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Voyageons à nouveau ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Peu importe. Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Durance ne semble pas vous reconnaître tout de suite, puis il bat des paupières et fronce les sourcils. "Oui, Gardien ?"</DefaultText>
+      <FemaleText>Durance ne semble pas vous reconnaître tout de suite, puis il bat des paupières et fronce les sourcils. "Oui, Gardienne ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Vous avez rejeté mon nom. Vous ai-je offensé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Vous allez bien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"C'est ce que nous avons appris sur Woedica qui vous ennuie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Cette... Cette machination de Woedica." Une goutte de sueur coule sur le front de Durance avant de poursuivre sa course sur ses cicatrices. "Vous fiez-vous à cette vérité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Elle empeste d'elle... la justice... mais... si son principal objectif était de..." Son visage se tord de colère. "Penser que Magran pourrait être la proie d'une telle supercherie..."  
+
+"Et Éothas... Waidwen a toujours prétendu envahir Dyrwood pour le LIBÉRER. Et si c'était vrai ? Et s'il était venu empêcher le complot de Woedica ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Éothas a certainement mérité de mourir à la Citadelle du Marteau divin, mais pas pour ces raisons-là... pas pour le réduire au silence."  
+
+"Si ce chaos en est la conséquence..." Durance penche la tête, comme s'il écoutait une voix intérieure... Puis il fronce de plus en plus les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Le visage de Durance sombre dans la fureur et son corps se met à trembler. "Faut-il toujours que nous soyons les instruments des dieux ?! Si Woedica... et Magran... sont responsables de tout ça... des sans-âme... Si les purges n'étaient pas nécessaires... Si Éothas se défendait..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Alors votre... "Marteau divin" n'a pas sauvé Dyrwood. Il l'a condamné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Éothas devait être arrêté. Et Woedica aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Quelle que soit la raison, Éothas cherchait à tuer, à imposer sa volonté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"C'est un autre dieu qui a engendré les sans-âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Les Purges ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Est-ce que ça aurait changé quelque chose si vous ne l'aviez pas su ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ça fait beaucoup à assimiler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Il y a eu tellement de mensonges..." Le corps de Durance continue à trembler et, à force de serrer les poings, ses mains ont blanchi. De la sueur coule sur son visage. "... Et Woedica... Elle sera peut-être la prochaine divinité à succomber au Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Durance se raidit, puis il prend une longue inspiration pour se calmer.   
+
+"Je sais." Durance semble... se détendre quelques instants. "C'était nécessaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Durance se raidit, puis il prend une longue inspiration pour se calmer.   
+
+"Je sais." Durance soupire. "C'était nécessaire... mais ... il fut un temps où j'aurais arrêté ma main."   
+
+Son visage s'assombrit. "Woedica... doit faire respecter sa propre justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Non..." Durance est froid. "C'est... Je suis content d'avoir parcouru tout ce chemin avec vous et d'avoir vu cette vérité..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"... C'est peut-être ce que je devais voir." Il jette un coup d'œil prudent vers vous. "À travers les yeux d'un Gardien."</DefaultText>
+      <FemaleText>"... C'est peut-être ce que je devais voir." Il jette un coup d'œil prudent vers vous. "À travers les yeux d'une Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Toutes ces danses de mots et d'intrigues... des machines d'hommes, perverties... arrachant les âmes des enfants. Et devant les dieux. La déesse de la justice."  
+
+"Si je pouvais la terrasser comme Éothas... je..." Il prend une profonde inspiration et plisse les yeux. "Magran l'a déjà brûlée une fois. On peut le refaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Son visage s'assombrit. "Woedica... doit faire respecter sa propre justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"La justice ? Ou la vengeance ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ces actes... semblent plus apparentés à Woedica, à sa véritable nature... Ou à Skaen. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Non..." Durance est froid. "Non. C'est... Je suis content d'avoir parcouru tout ce chemin avec vous et d'avoir vu cette vérité..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Quiconque possédant un brin de jugeote cherche à la fois la justice et le châtiment. C'est quelque chose qui brûle dans le cœur de tout être vivant." Durance fronce les sourcils, les poings serrés. "C'est ce que tout le monde cherche."  
+
+"Sans équilibre dans ce monde, nous sombrerions tous dans les océans... Et les dieux s'en moqueraient."  
+
+"Magran... doit être rachetée... Et Woedica doit être punie..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Sommes-nous sûrs que Magran n'était pas une complice consentante ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Magran était alliée à Woedica. Elle a essayé de tuer tous ceux qui ont participé à la fabrication du Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Durance vous regarde un moment, puis sa lèvre se retrousse et il ricane. "Est-ce une plaisanterie à mes dépens ? Pour tester ma foi ?" Il éclate de rire. "Et qu'est-ce qui vous fait penser ça, Gardien ?"</DefaultText>
+      <FemaleText>Durance vous regarde un moment, puis sa lèvre se retrousse et il ricane. "Est-ce une plaisanterie à mes dépens ? Pour tester ma foi ?" Il éclate de rire. "Et qu'est-ce qui vous fait penser ça, Gardienne ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je ne sais pas. Ce n'est qu'une impression."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Parce qu'elle ne voulait pas qu'on sache comment le Marteau divin avait été fabriqué. Personne ne sait comment c'est arrivé, à l'exception de quelques fidèles de Magran... comme vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Lorsque vous êtes partis pour la Citadelle d'Halgot pour frapper Éothas, vous avez fait en sorte que personne ne vous reconnaisse sur la route, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Pourquoi la déesse de la guerre a-t-elle caché ses soldats lorsqu'ils ont quitté son siège à Ashfall ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Vous avez dit que vous aviez quitté Ashfall sans parler de votre départ à personne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Les autres hommes qui ont participé à la fabrication du Marteau divin... sont tous morts, n'est-ce pas ? C'est la raison pour laquelle j'ai vu leurs symboles s'éteindre sur votre bâton."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Durance rit encore. "C'est tout ce que vous avez ? Une impression ?" Il grogne. "Si je formulais toutes les impressions qui me passent par la tête..." Il secoue la tête. "Partez et laissez-moi à mes pensées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Durance fronce les sourcils et, tandis qu'il vous regarde, son sourire disparaît. "J'en ai assez de vos questions. Cette déesse n'est qu'une garce... mais même une catin peut contrarier ceux qu'elle sert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Durance reste silencieux quelques instants, et lorsqu'il reprend la parole, il s'exprime à voix basse, lentement, presque prudemment. "Vous répondez à une question par une autre question." Il fronce les sourcils. "Alors pourquoi ai-je senti sa déception à Halgot ? Pourquoi avions-nous honte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Parce que je crois qu'elle a essayé de vous tuer là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Durance vous regarde comme si vous étiez fou, puis sa lèvre se retrousse et il ricane. "De me tuer ?" Il éclate de rire.  
+
+"C'est une déesse. Ses seins brûlants continuent à me désaltérer, Gardien." Son visage s'embrase et sa main se resserre sur le bâton. "Si elle avait voulu me tuer, elle aurait pu le faire."</DefaultText>
+      <FemaleText>Durance vous regarde comme si vous étiez folle, puis sa lèvre se retrousse et il ricane. "De me tuer ?" Il éclate de rire.  
+
+"C'est une déesse. Ses seins brûlants continuent à me désaltérer, Gardienne." Son visage s'embrase et sa main se resserre sur le bâton. "Si elle avait voulu me tuer, elle aurait pu le faire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Dans le rêve du Marteau divin, votre esprit était... flou dans la lumière. Comme s'il vous avait été arraché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Durance vous regarde, le visage figé, mais écoute en silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Lorsque nous l'avons priée, elle ne vous a pas reconnu, et vous le savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Si vous avez été abîmé comme je l'ai vu dans la vision du Marteau divin, elle ne vous voit peut-être pas tel que vous étiez alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Durance se détourne de vous un moment. Tandis qu'il réfléchit, son visage se crispe. Des émotions contradictoires déforment ses traits.</DefaultText>
+      <FemaleText>Durance se détourne de vous un moment. Tandis qu'il réfléchit, son visage se crispe. Des émotions contradictoires déforment ses traits.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Si vous n'avez pas confiance en moi, fiez-vous au moins à votre bâton. Admettez que les autres hommes qui ont participé à la fabrication du Marteau divin sont morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Durance se tourne vers le bâton, et pendant un moment, vous voyez ses yeux brûler en regardant les onze cercles éteints dans le bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Lorsque votre vision se dissipe, vous voyez Durance, les mains agrippées au bâton et les yeux rouges. Au sommet du bâton, la flamme brûle nettement, intensément. Tandis que son regard brûle, il détourne les yeux, laisse échapper un hurlement horrible, comme un animal blessé, et de la sueur coule de son front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Tandis qu'il examine le bâton, vous sentez une chaleur intense et une énergie phénoménale s'en dégager par vagues, à tel point que vous avez l'impression que le Marteau divin est vivant entre ses mains... Vous entendez alors un cri semblable à celui d'un nouveau-né et voyez un éclair. Une centaine d'ombres imaginaires pourpres et blanches dansent en cercle et, en-dessous, des rouages anciens de pierre, de roche et de métal tournent en grinçant, tandis qu'autour de vous tout semble brûler et sombrer dans les profondeurs de la terre... le seul endroit où un esprit pourrait trouver refuge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Durance, nous pouvons y remédier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Nous pouvons veiller à ce que justice soit faite... pour elle et Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ce n'est pas fini. Il reste encore beaucoup à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Dire que... je l'ai servie, que je l'ai suivie." Le visage de Durance se fissure. "Dorénavant, je ne servirai plus personne. Les mensonges de Woedica doivent être punis... Et je crois que je vais aussi devoir répondre du feu et de la guerre déclenchés par l'imposture d'une déesse."  
+
+Son visage se pétrifie, mais ses yeux continuent à brûler, presque avidement. "Je continue à puiser ma force en elle... tant que ça dure." Durance grogne. "Car je ne pourrai pas la rejeter tant que je ne l'aurais pas vidée de sa substance, tant que je ne serai pas rassasié... comme elle avait l'intention de le faire avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Car les "fidèles" m'ont appris quelque chose : ils peuvent blesser une déesse plus sérieusement que n'importe quel ennemi. Une purification se prépare, et ce feu consumera les deux divinités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Continuons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Ils sont morts dans l'explosion, oui. Tous les onze. J'ai été le seul à m'en sortir. Je croyais... que nous avions fait du tort à notre déesse... que telle était mon épreuve, et que si je parvenais à me révéler digne... digne d'ELLE..."   
+
+"J'aurais dû m'en douter. Il n'y a qu'un seul dieu de la rédemption, et je l'ai vu périr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Vous n'avez aucune preuve, Gardien. J'ai été stupide de penser que vous pourriez m'aider à y voir plus clair."</DefaultText>
+      <FemaleText>"Vous n'avez aucune preuve, Gardienne. J'ai été stupide de penser que vous pourriez m'aider à y voir plus clair."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Dans ce cas... je vais rester ici, Gardien. Si vous changez d'avis, revenez me voir."</DefaultText>
+      <FemaleText>"Dans ce cas... je vais rester ici, Gardienne. Si vous changez d'avis, revenez me voir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Nous arrivons enfin au bout de notre route. Vous vous en êtes bien sorti, Gardien." Il plisse les yeux. "Mieux que n'importe quel autre Gardien." 
+
+"Apparemment, vous étiez un champ qui devait être brûlé."</DefaultText>
+      <FemaleText>"Nous arrivons enfin au bout de notre route. Vous vous en êtes bien sortie, Gardienne." Il plisse les yeux. "Mieux que n'importe quel autre Gardien." 
+
+"Apparemment, vous étiez un champ qui devait être brûlé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Cette issue est-elle la conséquence de mon épreuve ? Pendant tout ce temps, j'ai cru que j'étais le champ, alors que c'est vous qui l'étiez, tandis que j'étais perdu dans l'obscurité. Voilà un enseignement qui ne vient ni de Durance ni de Magran." 
+
+"Mais avec la fin de cette épreuve, une autre commence. L'épreuve d'un dieu. Et j'affronterai le jugement, sans pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Mais avec la fin de cette épreuve, une autre commence. L'épreuve d'un dieu. Et j'affronterai le jugement, sans pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Je vous ai vu dans les flammes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

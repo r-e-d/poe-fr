@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\08_wilderness\08_tsk_sealed_missive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La missive cachetée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Apportez la missive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Au Rivage des ormes, j'ai rencontré un moine qui venait d'être attaqué par une meute de stelgaers. Avant de rendre l'âme, le malheureux m'a confié une missive cachetée à remettre aux frères de son ordre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je dois apporter la missive du défunt moine aux membres de son ordre. Ils doivent se trouver au Jeune arbre céleste, une auberge située aux Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai pris connaissance de la missive confiée par le moine. Et voilà ce qu'elle dit :
+
+Réjouissez-vous, vous qui cherchez. Le recours à la force nous a permis de délier la langue de notre informateur. L'artefact que nous cherchons se trouve depuis peu aux Ormes... Bien à l'abri dans une demeure située à l'entrée de la colonie. À en croire notre informateur, il aurait été enseveli. Nous avons déployé bien des efforts pour retrouver cette précieuse relique et cela ne va pas tarder à porter ses fruits. Le conseil des Archmartyrs attend votre retour triomphal. Ne nous décevez pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai apporté le message, avec le sceau intact, aux moines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai apporté le message aux moines qui se sont mis en colère en découvrant que les sceaux de l'étui à parchemin avaient été rompus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Un membre indispensable au bon déroulement de cette mission est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai apporté le message aux moines. J'ai réussi à lire le contenu du message sans rompre les sceaux. Les moines n'y ont vu que du feu…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai informé les moines de la mort de leur frère, mais je n'ai pas dit que celui-ci m'avait remis la missive et je l'ai gardée pour moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai remis le message aux moines. Bien que j'aie lu la missive, j'ai réussi à convaincre les moines que ce n'était pas moi qui avais rompu le sceau.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

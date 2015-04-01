@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_fampyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Daroth Grimault</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Daroth Grimault et rapportez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la tête de Roska Chante-forge à Fyrgen le gardien à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Daroth Grimault, le fampyr, a établi une cour dans les catacombes de Copperlane. Le palais ducal veut que l'on s'occupe de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Daroth Grimault a déjà frôlé la mort, et continue à mener un culte dans les catacombes sous le quartier de Copperlane dans la Baie du défi. Je dois le tuer une seconde fois et rapporter sa tête, cette fois-ci, comme preuve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Daroth Grimault n'est plus de ce monde. Si je rapporte sa tête à Fyrgen le gardien, je pourrai réclamer ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réclamé la prime sur Daroth Grimault.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

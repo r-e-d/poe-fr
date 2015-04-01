@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_outlaw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Sly Cyrdel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Sly Cyrdel et rapportez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la tête de Sly Cyrdel à Fyrgen le gardien à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le célèbre hors-la-loi Sly Cyrdel doit mourir pour ses crimes. Lui et ses associés ont été signalés dans la Croisée de Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sly Cyrdel et sa bande de hors-la-loi ont échappé à la prison, et ont été vus pour la dernière fois dans la Croisée de Magran. Si je parviens à rapporter sa tête comme preuve de sa mort, je gagnerai une récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le hors-la-loi Sly Cyrdel est mort. J'ai simplement besoin de rapporter sa tête à Fyrgen le gardien et il me donnera ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réclamé la prime sur le hors-la-loi Sly Cyrdel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

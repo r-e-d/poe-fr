@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_lendry_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une boucle de ceinture brisée gît par terre. Aussi banal et ordinaire que ceci puisse paraitre, de l'essence y est ancrée, impatiente et confuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examinez la boucle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Laissez-la tranquille.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>En s'approchant de la boucle, l'âme qui s'y trouve vous emplit comme une boisson forte. Vous avez l'impression de trébucher, mais la femme tenant votre main vous guide. Ses yeux argentés transpercent le brouillard dans votre tête, mais la force de son emprise vous grise à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Il y a longtemps qu'une femme ne vous a pas regardé comme cela, encore moins une femme comme elle. Vous avez déjà été trompé par la boisson, mais la manière dont tout le monde chez Maea la regarde vous indique qu'elle est à couper le souffle. Comme vous aviez dit à Oly, les choses changent pour vous.</DefaultText>
+      <FemaleText>Il y a longtemps qu'une femme ne vous a pas regardé comme cela, encore moins une femme comme elle. Vous avez déjà été trompée par la boisson, mais la manière dont tout le monde chez Maea la regarde vous indique qu'elle est à couper le souffle. Comme vous aviez dit à Oly, les choses changent pour vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous avez oublié les minutes précédentes, mais vous êtes à présent dans sa maison. Vous êtes un homme sur le pont en mouvement mais ce lit à l'autre bout de la pièce est un port d'attache sûr. Mais elle ne vous y emmène pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Lorsque vous reprenez conscience, vous êtes dans une pièce noire et sombre. L'odeur d'ordures et de pourriture est à peine masquée par la forte odeur de suif brûlé. Tout ce que vous pouvez voir à la lueur de la bougie sont des rangées de briques anciennes et elle, juste en face de vous. Vous avez l'impression d'être dans un rêve si vous ne ressentiez pas la douleur fulgurante dans votre poitrine. Vous essayez de la toucher pour voir si elle est réelle, mais comme dans tous les rêves, elle est hors d'atteinte. Vous tombez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ce n'était pas un rêve. Vous êtes mort."</DefaultText>
+      <FemaleText>"Ce n'était pas un rêve. Vous êtes morte."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Voilà ce qu'on récolte en rentrant avec une femme inconnue, après avoir trop bu pour marcher droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Poursuivre un fantasme mène toujours à la désillusion. Vous auriez dû apprécier la vie simple que vous aviez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous retournez à la conscience et vous vous levez du sol, mais l'âme demeure avec la boucle, amarrée à la conviction qu'elle s'éveillera de cet étrange rêve bien assez tôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>L'âme frissonne d'une compréhension momentanée, mais elle n'est pas prête à partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous retournez à la conscience et vous levez du sol, mais l'âme demeure avec la boucle, amarrée à la conviction qu'elle s'éveillera de cet étrange rêve bien assez tôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vous méritiez mieux. Soyez plus gentil avec vous dans une prochaine vie. Pensez que vous pouvez tout avoir."</DefaultText>
+      <FemaleText>"Vous méritiez mieux. Soyez plus gentille avec vous dans une prochaine vie. Pensez que vous pouvez tout avoir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>L'âme vous réchauffe un bref instant, comme une gorgée rapide d'alcool, avant de battre en retraite.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

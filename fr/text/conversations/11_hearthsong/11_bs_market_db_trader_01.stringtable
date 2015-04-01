@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_bs_market_db_trader_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Les coutumes de ces Glanfathans sont intéressantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Si vous cherchez du cuir et des peaux de qualité, n'allez pas plus loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Le commerce avec les tribus a repris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'aime bien cet endroit, mais je suis prêt à repartir pour la Baie du défi."</DefaultText>
+      <FemaleText>"J'aime bien cet endroit, mais je suis prête à repartir pour la Baie du défi."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_crucible_knight_guide</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je cherche un endroit avec une tour. C'est près d'un cimetière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Où garde-t-on les fous dans la Baie du défi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Le seul endroit dans le coin qui les accepte est le sanatorium de Brackenbury. Il paraît qu'ils peuvent traiter votre âme là-bas, éradiquer la folie. Mais il y a tout autant d'histoires venant de cette endroit qui vous glaceront le sang."
+
+"On y trouve un homme, si vous voulez le nommer ainsi, Ethelmoer. C'est le gardien en chef. Si vous effectuez une visite ou bien si vous devez y entrer, c'est à lui qu'il faut parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Il vaut mieux arrêter de chercher alors. L'endroit en question est la Colline de l'Héritage - vous pouvez voir la tour au-dessus des murs du quartier de ce côté-là." Le justicier pointe le nord-ouest.
+
+"Mais quelque chose a eu lieu là-bas. Ils ne laissent plus entrer personne. Et aucun des Chevaliers ne souhaite être posté à proximité. Restez à l'écart, si vous savez ce qui est bon pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je cherche le temple de Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ha. Si vous le dites. C'est dans les Premiers feux, juste à l'ouest du donjon du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ha. Si vous le dites. C'est par là-bas, à l'ouest du donjon du Creuset. Enfin, ce qu'il en reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_ambient_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Quelqu'un a volé quelque chose dans le Hall ? Comment est-ce possible ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wael seul le sait. Mais Grimda cherche un coupable, alors mieux vaut l'éviter pendant quelques jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

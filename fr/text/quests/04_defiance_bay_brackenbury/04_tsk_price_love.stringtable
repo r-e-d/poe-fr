@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_tsk_price_love</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Nostalgie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parlez à Serel au Mât salé de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Thristwn à Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez auprès de Serel à la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez auprès de Serel à la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai rencontré un jeune Glanfathan du nom de Thristwn à l'auberge de Brackenbury. Lui et une prostituée appelée Serel travaillaient ensemble pour détrousser de riches nobles jusqu'à ce qu'elle mette la main sur un médaillon engwithan. Elle veut maintenant le vendre, mais lui entend le restituer à son clan brisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Serel détient le médaillon engwithan, mais elle ne s'en séparera pas facilement.
+
+Elle travaille au Mât salé, une maison close de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai le médaillon. Thristwn m'attend à l'auberge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai tué Thristwn. Serel sera ravie d'apprendre qu'il ne l'embêtera plus. Elle attend au Mât salé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai tué Thristwn. Serel sera ravie d'apprendre qu'il ne l'embêtera plus. Elle attend au Mât salé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Les gardes de la maison close m'ont dit de m'adresser à Maea si je voulais voir Serel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Maea m'a dit qu'une nuit avec Serel coûte mille pands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Serel estime davantage mériter le médaillon que Thristwn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Thristwn m'a conseillé de payer Maea pour pouvoir parler à Serel.</DefaultText>
+      <FemaleText>Thristwn m'a conseillée de payer Maea pour pouvoir parler à Serel.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai vendu le médaillon à une animancienne du nom de Nans. Thristwn va être déçu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai le médaillon pour Thristwn. Après m'avoir remercié, il est parti à la recherche de son clan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai convaincu Thristwn de renoncer au médaillon. Serel est ravie de prendre un nouveau départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Cela n'a pas été facile, mais j'ai le médaillon pour Thristwn. Il a regretté que du sang ait été versé, mais est parti rejoindre son clan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai dit à Thristwn que je ne m'en mêlerai pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai dû tuer Thristwn pour qu'il laisse Serel tranquille. Serel était attristée par cette nouvelle, mais a décidé de prendre un nouveau départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai décidé de garder le médaillon pour moi plutôt que de le donner à Thristwn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>J'ai perdu le médaillon avant même de l'avoir restitué à Thristwn. Il était triste de l'apprendre et est parti à la recherche de son clan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>J'ai tué Thristwn et ne recevrai donc pas ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_elcga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Non, je n'ai pas vu ce fichu Kendal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Attendez une minute, vous..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous devriez faire attention aux personnes que vous invitez dans votre lit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ne prenez pas mal le fait que je vous aie mis dehors à coup de pied."</DefaultText>
+      <FemaleText>"Ne prenez pas mal le fait que je vous aie mise dehors à coup de pied."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Estimez-vous heureux que ce petit coquin ne se soit pas fait la belle avec votre argenterie."</DefaultText>
+      <FemaleText>"Estimez-vous heureuse que ce petit coquin ne se soit pas fait la belle avec votre argenterie."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

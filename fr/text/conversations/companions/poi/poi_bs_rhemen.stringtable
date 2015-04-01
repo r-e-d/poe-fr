@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_rhemen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Cet endroit doit être très ancien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Regardez ça ! Ça devait être un dôme fermé autrefois. Entrons à l'intérieur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bienvenue à Lhe a Rhemen. Je vous demanderai de ne pas entrer, même si je sens que l'aventurier qui sommeille en vous en meurt d'envie..."</DefaultText>
+      <FemaleText>"Bienvenue à Lhe a Rhemen. Je vous demanderai de ne pas entrer, même si je sens que l'aventurière qui sommeille en vous en meurt d'envie..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Il y a beaucoup d'adra ici, et il agit comme un aimant à esprits."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

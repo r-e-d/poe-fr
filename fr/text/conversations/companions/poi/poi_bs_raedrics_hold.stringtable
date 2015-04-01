@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_raedrics_hold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"C'est la demeure de l'homme qui a fait pendre ces cadavres. Vous n'avez pas l'intention de frapper à la porte, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ces murs sont hauts... mais ils n'ont pas l'air très solides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Impressionnant, ce donjon ! Mais je doute qu'on soit les bienvenus à l'intérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Le seul que je surveillerais ici, c'est vous, Gardien. Soyez sur vos gardes."</DefaultText>
+      <FemaleText>"La seule que je surveillerais ici, c'est vous, Gardienne. Soyez sur vos gardes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ce lieu est imprégné du sang des esprits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"J'aimerais bien dire deux mots à notre honorable seigneur tant qu'on y est. J'ai quelques suggestions à lui faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Thorfen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Thorfen et rapportez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la tête de Thorfen à Fyrgen le gardien à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le prêtre éothasien Thorfen a causé des troubles dans l'Esternwood. En conséquence, sa tête a été mise à prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Thorfen, un haut-prêtre d'Éothas, a été accusé de profanation de pierres tombales, puis d'avoir tué des Chevaliers du Creuset envoyés pour l'arrêter. Il y a une prime sur sa tête, et je peux la réclamer si je voyage jusqu'à l'Esternwood pour mettre un terme à ses crimes. J'ai besoin de rapporter sa tête comme preuve de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le sort de Thorfen a été réglé, et je peux livrer sa tête à Fyrgen le gardien pour recevoir la récompense promise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réclamé la prime sur le haut-prêtre Thorfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

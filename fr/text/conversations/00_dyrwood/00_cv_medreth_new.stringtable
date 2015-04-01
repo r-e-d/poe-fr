@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_medreth_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un elfe musarde près de la route, regardant le village de l'autre côté de la rivière. En vous voyant approcher, il vous fait un signe de la tête, et les silhouettes encapuchonnées situées près de lui se taisent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bonjour !" Un timide sourire se forme sur son visage lorsqu'il vous regarde. "Si je ne m'abuse, vous et moi avons une connaissance commune à la maison Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Bonjour !" Un timide sourire se forme sur son visage lorsqu'il vous regarde. " J'ai entendu parler de vous. On dit que vous avez eu fort à faire à la Baie du défi." Il se rapproche. "J'ai fort à faire, moi aussi. Et il me tarde d'en finir pour retourner en ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bonjour." Un regard horrifié se dessine lentement sur son visage. "Bon sang ! Vous venez d'arriver du village n'est-ce pas ? Comment cela s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"De quoi est-ce que vous parlez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Arrêtez de babiller et dites-moi ce dont il s'agit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Horrible. Des odeurs de chou et de fiente porcine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous n'êtes pas au courant ? Il y a une meurtrière dans la nature. Après avoir sombré dans la folie, elle aurait étranglé une douzaine d'enfants en bonne santé parce que les siens étaient sans-âme." Il fait un signe aux silhouettes qui l'accompagnent. "Nous sommes venus de la Baie du défi pour la traduire en justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je suis ici pour mener une petite mission. Une voleuse se cache au village. Une orlane du nom de Nyfre. Elle a dérobé quelque chose qui appartient à la famille Doemenel. Je veux la trouver pour le récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ne me laissez pas vous arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bien. Elle ne peut s'en aller librement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Elle est ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Son expression sobre laisse place à un large sourire. "Alors, je suppose que c'est bien que nous nous trouvions de ce côté de la rivière." Il reprend une voix grave. "Sérieusement, maintenant. Je cherche quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Il hoche la tête en direction de l'autre côté de la rivière. "Elle se cache dans le village. Nous irions nous-mêmes la chercher, mais le problème, c'est qu'elle nous connaît. Inutile de dire ce qu'elle fera si elle nous voit arriver. Et nous aimerions éviter d'autres... dommages collatéraux."
+
+Il se rapproche. "Elle s'appelle Nyfre. C'est une orlane. Nous aimerions qu'elle sorte de ce trou pour nous permettre de nous en occuper. Elle sait que nous la cherchons. Mais si quelqu'un pouvait la convaincre qu'elle serait plus en sécurité en quittant le village..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Mais alors, que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je pourrais la débusquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je n'en sais rien..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Il pose une main puissante sur votre épaule. "Une folle comme elle est le problème de tous. Ouvrez l'œil. Si vous la croisez, souvenez-vous de ce que je vous ai dit. Je promets de bien vous récompenser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Il acquiesce. "Elle ne vous connaît pas. Ce sera un jeu d'enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je crois avoir croisé la femme dont vous parlez..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"À la bonne heure ! Alors, allez la voir et dites-lui que vous n'avez vu personne la chercher. Compris ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Elle m'a dit qu'elle était en fuite, mais la suite de son histoire est différente de la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Mais bien sûr !" Il regarde les silhouettes encapuchonnées situées à côté. "Vous ne pensiez tout de même pas qu'elle allait vous dire qu'elle avait tué des enfants ? C'est juste que..." Il fait un grand signe en direction du village. "... Retournez d'où vous venez, trouvez-la et faites-la sortir de ce maudit village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Il cligne de l'œil. "Quelle discrétion ! Je comprends pourquoi nos connaissances mutuelles vous font confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Comment dois-je en penser ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Qu'a-t-elle pris ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Lorsque vous lui mettre la main dessus, que lui arrivera-t-elle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je l'ignore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"En fait, je l'ai déjà trouvée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Dites quelque chose.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Est-ce important ? Cela appartient à la famille Doemenel et elle veut le récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Il se gratte le menton, esquissant un demi-sourire. "La famille Doemenel veut faire un exemple. Elle veut s'assurer que de tels agissements ne se reproduisent plus." Il vous donne une tape dans le dos. "Mais laissez-moi m'en charger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"C'est simple. Tout ce que vous avez à faire, c'est la trouver et la faire sortir de sa cachette. Mes amis et moi, nous nous chargerons du reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Il fronce les sourcils, remuant continuellement la poignée de son arme. "Les Doemenel sont d'excellents amis comme de redoutables ennemis et la pauvre Nyfre ne va pas tarder à s'en rendre compte. "Je ne répéterai pas ce que vous venez de dire. Veillez à en faire de même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bien. Alors, tout devrait bien se passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Visiblement, nous sommes trop occupés pour rester là à parler, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Force et silence, hein ? La personne qu'il me faut pour la trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"S'agit-il de cette fille d'Harond ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Qui exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Non, je cherche la fugitive..." Il observe son expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Il rit. "Exactement. La personne qu'il me faut pour la trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Il vous lance un rapide salut. "Aidez-moi et je veillerai à ce que nos connaissances communes l'apprennent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"S'il s'agit d'une redoutable meurtrière, pourquoi le duc n'a-t-il pas envoyé les Chevaliers du Creuset à ses trousses ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Un regard de dégoût lui traverse le visage. Il est rapide, mais vous le saisissez. "Les puissances en présence veulent tenir cela sous silence. Pour des raisons évidentes. Il vaut mieux ne pas faire de bruit et surtout, ne pas l'inciter à faire quelque chose de dramatique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Les puissances en présence veulent tenir cela sous silence. Pour des raisons évidentes. Il vaut mieux ne pas faire de bruit et surtout, ne pas l'inciter à faire quelque chose de dramatique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Attaquez] "Je ne crois pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Alors ? Vous avez eu de la chance avec Nyfre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Rappelez-moi qui je cherche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Partez] "Je devrais reprendre les recherches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Un elfe familier traîne dans les environs, se curant les ongles avec un stylet. Vous l'avez déjà vu à Dyrford." Vous m'avez dit d'aller vers le nord, et je suis allée vers le nord. Droit vers les chasseurs glanfathans avant de comprendre que vous m'aviez fait marcher." Il pointe la lame dans votre direction. "Et me voilà maintenant dans ce trou perdu à cause de vous. Je trouverai Nyfre, c'est d'accord. Mais avant, je vais m'occuper de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Medreth applaudit doucement alors que vous approchez. "Beau travail, en effet. Vous avez le chic pour la subtilité. C'est une qualité que mes employeurs apprécient pleinement." Il vous tend une bourse. "Nul doute que les Doemenel seront ravis de vous voir la prochaine fois que vous vous rendrez à la Baie du défi. Quant à moi, je m'apprête à quitter ce trou perdu pour retourner en ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Elle est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Elle... oh." Il cligne des paupières. "Dans ce cas, vous avez toute la reconnaissance de la maison Doemenel..." Il attrape une bourse dans son manteau. "De même que son soutien. Et recevez mes remerciements pour avoir réussi à me faire sortir de ce trou perdu encore plus vite. Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je l'ai déjà tuée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous... oh." Il cligne des paupières. "Cela signifie que je peux désormais quitter ce trou perdu." Il attrape une bourse dans son manteau. "Je vous remercie. La maison Doemenel vous en sera également reconnaissante." Il cligne de l'œil. "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Attaquez] "J'ai déjà coupé les ponts avec les Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Une orlane du nom de Nyfre. Je ne sais pas exactement où elle se trouve dans le village, mais il n'y a pas beaucoup d'orlans ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Attaquez] "J'ai déjà coupé les ponts avec les Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"J'ai quelques questions à vous poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"De quoi s'agit-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Qu'a fait Nyfre, exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Elle a dérobé quelque chose à nos amis, les Doemenel. Et ils ne peuvent la laisser s'en aller avec cette chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Elle est responsable de la mort de tous ces bébés à la Baie du défi, vous vous souvenez ? Terrible ! Mais nous allons le lui faire payer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Je cherche également une femme du nom d'Aelys Harond. L'avez-vous vue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je crains que non. Je cherche seulement Nyfre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Il arrache une longue tige d'herbe. "Vous avez trouvé Nyfre ? Je suis prêt à en finir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Mentez] "Elle s'est faufilée derrière l'auberge pour partir en direction du nord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Oui. Et je l'ai laissée partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Il n'ira pas bien loin." Il vous adresse un large sourire et vous remet une bourse. "Vous m'avez été d'une grande aide. Mes employeurs, les Doemenel, vous remercient." Il se retourne vers son groupe. "Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Il vous lance un regard, séparant la tige en deux maigres filaments. "Vraiment ? Et comment l'auriez-vous su ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Mentez] "C'est l'aubergiste qui me l'a dit. Il a indiqué que les draps du lit pendaient à la fenêtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"J'espérais juste que vous me croiriez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Medreth dégaine sa lame. "Ne vous inquiétez pas, je la rattraperai. Après avoir pris soin de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Vous disiez que c'était une meurtrière. Qu'est-ce que la famille Doemenel a à voir avec ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Il hausse les épaules. "J'ai peut-être légèrement déformé la vérité. Mais c'était une sacrée voleuse et vous avez rendu un fier service à Dyrwood."
+
+"Vous avez également rendu un fier service aux Doemenel et il est bon de les avoir pour amis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Attaquez.] "J'en ai assez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Il hoche la tête en direction de l'autre côté de la rivière. "Elle se cache dans le village. Nous irions nous-mêmes la chercher, mais le problème, c'est qu'elle nous connaît. Inutile de dire ce qu'elle fera si elle nous voit arriver. Et nous aimerions éviter d'autres... dommages collatéraux."
+
+Il se rapproche. "Elle s'appelle Nyfre. C'est une orlane. Nous aimerions qu'elle quitte la ville pour nous permettre de nous en occuper comme il faut. Elle sait que nous la cherchons. Mais si quelqu'un d'aussi éloquent que vous pouvait la convaincre qu'elle serait plus en sécurité en partant..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Mais bien sûr !" Il regarde les silhouettes encapuchonnées situées à côté. "Vous ne pensiez tout de même pas qu'elle allait vous dire qu'elle avait tué des enfants ? C'est juste que..." Il fait un grand signe en direction du village. "... Écoutez, vous n'allez pas laisser partir un tel monstre, dites ? Vous voulez que justice soit rendue, je le lis dans vos yeux."
+
+"Alors, retournez là-bas et débusquez-la."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Est-ce important ? Quelqu'un d'aussi discret que vous doit savoir comment ça marche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"C'est simple. Vous êtes un charmeur. Tout ce que vous avez à faire, c'est la trouver et la faire sortir de sa cachette. Mes amis et moi, nous nous chargerons du reste."</DefaultText>
+      <FemaleText>"C'est simple. Vous êtes une charmeuse. Tout ce que vous avez à faire, c'est la trouver et la faire sortir de sa cachette. Mes amis et moi, nous nous chargerons du reste."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Il fronce les sourcils, remuant continuellement la poignée de son arme. "Ne laissez pas votre sensibilité prendre le dessus. Les Doemenel sont d'excellents amis comme de redoutables ennemis et cette Nyfre ne va pas tarder à s'en rendre compte."
+
+"Je ne répéterai pas ce que vous venez de dire. Veillez à en faire de même."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

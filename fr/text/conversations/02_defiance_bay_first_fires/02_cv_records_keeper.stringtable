@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_records_keeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme taciturne aux cheveux grisonnants lit un tome qu'il vient juste de prendre sur l'une des étagères. Il lève ses grands yeux vers vous.
+
+"Oui ? Y a-t-il quelque chose que je puisse faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Cet homme occupe ses mains fluettes à classer des livres annotés et des rouleaux de parchemins poussiéreux selon un ordre aussi obscur que délibéré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>L'homme continue son travail sans lever les yeux. "Hmm ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je cherche les archives militaires de la période de la guerre du Saint. Pour essayer de comprendre ce qui est arrivé à quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Non, je jetais simplement un œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Edér grimace et se frappe le front, mais il ne dit rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Pour la première fois, il tourne toute son attention vers vous et ses yeux luisent de reconnaissance. "Bien sûr... cette politique s'applique au grand public. Des exceptions peuvent être faites pour ceux qui ont déjà fait la preuve de leur valeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>L'homme s'éclaircit la gorge. "Nous avons eu un certain nombre de demandes concernant de telles informations. Nous avons dû limiter l'accès au public."
+
+"Il semble qu'il y ait encore un certain nombre de gens dans le Dyrwood qui nourrissent une rancune envers les Readcerans. Il serait irresponsable de livrer leurs noms à n'importe qui. Beaucoup sont venus se réfugier ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Le traitement des dyrwoodans des prisonniers de guerre readcerans et des réfugiés fut déplorable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je suis un étranger également. Je n'en veux pas du tout à Readceras."</DefaultText>
+      <FemaleText>"Je suis une étrangère également. Je n'en veux pas du tout à Readceras."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je prends ce que je veux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nous avons fait un long voyage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Il y a quelque chose d'étrange dans l'inflexion de l'archiviste. Les différences sont subtiles, mais il ne sonne pas comme les natifs du Dyrwood que vous avez déjà entendus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Tandis que l'archiviste s'agite, vous remarquez également de légères cicatrices sur chacun de ses poignets sur lesquels des menottes se sont autrefois refermées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>L'archiviste désapprouve. "Dans le palais du duc ? Je peux vous assurer que ce n'est pas possible."
+
+"D'ailleurs, sans mon assistance, vous seriez en train de trier des parchemins pour de longues années."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Peut-être que si vous étiez un peu mieux établi dans la Baie du défi, les choses seraient différentes. Mais je n'ai aucune raison de penser que vous êtes différents des autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous devez comprendre, j'ai déjà entendu tant d'histoires similaires. J'ai bien peur que je ne puisse rien faire pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je dois juste me renseigner sur mon frère. Je ne sais même pas de quel côté il a combattu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ces cicatrices sur vos poignets - vous étiez un prisonnier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Autrefois. Je suis à présent libre d'exercer mon travail. Ce qui, pour vous j'en ai bien peur, signifie que vous deviez aller chercher vos informations ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je regarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Son visage se tord, comme grimaçant au souvenir de la souffrance. Il vous regarde de ses yeux interrogateurs.
+
+Il acquiesce tout en détournant le regard.
+
+"Oui, c'est exact." L'archiviste prend une longue respiration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Il lève les yeux vers une étagère et en retire un volume en enlevant une couche de poussière sur le côté avec sa main.
+
+"Les listes sont au début, les inventaires des morts à la fin."
+
+Il le passe dans les mains ouvertes d'Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je n'autorise aucune copie de ces pages, me suis-je bien fait comprendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Il vous regarde dans les yeux, louchant comme pour mieux vous voir.
+
+"On ne peut que regretter une situation dans laquelle les étrangers sont plus fiables que son propre peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Tout n'est-il pas dit là?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Edér feuillette anxieusement un livre, faisant courir ses gros doigts de fermier page après page, de nom en nom.
+
+Enfin, sa main s'arrête, ses doigts se fixent sous un nom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Il se fige, ses yeux se gonflent. Il va d'avant en arrière, encore et encore.
+
+"Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Woden Teylecg, mort le 18 Majiverno, 2808. Troisième bataille de... Cli- Cli-ah- Clîaban Rilag. 
+
+"De magnifique noms Glanfathans, pour sûr-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Par l'Effigie. Il s'est battu pour Readceras."
+
+Il contemple la page, sa mâchoire béante avant de lever soudainement les yeux vers vous.
+
+"Pourquoi se serait-il battu pour Readceras ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Quelle importance ? C'était un traître."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Il ne nous peut-être pas permis de le savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je suis sûr qu'il avait une bonne raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Moi aussi." Il fixe la page, le visage marqué.
+
+"Moi aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Non, non, pas ça. Il y a une réponse. Il avait toujours une réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Mais c'est tout. Woden savait toujours ce qu'il devait faire. S'il s'est battu pour Waidwen, ce n'est pas un traître. Je le suis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Et moi aussi. Mais il devait avoir une bonne raison. C'est tout simplement qui il était."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Edér a un regard étrange.
+
+"Nous devons y aller. Le champ de bataille. Cli-euh- celui que j'ai dit. Je ne sais pas comment je pourrais comprendre sinon. Je dois aller voir ce qu'il a vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Qui sait, peut-être que son esprit sera encore là et que vous pourrez avoir l'une de vos conversations étranges avec lui.
+
+"Cela en vaut la peine, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Nous ne trouverons probablement rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je vous aiderai comme je le pourrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ne me faites pas perdre mon temps avec ces absurdités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Il acquiesce, ses yeux se baissent, un sourire se dessine. "Je sais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je sais ce que c'est. Vous n'avez pas besoin de me le dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"J'aurais... espéré faire toute la lumière sur votre problème. Mais c'est quelque chose que je dois faire."
+
+"Vous êtes sûr que vous ne m'aiderez pas ?"</DefaultText>
+      <FemaleText>"J'aurais... espéré faire toute la lumière sur votre problème. Mais c'est quelque chose que je dois faire."
+
+"Vous êtes sûre que vous ne m'aiderez pas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous êtes seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je n'avais pas réalisé que vous étiez si sincère. Nous irons sur le champ de bataille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"En ce cas, merci pour tout ce que vous avez fait pour moi jusqu'à présent. Bonne chance à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"J'apprécie. J'aimerais pouvoir dire que vous ne le regretterez pas, mais ce sera certainement le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je dirais cela aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Les émeutiers vont bientôt arriver. Partez tant qu'il en est encore temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

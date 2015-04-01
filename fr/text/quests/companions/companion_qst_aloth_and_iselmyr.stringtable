@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Double-face</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez un expert en Réveils quelque part à la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Aloth a révélé qu'une âme Réveillée, Iselmyr, réside en lui. Il a demandé de l'aide pour trouver un expert qui comprenne sa situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Aloth a mentionné le fait que la Baie du défi dispose d'une institution dédiée à l'étude des maladies de l'âme. Ce doit être le même endroit que j'ai vu dans la vision de l'Acolyte.
+
+Je pourrais trouver quelqu'un là-bas qui sait quelque chose sur les âmes Réveillées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>On m'a dit de chercher quelqu'un du nom de Bellasege. Elle travaille en bas au sanatorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Le sanatorium de Brackenbury est le seul endroit où Aloth pourrait trouver de l'aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Je suis prêt à assister à l'audience d'animancie du duc. Je devrais emmener Aloth consulter cet expert du sanatorium pour l'aider à maîtriser Iselmyr. J'ignore quelles conséquences ces audiences auront sur la pratique de l'animancie à la Baie du défi.</DefaultText>
+      <FemaleText>Je suis prête à assister à l'audience d'animancie du duc. Je devrais emmener Aloth consulter cet expert du sanatorium pour l'aider à maîtriser Iselmyr. J'ignore quelles conséquences ces audiences auront sur la pratique de l'animancie à la Baie du défi.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Après avoir appris comment Iselmyr a résisté au père abusif d'Aloth, j'ai suggéré qu'elle puisse être plus utile que ne le pense Aloth. Il a paru sceptique, mais je pense qu'il réfléchit à la question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Après avoir appris comment Iselmyr prend le contrôle au cours de situations délicates, j'ai conseillé à Aloth de se méfier d'elle. Il ne devrait pas abandonner le contrôle, même pas à une partie de son âme. Il semblait être d'accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Il semble qu'Iselmyr soit une source de bienfait et de préjudice envers Aloth. D'un côté, elle s'interpose lorsqu'il est sous pression, mais de l'autre , elle ne résout pas toujours les situations de la manière dont il le souhaiterait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nous n'avons pas trouvé d'animancien avec l'expertise requise par Aloth. Il va devoir faire avec ce qu'il a.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

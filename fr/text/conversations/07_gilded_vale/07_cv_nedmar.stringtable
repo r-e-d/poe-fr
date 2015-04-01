@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_nedmar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>94</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce vieux prêtre frêle est penché sur une table, entouré de rouleaux et de parchemins éparpillés, examinant leur contenu avec l'aide d'un monocle épais. Il vous regarde à votre approche, clignant de ses yeux chassieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous êtes revenu. Faites attention, en vous déplaçant dans le donjon. Votre interférence ici pourrait avoir de graves répercussions pour nous tous."</DefaultText>
+      <FemaleText>"Vous êtes revenue. Faites attention, en vous déplaçant dans le donjon. Votre interférence ici pourrait avoir de graves répercussions pour nous tous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous êtes revenu ! L'avez-vous trouvé ? Y a-t-il des survivants ?</DefaultText>
+      <FemaleText>"Vous êtes revenue ! L'avez-vous trouvé ? Y a-t-il des survivants ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bonjour. J'espère que vous accepterez de parler avec Raedric, avant de prendre une décision. Peut-être serait-il utile de mener la Vallée dorée hors des ténèbres et dans la lumière des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quel dommage d'en arriver là. Mais à présent nous pouvons nous occuper à nouveau de restaurer la paix dans la Vallée dorée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je suis venu affronter Raedric. M'aiderez-vous ?"</DefaultText>
+      <FemaleText>"Je suis venue affronter Raedric. M'aiderez-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Comment savez-vous que je suis venu ici au nom de Kolsc ?"</DefaultText>
+      <FemaleText>"Comment savez-vous que je suis venue ici au nom de Kolsc ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les sourcils de Nedmar tricotent en une expression de regret triste. "Je ne sais pas si je le peux. J'ai essayé d'alerter Kolsc et son peuple des dangers. J'ai, en vérité, essayé souvent de les faire dévier de leur voie. Mes efforts n'ont fait aucune différence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Si je sauve Giacco, m'aiderez-vous à atteindre Raedric ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Giacco est en sécurité. Il m'a demandé de vous dire qu'il a gardé la sculpture que vous lui aviez donnée enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Les yeux de Nedmar s'élargissent. Avec une vigueur soudaine, il se précipite pour se saisir de votre bras. "Oh, que les dieux en soient remerciés. Merci ! Je ne pensais pas que vous pourriez... en vérité, j'avais peur de..." Il secoue la tête. "Je ne voulais pas qu'il rencontre le Chevalier pâle si tôt..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>L'expression de Nedmar semble se figer sur son visage, pétrifiée par l'horreur. Un petit sifflement lui échappe puis le vieil homme laisse échapper un cri angoissé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Plus de visiteurs, alors. Vous n'êtes pas des acolytes. Ni des gardes, d'ailleurs." Sa voix est une râpe calme et sèche. "Ce qui fait de vous un intrus. Kolsc vous envoie, je suppose ?"</DefaultText>
+      <FemaleText>"Plus de visiteurs, alors. Vous n'êtes pas des acolytes. Ni des gardes, d'ailleurs." Sa voix est une râpe calme et sèche. "Ce qui fait de vous une intruse. Kolsc vous envoie, je suppose ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Oui, c'est son genre d'envoyer de jeunes hommes s'écraser sur les défenses de la forteresse." Il secoue la tête. "Si mes sermons attiraient une telle ferveur. Pourtant, vous êtes ici. Que voulez-vous ?"</DefaultText>
+      <FemaleText>"Oui, c'est son genre d'envoyer de jeunes femmes s'écraser sur les défenses de la forteresse." Il secoue la tête. "Si mes sermons attiraient une telle ferveur. Pourtant, vous êtes ici. Que voulez-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Même le pauvre Giacco... je pensais que lui, au moins, serait sauvé. Mais il est aux mains d'Osrya à présent. De la chair pour ses expériences." Il incline la tête, posant ses mains tremblantes sur la table pour se soutenir. "J'ai échappé de justesse à la suspicion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous avez mentionné les expériences d'Osrya ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Parlez-moi de Giacco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Raedric est pris dans la douleur, et ne sera pas influencé. Il rejettera sa colère sur ces pauvres prisonniers." Il secoue la tête. "Et je ne peux supporter cette culpabilité. Je ne peux pas la supporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ce n'est pas ça. Je suis en désaccord avec ses méthodes. Nous nous connaissons depuis longtemps. Je me souviens de lui jeune homme. Cela m'est d'autant plus difficile de le voir agir de cette manière : impulsif, aveuglé." Nedmar désapprouve. "Lui et ses adeptes ont fait plus de mal que de bien, malgré toutes ses bonnes intentions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Mais... Je ne lui veux aucun mal. Et je me retrouve pris dans cette lutte pour le pouvoir." Il lève un doigt osseux. "Mais ni Kolsc ni Raedric ne peuvent résoudre cette crise. Ce ne sont que des mortels. Nous devons nous tourner vers Berath. C'est le Dieu jumelé qui apporte la paix et l'équilibre aux âmes de la Vallée dorée, et c'est Berath que nous devons prier si nous voulons voir l'Héritage de Waidwen arriver à son terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nedmar vous étudie calmement un moment. "Mes yeux ont beau me trahir, mon esprit est intact. Kolsc a recruté tous les alliés qu'il a pu trouver, et il a commencé à s'attaquer à la forteresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Il n'a pas attendu longtemps depuis sa dernière tentative. Comme je le prédisais, et comme vous pouvez le voir, la tentative a été un désastre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Kolsc est dans l'impossibilité d'accepter certaines vérités. Et il ne comprend pas non plus ce qui maintient Raedric au pouvoir. Il aura besoin d'une meilleure orientation pour prendre la place de Raedric. Je... ne peux qu'espérer qu'il écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Un de mes acolytes." L'expression de Nedmar se déforme de douleur. "Je l'ai trouvé mendiant dans la rue lorsqu'il n'était qu'un jeune homme. Je l'ai emmené avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'espérais qu'il grandisse avec l'église. Qu'il prenne ma place lorsque je serais trop vieux pour servir le seigneur Raedric." Une note amère s'invite dans sa voix. "Mais il s'est intéressé aux efforts de Kolsc. Sa vaine rébellion. Je ne pouvais pas l'empêcher de partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Et maintenant... il a rejoint Kolsc contre notre seigneur, et il gît dans les donjons. Je crains qu'il n'ait déjà été victime des plans maléfiques d'Osrya."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Osrya... une jeune femme brillante, corrompue par les enseignements des animanciens. Elle a truffé la tête du seigneur Raedric de notions blasphématoires et de faux espoirs, se nourrissant de son désir de guider son peuple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Et il a été assez idiot pour écouter. Raedric a donné carte blanche à Osrya pour mener toutes les expériences qu'elles souhaitaient. À présent les recoins les plus profonds de la forteresse sont souillés de l'odeur de pourriture. Qui sait quelles âmes demeurent là, se lamentant dans ces ténèbres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"J'ai... imploré le pardon du seigneur Raedric sur le comportement de mon acolyte. Mais je crois que je n'ai que retardé le destin de Giacco." Il secoue la tête. "Il est à la merci d'Osrya, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je... je pourrais vous donner les moyens d'entrer dans la chapelle de Raedric, en dessous. Cela vous placerait juste à côté de sa salle du trône." La voix de Nedmar tremble. "Mais je ne peux prendre ce risque alors que Giacco est en danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si vous arrivez à le libérer de l'emprise d'Osrya, je vous promets de faire tout mon possible pour vous aider." Il regarde attentivement tout autour de la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je vous en supplie, évitez de vous faire remarquer. Il y a une porte, au sud d'ici, à côté de l'autel de Berath - elle vous mènera dans les donjons. C'est là que vous le trouverez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je m'occupe de sauver Giacco et je reviens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ce n'est pas le moment ! Donnez-moi la clé, vieil homme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je ferai de mon mieux pour éviter un bain de sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"… Je reviendrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Soyez prudent. Osrya manie des sortilèges puissants et elle a un faible pour les pièges cruels. Je ne doute pas qu'elle soit un redoutable adversaire lorsqu'elle est en colère." Nedmar resserre ses mains. "Que les dieux vous guident."</DefaultText>
+      <FemaleText>"Soyez prudente. Osrya manie des sortilèges puissants et elle a un faible pour les pièges cruels. Je ne doute pas qu'elle soit un redoutable adversaire lorsqu'elle est en colère." Nedmar resserre ses mains. "Que les dieux vous guident."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Nedmar se raidit un peu, quoique ses mains tremblent. "Agiriez-vous aussi imprudemment que Kolsc ? Menacer un vieux prêtre ? Je ne vous aiderai pas tant que vous n'aurez pas secouru Giacco. C'est tout ce que j'ai à dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Le vieux prêtre laisse échapper un souffle de soulagement et vous percevez la première lueur d'espoir dans ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"On ne peut pas savoir que je vous aide. Pas tant que Giacco sera entre les griffes d'Osrya. Si quelque chose lui arrivait..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"J'ai besoin de repos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Mais assurément vous n'avez pas l'intention de-" Nedmar se déplace de manière malaisée, en surveillant le couloir. "... Très bien. Je ne peux pas vous demander d'affronter les donjons si vous n'êtes pas à votre meilleur. Reposez-vous quelques heures et je m'assurerai que personne n'entre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"J'ai trouvé Giacco, mais il a été abattu au cours de sa fuite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Nedmar recule pour reprendre ses esprits. "Tenez. Ce que je vous ai promis en retour." Il sort une grande clé de fer de la poche de sa toge et vous la tend. "Ceci ouvrira une porte dans le scriptorium." Il pointe l'ouest. "Et de là vous pouvez atteindre la chapelle, et le seigneur Raedric, sans rencontrer trop de gardes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Avant que vous ne partiez, sachez que, malgré ses défauts, le seigneur raedric suit les dieux avec obéissance, et il essaye de servir au mieux les intérêts de la Vallée dorée. Il se peut, qu'avec le temps, il obtienne ce qu'il désire. Essayez de garder cela à l'esprit avant de céder à la violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Qu'ouvre cette clé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je pensais que vous préfériez Kolsc comme seigneur de la Forteresse de Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je vous maudis ! Que votre âme erre jusqu'à sa dissolution ! Gardes ! Gardes, à l'aide ! Meurtrier ! Assassin !" Le vieil homme tire une dague des plis de sa robe, et titube vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"C'est la clé principale." Nedmar tord ses mains tandis qu'il parle. "Elle n'ouvrira pas toutes les portes, mais elle vous permettra d'accéder aux escaliers menant à la chapelle du seigneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Elle ouvrira également les portes le long du couloir principal de la forteresse. Mais vous devrez faire face à des combats intenses si vous allez par là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vous n'avez pas beaucoup de temps. Quelle que soit votre intention, le seigneur Raedric découvrira bientôt que l'un de ses prisonniers s'est échappé. Et vous perdrez alors l'élément de surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je le préfère tel qu'il est. Un homme de vision. Mais Kolsc a soif de régner, même si c'est dans un but noble. Il n'est pas poussé par sa foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Pourtant, c'est mon ami et je veux assister Kolsc pour restaurer la faveur divine sur les terres de la Vallée dorée, dans l'éventualité où le seigneur Raedric serait renversé, ceci dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Et ainsi la Vallée dorée dispose d'un nouveau thayn. Je vous fais confiance pour avoir fait le bon choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Nedmar semble plus fragile que jamais, avec la peau ridée et étirée sur ses vieux os. Il cligne continuellement des yeux en vous regardant, comme pour éclaircir sa vision. "Vous êtes revenu..."</DefaultText>
+      <FemaleText>Nedmar semble plus fragile que jamais, avec la peau ridée et étirée sur ses vieux os. Il cligne continuellement des yeux en vous regardant, comme pour éclaircir sa vision. "Vous êtes revenue..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Mais je crains qu'il ne soit hors d'atteinte." Nedmar pointe une main tremblante vers le plafond fortifié. "Il attend, au plus haut point de la forteresse. Vous pouvez l'atteindre depuis l'étage supérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Bonne chance, mon ami."</DefaultText>
+      <FemaleText>"Bonne chance, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je... je quitterai cet endroit, et j'irai là où l'on a besoin de moi. Pour propager ailleurs la parole de Berath." Il incline la tête. "Je vous souhaite bonne chance, mon ami. Je vous en prie... mettez-y un terme."</DefaultText>
+      <FemaleText>"Je... je quitterai cet endroit, et j'irai là où l'on a besoin de moi. Pour propager ailleurs la parole de Berath." Il incline la tête. "Je vous souhaite bonne chance, mon amie. Je vous en prie... mettez-y un terme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je... je quitterai cet endroit, et j'irai là où l'on a besoin de moi. Peut-être pourrais-je trouver Giacco et il aura l'intention de retourner à l'église - ailleurs." Il incline la tête. "Je vous souhaite bonne chance, mon ami. Je vous en prie... mettez-y un terme."</DefaultText>
+      <FemaleText>"Je... je quitterai cet endroit, et j'irai là où l'on a besoin de moi. Peut-être pourrais-je trouver Giacco et il aura l'intention de retourner à l'église - ailleurs." Il incline la tête. "Je vous souhaite bonne chance, mon amie. Je vous en prie... mettez-y un terme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"En fait, Raedric m'a missionné pour mettre un terme à la vie de Kolsc."</DefaultText>
+      <FemaleText>"En fait, Raedric m'a missionnée pour mettre un terme à la vie de Kolsc."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je vois. Alors vous mettrez enfin un terme à sa rébellion." Nedmar baisse les yeux vers la table, le regard distant. "Alors, peut-être..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"En fait, je ne suis ici que pour nettoyer les lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous n'avez pas l'air de vraiment apprécier ce Kolsc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Le visage ridé de Nedmar se tord en plissements inquiets. "Ces choses en valent-elles la peine ? Le seigneur Raedric ne prend pas les voleurs à la légère. Vous ne connaîtrez pas plus favorable destin qu'en dénonçant les ennemis de Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Quelles que soient vos raisons, je vous conseille de ne rien tenter. Raedric est bien gardé et il a rassemblé ses hommes après l'échec de l'assaut de Kolsc." Nedmar secoue la tête. "Je ne veux pas voir d'autres vies perdues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Nedmar secoue la tête. "Je ne vais pas vous retarder dans vos obligations. Partez avec ma bénédiction. Trop d'innocents ont payé le prix de l'ambition de Kolsc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Recherchez Kolsc dans les terres au-delà de la Vallée dorée. Il ne voyage pas très loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Vous ne savez rien des horreurs qui ont eu lieu dans ce donjon. Le seigneur Raedric a délaissé sa foi. Il s'enferme dans une vie contre nature. Il crée d'autres monstres, par mimétisme avec les enseignements d'Osrya." Il s'affaisse. "C'est uniquement parce qu'elle est partie que j'ai pu convaincre Raedric de m'autoriser à rester. Pour tenter de le remettre sur le droit chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Attaquez.] "Osrya vous passe le bonjour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Le vieil homme trébuche en s'écartant de vous, son visage ridé figé par l'horreur. Il laisse échapper un sifflement effrayé, fouillant dans les plis de sa toge pour sortir un petit couteau. "Gardes ! Gardes, à l'aide ! Meurtrier ! Assassin !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Vous... vous les avez tué tous les deux. Mais que va-t-on faire à présent ? La Vallée dorée va sombrer dans un chaos sans loi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Oh... cela vous fera plus de bien qu'un déguisement. Nous avons une phrase secrète. C'est 'De chaque fin, s'amorce un début'. Dites-la et les gardes vous laisseront tranquille. Ici uniquement, j'en ai bien peur. Les mercenaires de Raedric ont très peu de patience pour ces choses-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Mentez.] "Il va bien. Il a dit de vous dire qu'il a encore la sculpture que vous lui aviez donné enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank Node 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Les animanciens." Ses lèvres se tordent. "Pourquoi ne suis-je pas surpris qu'ils soient impliqués dans cette absurdité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ce pays a été conquis par l'épée et le feu. Cela n'a pas été facile et ne s'est pas déroulé sans heurts. Pourquoi la résolution de l'Héritage de Waidwen serait-il différent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Ses traits se troublent et s'effacent momentanément. "Il y a bien longtemps que les couloirs de cet endroit n'ont pas résonnés de rires et de jeux d'enfants. Le désespoir pousse ces gens à prendre des risques... pour tenter ce qu'ils ne feraient pas autrement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"« Être gentil avec ce type qui veut vous tuer vous et vos amis » ? Je ne peux imaginer que l'on veuillent écouter un tel conseil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Alors, c'est une bonne chose que son prédécesseur ait fixer ses attentes assez bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Nous sommes tous deux des serviteurs de Berath. Ne pouvez-vous pas m'assister ici et maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Je tiendrai ma parole." Les yeux du vieux prêtre brillent. "Si vous faites cela pour moi. Il y a déjà eu tant de morts. La pauvre dame Ygrid..." Il respire doucement. "Je vous en prie. Je sais que ce n'est pas encore l'heure de Giacco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Bien sûr, bien sûr. Je barrerai la porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Prenez ceci également. J'ai peu de fortune à offrir. Il vaut mieux donner quelque chose d'utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Hm ? Qui est là ? Approchez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Giacco est en sécurité. Il m'a parlé d'une sculpture que vous lui avez donné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Les yeux de Nedmar s'élargissent. Avec une vigueur soudaine, il se précipite pour se saisir de votre bras. "Oh, que les dieux en soient remerciés. Merci ! Je ne pensais que l'on pourrait... Enfin, je craignais que..." Il secoue la tête. "Je ne voulais pas qu'il rencontre le Chevalier Pâle si tôt..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Nedmar recule pour reprendre ses esprits. "Voilà - j'espère que ce sera une digne récompense." Il sort une grande clé de fer de la poche de sa toge et vous la tend. "Ceci ouvrira une porte dans le scriptorium." Il pointe l'ouest. "Et de là vous pouvez atteindre la chapelle, et le seigneur Raedric, sans rencontrer trop de gardes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Portez-vous bien, mon ami."</DefaultText>
+      <FemaleText>"Portez-vous bien, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Kolsc a sa victoire... Y-a-t-il des nouvelles de Giacco ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Giacco est en sécurité. Il m'a demandé de vous dire qu'il a gardé la sculpture que vous lui aviez donnée enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Les yeux de Nedmar s'élargissent. Avec une vigueur soudaine, il se précipite pour se saisir de votre bras. "Oh, que les dieux en soient remerciés. Merci ! Je ne pensais que vous pourriez... Enfin, je craignais que..." Il secoue la tête. "Je ne voulais pas qu'il rencontre le Chevalier Pâle si tôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Tenez, prenez cela. J'ai peu de fortune à offrir. Il vaut mieux donner quelque chose d'utile. Que les dieux vous gardent, mon ami. Et notre nouveau thayn également."</DefaultText>
+      <FemaleText>"Tenez, prenez cela. J'ai peu de fortune à offrir. Il vaut mieux donner quelque chose d'utile. Que les dieux vous gardent, mon amie. Et notre nouveau thayn également."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

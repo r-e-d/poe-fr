@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_sweynur</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah, vous revoilà." Sweynur lève sa chope. "Que voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je ne sais pas qui vous êtes et cela m'indiffère. Passez votre chemin. Nous ne sommes pas là pour parler à des étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nous savons qu'il y a encore du blé ici, Trumbel !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nous ne nous contenterons pas des miettes pendant que vous vous empiffrez avec nos récoltes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Un cri étouffé s'échappe du moulin. "Le premier d'entre vous, bande d'ivrognes, qui franchira cette porte se retrouvera avec une flèche entre les deux yeux ! Par les dieux, Sweynur, je vous abattrais comme un chien !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je vous ai vu devant le moulin. Qu'est-ce que cela voulait dire ?"</DefaultText>
+      <FemaleText>"Je vous ai vue devant le moulin. Qu'est-ce que cela voulait dire ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partez.] "Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Encore vous. Que voulez-vous, maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Eh bien, quelqu'un se considère comme un redresseur de tort, hein ? Ce qu'il se passe ? Ce qu'il se passe, c'est que Trumbel se prend pour le roi du village, simplement parce que le moulin porte son nom."</DefaultText>
+      <FemaleText>"Eh bien, quelqu'un se considère comme une redresseuse de tort, hein ? Ce qu'il se passe ? Ce qu'il se passe, c'est que Trumbel se prend pour le roi du village, simplement parce que le moulin porte son nom."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous devriez y réfléchir à deux fois avant d'avoir affaire au meunier. Le blé est à nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"On s'en va, les gars… Mais nous reviendrons, Trumbel ! Et nous obtiendrons des prix raisonnables ou, par la flamme, il y aura rétribution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Trumbel dit que vous menacez sa famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oh, ça ne m'étonne pas, ça. Tout en noblesse, ce Trumbel. Deux enfants, grands et forts. L'âme la plus pure de la Vallée dorée." Le nain renifle. "Le pleutre envoie des messagers pour régler ses problèmes ? Eh bien, vous pouvez aller lui dire que nous n'avons rien mangé de solide depuis des jours par sa faute. À cause de lui, on ne peut même pas se payer à boire. Mais on ne se laissera pas tyranniser par un étranger à cause de lui."</DefaultText>
+      <FemaleText>"Oh, ça ne m'étonne pas, ça. Tout en noblesse, ce Trumbel. Deux enfants, grands et forts. L'âme la plus pure de la Vallée dorée." Le nain renifle. "Le pleutre envoie des messagers pour régler ses problèmes ? Eh bien, vous pouvez aller lui dire que nous n'avons rien mangé de solide depuis des jours par sa faute. À cause de lui, on ne peut même pas se payer à boire. Mais on ne se laissera pas tyranniser par une étrangère à cause de lui."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"J'ai amené de quoi boire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Hey, c'est bien vrai ! Par la flamme, je n'aurais jamais pensé être si content d'avoir une chope de la bière merdique du Chien noir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Et si je paie une tournée générale ? Vous accepterez de me parler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Si vous élevez seulement la voix contre cette famille, je vous pendrai à une des hélices du moulin et vous servirez de casse-croûte aux corbeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je pourrais peut-être aller lui parler de votre part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ce n'est pas une raison de menacer un homme. Vous pouvez sûrement trouver une solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Il va se terrer dans son moulin pendant des jours, le pleutre." Le nain vous regarde d'un œil calculateur. "Mais si vous voulez essayer quelque chose, bonne chance. Nous vous serons reconnaissant si vous y arrivez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Le nain aboie un rire acerbe. "Vous feriez mieux de partir avant que quelqu'un ne blesse votre fierté. Ici, dans le Dyrwood, on ne se laisse pas piétiner sans réagir. Dégagez, étranger !"</DefaultText>
+      <FemaleText>Le nain aboie un rire acerbe. "Vous feriez mieux de partir avant que quelqu'un ne blesse votre fierté. Ici, dans le Dyrwood, on ne se laisse pas piétiner sans réagir. Dégagez, étrangère !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Que faites-vous là, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"À votre avis ? Je bois pour oublier à quel point j'ai envie de planter une fourche en travers du visage de Trumbel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Partez.] Je m'en vais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Attaquez.] "Vous êtes un ivrogne et une menace. Je vais m'occuper de votre cas"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Hé, du calme." Sweynur, les yeux écarquillés, lève les mains en en signe d'apaisement." Pas besoin de recourir à la violence. Nous n'approcherons plus du meunier. Par les flammes, nous ne lui avons rien fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Sweynur réfléchit brièvement. Il regarde les autres. "Bien. Amenez-nous de quoi nous désaltérer et peut-être que j'accepterais de vous parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Écoutez, ça ne sert à rien de menacer le meunier. Il est acculé. Vous pourriez peut-être demander aux autres villageois de vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Sweynur vous observe un long moment en prenant de longues gorgées dans sa chope. Enfin, il soupire. "Vous avez raison. Si on continue comme ça, on va finir par pendre à la potence nous aussi." Il regarde se camarades. "Dites à Trumbel que nous le laisserons tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Soulevez Sweynur de sa chaise] "Si vous voulez vous battre contre Trumbel, autant avoir un combat à la loyale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Peut-être pouvez-vous m'en dire plus sur la situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"C'est ce que je vous disais. Le meunier fixe les prix du blé. Il dit que les prix sont équitables, mais je sais avec certitude que des gens comme Aufra paient deux fois moins que nous." Le nain soupire. "Nous avons peut-être été un peu durs avec lui, mais que sommes-nous censés faire ? On ne peut pas continuer de payer. Nous allons mourir de faim et je ne pense pas que Trumbel se lamentera quand ça arrivera." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Trumbel ne trompera plus personne. Il est mort." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Mort ? Comment est-ce que…" Il vous dévisage un instant avant de baisser les yeux. "Par les flammes. Peut-être que la situation a un peu dégénéré, mais… j'ai toujours cru que le vieil homme entendrait raison avant d'en arriver à de telles extrémités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Bien. Restez calme. Finissons nos verres tranquillement, puis on partira récupérer ce qu'on peut. Quand les gens entendront la nouvelle, ils se jetterons sur le blé comme des rats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Et si je vous disais que Trumbel a changé d'avis concernant le prix du blé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Le nain lève la tête et vous regarde en clignant des yeux. "Quoi ? Vous êtes sérieux ?" Il échange des regards avec ses camarades, qui lancent des sourires hésitants. "Le vieil homme est revenu à la raison ?"</DefaultText>
+      <FemaleText>Le nain lève la tête et vous regarde en clignant des yeux. "Quoi ? Vous êtes sérieuse ?" Il échange des regards avec ses camarades, qui lancent des sourires hésitants. "Le vieil homme est revenu à la raison ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Il était temps. Je leur avais dit qu'il changerait d'avis, mais il a bien pris son temps pour en arriver là." Il pose quelques pièces sur la table. "Voilà de quoi prendre un verre, maintenant que nous pouvons nous le permettre. Ça vaut pour vous deux aussi. Buvez avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>La joue du nain tremble de rage. "Ce qu'il se passe, c'est qu'il nous achète notre blé une misère, puis nous vide la bourse quand nous voulons acheter le grain. Ce qu'il se passe, c'est que des fermiers meurent de faim pendant qu'un bâtard s'enrichit sur leur dos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Voilà ce qu'il se passe. Maintenant, dégagez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Le nain vous regarde. "Non que je n'apprécie pas ce que vous avez fait, mais… Vous devriez plutôt changer d'air, l'ami. Entre le magistrat et cette histoire de blé, je ne pense pas qu'il vous reste grand-chose à faire ici."</DefaultText>
+      <FemaleText>Le nain vous regarde. "Non que je n'apprécie pas ce que vous avez fait, mais… Vous devriez plutôt changer d'air, l'amie. Entre le magistrat et cette histoire de blé, je ne pense pas qu'il vous reste grand-chose à faire ici."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Alors… qui distribue le grain ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Eh bien, quelqu'un se considère comme un redresseur de tort, hein ? Ce qu'il se passe ? Ce qu'il se passe, c'est que Trumbel se prend pour le roi du village, simplement parce que le moulin porte son nom."</DefaultText>
+      <FemaleText>"Eh bien, quelqu'un se considère comme une redresseuse de tort, hein ? Ce qu'il se passe ? Ce qu'il se passe, c'est que Trumbel se prend pour le roi du village, simplement parce que le moulin porte son nom."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Nous sommes simplement affamés. Et ça n'a pas l'air près de changer. Si vous voulez prendre le parti de cette enflure, allez-y. Vous, et tout ce putain de village !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Par les dieux, ça fait du bien. Très bien, vous avez mon attention. Qu'avez-vous à dire qui vaut une tournée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je pourrais peut-être aller parler à Trumbel pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je ne sais pas ce que nous allons faire, avec les mauvaises récoltes. Je n'ai pas d'autre commerce. Vous pensez que Pasca a besoin d'un coup de main à l'auberge ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nous allons bientôt partir. Bon voyage, étranger."</DefaultText>
+      <FemaleText>"Nous allons bientôt partir. Bon voyage, étrangère."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vous venez me narguer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je ne sais pas comment vous remercier. Nous pourrons peut-être tenir la saison grâce à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vous vous êtes fait comprendre. Laissez-nous tranquille, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Posez votre lame contre son cou] "Vous voulez tenter à nouveau votre chance ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Sweynur, les yeux écarquillés, lève les mains et le menton pour essayer d'échapper au tranchant de la lame. "Hé, du calme. Pas besoin de recourir à la violence. Nous n'approcherons plus du meunier. Par les flammes, nous ne lui avons rien fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Sweynur tombe de sa chaise, les yeux écarquillés, et ses camarades tirent leurs armes. "Attaquez-le, les gars !"</DefaultText>
+      <FemaleText>Sweynur tombe de sa chaise, les yeux écarquillés, et ses camarades tirent leurs armes. "Attaquez-la, les gars !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Encore vous. Que voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ah ! Vous pensez arriver à lui faire entendre raison alors que nous n'y sommes pas arrivés ? Cet homme est aussi bouché qu'une tourbière. J'ai entendu dire qu'il s'est fait lire l'âme et a découvert qu'un de ses ancêtres faisait pousser des sonnread pour ses seigneurs Aedyrans, jusqu'à ce qu'il se rendre compte qu'il était du côté des perdants. Ça explique pourquoi il a toujours une petite faiblesse des genoux, qui veulent faire une courbette dès qu'un seigneur ou une dame traverse la route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"À propos de ce problème avec le meunier…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Dégagez, mon grand. Je n'ai rien d'autre à dire."</DefaultText>
+      <FemaleText>"Dégagez, ma grande. Je n'ai rien d'autre à dire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ce minable lèche-botte… Il pense pouvoir nous affamer…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Nous lui donnons un jour, pas plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Bien, bien. Vous êtes sur toutes les lèvres. Et vous daignez venir jusqu'à nous ? Pourquoi êtes-vous là, étranger ? Un toast ? Des applaudissements ?" Il lève sa chope vide en signe de salut moqueur.</DefaultText>
+      <FemaleText>"Bien, bien. Vous êtes sur toutes les lèvres. Et vous daignez venir jusqu'à nous ? Pourquoi êtes-vous là, étrangère ? Un toast ? Des applaudissements ?" Il lève sa chope vide en signe de salut moqueur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sweynur oriente son regard inquisiteur dans votre direction. "Cette affaire ? Disons que si vous avez l'intention d'être utile par ici, vous devriez peut-être parfois prendre les êtres civilisés en considération."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Trumbel est persuadé d'être le roi en ville, parce qu'il a le moulin à son nom. Il ne trouve rien à redire en nous donnant presque rien pour le blé que nous lui apportons, puis en nous vidant les poches lorsque l'on a besoin d'acheter à nouveau du blé. Il y a des fermiers qui meurent de faim pendant que ce bâtard s'enrichit sur nos récoltes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"C'est peut-être à lui qu'il faut poser les questions, étranger. Nous en avons assez de le voir jouer au seigneur."</DefaultText>
+      <FemaleText>"C'est peut-être à lui qu'il faut poser les questions, étrangère. Nous en avons assez de le voir jouer au seigneur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Sweynur oriente son regard inquisiteur dans votre direction. "Cette affaire ? Disons que si vous avez l'intention d'être utile par ici, vous devriez peut-être parfois prendre les êtres civilisés en considération."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Sweynur secoue brusquement la tête. "J'ai dit ce que j'avais à dire. Je vais boire en paix à présent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Aloth plisse les yeux. "Attention. Il semble être taillé dans la même étoffe que ces casseurs qui m'ont attaqué." Il fronce son nez. "On le sent bien, aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Il était temps. Je leur ai dit qu'il passerait par ici, mais diable qu'il a pris le temps." Il pose quelques pièces sur la table. "Voilà, payez-vous à boire, maintenant que nous pouvons nous le permettre. La même chose pour vous deux également. C'est ma tournée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

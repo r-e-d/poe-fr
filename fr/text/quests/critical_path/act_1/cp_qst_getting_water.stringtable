@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_getting_water</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un moment de répit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retournez voir Odema.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Atteignez le camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Collectez des baies pour concocter un remède.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Attaquez la caravane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Retrouvez Sparfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Retrouvez Sparfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une maladie soudaine me frappe. Le maître de caravane m'a fortement conseillé de concocter un remède en urgence avant que ma condition n'empire.</DefaultText>
+      <FemaleText>Une maladie soudaine me frappe. Le maître de caravane m'a fortement conseillée de concocter un remède en urgence avant que ma condition n'empire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai trouvé le plant de baies que cherchait Odema. Pour autant que Sparfel puisse aller chercher cette eau, Odema pourra commencer à travailler sur mon remède.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nous avons été pris en embuscade par des guerriers glanfathans au bord du ruisseau. Sparfel a été tué, et d'après les cris venant du camp, nous ne sommes pas les seuls à subir une attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Odema a indiqué qu'un certain thé, infusé avec des baies locales, me guérirait. Sparfel est parti chercher de l'eau au ruisseau mais il me revient de collecter les baies. Odema dit qu'elles poussent sur un arbuste spécifique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'en ai assez de la compagnie de mes compagnons de caravane. Les tuer améliorera bien plus ma condition qu'une tisane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Sparfel ne semble pas pressé de rapporter cette eau. Je devrais aller au devant de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Sparfel ne semble pas pressé de rapporter cette eau. Je devrais aller au devant de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'en ai assez de la compagnie de mes compagnons de caravane. Les tuer améliorera bien plus ma condition qu'une tisane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'en ai assez de la compagnie de mes compagnons de caravane. Les tuer améliorera bien plus ma condition que boire l'eau du ruisseau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Sparfel a laissé son sac près du ruisseau dans la nature. Il n'y a aucune raison d'attendre qu'il me rapporte de l'eau à présent. Je vais le faire moi-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>La caravane a été prise en embuscade par des guerriers glanfathans. La maladie est le cadet de mes soucis pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Quelle que soit mon affliction, cela ne diminue pas mes capacités. Je suis débarrassé de mes compagnons de caravane, mais un vent étrange s'est levé dans ces bois. La maladie est le cadet de mes soucis pour le moment.</DefaultText>
+      <FemaleText>Quelle que soit mon affliction, cela ne diminue pas mes capacités. Je suis débarrassée de mes compagnons de caravane, mais un vent étrange s'est levé dans ces bois. La maladie est le cadet de mes soucis pour le moment.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

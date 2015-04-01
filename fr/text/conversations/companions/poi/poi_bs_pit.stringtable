@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_pit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Si ça, ça ne donne pas la foi, je ne comprends rien à rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Longue descente en perspective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"La Reine exilée... Espérons que cet air sévère est de bon augure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je parie cinq pands qu'on va tomber sur les os brisés du dernier groupe qui a été assez bête pour sauter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Quand vous serez arrivé en bas, criez. Comme ça, je saurais qu'il n'y a pas de danger."</DefaultText>
+      <FemaleText>"Quand vous serez arrivée en bas, criez. Comme ça, je saurais qu'il n'y a pas de danger."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ce n'est pas le moment de perdre votre sang-froid, Gardien. Qu'est-ce qu'une épreuve de plus pour une âme au bord de la mort ?"</DefaultText>
+      <FemaleText>"Ce n'est pas le moment de perdre votre sang-froid, Gardienne. Qu'est-ce qu'une épreuve de plus pour une âme au bord de la mort ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

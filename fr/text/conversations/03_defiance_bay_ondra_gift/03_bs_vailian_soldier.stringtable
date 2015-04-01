@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_vailian_soldier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mon boulot est de garder les caisses. Je ne demande pas ce qu'il y a dedans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ce n'est pas un accident si les fondateurs de la Compagnie commerciale vailienne ont construit cet entrepôt si près du Mât salé..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pour les  Vailiens, travailler à l'étranger ne sert qu'à revenir dans les Républiques avec le succès et le prestige."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"De nombreuses affaires non régulées se concluent à la Faveur d'Ondra. Voilà comment les Vailiens tendent à apprécier les choses, de toute façon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mestre Verzano donne les ordres par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ce paladin prévenait toujours Verzano de ne pas se mettre les mauvaises personnes à dos. C'est regrettable qu'il ne l'ait pas écoutée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Les opérations irréfléchies de Verzano l'ont finalement rattrapé. Espérons que le nouveau chef soit plus perspicace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Verzano est retourné dans les Républiques dans l'échec et la disgrâce. C'est le retour que redoutent tous les Vailiens."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

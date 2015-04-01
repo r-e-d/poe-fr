@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_bs_keepers_ambients</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"La grandeur exige le sacrifice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ces salles ne sont pas faites pour les esprits faibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Il nous reste encore des rites à pratiquer sur l'autel principal, si vous voulez observer. Nous vous demandons juste de garder le silence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Êtes-vous venu vous sacrifier, [Player Race] ? Vous pouvez vous rendre dans les chambres sacrificielles."</DefaultText>
+      <FemaleText>"Êtes-vous venue vous sacrifier, [Player Race] ? Vous pouvez vous rendre dans les chambres sacrificielles."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

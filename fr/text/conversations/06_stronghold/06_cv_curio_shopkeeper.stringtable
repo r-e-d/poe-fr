@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_curio_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Qu'il est bon de vous revoir, mon seigneur. J'ai ici toutes sortes de choses, acquises aux quatre coins de Dyrwood. Venin de serpent, oreilles de skuldr... tout ce que vous voulez."</DefaultText>
+      <FemaleText>"Qu'il est bon de vous revoir, ma dame. J'ai ici toutes sortes de choses, acquises aux quatre coins de Dyrwood. Venin de serpent, oreilles de skuldr... tout ce que vous voulez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je voudrais voir ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Salutations, mon seigneur. Recherchez-vous quelque chose ? Des carapaces de scarabée ? Des langues de Xaurip ?"</DefaultText>
+      <FemaleText>"Salutations, ma dame. Recherchez-vous quelque chose ? Des carapaces de scarabée ? Des langues de Xaurip ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Certainement !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

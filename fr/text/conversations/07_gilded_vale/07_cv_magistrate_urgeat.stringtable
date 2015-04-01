@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_magistrate_urgeat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme s'approche de vous, sa peau est sombre et grise tout comme le village désolé derrière lui.
+
+Il vous scrute avec des yeux creux et sans vie. "Vous devez être un des nouveaux colons." Sa voix est un croassement sec. "Bienvenue dans la Vallée dorée."
+
+"Vous serez heureux de savoir que nous avons quelques déménagements." Il jette un regard à la monstruosité noueuse et sans feuilles de l'arbre près de lui.</DefaultText>
+      <FemaleText>Un homme s'approche de vous, sa peau est sombre et grise tout comme le village désolé derrière lui.
+
+Il vous scrute avec des yeux creux et sans vie. "Vous devez être un des nouveaux colons." Sa voix est un croassement sec. "Bienvenue dans la Vallée dorée."
+
+"Vous serez heureuse de savoir que nous avons quelques déménagements." Il jette un regard à la monstruosité noueuse et sans feuilles de l'arbre près de lui.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'attends toujours la naissance de l'héritier du seigneur Raedric. Lorsque ce problème sera réglé, je pourrais m'occuper de votre affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Urgeat arbore un froncement tordu. "J'ai bien peur de ne pas pouvoir vous aider à trouver une résidence ici. Le fils du seigneur Raedric a été considéré comme sans-âme. Cela rend les circonstances encore plus difficiles qu'auparavant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wirtan a menti à propos de la présence des adorateurs du Temple d'Eothas. J'ai découvert les ossements des hommes et des femmes qui étaient scellés à l'intérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le magistrat Urgeat vous regarde de haut. "Cela signifie, bien sûr, que vous vous étiez rendu dans le temple par vous-même." Il se gratte le menton avec un doigt long et fin. "Ce n'est pas idéal, mais il vaut mieux savoir cela maintenant, avant que le temple ne soit reconsacré à Berath."</DefaultText>
+      <FemaleText>Le magistrat Urgeat vous regarde de haut. "Cela signifie, bien sûr, que vous vous étiez rendue dans le temple par vous-même." Il se gratte le menton avec un doigt long et fin. "Ce n'est pas idéal, mais il vaut mieux savoir cela maintenant, avant que le temple ne soit reconsacré à Berath."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Il n'y a aucune excuse pour Wirtan, cependant. Sa duperie a coûté des vies et aurait pu compromettre les efforts de prudence du seigneur Raedric. On s'occupera de lui." Il se tourne vers l'arbre.
+
+"J'apprécie votre venue. Voici un petit quelque chose pour vous montrer notre appréciation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"C'est déjà fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Il n'y a aucune excuse pour Wirtan, cependant. Sa duperie a coûté des vies et aurait pu compromettre les efforts de prudence du seigneur Raedric. On s'occupera de lui." Il se tourne vers l'arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Alors vous nous avez épargner deux fois plus de soucis. Acceptez-ceci avec nos remerciements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je me dois de vous avertir, étranger. Nous avons ici un lieu spécial pour les dissidents, les charlatans et ceux qui cacheraient un maléfice parmi nous." Il fait un pas de côté et incline sa tête légèrement vers l'arbre déformé.</DefaultText>
+      <FemaleText>"Je me dois de vous avertir, étrangère. Nous avons ici un lieu spécial pour les dissidents, les charlatans et ceux qui cacheraient un maléfice parmi nous." Il fait un pas de côté et incline sa tête légèrement vers l'arbre déformé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Son regard pivote de nouveau vers vous. "Bien sûr, nous devrons d'abord faire quelques investigations. L'inestimable seigneur Raedric VII a beaucoup souffert pour isoler notre ville de l'Héritage de Waidwen."
+
+Il vous évalue à travers ses lunettes en demi-lunes et se gratte le menton. "Avez-vous déjà engendré un enfant sans-âme ?"</DefaultText>
+      <FemaleText>Son regard pivote de nouveau vers vous. "Bien sûr, nous devrons d'abord faire quelques investigations. L'inestimable seigneur Raedric VII a beaucoup souffert pour isoler notre ville de l'Héritage de Waidwen."
+
+Il vous évalue à travers ses lunettes en demi-lunes et se gratte le menton. "Avez-vous déjà mis au monde un enfant sans-âme ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Mais de quoi parlez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"C'est une question plutôt personnelle..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Occupez-vous de vos affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Refusez de répondre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Et néanmoins d'importance."
+
+"Le seigneur Raedric a pour priorité d'éliminer ce fléau de notre village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"La femme de sa seigneurie porte un enfant et doit accoucher incessamment sous peu. Sans son approbation, je ne pourrais vous trouver un emplacement permanent. Cela devra attendre après la naissance." Il croise les bras. "Nous pourrons donc poursuivre notre entretien, après que les cloches de la forteresse de Raedric signaleront l'arrivée du nouvel héritier de mon seigneur."
+
+"Pendant ce temps, vous pourrez trouver de quoi vous loger à l'auberge au sud-ouest d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Urgeat vous regarde bouche bée. "Vous ! Vous êtes celui qui a assassiné le seigneur Raedric au nom de ce crétin de traître." Il renifle. "Je suis sûr que vous comprenez que votre sollicitation immobilière n'est plus de mon ressort à présent..."</DefaultText>
+      <FemaleText>Urgeat vous regarde bouche bée. "Vous ! Vous êtes celle qui a assassiné le seigneur Raedric au nom de ce crétin de traître." Il renifle. "Je suis sûr que vous comprenez que votre sollicitation immobilière n'est plus de mon ressort à présent..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Si vous avez d'autres question, n'hésitez surtout pas. Il est important que tout le monde présent dans la Vallée dorée nos règles et nos risques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ses yeux se plissent. "Êtes-vous absolument certain ?"
+
+"Le seigneur Raedric a pour priorité d'éliminer ce fléau de notre village."</DefaultText>
+      <FemaleText>Ses yeux se plissent. "Êtes-vous absolument certaine ?"
+
+"Le seigneur Raedric a pour priorité d'éliminer ce fléau de notre village."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Un enfant né sans-âme, bien sûr. Le seigneur Raedric a pour priorité d'éliminer ce fléau de notre village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Son torse se bombe. "Le bien-être de ce village est mon affaire. Vous feriez mieux de vous faire à cette idée si vous avez l'intention de vivre parmi nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ce manque d'amabilité ne vous mènera nulle part dans la Vallée dorée. Le seigneur Raedric a pour priorité d'éliminer ce fléau de notre village et, pour lui, aucune réponse n'est aussi bonne qu'un aveu de culpabilité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Parlez-moi du seigneur Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous parliez des « sans-âmes » et de « l'Héritage de Waidwen » auparavant..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Avant de venir ici, j'ai vu plusieurs personnes menant une étrange cérémonie près de ruines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je voudrais en savoir plus à propos de la Vallée dorée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Il vient d'une lignée de nobles qui ont défendu ces terres depuis l'époque aedyrane. Raedric II était un défenseur de la première heure de l'indépendance dyrwoodan au cours de la révolution, et le père du seigneur actuel a péri au cours de la guerre du Saint."
+
+"Les sans-âmes ont commencé à apparaître dans le Dyrwood peu après la fin de la guerre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"La guerre du Saint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Les décrets du seigneur Raedric peuvent sembler stricts parfois, mais il a à cœur de défendre nos intérêts." Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"L'exemple le plus flagrant de la folie à notre époque. Il y a quinze ans, les gens de Readceras décidèrent que Waidwen, leur saint vivant, était la réincarnation littérale du dieu Eothas." Urgeat plisse son nez pincé.
+
+"Ce supposé saint décida de lui-même de libérer le Dyrwood. Soi-disant à cause d'allégeances à des dieux inférieurs, mais je n'ai jamais vu une armée conquérir un territoire pour le propre bien de son peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"La guerre dura à peu près un an, mais vous pouvez deviner ce que cette année provoqua au culte d'Éothas dans le Dyrwood. Les ancêtres de Raedric ont tous été éothasians, mais après que son père est tombé en nous défendant contre ces fanatiques, il a personnellement veillé à ce que le Temple d'Éothas en ville soit fermé." Il pointe quelques murs en ruines près de l'arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Il secoue la tête. "De pitoyables et simples choses qui respirent, à peine, mais ne vivent pas vraiment. Certains disent que les sans-âmes sont une maladie. D'autres que c'est un châtiment des dieux."
+
+Il lève ses mains vides. "En vérité, personne ne sait. Mais ils ont commencé à se propager avec la guerre du Saint, et le nom « d'Héritage de Waidwen » est resté en l'honneur de ce misérable prétendant blasphématoire." Le vitriol secoue sa voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Nous sommes un village frontalier, comme la plupart des colonies dans le Dyrwood. La Vallée dorée ne s'est pas beaucoup développée depuis son établissement à l'époque coloniale, et les quinze dernières années ont vu un rétrécissement accru de la population." Il englobe les maisons délabrées et les barrières à moitié écroulées. 
+
+"Ce qui explique pourquoi nous recrutons de nouveaux colons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Pourquoi la population de la Vallée dorée a-t-elle baissé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Cet arbre, là..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Assez parlé de la Vallée dorée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"L'Héritage de Waidwen, bien sûr. De nombreuses femmes ont des difficultés à porter des enfants en bonne santé récemment. Il y a quelques années, le seigneur Raedric a décrété qu'aucune mère de sans-âme ne soit acceptée dans la Vallée dorée." Sa bouche se resserre en une ligne ferme. "Sa seigneurie s'est rapidement chargé des objecteurs."
+
+"C'est peut-être dur, mais si nous sommes purgés de cette malédiction, cela n'en vaut-il pas la peine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Le seigneur a pris sur lui de purger la malédiction de la Vallée dorée. Ses mesures ont été sévères mais nécessaires."
+
+"Maintenant que sa propre femme est enceinte, il a été particulièrement attentif à ce qu'aucune personne affectée de cette malédiction n'entre dans le village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Le seigneur a pris sur lui de purger la malédiction de la Vallée dorée. Ses mesures ont été sévères mais nécessaires."
+
+"Malheureusement, cela n'a peut-être pas été suffisant, à en croire l'indication des cloches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Urgeat ne regarde même pas au-dessus de son épaule. "Ah, oui. Tout le monde a accepté les mesures nécessaires pour sauvegarder le village. Depuis que le seigneur Raedric a banni les mères des sans-âmes, certaines ont pris les armes contre lui."
+
+"Et tandis qu'il recherchait un remède, il a été assailli par les fraudeurs et les imposteurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Nous avons vu des clairvoyants, des sorciers et des animanciens arriver en ville, prendre l'argent du seigneur et promettre la fin de la malédiction. Le seigneur Raedric s'est finalement décidé à faire un exemple de ceux qui profitent de notre tragédie."
+
+Il indique le cadavre d'une femme naine. "Le dernier en date était une animancienne des républiques vailiennes qui prétendait connaître des techniques inédites."
+
+"On a tout vu, à présent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Il vous considère soigneusement. "Vous prendrez garde de le mentionner. Pénétrer dans les ruines engwithanes est illégal, et dangereux."
+
+"Vous avez probablement vu quelqu'un tentant une sorte de nouveau rituel pour apaiser les dieux. Les gens essayent n'importe quoi ces temps-ci. Que Berath ait pitié, nous avons fait de notre mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je ne le pense pas. Comme ils finissaient, il y a eu un bîaŵac."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous apprendrez à connaître le village au fil de votre exploration, j'en suis sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Comme je le disais, il est préférable de rester à l'écart de ce genre de lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Il essuie ses lunettes sur sa chemise. "Si vous aviez été aussi proche d'un bîaŵac, vous ne seriez pas là en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Parlez-moi de ces ruines derrière l'arbre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"C'est ce qu'il reste du temple d'Eothas." Ses lèvres se froncent. "Le seigneur Raedric a interdit le culte du dieu mort après la guerre du Saint. Il est abandonné depuis au moins quinze ans, mais il est question de le consacrer à nouveau à Berath, le dieu de la vie et de la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je me sens assez bizarre depuis mon contact avec un bîaŵac. Y a-t-il quelqu'un en ville qui puisse m'aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Le magistrat désapprouve. "Quel que soit votre... problème, cela semble relever de l'animancie. Cependant, le seul animancien dans la Vallée dorée n'est pas en condition de parler." Il pointe le corps pendu à l'arbre. 
+
+Il ricane. "Estimez-vous chanceux. Après qu'elle a déçu le seigneur Raedric, nous avons veillé à ce qu'elle ne profite pas de la confiance déplacée des autres. Un mauvais remède est souvent pire qu'aucun remède."</DefaultText>
+      <FemaleText>Le magistrat désapprouve. "Quel que soit votre... problème, cela semble relever de l'animancie. Cependant, le seul animancien dans la Vallée dorée n'est pas en condition de parler." Il pointe le corps pendu à l'arbre. 
+
+Il ricane. "Estimez-vous chanceuse. Après qu'elle a déçu le seigneur Raedric, nous avons veillé à ce qu'elle ne profite pas de la confiance déplacée des autres. Un mauvais remède est souvent pire qu'aucun remède."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Mais si vous comptez trouver un flacon de pisse de troll ou un galet d'adra mort à frotter sur votre front, vous êtes libre de fouiller ses poches. Une petite odeur de cadavre n'est rien lorsque vous creusez la merde."
+
+"Mon conseil, cependant, est d'être satisfait de vous être enfui et d'être parti."</DefaultText>
+      <FemaleText>"Mais si vous comptez trouver un flacon de pisse de troll ou un galet d'adra mort à frotter sur votre front, vous êtes libre de fouiller ses poches. Une petite odeur de cadavre n'est rien lorsque vous creusez la merde."
+
+"Mon conseil, cependant, est d'être satisfaite de vous être enfuie et d'être partie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je voudrais signaler un meurtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Le magistrat lève un sourcil. "C'est votre devoir. Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"L'homme nommé Nonton a tué son ami, Perly, en pleine nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"J'ai eu une vision des derniers instants de la victime. J'ai vu le déroulement du crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Un acte cruel et lâche... si, bien sûr, il a bien eu lieu. Quelle preuve avez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Une... vision ?" Urgeat soupire. "Nous ne prenons pas ce genre d'accusation à la légère par ici. La prochaine fois que vous vous sentez enclin à plaisanter avec ça, je vous suggère de réfléchir aux risques que cela implique." Il regarde précisément l'arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"J'irai en trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Urgeat hoche lentement la tête. "Ce ne sont pas des accusations à faire à la légère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Aloth renifle. "En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"« Abandonné » parce qu'un gentil seigneur a décidé de le démolir car il avait peur de son dieu même après sa mort."
+
+"Berath est un bon choix, cependant, je l'apprécie. Berath croit aux cycles. J'aime à penser que ce qui est arrivé à ce temple sera vengé un jour, également."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Urgeat hoche sèchement de la tête. "Restez hors de..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Urgeat regarde vers l'est, d'une expression indéchiffrable. Il cligne lentement des yeux, et tourne son attention vers vous. "Vous n'arrivez pas vraiment au bon moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Trois cloches indiquent uniquement la mort d'un Raedric. Je crains que l'héritier du seigneur Raedric ne soit mort - ou bien un sans-âme. Mort quoi qu'il arrive."
+
+Un spasme étrange traverse son visage et le coin de sa bouche se transforme en un sourire sans joie. "Vous devriez marcher avec prudence. Les circonstances viennent de changer drastiquement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Est-ce que cela affecte l'offre faite aux nouveaux colons ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Il hausse une épaule saillante. "J'aurai plus de détails lorsque le messager sera arrivé. Les aléas de l'accouchement, peut-être. Mais cela ne vous regarde pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vous arrivez à un moment de deuil. L'Héritage a frappé au cœur de la Vallée dorée. Nos efforts pour nous racheter aux yeux de Berath doivent être redoublés." Il pose un regard fixe sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ne me menacez pas, petit homme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Il secoue la tête, impassible. "Ce n'est pas une menace. Seulement un avertissement. Le seigneur Raedric ne tolérera aucune menace sur ses proches, ou ceux qui vivent sur ses terres. La douleur ne le rendra pas plus docile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Je ne peux être sûr de rien pour le moment. Je vous conseille de prendre du repos à l'auberge... ou l'étable, peu importe. Retrouvez-moi après. J'en apprendrai plus bien assez tôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"J'ai reçu la confirmation que l'héritier du seigneur Raedric n'est pas... bien né."
+
+"Mon seigneur a lancé une injonction sur toutes les propriétés jusqu'à ce qu'il puisse être assuré que le village est exempt d'éothasians et je ne sais quels autres indésirables qui ont apporté ce mal sur ces terres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Il vaudrait mieux que vous quittiez la ville le plus vite possible. Je vous suggère de retourner dans votre ancien foyer. Il n'y a pas de place pour vous ici.
+
+"Vous pouvez rester à l'auberge jusqu'à ce que vous ayez fait les arrangements nécessaires. Mais je ne vous conseille pas de rester longtemps. Je m'attends à ce que le seigneur Raedric soit plus rigoureux dans ses efforts pour purifier ce lieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"C'est scandaleux ! J'ai fait un long chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Alors vous n'aurez aucun problème à le poursuivre."
+
+"Croyez-moi lorsque je dis qu'il vaudrait mieux que vous ne soyez pas là lorsque les hommes du seigneur Raedric sortiront de sa forteresse. Ils rechercheront quiconque aurait pu apporter l'Héritage ici - ou dont la présence aurait pu polluer le ventre de sa femme. Ils élimineront toute les possibilités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Le seigneur a pris sur lui de purger la malédiction de la Vallée dorée. Ses mesures ont été sévères mais nécessaires."
+
+"Malheureusement, cela ne semble pas avoir été suffisant pour protéger son héritier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Est-ce que vous accueillez tout le monde de cette manière ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je me sens déjà chez moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Vous êtes fou ? Pas étonnant que cet endroit semble à moitié vide."</DefaultText>
+      <FemaleText>"Vous êtes fou ? Pas étonnant que cet endroit semble à moitié vide."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>La seule réponse que vous entendez est le bourdonnement des mouches sur l'arbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je vais peut-être reconsidérer l'offre de votre seigneur..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Absurde. La Vallée dorée est un village parfaitement adapté à ceux qui respectent les décrets du seigneur. D'ailleurs..." Il vous regarde de la tête aux pieds. "Vous ne trouverez pas une meilleure offre ailleurs dans le Dyrwood par les temps qui courent. Et on dirait qu'un nouveau départ ne vous ferait pas de mal."
+
+Il porte un regard circulaire sur la ville, affichant un visage de contentement sobre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Il cligne des yeux. "J'oublie que les étrangers comme vous ne souffrez pas de cette malédiction dans votre pays. Les sans-âmes ont été un fléau à travers le Dyrwood ces quinze dernières années." Il se met à murmurer. "Les enfants nés sans âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_glanfathan_locals_gate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Qu'est-ce qu'il y a, estramor ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Parlez-moi de l'homme dont vous discutez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qu'est-ce que c'est, Teir Evron ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Un étranger s'est introduit à Teir Evron, la tour située sous les ormes géants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Les étrangers n'ont pas le droit de fouler le sol des Ormes. Comment a-t-on pu le laisser passer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Personne ne l'a vu. Apparemment, il avait d'étranges pouvoirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Les mystères de nos ancêtres sont incompréhensibles pour les étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Teir Evron était déjà là à l'époque des Bâtisseurs. Et elle restera à sa place encore longtemps après notre départ de ce monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Oui, la tour est indestructible, et les dieux y résident, dans une salle sacrée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Les âmes impures... et les étrangers n'ont rien à y faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous dites que les dieux résident à Teir Evron. Comment est-ce possible ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Aux Ormes jumeaux, dans les temples des Bâtisseurs, les dieux communient avec nous. J'espère que cette vérité vous siéra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"... Je vous assure. Ils ont vu l'homme s'introduire à Teir Evron." Un orlan vêtu d'épaisses fourrures est en pleine conversation. Il joint les mains pour appuyer ses propos. "Je vous assure que c'est vrai. Et il avait d'étranges pouvoirs, à ce qu'on dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Une elfe détourne les yeux de son compagnon en faisant un signe de tête dans votre direction. "Voilà justement un étranger. Est-ce qu'il lui ressemblait ?" L'orlan se retourne.</DefaultText>
+      <FemaleText>Une elfe détourne les yeux de son compagnon en faisant un signe de tête dans votre direction. "Voilà justement une étrangère. Est-ce qu'il lui ressemblait ?" L'orlan se retourne.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

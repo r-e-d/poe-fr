@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_alwah</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une jeune orlane rampe sur le sol en pierre, se blottit contre le mur et vous montre les dents. Sa fourrure est abîmée et emmêlée. 
+
+En vous voyant entrer dans la pièce, elle plisse les yeux et ses grandes oreilles se tournent vers vous. Un profond soupir s'échappe de son corps minuscule. "Bon sang ! Mes yeux vous ont pris pour l'un d'entre eux. Je vous en prie, sortez-moi d'ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"La voie est libre ? Je dois retourner à la Gueule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je vous en prie, je dois absolument sortir d'ici. Je n'ai rien avalé depuis des jours, à part un peu de glace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>L'Orlane regarde le ciel en humant l'air frais. "Je renais." 
+
+Elle vous donne un grand coup sur l'épaule. "Passez à la Gueule un de ces jours. Les autres Fangs seront ravis de rencontrer l'estramor qui m'a libérée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Alwah vous fait signe en souriant. Sa fourrure est maintenant lisse et soyeuse, et une lueur de malice brille dans son œil. 
+
+"Le fameux estramor. Je sais que vous vous exprimez bien, mais vous pourriez aussi apprendre à vous mouvoir comme un éclaireur."</DefaultText>
+      <FemaleText>Alwah vous fait signe en souriant. Sa fourrure est maintenant lisse et soyeuse, et une lueur de malice brille dans son œil. 
+
+"La fameuse estramor. Je sais que vous vous exprimez bien, mais vous pourriez aussi apprendre à vous mouvoir comme un éclaireur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que vous est-il arrivé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Parlez-moi des gens qui vous ont capturée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>DEBUG: Set Conditions for Quest Resolution = True.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Quand Noonfrost a commencé à geler le lac, ma sœur Larha m'y a envoyée en éclaireuse." Elle regarde la pièce miteuse en fronçant les sourcils. "Mais un elfe pâle m'a capturée." 
+
+"Ce sont les elfes pâles qui sont responsables de tout ça. Ils sont récemment arrivés aux Ormes jumeaux en prétendant vouloir veiller à l'entretien de Noonfrost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Allez-y, fuyez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Quand Noonfrost a commencé à geler le lac, ma sœur Larha m'y a envoyée en éclaireuse." Elle regarde la pièce miteuse en fronçant les sourcils. "Mais un elfe pâle m'a capturée." 
+
+"Ce sont les elfes pâles qui sont responsables de tout ça. Ils sont récemment arrivés aux Ormes jumeaux en prétendant vouloir veiller à l'entretien de Noonfrost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je ne sais pas comment ils s'y sont pris, mais ils ont ouvert la Brèche taillée dans le givre à l'arrière du temple. Le domaine stérile de leur dieu gelé aspire la chaleur et la vie." Elle frissonne. 
+
+"Il faut absolument les arrêter avant que le froid ne se propage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"C'est dangereux. Attendez ici, je vais vous ouvrir la voie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Elle grogne et ses dents pointues scintillent. "C'est un clan d'Elfes pâles des Blanches étendues, des adeptes de Rymrgand. Du moins c'est ce qu'ils prétendent car leurs actes en disent long sur leurs intentions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Enseignez-moi ce que vous savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"J'ai convaincu les elfes pâles de vous laisser partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Elle bouge une oreille. "Ces sauvages ont entendu raison ? Vous avez dû être très convaincant." 
+
+Elle se précipite vers la sortie. À la porte, elle se retourne vers vous. "Merci, estramor. Faites bien attention à vous." Elle disparaît dans l'ombre.</DefaultText>
+      <FemaleText>Elle bouge une oreille. "Ces sauvages ont entendu raison ? Vous avez dû être très convaincante." 
+
+Elle se précipite vers la sortie. À la porte, elle se retourne vers vous. "Merci, estramor. Faites bien attention à vous." Elle disparaît dans l'ombre.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Elle se tourne vers la salle, les oreilles en avant. "Aussi vite que mes pieds me porteront." Malgré ses bras et ses jambes décharnés, elle se précipite vers la sortie. À la porte, elle se retourne vers vous. 
+
+Elle se précipite vers la sortie. À la porte, elle se retourne vers vous. "Merci, estramor. Faites bien attention à vous." Elle disparaît dans l'ombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Elle regarde la porte avec envie et frissonne à nouveau. "Je vous en prie, dépêchez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ils sont prêts à combattre avec leurs magiciens, leurs prêtres et leurs paladins. Le magicien qui est à leur tête s'appelle Glasvahl. Il est obsédé par la Brèche taillée dans le givre. Mes oreilles l'entendent à travers le mur. Il jette des sorts et invoque d'étranges pouvoirs. J'ignore ce qu'il veut, mais cela ne présage rien de bon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Comment allez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Très bien, grâce à vous. Et pourtant, Larha ne m'a pas laissé l'occasion de me reposer." Elle regarde une autre Orlane. "Ma sœur m'oblige à gagner ma vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Pouvez-vous me parler de la Brèche taillée dans le givre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Elle secoue la tête. "Pas vraiment. Ça a quelque chose à voir avec Rymrgand, la Bête de l'hiver. Personnellement, je crois en Galawain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Enfin libre ! Bon sang, mes jambes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous avez passé beaucoup de temps enfermée dans cette cellule glaciale, n'est-ce pas ? Vos membres ont besoin d'exercice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Alwah vous fait signe en souriant. Sa fourrure est maintenant lisse et soyeuse, et une lueur de malice brille dans son œil. 
+
+"Le fameux estramor. Je sais que vous combattez déjà comme une bête de Galawain, mais vous pouvez peut-être apprendre à vous mouvoir comme un de ses chasseurs."</DefaultText>
+      <FemaleText>Alwah vous fait signe en souriant. Sa fourrure est maintenant lisse et soyeuse, et une lueur de malice brille dans son œil. 
+
+"La fameuse estramor. Je sais que vous combattez déjà comme une bête de Galawain, mais vous pouvez peut-être apprendre à vous mouvoir comme un de ses chasseurs."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Alwah vous fait signe en souriant. Sa fourrure est maintenant lisse et soyeuse, et une lueur de malice brille dans son œil. 
+
+"Ravie de vous revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Elle rit. "À condition que vous puissiez suivre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_craft_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bonsoir, mon seigneur ! Puis-je vous intéresser dans quoi que ce soit ? Je vends de l'équipement de voyage. Je suis sûr que vous trouverez de nombreux usages pour un voyageur tel que vous."</DefaultText>
+      <FemaleText>"Bonsoir, ma dame ! Puis-je vous intéresser dans quoi que ce soit ? Je vends de l'équipement de voyage. Je suis sûr que vous trouverez de nombreux usages pour une voyageuse telle que vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Voyons ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Avez-vous besoin d'équipement, mon seigneur ? On n'est jamais assez préparé."</DefaultText>
+      <FemaleText>"Avez-vous besoin d'équipement, ma dame ? On n'est jamais assez préparé."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

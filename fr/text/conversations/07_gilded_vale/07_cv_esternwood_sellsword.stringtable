@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_esternwood_sellsword</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Halte là ! Quelle affaire vous mène dans l'Esternwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Est-ce le chemin qui mène à la forteresse de Raedric ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous gardez cette route ? Pour qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Oui. La forteresse de notre seigneur se trouve à l'est. Je vous préviens, il n'est pas du genre à supporter les intrus. Et il n'apprécie guère les ménestrels, si c'est votre activité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>La garde se tient un peu plus droit. "Nous avons prêté serment au seigneur Raedric, le dernier de sa lignée, thayn de la Vallée dorée et seigneur des terres que vous foulez." Il arbore un sourire narquois. "Celui aux poches profondes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pouvez-vous me parler de la forteresse de Raedric ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je pourrais. Si je le voulais." Le gardien rit de sa propre blague. "Et si j'étais dans la position de vous en parler. Une position confortable. En comptant mes pièces de cuivre." Il sourit faiblement. "Disons, 50 pands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Il hausse les épaules. "Faites comme vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Donnez 50cp.] "Voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je ne pense pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ce sont mes affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Le garde regarde autour de lui avec une précaution affectée avant de prendre vos pièces. "Très bien. Que vouliez-vous savoir sur la forteresse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Le garde pose une main sur le pommeau de sa lame. "Pas ici, non. Personne ne passe sans la permission du seigneur Raedric. Je vous repose la question - Que venez-vous faire dans l'Esternwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Qu'est-ce que c'est ? Je pensais que nous, euh, trouverions un accord mutuel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oui ? Qu'y a-t-il encore ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Mon affaire consiste à abattre les mercenaires fouineurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous êtes un malin, n'est-ce pas ? Mais vous ferez moins le malin avec quelques trous dans votre tête." Le garde siffle sèchement son camarade et s'avance vers vous.</DefaultText>
+      <FemaleText>"Vous êtes une maline, n'est-ce pas ? Mais vous ferez moins la maline avec quelques trous dans votre tête." Le garde siffle sèchement son camarade et s'avance vers vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je suis venu présenter mes hommages au seigneur Raedric."</DefaultText>
+      <FemaleText>"Je suis venue présenter mes hommages au seigneur Raedric."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"D'accord." Le garde vous regarde d'un air méfiant. "Faites comme vous l'entendez, alors. Mais notez bien que si vous avez en tête de créer des problèmes, vous allez vous retrouver à moisir dans le cachot pour le reste de vos jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Halte là, si- par les seins d'Hylea, que diable êtes-vous ?"</DefaultText>
+      <FemaleText>"Halte là, ma- par les seins d'Hylea, que diable êtes-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vous êtes loin de chez vous, pour sûr. Quelle affaire vous mène dans l'Esternwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Parlez-moi du seigneur Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"La forteresse est-elle lourdement défendue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Comment puis-je voir le seigneur Raedric ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je ne fais que passer. Je ne cherche pas d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le garde vous toise de la tête aux pieds, avec une expression suspecte, puis hoche sèchement la tête. "Alors vous feriez mieux de repartir vers l'ouest. La forteresse du seigneur Raedric est à l'est d'ici, et il n'a aucune patience envers les intrus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Le gardien secoue la tête. "Impossible. Il y a eu un... incident, à la forteresse. En tous les cas, il a doublé la garde et donné des instructions à tout le monde de refouler tout visiteur. Je suppose que vous en faites partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Comme je disais... Une petite pièce peut octroyer beaucoup. Alors cinquante pands..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je n'avais pas d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous trahiriez votre seigneur pour une poignée de pièces ? Je devrais informer le seigneur Raedric de la légèreté de votre loyauté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hé attendez, rien de tout cela. Je ne suggérais rien du tout." Le garde regarde son camarade avec nervosité. "Vous ne pouvez pas voir le seigneur Raedric comme ça. Il ne reçoit aucun visiteur." Il renifle. "Alors, il n'y a pas de mal, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Waiting on some lore from Rob]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Bien sûr. Vous auriez besoin d'une armée pour prendre la forteresse. Et vous seriez dingue de l'envisager dans un premier temps. Le seigneur Raedric a recruté les lames les plus fines que l'argent peut acheter, et il les a placées en surveillance constante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"D'accord. Alors je retourne à la patrouille. Vous feriez mieux d'avancer aussi. La Vallée dorée a beaucoup à offrir." Il pointe la route vers l'ouest. "Et c'est par là."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

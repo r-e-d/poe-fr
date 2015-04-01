@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_raedric</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Laissez-le approcher." Flanqué de ses gardes, qui vous regardent avec animosité, le seigneur Raedric VII, vêtu d'une armure ornementée, vous observe depuis son trône. Son regard est lointain et la pâleur de son visage décharné contraste avec ses cheveux sombres et ébouriffés pour faire ressortir ses traits.</DefaultText>
+      <FemaleText>"Laissez-la approcher." Flanqué de ses gardes, qui vous regardent avec animosité, le seigneur Raedric VII, vêtu d'une armure ornementée, vous observe depuis son trône. Son regard est lointain et la pâleur de son visage décharné contraste avec ses cheveux sombres et ébouriffés pour faire ressortir ses traits.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Raedric hoche la tête. "Quelles nouvelles amenez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'ai beaucoup à faire, maintenant que ce problème est réglé. Mais sachez que vous avez des alliés à la Vallée dorée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Kolsc est votre cousin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"J'aimerais en savoir plus sur les Raedrics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je ne suis pas venu faire de grands discours. Je suis venu pour vous arrêter."</DefaultText>
+      <FemaleText>"Je ne suis pas venue faire de grands discours. Je suis venue pour vous arrêter."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"M'arrêter ? M'empêcher de sauver la Vallée dorée ? De faire ce qu'il faut pour lever la malédiction qui nous touche et soigner nos enfants ? Quel but servez-vous donc ?" Raedric ricane. "Non, vous voulez placer sur le trône un homme plus faible pour la simple raison qu'il le réclame et qu'il s'estime dans son bon droit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je trouverai Kolsc et mettrai fin à ses agissements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Kolsc est mort et le soulèvement avec lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Mort. Déjà ?" Un étrange sourire éclaire le visage de Raedric, qui dévoile ses dents dans une grimace de triomphe ou de peine. "Alors vous avez réussi là où de nombreux autres ont échoué. J'aimerais que mes capitaines soient aussi efficaces."
+
+"La Vallée dorée vous est redevable. Vous l'avez débarrassée d'un des plus grands obstacles à son rétablissement." Il laisse échapper un petit bruit amusé. "Et par la même occasion, vous m'avez débarrassé d'un frelon persévérant."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Misérable serpent." Raedric vous regarde avec mépris et se lève de son trône. "Une fois que je vous aurais décapité, peut-être que votre âme trouvera un réceptacle plus approprié, comme corniaud gémissant." Il dégaine sa lame. "Gardes. Tuez-le."</DefaultText>
+      <FemaleText>"Misérable vipère." Raedric vous regarde avec mépris et se lève de son trône. "Une fois que je vous aurais décapitée, peut-être que votre âme trouvera trouvera un réceptacle plus approprié, comme corniaud gémissant." Il dégaine sa lame. "Gardes. Tuez-la."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous n'êtes qu'un pion servant les desseins de Kolsc. Et il a de nombreuses raisons de vous cacher ses motivations. Je me demande si vous êtes conscient de ce que vous faites." Il vous observe avec une intensité féroce. "Ou de ce que vous pourriez accomplir, si vous étiez mieux informé."</DefaultText>
+      <FemaleText>"Vous n'êtes qu'un pion servant les desseins de Kolsc. Et il a de nombreuses raisons de vous cacher ses motivations. Je me demande si vous êtes consciente de ce que vous faites." Il vous observe avec une intensité féroce. "Ou de ce que vous pourriez accomplir, si vous étiez mieux informée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous êtes arrivé bien plus près de moi que ses gens l'ont jamais fait." Raedric regarde ses gardes, qui semblent nerveux. "Bien trop près." Il vous regarde de nouveau. "Une infiltration en douceur et avec bien plus de compétence que ce dont est capable Kolsc. Je ne m'y attendais pas."</DefaultText>
+      <FemaleText>"Vous êtes arrivée bien plus près de moi que ses gens l'ont jamais fait." Raedric regarde ses gardes, qui semblent nerveux. "Bien trop près." Il vous regarde de nouveau. "Une infiltration en douceur et avec bien plus de compétence que ce dont est capable Kolsc. Je ne m'y attendais pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Qu'est-ce que mon cousin vous a promis ? Une somptueuse récompense ? S'il était riche, il n'aurait pas besoin de convoiter ma fortune." L'expression de Raedric se durcit. "Et s'il avait un quelconque honneur, il n'aurait pas essayé de faire ça ici, maintenant, alors que j'ai tant perdu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous avez prouvé votre valeur, à votre manière. Si j'avais un allié comme vous, nous pourrions, ensemble, mettre fin aux maux de la Vallée dorée. Lever la malédiction une fois pour toute et ainsi retrouver une vie ne nécessitant plus de règles si… strictes."</DefaultText>
+      <FemaleText>"Vous avez prouvé votre valeur, à votre manière. Si j'avais une alliée comme vous, nous pourrions, ensemble, mettre fin aux maux de la Vallée dorée. Lever la malédiction une fois pour toute et ainsi retrouver une vie ne nécessitant plus de règles si… strictes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je suis prêt à vous écouter. Qu'avez-vous en tête ?"</DefaultText>
+      <FemaleText>"Je suis prête à vous écouter. Qu'avez-vous en tête ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oh oui… nous sommes affiliés, lui et moi. Il a été élevé dans ces murs, en fait. Il a eu droit à tous les privilèges que notre famille pouvait offrir. Mais un homme cupide veut toujours plus que ce qu'on lui donne, même si on lui donne énormément. J'étais le plus âgé, destiné à hériter de l'intendance de nos terres. Pas lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"L'Héritage a apporté le chaos, la panique et le désespoir. Kolsc en a tiré avantage pour créer la dissension dans nos rangs. Il a rallié à sa cause des hommes et femmes qui étaient loyaux. Des hommes et des femmes honnêtes."
+
+Le regard de Raedric se fait distant. Puis il se retourne vers vous et il retrousse les lèvres. "Au bout d'un moment, il a fui la forteresse pour se terrer dans la campagne, au-delà du village. Il joue à l'homme du peuple et essaye de gagner la faveur de la populace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Et pendant qu'il joue les conquérants, la Vallée dorée souffre. Les familles, les marchands, tout le monde. Je n'ai pas assez d'hommes pour garder les routes et nous défendre des incursions de Kolsc. Je deviens distrait et je dirige moins bien la région… ma famille…"
+
+Raedric prend une grande inspiration par le nez. "Je ne peux pas mettre en œuvre les efforts nécessaires pour nous débarrasser de la malédiction si je suis en permanence menacé par des complots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Les Raedrics ? Il ne reste que moi seul. Mais le nom Raedric est couvert de gloire. Nous sommes intendants de la Vallée dorée depuis des générations. Son peuple attend encore de nous conseils et protection. Avant, c'était pour se protéger des excès de l'Empire et maintenant des dangers émanants de Dyrwood." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"L'Héritage," dit Raedric dans un souffle. "Peu après la mort du Dieu éparpillé, l'Héritage de Waidwen a touché nos terres."
+
+Il secoue la tête. "Et avec lui, le désespoir. Comment pourrait-il en être autrement, alors que la malédiction nous prend nos enfants, notre espoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Raedric regarde la dague qui repose sur le trône. "Je ferai ce que je peux pour m'assurer que nous ne nous écartions plus de la voie. Mais il nous a fallu du temps pour débarrasser le village du dernier de ces cultistes. Du temps que Kolsc a mis à profit pour rassembler ses forces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Bien… bien. L'enjeu est trop important pour agir avec précipitation." Raedric se penche vers vous. "Soyez assuré qu'on entendra parler de l'aide que vous m'avez apporté à la Baie du défi."</DefaultText>
+      <FemaleText>"Bien… bien. L'enjeu est trop important pour agir avec précipitation." Raedric se penche vers vous. "Soyez assurée qu'on entendra parler de l'aide que vous m'avez apporté à la Baie du défi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous êtes en mesure de mettre rapidement un terme à cette rébellion. J'ai dépensé bien trop d'argent et d'énergies à essayer de m'occuper de Kolsc… et j'en ai payé le prix. Tuez-le, et je pourrais de nouveau porter toute mon attention sur ce fléau. Entre le prêtre et mon animancienne, nous arriverons à trouver un remède. Ma famille sera la dernière à être victime de cet Héritage." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Il a sans doute essayé de vous influencer avec ses mensonges dans l'espoir que vous vous rangiez à ses côtés. Il vous permettra de l'approcher afin d'achever de vous convaincre. C'est à ce moment que vous aurez votre opportunité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Le froncement de sourcils de Raedric s'intensifie, mais il hoche simplement la tête. "Qu'il en soit ainsi." Raedric se lève de son trône et, autour de lui, ses gardes prennent des postures de combat. "Puisse le Dieu jumelé prendre votre âme fragmentée en pitié et l'éparpiller à tous les vents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Attaquez.] "Vous ne m'avez pas convaincu. Défendez-vous."</DefaultText>
+      <FemaleText>[Attaquez.] "Vous ne m'avez pas convaincue. Défendez-vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Bien." Raedric se renfonce dans son siège. La victoire semble lui avoir ôté une partie de ses forces et son visage affiche maintenant une expression de fatigue hagarde. "Vous n'aurez pas à chercher loin. Son campement se trouve dans la campagne au-delà de la Vallée dorée. Ses éclaireurs surveillent les routes et l'avertissent quand mes forces approchent, mais cela ne devrait pas vous arrêter. Occupez-vous de lui et revenez. Vous recevrez une récompense appropriée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Attaquez] "J'ai changé d'avis. Finissons en maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Il n'est pas dans les habitudes de Kolsc d'engager des mercenaires." La voix de Raedric est éraillée. Il vous regarde fixement. "Ou des étrangers, d'ailleurs. Et vous n'êtes pas un de mes gens." Il vous gratifie d'un sourire sinistre qui révèle ses dents blanches. "Je ne peux donc pas vous accuser de trahison." Il pose la main sur la poignée de sa dague, comme pour s'assurer qu'elle est encore là, puis l'écarte. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"La Vallée dorée a assez souffert à cause de vous. Elle mérite un meilleur dirigeant." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ce n'est pas Kolsc qui m'envoie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Raedric pousse un petit soupir d'incrédulité. "Et vous croyez que Kolsc est ce dirigeant ? Que comprend-il à la fonction de thayn ? Il a réuni une petite troupe de fermiers illettrés et de pillards et il les envoie en missions suicides contre mes gardes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je ne parlerais pas d'honneur, si j'étais vous. J'ai vu le corps sur votre lit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ce n'est pas lui ? Ou bien vous jetez son nom à mes pieds dans l'espoir que je vous épargne ?" Raedric ricane. "Il compte sur vous dans tous les cas. Vous êtes, dans le pire des cas une distraction, dans le meilleur un tueur compétent… tant qu'il peut utiliser votre présence à son avantage."</DefaultText>
+      <FemaleText>"Ce n'est pas lui ? Ou bien vous jetez son nom à mes pieds dans l'espoir que je vous épargne ?" Raedric ricane. "Il compte sur vous dans tous les cas. Vous êtes, dans le pire des cas une distraction, dans le meilleur une tueuse compétente… tant qu'il peut utiliser votre présence à son avantage."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Le visage de Raedric s'assombrit soudain sous le coup de la furie. "Vous ne savez pas de quoi vous parlez ! Les blasphèmes qui sont sortis de sa bouche… sont la raison pour laquelle elle a mis au monde une chose morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"La loi de la Vallée dorée est la même pour tout le monde. Aucun ne peut y échapper. Ygrid a reçu une juste sentence, peu importe son titre ou ce qu'elle représentait pour moi. Quel qu'en soit le coût… Vous… vous ne savez pas de quoi vous parlez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Il se délecte de telles opportunités et, tout en restant dans l'ombre, frappe où il peut. Kolsc n'a pas le courage de régler le problème lui-même." Raedric vous désigne. "Il utilise donc des alliés plus puissants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tout comme vous êtes tombé, sans le savoir et sans comprendre ce qui était en jeu, en plein milieu des complots de mon cousin."</DefaultText>
+      <FemaleText>"Tout comme vous êtes tombée, sans le savoir et sans comprendre ce qui était en jeu, en plein milieu des complots de mon cousin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Peu m'importe lequel d'entre vous est sur le trône, tant que je suis payé."</DefaultText>
+      <FemaleText>"Peu m'importe lequel d'entre vous est sur le trône, tant que je suis payée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Attaquez] "Votre peuple mérite que justice soit faite. C'en est fini de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Raedric fait un geste de la main en direction de ses gardes. "Je suis généreux avec ceux qui me sont loyaux. Et si c'est l'argent qui vous motive, vous devriez prendre conscience qu'un thayn du Dyrwood est un bien meilleur allié qu'un prétendant à la fonction sans le sou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je peux vous offrir une récompense si vous mettez fin à cette rébellion. Je ne peux pas me permettre d'investir plus de ressources pour m'occuper de Kolsc. Il m'a bien trop pris. Tuez-le, et je pourrais de nouveau porter toute mon attention sur ce fléau. Entre le prêtre et mon animancienne, nous arriverons à trouver un remède. Ma famille sera la dernière à être victime de cet Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Et demain matin, vous serez un homme riche."</DefaultText>
+      <FemaleText>"Et demain matin, vous serez une femme riche."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je paie mes dettes. J'ai ici une épée qui est transmise dans ma famille depuis des générations. Elle est à vous. Puisse-t-elle vous servir dignement dans vos prochaines aventures." Raedric fait un geste en direction d'un garde. "Et, bien entendu, vous serez payé."</DefaultText>
+      <FemaleText>"Je paie mes dettes. J'ai ici une épée qui est transmise dans ma famille depuis des générations. Elle est à vous. Puisse-t-elle vous servir dignement dans vos prochaines aventures." Raedric fait un geste en direction d'un garde. "Et, bien entendu, vous serez payée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Maintenant..." Raedric baisse le regard. "À présent je vais enterrer ma femme et me tourner vers l'avenir. Nous avons beaucoup de travail à faire avant que la Vallée dorée ne soit sécurisée. Vous avez mes remerciements pour votre service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je savais que Berath ne permettrait pas de telles cruautés. À moins que nous ayons perdu sa faveur. Certains villageois s'accrochent encore à une fausse foi et vénèrent le dieu défunt. Ils le révèrent en secret, tout en sachant le prix que nous payons."
+
+"Ma propre femme… elle a persisté dans son hérésie, malgré moi. Et quand notre enfant est né, nous avons vu qu'aucun péché ne reste impuni." Sa mâchoire se crispe. "Aucun homme, aucune femme, personne n'échappe au jugement de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Qu'est-il arrivé à la Vallée dorée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"J'ai hérité de cette charge. Par mes vœux, par mon titre, aussi longtemps que je serai thayn, je ne tolérerai pas qu'on menace nos terres, que cette menace soit de nature mortelle ou spirituelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Et pendant qu'il joue les conquérants, Vallée dorée souffre. Les familles, les marchands, tout le monde. Je n'ai pas assez d'hommes pour garder les routes et nous défendre des incursions de Kolsc. Je deviens distrait et je dirige moins bien la région… ma famille…"
+
+Raedric prend une grande inspiration par le nez. "Je ne peux pas mettre en œuvre les efforts nécessaires pour nous débarrasser de la malédiction si je suis en permanence menacé par des complots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"J'ai hérité de cette charge. Par mes vœux, par mon titre, aussi longtemps que je serai thayn, je ne tolérerai pas qu'on menace nos terres, que la menace soit de nature mortelle ou spirituelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Raedric regarde la dague qui repose sur le trône. "Je ferai ce que je peux pour m'assurer que nous ne nous écartions plus de la voie. Mais il nous a fallu du temps pour débarrasser le village du dernier de ces cultistes. Du temps que Kolsc a mis à profit pour rassembler ses forces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Attaquez.] "Aucune excuse ne justifie ce que vous avez fait. Défendez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Attaquez.] "Voyons voir où l'honneur vous mène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Il aurait peut-être dû envisager ce genre de tactiques plus tôt. Vous n'avez fait qu'une bouchée de mes gardes." Il plisse les yeux. "C'était de bons et loyaux servants. Loyaux envers mon argent, si ce n'est envers moi. Ils méritaient un bien meilleur destin." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"C'est donc vous qui êtes responsable du chaos dans lequel se trouve ma forteresse. Je m'attendais presque à voir arriver une armée d'envahisseur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous avez prouvé votre force… même si c'est de manière assez malheureuse." Raedric fait un geste de la main en direction de ses gardes. "Je suis généreux avec ceux qui me sont loyaux. Et si c'est l'argent qui vous motive, vous devriez prendre conscience qu'un thayn du Dyrwood est un bien meilleur allié qu'un prétendant à la fonction sans le sou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je pensais qu'il serait plus bel homme, même avec toute cette consanguinité."
+
+Bien que son visage reste calme, vous remarquez que la main d'Edér s'avance vers son arme, comme si elle était douée de pensée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Edér grimace. "Même pas un petit peu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Même les mercenaires devraient se soucier des rois qu'il font. Les mains qui élèvent les fous au pouvoir sont plus souvent coupées que hissées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je ne sais pas, ce n'est pas un mal s'il y a quelqu'un pour l'empêcher de tuer tout le reste de ma ville. Même s'ils ne sont pas les meilleurs voisins ces jours-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ma loyauté est à vendre. Payez moi et je vous servirai pendant un moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Sur l'un des accoudoirs de pierre du trône se trouve une dague. Un fin ruisseau écarlate descend lentement le long de la lame et goutte au-delà des doigts de Raedric qui, penché en avant, vous transperce de son regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Désignez la dague.] "Que s'est-il passé ici ?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Qu'avez-vous perdu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Beaucoup." Raedric est silence un long moment. "La Vallée dorée connaît un véritable fléau. L'Héritage n'en est qu'une partie. L'autre partie est composée de la peur, de l'hérésie, de la perversion. Chaque incident isolé n'est qu'une étincelle, mais une fois rassemblés… ils forment un incendie qui nous détruira tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"L'Héritage rend les hommes fous. Ce qu'il fait aux femmes est peut-être pire. Je ne sais pas." Il pose brièvement son regard sur vous puis se retourne. "Ils se raccrochent à des promesses vides. À des choses sombres et terribles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Chaque mensonge entretient le feu, chaque murmure de charlatan gonflé d'orgueil et de sage-femme à langue de vipère, les paroles des faux prophètes, les promesses adressées aux dieux morts." Il ferme un poing ganté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"L'Héritage est une épreuve de foi. Il a fait sombrer de nombreux hommes dans la folie. Ils se raccrochent à des promesses vides, à des choses sombres et terribles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"…Le feu l'a consumée. Mon Ygrid." Raedric regarde la dague et sa voix vacille brièvement. "…et notre enfant avec." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Raedric tourne légèrement la tête pour regarder la dague. Son expression se fige soudain.
+
+"Une juste sentence." Sa voix défaille et, l'espace d'un instant, son visage est traversé d'une grimace de chagrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ygrid le savait. Elle m'a caché les prières, les symboles. Elle savait ce que j'en ferais. Le Dieu éparpillé a empoisonné son esprit contre moi. Il l'a rendu sourde à mes instructions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"C'est seulement quand notre fils est né… cette chose vide. Ce monstre… alors nous avons tous les deux su ce que ses crimes nous avaient coûté." Raedric vous regarde, l'air sinistre, la mâchoire crispée et le visage rouge sous le coup de l'émotion. "Je ne pouvais pas l'ignorer." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Il lève soudain une main à son front et se couvre le visage. "Qu'est-ce que Kolsc connaît au sacrifice ? Il se laisserait aller. Il nous laisserait succomber, l'un après l'autre, et subir le jugement de Berath, jusqu'à ce que la dernière âme rejoigne notre dieu à jamais et que la Vallée dorée ne soit plus qu'une terre stérile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ne jouez pas avec moi, étranger." La voix de Raedric est éraillée par le chagrin. "Je tenais plus à elle qu'à ma propre âme. Pensez-vous mieux vous en sortir si vous vous jouez de moi, sachant que j'attache moins d'importance à votre vie qu'à celle de mes chiens ?"</DefaultText>
+      <FemaleText>"Ne jouez pas avec moi, étrangère." La voix de Raedric est éraillée par le chagrin. "Je tenais plus à elle qu'à ma propre âme. Pensez-vous mieux vous en sortir si vous vous jouez de moi, sachant que j'attache moins d'importance à votre vie qu'à celle de mes chiens ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous êtes complétement fou si vous pensez que je vais collaborer avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vous avez tué votre propre femme et votre enfant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"J'ai exécuté la sentence moi-même. Vous auriez préféré que je la remette entre les mains d'un bourreau ? Dans le Dyrwood, on applique la justice nous-même." Raedric se rassied sur son trône, une main crispée sur l'accoudoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Et cette… chose. Cette aberration silencieuse, qui n'avait même pas assez de vie pour être tuer." Ses yeux sombres se plissent. "Gardez vos récriminations pour vous, étranger. J'ai fait mon devoir."</DefaultText>
+      <FemaleText>"Et cette… chose. Cette aberration silencieuse, qui n'avait même pas assez de vie pour être tuer." Ses yeux sombres se plissent. "Gardez vos récriminations pour vous, étrangère. J'ai fait mon devoir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Vous êtes complétement fou si vous pensez que je vais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Tous les tyrans méritent de mourir. Je viens me charger de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Le Dieu brillant est vivant et je suis l'outil de sa justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Les yeux de Raedric s'écarquillent et son pâle visage se tord en une grimace d'horreur mêlée de dégoût. "Vous… que quelqu'un comme vous ose entrer chez moi…!" Il se lève et tire son épée. "Gardes ! À moi ! Tuez ce chien infidèle !"</DefaultText>
+      <FemaleText>Les yeux de Raedric s'écarquillent et son pâle visage se tord en une grimace d'horreur mêlée de dégoût. "Vous… que quelqu'un comme vous ose entrer chez moi…!" Il se lève et tire son épée. "Gardes ! À moi ! Tuez cette chienne infidèle !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vous avez… reçu la faveur de Berath." Il vous dévisage ouvertement. "Vous êtes une preuve de sa présence parmi nous."
+
+"…Kolsc a-t-il changé d'avis ? S'est-il enfin tourné vers le Dieu jumelé et est-il revenu sur ses prétentions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"…Non. C'est… bien trop tard pour ça."
+
+"Il vous a acheté, alors. Un mercenaire ? Ou alors ses viles paroles ont trompé un autre étranger bien intentionné."</DefaultText>
+      <FemaleText>"…Non. C'est… bien trop tard pour ça."
+
+"Il vous a acheté, alors. Une mercenaire ? Ou alors ses viles paroles ont trompé une autre étrangère bien intentionnée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Et maintenant chacun complote contre l'autre. Toute cette intrigue me fait tourner la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"J'en suis sûr. Pour ma part, je n'en ai pas le goût... J'irais plutôt m'en occuper directement. Mais il n'a pas la trempe pour relever mes défis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Gardez vos belles paroles, elles ne m'émeuvent pas. Je mettrai un terme à cette querelle ici et maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"J'entends parler de temps en temps de vos actions. Vous faites honneur à votre nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Et même ainsi, je resterais prudent contre vos... indiscrétions. Ma gratitude s'arrête là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Mettez votre loyauté aux enchères, et vous la verrez utilisée et mis au rebut sans plus d'égard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Attention, [Player Name]. D'après ce que nous avons vu ici, il a tout l'air de vouloir prolonger l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

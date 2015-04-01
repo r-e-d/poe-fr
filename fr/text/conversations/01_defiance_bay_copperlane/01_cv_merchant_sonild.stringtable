@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_merchant_sonild</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La femme lève les yeux alors qu'elle polit un poignard. "Je ne vous ai jamais vu auparavant. Vous faites partie d'un corps expéditionnaire ?" Elle lève un sourcil. "Ou bien misez-vous sur une des expéditions ?"</DefaultText>
+      <FemaleText>La femme lève les yeux alors qu'elle polit un poignard. "Je ne vous ai jamais vue auparavant. Vous faites partie d'un corps expéditionnaire ?" Elle lève un sourcil. "Ou bien misez-vous sur une des expéditions ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Alors la nature sauvage n'a pas encore eu raison de vous." Elle sourit. "C'est bon de vous revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Depuis combien de temps travaillez-vous au Repaire d'Admeth ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Elle se repose sur le comptoir et tapote avec ses doigts. "Oh, quelques années. J'a commencé juste après le départ du dernier marchand." Elle hoche la tête vers la partie principale du hall. "Avec de nouvelles expéditions partant chaque semaine, c'est un excellent endroit pour les affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"En route pour une expédition ? Écoutez, en voyant que vous êtes si bien avec les Douzaines, j'ai un prix spécial pour vous sur mon stock. Vous voulez y jeter un œil ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Puis-je acheter quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"J'ai bien peur que non. Voyez, les Douzaines ne font des affaires qu'avec moi tant que je ne fais des affaires qu'avec eux. Et ce sont de bons clients." 
+
+Elle lance son pouce vers la porte. "mais si vous étiez dans les bonnes grâces d'Osric, il pourrait faire une exception pour vous. Il doit probablement entraîner certaines des nouvelles recrues en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Et les Douzaines sont des amis loyaux, et des clients loyaux, du moment que vous êtes à leurs côtés." 
+
+Elle touche le comptoir. "Le vendeur qui était là avant moi, ils l'ont mis dehors quand il a vendu ses meilleurs casques à une paire de Chevaliers du Creuset. J'ai fait bien attention depuis de ne pas commettre la même erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Parlez-moi des expéditions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ce sont des groupes d'aventuriers qui partent dans la nature. Un certain nombre d'entre eux tentent leur chance en fouillant les ruines. La plupart d'entre eux reviennent les mains vides... s'ils reviennent, du moins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Miser sur eux est presque aussi risqué qu'y aller réellement. Mais c'est comme ça que les expéditions sont financées, et de temps en temps, une des compagnies d'aventuriers décroche le gros lot et fait de ses sponsors des hommes riches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Quel désastre là dehors." Elle secoue la tête. "Pourtant, je ne peux pas dire que cela a nui aux affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

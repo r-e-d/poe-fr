@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_bs_monk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le moine secoue la tête en silence, en mettant un doigt sur sa bouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le moine hausse les épaules et fait un signe en direction du grand moine.</DefaultText>
+      <FemaleText>Le moine hausse les épaules et fait un signe en direction de la grande moniale.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

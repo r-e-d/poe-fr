@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1003_cv_thulgar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sous la lueur orangée des torches, une énorme créature est assise au fond de cette vaste chambre. Une odeur âcre de sang et d'abats plane sur la pièce. Un souffle chaud et malodorant parvient jusqu'à vous lorsque l'ogre se lève en faisant voler la poussière sous ses pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"S'ils avaient su combien d'imbéciles s'aventureraient jusqu'à mon camp, je n'aurais pas été exilé." Sur ce, l'ogre vous examine attentivement. Son visage pâle et menaçant est couvert de sang séché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Mais cela fait si longtemps qu'ils se repaissent les uns des autres qu'ils ont perdu toute appétence même pour un simple [Player Race]." L'ogre se détourne. "Pas question que je m'engraisse pour être dévoré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Comment vous êtes-vous retrouvé ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Attaquez.] "Je vais vous tuer, espèce de monstre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ce n'est pas fréquent. Pas sans matrone pour nous réunir. Pour nous empêcher de nous quereller. Zolla était notre matrone. Et nous l'avons suivie dans la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nous chassions des Xaurips dans les cavernes, et nous les avons isolés dans celles du dessus. Nous pensions que cela suffirait, du moins pour un certain temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Cela aurait pu être le cas si les Xaurips n'étaient pas tombés malades. Mais leur poison nous a contaminés... Et Zolla ne nous laissera jamais partir, même si nous essayons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Qu'est-il arrivé à votre chef ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ferais mieux de m'en aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Attendez..." Thulgar vous regarde. "Vous devez être quelqu'un de fort pour vous aventurer dans ces cavernes. Il y a des créatures bien pires que nous ici." Il prend une profonde inspiration. "Vous seriez peut-être capable d'éliminer Zolla."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Matrone Zolla ?... Des rêves ont commencé à la hanter dès notre arrivée ici. De terribles rêves sur une chose qui vit dans les profondeurs. Elle était convaincue que nous ne devions pas nous y rendre." Thulgar baisse la tête. "Je lui ai dit que ce n'était rien. Du moins c'est ce que je croyais, jusqu'à ce que nous découvrions que les Xaurips étaient empoisonnés. Ce poison l'a changée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je devrais éliminer cette Zolla."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous manquez de nourriture ? Il n'y rien à manger ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nous vivons ici depuis tant d'années. Les cavernes ont changé autour de nous. Beaucoup d'anciens tunnels sont obstrués désormais, peut-être à cause des araignées. Au départ, nous nous nourrissions de Xaurips, et tout allait bien. Mais les Xaurips sont tombés malades. Empoisonnés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oui... Si vous pouviez vous en charger, nous serions au moins délivrés de cette folie. Qui sait combien de temps nous pouvons survivre ainsi, en nous dévorant mutuellement, jusqu'à ce qu'il n'en reste plus qu'un ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"J'ignorais que les ogres pouvaient vivre en groupe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Thulgar grogne. "Alors, c'est fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Partez.] "Je reviendrai bientôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Donnez-lui le torque de Zolla] "Zolla est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Thulgar inspire profondément. Il reste silencieux un bon moment. "Alors, c'est fait. Merci, [Player Race]. De toute façon, ce n'était plus ma matrone. Ce n'est pas de cette façon dont je me souviendrai d'elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tenez. Je n'en aurai pas besoin là où je vais. Faites-en bon usage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"J'ai quelques questions à vous poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Thulgar fronce les sourcils mais acquiesce. "Très bien. Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je n'ai plus d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je vais m'aventurer sur les marches et je verrai bien où elles me mènent. Peut-être à la mort. Peut-être pas. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Donnez-lui le torque de Zolla] "Zolla est morte. Je les ai tués, elle et ses guerriers, avant d'arriver ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Savez-vous quelque chose au sujet d'un certain « Maître des Profondeurs » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Thulgar vous regarde en fronçant les sourcils. "C'est comme ça que Zolla l'appelait... la voix qui hantait ses rêves. Après notre arrivée, nous avons commencé à souffrir de terribles visions. Parfois, nous sentions même une présence... Je n'ai pas pris ça au sérieux... jusqu'à ce que je l'entende à mon tour. Et puis, j'ai mis ça sur le compte du poison que nous absorbions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous avez été exilé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Pour être dévoré ? Par qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Non loin d'ici, au sud, vous découvrirez ce que nous sommes devenus. Nous étions jadis une douzaine, tous très forts, et aujourd'hui nous ne sommes plus rien. Notre chef a sombré dans la folie, à cause des voix, et notre clan en est réduit à dévorer ses congénères."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Le reste de mon clan. Le moment venu, ils viendront me chercher. Ils ne sont plus très nombreux, et agiront avant de ne plus avoir la force de me maîtriser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Je m'appelle Thulgar. J'étais autrefois le plus fidèle guerrier de Zolla. C'est une époque révolue..." L'ogre hausse les épaules. "Cela n'a pas d'importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Et moi, le lâche, j'attends la mort ici, tout seul. Plus facile à dire qu'à faire." Il désigne un tas d'ossements et de vêtements. "La faim a sa propre volonté, et matrone Zolla le sait très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nous ne sommes plus rien. Les autres suivent aveuglément notre matrone. Quant à elle, ma Zolla... ma reine... Elle a depuis longtemps sombré dans la folie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Certains d'entre nous ont continué à se nourrir de Xaurips, bien sûr, même en connaissant les risques. Il n'y avait rien d'autre. Ils sont morts dans d'atroces souffrances, mais rapidement. D'autres ont tenté de s'aventurer dans le grand escalier, à la recherche d'une issue. Mais Zolla nous a interdit de partir. Si nous ne trouvions rien à chasser, disait-elle, certains d'entre nous devraient se sacrifier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"J'ignore ce que lui disait la voix, mais elle est devenue dure et froide. C'est peut-être à cause de cette voix qui ne se taisait jamais, ni le jour ni la nuit. Ou bien à cause du poison qui rendait les rêves plus terribles encore... Il est peut-être plus difficile de reconnaître la folie chez ceux qui vous sont les plus proches. Mais j'aurais quand même dû m'en rendre compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Thulgar se lève, impressionnant, et s'empare de l'énorme gourdin posé contre le mur de la caverne. "Je ne peux pas mourir tant qu'elle est en vie. Un peu de viande fraîche renforcera peut-être ma détermination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Au départ, nous n'avons rien remarqué. Jusqu'à ce que nous commencions nous aussi à nous affaiblir. Certains d'entre nous, rendus fous par le poison, se sont transformés en véritables bêtes sauvages. Matrone Zolla, la plus forte d'entre nous... a longtemps résisté. Sa folie s'est lentement installée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je ne peux pas lever la main sur elle. C'est ma matrone. Et elle le restera éternellement. J'ai si souvent essayé de me convaincre de le faire. Je n'y parviendrais peut-être pas, mais je n'ai même pas le cran d'essayer. Même dans sa folie, elle me tient. Je vous en prie... faites-le pour moi. Apportez-moi son torque et je saurai que c'est enfin fini."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous avez de gros os, mais vous n'êtes pas bien gras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Hmm. Vous n'êtes pas une illusion. J'ai cru que mon imagination me jouait des tours en vous voyant sortir des ténèbres." Il secoue la tête. "Vous n'auriez pas dû venir, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous êtes cannibales ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Oui. Voilà à quoi nous en sommes réduits. J'y ai moi-même... goûté. Mais je ne m'en remettrai jamais. Je m'en souviendrai pour le restant de mes jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je vais m'en charger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je ne serai pas votre assassin. Faites-le vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Considérez ceci comme les dernières volontés d'un ogre déchu, [Player Race]. Faites cela pour moi, puisque j'en suis incapable, et je trouverai une récompense digne du service que vous me rendez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Dans ce cas, frappez fort. Elle n'hésitera pas à vous embrocher si vous échouez. Et si... si jamais c'est vous qui la terrassez, revenez me voir. J'aurai besoin de le savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Je ne peux pas. Et si vous ne l'arrêtez pas pour moi, dites-vous bien qu'un jour ou l'autre, elle et les nôtres s'en prendront à vous." Il secoue la tête. "Laissez-moi, [Player Race]. Si vous ne le faites pas, je dois trouver en moi le courage de m'en charger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Attaquez.] "Autant tous vous tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"C'est trop tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Et maintenant, vous voilà... Mais j'ignore qui est ce Maître. Je sais seulement que cette créature nous a empêchés de nous enfoncer plus profondément dans ces lieux. Zolla a refusé de nous conduire dans les profondeurs." Il grogne. "Vous l'y trouverez peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Thulgar fait un brusque signe de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Thulgar inspire profondément. Il reste silencieux un bon moment. "Dans ce cas, je dois vous remercier, [Player Race]. Vous avez fait ce que j'étais incapable de faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ce n'est pas de la gratitude que je ressens, mais... prenez quand même ceci. Je n'en aurai pas besoin là où je vais. Prenez garde, [Player Race], cet endroit n'a pas brisé que mes congénères."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je me souviendrai de Zolla telle qu'elle était autrefois... Je la reverrai peut-être dans une autre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Rapportez-moi son torque et je saurai que vous avez accompli votre mission. Et que notre clan a fini par disparaître."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ne vous cachez pas... Montrez-vous..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Alors partez, et n'oubliez pas ce que je vous ai demandé."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

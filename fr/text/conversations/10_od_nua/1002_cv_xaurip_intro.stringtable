@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1002_cv_xaurip_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous entrez dans une chambre, où règne une véritable cacophonie mêlant cris perçants, grognements et glapissements. Des Xaurips maculés de sang dansent en bondissant frénétiquement. Sur le côté, un Xaurip plonge ses mains dans un seau rempli de sang pour en barbouiller d'autres créatures impatientes de se joindre aux rituels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Au fond de la pièce, un Xaurip coiffé d'un long crâne de jeune drake et de plumes colorées agite en criant un bâton qu'il pointe en direction des Xaurips rassemblés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Le grand-prêtre lève soudain le bâton au-dessus de sa tête en hurlant avec une vigueur accrue. Il pointe son bâton vers le bas, en direction de la fosse... avant de vous désigner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je ne suis pas sûr d'approuver cette suggestion..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je crois qu'on nous invite à participer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

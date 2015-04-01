@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_imatl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Il vous montre l'objet dans sa main. C'est une grande opale ronde avec des runes engwithanes gravées dessus. Elle brille avec sa sueur. 
+
+"Vous voyez le vaisseau qui a coulé par là ? Je cherche quelqu'un pour m'aider à récupérer des marchandises disparues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Parlez-moi de cette marchandise disparue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Et qu'est-ce qui se passe si je retrouve le reste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Il se pourlèche les lèvres. "Nous sommes partis de l'Aube fraîche et nous cheminons le long de la rivière, chargeant et déchargeant comme nous sommes venus. Les affaires continuent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous retrouvez les pièces manquantes de l'artefact, et j'ai une amie animancienne, rencontré lors de mes aventures passées, qui vous donnera un tas de pièces de cuivre." Il se gratte la barbe. 
+
+"Tout ce que je réclame, c'est cent pands pour compenser ma journée perdue. Si vous trouvez cela équitable, je vous donne cette pierre et le nom de mon contact une fois que vous avez tout le reste."
+
+Imatl regarde à nouveau l'opale. "En voyant le gamin draguer cette pierre dans son filet, je parie que vous pourriez probablement retrouver les morceaux manquants dans les hauts-fonds à marée basse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Le vieux matelot lève les yeux dans votre direction. "De retour pour une dose de brise marine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Imatl frotte un pouce calleux sur les runes de l'opale. "Est-ce à propos du sceptre brisé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je cherche encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Il secoue la tête. "La Fille salée n'est pas du genre à lâcher facilement un trésor, c'est sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je pense que j'ai déjà trouvé certains des morceaux manquants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Avez-vous une idée de ce que votre amie animancienne veut avec cette relique ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Elle bricolait toujours avec ces pierres quand nous étions jeunes. Je pensais qu'elle était un peu folle, se retirant dans une pièce poussiéreuse à Brackenbury, mais après cette horreur sur le bateau, je pense qu'elle a plutôt fait le bon choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Un vieil homme passe sur le quai et contemple l'eau. Il agite quelque chose de grand et de rond, qu'il fait passer constamment d'une main à l'autre. 
+
+Vous n'êtes pas certain si sa stupeur traduit la surprise ou la peur. Lui non plus d'ailleurs. "Vous, euh, ne ressemblez pas à un garde..." Il vous examine vous et votre équipement, plus attentivement. "Dites, ça vous dirait de vous faire un peu d'argent facilement ?"</DefaultText>
+      <FemaleText>Un vieil homme passe sur le quai et contemple l'eau. Il agite quelque chose de grand et de rond, qu'il fait passer constamment d'une main à l'autre. 
+
+Vous n'êtes pas certaine si sa stupeur traduit la surprise ou la peur. Lui non plus d'ailleurs. "Vous, euh, ne ressemblez pas à un garde..." Il vous examine vous et votre équipement, plus attentivement. "Dites, ça vous dirait de vous faire un peu d'argent facilement ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Auriez-vous vu un garçon de nom de Derrin par ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je le vois souvent quand je suis dans le port." Il hoche la tête vers le bateau à demi coulé. "C'est lui qui a trouvé l'opale. Un bon petit gars, malgré ce fainéant de père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Fainéant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Une idée de l'endroit où Derrin pourrait se trouver à présent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Un air renfrogné traverse son visage buriné. "Plus souvent soûl qu'autre chose, et une piètre compagnie quoi qu'il en soit. Il dépense le peu d'argent qu'il a au Mât salé alors qu'il a des bouches à nourrir, et il pense encore que sa fille sans-âme est la malédiction de la famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Il fronce les sourcils. "Ce garçon adore les bateaux. Il joue probablement aux pirates avec les marins. S'il n'a pas embarqué clandestinement avec la marchandise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Merci pour ces informations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Si vous voyez ce petit, vous lui dites que le vieil Imatl se souvient du marché. Je lui dois un panier de moules pour avoir trouvé cette opale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je n'ai pas le temps pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"C'est un morceau de ce sceptre. Si je me souviens bien, il y avait trois autres morceaux et je vous parie n'importe quoi qu'ils sont aussi quelque part dans les hauts-fonds. Si quelqu'un les trouvait, il y aurait du bénéfice à se faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Comment vont les affaires ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Il crache dans l'eau. "Je serais heureux de naviguer avec des capitaines qui font plus attention à ce qu'ils transportent. Je n'ai que faire des lois anti-contrebande du duc, mais je suis trop vieux pour combattre des horreurs anciennes."
+
+Il prend une grande bouffée d'air iodé. "Je veux juste profiter de mes vieux jours avec un travail honnête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"J'ai déjà trouvé les morceaux manquants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"C'est pas vrai ?" Il hausse les épaules. "Eh bien, ils en vaudront bien plus si vous pouvez trouver le reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Ses sourcils se lèvent en pointe. "Vous voulez dire que vous avez terrassé ces monstres en armure ? Je ne sais pas comment..." Il secoue la tête.
+
+"Écoutez, si vous le voulez, je vous donnerai le dernier morceau." "Il lève l'opale. "Et le nom de quelqu'un qui achèterait le tout. Tout ce que je veux c'est deux cents pands pour apporter le chargement ici. Vous êtes d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Il soupire. "Revenez si vous changez d'avis. Il semble que la Dame d'Élégie conserve le reste du sceptre pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Oui, j'ai trois morceaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"À propos de cette relique engwithane..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Oui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>DEBUG: Give all scepter pieces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Imatl contemple l'eau. "Avez-vous besoin d'autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"J'ai bien gagné ma journée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Parlez-moi de la Faveur d'Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Il gratte son crâne brûlé par le soleil. "Nous avons des quais, du poisson et un bon trafic maritime. Tout ça..." Il agite la main devant les baraques tassées les unes sur les autres. "Tout a poussé autour des quais. C'est le quartier le plus pauvre dans la Baie du défi, mais un des plus animés."
+
+Il sourit. "Et niveau animation, rien ne surpasse le Mât salé. Vous feriez mieux d'interroger un homme plus jeune que moi si vous voulez en savoir plus sur cet endroit." Il hoche la tête vers un grand bâtiment rond vers l'est.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"J'ai vu une de ces armures ambulantes, marchant toute seule. Elle était couverte de sang. Lorsqu'elle m'a vu, elle a commencé à courir vers la trappe. Alors je l'ai fermée." Il feme ses yeux du plus fort qu'il peut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Alors comment le bateau est-il arrivé ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Comment pouvez-vous enfermer vos équipiers dans les cales avec ces créatures ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Vous deviez empêcher ces monstres de sortir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Le reste de l'équipage était probablement mort de toute façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Imatl secoue la tête, ses yeux toujours fermés. "C'est ce que je continue à me dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Imatl se couvre le visage avec les mains. "Quel choix avais-je ? Je ne pouvais les combattre seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Il roule la pierre entre ses mains. "Je ne suis qu'un matelot, mais j'étais le dernier. J'ai piloté le bateau du mieux que j'ai pu, mais j'ai heurté des rochers en passant Brackenbury. J'ai difficilement atteint la Faveur d'Ondra avant de devoir sauter par dessus bord et nager vers les quais."
+
+"J'avais laissé tomber le chargement, sans parler du jour de paie, lorsqu'un des gamins a remonté ça dans ses filets." Il vous montre à nouveau l'opale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Il soupire. "Je prendrais n'importe quoi en ce moment précis."
+
+Il accepte votre argent et vous donne l'opale. Elle est encore chaude de ses mains. "Rendez-vous au sanatorium de Brackenbury et trouvez Nans. Elle en saura plus sur cet artefact, et je suis sur qu'elle en a déjà acheté à l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ces créatures que vous avez décrites semblent être des animats. Ils gardaient probablement la relique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Il doit y avoir une raison pour laquelle vous n'êtes pas allé chercher le reste de l'artefact par vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"En avez-vous parlé aux Chevaliers du Creuset ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Quoi qu'il en soit, ils ont découpé le reste de l'équipage comme des mannequins de paille. Je doute que l'eau salée les aura fait rouiller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Et admettre que je trafiquais des reliques ?" Il secoue la tête. "Je doute qu'ils m'arrêteraient, tout autant que je doute avoir ma part du gâteau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"J'ai eu de la chance d'avoir pu m'échapper de ce bateau. Je ne prends pas de risque avec ces choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Donnez 200 pc.] "Le marché est conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Vous voulez deux cents pands pour enfermer le reste de l'équipage dans les cales et couler le bateau ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Donnez-moi cette opale et le nom ou vous allez regretter que ces costumes d'armures ne vous aient achevé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Vous auriez dû périr avec le reste de ce bateau, espèce de vieux cabot pathétique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Prenez l'opale des mains d'Imatl.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Donnez 50 pc.] "J'ai bien peur de n'avoir que cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Écoutez, je..." Il frotte sa nuque brûlée par le soleil. "Et pourquoi pas cent ? J'essaye juste de tenir jusqu'au prochain boulot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Donnez 100 pc.] "Ça marche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Donnez 50 pc.] "J'ai bien peur de n'avoir que cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Il accepte votre argent et vous donne l'opale. Elle est encore chaude de ses mains. "Rendez-vous au sanatorium de Brackenbury et trouverez Nans. Elle en saura plus sur cet artefact, et je suis sûr qu'elle en déjà acheté à l'équipage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Il pousse l'opale, encore chaude de ses mains, dans les vôtres. "Prenez-la." Sa bouche se flétrit dans un air renfrogné. "Et cherchez Nans au sanatorium de Brackenbury."
+
+Il se retourne. "Maintenant laissez-moi seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Rendez-moi ça !" Il s'avance pour prendre la pierre, perdant son équilibre et tombant au sol. Alors qu'il se relève, il vous fusille d'un regard renfrogné. "Gardez-la alors. Mais vous n'obtiendrez rien d'autre de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Imatl vous regarde de travers et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Imatl ne sonne pas dyrwoodan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Vous devriez le savoir, n'est-ce pas ? D'après votre accent, vous me semblez être également originaire des plaines d'Ixamitl. Elles sont juste un autre genre d'océan quand on y pense. Les lieux où vous pouvez vous installer et ne rien voir à l'horizon sinon le vent onduler dans l'herbe."
+
+Il regarde le clapotis des vagues contre le bateau échoué. "Et c'est peut-être la manière des dieux de nous dire que nous n'aurions jamais dû prendre la mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"C'est précisément parce que ce n'est pas le cas ! Je viens des plaines d'Ixamitl, une grande savane au nord de Dyrwood. Pas si différente de l'océan, d'une certaine façon; Il y a des endroits où vous pouvez vous installer, faire un tour sur vous-même et ne rien voir à l'horizon sinon le vent onduler dans l'herbe."
+
+Il regarde le clapotis des vagues contre le bateau échoué. "Mais dans un moment comme celui-ci, je me demande ce qui peut pousser un homme des plaines comme moi à prendre la mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Il referme sa main autour de l'opale avec une poigne très intense. "Nous étions presque à la Baie du défi lorsque les cris ont commencé. J'ai eu mon lot de bagarres, mais c'était différent. J'étais à l'étage avec le capitaine, mais lui et son second sont descendus sur les ponts inférieurs pour comprendre quelle était toute cette agitation. Comme ils ne remontaient pas, je suis allé voir dans les cales." Il frémit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Il masse l'opale dans sa paume moite. "Lorsque nous avons atteint le refuge d'Eina, on a comme qui dirait... accepté d'embarquer quelques caisses d'un endroit nommé Clîaban Rilag. Quelques gars ont jeté un œil à la cargaison. Ils virent des armures et un sceptre brisé." Il hausse les épaules. "Je ne sais pas pourquoi on voudrait n'importe quoi de brisé, mais ces animanciens vous achèteraient des chaussettes sales si vous leur disiez qu'elles viennent des ruines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Je suis à court d'argent en ce moment. Je reviendrai plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"De retour pour le dernier morceau du sceptre ? Je cherche toujours à le vendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Que s'est-il passé exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Racontez-moi ça dans les grandes lignes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Nous avons ramassé des caisses de Clîaban Rilag. Des armures et un sceptre brisé d'après ce que j'ai entendu. Nous étions presque à la Baie du défi lorsque l'armure est venue à la vie et a massacré tout le monde dans la cale."
+
+Il évite votre regard. "Alors j'ai bloqué la trappe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Avez-vous vu quelqu'un venant d'ici portant un grand coffre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Maintenant que vous me le dites, oui." Il pointe vers l'est. "Ils venaient de cette direction. Ils n'auraient jamais pu aller très loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Hiravias fait trois clins d'œil, son visage se tordant encore plus à chaque fois. "Alors... complicité et incitation au pillage des trésors engwithans ? Le véritable crime c'est que je ne sois pas autorisé à lui arracher les poumons à travers son nombril !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Vous les avez vus ? Grouillant sur les quais, recherchant les Chevaliers du Creuset. Je les ai vus tomber sur une patrouille comme un stelgaer sur un cerf." Il ferme les yeux en grimaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

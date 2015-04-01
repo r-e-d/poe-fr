@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_odda</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La femme a l'air de ne pas avoir dormi depuis plusieurs jours. Ses cheveux ne sont qu'un amas entremêlé, et ses yeux sont creusés par les cernes. Elle lance un regard anxieux vers la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ses yeux s'agrandissent, quelque part entre l'espoir et l'appréhension. "Êtes-vous ici à propos de Derrin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Calmez-vous et commencez par le début."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je suis désolé, je vais partir."</DefaultText>
+      <FemaleText>"Je suis désolée, je vais partir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mon garçon, Derrin. Son père, Wayd, l'a emmené pêcher il y a deux jours, et je n'ai vu aucun des deux revenir. Les voisins ne me sont d'aucune aide et la garde de la ville ne prend pas la peine de s'intéresser à la Faveur ces temps-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je reviendrai si jamais je découvre quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je serais sur les quais à les chercher par moi-même si je ne devais pas m'occuper de mon bébé." Ses yeux se promènent jusqu'à un berceau et elle baisse la voix. "Je n'ose pas sortir un sans-âme, avec cette violence près de la maison close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Parlez-moi de leur disparition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Parlez-moi de Derrin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Parlez-moi de Weyd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Où les avez-vous vus en dernier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Le fantôme d'un sourire vacille sur ses lèvres. "C'est un brave garçon, même s'il est un peu trop intrépide. Mais il a toujours été un fils respectueux et un frère attentionné. Il a les cheveux bruns, des yeux vifs et le sourire facile. Lorsque vous le trouverez, vous le reconnaîtrez tout de suite, j'en suis sûre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Elle se renfrogne et balaie une mèche de cheveux gras de son visage. "Parfois je ne sais pas si je dois me réjouir ou regretter qu'il rentre à la maison aussi souvent.. Il passe le plus clair de son temps et de notre argent à boire à la maison close. Et n'a pas cessé depuis..." Son regard revient sur le berceau silencieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Weyd a emmené Derrin à la pêche sur les quais, il y a deux jours de ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je n'ai plus d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Qu'Ondra vous guide dans votre recherche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Odda ferme ses yeux fatigués, certainement pour la première fois en deux jours. "Je ne sais comment vous remercier. Je n'ai pas grand chose ces temps-ci, mais Ondra vous bénit pour tout ce que vous ferez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"C'est mon fils. Son père, Weyd, l'a emmené pêcher il y a deux jours, et je ne les ai pas revus depuis. Les voisins ne me sont d'aucune aide et la garde de la ville ne prend pas la peine de s'intéresser à la Faveur ces temps-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Avez-vous enfin retrouvé Derrin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je cherche encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Derrin a été assassiné. Je suis désolé."</DefaultText>
+      <FemaleText>"Derrin a été assassiné. Je suis désolée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Mentez] "Il est parti faire vers d'autres horizons. Un groupe de marins l'a vu embarquer sur un vaisseau vailien. Il a dit qu'il allait chercher une vie meilleure, loin de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Avez-vous besoin de quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'ai trouvé Derrin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Elle tourne son regard vers la dalle sale et ébréchée. "Cela... lui ressemble assez. J'aurais aimé qu'il dise au revoir." Elle contemple le sans-âme dans le berceau. "Pour autant, s'il peut trouver une meilleure vie, j'en suis heureuse. C'est ce que tout parent souhaiterait, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Les assassins de Derrin sont morts. Son âme peut trouver le repos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Sa bouche tremble en un sourire amer, et elle essuie une larme sur sa joue. "Au moins y a-t-il une justice contre les malfaisants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Odda se tourne vers l'enfant immobile dans le berceau. Ses yeux sont couverts de rosée, mais sa bouche est figée en une ligne ferme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Mon pauvre garçon..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Les yeux d'Odda sont brillants, et ses joues rougeâtres et mouillées. "Weyd m'a appris ce qui est arrivé à notre fils." Elle renifle et essuie ses larmes. "J'ai failli le flanquer dehors. Et c'est encore possible. Mais il jure qu'il sera un meilleur père pour celui-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"La mer soit louée ! Où est-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ce bon à rien m'a dit que notre fils est parti." Elle secoue la tête. "Et le voilà de retour à la maison close. Je ne peux qu'espérer que Derrin ait une meilleure perspective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Ses yeux s'agrandissent de soulagement et de reconnaissance. "Grâce aux dieux vous êtes là. Par les vagues d'Ondra, avez-vous trouvé Derrin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vous avez un bébé sans-âme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>La réponse est gravée sur son visage. "L'Héritage de Waidwen est aussi puissant dans la Baie du défi que n'importe où ailleurs. Les gens sont effrayés et ils cherchent quelqu'un à blâmer, qu'il s'agisse des femmes des maisons closes ou des familles de ces pauvres enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Elle soupire et regarde le berceau immobile. "Je n'approuve pas ce qu'il se passe chez Maea, mais ces attaques ne nous attireront pas la miséricorde des dieux. Et il n'a été que plus difficile de gagner sa vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ressaisissez-vous. Je n'ai à l'évidence aucune idée de ce dont vous parlez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Non, mais si je peux faire quelque chose, je le ferai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Je ne sais pas comment vous dire cela, mais il est parti. Je ne peux imaginer votre chagrin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous devriez vous asseoir. Derrin ne reviendra pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>La bouche d'Odda tombe grande ouverte et elle regarde fixement sous le choc. "Mon garçon est mort ? Ce... n'est pas possible. Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Derrin défendait une des prostituées contre quelques voyous. Il était très courageux et vous pouvez en être fière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Il a croisé deux hommes dangereux près de la maison close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Il a volé le poignard d'un homme. C'est pourquoi vous devriez apprendre à vos enfants à ne pas jouer avec les armes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Il est parti. Est-ce que des détails rendraient les choses plus faciles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Weyd l'a laissé seul. C'est de sa faute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Elle pleure et porte rapidement une main à sa bouche. Ses yeux brillent avec les larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Mon dieu, comment cela pourrait-il être plus facile ? Je n'aurais jamais laissé mon fils mourir pour une de ces... femmes. Et pourtant..." Elle s'étouffe dans sa manche. "Je ne peux que prier pour que les dieux soient plus cléments avec lui dans sa prochaine vie. Peut-être y a-t-il de l'espoir pour un de mes enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Après plusieurs secondes, elle ferme les yeux et déglutit. "Je suppose qu'il est préférable de connaître la vérité que de rester dans l'expectative. Merci de m'apporter au moins des réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Elle pleure et porte rapidement une main à sa bouche. Ses yeux brillent avec les larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Comment les dieux peuvent-ils être aussi cruels ?" Sa respiration se complique. "Comment... comment peut-on laisser subir cela à mon garçon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Sa respiration se resserre dans sa poitrine. Elle compresse ses yeux et se cache le visage dans une manche sale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Non, je... je ne pense pas." Elle renifle et essuie ses larmes sur ses joues. "Peut-être vaut-il mieux se souvenir de lui tel qu'il était. Jeune, heureux, et plein de vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Elle étouffe un hurlement dans sa manche. "J'ai repris cet homme tant de fois ! Je lui ai pardonné à chaque fois qu'il a vidé nos coffres, j'ai cru qu'il pourrait changer un jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous avez dit quelque chose à propos de Derrin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Elle regarde le bébé immobile dans le berceau. "Je ne sais pas si je le crois. Mais je suppose que je vais lui donner une chance. Je ne suis pas sûre d'avoir vraiment le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Il est mort. Vous attendiez-vous vraiment à autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"J'espère que Derrin trouve une meilleure vie dans les Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Tenez, prenez ça. J'ai mis de côté pour Derrin, mais il n'en aura plus besoin à présent. Et je doute que j'aurai un autre enfant à qui le passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Tenez, prenez ça. J'ai mis de côté pour Derrin, mais il n'en aura plus besoin à présent. Et je doute que j'aurai un autre enfant à qui le passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Êtes-vous ici à propos de mon garçon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Je ressens sa détresse... sa souffrance. Son esprit en est marqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Tant d'accusations infondées. Tant de blessures accumulées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"De tous les problèmes rencontrés par le Dyrwood, l'Héritage est le pire. S'il n'est pas réglé bientôt, il va déchirer le pays."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ce serait bien si un dieu ou deux pouvaient arriver et remettre les gens à leur place. Mais peut-être est-ce seulement mon avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

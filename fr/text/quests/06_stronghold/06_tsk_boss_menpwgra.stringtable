@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_menpwgra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Devŵen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez le menpwgra Devŵen et rapportez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la tête de Devŵen à Fyrgen le gardien à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un étrange culte de druides meurtriers est apparu autour de la menpwgra Devŵen. Le groupe utilise une caverne dans le Northweald comme base d'opérations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Un culte druidique s'est formé autour d'une menpwgra dans le Northweald. Je vais devoir trouver cette caverne et y tuer leur chef Devŵen. Sa tête servira de preuve de sa disparition. Sans Devŵen, le culte devrait disparaître de lui-même.
+
+
+Le culte druidique de Devŵen est basé dans la Caverne de Northweald. Je dois tuer Devŵen et prendre sa tête comme preuve de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Devŵen a été abattue, et je dois rapporter sa tête à Fyrgen le gardien au pavillon à Caed Nua pour recevoir ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réclamé la prime sur la menpwgra Devŵen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

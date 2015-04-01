@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_thug_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le garde lève une main à votre approche. "Vous pouvez faire demi-tour. L'étage du bas est ouvert, mais personne ne monte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pourquoi pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je vais là où je le souhaite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'est-ce qui se passe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Désolé. Je vais y aller."</DefaultText>
+      <FemaleText>"Désolée. Je vais y aller."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Il vous fusille du regard. "Parce que vous respirerez par de nouveaux trous dans le cou si vous vous aventurez là-haut, voilà pourquoi. Occupez-vous juste de vos affaires. Une fois que vous serez sous l'effet du svef, vous ne vous soucierez pas de l'endroit où vous êtes de toute façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Alors allez ailleurs," dit le garde, faisant rouler ses yeux. "Allez-y, monsieur le dur à cuire. Il n'y a rien là-haut de toute façon."</DefaultText>
+      <FemaleText>"Alors allez ailleurs," dit le garde, faisant rouler ses yeux. "Allez-y, madame la dure à cuire. Il n'y a rien là-haut de toute façon."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le garde secoue la tête. "Il y a toujours des petits curieux… À votre avis ? La chambre, tout ça. Des affaires privées. On n'a pas à fouiller dans l'intimité des gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Le garde hoche la tête sèchement. "Faites-vous plaisir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le garde soupire. "Comme j'ai dit, les étages sont hors limites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Donner 100 pc] "Une chance que vous regardiez de l'autre côté ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hors de mon chemin avant que je ne brise votre épée en deux et que je vous la fasse manger par les deux bouts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Parfait. Je vais y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Le garde plisse les yeux... puis prend l'argent. "J'apprécie beaucoup la vue de ce côté..." Il se tourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Le garde vous ignore ostensiblement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Le garde cligne des yeux et fait un pas en arrière. "C-Comme vous voulez. Bon sang. J'essaye juste de vous faire partir."</DefaultText>
+      <FemaleText>Le garde cligne des yeux et fait un pas en arrière. "C-Comme vous voulez. Bon sang, l'amie. J'essaye juste de vous faire partir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je vous avais dit de pas y aller !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Le garde se fâche en vous voyant mettre les mains dans vos poches. "Vous devriez garder ce que vous avez," dit-il, puis il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

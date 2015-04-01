@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\13_twin_elms_elms_reach\13_qst_true_to_form</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Transformation spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Examinez les tablettes en pierre des Sables ensanglantés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examinez les tablettes en pierre des Sables ensanglantés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Explorez l'Île des sépultures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examinez les tablettes en pierre des Sables ensanglantés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Trouvez un druide qui en sait plus sur le Stelgaer automnal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Hiravias, mon compagnon de voyage, a émis le souhait de parler aux druides qui vivent aux Ormes jumeaux et aux alentours.
+
+Hiravias n'est plus le bienvenu dans sa tribu en raison de la peur que sa transformation spirituelle, celle du Stelgaer automnal, suscite. Il apprécierait les conseils de druides perpétuant d'autres traditions, de préférence des traditions qui ne condamnent pas la créature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nous avons discuté avec Naca, une mystique des Sables ensanglantés. Malgré son manque de lucidité, elle semblait ressentir la présence de la forme spirituelle d'Hiravias.
+
+Elle a notamment indiqué que les tablettes en pierre situées aux Sables ensanglantés renfermaient des informations particulièrement utiles pour Hiravias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nous avons discuté avec Tamrwn, un Ovate du Bosquet des Ormes jumeaux. Il a senti le lien qui unissait Hiravias au Stelgaer automnal.
+
+À contrecœur, Tamrwn a suggéré que nous allions aux Sables ensanglantés afin d'examiner les tablettes en pierre renfermées dans cette grotte. Il a laissé entendre qu'elles contenaient des informations particulièrement précieuses pour Hiravias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Hiravias a pris connaissance de ce qui était gravé sur les tablettes des Sables ensanglantés. Il y était question du Stelgaer automnal envoyé pour tester la valeur des Anamfatha, d'épreuves au cours desquelles les perdants étaient dévorés par le stelgaer pour éradiquer leur faiblesse.
+
+Les tablettes indiquaient également que de nombreux Anamfatha rejoindraient l'Île des sépultures pour y être mis à l'épreuve par ces Stelgaers automnaux. Hiravias entend désormais explorer l'Île des sépultures dans l'espoir d'y trouver un de ces lieux de pèlerinage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nous avons discuté avec Naca, une Ethik Nôl des Sables ensanglantés, ainsi qu'avec Tamrwn, un Ovate du Bosquet doré. Ces deux druides étaient manifestement au courant de la transformation spirituelle d'Hiravias et ont suggéré que nous lisions les tablettes des Sables ensanglantés, en insistant sur le fait qu'elles étaient porteuses de la sagesse nécessaire à Hiravias pour mieux se connaître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Hiravias a révélé qu'il a été chassé de son cercle parce qu'ils considéraient sa forme spirituelle, le Stelgaer automnal, comme une abomination. Il veut en savoir plus et a le sentiment qu'un druide aux Ormes jumeaux pourrait l'éclairer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Hiravias a lu une tablette en pierre qui parlait de sacrifice humain, en comparant ce processus aux végétaux et animaux dont se nourrissent les bêtes et les gens. L'inscription a déconcerté Hiravias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nous avons trouvé une tablette en pierre qui parlait des chefs spirituels des Glanfathans jugés par le Stelgaer automnal. L'inscription indiquait que le Stelgaer tue les Anamfatha indignes, en détruisant leur âme au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Une des tablettes des Sables ensanglantés traitait, en termes sibyllins, de la division des âmes au fil du temps. Cette tablette indiquait également que la fusion des âmes autrefois issues d'une même source était garante de beaucoup de puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Nous avons découvert une tablette en pierre racontant les retrouvailles de deux hommes sur l'Île des sépultures et de leur réunion... après avoir été dévorés par un Stelgaer automnal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Hiravias a lu une tablette en pierre qui parlait de sacrifice humain, en comparant ce processus aux végétaux et animaux dont se nourrissent les bêtes et les gens. L'inscription a déconcerté Hiravias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Nous avons trouvé une tablette en pierre qui parlait des chefs spirituels des Glanfathans jugés par le Stelgaer automnal. L'inscription indiquait que le Stelgaer tue les Anamfatha indignes, en détruisant leur âme au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Une des tablettes des Sables ensanglantés traitait, en termes sibyllins, de la division des âmes au fil du temps. Cette tablette indiquait également que la fusion des âmes autrefois issues d'une même source était garante de beaucoup de puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Nous avons découvert une tablette en pierre racontant les retrouvailles de deux hommes sur l'Île des sépultures et de leur réunion... après avoir été dévorés par un Stelgaer automnal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Hiravias a lu une tablette en pierre qui parlait de sacrifice humain, en comparant ce processus aux végétaux et animaux dont se nourrissent les bêtes et les gens. L'inscription a déconcerté Hiravias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Nous avons trouvé une tablette en pierre qui parlait des chefs spirituels des Glanfathans jugés par le Stelgaer automnal. L'inscription indiquait que le Stelgaer tue les Anamfatha indignes, en détruisant leur âme au passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Une des tablettes des Sables ensanglantés traitait, en termes sibyllins, de la division des âmes au fil du temps. Cette tablette indiquait également que la fusion des âmes autrefois issues d'une même source était garante de beaucoup de puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Nous avons découvert une tablette en pierre racontant les retrouvailles de deux hommes sur l'Île des sépultures et de leur réunion... après avoir été dévorés par un Stelgaer automnal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nous avons rencontré Scathden, un autre druide capable de se transformer en Stelgaer automnal, sur l'Île des sépultures. Nous avons réussi à nous en aller et à échapper à un combat qui semblait pourtant inévitable. Hiravias ne peut pas lutter contre l'aversion de sa tribu pour sa transformation spirituelle, mais il a semblé ravi d'apprendre que tout cela était arrivé parce que Galawain l'avait 'doté' de plus de qualités qu'un simple chasseur...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Nous avons rencontré Scathden, un autre druide capable de se transformer en Stelgaer automnal, sur l'Île des sépultures. Les âmes de Scathden et d'Hiravias sont le résultat de la division de l'âme d'un même ancêtre et Scathden a insisté pour voir lequel des deux était le plus fort. Hiravias a relevé le défi et Scathden est mort. Hiravias a remercié Wael de l'avoir aidé à trouver quelques réponses. Il se sent mieux maintenant qu'il sait que sa condition est un 'don', même s'il est difficile à porter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nous avons rencontré Scathden, un autre druide capable de se transformer en Stelgaer automnal, sur l'Île des sépultures. Les âmes de Scathden et d'Hiravias sont le résultat de la division de l'âme d'un même ancêtre et Scathden a insisté pour voir lequel des deux était le plus fort. Hiravias a relevé le défi et Scathden est mort. Maintenant qu'il comprend que sa condition est un don, douloureux, Hiravias semble s'être réconcilié avec Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nous n'avons pas réussi à en savoir plus sur l'expérience de mort imminente d'Hiravias. Peut-être trouvera-t-il les réponses à ces questions lui-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Maintenant qu'Hiravias est mort, son histoire personnelle n'a plus que très peu d'importance.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

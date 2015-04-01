@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Allez voir Osric si vous cherchez à engager quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je me moque de savoir où les Douzaines m'envoient du moment qu'ils me paient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Continuez à avancer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'ai repéré un très bon contrat au Repaire. Cela me ferait vivre pendant des semaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je vous plais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qu'est-ce que ça serait bon de berner ces bâtards arrogants de Chevaliers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"C'est toi le bâtard qui a tué Osric !"</DefaultText>
+      <FemaleText>"C'est toi la salope qui a tué Osric !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tu es plus vil que cette petite merde de Penhelm."</DefaultText>
+      <FemaleText>"Tu es plus vile que cette petite merde de Penhelm."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

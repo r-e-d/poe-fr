@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_berath</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>168</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous vous agenouillez pour prier Berath. Vous avez les yeux fermés, mais vous voyez une route qui semble s'étirer à l'infini. Les étoiles tournent au-dessus de vous en disparaissant à votre gauche, à l'horizon, pour réapparaître à votre droite. 
+
+Vous essayez de distinguer quelques détails de part et d'autre de la route, mais vos yeux ne parviennent pas à faire le point. Au bout d'un moment, vous croyez voir une prairie tapissée de brume ainsi que les parois abruptes d'un canyon. L'espace d'un instant, vous voyez même des vagues lécher les bords de la route. Si vous pouviez traverser ce paysage changeant, vous êtes certain que vous reviendriez sur la route.</DefaultText>
+      <FemaleText>Vous vous agenouillez pour prier Berath. Vous avez les yeux fermés, mais vous voyez une route qui semble s'étirer à l'infini. Les étoiles tournent au-dessus de vous en disparaissant à votre gauche, à l'horizon, pour réapparaître à votre droite. 
+
+Vous essayez de distinguer quelques détails de part et d'autre de la route, mais vos yeux ne parviennent pas à faire le point. Au bout d'un moment, vous croyez voir une prairie tapissée de brume ainsi que les parois abruptes d'un canyon. L'espace d'un instant, vous voyez même des vagues lécher les bords de la route. Si vous pouviez traverser ce paysage changeant, vous êtes certaine que vous reviendriez sur la route.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous priez et vous retrouvez à nouveau sur la route avec les étoiles qui tournent au-dessus de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tandis que vous priez Berath, vous vous retrouvez à nouveau sur la route. 
+
+Au loin, vous apercevez une petite silhouette pâle qui vous attend. Au départ, vous pensez qu'il s'agit d'une nouvelle vision de l'archidruide Rehstin, mais vous remarquez la charpente squelettique de la silhouette ainsi que son rictus. L'homme se tient devant une autre porte en forme de crâne, mais qui cette fois permet de descendre au lieu de continuer tout droit. 
+
+Il vous fait signe d'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Trouvez Thaos à l'Ombre ensoleillée et ramenez les âmes dans le cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bank Node 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nos vieux amis, la Vie dans la mort et la Mort dans la vie. Nous sommes dans le royaume du Dieu jumelé dont voici les deux représentations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous vous souvenez de la porte de Clîaban Rilag et des deux statues sculptées dans la montagne voisine. L'une semble être un homme et l'autre une femme. Seule une fine couche de chair recouvre leurs corps squelettiques qui se contorsionnent pour faire face à la porte qui les sépare. 
+
+La porte, quant à elle, n'a rien à voir avec ce que vous avez vu dans les ruines. Il s'agit d'un crâne à la bouche béante et sans mâchoire. En l'examinant, vous avez l'impression que sa bouche s'agrandit. 
+
+Les bras des deux sculptures de pierre sont dirigés vers la bouche, comme s'ils vous invitaient à entrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Entrez dans la bouche du crâne.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Retournez-vous et partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>En vous retournant, vous découvrez le même décor à l'autre extrémité de la route : le crâne sans mâchoire flanqué de deux effigies squelettiques. 
+
+En les observant, vous remarquez que les sculptures tournent la tête vers vous. Leurs doigts bougent lentement pour vous faire signe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>La route se poursuit à travers la gueule jusqu'à un autre paysage changeant entouré d'étoiles. En le traversant, vous voyez au loin une porte identique près de laquelle se tient un nain immobile. 
+
+Vous vous retournez pour jeter un coup d'œil derrière vous et tombez face à face sur la porte en forme de crâne que vous venez de franchir. Une elfe attend sur la route. Comme le nain, elle est immobile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Les deux visages de Cirono, que nous appelons Berath." Elle frissonne légèrement et ses plumes se hérissent tandis qu'elle examine les statues avec appréhension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Approchez-vous du nain.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Approchez-vous de l'elfe.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Bewnen i Ankew et Ankew i Bewnen. Deux des plus anciennes représentations de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank Node 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hmm. Voilà quelque chose de familier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Edér glousse et secoue la tête. "Intéressant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank Node 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ne vous laissez pas intimider par les illusions du dieu de la mort, Gardien. Berath n'a aucune autorité sur nous, du moins pas encore."</DefaultText>
+      <FemaleText>"Ne vous laissez pas intimider par les illusions du dieu de la mort, Gardienne. Berath n'a aucune autorité sur nous, du moins pas encore."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Pallegina pousse un soupire d'agacement. "Ça suffit, Gardien. Nous n'allons pas pouvoir éternellement échapper à la mort."</DefaultText>
+      <FemaleText>Pallegina pousse un soupire d'agacement. "Ça suffit, Gardienne. Nous n'allons pas pouvoir éternellement échapper à la mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous poursuivez dans sa direction. À votre approche, il lève les yeux, mais vous ignorez s'il vous regarde ou s'il voit à travers vous. Son visage est lisse mais flasque, comme si sa peau s'était détachée de ses muscles. 
+
+En l'observant, vous constatez que son visage commence à changer. Des rides se forment au coin de ses yeux. Sa bouche pend en creusant de profondes rides du nez jusqu'au coin des lèvres. Ses bajoues s'affaissent, et la peau molle pend comme de la pâte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous vous dirigez vers elle. Sa posture n'est pas naturelle. Elle est trop immobile. 
+
+En vous rapprochant, vous constatez qu'un tronc effilé et des racines sinueuses ont remplacé ses jambes et ses pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Il lève les mains. Elles sont couvertes de sang. Il les porte à son visage ridé et se barbouille de sang, du front jusqu'au cou. À mesure qu'il enduit sa peau de ce fluide sombre et gluant, ses rides disparaissent. Les plis pendants reculent et sa chair se raffermit comme si elle adhérait à nouveau à son crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Il lève la tête et, cette fois, vous savez qu'il vous regarde. Son visage recomposé ressemble à un masque, artificiellement lisse et figé. Derrière ce masque, ses yeux noirs ressemblent à deux fosses avides, bâillant comme les bouches vides des crânes. 
+
+"Venez. Faites votre sacrifice aux Ethik Nôl." 
+
+Son corps vous barre le passage. Il tend une main ensanglantée vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Prenez sa main.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Attaquez-le.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Retournez-vous et fuyez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Vous lui saisissez la main, mais sa peau vous glisse entre les doigts. Puis vous entendez un bruit semblable au déchirement d'une toile séchée. 
+
+Sa peau se fissure le long d'une couture qui part du bras et s'étire sur toute la longueur de son corps. Du sang jaillit en abondance. 
+
+Après s'être vidé de son sang, le nain s'effondre comme une enveloppe desséchée. Le sang qui s'est répandu sur le sol luit sous l'effet de l'essence des milliers d'âmes qu'il renferme. L'essence s'évapore en laissant échapper des filaments étincelants dans le ciel nocturne. Maintenant qu'il est mort, vous pouvez enfin poursuivre votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Le sang forme une flaque à vos pieds. Vous levez les yeux et voyez l'elfe qui attend un peu plus bas sur la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Le sang forme une flaque à vos pieds. Une voix résonne sur la route, tel un murmure porté par la brise. "Ramenez-les à la Roue." 
+
+Vous levez les yeux et voyez la porte en forme de crâne devant vous. Les chandelles de Teir Evron vacillent à travers la bouche ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Vous attaquez et découvrez avec étonnement que sa chair cède facilement sous vos coups. Elle se déchire comme de la toile séchée le long d'une couture qui part du bras et s'étire sur toute la longueur de son corps. Du sang jaillit en abondance. 
+
+Après s'être vidé de son sang, le nain s'effondre comme une enveloppe desséchée. Le sang qui s'est répandu sur le sol luit sous l'effet de l'essence des milliers d'âmes qu'il renferme. L'essence s'évapore en laissant échapper des filaments étincelants dans le ciel nocturne. 
+
+Maintenant qu'il est mort, vous pouvez enfin poursuivre votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Le nain vous attrape pour vous empêcher de fuir. Vous vous débattez et il relâche son étreinte en produisant un son semblable au déchirement d'un morceau de toile séchée. 
+
+Sa peau se fissure le long d'une couture qui part du bras et s'étire sur toute la longueur de son corps. Du sang jaillit en abondance. 
+
+Après s'être vidé de son sang, le nain s'effondre comme une enveloppe desséchée. Le sang qui s'est répandu sur le sol luit sous l'effet de l'essence des milliers d'âmes qu'il renferme. L'essence s'évapore en laissant échapper des filaments étincelants dans le ciel nocturne. Maintenant qu'il est mort, vous pouvez enfin poursuivre votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Elle lève le visage vers un soleil invisible. Ses longs cheveux dorés ont la couleur des feuilles d'automne et en l'observant de plus près, vous constatez que sa tête est recouverte de vrilles et de lianes sur lesquelles germent des feuilles jaunes brillantes. Chacune d'elle est imprégnée de l'essence d'une âme entière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Elle vous adresse un sourire béat. En l'observant, vous constatez que les feuilles tombent lentement de sa tête avant de se poser sur ses racines, puis de se dissoudre dans le sol. De nouvelles feuilles germent ensuite à la place des anciennes. 
+
+Elle tend une main vers vous, toujours en souriant, tandis que des racines apparaissent au bout de ses doigts. Ses bras ouverts vous barrent le passage. 
+
+"Venez. Greffez votre âme au Bosquet doré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Prenez sa main.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Attaquez-la.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Retournez-vous et fuyez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ses racines s'enroulent autour de vos doigts avant de se rigidifier. Son bras ouvert se pétrifie, et elle découvre avec horreur que sa peau se transforme en écorce. 
+
+Vous vous éloignez d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Ses pieds sont enracinés dans le sol, mais elle se débat pour tenter d'échapper à son membre mourant. La pétrification atteint son épaule, puis se propage au reste de son corps qui se fige en formant un arc douloureux. Au moment où son cou commence à se rigidifier, elle lance son visage vers le ciel comme pour échapper à la noyade. 
+
+Son visage devient gris et son dernier souffle se fige. 
+
+Maintenant qu'elle est immobilisée là, sans vie, vous pouvez continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Seules les feuilles dorées qui recouvrent sa tête sont encore intactes, mais en les observant, vous remarquez qu'elles tombent une à une sur le sol où elles se recroquevillent lorsque l'essence scintillante les abandonne. 
+
+Une voix résonne sur la route, tel un murmure porté par la brise. "Ramenez-les à la Roue." 
+
+Vous levez les yeux et voyez la porte en forme de crâne devant vous, sur le chemin. Les chandelles de Teir Evron vacillent à travers la bouche ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Seules les feuilles dorées qui recouvrent sa tête sont encore intactes, mais en les observant, vous remarquez qu'elles tombent une à une sur le sol où elles se recroquevillent lorsque l'essence scintillante les abandonne. 
+
+Vous levez les yeux et voyez le nain un peu plus bas sur la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Avant que vous n'ayez le temps de vous enfuir, ses racines s'enroulent autour de votre épaule et se rigidifient. Son bras détendu se pétrifie, et elle découvre avec horreur que sa peau se transforme en écorce. 
+
+Vous vous éloignez d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous la frappez pour tenter de vous dégager de son étreinte, mais sentez alors sa peau se rigidifier. Son bras détendu se pétrifie, et elle découvre avec horreur que sa peau se transforme en écorce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Vous sentez quelque chose dans votre dos. Vous jetez un coup d'œil par-dessus votre épaule et voyez la Grande Ovate Erona enracinée sur place. Son corps est pétrifié, et les feuilles dorées qui composent sa chevelure tombent sur le sol. Une feuille portée par le vent vient effleurer votre joue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Vous vous dirigez vers elle. Sa posture n'est pas naturelle. Elle est trop immobile. En vous approchant, vous la reconnaissez. Il s'agit de la Grande Ovate Erona à laquelle vous avez déjà eu affaire. 
+
+Elle a été pétrifiée. Un tronc effilé et des racines sinueuses ont remplacé ses jambes et ses pieds. Sa chevelure dorée a disparu et sa tête est aussi nue d'un arbre en hiver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Vous poursuivez dans sa direction. En vous approchant de l'homme, vous reconnaissez le visage étrangement lisse de l'archidruide Rehstin. Au moment où il se retourne vers vous, son corps se fissure comme une vieille outre à vin en répandant un mélange de sang et d'essence sur le sol. 
+
+L'enveloppe vide de son cadavre s'écroule sur la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Vous levez les yeux et voyez la porte en forme de crâne devant vous, sur le chemin. Les chandelles de Teir Evron vacillent à travers la bouche ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Vous levez les yeux et voyez le nain un peu plus bas sur la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Le sang forme une flaque à vos pieds. Vous levez les yeux et voyez la porte en forme de crâne devant vous. Les chandelles de Teir Evron vacillent à travers la bouche ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Le sang forme une flaque à vos pieds. Vous levez les yeux et voyez l'elfe qui attend toujours un peu plus bas sur la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Vous entendez un déchirement. Vous jetez un coup d'œil par-dessus votre épaule et voyez le corps de l'archidruide Rehstin se fissurer comme une vieille outre à vin. Du sang et de l'essence se répandent sur le sol et l'enveloppe vide de son cadavre s'écroule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Vous voyez les deux silhouettes, le nain et l'elfe, qui attendent encore sur la route. Aucun ne s'est approché des portes en forme de crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>En vous retournant vers la route qui est devant vous, vous voyez le nain qui attend. Vous marchez vers lui et la terre se durcit sous vos pieds avant de se lézarder pour former des dalles. La lueur pâle des étoiles vacille, bientôt remplacée par celle des bougies. 
+
+Vous réalisez que la vision est terminée et que vous êtes de retour à Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>En vous retournant vers la route qui est devant vous, vous voyez l'elfe qui attend. Vous marchez vers elle et la terre se durcit sous vos pieds avant de se lézarder pour former des dalles. La lueur pâle des étoiles vacille, bientôt remplacée par celle des bougies. 
+
+Vous réalisez que la vision est terminée et que vous êtes de retour à Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous vous agenouillez pour prier Berath. Vous avez les yeux fermés, mais vous voyez une route qui semble s'étirer à l'infini. Les étoiles tournent au-dessus de vous en disparaissant à votre gauche, à l'horizon, pour réapparaître à votre droite. 
+
+Vous essayez de distinguer quelques détails de part et d'autre de la route, mais vos yeux ne parviennent pas à faire le point. Au bout d'un moment, vous croyez voir une prairie tapissée de brume ainsi que les parois abruptes d'un canyon. L'espace d'un instant, vous voyez même des vagues lécher les bords de la route. 
+
+Si vous pouviez traverser ce paysage changeant, vous êtes certain que vous reviendriez sur la route.</DefaultText>
+      <FemaleText>Vous vous agenouillez pour prier Berath. Vous avez les yeux fermés, mais vous voyez une route qui semble s'étirer à l'infini. Les étoiles tournent au-dessus de vous en disparaissant à votre gauche, à l'horizon, pour réapparaître à votre droite. 
+
+Vous essayez de distinguer quelques détails de part et d'autre de la route, mais vos yeux ne parviennent pas à faire le point. Au bout d'un moment, vous croyez voir une prairie tapissée de brume ainsi que les parois abruptes d'un canyon. L'espace d'un instant, vous voyez même des vagues lécher les bords de la route. 
+
+Si vous pouviez traverser ce paysage changeant, vous êtes certaine que vous reviendriez sur la route.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Derrière vous se tient une femme à la peau très pâle et aux cheveux noirs. Elle porte une armure si sombre qu'elle semble aspirer la lumière des étoiles. Derrière elle, la route serpente jusqu'au sommet d'une montagne. </DefaultText>
+      <FemaleText>Derrière vous se tient une femme à la peau très pâle et aux cheveux noirs. Elle porte une armure si sombre qu'elle semble aspirer la lumière des étoiles. Derrière elle, la route serpente jusqu'au sommet d'une montagne. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ça doit être le Portier." Aloth parle à voix basse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Le Portier... celui du Linceul. Il n'est pas là pour nous, j'espère. Je ne suis pas encore prêt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"... Et la Chevaleresse blême."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ah, et voici la Chevaleresse blême. Cette contribution sera plus élevée cette fois." Kana glousse nerveusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Suivez le Portier.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Payez la Chevaleresse blême.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Vous lui remettez quelques pièces de cuivre sur lesquelles elle referme le poing. Vous sentez instantanément un poids supplémentaire dans votre bourse. 
+
+"Le seigneur de cette route réclame une contribution à tout le monde. Mais il prête généreusement, afin que chacun puisse emprunter à nouveau cette route." 
+
+Derrière elle, le Portier attend en souriant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Il vous sourit, vous conduit dans la gueule du crâne, puis vous fait descendre un long escalier. La Chevaleresse blême vous suit de près. 
+
+La caverne vous paraît gigantesque. Le plafond inégal est couvert de moisissure. À cette distance, les perles brillantes ressemblent à des constellations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>L'archidruide Rehstin apparaît en-dessous de vous tel que vous vous souveniez de lui : le visage sévère et lisse. À chaque pas, il grandit, gonflant sous l'effet du sang et de l'essence. Ses pas lourds deviennent de plus en plus lents jusqu'à ce qu'il s'arrête. Son corps gonflé envahit tout le chemin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Thaos a piégé des milliers d'âmes pour Woedica. Je dois l'empêcher de lui conférer le pouvoir absolu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Pour obtenir des réponses. Il sait ce qui m'est arrivé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Pour me venger. C'est lui qui a infligé ce tourment à mon âme. Je le lui ferai payer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je cherche une issue. En l'affrontant, je mettrai fin à la douleur qu'il m'a infligé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Les réponses sont circulaires, Gardien. Pour les trouver, vous devez commencer par vous poser la bonne question." 
+
+La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "La question n'est pas de savoir ce que Thaos a fait, mais qui il sert."</DefaultText>
+      <FemaleText>"Les réponses sont circulaires, Gardienne. Pour les trouver, vous devez commencer par vous poser la bonne question." 
+
+La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "La question n'est pas de savoir ce que Thaos a fait, mais qui il sert."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "La seule issue consiste à tout recommencer de zéro. Une fin qui mène à un nouveau départ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "Mettriez-vous fin à sa vie pour l'envoyer dans une autre ? Thaos n'est que l'instrument de votre tourment. Son cycle est guidé par quelqu'un d'autre depuis des millénaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Thaos sert Woedica. Elle cherche à échapper à son propre cycle. Le pouvoir sans le déclin. Thaos a retiré des milliers d'âmes du cycle afin de puiser leur essence pour elle." 
+
+Les profondeurs noires de ses yeux menacent de vous engloutir. "Vous devez arrêter Thaos. Et vous devez les ramener dans le cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"À quoi cela servirait-il de renvoyer les âmes dans le cycle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Je ne vois pas ce que cela a à voir avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Pourquoi Woedica a-t-elle besoin de l'aide de Thaos ? Et pourquoi avez-vous besoin de la mienne ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Il faut sauver ces âmes. C'est une question de stabilité, Gardien. Il s'agit de maintenir l'ordre naturel du monde ainsi que les fluctuations d'essence."</DefaultText>
+      <FemaleText>"Il faut sauver ces âmes. C'est une question de stabilité, Gardienne. Il s'agit de maintenir l'ordre naturel du monde ainsi que les fluctuations d'essence."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Les dieux guident les âmes à travers le cycle de la mort et de la renaissance, mais Eora est le domaine des mortels. Nous sommes des poids et des contrepoids. Si l'on modifiait les marées des êtres civilisés, tout suivrait. Nous dévirions ce monde de son axe. 
+
+"C'est la raison pour laquelle Woedica utilise un mortel. D'où la nécessité d'utiliser également un mortel pour arrêter Thaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Thaos construit un barrage pour dévier l'eau d'un ruisseau. Le flot de milliers d'âmes va façonner le monde dans lequel vous vivez, Gardien. Cela façonnera également le monde dans lequel votre âme retournera lors de ses prochaines vies."</DefaultText>
+      <FemaleText>"Thaos construit un barrage pour dévier l'eau d'un ruisseau. Le flot de milliers d'âmes va façonner le monde dans lequel vous vivez, Gardienne. Cela façonnera également le monde dans lequel votre âme retournera lors de ses prochaines vies."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Je dois me rendre à l'Ombre ensoleillée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Aucun mortel ne peut survivre à la descente dans la fosse. Mais l'Île des sépultures abrite des âmes qui me sont dévouées. Je vais les mettre à votre disposition pour qu'elles vous guident et éclairent votre chemin." 
+
+Une foule apparaît à l'autre extrémité de la route. Leurs voix résonnent et leurs talons claquent à mesure qu'ils s'approchent de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"N'est-il pas possible de les ramener à l'état de sans-âme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Si Thaos a touché à ces âmes, il serait peut-être préférable de les détruire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Les cycles sont immuables et monotones. Il y a sûrement une meilleure alternative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Qu'il a-t-il de mal à ce que Woedica s'empare de ce pouvoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Si vous en savez tant, c'est qu'un autre dieu vous a déjà parlé et donné la moitié de la réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Vous savez que vous êtes plongé dans une vision, mais la terre semble ferme sous vos pieds et l'air nocturne est frais sur votre visage. Vous marchez. Vos pieds semblent vous porter d'eux-mêmes. 
+
+Quelque chose surgit devant vous. En vous approchant, vous voyez deux statues de pierre qui vous semblent étrangement familières.</DefaultText>
+      <FemaleText>Vous savez que vous êtes plongée dans une vision, mais la terre semble ferme sous vos pieds et l'air nocturne est frais sur votre visage. Vous marchez. Vos pieds semblent vous porter d'eux-mêmes. 
+
+Quelque chose surgit devant vous. En vous approchant, vous voyez deux statues de pierre qui vous semblent étrangement familières.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Vous savez que vous êtes plongé dans une vision, mais la terre semble ferme sous vos pieds et l'air nocturne est frais sur votre visage. Vous marchez. Vos pieds semblent vous porter d'eux-mêmes. 
+
+Au loin, vous apercevez une petite silhouette pâle qui vous attend. Au départ, vous pensez qu'il s'agit de l'archidruide Rehstin, mais vous remarquez la charpente squelettique de la silhouette ainsi que son rictus. L'homme se tient devant une autre porte en forme de crâne, mais qui cette fois permet de descendre au lieu de continuer tout droit. 
+
+Il vous fait signe d'approcher.</DefaultText>
+      <FemaleText>Vous savez que vous êtes plongée dans une vision, mais la terre semble ferme sous vos pieds et l'air nocturne est frais sur votre visage. Vous marchez. Vos pieds semblent vous porter d'eux-mêmes. 
+
+Au loin, vous apercevez une petite silhouette pâle qui vous attend. Au départ, vous pensez qu'il s'agit de l'archidruide Rehstin, mais vous remarquez la charpente squelettique de la silhouette ainsi que son rictus. L'homme se tient devant une autre porte en forme de crâne, mais qui cette fois permet de descendre au lieu de continuer tout droit. 
+
+Il vous fait signe d'approcher.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Deux entrées identiques permettent d'accéder à la grotte et vous suivez le Portier en direction de l'une d'entre elles. En arrivant au bord, vous découvrez une plaine infinie et en constante évolution traversée par une route. C'est alors que vous réalisez que vous n'êtes plus sur la route. 
+
+En suivant la route jusqu'au point où elle disparaît sous vos pieds, vous comprenez que vous vous trouvez sur l'une des orbites d'un immense crâne. 
+
+Le Portier désigne la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>La route pénètre dans la montagne et vous vous retrouvez dans une gigantesque caverne. Le plafond inégal est couvert de moisissure. À cette distance, les perles brillantes ressemblent à des constellations. 
+
+Le Portier et la Chevaleresse blême vous entraînent sur un chemin taillé au bord de la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Il a vécu pendant des siècles. Je lui ai donné la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Il a vécu pendant des siècles. Je lui ai donné une nouvelle vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Il survivait grâce aux sang des autres. J'ai rétabli la justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Rehstin stagnait depuis trop longtemps. Je lui ai juste permis de se remettre en mouvement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"La mort est la destinée de tous les mortels. J'ai accompli la volonté des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Et chaque mort commence dans une nouvelle vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Vu ainsi, la mort est l'agent de la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>La chair de la Chevaleresse blême est tendue sur son crâne. "Il n'y a pas de justice dans les marées qui déplacent les mers, ni dans les saisons qui nourrissent et détruisent tout ce qui pousse. Il n'y a aucune moralité dans les forces qui animent le monde. Elles sont inévitables. Le produit de leur propre mouvement perpétuel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"La vie est cinétique. Un mouvement vers l'avant. Une centaine de commencements et de fins imbriqués dans un million d'autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Tout renaît, c'est le destin. L'essence circule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Tel un barrage qui se rompt, le corps gonflé de Rehstin éclate. Des silhouettes fantomatiques, aussi nébuleuses et vagues que des volutes de fumée, continuent le long du chemin. Certaines se pressent tandis que d'autres flânent et dérivent, mais toutes poursuivent leur chemin. 
+
+Le Portier attire votre attention sur une autre silhouette qui descend le chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Cette fois, vous voyez la Grande Ovate Erona. À mesure qu'elle progresse sur la route, ses mouvements deviennent lents et irréguliers. Ses jambes craquent à chaque pas, et ses pieds s'allongent pour former d'épaisses racines qui s'enfoncent dans le sol. Elle finit par s'immobiliser, enracinée sur place. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Il n'était pas naturel. Il ne pouvait pas survivre tout seul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Les arbres n'ont rien à faire sur la route. J'ai pensé qu'en l'abattant, le seigneur de la route m'accorderait sa bénédiction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"J'en avais assez des énigmes incessantes de l'arbre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"C'était un parasite. Ses branches servaient d'abri à d'autres, mais ses racines les asséchaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"J'aime bien détruire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Rien ne peut survivre seul. Tout être puise son énergie vitale dans la mort d'autres créatures. C'est la raison pour laquelle tout être doit rester associé au cycle de la mort et de la renaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Le seigneur de la route n'accorde aucune faveur. Il octroie le passage et se fait payer, rien de plus. Mais en servant ses intérêts, vous pouvez servir les vôtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Vous cherchez la certitude. Des réponses. Mais chaque réponse mène à une autre question. Suivez-les toutes et vous vous retrouverez dans une salle recouverte de miroirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Tout être puise son énergie vitale dans la mort d'autres créatures. C'est la raison pour laquelle tout être doit rester associé au cycle de la mort et de la renaissance. Aucune créature ne peut être une boucle fermée sur elle-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Et les éclats que vous laissez dans votre sillage fertilisent une nouvelle vie. Votre soif de destruction n'est qu'un instrument de plus dans les cycles de la mort et de la renaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"L'illusion de la révolution ? Cela fait partie d'un autre cycle, douloureux. Le vrai changement a une structure. Une géométrie. Il est le produit de cycles imbriqués les uns aux autres. Un millier de rouages qui font tourner et progresser l'univers par étapes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Le corps d'Erona se pétrifie et les feuilles étincelantes de ses cheveux sont balayées sur le chemin. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Comme des choses usées, accablées. Mélangez-vous du vin aigre avec du bon vin ? La bonté consiste à leur donner un nouveau commencement, pas à les enchaîner à cette vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Je crois comprendre ce que vous me dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Le cycle est impitoyable, mais il ne dilapide pas. Le temps et l'interminable succession des renaissances finissent par transformer les âmes en poussière, mais avant cela, elles doivent quitter le monde et y revenir. Leur progression fait avancer le cycle lui-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Le Portier fait un geste en direction de la route et du ciel étoilé tandis que la Chevaleresse blême prend la parole. "Je vous montre seulement le mouvement de l'univers, Gardien."</DefaultText>
+      <FemaleText>Le Portier fait un geste en direction de la route et du ciel étoilé tandis que la Chevaleresse blême prend la parole. "Je vous montre seulement le mouvement de l'univers, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Le cycle des êtres civilisés est une question d'équilibre. De même que le cycle des dieux. Nous naissons et mourrons en qualité de mortels, uniquement pour mourir et renaître. Mais Woedica cherche à échapper à ce cycle. Elle veut s'enraciner et croître au détriment des autres." 
+
+Le Portier fait un geste silencieux en direction de la route où un arbre abattu et une enveloppe de chair vide sont encore visibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Libérez-vous de l'homme qui vous hante... des souvenirs qui vous tourmentent... Vous ne trouverez pas la paix tant qu'il sera en vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Hiravias glousse nerveusement en rougissant. "Bien dit. Vous ne pourrez pas devenir quelqu'un d'autre tant que vous n'aurez pas coupé les racines malades." 
+
+Il vous donne un coup de patte dans le dos et sourit. "Thaos s'expliquera, même si nous devons pour cela lui arracher les réponses de la bouche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Le haut du bâton de Durance s'enflamme. "Vous feriez mieux de répondre à votre propre question, chevaleresse. Vous n'avez aucune envie de découvrir comment je soutire des informations."</DefaultText>
+      <FemaleText>Le haut du bâton de Durance s'enflamme. "Vous feriez mieux de répondre à votre propre question, chevaleresse. Vous n'avez aucune envie de découvrir comment je soutire des informations."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"C'est l'une des nombreuses questions que je me pose, mais c'est déjà un début. Je pensais que Thaos agissait seul. Quel maître commande notre sinistre ami ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Il y a une autre question à se poser : devrons-nous réduire Thaos en bouillie pour obtenir des réponses de lui ?", demande Hiravias en souriant. "Quelles sont les chances pour qu'il parle ? Ce sera marrant de lui arracher une explication..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[Priez Berath.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Vous vous agenouillez devant l'autel et vous préparez à réciter la formule rituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Tout peut être reforgé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"La vie fait partie de la mort et la mort fait partie de la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"La survie repose d'abord sur la force intérieure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Vivez chaque note du chant de la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"La lutte est notre nature fondamentale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Je chante le chagrin de l'océan pour oublier le mien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Toute vie se termine dans le calme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Demain, mon maître s'étranglera avec son fouet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Qu'est-ce qu'une réponse sans question ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Lorsque Woedica remontera sur son trône, toutes les erreurs seront corrigées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>À peine prononcées, vos paroles semblent s'éteindre, comme happées par un immense vide. Un silence de mort s'abat sur la salle, puis le sol commence à trembler sous vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Vous sentez quelque chose onduler dans l'air, comme si un vent imperceptible changeait de direction et apportait une chaleur inattendue. Vous sentez une présence invisible, comme si des yeux étaient braqués sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Renvoyez-les dans le cycle, Gardien. Promettez-le-moi et je vous conférerai des pouvoirs dignes d'un champion de la mort." 
+
+La Chevaleresse blême lève un doigt. "Acceptez cette faveur et je veillerai à ce que cette décision soit votre dû. Le moment venu, je le collecte auprès de tous les mortels."</DefaultText>
+      <FemaleText>"Renvoyez-les dans le cycle, Gardienne. Promettez-le-moi et je vous conférerai des pouvoirs dignes d'un champion de la mort." 
+
+La Chevaleresse blême lève un doigt. "Acceptez cette faveur et je veillerai à ce que cette décision soit votre dû. Le moment venu, je le collecte auprès de tous les mortels."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Je promets de renvoyer les âmes dans le cycle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Je dois y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Je vais d'abord écouter les autres dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"D'accord, Gardien. N'oubliez pas votre promesse." 
+
+Le Portier tend le bras et pose une main décharnée sur votre front. À son contact, vous avez l'impression de vous dilater. Aveuglé, vous tendez un bras et sentez une autre main de taille et de forme identiques à la vôtre venir à votre contact.</DefaultText>
+      <FemaleText>"D'accord, Gardienne. N'oubliez pas votre promesse." 
+
+Le Portier tend le bras et pose une main décharnée sur votre front. À son contact, vous avez l'impression de vous dilater. Aveuglée, vous tendez un bras et sentez une autre main de taille et de forme identiques à la vôtre venir à votre contact.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Lorsque vous rouvrez enfin les yeux, vous êtes à Teir Evron, empli du pouvoir de Berath.</DefaultText>
+      <FemaleText>Lorsque vous rouvrez enfin les yeux, vous êtes à Teir Evron, emplie du pouvoir de Berath.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ne tardez pas, Gardien. Ce que Thaos cherche à faire ne peut être défait, même après un tour de la Roue." 
+
+Le Portier désigne quelque chose derrière vous. En vous retournant, vous vous retrouvez à Teir Evron.</DefaultText>
+      <FemaleText>"Ne tardez pas, Gardienne. Ce que Thaos cherche à faire ne peut être défait, même après un tour de la Roue." 
+
+Le Portier désigne quelque chose derrière vous. En vous retournant, vous vous retrouvez à Teir Evron.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>La Chevaleresse blême et le Portier se tiennent devant vous. 
+
+"Avez-vous pris votre décision, Gardien ? Aucun autre dieu ne peut rivaliser avec la puissance du gardien de la vie et de la mort."</DefaultText>
+      <FemaleText>La Chevaleresse blême et le Portier se tiennent devant vous. 
+
+"Avez-vous pris votre décision, Gardienne ? Aucun autre dieu ne peut rivaliser avec la puissance du gardien de la vie et de la mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>La Chevaleresse blême se tourne vers vous. "Vos prières et vos rituels ont révélé les lois des dieux aux êtres civilisés. Vous avez réconcilié les entêtés, intercédé au nom des étrangers et renforcé les fidèles." 
+
+"Mais le message n'est pas toujours clair. Les réponses ne sont pas toujours simples."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "Votre cruauté est grande, Gardien. Mais que sert-elle ? Thaos n'est que l'instrument de votre tourment. Son cycle est guidé par quelqu'un d'autre depuis des millénaires."</DefaultText>
+      <FemaleText>La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "Votre cruauté est grande, Gardienne. Mais que sert-elle ? Thaos n'est que l'instrument de votre tourment. Son cycle est guidé par quelqu'un d'autre depuis des millénaires."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Vous êtes toujours à la recherche du comment du pourquoi. Mais les réponses sont circulaires, Gardien. Pour les trouver, vous devez commencer par vous poser la bonne question."  
+
+La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "La question n'est pas de savoir ce que Thaos a fait, mais qui il sert."</DefaultText>
+      <FemaleText>"Vous êtes toujours à la recherche du comment du pourquoi. Mais les réponses sont circulaires, Gardienne. Pour les trouver, vous devez commencer par vous poser la bonne question."  
+
+La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "La question n'est pas de savoir ce que Thaos a fait, mais qui il sert."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>La Chevaleresse blême penche la tête. La lumière des étoiles se reflète sur sa joue creuse. "Vous cherchez toujours la réponse la plus pragmatique, la plus simple. Mais la seule issue consiste à tout recommencer de zéro. Une fin qui mène à un nouveau départ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Toujours clémente, même quand du sang est versé. Vu ainsi, la mort est l'agent de la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>La chair de la Chevaleresse blême est tendue sur son crâne. "Vous manquez de patience pour atteindre vos idéaux. Il n'y a pas de justice dans les marées qui déplacent les mers, ni dans les saisons qui nourrissent et détruisent tout ce qui pousse. Il n'y a aucune moralité dans les forces qui animent le monde. Elles sont inévitables. Le produit de leur propre mouvement perpétuel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ainsi, même votre cruauté, aussi grande soit-elle, sert un objectif. Les éclats que vous laissez dans votre sillage fertilisent une nouvelle vie. Votre soif de destruction n'est qu'un instrument de plus dans les cycles de la mort et de la renaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Elle tend une main. "Votre contribution, voyageur."</DefaultText>
+      <FemaleText>Elle tend une main. "Votre contribution, voyageuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>La Chevaleresse blême déclare à voix basse : "Vous avez rencontré un nain sur cette route. Qu'avez-vous fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>La Chevaleresse blême se retourne vers vous. "Vous avez trouvé un arbre qui a vécu des siècles. Ses racines étaient profondes et ses branches protégeaient beaucoup de monde. Pourquoi l'avez-vous abattu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Vous cherchez quelqu'un qui a vécu ses vies au bord du cycle. Il s'assoie à l'intérieur de la roue pour observer ses révolutions. À chaque vie, il est arraché au flot avant d'y être renvoyé intact."
+
+"Pourquoi traquez-vous Thaos ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>La chair de la Chevaleresse blême est tendue sur son crâne. Elle fait un signe de tête qui lui fait presque tomber le menton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>La chair de la Chevaleresse blême est tendue sur son crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Dans les étoiles scintillantes de la constellation voisine, vous voyez la forme menaçante d'un crâne. Sa mâchoire est béante, comme figée dans un cri silencieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Une fois de plus, vous vous retrouvez devant l'autel et la constellation en forme de crâne qui symbolise son dévouement à Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

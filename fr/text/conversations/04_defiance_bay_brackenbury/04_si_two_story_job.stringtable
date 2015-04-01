@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_two_story_job</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le mur de pierre est protégé par un avant-toit. Une vigne tortueuse serpente jusqu'à une fenêtre ouverte. Deux volets ornés semblent vous faire signe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Lancez un grappin vers la fenêtre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Montez le long des lianes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous lancez votre grappin qui atterrit sur le rebord de la fenêtre. La corde reste bien tendue alors que vous l'agrippez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Montez à la corde.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Accolant les mains au mur, vous montez à la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous vous perchez au niveau du rebord et prenez appui contre son encadrement alors que la brise vous caresse le dos. Vous remarquez du mouvement à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Clignant des yeux jusqu'à ce que ceux-ci s'adaptent à la pénombre, vous vous glissez à l'intérieur du manoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous commencez à monter. Ce faisant, vous sentez que les lianes se mettent à céder sous votre poids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous montez rapidement la distance qu'il vous reste et vous agrippez le rebord de la fenêtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Testez les lianes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Vous secouez les lianes. Elles sont épaisses et solides dans vos mains, mais semblent fragiles plus haut. En vous dépêchant, vous devriez réussir à monter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous tentez d'atterrir sur le mur et vous vous dépêchez. Les lianes tombent par terre et vous vous débattez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous redescendez, à bout de souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1011_si_fungus_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une masse tortueuse d'épines acérées et de lianes épaisses s'étire d'un mur à l'autre de la caverne. Quelques trouées sont visibles ça et là dans la végétation, laissant apparaître la chambre qui se trouve de l'autre côté, mais vous allez avoir du mal à traverser cet obstacle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Franchissez le mur.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Coupez la végétation avec une arme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Malgré les efforts que vous déployez pour éviter les lianes, l'une d'elles frappe violemment [SkillCheck 0] à la tête. Comme ragaillardies par leur victoire, les plantes redoublent d'agressivité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous assénez un puissant coup à la liane la plus proche... sans grand résultat. Ces lianes sont incroyablement résistantes. Vous avez beau frapper, écraser et tailler, rien n'y fait. Il vous faudrait un temps fou pour les couper toutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous vous frayez un chemin entre les lianes et les ronces en évitant habilement les épines, et parvenez à rejoindre l'autre côté, relativement indemne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Au moment où vous commencez à traverser, le mur tout entier se soulève et prend vie pour former une masse houleuse de branches et de lianes. Des branches épaisses et épineuses s'abattent sur vous avec une redoutable force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Leurs épines, aussi tranchantes que des faux, vous encerclent, vous agrippent et vous écorchent. Finalement, après avoir fourni des efforts surhumains, vous réussissez enfin à vous dégager de l'emprise des lianes et à vous réfugier en lieu sûr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Regardez les lianes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Les lianes sont si densément enchevêtrées qu'elles forment un mur quasiment impénétrable. La plupart des épines sont aussi longues que votre main. De temps en temps, vous entendez un léger craquement, comme si quelque chose bougeait au cœur de la masse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

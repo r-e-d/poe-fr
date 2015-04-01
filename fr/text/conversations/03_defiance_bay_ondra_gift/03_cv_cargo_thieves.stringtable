@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_cargo_thieves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Quatre personnes sont rassemblées autour de ce qui ressemble à un coffre en bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'y suis presque. Presque..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Tu dis ça depuis des plombes. Peux-tu crocheter ce verrou oui ou non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'un d'eux, un personnage grisonnant à l'aspect plutôt rude, lève les yeux vers vous puis renifle. "Vous vous êtes trompé de chemin, peut-être ? Vaudrait mieux faire demi-tour."</DefaultText>
+      <FemaleText>L'un d'eux, un personnage grisonnant à l'aspect plutôt rude, lève les yeux vers vous puis renifle. "Vous vous êtes trompée de chemin, peut-être ? Vaudrait mieux faire demi-tour."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Un craquement se fait soudain entendre en direction du coffre, et un deuxième homme plus petit laisse échapper un grognement de frustration. "Bon sang, c'est le deuxième crochet-" Il lève la tête vers vous et s'immobilise. "Oh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Waldr fait rouler ses yeux puis se tourne vers vous. "Vous allez vivre vos derniers instants sur cette jetée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ne me pressez pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

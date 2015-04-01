@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\13_twin_elms_elms_reach\13_qst_sacrificial_bloodlines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Lignées sacrificielles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Allez chercher l'enfant orlane dans une maison située au sud-est d'Hearthsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Conduisez le bébé aux Sables ensanglantés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous pouvez également vous procurer le poison auprès de Bledha, aux Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Remettez la potion d'essence à Simoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Poussez Simoc à boire le poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Conduisez le bébé aux Sables ensanglantés ou poussez Simoc à boire le poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Remettez la potion d'essence à Simoc ou poussez-le à boire le poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Simoc, un Anamfath du Stelgaer à trois défenses, dirige sa tribu depuis près de deux siècles, mais il n'a pas réussi à engendrer un héritier doté d'une âme capable de lui succéder. Simoc a confié ses craintes que sa tribu, dont les membres défendent la frontière glanfathane, finiront par s'affaiblir sans chef capable de prendre les choses à bras le corps.
+
+Mais il m'a dit qu'il avait trouvé un moyen de doter son prochain enfant d'une âme plus puissante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>L'Anamfath Simoc a la garde de la fille de l'Anamfath de la Grue pêcheuse. Il m'a demandé de la conduire à la gardienne Wrdha des Ethik Nôl pour qu'elle se livre à un rituel qui lui permettra de boire son essence.
+
+L'enfant se trouve dans une maison près de la rivière. Simoc a veillé à ce qu'elle soit seule quelques instants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai l'enfant de la Grue pêcheuse. Simoc m'a demandé de l'amener auprès de la Gardienne Wrdha dans les Sables ensanglantés.
+
+Les Sables ensanglantés se trouvent dans une grotte située à la limite septentrionale des Ormes, près de Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Lliras, le fils de Simoc, est venu me voir pour en savoir plus sur le plan de son père. Il m'a supplié de ne pas le mettre à exécution.
+
+Au lieu de cela, Lliras m'a demandé de me procurer un poison auprès de Bledha, un Ovate du Bosquet doré. Lliras a déjà été écarté de la succession de son père, mais ne veut pas voir ce dernier continuer de diriger de cette manière.
+
+Je trouverai Bledha au sud-est des Ormes.</DefaultText>
+      <FemaleText>Lliras, le fils de Simoc, est venu me voir pour en savoir plus sur le plan de son père. Il m'a suppliée de ne pas le mettre à exécution.
+
+Au lieu de cela, Lliras m'a demandé de me procurer un poison auprès de Bledha, un Ovate du Bosquet doré. Lliras a déjà été écarté de la succession de son père, mais ne veut pas voir ce dernier continuer de diriger de cette manière.
+
+Je trouverai Bledha au sud-est des Ormes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>La Gardienne Wrdha m'a donné une potion, concoctée à partir de l'essence de l'enfant de la Grue pêcheuse, pour Simoc. Ce dernier l'attend dans la Salle des guerriers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai réussi à convaincre Bledha de me donner un puissant poison. Comme Simoc attend déjà une potion, je devrais être en mesure de le duper et de le lui faire boire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>J'ai Vela et le poison. Suivre le plan de Simoc implique que l'enfant soit donné à Wrdha aux Sables ensanglantés. Cela étant, je peux toujours inciter Simoc à ingurgiter le poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Avec la potion d'essence, je pourrai veiller à ce que Simoc engendre un elemfath capable de diriger la tribu du Stelgaer à trois défenses.
+
+Sinon, je pourrais lui donner le poison que j'ai acquis auprès de Bledha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Simoc a avoué que le rituel implique le sacrifice de l'enfant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Lliras m'a attaqué alors que je partais avec Vela. Je n'ai pas eu d'autre choix que de le tuer.</DefaultText>
+      <FemaleText>Lliras m'a attaquée alors que je partais avec Vela. Je n'ai pas eu d'autre choix que de le tuer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Lliras, le fils de Simoc, est venu me voir pour en savoir plus sur le plan de son père. Il m'a demandé d'empoisonner Simoc. Je me procurer un poison auprès de Bledha, un Ovate du Bosquet doré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai récupéré l'enfant dans la maison d'Hearthsong, mais je peux toujours me procurer le poison qui tuera Simoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai déjà le poison, mais je peux toujours récupérer le bébé et le conduire auprès de Wrdha, aux Sables ensanglantés, pour exécuter le plan de Simoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai obtenu également le poison auprès de Bledha. Maintenant que Lliras et Vela sont morts, la tribu du Stelgaer à trois défenses sera privée de successeur incontestable, si j'incite Simoc à boire le poison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>En incitant Simoc à boire le poison, et comme Lliras et Vela sont morts, la tribu du Stelgaer à trois défenses sera privée de successeur incontestable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai remis à Simoc une potion concoctée à partir de l'essence de sa fille adoptive orlane. Elle va lui permettre d'engendrer un héritier capable de lui succéder et pérenniser ainsi la puissance du Stelgaer à trois défenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai confié la fille adoptive orlane de Simoc à un couple sans enfant d'Hearthsong. Elle va pouvoir grandir et être heureuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>En apprenant que Simoc entendait sacrifier sa fille adoptive orlane, j'ai accepté le plan de Lliras visant à l'empoisonner. L'avenir du Stelgaer à trois défenses est teinté d'incertitude, mais j'ai empêché Simoc de mettre à exécution son odieux plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Après avoir entendu Simoc me demander de sacrifier sa fille adoptive, je l'ai tué dans la Salle des guerriers. Ce vieil Anamfath avait fait son temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Après avoir sacrifié Vela aux Sables ensanglantés, j'ai décidé de tuer Simoc. Comme le vieux Amanfath et sa fille adoptive sont morts, le Stelgaer à trois défenses devra trouver un nouveau dirigeant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai échoué dans ma tentative d'empoisonnement de Simoc et j'ai été forcé de le tuer au combat à la place.</DefaultText>
+      <FemaleText>J'ai échoué dans ma tentative d'empoisonnement de Simoc et j'ai été forcée de le tuer au combat à la place.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

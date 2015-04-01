@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\prot2_rumbald</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La situation désespérée d'un fermier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez le repaire de l'ogre caché quelque part aux environs du village de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez voir Rumbald au village de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fouillez la grotte du Croisement de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rumbald, un éleveur de porcs de Dyrford, m'a dit qu'un ogre avait enlevé son troupeau. Il veut que je tue l'ogre et que je lui rapporte sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rumbald a dit que l'ogre avait été aperçu autour de Dyrford, mais il ignore où il vit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maintenant que j'en ai fini avec l'ogre, je peux retourner voir le fermier Rumbald à Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai trouvé une grotte à l'est de la rivière Bael. Elle empeste le cadavre. Un monstre vorace doit y vivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>D'après Rumbald, Trygil sait peut-être où vit cet ogre. Sa boutique est en face d'une tour en ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Trygil m'a dit que l'ogre vit probablement près de la rivière Bael, à l'est du village de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai tué Korgrak. Rumbald va être ravi de voir la tête du monstre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Korgrak m'a promis de quitter la ville. Cela devrait suffire à Rumbald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai dit à Korgrak qu'il pouvait rester à Dyrford à condition qu'il apprenne à ne pas attirer l'attention sur lui. Il a semblé en accepter l'idée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Korgrak a eu l'air content que je lui propose de tuer Rumbald. Honnêtement, j'ignore ce que je découvrirai à mon retour à Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>J'ai proposé un poste à Korgrak dans ma forteresse. L'idée à semblé l'intéresser. Je pourrais sûrement l'engager si je le voulais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Trygil est mort, il n'est plus d'aucune utilité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué l'ogre et rapporté sa tête à Rumbald. Le fermier était si reconnaissant qu'il m'a donné son tromblon (le Cracheur de plomb) et un porcelet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Rumbald était déçu que je n'aie pas tué l'ogre, mais il m'a quand même donné un de ses porcelets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai donné un peu d'argent à Rumbald pour l'aider à remplacer ce que l'ogre lui a volé. Il était si reconnaissant qu'il m'a donné son tromblon (le Cracheur de plomb) et un porcelet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai dit à Korgrak qu'il serait bien plus en sécurité à Dyrford s'il se débarrassait du fermier qui réclamait sa tête. Évidemment, à mon retour au village, la femme de Rumbald m'a dit que l'ogre l'avait tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai attaqué les cochons de Rumbald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

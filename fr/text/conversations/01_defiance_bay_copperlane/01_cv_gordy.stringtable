@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_gordy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un jeune garçon regarde les passants et compte une poignée de pièces sales. Son visage et ses bras sont souillés, mais mis à part les taches d'herbe, ses vêtements sont en bon état.
+
+En vous voyant approcher, il cligne des yeux et glisse rapidement et furtivement ses pièces dans sa poche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vraiment ? Qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez] "Je n'ai pas le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Il hausse les épaules et serre ses mains dans son dos, donnant un coup de pied dans un caillou. "Je viens de voir des gars cacher des choses intéressantes. Je pourrais vous les montrer, mais papa et maman m'ont dit de ne pas parler aux étrangers."
+
+Ses yeux roulent lentement vers vous. "Mais vous pourrez peut-être m'aider. Alors nous ne serions plus des étrangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Oh... bonjour." Gordy masque rapidement sa surprise avec timidité. "Êtes-vous revenu pour écouter le secret ?"</DefaultText>
+      <FemaleText>"Oh... bonjour." Gordy masque rapidement sa surprise avec timidité. "Êtes-vous revenue pour écouter le secret ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Gordy rebondit sur le pavé. "Vous l'avez ? Vous avez le poignard ? Je peux le voir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Cela semble raisonnable. J'irai te le chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tu es trop jeune pour jouer avec des couteaux. Je suis sûr que tes parents te l'ont dit ou sinon tu ne me poserais pas la question."</DefaultText>
+      <FemaleText>"Tu es trop jeune pour jouer avec des couteaux. Je suis sûre que tes parents te l'ont dit ou sinon tu ne me poserais pas la question."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Saisissez Gordy par la chemise et tenez-le au-dessus de votre tête.] "Et si tu me disais ce petit secret avant que je ne me fâche réellement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Mentez] "Écoute. Tu me dis ton petit secret maintenant, et je te donnerai un poignard appartenant aux Chevaliers du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Gordy éclate en sanglots, bégayant entre les larmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Gordy pose sa main sur sa bouche et murmure à voix haute. "J'ai vu un des acteurs cacher quelque chose sous une pierre près du théâtre. Probablement rien d'aussi bien qu'un poignard d'acier de Marche par contre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Merci. Mais je n'ai pas besoin de récupérer ton stupide poignard. Tu n'es pas vraiment un garçon très malin, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Lancez Gordy au sol.] "Ne recommence plus jamais ça, ou tu verras ce que les grands peuvent faire avec un joli poignard bien aiguisé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Mettez-le à terre et partez.] "Tu vois ? Ce n'était pas si compliqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Gordy glapit tandis que vous l'envoyez bouler sur le sol, atterrissant sur un crac sonore. 
+
+Il gît, immobile. Après quelques secondes, il tremble de sanglots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Vous mettez Gordy à terre et il se détourne de vous, se recroqueville et sanglote.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"J'ai le poignard avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je ne l'ai pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tu sais à quoi ils ressemblent, n'est-ce pas ? Les véritables poignards des Chevaliers du Creuset ont un sceau spécial sur le pommeau. On peut aussi différencier un acier de Marche d'un acier Wyflan parce que le Wyflan possède ce motif ondulé alors que le March n'a pas du tout de motif..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Gordy rebondit sur le pavé. "Avez-vous le poignard ? D'un vrai Chevalier du Creuset ? Je peux le voir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Un jour, lorsque je serai un Chevalier du Creuset, je poursuivrai les méchants comme vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"J'irai te le chercher. Un jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Gordy vous voit et recommence à gémir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Gordy arrête de rebondir et reste bouche bée devant le poignard. "Il est si aiguisé..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Sortez lentement le poignard, le pommeau en premier.] "Écoute bien. Lorsque tu ne l'utilises pas, garde-le dans sa gaine ou sinon il va rouiller. Ne frime pas avec ou bien sinon quelqu'un va te le voler, ou pire encore. C'est une arme, pas un jouet. Compris ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Il lance l'arme dans les airs et l'attrape par la poignée, se découpant presque la paume dans le mouvement. Ses yeux se détachent des vôtres tandis qu'il rengaine le poignard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>La main de Gordy tremble tandis qu'il se retient de saisir le poignard. Il hoche la tête, le tenant dans sa gaine. "J'en prendrai grand soin. Promis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Merci de me le dire, Gordy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Un grand secret. Je le savais déjà. Dis-moi autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Au revoir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Il se gratte la tête et fronce les sourcils. "Hum... quelques fois mon père va à la Faveur d'Ondra sans le dire à ma mère. Un endroit nommé le Mât salé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Gordy saute dans tous les sens, en criant de joie. "Je savais qu'un véritable aventurier comprendrait." Il pointe un grand bâtiment. "Il y a un gros marchand vers le Repaire d'Admeth qui vend des armes. C'est lui qui a le poignard."
+
+"J'attendrai ici." Son large sourire s'étend entre ses deux oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Mais si je veux être un vrai guerrier, je dois commencer à m'entraîner dès le plus jeune âge, comme les héros dans les histoires. Je suis juste certain que j'étais un grand guerrier dans une autre vie. Ma mère dit même que j'ai une ancienne âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Regardez ça !" Gordy tournoie et taille avec son poignard, ratant de peu son propre bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je fais très attention avec le poignard, comme vous me l'avez appris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Présentez la dague.] "Une dague fabriquée en acier de Marche ? Comme celle-ci ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"T'aider à quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>La voix de Gordy monte soudain dans les aigues et en tempo. "Les Chevaliers du Creuset possèdent ces poignards fabriqués en acier de Marche. C'est le meilleur acier dans les environs, à l'exception de l'acier de Durgan, qui ne compte pas parce que personne n'en fabrique plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Voyez, j'en sais beaucoup sur les poignards, et je veux vraiment vraiment celui-ci, et si vous pouviez me le rapporter, je promets que je ne demanderai jamais plus rien à personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Gordy s'emporte, divaguant sur les différents types d'acier et ne vous prêtant plus du tout attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"D'accord. Je suis sûr qu'un gosse braillard sait des milliers de choses sur cette ville."</DefaultText>
+      <FemaleText>"D'accord. Je suis sûre qu'un gosse braillard sait des milliers de choses sur cette ville."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Un des comédiens a caché quelque chose sous une pierre près du théâtre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Alors, à propos de ce secret."
+
+Gordy pose sa main sur sa bouche et murmure à voix haute. "J'ai vu un des acteurs cacher quelque chose sous une pierre près du théâtre. Probablement rien d'aussi bien qu'un poignard en acier de Marche par contre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Le garçon vous regarde, la bouche béante.
+
+Après plusieurs secondes figées dans le silence, il agite la main. "Peux-tu me voir ? Tes yeux vont bien ?"
+
+Il décroche de sa trance mais continue à vous regarder avec fascination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Hé, monsieur, vous voulez connaître un secret ?" Il s'essuie le nez avec sa manche. "Je connais un vrai secret."</DefaultText>
+      <FemaleText>"Hé, madame, vous voulez connaître un secret ?" Il s'essuie le nez avec sa manche. "Je connais un vrai secret."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"D'accord, je vais t'aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Lancez-lui le poignard.] "Ne te tue pas avec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Il le lance en l'air, sans se soucier de quoi que ce soit d'autre. Il le sort de sa gaine et tient la lame dans la lumière. 
+
+"Je vais être comme les Chevaliers du Creuset." Il découpe et tranche le vide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"C'est quoi ce secret dont tu allais me parler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Non, c'est promis, c'est un vrai gros secret !" Il gambade devant vous et commence à parler rapidement. "Je connais cet endroit où les gens cachent des choses. Des choses vraiment spéciales. Si vous m'aidez, je vous promets de vous montrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"C'est fantastique. Voilà un secret pour toi. Ton père ne t'aime pas, ni ta mère d'ailleurs. Merci de m'avoir fait perdre mon temps, petit abruti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Gordy cligne des yeux pendant quelques secondes avant que ses yeux ne se mouillent et que sa bouche ne grimace. Il contemple le sol et commence à pleurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Gordy sort sa lèvre inférieure. "Un jour, j'aurai un poignard en acier de Marche, et vous serez bien désolé. Attendez un peu de voir !"</DefaultText>
+      <FemaleText>Gordy sort sa lèvre inférieure. "Un jour, j'aurai un poignard en acier de Marche, et vous serez bien désolée. Attendez un peu de voir !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Vous mettez Gordy à terre et il se détourne de vous, se courbant en avant et tressautant de sanglots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Il lance l'arme dans les airs et l'attrape par la poignée, se découpant presque la paume dans le mouvement. Ses yeux se détachent des vôtres tandis qu'il rengaine le poignard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Merci ! "J'en prendrai grand soin, promis !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Ravi, il admire son prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Alors, à propos de ce secret."
+
+Gordy pose sa main sur sa bouche et murmure à voix haute. "J'ai vu un des acteurs cacher quelque chose sous une pierre près du théâtre. Probablement rien d'aussi bien qu'un poignard en acier de Marche par contre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Tu ne peux pas avoir de poignard ! Tu vas te crever un œil !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Il s'arrête assez longtemps pour reprendre son souffle. "Bref, il y a ce marchand, vers le Hall d'expédition et il a un poignard fabriqué en acier de Marche !" Il ouvre grand ses yeux ronds. "Il a dit qu'il ne me le vendrait pas parce que je suis un enfant, et les enfants ne connaissent rien aux poignards."
+
+"Mais ce n'est pas vrai. J'en connais un rayon sur les poignards. Je connais les différents types d'acier, je sais comment les Chevaliers du Creuset les fabriquent dans une forge, je sais que la pointe peut perforer une armure de calibre inférieur, alors qu'un poignard assez solide et aiguisé peut couper un os..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Dégage. Je ne suis pas intéressé."</DefaultText>
+      <FemaleText>"Dégage. Je ne suis pas intéressée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>La mâchoire de Gordy s'ouvre en grand. "Un vrai poignard des Chevaliers ? Ok, voilà le secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Le garçon vous regarde, la bouche béante.
+
+Après plusieurs secondes figées dans le silence, il marmonne. "Hum... Votre tête est en feu."
+
+Il décroche de sa trance mais continue à vous regarder avec fascination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Le garçon vous regarde, la bouche béante.
+
+Après plusieurs secondes figées dans le silence, il louche et marmonne. "Qu'est-ce qu'il y a sur votre tête ?"
+
+Il décroche de sa trance mais continue à vous regarder avec fascination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Le garçon vous regarde, la bouche béante.
+
+Après plusieurs secondes figées dans le silence, il se frotte le crâne. "Comment avez-vous obtenu vos cornes ? Je peux avoir les mêmes aussi  ?"
+
+Il décroche de sa trance mais continue à vous regarder avec fascination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Donnez le poignard à Gordy.] "Je n'ai qu'une parole. Voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ce n'est pas juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Psst ! Par ici, monsieur !"</DefaultText>
+      <FemaleText>"Psst ! Par ici, madame !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Pourquoi les gens ont-ils des enfants, déjà ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Il semble que nous ayons là un petit arnaqueur. Quelqu'un a bien éduqué cet enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Prudence. J'ai voyagé sur tout le continent, et c'est toujours mon enfant de sept ans qui est le plus dur en affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"À Massuk, nous commençons à entraîner nos filles avec le couteau de chasse dès qu'elles peuvent parler. Beaucoup savent vider un lièvre avant leurs dix ans."
+
+Elle fronce les sourcils. "Je ne donnerai pas un couteau à beurre à ce gosse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Pallegina hausse les épaules. "Bien sûr, pourquoi pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"J'avais un couteau lorsque j'avais son âge. Je ne connais pas de meilleur moyen d'apprendre ce qu'il faut poignarder ou pas. Donnons-lui une chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Pourquoi ai-je le sentiment que ce gosse arriverait à se faire mal avec l'image d'un couteau ? Ne peut-on pas agir en adulte responsable et intimider ce garçon jusqu'à ce qu'il nous donne les réponses que nous cherchons ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"De l'acier de Marche ! Le gars a bon goût. Je n'ai jamais eu que des petits canifs, enfant. Principalement pour les huîtres. J'ai quand même réussi à m'ouvrir la paume une fois..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Était-ce vraiment nécessaire, [Player Name] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Gellarde. Vous avez montré à ce gosse qui est le chef par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vous auriez dû me dire que vous vouliez secouer un gosse. J'ai ce truc qui souffle de la fumée dans le visage. Ils comprennent bien le message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Hiravias renifle l'air et arbore un sourire narquois. "Je ne suis pas certain que vous vouliez que le gosse se fasse dessus mais... félicitations ? Peut-être devriez-vous lui donner un nouveau pantalon au lieu d'un couteau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ce n'est qu'un gosse, [Player Name] ! On ne peut pas être aussi fauchés que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Les yeux d'Aloth sont froids et sombres lorsqu'il vous regarde à nouveau. "T'devrais avoir honte, sale péteur."</DefaultText>
+      <FemaleText>Les yeux d'Aloth sont froids et sombres lorsqu'il vous regarde à nouveau. "T'devrais avoir honte, sale péteuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Pallegina effectue un mouvement de balayage avec sa main près de son cou et marmonne d'un ton colérique, "Batetica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Edér vous fixe du regard. "Hé. Et si on épargnait la violence la prochaine fois pour quelqu'un qui représente une véritable menace ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Il faut espérer que ce soit juste un de ceux qui s'épanche sur ses sentiments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je suppose que si je voyais ce gosse sortir de ma femme, je perdrais aussi l'intérêt..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>La Mère en deuil se jette soudain sur vous, les yeux en furie. "Gardez votre cruauté pour nos ennemis, Gardien. Ne levez plus jamais la main sur un enfant."</DefaultText>
+      <FemaleText>La Mère en deuil se jette soudain sur vous, les yeux en furie. "Gardez votre cruauté pour nos ennemis, Gardienne. Ne levez plus jamais la main sur un enfant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Que faites-vous ? N'y a-t-il déjà pas assez de violence et de peur dans le monde ? Laissez l'enfant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Les yeux de la Mère en deuil brillent chaleureusement. "La détermination d'un enfant n'est-elle pas fantastique ? Pourtant elle se transforme rapidement en malice... l'âge et l'expérience lui faisant défaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Les jeunes esprits sont si agiles." Ses yeux luisent. "Ça fait longtemps que je n'avais pas assisté à une telle précocité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ha ! Voilà un secret digne d'être fouillé."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

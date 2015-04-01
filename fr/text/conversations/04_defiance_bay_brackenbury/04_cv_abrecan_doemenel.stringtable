@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_abrecan_doemenel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>171</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un jeune homme est adossé à un précieux meuble en bois vert. Il tient une coupe incrustée de pierres dans une main et un pistolet orné dans l'autre. Ses lèvres tachées de vin dessinent un sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Donnez la lettre.] "J'ai trouvé une lettre qui pourrait vous intéresser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous feriez mieux de vous expliquer. Et vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"J'ai été victime d'une attaque dans une maison de Copperlane. J'ai trouvé cette lettre après m'être débarrassé de mes assaillants."</DefaultText>
+      <FemaleText>"J'ai été victime d'une attaque dans une maison de Copperlane. J'ai trouvé cette lettre après m'être débarrassée de mes assaillants."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du vin éclabousse les carreaux miroitants alors qu'Abrecan jette la coupe. Avec la crosse sculptée de son pistolet, il donne un coup dans le meuble ancien situé près de lui. Les hommes les plus près d'Abrecan le regardent, puis leurs yeux se portent sur vous, prêts à dégainer leurs armes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Certainement. Pourquoi n'avez-vous pas dit que vous aviez été engagé ?"</DefaultText>
+      <FemaleText> "Certainement. Pourquoi n'avez-vous pas dit que vous aviez été engagée ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Non. Je ne suis pas un voleur."</DefaultText>
+      <FemaleText>"Non. Je ne suis pas une voleuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"L'homme présent ici me dit que vous faisiez partie de l'embuscade qui a eu lieu à l'auberge l'Oie et le renard. Celle qui a coûté la vie à ma sœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Abrecan plie les bras et fait tourner son vin. "Vous avez quelque chose pour moi, j'espère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Le garde situé derrière Abrecan lui chuchote quelque chose à l'oreille. Les yeux sombres du jeune noble se plissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Alors, je n'ai pas besoin de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText> [Donnez la pierre précieuse.] "Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Dites aux gardes que vous êtes un lointain cousin." Il cligne de l'œil. "Ils comprendront."</DefaultText>
+      <FemaleText>"Dites aux gardes que vous êtes une lointaine cousine." Il cligne de l'œil. "Ils comprendront."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Cela devrait permettre aux Chevaliers et aux Douzaines de rester tranquilles." Il attrape une bourse. "Prenez ceci pour le dérangement et considérez votre dette comme payée. Je ne manquerai pas de vous faire signe si j'ai encore besoin de vos services."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mais alors, que faites-vous ici ? Revenez lorsque vous aurez la pierre précieuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vous jouez de ma patience. Venez-en au fait ou allez-vous-en." Il porte sa coupe à la bouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Abrecan fait tournoyer son pistolet et sirote son vin. "Vous vous êtes occupé de la lettre ?"</DefaultText>
+      <FemaleText>Abrecan fait tournoyer son pistolet et sirote son vin. "Vous vous êtes occupée de la lettre ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ah, mon ingénieux allié. Vous avez la pierre précieuse ?"</DefaultText>
+      <FemaleText> "Ah, mon ingénieuse alliée. Vous avez la pierre précieuse ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Donnez la pierre précieuse.] "Oui, tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Il montre les dents. "Cela devrait permettre aux Chevaliers et aux Douzaines de rester tranquilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Abrecan s'empare de la pierre précieuse et l'examine. "Déjà ? Et sans rien d'autre qu'un éternuement de la part des gardes d'à côté ? Quelle discrétion, en effet." Il vous fait un signe de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Abrecan prend la grosse pierre précieuse entre les mains."J'ai entendu des bruits venant d'à côté. Espérons que le seigneur Reymont ne fasse rien fâcheux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Il prend la pierre précieuse. "Je comprends que Reymont cherche de nouveaux gardes pour remplacer ceux qui se sont mis en travers de votre chemin. Nous allons devoir faire profil bas, mais cette pierre précieuse en vaut la peine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Alors, revenez lorsque vous l'aurez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Il fait tournoyer le pistolet sur un doigt. "Notre portier semble penser qu'il est important que vous me rencontriez. Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Les yeux d'Abrecan s'écarquillent et il s'éloigne du meuble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Donnez la pierre précieuse.] "Comme vous voudrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Je devrais peut-être la garder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Abrecan lève sa coupe. "Je vous ferai signe si j'ai encore besoin de vos services."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Le jeune noble regarde furtivement la pierre précieuse et l'approche du chandelier. Alors que la lumière danse sur son visage, son expression change et il vous la lance. Elle se brise en éclats contre le meuble situé derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Il passe les doigts dans ses cheveux et se reprend. "Estimez-vous heureux que Reymont n'ait pas encore vendu la vraie pierre précieuse. Apportez-moi le véritable Cœur de la Marche blanche et ne revenez pas me voir avant d'avoir mis la main dessus."</DefaultText>
+      <FemaleText>Il passe les doigts dans ses cheveux et se reprend. "Estimez-vous heureuse que Reymont n'ait pas encore vendu la vraie pierre précieuse. Apportez-moi le véritable Cœur de la Marche blanche et ne revenez pas me voir avant d'avoir mis la main dessus."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous avez joué avec ma patience pour la dernière fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Oui, tenez, le véritable Cœur de la Marche blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Le doigt sur le chien de son pistolet, Abrecan pose son vin sur le meuble. "J'aurais pu pardonner la bêtise que vous avez commise en tuant mes hommes. Mais pas cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il brandit son pistolet. "Tuez-le."</DefaultText>
+      <FemaleText>Il brandit son pistolet. "Tuez-la."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"C'était un accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Elle s'est mise en travers de mon chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Votre homme s'est trompé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Vous ne pensez quand même pas qu'on peut me duper aussi facilement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Abrecan se frotte le visage avec les mains. "Vous avez tué mes hommes, ce qui est très fâcheux. Mais je vais vous donner l'occasion de vous racheter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Terminez le travail commencé par mes hommes. Cela ne devrait pas poser de problème à quelqu'un de votre… réputation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Terminez-le vous-même, ordure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Abrecan rit. "J'aime votre aplomb. Dommage que je ne puisse pas me servir de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Son sourire s'estompe dangereusement. "C'est un ordre, pas un souhait. Faites-le et je passerai outre votre bévue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Le seigneur Reymont possède une pierre précieuse de la taille des testicules d'un aumaua. Il s'agit du Cœur de la Marche blanche. Un de mes contacts laissera la fenêtre du premier étage ouverte. Je veux que vous vous faufiliez à l'intérieur et dérobiez la pierre précieuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Montrez-lui le Cœur de la Marche blanche.]"C'est ce que vous cherchez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Il tend la main. Les nombreuses bagues de ses doigts perdent de leur éclat face à la pierre précieuse que vous tenez dans la main."Beau travail. Et maintenant, donnez-la moi et je considérerai que nous sommes quittes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Il vous lance un regard jubilatoire."Mon père, Gedmar, sera ravi d'apprendre que j'ai mis la main sur une telle pierre précieuse… Et un tel allié. Il se trouve à l'étage. Allez lui parler. Il cherche quelqu'un de votre trempe."</DefaultText>
+      <FemaleText>Il vous lance un regard jubilatoire. "Mon père, Gedmar, sera ravi d'apprendre que j'ai mis la main sur une telle pierre précieuse… Et une telle alliée. Il se trouve à l'étage. Allez lui parler. Il cherche quelqu'un de votre trempe."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Les voleurs n'ont-ils aucun honneur ? Pour commencer, c'est mon larcin. La maison Doemenel paie généreusement ses alliés et je vous assure que nulle part ailleurs vous n'en obtiendrez un meilleur prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Je la garde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Abrecan soupire et laisse tomber la main. "Pas pour longtemps, je le crains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"L'homme ici présent me dit que vous avez aidé ma sœur à l'auberge l'Oie et le renard. Apparemment, Danna ne tarit pas d'éloges à votre égard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Pour elle, je suis prêt à vous permettre de vous racheter. Vous allez terminer le travail que vous avez contrecarré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Danna a dit que vous auriez peut-être du travail pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Il boit une gorgée de vin. "Effectivement, j'ai une affaire à régler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"J'ai récemment eu vent d'une opportunité plutôt lucrative. Hélas, je n'ai pas confié cette tâche aux bonnes personnes. J'espère que vous serez à la hauteur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Un de mes hommes a organisé un larcin et transmis les instructions aux voleurs en utilisant mon propre papier à en-tête." Son visage prend un air menaçant. "Avec mes initiales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Il retrouve le sourire, mais sa main agrippe son pistolet. "J'ai besoin de cette lettre. Les voleurs se terrent dans une maison de Copperlane. Récupérez la missive et j'envisagerai de vous trouver une place au sein de la maison Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je continue de chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Alors, pourquoi venez-vous m'embêter ? Ne revenez pas avant de l'avoir trouvée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText> [Donnez la lettre.] "Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Il s'empare de la lettre. Après en avoir pris connaissance, il la plie en un minuscule carré et la glisse dans son pourpoint. "Beau travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Abrecan aplanit sa poche. Il vous regarde par-dessus sa coupe. "J'ai maintenant une autre mission à vous confier, étant donné que vous êtes au courant pour la lettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Son contenu ne me concerne en rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Oh, un voleur consciencieux ? Eh bien, permettez-moi de vous éclairer."</DefaultText>
+      <FemaleText> "Oh, une voleuse consciencieuse ? Eh bien, permettez-moi de vous éclairer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Le seigneur Reymont possède une pierre précieuse de la taille des testicules d'un aumaua. Il s'agit du Cœur de la Marche blanche."
+
+Son sourire grimaçant s'élargit. "C'est aussi l'objet d'une guerre de surenchère entre les Chevaliers du Creuset et les Douzaines. Ils mettent un point d'honneur à vouloir la restituer à ses propriétaires d'origine, les nains… qui seraient de puissants alliés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Bien sûr, la maison Doemenel entend éviter que les Chevaliers ou les Douzaines se rapprochent des nains de la Marche blanche. Un tel déséquilibre des forces en présence pourrait nous être préjudiciable." Il boit une autre gorgée de vin.
+
+"Notre contact de la demeure du seigneur Reymont laissera une fenêtre ouverte. Faufiliez-vous à l'étage supérieur du manoir du seigneur Reymont et trouvez la pierre précieuse. Ensuite, apportez-la-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je vous rapporterai cette pierre précieuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Cela ne m'intéresse pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Alors, permettez-moi de vous en dire un peu plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Parfait ! N'oubliez pas que la discrétion est de mise. La dernière chose que mon pè…, je veux dire que je souhaite, c'est une querelle avec les voisins." Il se racle la gorge.
+
+"Revenez lorsque vous aurez récupérez le Cœur de la Marche blanche. Je compte sur vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Abrecan prend la pierre précieuse entre le pouce et l'index et la met à la lumière. "Une pièce rare, en effet. Tenez, c'est mérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"J'ai des questions au sujet de la lettre que vous voulez que je trouve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Abrecan baille. "Faites vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Où puis-je trouver ces voleurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Pourquoi n'avez-vous pas demandé à un de vos hommes de s'en charger ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Que voulez-vous que je fasse des voleurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Son visage se colore. "J'avais juste besoin de quelqu'un… d'extérieur à la situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vous ne vouliez pas que votre père apprenne pour votre petite bévue, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Laissez-les tranquilles, bien sûr. Ce sont toujours mes hommes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Abrecan s'étouffe avec son vin. "Quoi ?!" Il jette violemment sa coupe et brandit son pistolet. "C'est une plaisanterie ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Oui, et pas très bonne. Pardon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"C'est vous la plaisanterie ici, Abrecan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Comme je l'ai dit, ils sont à Copperlane. Leur maison se trouve à l'extrême est, près du Hall d'expédition." Il lève sa main baguée. "Suivez simplement l'odeur d'aventuriers puants et les larmes des spéculateurs ruinés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Il attrape sa coupe et la tient serrée contre sa poitrine. "En effet." Il fait tourner son vin et en boit une longue gorgée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"De toute évidence, le moment est mal choisi. Je vais m'en aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Qu'étaient-ils en train de voler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Abrecan sourit sournoisement. "Occupez-vous de cette tâche et je vous le dirai peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Terminez le travail commencé par mes hommes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Très bien. Je n'ai pas le choix, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Abrecan vous donne une tape dans le dos. " Dites-vous qu'il s'agit d'une opportunité à ne pas rater. Si vous réussissez, peut-être en tirerez-vous un certain profit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Les voleurs n'ont-ils aucun honneur ? Pour commencer, c'est mon larcin. La maison Doemenel paie généreusement ses alliés et je vous assure que nulle part ailleurs vous n'en obtiendrez un meilleur prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Il vous lance un regard critique. "Vous avez une certaine… réputation. Mais j'ai une maison pleine de fidèles serviteurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Dites m'en plus sur la mission de Reymont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Parlez-moi du seigneur Reymont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Que savez-vous sur le Cœur de la Marche blanche ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Des conseils pour voler la pierre précieuse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Disons juste que c'est l'une des pierres les plus convoitées de Dyrwood. Lorsque vous la verrez, vous comprendrez pourquoi. Elle scintille de l'intérieur… Une caractéristique rare des pierres précieuses des montagnes de la Marche blanche."
+
+"Prendre cette pierre précieuse à Reymont nous assurera un joli profit et nuira au statut de nos rivaux, chez les Chevaliers et les Douzaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Abrecan émet un bruit guttural de dégoût. "Suffisant et intransigeant, il vit toujours à l'époque du duc Hadret. C'est aussi un des hommes les plus riches de Brackenbury."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Ce qui n'est pas pour me déplaire. Mais, vraiment, pourquoi dépenser tant de pands pour les planquer dans une pièce secrète ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Une fois là-haut, veillez à ce que ses gardes ne vous voient pas. Si possible, entrez par une fenêtre et déplacez-vous le plus discrètement possible. Reymont est peut-être un ennemi, mais c'est aussi un voisin avec lequel je ne veux pas d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Quoi que vous fassiez, n'alertez pas les gardes de Reymont. Je ne veux surtout pas déclencher une querelle avec mon voisin. Nous devons être clairs sur ce point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"C'est un faux, imbécile ! Je devrais vous enfoncer ce vulgaire morceau de verre dans la gorge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Il regarde la lettre du coin de l'œil. "C'est du... sang ? Il s'agissait de mes hommes, imbécile !" Il fait glisser son doigt sur le canon de son pistolet. Je vais vous donner l'occasion de réparer ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Il prend la pierre précieuse. "Si je comprends bien, Reymont entend remplacer un de ses gardes. Nous allons devoir faire profil bas, mais cette pierre précieuse en vaut la peine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"J'ai besoin d'une invitation pour participer à la réunion qui doit avoir lieu au palais ducal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Il ricane. "Et vous voulez vous attirer les bonnes grâces de la maison Doemenel pour y parvenir, c'est cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Exactement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"La maison Doemenel est le meilleur allié possible à la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Je pourrais m'attirer les bonnes grâces de vos ennemis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Il sourit froidement. "Exact, mais reste à savoir si vous seriez un bon allié pour nous. Nous allons vous mettre à l'épreuve."</DefaultText>
+      <FemaleText>Il sourit froidement. "Exact, mais reste à savoir si vous seriez une bonne alliée pour nous. Nous allons vous mettre à l'épreuve."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Son regard se durcit. "Seul quelqu'un de très stupide ou de très courageux menacerait ainsi cette maison. Je suis curieux de savoir dans quelle catégorie vous vous situez." Il sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Il renifle. "Votre impudence pourrait faire merveille au sein de notre maison, sous réserve qu'elle ne vous conduise à la mort. Très bien… Voyons voir comment vous gérez une mission relativement simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Mon père pourrait vous en parler." Il fait des gestes avec sa coupe. "À l'étage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Il vous lance un regard glacial. "Vous sollicitez une faveur de la part de la maison Doemenel alors même que vous n'avez pas encore terminé la tâche que je vous ai confiée ? Allez-vous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"À propos de cette invitation au palais ducal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"J'ai besoin d'une invitation pour participer à la réunion qui doit avoir lieu au palais ducal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"J'ai quelques questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Et je n'ai pas de réponses. S'il n'y a rien d'autre, allez-vous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Abrecan se glisse jusqu'à vous alors que vous arrivez au bas des escaliers. "Je suis au courant pour votre nouvelle mission. Je sais aussi que mon père vous a demandé d'accuser les Douzaines. N'en faites rien."
+
+"Mon père est un excellent homme d'affaires, mais il est trop prudent. Autrefois, la Baie du défi nous respectait. La maison Doemenel a besoin de retrouver ce respect pour survivre aux changements à venir. Ne cachez pas cet objet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Quel est cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Vous vous trouvez dans le manoir ancestral des Doemenel. De deux choses l'une : ou vous avez perdu votre chemin ou vous me faites perdre mon temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"À moins que vous ne soyez en affaires avec ma famille, allez-vous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Ma sœur ne tarit pas d'éloges à votre égard… Ce qui est rare venant d'elle. Quelqu'un comme vous pourrait nous être utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Il boit une autre gorgée de vin. " S'il n'y a rien d'autre, allez-vous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Sagani tourne la tête vers vous. "Vous savez parler, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"C'est parfait. De toute façon, je commençais à me lasser du confort de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"L'embarras est plus cinglant lorsqu'il est infligé par des supérieurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Eh bien, si vous envisagez de le pousser à frapper le premier..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Aloth vous regarde, les yeux écarquillés. "Surveillez vos manières..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Kana étouffe un petit rire et tousse. "Je vois qu'on s'efforce de se faire des amis partout où nous allons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Sagani se gratte le menton. "J'ai chassé sur bien des domaines privés depuis que je suis dans le nord et je suppose que ce n'est pas bien différent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"La discrétion est de mise, n'est-ce pas ? J'enfilerai donc ma plus discrète armure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Si on a des ennuis avec les Chevaliers ou les Douzaines à cause de ça, ça pourrait être désastreux. Nous devons faire attention à la manière dont nous procéderons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Aider des vieillards à combattre pour des rochers brillants ?" Hiravias hausse les épaules. "Au moins, il ne s'agit pas de traîner dans des ruines engwithanes. Mais si cela vous évite de pires ennuis, je suppose que ce n'est pas une mauvaise idée..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Voler des bijoux alors que Dyrwood vole en éclats. Ravi de voir que nous avons défini nos priorités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"J'ai évité plusieurs éclaireurs glanfathans, la plupart en courant, mais trouver un domaine bien gardé n'a rien à voir avec fouiller une tombe vide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Edér s'adresse à vous en murmurant. "Vous devriez peut-être le féliciter pour son aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Criminel, en effet. C'est indigne de gaspiller un bon rouge comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Alors, vous êtes un imbécile qui en sait trop."</DefaultText>
+      <FemaleText>"Alors, vous êtes une imbécile qui en sait trop."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"J'ai entendu dire que les gens s'en prenaient à cet horrible sanatorium. Mais je ne suis pas allé voir. En fait, on a une bien plus belle vue ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"À propos, je suppose que toute cette agitation ne vous a pas permis de mettre la main sur cette pierre précieuse..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Hélas, à la suite d'un malheureux incident, nous sommes en froid avec notre voisin, Reymont." Il grimace. "J'ai bien peur qu'il nous faille faire profil bas pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"En temps normal, je vous demanderai un service en retour."
+
+"Hélas, à la suite d'un malheureux incident, nous sommes en froid avec notre voisin, Reymont." Il grimace. "J'ai bien peur qu'il nous faille faire profil bas pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Malheureusement, il serait trop risqué de nous engager dans une quelconque... association."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Vous devrez peut-être surmonter certains... scrupules, mais vous finirez la mission confiée à mes hommes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Une relation fructueuse pourrait profiter à chacun de nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Il sourit froidement. "En effet. Pour commencer, voyons voir en quoi vous pourriez nous être utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Qu'est-ce que les audiences d'animancie du duc peuvent-elles bien apporter à la maison Doemenel ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Un certain équilibre. Le duc est coincé entre des fanatiques ignorants et des soldats avides de pouvoir. Mais ainsi va la vie à la Baie du défi. Nous essayons de faire en sorte qu'aucun groupe ne prenne le dessus."
+
+Il se frotte les doigts. "Et il n'y a pas de mal à tirer profit de ces différends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Quel avis la maison Doemenel porte-t-elle sur l'animancie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Pouvez-vous me parler des audiences ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Il rit. "Aucun. Les Douzaines sont contre, ce qui ne les empêche pas de piller les ruines et de vendre des runes et autres artefacts au sanatorium. Les Chevaliers se déclarent en faveur du progrès, mais de quel progrès s'agit-il ? Ils lorgent les bourses et les positions ici, à Brackenbury. Et on dit qu'ils ont eux aussi développent quelques projets d'animancie."
+
+"Vous comprendrez pourquoi nous préférons rester en dehors de tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Par chance, je n'ai jamais eu à y assister. J'ai entendu dire qu'elles se déroulaient comme toute autre réunion... Beaucoup de bruit pour rien, au final."
+
+"Et pendant que les Chevaliers et les Douzaines débattent de choses qu'ils ne comprennent pas, ils en oublient les véritables problèmes : les Glanfathans menacent à nos frontières, la crise omniprésente des réfugiés et les Vailiens prêts à nous laisser tomber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir sur les audiences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Il boit une pleine gorgée de vin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Alors qu'Abrecan en prend connaissance, son sourire curieux disparaît et il froisse la lettre entre ses mains. Ses lèvres pincées sont froides et sombres comme les améthystes qui décorent sa coupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Il fait tournoyer le pistolet sur un doigt et vous regarde de haut en bas. "Vous avez l'air perdu."</DefaultText>
+      <FemaleText>Il fait tournoyer le pistolet sur un doigt et vous regarde de haut en bas. "Vous avez l'air perdue."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

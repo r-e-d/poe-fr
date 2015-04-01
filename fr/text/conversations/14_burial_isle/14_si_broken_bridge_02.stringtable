@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_si_broken_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un morceau de pont surplombe les ruines de l'ancienne cité. Il semble relativement stable, mais la distance qui vous en sépare ne laisse guère de place à l'erreur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Sautez jusqu'au morceau de pont indépendant.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous prenez de l'élan et sautez. En survolant le vide, vous jetez un coup d'œil rapide en bas et voyez la cité abandonnée qui rayonne sous vos pieds. 
+
+Vous atteignez le morceau de pont, dérapez et vous arrêtez juste à temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[SkillCheck 0] prend son élan et saute. Mais [SkillCheck 0] dérape et tombe de l'autre côté au milieu d'un enchevêtrement de membres.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_eder_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Dix-sept et demi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dix-sept et demi. Ou dix-huit. Tout dépend comment vous la comptez la naine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pardon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"De quoi est-ce que vous parlez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"La naine. Vous vous demandiez si vous deviez la compter comme une personne entière."
+
+"Je crois que vous devriez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Des gens qui sont pendus à l'arbre. Il y en a dix-huit. Du moins, c'était le cas la dernière fois que je les ai comptés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qu'est-ce que c'est que cette histoire de naine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Il vous tend la main. "Je m'appelle Edér. Mais les gens d'ici pourraient aussi m'appeler « Dix-neuf »." 
+
+Il vous examine de la tête aux pieds et grimace. "À mon avis, vous serez le numéro vingt-deux ou vingt-trois." Il esquisse un large sourire. "Vous m'avez l'air de quelqu'un qui aime s'impliquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Qu'est-ce qui vous fait croire que je m'intéressais à la naine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'ai vu que vous la regardiez pendant que je fumais. J'ai eu le temps de remplir ma pipe deux fois et vous n'avez pas sourcillé. Votre bouche était si molle que je vous ai d'abord pris pour un membre de la maison Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous savez ce qu'est un Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je suis un peu perturbé en ce moment."</DefaultText>
+      <FemaleText>"Je suis un peu perturbée en ce moment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Impossible, je bave deux fois moins qu'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ses yeux scrutent les environs. Il se penche vers vous. "Faites attention. Il ne vaut mieux pas employer ce mot par ici. Des lèche-bottes de Raedric pourraient vous entendre. 
+
+"Les clairvoyants, les animanciens, les Gardiens... tout ça c'est la même chose pour les gens d'ici, et pour Raedric en particulier. Ils traversent régulièrement la région avec leurs "remèdes" et profitent des désespérés. Aucun d'eux n'est ce qu'il prétend être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Bien sûr. Ça perturbe de rester là, parfaitement immobile, à regarder des cadavres sans sourciller." Il vous fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ha ! D'accord."
+
+"Veuillez me pardonner mon indiscrétion. Par ici, on préfère ignorer nos morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Veuillez pardonner mon indiscrétion. Par ici, on préfère ignorer nos morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ça ne vous regarde pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Très bien. Si les gens d'ici s'occupaient de ce qui les regarde, l'arbre qui est là-bas serait moins chargé. Je devrais peut-être en tenir compte." 
+
+"Je vous laisse contempler les cadavres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vous êtes très amical pour quelqu'un qui a quelque chose à cacher." 
+
+"Vous vous décidez à me dire ce que vous faisiez près de l'arbre ou est-ce que je dois deviner moi-même ?"</DefaultText>
+      <FemaleText>"Vous êtes très amicale pour quelqu'un qui a quelque chose à cacher." 
+
+"Vous vous décidez à me dire ce que vous faisiez près de l'arbre ou est-ce que je dois deviner moi-même ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"En vous regardant, je serais tenté de croire que vous étiez en train de communier avec cette naine."
+
+"Hé... Bon, je ne serai peut-être pas le numéro dix-neuf finalement. Sans vouloir vous contrarier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous pensez que vous serez pendu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ça fait longtemps que ce village m'a pris en grippe. Le seul qui a pris ma défense, eh bien... c'est le numéro dix-huit, là-haut. Mon chef à la ferme. Il était capitaine pendant la guerre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Qu'est-ce que vous voulez dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Hé, malheureusement, je n'ai pas mon mot à dire. Vous pouvez me croire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Il n'y a pas de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"N'en soyez pas si sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Bien. Ça n'a rien de personnel quand ils pendent des gens ici. Je vais essayer de m'en souvenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"La guerre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Pourquoi votre chef a-t-il été pendu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Que vous reproche votre village ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Si vous êtes le prochain sur la liste des pendus, que faites-vous encore ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"La guerre du Saint. La seule que j'ai connue. Le gars se prenait pour l'incarnation vivante d'Eothas. Il a renversé Readceras. Il a marché sur Dyrwood. Alors il a eu droit à un accueil dyrwoodan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Qu'est-ce qu'un accueil dyrwoodan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"On l'a explosé." Il sourit avec l'air de celui qui raconte une blague uniquement pour voir l'effet qu'elle produit et non pour faire rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"J'ai tout mon temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Il soupire et secoue la tête, les yeux rivés sur l'arbre. "C'était inévitable. S'il n'avait pas été accusé d'avoir comploté contre Raedric, on l'aurait accusé de m'avoir protégé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Il lève les yeux sur l'arbre et son regard s'attarde sur un des pendus. "C'est de l'histoire ancienne maintenant."
+
+"Aujourd'hui, ce ne sont pas les villageois qui se chargent des pendaisons, mais quand les hommes de Raedric arrivent, la délation va bon train."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Raedric a envoyé des hommes ici l'autre jour. Ils étaient sûrs qu'un de nous travaillait pour Kolsc. Pour renverser Raedric." 
+
+"Ils ont dit que si cette personne ne se dénonçait pas sur-le-champ, ils nous pendraient tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Il a pris parti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Personne ne s'est dénoncé. Alors Swithin, mon chef, s'est avancé et a dit que c'était lui."
+
+"Ils l'ont pris au mot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Qui est Kolsc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Quelqu'un qui en a eu assez de toutes ces pendaisons. Il est en fuite maintenant. Du moins jusqu'à ce qu'ils finissent par le capturer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Il hausse les épaules. "Je n'ai pas choisi le bon dieu. Tout est parti de là." 
+
+"Autrefois, il y avait beaucoup de fidèles d'Eothas à la Vallée dorée. Le tas de pierre, là-bas, par exemple, c'était un temple qui lui était dédié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Et puis un jour, un certain Waidwen a fait son apparition aux portes de Dyrwood en prétendant être l'incarnation vivante d'Eothas. Il avait une armée avec lui. Et du jour au lendemain, Eothas est devenu beaucoup moins populaire par ici."
+
+"Mon frère Woden et moi, on n'y croyait pas. Ça ne pouvait pas être Eothas. Woden s'est enrôlé, et j'ai suivi son exemple. Mais il n'est jamais revenu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Après la guerre, les gens ont commencé à s'en prendre aux fidèles d'Eothas en les accusant de trahison. Ça a été terrible, surtout au début de l'Héritage. Les gens avaient besoin d'un bouc-émissaire." 
+
+"On me tolérait parce que j'avais combattu, et puis il y a eu cette rumeur qui prétendait que mon frère avait combattu dans le camp de l'ennemi. À partir de ce moment-là, ils ont commencé à me persécuter... jusqu'à ce que mon chef intervienne et leur dise qu'ils devraient d'abord le pendre pour m'atteindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Il sourit timidement. "Je bois, principalement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"En fait, je suis sur le départ. Mais je n'ai pas encore décidé où aller."
+
+"Il n'y a pas beaucoup d'endroits où l'on ne croit pas que l'Héritage de Waidwen a commencé avec Waidwen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nous pourrions voyager ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Il hausse les épaules. "C'est d'accord. Et puis, ça me fera voir du pays." 
+
+Il jette un dernier coup d'œil à l'arbre. "Du moment que vous ne choisissiez pas ce que je dois voir." Il penche la tête en avant et vous adresse un regard sans équivoque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Où allez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Dans un endroit qu'on appelle Caed Nua. Il y a là-bas un vieux Gardien qui peut peut-être m'aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"J'en ai entendu parler il y a plusieurs années. Il a pris le contrôle de cet endroit. Les gens allaient le trouver pour toutes sortes de raisons. Pour des problèmes spirituels. Pour interroger les défunts."
+
+"Évidemment, c'était à l'époque où on pouvait encore prononcer ouvertement le mot de Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Il se gratte la barbe d'un air distrait avec son pouce calleux.
+
+"J'ignore si je dois partir avec un étranger, surtout vous. Mais pour être franc, vous êtes le seul ici qui ne serait pas soulagé de me voir pendu à cet arbre."</DefaultText>
+      <FemaleText>Il se gratte la barbe d'un air distrait avec son pouce calleux.
+
+"J'ignore si je dois partir avec une étrangère, surtout vous. Mais pour être franc, vous êtes la seule ici qui ne serait pas soulagée de me voir pendu à cet arbre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"J'ai comme l'impression que vous attendez qu'ils me pendent pour avoir une de ces conversations de Gardien avec moi. Ce n'est pas juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous dites avoir fait la guerre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Vous cherchiez quelqu'un sur cet arbre ? Je peux vous les présenter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je cherche quelqu'un qui m'aiderait à me sentir mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Non, je n'ai pas besoin d'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il hoche la tête d'un air compréhensif en tirant longuement sur sa pipe. "Mes condoléances." 
+
+Il recrache sa fumée et regarde le village qui l'entoure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Il hausse les épaules. "Alors, vous êtes mieux loti que la plupart des gens d'ici." 
+
+Il regarde le village qui l'entoure.</DefaultText>
+      <FemaleText>Il hausse les épaules. "Alors, vous êtes mieux lotie que la plupart des gens d'ici." 
+
+Il regarde le village qui l'entoure.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>L'homme affiche un large sourire. "Bienvenue dans notre beau village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Drôle de façon de parler de vos défunts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Il lève les yeux sur l'arbre et expire. "On dirait que la moitié du village est là-haut maintenant. Je ne sais pas comment en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je cherche quelqu'un qui m'aiderait à me sentir mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je crois que je n'ai pas besoin d'aide finalement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Une lueur apparaît dans les yeux d'Edér et sa voix gagne en vigueur. "J'aurais des questions à poser à cet homme... Comment n'y ai-je pas pensé plus tôt ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Qui est Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Le dieu de la renaissance et de la rédemption. Du moins, avant."
+
+"Peut-être est-il appelé différemment là d'où vous venez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Aloth fronce les sourcils. "C'est comme ça que vous vous divertissez ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Aloth vous regarde furtivement et baisse le ton. "Vous comprenez pourquoi je voulais partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Aloth vous regarde avec curiosité mais ne dit rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Voilà une bonne raison !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Une odeur de fumée de pipe, terreuse et sucrée, vous titille les narines. Vous levez les yeux et découvrez qu'elle vient d'un homme blond robuste qui est adossé à la paroi d'un rocher moussu. 
+
+Il vous regarde dans les yeux, mais sans aucune agressivité. Un étrange sourire se dessine sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Il vous observe un moment, le front plissé, puis affiche un franc sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"La Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ah, la Baie du défi. Ça fait longtemps que je n'y suis pas allé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Une lueur apparaît dans les yeux d'Edér et sa voix gagne en vigueur. "Eh bien, il y a là-bas quelque chose que j'aimerais bien aller voir, si c'est possible. J'attends ça depuis longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ces rumeurs sur mon frère, sur le fait qu'il aurait combattu contre nous pour le compte de Waidwen. Ça me travaille depuis un certain temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Je repense à ce qu'était Woden. Il savait toujours ce qui était juste et ce qu'il avait à faire. Un jour, il est parti pour Dyrwood afin de combattre un homme qui prétendait être notre dieu. Alors j'ai su que je devais en faire autant. Il le fallait." 
+
+"Quand j'ai entendu dire qu'il était mort en combattant pour Readceras, ça m'a rendu malade. Pas parce qu'il avait choisi le mauvais camp, mais parce que je n'avais pas fait le même choix. Waidwen ne nous inspirait pas confiance, mais s'il s'agissait bien d'Éothas..." Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Le palais de la Baie du défi abrite des archives où tous les documents liés à la guerre du Saint sont conservés. Je pourrais mettre un terme à toutes ces rumeurs."  
+
+"Si vous allez dans cette direction, j'aimerais bien vous accompagner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Les Ormes jumeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Il hausse les épaules. "Quand on a longtemps vécu ici, une ville pleine de Glanfathans hostiles est presque une perspective agréable." 
+
+"C'est d'accord. Et puis, ça me fera voir du pays."  
+
+Il jette un dernier coup d'œil à l'arbre. "Du moment que vous ne choisissiez pas ce que je dois voir." Il penche la tête en avant et vous adresse un regard sans équivoque.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

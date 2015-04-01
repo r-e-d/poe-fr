@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_the_taint</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'offre et la demande</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez et affronter les voyous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Occupez-vous de l'instigateur derrière les attaques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Faites un rapport à Maea à la maison close de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Affrontez Maea à la maison close de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Faites un rapport à Maea à la maison close de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Les voyous harcèlent les prostituées et les clients du Mât salé. Maea, la propriétaire, souhaite y mettre un terme, mais les agitateurs pourraient avoir leurs propres griefs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Maea, la propriétaire du Mât salé, souhaite que j'arrête les voyous qui harcèlent ses clients et ses courtisanes. Elle suspecte que quelqu'un se cache derrière leur organisation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai localisé le chef des voyous. Je pourrais mettre un terme au harcèlement autour de la maison close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maea sera soulagée d'apprendre que je me suis occupé d'Aefre, la personne qui a orchestré les attaques.</DefaultText>
+      <FemaleText>Maea sera soulagée d'apprendre que je me suis occupée d'Aefre, la personne qui a orchestré les attaques.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Aefre a expliqué que Maea a profité de l'Héritage de Waidwen pour augmenter ses prix, à un tel niveau que seuls les riches peuvent se permettre de fréquenter son établissement.
+
+J'ai accepté de convaincre Maea de baisser ses prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Bricanta Doemenel a accepté de baisser les prix de la courge amère. Maea peut maintenant baisser ses prix pour tout le monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Un des voyous a fait tomber une clé qui semble appartenir à une maison dans la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Maea m'a dit qu'elle avait dû monter ses prix en raison de l'augmentation du prix de la courge amère. Elle a suggéré que je parle à Bricanta Doemenel, son fournisseur, dans le manoir Doemenel à Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai été attaqué par des voyous qui harcèlent les clients de la maison close. Si la théorie de Maea se vérifie, l'un d'eux pourrait détenir la preuve d'un complot de plus grande ampleur.</DefaultText>
+      <FemaleText>J'ai été attaquée par des voyous qui harcèlent les clients de la maison close. Si la théorie de Maea se vérifie, l'un d'eux pourrait détenir la preuve d'un complot de plus grande ampleur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Maea m'a dit qu'elle avait dû monter ses prix en raison de l'augmentation du prix de la courge amère. Elle a suggéré que je parle à Bricanta Doemenel, son fournisseur, dans le manoir Doemenel à Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué Aefre. Maea était si heureuse de savoir que les voyous ne la dérangeront plus qu'elle m'a offert une réduction dans la maison close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai persuadé Aefre de mettre un terme au harcèlement. Maea était surprise mais ravie, et elle m'a offert une grosse réduction à la maison close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai dit à Maea qu'elle allait devoir baisser ses prix si elle ne voulait pas que les choses s'enveniment. Elle a accepté à contre-cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai persuadé Maea qu'elle ferait mieux de baisser ses prix à la maison close. Elle a accepté ma logique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai parlé à Bricanta Doemenel à propos de la baisse du prix des courges amères pour Maea. Après l'aide que j'ai apportée, Bricanta était mon obligée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai enfermé Aefre dans mon donjon. Maea était surprise mais ravie, et elle m'a offert une grosse réduction à la maison close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai tué Maea, je n'obtiendrai donc pas de récompense d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

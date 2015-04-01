@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_sanitarium_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Certains visiteurs font tout pour donner du fil à retordre aux animanciens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'apprécierais d'être mieux armé. Et qu'importe si cela rend les clients un peu nerveux."</DefaultText>
+      <FemaleText>"J'apprécierais d'être mieux armée. Et qu'importe si cela rend les clients un peu nerveux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je n'aurais jamais imaginé recevoir des ordres de la part d'une statue parlante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Si vous êtes ici en tant que client, c'est que vous voulez parler à un animancien et pas à moi."</DefaultText>
+      <FemaleText>"Si vous êtes ici en tant que cliente, c'est que vous voulez parler à un animancien et pas à moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je ferais mieux de reprendre mon poste de garde."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

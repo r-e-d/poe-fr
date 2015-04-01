@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_eder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fragments d'une foi éparpillée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Conduisez Edér à Caed Nua pour parler à Maerwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Voyagez avec Edér jusqu'aux archives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Recherchez le champ de bataille de la guerre du Saint avec Edér.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Fouillez le champ de bataille pour trouver des signes de la guerre du Saint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rapportez l'artefact de la bataille à un clairvoyant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Edér a accepté de voyager avec moi. Il semblait avoir des questions auxquelles un Gardien pourrait répondre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Après avoir dit à Edér que je me rendais à Caed Nua pour voir son seigneur, un ancien Gardien nommé Maerwald, il m'informa qu'il avait également des choses à lui demander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Edér pense qu'il pourrait en savoir plus sur les circonstances de la mort de son frère dans la Baie du défi. Il a suggéré qu'il pourrait exister des records des temps de la guerre du Saint dans les archives du palais ducal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Woden, le frère d'Edér, s'est battu pour Readceras et est mort au cours d'une bataille à Clîaban Rilag. Il souhaite voir le champ de bataille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Edér admet qu'il ne sait pas vraiment ce qu'il cherche ici. Il espère trouver des indices de la présence de son frère qui pourraient expliquer pourquoi il a combattu pour Readceras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>L'archiviste était réticent à nous montrer les archives de la guerre du Saint, en raison de Dyrwoodans vengeurs à la poursuite de réfugiés réadcerans. Si j'avais plus de réputation en ville, les choses pourraient être différentes selon lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>L'archiviste était réticent à nous montrer les archives de la guerre du Saint, en raison de dyrwoodans vengeurs à la poursuite de réfugiés réadcerans. Si j'avais plus de réputation en ville, les choses pourraient être différentes selon lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Le rang de Dunryd semble un endroit prometteur, dans la mesure où ses agents clairvoyants sont spécialisés dans ce genre de travail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Le rang de Row n'étant plus une option, je pourrais considérer les Ormes jumeaux pour l'aide dont j'ai besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Maerwald n'était pas en état de répondre à la moindre question quand nous l'avons trouvé. À partir de là, Edér va devoir décider de la suite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai approché l'archiviste, mais l'émeute à l'extérieur du palais le préoccupait. Je vais devoir attendre un meilleur moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nous avons pu confirmer que Woden, le frère d'Edér, s'est battu pour Readceras et qu'il avait même rencontré Waidwen lui-même avant de s'enrôler. Mais rien n'indique la raison de ce choix. Edér ne saura probablement jamais ce qui a inspiré le changement d'allégeance de son frère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>La mort d'Edér met un terme à ses préoccupations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Il est peu probable que nous puissions trouver un clairvoyant capable de lire le morceau de drapeau que nous avons trouvé dans Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_clearing_stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Libérer la voie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Réparez la Barbacane orientale et Voyagez vers les Plaines dégagées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Parlez avec l'intendant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Voyagez vers la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Dans le sillage de la disparition de Maerwald, je me suis retrouvé à la tête d'une forteresse irréparable, Caed Nua. Cependant, si je veux continuer, les réparations sont indispensables.</DefaultText>
+      <FemaleText>Dans le sillage de la disparition de Maerwald, je me suis retrouvée à la tête d'une forteresse irréparable, Caed Nua. Cependant, si je veux continuer, les réparations sont indispensables.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Caed Nua est maintenant à moi, mais le chemin est bloqué par des débris. Si je veux voyager vers les Plaines dégagées, le croisement entre ici et la Baie du défi, je dois réparer la Barbacane orientale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>L'ancien gardien est mort et à présent la forteresse Caed Nua est à l'abandon. Peut-être devrais-je parler à l'intendant sur un moyen de me rendre à la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai libéré la voie vers la Baie du défi. Je devrais me rendre dans la ville dès que possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réparé la route menant hors de Caed Nua. C'était une longue route, mais je suis à présent dans la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai réussi à rassembler mes ressources et réparer la voie menant à la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

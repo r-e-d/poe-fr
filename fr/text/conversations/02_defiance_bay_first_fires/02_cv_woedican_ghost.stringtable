@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_woedican_ghost</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un fantôme déambule au milieu des ruines, déclamant des bénédictions et des prières. Malgré son apparence spectrale, il conserve le visage d'un vieil homme et porte une robe qui témoigne de sa richesse et de son statut. Il se retourne vers vous.
+
+"Vous êtes là pour rendre hommage à l'Ancienne reine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"C'est triste de voir ce que les gens du coin ont fait à l'ancien lieu de culte de Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Louange à la Reine exilée ! Puisse son trône lui être restitué et sa justice triompher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"On m'a dit que le temple de Woedica se trouvait ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"C'est le cas." Le visage trouble du fantôme prend un air menaçant. "Ces sauvages de colons l'ont certes brûlé, mais le culte de la Garante des serments est toujours bien vivant. Ces escaliers mènent au sanctuaire principal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quels escaliers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Seigneur Adwellen Rügfald III. Ravi de faire votre connaissance. Je suis arrivé à Dyrwood à bord d'un des premiers navires en provenance d'Aedyr." 
+
+Ses yeux troubles expriment un certain ressentiment. "Mais contrairement aux péquenots et aux habitants des cabanes des environs, je n'ai pas changé ma façon de vivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je vénère Woedica, la Reine exilée et la Garante de serments. Je viens tous les jours lui rendre hommage."
+
+Son expression témoigne d'une certaine confusion. "Je rêve de retourner en Aedyr, mais mon empereur souhaite que je reste sur ces terres barbares. Alors, je reste." Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ces escaliers-là, bien sûr." Le fantôme désigne un amas infranchissable de décombres. Comme le reste des ruines, on dirait que personne ne s'y est approché depuis plus d'un siècle.
+
+"Le sanctuaire a toujours été souterrain, adjacent aux catacombes, et c'est pour cette raison qu'il n'a pas été détruit par les feux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Dites-moi où je peux trouver l'entrée de ces catacombes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"La Baie du défi abrite plusieurs entrées, mais je dirais que la plus facile d'accès se trouve à Copperlane. Je n'y suis pas allé depuis des lustres, mais si je me souviens bien, elle est située quelque part près de la porte sud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"J'aimerais en savoir plus sur Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Les traits flous du fantôme témoignent de sa joie. "Une reine parmi les dieux. Elle supervise les lois et les serments... Toute chose a sa place et Woedica surveille tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Le fantôme s'agite. "Bien sûr, tout le monde ne l'accepte pas. Même parmi les autres dieux, son autorité est remise en question. Mais Woedica est aussi la déesse de la mémoire et de la vengeance, et elle n'oublie jamais." 
+
+Le fantôme acquiesce lentement. "Elle se souviendra de tous les affronts et offenses lorsqu'elle récupérera son trône."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous savez que vous êtes un fantôme, dites ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je vous demande pardon ? C'est censé être drôle d'où vous venez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ne plaisante pas. Regardez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oubliez ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Il ferme les yeux et se masse les tempes de ses doigts fins. "Un asile de fous. Voilà ce dont cette ville a besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Il soupire. "Il faut vraiment que rentre à Aedyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

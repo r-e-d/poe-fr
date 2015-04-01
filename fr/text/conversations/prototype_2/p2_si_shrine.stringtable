@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_si_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous êtes dans une sorte de sanctuaire en ruine. Devant vous se dressent les vestiges recouverts de mousse d'une ancienne statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examinez la statue.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Seuls subsistent les jambes et les pieds de la statue. De longs sillons indiquent qu'elle pouvait être déplacée. Au pied de la statue, vous découvrez un crâne sculpté dans la pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Examinez le crâne.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Après plusieurs tentatives, vous comprenez que vous ne parviendrez pas à ouvrir la serrure rouillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Poussez la statue.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Un crâne à la mâchoire ouverte est sculpté dans la pierre. En l'examinant de plus près, vous remarquez un trou de serrure rouillé entre les mâchoires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Essayez la clé surmontée d'une tête de mort.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Forcez la serrure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[SkillCheck 0] déplace plusieurs gorges en produisant une série de déclics et de grincements rouillés. Soudain, la statue commence à bouger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Après plusieurs tentatives, vous comprenez que ni vous ni vos compagnons ne parviendrez à ouvrir la serrure rouillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Le piédestal déplacé révèle un passage sombre qui descend sous terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>La clé se glisse facilement dans l'ouverture. Vous la tournez et la statue commence à bouger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le piédestal en pierre semble peser des tonnes. Vous vous demandez qui pourrait le pousser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Demandez à [Slot 0] de le pousser.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Demandez à [Slot 1] de le pousser.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Demandez à [Slot 2] de le pousser.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Demandez à [Slot 3] de le pousser.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Demandez à [Slot 4] de le pousser.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Demandez à [Slot 5] de le pousser.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 0] se penche sur la statue et pousse. Dans un bruit assourdissant, le bloc de pierre commence à glisser lentement le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Slot 0] pousse de toutes ses forces sur la statue en jouant des pieds pour faire levier. Elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Slot 1] se penche sur la statue et pousse. Dans un bruit assourdissant, le bloc de pierre commence à glisser lentement le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 1] pousse de toutes ses forces sur la statue en jouant des pieds pour faire levier. Elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Slot 2] se penche sur la statue et pousse. Dans un bruit assourdissant, le bloc de pierre commence à glisser lentement le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 2] pousse de toutes ses forces sur la statue en jouant des pieds pour faire levier. Elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Slot 3] se penche sur la statue et pousse. Dans un bruit assourdissant, le bloc de pierre commence à glisser lentement le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Slot 3] pousse de toutes ses forces sur la statue en jouant des pieds pour faire levier. Elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 4] se penche sur la statue et pousse. Dans un bruit assourdissant, le bloc de pierre commence à glisser lentement le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 4] pousse de toutes ses forces sur la statue en jouant des pieds pour faire levier. Elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 5] se penche sur la statue et pousse. Dans un bruit assourdissant, le bloc de pierre commence à glisser lentement le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 5] pousse de toutes ses forces sur la statue en jouant des pieds pour faire levier. Elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[N'essayez pas de pousser le piédestal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vous reculez et examinez à nouveau la statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Utilisez un marteau et un ciseau pour percer un trou à côté de la statue.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vous percez un trou au pied de la statue. Progressivement, vos bras s'engourdissent sous les coups de marteau, mais vous parvenez à percer un trou suffisamment large pour laisser passer trois doigts. L'air siffle dans l'ouverture mais quoi qu'il y ait de l'autre côté, vous ne parviendrez pas à l'atteindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Calez un pied-de-biche sous la statue pour la déplacer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous placez le pied-de-biche dans le trou que vous avez percé au burin. Vous poussez de toutes vos forces et sentez la statue glisser en grinçant le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Poussez-la vous-même.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vous vous penchez sur la statue et poussez. Dans un bruit assourdissant, le bloc de pierre commence à glisser lentement le long des sillons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Vous poussez de toutes ses forces sur la statue en jouant des pieds pour faire levier. Elle ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

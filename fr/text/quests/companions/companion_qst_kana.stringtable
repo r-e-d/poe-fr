@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_kana</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Au fil du temps et des marées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez Maerwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explorez les Chemins infinis avec Kana Rua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retrouvez Gabrannos ou la tablette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrouvez les ruines sous Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kana Rua, un aumaua des terres septentrionales de Rauatai, est venu dans le Dyrwood à la recherche d'un texte sacré, le Tanvii ora Toha, ou Livre des vertus. Après une longue année de recherches, il pense avoir retrouvé la trace du texte sous la forme d'une tablette dans les ruines enterrées sous le donjon de Caed Nua.
+
+Il est impatient d'explorer les ruines, et a demandé mon assistance. En attendant, il semble se contenter de m'accompagner dans mes voyages, bien qu'il ait admis de manière assez penaude le faire parce qu'il est poursuivi par de mystérieux assaillants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kana Rua a attendu aux portes du donjon, espérant trouver assistance en franchissant le mur d'enceinte infesté. Il pense que Maerwald pourrait lui fournir les réponses concernant la tablette qu'il recherche. Il semble que nous cherchions tous les deux l'ancien Gardien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Kana Rua pense qu'il trouvera la tablette dans les profondeurs des donjons connus sous le nom des Chemins infinis. Il ne sait pas précisément où la trouver, bien qu'il soit certain qu'elle se trouvera dans les restes de Gabrannos, un ancien érudit Engwithan. Kana semble être aussi excité d'explorer les ruines, que par les ruines elles-mêmes, ayant étudié le peuple Engwithan pendant de nombreuses années.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nous avons passé la porté scellée qui barrait le passage vers les zones inférieures des Chemins infinis. Kana Rua pense qu'il s'agissait du site de l'œuvre de Gabrannos. C'est un endroit sinistre, pour autant Kana Rua semble heureux de s'y trouver, et il serait préférable de découvrir sans tarder les restes de Gabrannos ou son œuvre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maerwald ne nous a été d'aucune utilité. Nous devrons parcourir les ruines sous le donjon par nous-mêmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>La tablette que recherchait Kana Rua a été finalement détruite il y a très longtemps - par qui ou par quoi, impossible de le dire.  Kana semble accuser le coup de cette révélation. J'ai essayé de l'encourager. Quelles que soient les réponses que nous allons trouver, elles semblent toujours être à portée de main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Notre recherche du Tanvii ora Toha est achevée, car nous avons retrouvé les fragments éparpillés de la tablette que convoitait Kana. Kana semble avoir été affecté par la perte de la tablette, et son excitation enfiévrée sur les Chemins infinis s'est considérablement amoindrie. Étant donné ce que l'on a vu, c'est peut être mieux ainsi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Kana a été tué, et ses ambitions meurent avec lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

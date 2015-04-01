@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_alghul_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le côté gauche du crâne de la créature a été enfoncé. Son linceul s'est enchevêtré sur son torse et son cou. Son regard est vide et fixe, indifférent à votre présence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bonjour ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Laissez la créature tranquille.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La créature ne répond pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Donnez un petit coup sur la tête de la créature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous obtenez un bruit grotesque et dégoulinant. La créature ne répond pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Arrêtez ça ! ... J'ai besoin de ces misérables hères pour des tâches subalternes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Après quelques instants, la créature tourne subitement sa tête vers vous. Elle émet un son grave d'expiration et s'avance vers vous, vers le médaillon que vous portez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Vous lui donnez le médaillon.] "C'est à vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Éloignez-vous de moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"N'approchez pas, créature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>La créature prend le médaillon légèrement entre ses doigts brisés et à moitié pourris. Elle expire encore une bouffé d'air puis s'immobilise à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Pfah. Ce sera inutile maintenant, à moins qu'elle ne laisse encore tomber le machin. Pas la peine de s'accrocher aux choses perdues dans passé, je dirais; mais elle a bien perdu sa tête à moitié, hein ? Hé hé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Cette créature semble particulièrement inerte. Elle regarde droit devant sans expression, sans bouger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>La créature tend le bras encore un moment, puis semble perdre toute force. Elle l'abaisse et se tourne à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

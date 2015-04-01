@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_rowan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les bras de Rowan sont croisés, et sa bouche est figée dans un froncement sinistre en regardant les protestataires rassemblés. Il paraît prêt à se battre.
+
+Il vous toise. "Nouveau en ville, hein ? Vous avez bien choisi votre moment pour visiter la Baie du défi. Tous ces réfugiés fuyant la frontière et découvrant que l'Héritage n'est pas mieux ici."
+
+"Ce sont les animanciens, Magran les a brûlé, et ils se terrent dans cette ville comme des rats. Je voudrais préciser, cependant, que nous les Douzaines allons y mettre un terme."</DefaultText>
+      <FemaleText> Les bras de Rowan sont croisés, et sa bouche est figée dans un froncement sinistre en regardant les protestataires rassemblés. Il paraît prêt à se battre.
+
+Il vous toise. "Nouvelle en ville, hein ? Vous avez bien choisi votre moment pour visiter la Baie du défi. Tous ces réfugiés fuyant la frontière et découvrant que l'Héritage n'est pas mieux ici."
+
+"Ce sont les animanciens, Magran les a brûlé, et ils se terrent dans cette ville comme des rats. Je voudrais préciser, cependant, que nous les Douzaines allons y mettre un terme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le front de Rowan est bronzé, à force de passer la journée sous le soleil. "Bienvenue. Vous retrouvez votre chemin dans la ville ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que faites-vous par ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Il fait des gestes vers la foule, dont le brouhaha est des plus nerveux. "J'essaye de raisonner les gens. Nous sommes au milieu d'une crise, et au lieu de purger les forces infâmes de notre ville, le duc octroie aux animanciens de dangereuses libertés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Parlez-moi des Douzaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Il se tape la poitrine. "Nous sommes une organisation de citoyens engagés qui souhaitent libérer la Baie du défi de la dangereuse influence des animanciens et de la tyrannie des aristocrates qui les soutiennent."
+
+"Nous nous considérons également comme une sorte de milice, étant donné que les Chevaliers du Creuset sont à peine plus qu'un troupeau de nobles en herbe ces temps-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Que savez-vous sur l'animancie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Il s'agit de l'étude de la manipulation de l'essence, que n'importe quelle personne saine d'esprit vous décrira comme relevant du domaine des dieux. Les Aedyrans au moins ont eu l'intuition de la déclarer hors-la-loi, ce qui est la seule chose positive que l'on peut dire d'eux."
+
+"Ça n'a rien à voir avec la magie, les chants ou les divinations d'âmes effectués par les clairvoyants. Elle existe depuis les anciens temps engwithans, ce qui explique pourquoi les animanciens bricolent avec d'anciens artefacts engwithans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'aimerais en savoir plus à propos de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ces temps-ci, nous sommes un important port accueillant commerce et visiteurs du monde entier. Mais nous, certains d'entre nous au moins, nous efforçons de maintenir l'esprit des pionniers qui nous a offert la liberté il y a un siècle et demi."
+
+"La ville est divisée en cinq quartiers : Copperlane, Premiers feux, la Faveur d'Ondra, Brackenbury, et la Colline de l'Héritage." Il les désigne par chacun de ses doigts calleux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Parlez-moi de Copperlane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Parlez-moi de Brackenbury."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Parlez-moi des Premiers feux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Parlez-moi de la Faveur d'Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Parlez-moi de la Colline de l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Peu importe. Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Qu'est-ce que vous voulez savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Voici Copperlane." Il tape une botte abîmée sur les pavés. "C'est principalement un quartier marchand, mais y trouvez également le hall d'expédition directement au nord d'ici, où vous pouvez rejoindre l'une des expéditions dans la nature. C'est aussi là que les compagnons martyrs des Douzaines et moi nous retrouvons avec d'autres citoyens concernés."
+
+Il pointe un bâtiment long et recouvert d'un dôme au nord-ouest de votre position. "Et voici le Hall des mystères révélés. Un lieu étrange, si vous voulez mon avis, mais ils ont la plus grande bibliothèque dans le Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Un bruit de dégoût claque dans sa gorge. "L'aristocratie qui n'est pas repartie vers Aedyr est restée ici. La plupart des familles ont retracé leur lignée jusqu'aux anciens temps impériaux."
+
+"En dehors de nombreux nobles oubliés, vous avez la maison Hadret, où opère dame Webb et ses espions, et le sanatorium de Brackenbury, la fosse d'aisance principale de l'animancie dans la ville." Il crache sur les pavés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"C'est là que la révolution a commencé. D'où le nom. Ces temps-ci, c'est plein de politiciens et de proxénètes, mais nous la reprendrons un jour."
+
+"C'est là que vous trouverez le Palais Ducal, l'ambassade vailienne et le donjon du Creuset." Il secoue la tête. "Les Chevaliers du Creuset furent les premiers combattants de la Baie du défi, mais ils ne sont aujourd'hui que des paons enfarinés obnubilés par les titres grandiloquents et leur petite personne."
+
+"Il y a aussi un ancien temple de Woedica. On l'entretient bien pour elle." Il fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Cette partie de la contrée se composait jadis de marais qui ont été asséchés au cours de la période impériale - d'où son nom. Aujourd'hui, c'est un quartier peuplé de marins, de gens ordinaires et de bandits, mais c'est également un lieu divertissant si vous savez où aller."
+
+Il fait un clin d'œil et vous donne un coup de coude. "Cherchez donc le Mât salé lorsque vous y êtes. Sinon, il s'agit principalement d'entrepôts et de maisons abandonnées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Il frissonne. "C'était autrefois un des quartiers les plus prestigieux de la ville. Les héros de la révolution ont obtenu des terrains sur la colline, près d'une ancienne tour engwithan et du cimetière de la ville. Elle offrait la meilleure vue sur la Baie du défi. Elle attire des gens plus riches à présent. Beaucoup de mécènes qui soutiennent l'animancie." Il crache.
+
+Il regarde la foule et baisse la voix. "Vous n'en avez pas entendu parler, mais quelque chose s'est passé là-bas il y a quelques mois. Les autorités l'ont fermé et n'en parlent pas, mais croyez-moi, l'animancie est à blâmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ces animanciens nous condamnent à la colère divine !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Et pourtant le duc et ses lèche-bottes des Chevaliers du Creuset ne font rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Allons-nous laisser ces atrocités continuer sans rien faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Non !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"À bas l'animancie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"L'Héritage de Waidwen était un avertissement. La Colline de l'Héritage en était un autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Faites passer le mot ! Ensemble nous chasserons le fléau de l'animancie hors de la ville !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Une lueur malicieuse se lit dans son œil. "Je parie qu'ils ne parlent pas de la colonie qui a trucidé la servante d'Hadret en Aedyr, n'est-ce pas ?"
+
+"C'est la capitale du Palatinat libre de Dyrwood. Nous avons commencé comme capitale de la colonie aedyrane, mais nous avons botté le Sceptre flasque de ces terres il y a cent cinquante ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"C'est la capitale du Palatinat libre de Dyrwood. Nous avons commencé comme capitale de la colonie aedyrane, mais nous avons botté le Sceptre flasque de ces terres il y a cent cinquante ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Il secoue la tête. "Le problème, c'est que les animanciens n'ont aucune idée de ce que la moitié des artefacts font. Et ils ne voudront pas l'admettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ses yeux luisent. "Et nous cherchons toujours à nous développer. Plus il y a de gens qui voient les choses comme nous, mieux c'est pour le pays."
+
+"Si vous souhaitez en apprendre davantage, arrêtez-vous à l'occasion au repaire d'Admeth, le hall d'expédition. Beaucoup de libres-penseurs peuvent rectifier toutes les absurdités que les nobles et les animanciens voudraient vous faire croire. Vous pourriez même y trouver du travail rémunéré pour des gens motivés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Une vraie milice, les Douzaines. Sauf pour l'entraînement. Et la discipline. Et le code d'honneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Kana lève un poing pour tousser discrètement dedans. "Que des demi-vérités. Mais c'est un exécutant enthousiaste, je ne peux lui retirer cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Kana rit. "Étrange en effet. Cela pourrait être bien moins encore si d'autres civils entrent en jeu. Peut-être devrions-nous y aller, [Player Name], et voir quels mystères sont révélés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Notre ami... catégorique a raison sur un point, au moins."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

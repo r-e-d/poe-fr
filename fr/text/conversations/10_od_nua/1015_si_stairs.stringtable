@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1015_si_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les marches devant lesquelles vous vous trouvez se sont écroulées, cédant la place à une fosse obscure. Vous allez devoir descendre prudemment, et vous risquez d'avoir du mal à remonter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Descendez prudemment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ne bougez pas.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les marches qui permettaient d'accéder à l'étage supérieur se sont écroulées. Mais les roches environnantes semblent solides. Cela vous prendra du temps, mais vous devriez pouvoir les escalader.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Escaladez les roches.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ne bougez pas.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Votre progression est lente, car les roches sont instables, mais vous ne lâchez pas prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Les roches instables et le mur croulant rendent votre progression particulièrement lente et délicate. Peu avant d'atteindre le fond, [SkillCheck 0] pose le pied sur une pierre instable, perd l'équilibre et chute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous descendez prudemment le long du mur et des pierres empilées, et parvenez finalement à rejoindre le fond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous escaladez lentement mais sûrement les roches, et vous vous hissez au bord de la fosse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous vous retrouvez au fond d'un large bassin où vous découvrez de gigantesques blocs de pierre et formations d'adra.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_raed_fampyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alors que vous approchez de la femme souriante qui se trouve au bord de la route, vous ressentez un malaise soudain. De là où vous êtes, vous pouvez voir la teinte livide et maladive de sa peau et de ses yeux, du même blanc laiteux que ceux des cadavres. Son visage est figé en une étrange expression, qui semble lui demander un certain effort à maintenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vous escorterai jusqu'à lui, si vous le voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Oui. Emmenez-moi à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attaquez.] "Tu mourras avec lui, monstre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Une loyale servante, qui a reçu une faveur en échange de ses bons services. Comme mon seigneur, je perdurerai au-delà de ce cycle et passerai l'éternité à parcourir la terre. Si vous voulez des réponses, adressez-vous directement à lui." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Partez.] "Pas encore. J'ai besoin d'un peu de temps pour me préparer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Venez avec moi, alors. Il vous attend là-bas." Elle pointe du doigt la plus haute tour de la forteresse et vous invite à traverser le pont-levis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous avez assez reporté cet instant. Allez-vous relever le défi de notre seigneur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Le seigneur Raedric vous attendait." Le sourire de la femme s'élargit. "Vous avez bien fait d'accepter son défi. Il craignait que vous soyez un pleutre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Alors vous l'aurez. Mais soyez prévenu… vous n'échapperez pas à sa vengeance, où que vous fuyiez."</DefaultText>
+      <FemaleText>"Alors vous l'aurez. Mais soyez prévenue… vous n'échapperez pas à sa vengeance, où que vous fuyiez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Le Seigneur Raedric vous attend en haut de la tour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"C'est donc vrai. Vous avez reçu la faveur de Berath." La pâle créature regarde à travers vous. "Un grand champion du seigneur de la mort."</DefaultText>
+      <FemaleText>"C'est donc vrai. Vous avez reçu la faveur de Berath." La pâle créature regarde à travers vous. "Une grande championne du seigneur de la mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Plus grand encore que celui que je servais." Après un moment, elle met un genou au sol. "Je vous offre ma loyauté, mon seigneur, si vous l'acceptez. Mes pouvoirs sont à votre service."</DefaultText>
+      <FemaleText>"Plus grande encore que celui que je servais." Après un moment, elle met un genou au sol. "Je vous offre ma loyauté, ma dame, si vous l'acceptez. Mes pouvoirs sont à votre service."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Très bien. Allez à ma forteresse de Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Une mort-vivante pour serviteur ? Je ne pense pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>La fampyr se lève et s'incline avec élégance. "Merci, mon seigneur. Je m'y rends sur le champ."</DefaultText>
+      <FemaleText>La fampyr se lève et s'incline avec élégance. "Merci, ma dame. Je m'y rend sur le champ."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Nous exécuterons la volonté du Dieu jumelé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous avez votre victoire, champion."</DefaultText>
+      <FemaleText>"Vous avez votre victoire, championne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je vois." Après quelques instants, la fampyr se lève. Elle incline la tête. "Dans ce cas, que la bénédiction du Dieu jumelé soit sur vous. Je suivrai ma propre voie."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

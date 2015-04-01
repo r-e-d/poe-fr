@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_earn_gods_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Conseil des étoiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Priez les dieux à Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gagnez la faveur divine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Descendez dans la fosse de l'Île des sépultures et rejoignez Breith Eaman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sîdha et Rîhenwn, les délemganes des Ormes, m'ont dit que Thaos avait détruit le chemin qui reliait Teir Evron à Breith Eaman. Je vais devoir descendre dans la fosse de l'Île des sépultures si je souhaite l'atteindre.
+
+Cela implique l'aide des dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les délemganes ont expliqué qu'aucun mortel ne pouvait survivre à la chute menant à Breith Eaman. Mais les dieux peuvent m'en accorder l'accès.
+
+Pour obtenir cette faveur, je vais devoir les prier à Teir Evron, où ils sont censés entrer en communion avec les mortels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Visiblement, les dieux attendent aussi quelque chose de ma part. Pour gagner leur faveur, je vais devoir mener à bien la quête qui m'a été confiée lors de la vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maintenant que j'ai la faveur des dieux, je peux rejoindre l'Île des sépultures et retrouver Thaos.
+
+Les dieux entendent renforcer ma puissance si je leur promets de m'occuper des âmes perdues conformément à leurs attentes. Mais toute trahison ne resterait pas impunie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>En vision, Berath m'a montré un nain et une elfe sur une étrange route. Je les ai tous les deux éliminés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Galawain m'a montré une bataille entre une lionne féroce et un ours puissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Hylea m'a montré un temple situé au sommet d'une montagne en proie à une redoutable menace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Au sanctuaire de Rymrgand, j'ai vu une procession d'elfes pâles devant un mur de glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai promis de renvoyer les âmes dans le cycle en échange de la puissance de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai accepté d'utiliser les âmes pour renforcer Dyrwood en échange de la puissance de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai juré à Hylea de rendre leur âme aux sans-âme. Elle m'a accordé sa puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai fait vœu de consacrer les âmes à l'entropie de Rymrgand en échange de sa puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai appris que l'Île des sépultures était accessible depuis Oldsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai traqué Thaos à Breith Eaman. Il n'est plus possible de faire marche arrière maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

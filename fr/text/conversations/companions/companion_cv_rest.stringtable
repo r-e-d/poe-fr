@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_rest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous sentez une présence rôdant dans les environs. Lorsque vous vous retournez, vous voyez la Mère en deuil vous observer. L'inquiétude plisse les coins de ses yeux et suinte dans votre esprit. 
+
+"Vous portez une coiffe personnelle, Gardien. Je vois que vous êtes entouré d'anciennes vies et de questions sans réponses."</DefaultText>
+      <FemaleText>Vous sentez une présence rôdant dans les environs. Lorsque vous vous retournez, vous voyez la Mère en deuil vous observer. L'inquiétude plisse les coins de ses yeux et suinte dans votre esprit. 
+
+"Vous portez une coiffe personnelle, Gardienne. Je vois que vous êtes entourée d'anciennes vies et de questions sans réponses."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Voyez-vous des détails de mes vies antérieures ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Oui, je les ai ressenties de plus en plus, récemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ce sont mes peines. Je ne voudrais pas avoir à les partager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Elle ferme les yeux et vous ressentez son énergie directement à l'intérieur de vous. Elle fouille votre esprit, vos souvenirs, et des parties de vous qui semblent engourdies et immobiles. Elle est aussi prévenante qu'une mère avec un nouveau-né. 
+
+Enfin, elle se retire. "Je suis désolée. Quels que soient les secrets que cache votre âme, ils ne sont pas présents dans votre esprit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"C'est la raison pour laquelle nous voyageons ensemble. Celui-là peut tirer de la force de plusieurs, et autant peuvent être guéris par le... but d'un seul."
+
+Tandis qu'elle vous regarde attentivement, ses sourcils se froncent, pris d'une nouvelle anxiété. "Votre part obscure vous trouble-t-elle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Restez hors de mon esprit. Compris ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Elle vacille, floue et insuffisante dans votre vision. "Je n'ai aucun désir de m'imposer. Seulement de vous aider et vous renforcer, pour que vous puissiez à votre tour soigner le Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous avez juste commencé à vous étirer et à apaiser les douleurs de votre corps lorsque vous sentez Aloth au-dessus de votre épaule. Il regarde rapidement au loin lorsque vous le remarquez, nouant ses mains en des poings crispés.
+
+"Je suis désolé, [Player Name], je ne voulais pas vous surprendre. Je voulais juste, enfin, vous semblez... préoccupé."</DefaultText>
+      <FemaleText>Vous avez juste commencé à vous étirer et à apaiser les douleurs de votre corps lorsque vous sentez Aloth au-dessus de votre épaule. Il regarde rapidement au loin lorsque vous le remarquez, nouant ses mains en des poings crispés.
+
+"Je suis désolé, [Player Name], je ne voulais pas vous surprendre. Je voulais juste, enfin, vous semblez... préoccupée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Qu'est-ce que vous avez en tête ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"VOUS semblez préoccupé, Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je vais bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Il rit anxieusement. "Vieux Gardiens déments, un culte à nos trousses… comment pourrais-je rester calme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"C'est juste que je viens de remarquer que vous aviez un comportement un peu... inhabituel récemment." Il semble tordre chaque perle de sueur de ses doigts. "Parler à des gens qui ne sont pas là, des souvenirs de votre vie précédente. Je voudrais juste m'assurer que tout va bien." Il fixe un point sur le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ces symptômes vous paraissent-ils familiers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"De quoi s'agit-il réellement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ne sais pas trop quoi en penser non plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ah. Bon. Bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Il sourit. "Alors je suis en bonne compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Cela m'a fait penser à Iselmyr et à l'état discutable de ma propre âme. Mais je suppose qu'il n'y a rien de plus à faire pour le moment, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Aloth lève les yeux vers vous, les yeux grand ouverts et interloqués. "Je m'assurais simplement que tout allait bien. C'est tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Il sourit douloureusement. "Vous me connaissez trop bien."
+
+"Mais il semble que nos afflictions divergent. Iselmyr s'affirme ici et là, mais il n'y a rien de nouveau. Vous, en revanche..." Il tire sur un nœud de cheveux. "Vous semblez empirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oui. Je ne sais pas ce qu'il y a là-dedans, c'est ce qui me dérange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Non. Quoi que j'ai fait, mes décisions ont plus d'importance à présent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Il semble inutile d'y penser plus longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Elle hoche la tête. "J'admire votre clarté, Gardien. Et j'espère pouvoir vous préparer aux décisions à venir."</DefaultText>
+      <FemaleText>Elle hoche la tête. "J'admire votre clarté, Gardienne. Et j'espère pouvoir vous préparer aux décisions à venir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je préfèrerais ne pas en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Elle se retire de vous, s'effaçant dans le fond. Si vous ne saviez pas déjà qu'elle était là, vous avez le sentiment que vous ne la remarqueriez pas du tout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Pardonnez-moi, Gardien. Je ne voulais pas vous déranger."</DefaultText>
+      <FemaleText>"Pardonnez-moi, Gardienne. Je ne voulais pas vous déranger."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Prenez soin de vous, Gardien. Ne laissez pas les chapitres inconnus de votre âme entraver vos initiatives actuelles. Vous devez fortifier votre esprit et trouver la clarté dans votre intention."</DefaultText>
+      <FemaleText>"Prenez soin de vous, Gardienne. Ne laissez pas les chapitres inconnus de votre âme entraver vos initiatives actuelles. Vous devez fortifier votre esprit et trouver la clarté dans votre intention."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Sagani flâne vers vous en étirant ses jambes. Elle tient un sachet de viande de cerf séchée dans une main qu'elle propose tout en s'asseyant en face de vous. Itumaak la regarde d'un air affamé.
+
+"Longue journée." Elle plie un bras derrière sa tête en se tendant jusqu'à ce que vous entendiez un petit éclatement. "Je voulais juste voir comment vous alliez. Vous semblez avoir beaucoup de longues nuits récemment"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Très bien, merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Les choses ne se présentent pas bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"La Clé plombée ne m'a pas encore assassiné, j'imagine donc que je n'ai pas à me plaindre."</DefaultText>
+      <FemaleText>"La Clé plombée ne m'a pas encore assassinée, j'imagine donc que je n'ai pas à me plaindre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Elle croise ses bras par dessus ses genoux. "Écoutez, je n'ai pas eu de groupe de chasse depuis longtemps, mais nous partageons la même histoire à présent. Et même si nous chassons des choses différentes, nous chassons ensemble."
+
+Elle prend un morceau de viande séchée de son sac et en mord une longue bande. Itumaak se pourlèche les babines, et elle lui lance le reste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Il y a un bon côté à tout, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je ne comprends pas exactement ce qui vous arrive, mais je vous aiderai à retrouver Thaos. Comme vous m'avez aidée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"C'est un soulagement. Je suivais un ours d'adra avant. Ma situation n'était pas reluisante, je n'aimerais pas qu'elle empire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"J'avais peur de cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Il détourne le regard à nouveau. "Je devrais vous laisser vous reposer. On dirait qu'une autre longue journée nous attend demain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je ne comprends pas exactement ce qui vous arrive, mais je vous aiderai à retrouver Thaos. Comme vous m'aidez en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Vous vous réveillez en ayant l'impression qu'on vous secoue. Vous ouvrez les yeux et voyez Edér penché sur vous, une main sur votre épaule. Il a l'air inquiet. 
+
+Vos paupières sont lourdes et votre vision est trouble. Des cauchemars oubliés embrument vos pensées. Vous avez l'impression de ne pas avoir fermé l'œil de la nuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hé. Hé ! Vous êtes réveillé ? Bien." 
+
+Il souffle. "Vous étiez très agité. Vos yeux étaient révulsés et vous trembliez." 
+
+"Ça faisait un bon moment que j'essayais de vous réveiller. J'ai cru que j'allais devoir vous jeter un seau d'eau froide à la figure."</DefaultText>
+      <FemaleText>"Hé. Hé ! Vous êtes réveillée ? Bien." 
+
+Il souffle. "Vous étiez très agitée. Vos yeux étaient révulsés et vous trembliez." 
+
+"Ça faisait un bon moment que j'essayais de vous réveiller. J'ai cru que j'allais devoir vous jeter un seau d'eau froide à la figure."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous, euh... n'avez pas l'air de vous reposer beaucoup la nuit. Vous avez des cernes noires sous les yeux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je dors mal en ce moment. La nuit, je fais des rêves... et j'entends des voix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je me repose juste ce qu'il faut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Mêlez-vous de ce qui vous regarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Alors, c'est un truc de Gardien. Je pense qu'il faut juste un peu de temps pour s'y habituer." Il sourit, mais ne semble pas convaincu par ce qu'il vient de dire. 
+
+"Je vous laisse régler ça tout seul. Mais la prochaine fois, vous avez intérêt à vous réveiller plus vite que ça si vous ne voulez pas que je vous jette un seau d'eau froide à la figure."</DefaultText>
+      <FemaleText>"Alors, c'est un truc de Gardienne. Je pense qu'il faut juste un peu de temps pour s'y habituer." Il sourit, mais ne semble pas convaincu par ce qu'il vient de dire. 
+
+"Je vous laisse régler ça tout seul. Mais la prochaine fois, vous avez intérêt à vous réveiller plus vite que ça si vous ne voulez pas que je vous jette un seau d'eau froide à la figure."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Si vous le dites. Mais la prochaine fois, vous avez intérêt à vous réveiller plus vite que ça si vous ne voulez pas que je vous jette un seau d'eau froide à la figure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Alors que vous êtes plongé dans un demi-sommeil, des murmures assourdissants assaillent vos sens. Nuit après nuit, leurs rugissements s'intensifient et leurs attaques se font plus audacieuses ; elles ne restent plus confinées à votre subconscient. 
+
+Au milieu de ce vacarme, vous entendez une voix familière qui vous appelle.</DefaultText>
+      <FemaleText>Alors que vous êtes plongée dans un demi-sommeil, des murmures assourdissants assaillent vos sens. Nuit après nuit, leurs rugissements s'intensifient et leurs attaques se font plus audacieuses ; elles ne restent plus confinées à votre subconscient. 
+
+Au milieu de ce vacarme, vous entendez une voix familière qui vous appelle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Hé ! Ho !" Edér lève les yeux au ciel, soulagé que de vous voir réveillé. 
+
+Il secoue la tête. "Il va falloir que vous arrêtiez ça. J'ai failli vous frapper pour vous réveiller. Vous parliez, mais je ne comprenais rien. Et vous convulsiez tellement que j'ai cru que vous alliez vous briser la colonne vertébrale."</DefaultText>
+      <FemaleText>"Hé ! Ho !" Edér lève les yeux au ciel, soulagé que de vous voir réveillée. 
+
+Il secoue la tête. "Il va falloir que vous arrêtiez ça. J'ai failli vous frapper pour vous réveiller. Vous parliez, mais je ne comprenais rien. Et vous convulsiez tellement que j'ai cru que vous alliez vous briser la colonne vertébrale."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Et votre seau d'eau froide, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Edér hausse les épaules et détourne le regard en ayant du mal à dissimuler un sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ça ne s'arrange pas. Je suis peut-être en train de perdre la raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Que ferais-je sans un ami pour me secouer ?"</DefaultText>
+      <FemaleText>"Que ferais-je sans une amie pour me secouer ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ça suffit. Je ne veux pas en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"J'ai remarqué. Je vous aurais bien réveillé avant, mais j'ai pensé que ça vous ferait du bien de dormir un peu. On ne tient pas longtemps sans sommeil."</DefaultText>
+      <FemaleText>"J'ai remarqué. Je vous aurais bien réveillée avant, mais j'ai pensé que ça vous ferait du bien de dormir un peu. On ne tient pas longtemps sans sommeil."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous êtes nerveux en ce moment. Ça me rappelle Maerwald. Si je peux faire quoi que soit, dites-le-moi." 
+
+"On approche du but. Tenez bon, ça va s'arranger."</DefaultText>
+      <FemaleText>"Vous êtes nerveuse en ce moment. Ça me rappelle Maerwald. Si je peux faire quoi que soit, dites-le-moi." 
+
+"On approche du but. Tenez bon, ça va s'arranger."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Edér fronce les sourcils. "Ça fait du bien de se sentir utile." 
+
+"Je vous aurais bien réveillé avant, mais j'ai pensé que ça vous ferait du bien de dormir un peu. On ne tient pas longtemps sans sommeil."</DefaultText>
+      <FemaleText>Edér fronce les sourcils. "Ça fait du bien de se sentir utile." 
+
+"Je vous aurais bien réveillée avant, mais j'ai pensé que ça vous ferait du bien de dormir un peu. On ne tient pas longtemps sans sommeil."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ce n'est pas le moment de faire des cachotteries. Cette chose est en train de s'emparer de vous. Vous allez avoir besoin d'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"La nuit, vous hurlez comme un chien battu, Gardien." Durance vous donne un petit coup de bâton sur la tête. "Si c'est de la compassion que vous recherchez, vous n'obtiendrez pas la faveur des dieux."</DefaultText>
+      <FemaleText>"La nuit, vous hurlez comme un chien battu, Gardienne." Durance vous donne un petit coup de bâton sur la tête. "Si c'est de la compassion que vous recherchez, vous n'obtiendrez pas la faveur des dieux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"J'ai fait du bruit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous trembliez, vous parliez des langues mortes et vous hurliez de peur. Et c'est devenu une habitude ces temps-ci." 
+
+"Je n'ai pas voulu intervenir avant, mais en vous voyant vous contorsionner, je me suis dit qu'il valait peut-être mieux interrompre ce mauvais rêve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je suis peut-être en train de perdre la raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"C'était spectaculaire, jusqu'à ce que vous interveniez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Je n'ai pas envie d'en parler avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous parlez comme quelqu'un qui implore la pitié alors que son épreuve est presque terminée. Ne cédez pas, Gardien. Ne donnez pas cette satisfaction à vos ennemis avant l'heure."</DefaultText>
+      <FemaleText>"Vous parlez comme quelqu'un qui implore la pitié alors que son épreuve est presque terminée. Ne cédez pas, Gardienne. Ne donnez pas cette satisfaction à vos ennemis avant l'heure."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Cachez-le si vous voulez, Gardien, mais c'est ce qui arrive aux Gardiens qui jouent avec le feu des dieux." 
+
+"Ne cédez pas, Gardien. Ne donnez pas cette satisfaction à vos ennemis avant l'heure."</DefaultText>
+      <FemaleText>"Cachez-le si vous voulez, Gardienne, mais c'est ce qui arrive aux Gardiens qui jouent avec le feu des dieux." 
+
+"Ne cédez pas, Gardienne. Ne donnez pas cette satisfaction à vos ennemis avant l'heure."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_rinatto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Elle me le paiera ! Cette sorcière va..." 
+
+Le marchand vailien tourne en rond en fulminant. En vous voyant approcher, il vous interpelle. 
+
+"Vous là ! Vous êtes là pour faire affaire avec ces sauvages ? Ne faites surtout pas comme moi, allez voir ailleurs !" Il postillonne de colère. "Menteurs ! Tricheurs ! Escrocs !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rinatto détourne le regard en se grattant le cou et en piétinant. 
+
+"Je suis sans ressources, je n'ai plus grand-chose à vendre. C'est très gênant. Si je récupérais mon investissement auprès d'Alarhî, j'aurais les fonds nécessaires pour me réapprovisionner. En attendant, vous pouvez quand même jeter un coup d'œil à ce qu'il reste de mon stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>En vous voyant arriver, Rinatto affiche un large sourire et lève les bras en l'air. "Mon ami, bienvenue ! Vous avez récupéré mon argent ?"</DefaultText>
+      <FemaleText>En vous voyant arriver, Rinatto affiche un large sourire et lève les bras en l'air. "Mon amie, bienvenue ! Vous avez récupéré mon argent ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>En vous voyant approcher, Rinatto sourit et ouvre les bras pour vous accueillir. "Mon ami, vous êtes de retour !" 
+
+Il se frotte les mains. "Alors... Vous voulez voir ma sélection spéciale ?"</DefaultText>
+      <FemaleText>En vous voyant approcher, Rinatto sourit et ouvre les bras pour vous accueillir. "Mon amie, vous êtes de retour !" 
+
+Il se frotte les mains. "Alors... Vous voulez voir ma sélection spéciale ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Encore vous." En vous voyant arriver, Rinatto crache par terre. "C'est à cause de VOUS que j'ai été chassé des Ormes jumeaux ! Il est temps de régler nos comptes." 
+
+Rinatto porte ses doigts à sa bouche et siffle. Des hommes armés apparaissent autour de lui. "J'ai engagé quelques amis pour régler mes comptes avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que comptez-vous faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Quand je mettrai la main sur..." Rinatto s'interrompt en lançant des regards furtifs sur les gardes glanfathans alentour. 
+
+"Je suis au tribunal de ces sauvages. C'est ma parole contre la sienne. Qu'est-ce que je peux faire ? Je ne vais quand même pas la menacer ici, sur le sol tribal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Montrez-moi ce que vous avez à vendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"J'ai récupéré votre argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Di verus ?!" Les yeux écarquillés, Rinatto vous arrache la bourse des mains. "Belfetto ! Je n'y croyais plus !" 
+
+Rinatto compte les pièces en souriant. "Je vous remercie, mon ami. Je vais enfin pouvoir reconstituer mon stock ! Retrouvez-moi au Jeune arbre céleste. Je suis sûr que je trouverai des articles de choix pour un client plein de ressources comme vous."</DefaultText>
+      <FemaleText>"Di verus ?!" Les yeux écarquillés, Rinatto vous arrache la bourse des mains. "Belfetto ! Je n'y croyais plus !" 
+
+Rinatto compte les pièces en souriant. "Je vous remercie, mon amie. Je vais enfin pouvoir me reconstituer mon stock ! Retrouvez-moi au Jeune arbre céleste. Je suis sûr que je trouverai des articles de choix pour une cliente pleine de ressources comme vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>La mâchoire de Rinatto en tombe et ses yeux se plantent dans les vôtres. "Comment osez-vous ? Je n'ai rien fait de tel !" 
+
+Il croise les bras en gonflant le torse. "Et qu'est-ce qui vous fait croire que les Glanfathans accorderont plus de crédit à vos mensonges qu'à ma bonne foi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Merla ! Cette sorcière glanfathane m'a vendu des tiges et des herbes sans aucune valeur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Mentez] "Comment croyez-vous que les Glanfathans réagiront s'ils découvrent que vous faites du trafic de reliques volées ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Sans dents et sans langue, vous aurez du mal à exposer votre version des faits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je suis un Gardien, et les Anamfatha croiront tout ce que je leur dirai."</DefaultText>
+      <FemaleText>"Je suis une Gardienne, et les Anamfatha croiront tout ce que je leur dirai."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Alarhî m'a donné ce scarabée en cage pour vous. Elle a dit que votre « problème » finira lui aussi en cage si vous ne quittez pas les Ormes jumeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Le visage de Rinatto s'enflamme à la vue de ce présent. "La sorcière ! Elle peut se fourrer ce scarabée où je pense !"
+
+Rinatto gesticule dans tous les sens et hausse le ton en postillonnant. "Elle et ses brutes vont me le payer !"
+
+Il lève la main pour frapper la cage et vous la faire tomber des mains...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"On verra bien..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Oh oui", dit Rinatto en riant. 
+
+Il lève la main pour vous faire signe de déguerpir. "Allez-vous-en ! Vous avez assez abusé de ma patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>En vous voyant approcher, Rinatto secoue la tête. "Quoi encore ? Vous avez toujours l'intention de m'accuser de trafic de reliques ? Vous pouvez toujours me menacer d'aller raconter ça aux Glanfathans, ma parole a plus de valeur que la vôtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"C'est vrai, ils ne..." Rinatto s'interrompt et son visage blêmit. "Vous... tenez conseil avec les Anamfatha ?" 
+
+"Excusez-moi, mais j'ai du travail, hum... ailleurs..." Tremblant de peur, Rinatto rassemble ses affaires à la hâte, puis s'enfuit sans un mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je... vois." Le visage de Rinatto devient blanc comme neige. Il baisse la tête, incapable de vous regarder dans les yeux. 
+
+"Excusez-moi, mais j'ai du travail, hum... ailleurs..." Tremblant de peur, Rinatto rassemble ses affaires à la hâte, puis s'enfuit sans un mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Elle me prend pour un imbécile ou quoi ? C'est intolérable ! Alarhî m'a escroqué. Elle me le paiera !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Attrapez rapidement la main de Rinatto avant qu'il effectue son coup.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je ne ferais pas ça..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>À la vitesse de l'éclair, vous saisissez la main de Rinatto et l'empêchez de vous frapper. Il tente en vain de se libérer de votre étreinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Rinatto tente d'attraper la cage mais votre avant-bras l'arrête. L'insecte en cage tombe par terre. Rinatto se tourne vers vous, le visage injecté de sang par la rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Madiccho !" Le marchand vailien hurle à pleins poumons. "Bande de sauvages ! Cette ville maudite brûlera dans les flammes de l'enfer !" Vous entendez un sifflement à proximité. "Je vous tu..." Rinatto s'interrompt. 
+
+La pointe d'une flèche lui transperce la gorge. Le marchand se met à trembler tandis que ses bras se débattent. Il tombe à genoux, la poitrine en sang. Vous levez les yeux et voyez un archer glanfathan approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Ordonnez à Rinatto de s'arrêter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Votre voix retentit et le Vailien s'interrompt. Il recule, un instant terrifié par votre présence, mais se reprend rapidement pour se jeter sur vous avec une vigueur retrouvée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Cette sorcière d'Alarhî ! Elle a prétendu me vendre des boutons de fleurs d'Elardh Golah et je me retrouve avec six boisseaux d'herbes de cuisine ! Je ne peux rien en tirer !"
+
+Il lance une poignée de plantes séchées par terre, puis piétine les tiges et les feuilles desquelles se dégagent des parfums agréables.
+
+"Cette arnaqueuse a intérêt à me rendre mon argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous avez essayé le remède sur vous..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Qu'a dit Alarhî quand vous lui avez parlé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Eh bien, je..." Rinatto gigote en lissant les plis de sa tunique. "Comment pourrais-je vendre un remède que je n'ai pas essayé ? Bien sûr que j'ai essayé l'herbe. Imaginez ce qui serait arrivé si j'avais vendu cette pâle imitation !" 
+
+Rinatto se racle la gorge et baisse la voix. "L'herbe n'a PAS eu l'effet stimulant escompté. La seule chose dure a été d'éviter de vomir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Rien d'intéressant..." marmonne-t-il rapidement. "Elle s'est défendue, bien sûr, en disant que ses herbes n'étaient pas frelatées. Elle avait tout intérêt à mentir, non ? C'est elle qu'on croira, pas moi." 
+
+Il crache par terre. "Alarhî peut mentir en toute impunité avec la bande de brutes sauvages qui l'entoure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Qu'est-ce que l'Elardh Golah ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Rinatto se calme et un sourire nerveux se dessine sur son visage. "L'Elardh Golah est une plante qui pousse dans les jungles d'Eir Glanfath."
+
+Il se racle la gorge et baisse la voix. "Séchée, elle peut être consommée en forme d'infusion, et elle a pour vertu de... euh... d'améliorer la vigueur pour pouvoir s'adonner aux plus grands plaisirs de la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Il soupire en appuyant les mains sur ses tempes. "Je ne peux pas vendre cette herbe frelatée, ni récupérer mon argent. Et je ne peux rien contre Alarhî." 
+
+"Je suppose que...", dit-il en vous jaugeant, "Si vous acceptiez de m'aider, vous réussiriez peut-être là où j'ai échoué. Je vous dédommagerais généreusement, cela va de soi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je vais voir ce que je peux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Rinatto écrase une feuille séchée entre ses doigts en examinant l'herbe d'un air renfrogné. En vous entendant approcher, il lève les yeux sur vous. 
+
+"Vous ici, mon ami ! Avez-vous réfléchi à ma proposition ? Je n'ai aucun ami dans cette ville."</DefaultText>
+      <FemaleText>Rinatto écrase une feuille séchée entre ses doigts en examinant l'herbe d'un air renfrogné. En vous entendant approcher, il lève les yeux sur vous. 
+
+"Vous ici, mon amie ! Avez-vous réfléchi à ma proposition ? Je n'ai aucun ami dans cette ville."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Ignorez l'attaque insignifiante de Rinatto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous déviez le coup de poing de Rinatto. Les os des doigts du marchand craquent en heurtant votre corps robuste.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

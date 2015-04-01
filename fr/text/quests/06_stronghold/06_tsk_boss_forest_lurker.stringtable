@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_forest_lurker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Le Résident</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez le Résident dans la Prairie noire et prenez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la tête du Résident à Fyrgen le gardien dans Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un grand rôdeur des forêts connu sous le nom de Résident a été considéré comme une menace envers les caravanes marchandes traversant la Prairie noire. Sa tête a été mise à prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Un grand rôdeur des forêts a été signalé dans la Prairie noire, et les marchands l'ont surnommé le Résident. Il deviendra rapidement une menace envers les caravanes marchandes, cependant, et ils ont offert une prime si je parviens à tuer cette créature et rapporter sa tête, ou ce qui passe pour être sa tête, au moins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le sort du Résident a été réglé, et je peux réclamer ma récompense lorsque je rapporterai sa tête à Fyrgen le gardien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réclamé la prime sur le Résident.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

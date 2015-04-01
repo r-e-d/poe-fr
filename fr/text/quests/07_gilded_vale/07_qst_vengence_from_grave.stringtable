@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_vengence_from_grave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Vengeance d'Outre-tombe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parlez à Nonton</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez l'homme au manteau rouge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>En explorant les étendues sauvages du Valewood, je suis tombé sur une petite caverne habitée par un ours énorme. J'y ai découvert le cadavre à moitié dévoré d'un homme, dont l'esprit, à l'aide d'un peu de magie, m'a révélé ses derniers moments.</DefaultText>
+      <FemaleText>En explorant les étendues sauvages du Valewood, je suis tombée sur une petite caverne habitée par un ours énorme. J'y ai découvert le cadavre à moitié dévoré d'un homme, dont l'esprit, à l'aide d'un peu de magie, m'a révélé ses derniers moments.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dans le Valewood, je suis tombé sur un étrange chasseur qui m'a dit que son ami avait été tué par un ours énorme dans la région. Après l'avoir explorée, j'ai trouvé la caverne, l'ours et les restes de Perly. J'ai eu une vision des derniers moments de Perly, qui m'a révélé la sordide vérité : son ami Nonton lui a coupé les jarrets alors qu'il tentait d'échapper à l'ours. Les raisons du geste de Nonton ne sont pas claires. Peut-être que j'aurais plus de réponse en allant lui parler. Nonton vit dans la Vallée dorée, une ville alentour.</DefaultText>
+      <FemaleText>Dans le Valewood, je suis tombée sur un étrange chasseur qui m'a dit que son ami avait été tué par un ours énorme dans la région. Après l'avoir explorée, j'ai trouvé la caverne, l'ours et les restes de Perly. J'ai eu une vision des derniers moments de Perly, qui m'a révélé la sordide vérité : son ami Nonton lui a coupé les jarrets alors qu'il tentait d'échapper à l'ours. Les raisons du geste de Nonton ne sont pas claires. Peut-être que j'aurais plus de réponse en allant lui parler. Nonton vit dans la Vallée dorée, une ville alentour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Dans les profondeurs d'une caverne du Valewood, je suis tombé sur un ours énorme en train de dévorer le corps d'un homme qui était vraisemblablement tombé dans son repaire peu de temps avant. En approchant du corps, j'ai eu une vision des derniers instants de l'homme. C'était un chasseur de la Vallée dorée. Dans la vision, un de ses amis l'avait emmené jusqu'à la caverne. Quand l'ours a attaqué, son camarade lui a coupé les jarrets et s'est enfui, le laissant à la merci de l'ours. Le seul signe permettant de reconnaître le coupable était son manteau rouge.</DefaultText>
+      <FemaleText>Dans les profondeurs d'une caverne du Valewood, je suis tombée sur un ours énorme en train de dévorer le corps d'un homme qui était vraisemblablement tombé dans son repaire peu de temps avant. En approchant du corps, j'ai eu une vision des derniers instants de l'homme. C'était un chasseur de Vallée dorée. Dans la vision, un de ses amis l'avait emmené jusqu'à la caverne. Quand l'ours a attaqué, son camarade lui a coupé les jarrets et s'est enfui, le laissant à la merci de l'ours. Le seul signe permettant de reconnaître le coupable était son manteau rouge.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Après avoir entendu la version d'Ingroed, j'ai décidé de la laisser quitter la Vallée dorée avec Nonton. Ils pourront peut-être avoir une nouvelle vie quelque part loin d'ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué Ingroed et Nonton pour leur faire payer leur rôle dans la mort de Perly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai tué Nonton le chasseur, ce qui m'a permis de découvrir des preuves du meurtre d'un vieil ami à lui dans une caverne du Valewood. J'ai dit à l'esprit de Perly que son meurtrier avait trépassé. Peut-être que son âme troublée va maintenant trouver la paix. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai tué Nonton et Ingroed, ce qui m'a permis de découvrir des preuves du meurtre d'un vieil ami à lui dans une caverne du Valewood. J'ai dit à l'esprit de Perly que son meurtrier avait trépassé. Peut-être que son âme troublée va maintenant trouver la paix. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai tué Nonton, l'homme de la vision, ainsi qu'Ingroed. Les raisons de la mort de Perly meurent avec eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

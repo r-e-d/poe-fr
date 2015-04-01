@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_hearing_reactivity</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je vous reconnais. C'est vous qui avez pris la parole à l'audience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous étiez à l'audience aujourd'hui. Vous avez bien parlé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qu'est-ce que vous étiez en train de faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous n'êtes pas avec les Douzaines ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"J'ai fait sortir quelques animanciens par derrière. Mais beaucoup d'entre eux ne s'en sont pas sortis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je l'étais. Mais ce que j'ai entendu à l'audience aujourd'hui..." Il secoue la tête. 
+
+"J'ai tout fait de travers. Si c'était bon pour le duc, c'était bon pour moi. Je me fiche que ce soit un animancien qui l'ait tué, cela ne veut pas dire qu'ils soient tous responsables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ça..." Il désigne les flammes derrière lui, "ce n'est pas censé nous définir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Partez] "Je dois m'en aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Il acquiesce. "Faites profil bas. Patientez un peu. Bonne chance, mon ami."</DefaultText>
+      <FemaleText>Il acquiesce. "Faites profil bas. Patientez un peu. Bonne chance, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Faites profil bas jusqu'à ce que ça se calme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"C'est ce qu'il y a de mieux à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Que s'est-il passé ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Pourquoi avez-vous fait ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Partez] "Je dois m'en aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Les animanciens. Certains d'entre eux ont essayé de sortir du sanatorium par une fenêtre. Je ne pouvais pas les laisser s'enfuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Le duc... Il a essayé de faire de son mieux, et ils l'ont tué. J'ai tout vu. "
+
+"Je sais que nous sommes censés maintenir l'ordre, mais les Chevaliers se fourvoient. L'animancie est trop dangereuse. Vous aviez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Il acquiesce. "Les rues sont dangereuses. Bonne chance, étranger. Je vais rester regarder l'incendie. Je veux me souvenir de ce que nous avons accompli ici aujourd'hui."</DefaultText>
+      <FemaleText>Il acquiesce. "Les rues sont dangereuses. Bonne chance, étrangère. Je vais rester regarder l'incendie. Je veux me souvenir de ce que nous avons accompli ici aujourd'hui."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

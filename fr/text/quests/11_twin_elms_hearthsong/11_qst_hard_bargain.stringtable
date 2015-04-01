@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\11_twin_elms_hearthsong\11_qst_hard_bargain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Difficile marché</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Adressez-vous à Alarhî sur le marché de Hearthsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Donnez l'argent à Rinatto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Persuadez Rinatto de quitter les Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Dites à Alarhî que vous vous êtes occupé de Rinatto.</DefaultText>
+      <FemaleText>Dites à Alarhî que vous vous êtes occupée de Rinatto.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrouvez Alarhî chez elle, dans le quartier d'Hearthsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Récupérez l'argent de Rinatto auprès d'Alarhî.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>À Hearthsong, j'ai rencontré un marchand vailian fou de rage, du nom de Rinatto. Il aurait acheté de l'Elardh Golah au prix fort, une plante aphrodisiaque qui pousse dans les jungles épaisses d'Eir Glanfath. Mais il est convaincu qu'Alarhî, une herboriste glanfathane, l'a trompé en lui vendant une toute autre plante. Rinatto entend récupérer son dû, coûte que coûte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rinatto m'a dit qu'une marchande du marché de Hearthsong, un certaine Alarhî, lui avait vendu de l'Elardh Golan de bien piètre qualité. Je dois parler à cette Glanfathane et la convaincre de rendre au Vailian son argent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai récupéré la somme que Rinatto a payée à Alarhî pour l'Elardh Golan. Je dois trouver Rinatto à Hearthsong, près de l'élévateur qui mène au Jeune arbre céleste et lui restituer son argent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Alarhî prétend que le Vailian a acheté l'Elardh Golan pour sa propre consommation, pas pour en faire commerce, et osa l'insulter en public après avoir réalisé que cette plante ne lui serait d'aucune utilité.
+
+Mais les Glanfathans ont besoin du commerce et entendent éviter une confrontation directe avec Rinatto. Alarhî pense que le Vailian laissera tomber si je menace de l'accuser de trafic de reliques engwithanes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Dites à Alarhî que vous vous êtes occupé de Rinatto.</DefaultText>
+      <FemaleText>Dites à Alarhî que vous vous êtes occupée de Rinatto.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Iŵen, l'apprentie d'Alarhî, m'a dit que l'herboriste est actuellement chez elle, dans le quartier de Hearthsong. Je dois m'y rendre et lui dire que je sais qu'elle a essayé de tromper Rinatto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai décidé de reprendre, par la force, l'argent Rinatto chez Alarhî, à Hearthsong. Je devrais pouvoir la récupérer sur son cadavre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Alarhî a quitté le marché de Hearthsong, peut-être en apprenant que Rinatto avait fait appel à moi pour le dispute au sujet de l'Elardh Golah. Je dois trouver où s'est rendue l'herboriste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Iŵen m'a dit qu'Alarhî vivait dans une maison au nord de Hearthsong, en haut des escaliers qui partent du marché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé Alarhî chez elle, à Hearthsong. Elle est protégée par des guerriers glanfathans, visiblement prêts à tout pour la défendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réussi à récupérer l'argent de Rinatto auprès d'Alarhi, la marchande glanfathane qui l'a trompé en lui vendant un soi-disant aphrodisiaque. J'ai rendu son argent à Rinatto. Il a proposé de me vendre des marchandises spéciales pour me récompenser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai décidé d'aider Alarhî à se débarrasser de Rinatto en défiant le marchand vailien. Sous la pression, il a cédé et quitté la ville glanfathane à la hâte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai décidé d'aider Alarhî et j'ai défié le marchand vailien. Rinatto est mort. Il n'ennuiera plus les Glanfathans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Alarhî et Rinatto sont morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

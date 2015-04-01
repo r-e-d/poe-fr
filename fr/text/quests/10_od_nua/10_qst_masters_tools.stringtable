@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_qst_masters_tools</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les outils du Maître</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Descendez à l'étage inférieur des Chemins Infinis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fouillez les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez voir Tcharek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>En quête de nouvelles connaissances, les vithracks se sont installés dans une partie des grottes située sous Caed Nua, loin de leur colonie d'origine. Ils admirent les talents apparents du Maître en matière d'adra et souhaitent apprendre à l'utiliser pour servir leurs propres desseins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les vithracks m'ont demandé de les aider en fouillant les ruines situées sous leur camp à la recherche de matériaux. Leur chef m'a prévenu que la zone est protégée par de redoutables gardes mécaniques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Maintenant que j'ai atteint les ruines situées sous les grottes, mes recherches peuvent commencer. Les vithracks m'ont demandé de récupérer trois objets : un cristal d'adra raffiné, l'armure d'un des animats lacés d'adra qui parcourt la zone et une pièce provenant d'une des anciennes machines engwithanes. Les vithracks devraient ainsi disposer des matériaux suffisants pour mener leurs expériences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai récupéré tous les objets demandés par le chef des vithracks. Tcharek m'a promis une récompense si je les lui rapportais au camp des vithracks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé une armure d'animat lacé d'adra sur un gardien inactif dans les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé un cristal d'adra pur raffiné dans un des laboratoires des ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>En examinant une des anciennes machines présentes dans les ruines, j'ai découvert un étrange mécanisme lacé de cuivre. Il devrait intéresser les vithracks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>En retournant au camp des vithracks, j'ai été attaqué par des éclaireurs qui voulaient s'approprier mes découvertes.</DefaultText>
+      <FemaleText>En retournant au camp des vithracks, j'ai été attaquée par des éclaireurs qui voulaient s'approprier mes découvertes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>En retournant au camp des vithracks, j'ai dû faire face à des éclaireurs qui voulaient s'approprier mes découvertes. J'ai réussi à les convaincre de me laisser passer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai attaqué le camp des vithracks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai rapporté aux vithracks les objets qu'ils m'avaient demandés. Ces matériaux devraient leur permettre de poursuivre leurs recherches, et avec un peu de chance, ils auront quelque chose à rapporter chez eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

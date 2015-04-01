@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_qst_elder_archives</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les théorèmes de Pandgram</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez le Hall des mystères révélés à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez les Archives séculaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Récupérez les théorèmes de Pandgram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Récupérez le parchemin de Wael pour Grimda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Faites sortir Nedyn du sanatorium de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nedyn, une animancienne rencontrée devant le sanatorium de Brackenbury, m'a parlé des Archives séculaires et des rares manuscrits qui s'y trouvent, parmi lesquels un ouvrage rédigé par un animancien appelé Pandgram.
+
+Elle a besoin des théorèmes de Pandgram pour poursuivre ses recherches, mais les archivistes refusent de la laisser les consulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les Archives séculaires sont cachées dans le Hall des mystères révélés de Copperlane. Je les trouverai quelque part dans la grande bibliothèque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai réussi à entrer dans le Hall des mystères révélés, mais l'accès aux Archives séculaires est bloqué par d'autres portes verrouillées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai réussi à accéder aux Archives séculaires. Le manuscrit que Nedyn m'a demandé de récupérer doit se trouver quelque part par ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Grimda m'a demandé de récupérer un parchemin de Wael volé. 
+
+Si je m'exécute, je pourrai accéder aux Archives séculaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai trouvé les théorèmes de Pandgram dans les Archives séculaires. Nedyn sera ravie de l'apprendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai appris que Grimda était la seule personne à autoriser l'accès aux Archives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Grimda a accepté que j'accède aux Archives séculaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai récupéré théorèmes de Pandgram pour Nedyn qui était plus que ravie de les avoir enfin en main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai récupéré les théorèmes de Pandgram. Elle a regretté les effusions de sang dans le Hall des mystères révélés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai informé Grimda de l'intérêt que portait Nedyn aux théorèmes de Pandgram. Grimda m'a remercié de l'avoir prévenue et d'avoir pris les mesures qui s'imposent pour protéger ce livre. Elle a récompensé mon honnêteté.</DefaultText>
+      <FemaleText>J'ai informé Grimda de l'intérêt que portait Nedyn aux théorèmes de Pandgram. Grimda m'a remerciée de l'avoir prévenue et d'avoir pris les mesures qui s'imposent pour protéger ce livre. Elle a récompensé mon honnêteté.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nedyn a été tuée.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

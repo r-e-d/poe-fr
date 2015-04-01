@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1012_cv_scouts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous éprouvez soudain une violente douleur à la tête, puis une voix stridente qui vous est totalement inconnue résonne dans votre esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Votre chef nous a demandé de prélever des échantillons d'adra pour aider la colonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Belle araignée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"J'ai réussi à me frayer un chemin jusqu'ici depuis la surface. Si vous croyez pouvoir m'arrêter, vous vous trompez ! Laissez-moi passer où vous regretterez chacune des décisions que vous avez prises jusqu'aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"... Tcharek avoir demandé ça ?" La vithrack émet un petit sifflement. "De... ça ?" Sa colère est contenue, mais palpable. "Bon, ouste ! Hommes d'adra écraser facilement animal et Tcharek envoyer nous à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Animal avoir bons yeux." La créature regarde la grande bête d'ivoire située près d'elle et émet un sifflement bref et perçant. "Elle aimer flatterie. Mots doux pour parfumer sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>La vithrack hésite et ses mandibules se crispent. Derrière elle, les autres se regardent. "... Animal pouvoir passer", dit enfin la créature en se déplaçant sur le côté. Elle vous regarde partir d'un air méfiant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Hsst ! Plus déranger nous, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tch. Animal avoir beaucoup tardé. Animal avoir trouvé ce que Tcharek chercher ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Partez.] "Pas encore. Je vais continuer à chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Animal vivant. Et empester poussière et âmes anciennes. Animal avoir adra demandé par Tcharek ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"J'ai trouvé tous les échantillons. Je vais aller les apporter à votre chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Mentez.] "Pas encore. J'ai des questions à poser à Tcharek au sujet d'un des objets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Hors de mon chemin !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Nae." La créature s'avance, toutes griffes dehors. "Animal donner à nous ce que Tcharek demander. Ça pas pour profane. Ver rampant parmi géants." Elle siffle. "Donner maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>L'éclaireuse vithrack pousse un grognement menaçant, mais ne bouge pas. "Animal prononcer nom de Tcharek trop librement. D'accord. Animal pouvoir poser questions", dit-elle en laissant éclater un rire bruyant et désagréable. "Kestorik attendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Si vous croyez que vous me faites peur ! Tcharek m'a demandé de m'en charger parce que vous en êtes incapable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je dirai à votre chef que vous avez menti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Levez le cristal d'adra raffiné.] "Dans ce cas, je devrais peut-être détruire ça et vous laisser en chercher vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Donnez les objets.] "Très bien. Prenez-les."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Attaquez.] "J'en ai assez de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Méfiante, la vithrack marque une pause, puis s'avance. "Animal enfin raisonnable." Mais au moment où elle s'apprête à s'emparer des échantillons d'adra, elle hésite. Ses mandibules se crispent. "... Mais animal pas vivre assez longtemps pour parler à Tcharek." Elle émet un sifflement perçant et ses compagnons s'avancent. "À mort !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous sentez soudain la colère envahir la vithrack. "Intrus vouloir jouer au plus malin. Moi donner animal en pâture à araignées. Elles crever yeux pour sucer jus."</DefaultText>
+      <FemaleText>Vous sentez soudain la colère envahir la vithrack. "Intruse vouloir jouer à plus maligne. Moi donner animal en pâture à araignées. Elles crever yeux pour sucer jus."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Un rire étouffé résonne dans votre esprit. "En quoi ça intéresser Tcharek ? Sstravek'narith plus important. Peuple à nous plus important. Moi avenir donner à nous. Crimes à moi oubliés, insignifiants. Moi rentrer enfin maison." La vithrack émet un sifflement perçant et ses compagnons s'avancent. "Mais intrus... pas avoir d'avenir."</DefaultText>
+      <FemaleText>Un rire étouffé résonne dans votre esprit. "En quoi ça intéresser Tcharek ? Sstravek'narith plus important. Peuple à nous plus important. Moi avenir donner à nous. Crimes à moi oubliés, insignifiants. Moi rentrer enfin maison." La vithrack émet un sifflement perçant et ses compagnons s'avancent. "Mais intruse... pas avoir d'avenir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je fais ça pour votre peuple. Êtes-vous égoïste au point de prendre autant de risques pour vous attribuer tout le mérite de ces découvertes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>La vithrack siffle. "Animal rien savoir. Paroles creuses. Donner adra à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nae !" Un vif sentiment d'inquiétude s'empare de votre esprit. "... Nae." La vithrack serre son poing crochu. "Animal apporter ça à Tcharek. Animal avoir victoire." Elle grogne. "Moi pas oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Animal intrigant et menteur. Aujourd'hui, jour d'animal. Mais demain, jour à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hssst. Bon, animal pouvoir chercher. Nous attendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Shhkt. Bon, d'accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Éloge. Récompense. ... Pas rester sur victoire, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ajik ! Kalethua ar- ... Nae. [Player Race]. Aedyr vasti." La créature émet un claquement étrange, puis sa voix résonne à nouveau dans votre esprit. "Moi nommer animal « intrus ». Tueur. Rodeur endroits éclairés. Où aller animal ?"</DefaultText>
+      <FemaleText>"Ajik ! Kalethua ar- ... Nae. [Player Race]. Aedyr vasti." La créature émet un claquement étrange, puis sa voix résonne à nouveau dans votre esprit. "Moi nommer animal « intrus ». Tueur. Rodeur endroits éclairés. Où aller animal ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous parlez un peu mieux que votre chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Laissez-moi tranquille où vous pourrez aussi m'appeler le tueur d'araignées."</DefaultText>
+      <FemaleText>"Laissez-moi tranquille où vous pourrez aussi m'appeler la tueuse d'araignées."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je cherche le Maître des Profondeurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je ne fais qu'explorer les lieux. Je ne veux pas d'ennuis. Laissez-moi passer et je ne vous dérangerai plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nae. Animal pas passer. Animal rester ici." La créature émet un sifflement aigu et perçant, et ses compagnons s'avancent vers vous. "Adieu, intrus."</DefaultText>
+      <FemaleText>"Nae. Animal pas passer. Animal rester ici." La créature émet un sifflement aigu et perçant, et ses compagnons s'avancent vers vous. "Adieu, intruse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Animal insulter nous. Moi arracher souvenir d'ici de... Animal parler au chef ? Animal visiter nid ?" Vous sentez l'inquiétude de la vithrack résonner dans votre tête. "... Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ça ne vous regarde pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Animal chercher servitude ?" La créature émet un sifflement bruyant semblable à un rire. "Aucun maître ici. Que des morts en dessous. ... Comme animal, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Hsst ! Plus déranger nous, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Alors, tant pis pour animal." La créature émet un sifflement aigu et perçant auquel ses compagnons répondent en s'avançant. "Adieu, intrus."</DefaultText>
+      <FemaleText>"Alors, tant pis pour animal." La créature émet un sifflement aigu et perçant auquel ses compagnons répondent en s'avançant. "Adieu, intruse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Comment se fait-il que vous parliez l'Aedyran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>La créature émet un étrange sifflement. "Intrus se prendre pour trésor rare. Vouloir fouiner ! Moi aussi pouvoir utiliser mots que moi vouloir." Une sensation de démangeaison assaille votre esprit. "Langue est..." Elle marque une pause. "... répugnante", dit-elle, avec délectation.</DefaultText>
+      <FemaleText>La créature émet un étrange sifflement. "Intruse se prendre pour trésor rare. Vouloir fouiner ! Moi aussi pouvoir utiliser mots que moi vouloir." Une sensation de démangeaison assaille votre esprit. "Langue est..." Elle marque une pause. "... répugnante", dit-elle, avec délectation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>La vithrack émet un grognement d'irritation et ses mandibules claquent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Un des autres éclaireurs prend soudain la parole, hésitant. "Kestorik... Paroles animal sensées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Animal savoir quoi sur Chemins Infinis ?" La vithrack grogne. "Animal parcourir eux depuis pas assez longtemps." Elle grogne. "... Animal utiliser ruse pour tromper hommes adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Quoi ? Animal geindre comme bébé skuldr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Pourquoi me combattre ? Je vais donner ça à Tcharek et nous aurons tous les deux ce que nous voulons."</DefaultText>
+      <FemaleText>"Pourquoi me combattre ? Je vais donner ça à Tcharek et nous aurons toutes les deux ce que nous voulons."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Attaquez.] "Ça suffit. Puisque vous voulez vous battre, allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Brandissez vos armes.] "En êtes-vous sûre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je suis très rusé."</DefaultText>
+      <FemaleText>"Je suis très rusée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>La vithrack vous observe un moment en émettant un profond grognement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Vous sentez l'anxiété gagner les éclaireurs. "Kestorik..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Nae. Assez. Animal avoir ce que lui vouloir." La main crochue de la vithrack décrit un geste violent. "Animal retourner voir Tcharek. Animal laisser nous tranquilles. Ouste !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>La vithrack vous examine longuement en silence de ses yeux brillants. Puis elle émet un sifflement bruyant, apparemment frustrée. "Animal vraie peste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Bon, d'accord, animal pouvoir apporter ça à Tcharek. Animal vil, moi pas vouloir regarder. Animal avoir victoire. Quand Chemins infinis engloutir animal dans obscurité, moi avoir gagné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Attendez ! Votre chef nous a demandé de prélever des échantillons d'adra pour aider la colonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Attaquez.] "Puisque vous voulez vous battre, allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>La vithrack pose un genou à terre et émet un sifflement guttural. "Animal... vil et intrigant. Malheur à œufs et famille d'animal ! Kestorik souhaiter animal sombrer dans obscurité et mourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Faites-la prisonnière.] "Vous ne vous en sortirez pas à si bon compte. Je vous ramène à Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Comme vous voudrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"À mort, vermine !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Faites-la prisonnière.] "Vous ne vous en sortirez pas à si bon compte. Je vous ramène à Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

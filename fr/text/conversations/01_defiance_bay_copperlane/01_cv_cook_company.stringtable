@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_cook_company</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme soigné s'avance dans le hall avec assurance, un sourire suffisant gravé sur son visage. Il est flanqué de cinq autres individus à l'air dur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Un des ses compagnons vous lance un bref regard avant de cracher à vos pieds. "Encore un gamin en vadrouille, je vois. Sachez simplement que les Massacreurs de géants de Byne font la loi par ici et tout se passera bien."</DefaultText>
+      <FemaleText>Un des ses compagnons vous lance un bref regard avant de cracher à vos pieds. "Encore une gamine en vadrouille, je vois. Sachez simplement que les Massacreurs de géants de Byne font la loi par ici et tout se passera bien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Si vous le dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"C'est un bon conseil. Voilà le reste. Primo, les primes de choix nous reviennent. Deuzio, les Massacreurs de géants ne partagent pas. C'est aussi simple que ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Jamais entendu parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ses yeux se plissent. "Maintenant si. Restez dans la Baie du défi et ça se reproduira. De nombreuses primes sont disponibles, mais il y a une raison pour laquelle les tueurs de géants ont la part du lion. Rappelez-vous en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Une voix retentit à travers le hall. "Assez de bla bla, Byne. Tu t'occupes de ce travail ou tu en parles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ses mâchoires se serrent. "Wenan a raison. Cet argent ne va pas se collecter tout seul." Il regarde ses camarades et donne un coup de menton vers la porte. "À la revoyure, gamin."</DefaultText>
+      <FemaleText>Ses mâchoires se serrent. "Wenan a raison. Cet argent ne va pas se collecter tout seul." Il regarde ses camarades et donne un coup de menton vers la porte. "À la revoyure, gamine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous enrôlez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Il rit. "On a par ici les meilleurs aventuriers et on ne s'occupe pas des causes charitables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Hors de mon chemin, gamin.'"</DefaultText>
+      <FemaleText>"Hors de mon chemin, gamine.'"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_downwind_mercenary_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Arrêtez ! Allié ou ennemi ?!" L'homme, qui porte une armure maculée de sang, pointe son épée vers vous alors que ses camarades, blessés et épuisés, se regroupent derrière lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dès que la voie sera libre, faites-le-nous savoir. Nous sommes prêts... Blessés ou non... Nous courrons le plus vite possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Allons-y ! Il n'y a pas de temps à perdre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Un filet de sang s'écoule d'une entaille située entre son front et son cou, tachant un médaillon pendant à une chaîne en or. "Vous ne faites pas partie des Glanfathans..." Sa main serre la poignée de son épée. "Par Magran, ami ou ennemi, ai-je demandé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je peux peut-être vous aider à sauver votre peau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"C'est Cwineth qui m'envoie. Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Attaquez.] "Pardon, "allié", je suis avec les Glanfathans !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le visage d'Esmar rougit et vous apercevez l'esquisse d'un sourire sur ses lèvres. "Toute aide est la bienvenue. Nous sommes coincés entre les stelgaers au nord et les Fangs au sud. Si vous réussissez à disperser l'un ou l'autre de ces groupes, nous pourrons nous enfuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Cette fille est habile !" Le capitaine laisse échapper un petit rire avant de reprendre son air sévère. "Nous pensions que les Glanfathans l'avaient tuée avant de venir nous voir. Je suis soulagé d'apprendre qu'elle est toujours en vie et prête à nous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je me suis occupé des Glanfathans."</DefaultText>
+      <FemaleText> "Je me suis occupée des Glanfathans."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'ai sécurisé les bois situés au nord. Ces stelgaers ne vous importuneront plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Attaquez.] "J'ai décidé d'aider les Glanfathans. Défendez-vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je vais voir ce que je peux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Esmar cligne des paupières et fronce les sourcils d'un air surpris. "Tous ?" Le contour de ses yeux se plisse alors qu'il arbore un large sourire. Le capitaine des mercenaires n'est plus. "Vous avez entendu ça, les gars ? On devrait pouvoir partir. Allez-y !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je dois m'en aller maintenant. Au revoir"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Calmez-vous. Je suis un allié."</DefaultText>
+      <FemaleText>"Calmez-vous. Je suis une alliée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Mentez.] "Un allié, bien sûr."</DefaultText>
+      <FemaleText>[Mentez.] "Une alliée, bien sûr."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Attaquez] "Un ennemi."</DefaultText>
+      <FemaleText>[Attaquez] "Une ennemie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Son épée toujours pointée vers vous, l'homme lance un regard en coin à ses compagnons et fait un signe de la tête. Les mercenaires baissent les armes. "À la bonne heure ! Des alliés, si loin de chez nous." Son bras ploie sous le poids de son épée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>L'homme lève le poing jusqu'à ses lèvres et embrasse le médaillon. "Saretta... Rendez-le fort." Des deux mains, il agrippe son épée et vous fixe des yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Il regarde les autres mercenaires d'un air inquiet. "Regardez-nous... Cachés dans les rochers et acculés." Il désigne le sud. "Les Fangs... Ils ont décimé nos rangs et maintenant, nous sommes pris au piège."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Heureusement, vous n'avez pas perdu votre médaillon lors de l'échauffourée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Il prend appui sur son épée, toujours maculé de sang au niveau des épaules. "Les membres de la tribu nous ont pris en embuscade alors que nous nous dirigions vers le camp. Il s'en est suivi un combat inégal." Esmar fixe ses pieds avant de poursuivre.
+
+"Au cours de la mêlée, un homme a trébuché dans le feu de camp. Nous avons eu de la chance... L'odeur de la chair brûlée et l'épaisse fumée qui s'en est dégagée ont permis à plusieurs d'entre nous de s'échapper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Nous avons rejoint ces ruines afin de nous regrouper, mais maintenant, nous sommes pris au piège. Ces hommes au visage peint se trouvent au sud de notre position et ils nous tiennent. Ils n'hésiteront pas à nous laisser mourir de faim le temps de se reposer et de reprendre des forces avant de nous attaquer à nouveau."
+
+Sa main gauche tripote un médaillon qu'il porte autour du cou. "C'est sûrement là que nous livrerons notre dernier combat," murmure-t-il en serrant son bijou en or.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Si ces chasseurs se trouvent au sud, ne pouvez-vous pas vous enfuir vers le nord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nous pourrions partir en courant dans cette direction, peut-être même échapper aux Glanfathans en nous dépêchant, mais..." Le capitaine regarde par-dessus son épaule et secoue la tête. "Nous avons repéré une meute de stelgaers par-là. À choisir, je préfère me faire rapidement tuer par ces sauvages au visage peint qu'être dévoré par une de ces redoutables créatures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Il regarde en direction du nord. "Si j'étais paranoïaque, je dirais que ces créatures sont de mèche avec les membres de la tribu. Mais je pense qu'ils sont tout simplement ici pour se remplir la panse. Nous sommes tous blessés et couverts de sang. Nous empestons l'odeur du sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Se concentrer sur le positif ?" demande-t-il en souriant tout en tripotant le médaillon de ses doigts calleux.
+
+"C'est pour mon fils... Lorsqu'il sera en âge de se voir confier ce genre de chose. Il n'a que quelques mois. Et n'est pas né sans âme... Louanges à Hylea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'avais promis à ma bien-aimée que notre enfant ne manquerait de rien." Il vous regarde et arbore un sourire embarrassé. "J'aurais également dû lui promettre de ne pas risquer ma vie à chercher un trésor à Eir Glanfath. Et me voilà en train d'espérer que ce petit aura l'intelligence de sa mère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Il se retourne pour s'adresser à ses soldats. "Messieurs, rassemblez votre matériel et lacez vos chaussures... Nous allons peut-être pouvoir rentrer chez nous !"
+
+Il hisse son sac sur son dos. "Lorsque la voie sera libre, au nord ou au sud, prévenez-nous et nous nous dépêcherons de rejoindre Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ils applaudissent, soulagés, et se mettent en route. Esmar lève le poing et l'agite. Le médaillon danse comme s'il prenait vie. Le capitaine acquiesce et vous lance un dernier regard avant de rejoindre ses compagnons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"J'ai réussi à convaincre les Fangs de laisser repartir vos hommes, mais à la seule condition que vous soyez fait prisonnier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Esmar cligne des yeux et fronce les sourcils d'un air surpris. "Vous... avez réussi à les convaincre ?" 
+
+Le contour de ses yeux se plisse alors qu'il arbore un large sourire. Il regarde son médaillon, puis lève les yeux vers vous. "Prisonnier ? Si c'est la seule solution pour sauver mes hommes... J'accepte. Mais le prisonnier de qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Le capitaine s'éloigne et tous ses soldats le regardent apeurés.
+
+Esmar prend une profonde respiration, puis lève le poing. "Nouveaux ordres... Vous devez vous replier. L'expédition est terminée. Rangez votre matériel et rejoignez immédiatement la Baie du défi !"
+
+Les mercenaires se regardent, attendant que l'un d'entre eux obéisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous êtes sourds ou quoi ? Je ne vous le redirai pas. L'heure est venue de partir ! IMMÉDIATEMENT !" La voie tonitruante d'Esmar finit de convaincre les mercenaires. Les blessures sont pansées à la hâte, le matériel rangé et, en quelques minutes, les hommes se mettent en route, saluant leur chef lorsqu'ils passent à son niveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Mon devoir est de faire en sorte que mes hommes rentrent chez eux. Et tant pis si cela doit me coûter ma liberté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Parlez à Cwineth. Je serai prêt à suivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Le mercenaire vous fait un signe de la tête, les yeux rivés en direction du sud. "Vous ne devriez pas rester ici... Lorsque les Fangs arriveront, ils penseront que vous êtes des nôtres et vous réserveront le même sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Alors que le dernier homme s'en va, Esmar se tourne vers vous et vous fait un signe de la tête. "Je dois finir ce que j'ai commencé." Il attrape un couteau qu'il porte à la ceinture, le glisse sous son gant gauche, avant de l'enfoncer dans son poignet en gémissant.
+
+"Allez... Allez dire aux Fangs que j'ai honoré ma part du marché," dit-il avant de prendre place sur un mur en pierre et d'enfoncer la lame dans son autre gant. Il ferme les yeux et s'affaisse lentement dans une mare de son propre sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je peux vous accueillir dans mon bastion en tant que prisonnier... Vous y serez bien traité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Les Fangs vous feront prisonnier, en échange de quoi vos hommes seront libres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Finir mes jours aux mains des Glanfathans ? Je me demande s'il ne vaut pas mieux mourir." 
+
+Il retire la chaîne et le médaillon qu'il porte autour du cou et les remet à un soldat situé près de lui. "Vous savez à qui les remettre." Les deux hommes acquiescent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vous pensez qu'ils accepteront que je sois VOTRE prisonnier ?" Il recule d'un demi-pas et vous regarde de haut en bas.
+
+"Parfait ! Je veux bien être fait prisonnier pour permettre à mes hommes de rentrer chez eux. Je suis sûr que vous devrez faire de moi votre prisonnier pour honorer ce marché, mais je comprends. C'est mieux que d'être prisonnier des Fangs..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Son épée toujours pointée vers vous, l'homme lance un regard en coin à ses compagnons et fait un signe de la tête. Les mercenaires baissent les armes. "Par la flamme, le héros de la Baie du défi ! Quelle joie de retrouver des amis si loin de chez soi !" Son bras ploie sous le poids de son épée.</DefaultText>
+      <FemaleText>Son épée toujours pointée vers vous, l'homme lance un regard en coin à ses compagnons et fait un signe de la tête. Les mercenaires baissent les armes. "Par la flamme, l'héroïne de la Baie du défi ! Quelle joie de retrouver des amis si loin de chez soi !" Son bras ploie sous le poids de son épée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Esmar cligne des yeux et fronce les sourcils d'un air surpris. "Eh bien, je crois que vous étiez le seul à pouvoir obtenir un tel arrangement. Mais..." 
+
+Le contour de ses yeux se plisse alors qu'il arbore un large sourire. Il regarde son médaillon, puis lève les yeux vers vous. "Prisonnier ? Si c'est la seule solution pour sauver mes hommes... J'accepte. Mais le prisonnier de qui ?"</DefaultText>
+      <FemaleText>Esmar cligne des yeux et fronce les sourcils d'un air surpris. "Eh bien, je crois que vous étiez la seule à pouvoir obtenir un tel arrangement. Mais..." 
+
+Le contour de ses yeux se plisse alors qu'il arbore un large sourire. Il regarde son médaillon, puis lève les yeux vers vous. "Prisonnier ? Si c'est la seule solution pour sauver mes hommes... J'accepte. Mais le prisonnier de qui ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

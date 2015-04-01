@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_hub_self_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Il grogne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Parlez-moi d'Ashfall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Durance est nom étrange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Pas plus que « Gardien ». Et d'ailleurs, Durance n'est pas un nom, c'est un titre."</DefaultText>
+      <FemaleText>"Pas plus que « Gardienne ». Et d'ailleurs, Durance n'est pas un nom, c'est un titre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Que signifie ce titre alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous m'avez dit que Durance était un titre, pas un nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"J'ai dit ça ? Ah oui." Il ricane. "Vous avez bonne mémoire. C'est ça que vous voulez entendre ?"  
+
+"C'est un titre. Les noms sont inutiles. Ce qui doit être honoré, c'est l'action et la concentration..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Que signifie votre titre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Durance grogne. "Que signifie « Gardien » ? Durance est un titre sacré de Magran... qui vient de ses souvenirs, peut-être, d'une branche de son enseignement." Il tapote son bâton, comme si la mémoire lui revenait, puis hausse les épaules.  
+
+"Ne perdons pas de temps à parler de ça. Nous n'avons pas parcouru assez de routes ni partagé assez de feux de camp ensemble. Et cet enseignement de Durance... Eh bien, Durance n'est pas un chapitre très populaire de la foi."</DefaultText>
+      <FemaleText>Durance grogne. "Que signifie « Gardienne » ? Durance est un titre sacré de Magran... qui vient de ses souvenirs, peut-être, d'une branche de son enseignement." Il tapote son bâton, comme si la mémoire lui revenait, puis hausse les épaules.  
+
+"Ne perdons pas de temps à parler de ça. Nous n'avons pas parcouru assez de routes ni partagé assez de feux de camp ensemble. Et cet enseignement de Durance... Eh bien, Durance n'est pas un chapitre très populaire de la foi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous n'êtes pas vêtu comme un prêtre... et on dirait que votre robe a été brûlée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Est-ce la robe que vous portiez à Halgot ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Pouvez-vous me parler de votre bâton ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Permettez-moi de vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"C'est tout. Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'aimerais vous poser d'autres questions sur vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Pourquoi ? Parce que vous êtes un Gardien." Il grogne. "Un Gardien suit deux routes faites de « pourquoi ». Tandis que moi je me demande « quoi »."  
+
+"Il fut un temps où je n'aurais pas accordé la moindre attention à vos paroles. Ni à votre personne d'ailleurs... Mais aujourd'hui, je me consacre à la recherche de Gardiens pour leur enseigner la vérité et découvrir laquelle des deux routes les attire." Il sourit d'un air moqueur.</DefaultText>
+      <FemaleText>"Pourquoi ? Parce que vous êtes une Gardienne." Il grogne. "Une Gardienne suit deux routes faites de « pourquoi ». Tandis que moi je me demande « quoi »."  
+
+"Il fut un temps où je n'aurais pas accordé la moindre attention à vos paroles. Ni à votre personne d'ailleurs... Mais aujourd'hui, je me consacre à la recherche de Gardiens pour leur enseigner la vérité et découvrir laquelle des deux routes les attire." Il sourit d'un air moqueur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"La vérité ? Quel genre de vérité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Soit vous êtes un champ desséché qui doit être brûlé..." Il fronce les sourcils, le regarde inexpressif. "... Soit vous êtes perdu dans l'obscurité. Dans les deux cas, vous n'avez pas les même perceptions que les autres." Il esquisse un petit sourire, puis le ton de sa voix devient accusateur. "Je le sais à la façon dont vous avez remarqué le bâton."  
+
+"Rares sont ceux qui peuvent le voir dès le premier regard. Je ne parle pas des inscriptions ou des flammes, mais de vos yeux..." Il vous fixe, presque impatiemment, en acquiesçant. "... Vos yeux ont suivi le chemin. Je les ai vus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Alors qu'êtes-vous ? Un champ desséché ou un être perdu dans l'obscurité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Le visage de Durance se crispe. "On cesse de se poser cette question le jour où nos chemins n'ont plus besoin de se rejoindre, et l'épreuve..." Durance lève son bâton. "... L'épreuve est alors terminée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Alors vous n'en savez rien, vous non plus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vous savez que cette nation est malade. Inutile d'être un Gardien pour le voir à travers les enfants, la politique, les hommes qui parcourent les routes avec un couteau à la main et une expression criminelle dans le regard."  
+
+"Ce pays a besoin que la vie revienne, que de nouvelles graines soient plantées dans le sol brûlé." Il baisse le ton, un soupçon de moquerie dans la voix, et il plisse les yeux. "Et quelque chose me dit que vous voyez le chemin à suivre pour que cet avenir se réalise, Gardien. Comme tous vos semblables."</DefaultText>
+      <FemaleText>"Vous savez que cette nation est malade. Inutile d'être une Gardienne pour le voir à travers les enfants, la politique, les hommes qui parcourent les routes avec un couteau à la main et une expression criminelle dans le regard."  
+
+"Ce pays a besoin que la vie revienne, que de nouvelles graines soient plantées dans le sol brûlé." Il baisse le ton, un soupçon de moquerie dans la voix, et il plisse les yeux. "Et quelque chose me dit que vous voyez le chemin à suivre pour que cet avenir se réalise, Gardienne. Comme tous vos semblables."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Alors... nous devons nous assurer que votre vision soit juste. Cette nation et son peuple n'ont plus besoin de tous ces mensonges qui les aveuglent, et moi non plus. Vous TESTEZ une vérité, vous ne l'acceptez pas aveuglément."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Et comment comptez-vous me tester ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"En voyageant ensemble, naturellement... Nos vérités s'associeront, en accordant nos pas, en rythme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Les autres prêtres peuvent garder leurs enseignements et leurs sermons... Car ma foi, mon enseignement... qui consiste à ce que nous voyagions ensemble... est une vérité simple et implacable." Il affiche un large sourire et se frappe deux fois la taille. "Quand une vérité se heurte à la jambe d'une autre, les deux jambes sont solides."  
+
+"Mais si un mensonge se heurte au genou avec la même force..." Son sourire disparaît et ses yeux se plissent. "... Eh bien, vous l'estropiez et il ne vous reste plus qu'une jambe sur laquelle vous appuyer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Est-ce pour cela que vous avez ce bâton ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Est-ce pour cela que je..." Durance s'interrompt, cligne des yeux, puis sa tête bascule en arrière et il éclate d'un long rire, jusqu'à ce qu'il commence à manquer d'air.  
+
+"Vos paroles méritent peut-être d'être entendues, Gardien." Il fronce les sourcils, le visage sévère. "Mais la vérité l'emportera. Suivez le rythme et nous verrons."</DefaultText>
+      <FemaleText>"Est-ce pour cela que je..." Durance s'interrompt, cligne des yeux, puis sa tête bascule en arrière et il éclate d'un long rire, jusqu'à ce qu'il commence à manquer d'air.  
+
+"Vos paroles méritent peut-être d'être entendues, Gardienne." Il fronce les sourcils, le visage sévère. "Mais la vérité l'emportera. Suivez le rythme et nous verrons."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vous ne serez pas déçu par ma vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"La route est jeune. De même que vos paroles."  
+
+"La vérité l'emportera. Suivez le rythme et nous verrons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous me mettez à l'épreuve alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Épargnez-moi vos jugements. Aucun de nous n'en a besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Votre esprit en a besoin. Et si vous parcourez cette nation en débitant des mensonges... cela ne fait qu'attiser les flammes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Et quelles sont ces deux routes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Durance ?" Durance vous regarde furtivement, s'apprête à hausser les épaules, puis vous regarde à nouveau et fronce les sourcils. "Hm. Nous avons parcouru assez de routes et partagé assez de feux de camp ensemble pour que je sache que vous êtes prêt à souffrir sur l'une d'elles et à emprunter l'autre."  
+
+"Chaque dieu qui a des fidèles leur réserve un chapitre, qu'ils le sachent ou non." Durance fronce les sourcils. "Je le sais."</DefaultText>
+      <FemaleText>"Durance ?" Durance vous regarde furtivement, s'apprête à hausser les épaules, puis vous regarde à nouveau et fronce les sourcils. "Hm. Nous avons parcouru assez de routes et partagé assez de feux de camp ensemble pour que je sache que vous êtes prête à souffrir sur l'une d'elles et à emprunter l'autre."  
+
+"Chaque dieu qui a des fidèles leur réserve un chapitre, qu'ils le sachent ou non." Durance fronce les sourcils. "Je le sais."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ce chapitre n'est pas intentionnel, c'est une flamme qui vous saisit. Tout le monde interprète différemment les dogmes, les hymnes et les rituels, et que vous l'admettiez ou non, les feux qui s'emparent de vos sens forment tous un grand feu qui devient votre religion. Votre mode de vie. Votre route."  
+
+"Les fidèles empruntent ce qu'ils veulent au dieu, puis le traduisent... comme avec Durance. C'était un homme autrefois, avant qu'il ne devienne une religion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Durance était-il un saint ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je ne connais pas les enseignements de Durance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je croyais connaître tous les chapitres de Magran, mais celui-là m'est étranger. Quels étaient ces enseignements ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Durance, un saint ?" Durance éclate de rire. "Non, il travaillait pour gagner sa vie."  
+
+Il cesse de rire, puis vous regarde. "C'est une vieille blague de soldat... mais c'est valable aussi pour les saints."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Non, il n'y a aucun saint dans ses enseignements. Ses disciples ont accompli presque tout le travail, comme des soldats qui partent à la guerre." Durance ricane. "Ses enseignements sont... « inappropriés »... aujourd'hui. Il s'agissait de différentes épreuves et leçons, entrelacées au nom de la foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Quels étaient ces enseignements ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Le visage de Durance s'assombrit et il tapote sur son bâton. "Il n'y a aucun texte, aucune poésie ni aucun jeu de mot sujets à interprétation. Ses disciples ne sont souvent pas les bienvenus, alors ils marchent... par dévotion physique." Durance grogne. "Bien des métaphores ont tué des hommes, alors qu'il aurait été préférable de leur montrer la vérité, aussi laide soit-elle."  
+
+"Avant Durance, ma foi reposait sur ces textes, et j'encourageais les autres à pratiquer leur foi de la même façon. Cela n'a fait que les affaiblir, les rendre indignes de la flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Le visage de Durance s'assombrit. "Les dévotions remontent à l'époque lointaine où Magran ne se contentait pas d'écarter les jambes devant n'importe quel jeune initié."   
+
+"Elle renvoyait ces « fidèles » et leur demandait de parcourir le monde pour prouver leur dévotion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"En fonction de l'issue des épreuves et des jugements, ils avaient alors... accès au dieu. Mais chaque initié devait trouver lui-même le feu qui était en lui et ce feu..."   
+
+Durance fronce les sourcils. "Ce feu brûlait rarement dès la première fois où ils frappaient à la porte de Magran... Ce n'est pas en mendiant que l'on se transforme. En tout cas... les mots n'ont pas l'écho qu'ils devraient avoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Pourquoi cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Les raisons sont si nombreuses qu'une vie entière ne suffirait pas à toutes les énumérer." Durance plisse les yeux, comme s'il regardait au loin. "Mais les enseignements de Durance comprenaient également le rejet du clergé établi qui, lui aussi, devait prouver sa dévotion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Il s'agit d'épreuves que peu de gens peuvent endurer lorsqu'ils se sont habitués... au confort." Il fronce les sourcils et son regard s'assombrit. "Ils jugent les épreuves de Durance... inutiles à la continuité de la foi. Et même « inopportunes » parfois. Pour eux, et contrairement aux enseignements de Durance, il existe d'autres moyens de propager le feu de Magran sans laisser de traces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Que voulez-vous dire par « sans laisser de traces » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Lorsque les disciples parcouraient la route, les épreuves que leur imposait Durance consistaient également à rendre la justice."   
+
+"Tous les convertis potentiels... et même les « fidèles »... était testés. Et si leur faiblesse les brisait, c'était comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"S'ils survivaient, ils en sortaient transformés, plus forts, comme l'exige Magran."  
+
+"Avant que je suivre la voie de Durance, je ne me testais pas et je ne testais pas les autres. La faiblesse et l'injustice régnaient autour de moi parce que je le permettais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Occupée à aiguiser une pointe de flèche en os, Sagani ne semble pas écouter, jusqu'à ce qu'elle lève les yeux et secoue la tête.  
+
+"Voilà une chose que je ne comprendrai jamais chez vous, les gens du nord. Vous vivez dans l'abondance, sur des terres où vous ne risquez pas de vous faire tuer du jour au lendemain, et vous cherchez la dignité en vous imposant des épreuves inutiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Sagani souffle sur la poussière d'os qui recouvre la pointe de flèche qu'elle aiguise. "Je ne le comprendrai jamais. Et pourtant, nous ne pourrons pas nous permettre de nous entraîner à nous viser les uns sur les autres à Massuk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Alors ces épreuves de Durance... ses enseignements... ont empiété sur le rôle de Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Pourquoi le clergé était-il opposé au fait que vous rendiez la justice ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Durance fronce les sourcils. "La justice n'était pas de notre ressort, mais de celui de Woedica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Durance grogne. "Et les débats à ce sujet étaient très animés. Un dieu devait-il prendre les rênes au détriment d'un autre ? Comme je l'ai dit, c'est une notion... très impopulaire." Durance glousse. "L'incendie risquait de se propager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"... Mais Durance nous a rappelés que Woedica avait jadis été brûlée par Magran, et à juste titre. Si une déesse de la justice avait dû être brûlée pour lui rappeler sa place... eh bien, le clergé de Magran pouvait en faire autant pour d'autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Alors, vous êtes prêt à... en punir d'autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Durance éclate de rire. "Mon travail n'est pas fini, Gardien, et le vôtre non plus. Il nous reste bien des lieues à parcourir... Voudriez-vous que votre épreuve échoue avant la fin ?"</DefaultText>
+      <FemaleText>Durance éclate de rire. "Mon travail n'est pas fini, Gardienne, et le vôtre non plus. Il nous reste bien des lieues à parcourir... Voudriez-vous que votre épreuve échoue avant la fin ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Allez-vous-en, tant que vous respirez encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Gardez ces... « trésors ». Je n'en ai pas besoin. Je m'en débarrasse, comme je me débarrasse de mes souvenirs de vous." Il grogne. "Votre faiblesse d'esprit sera votre fardeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Durance grogne. "Et vous, vous n'avez rien en commun avec les Gardiens ou Gardiennes que j'ai rencontrés. En êtes-vous un d'ailleurs ?" Il fronce les sourcils et lève la main. "Ne répondez pas."</DefaultText>
+      <FemaleText>Durance grogne. "Et vous, vous n'avez rien en commun avec les Gardiens ou Gardiennes que j'ai rencontrés. En êtes-vous une d'ailleurs ?" Il fronce les sourcils et lève la main. "Ne répondez pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Votre robe... Vous avez été brûlé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Durance reste un moment silencieux et vous examine.   
+
+"Il existe bien des façons d'honorer Magran. Ma robe..." Il baisse les yeux, puis lève les ourlets effilochés. "... Sa coupe n'est peut-être pas religieuse, mais elle me sert bien. Et c'est aussi un moyen pour moi de me souvenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Durance hausse les épaules. "La coupe importe peu, sauf peut-être pour un tailleur. Quant aux couleurs, elles ont davantage leur place sur des bannières que sur des épaules."   
+
+"Cette robe brûlée est plus authentique pour moi que n'importe quels signes extérieurs voyants. Voilà pourquoi je la garde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Durance fronce les sourcils. "Pourquoi..." La tension qui se lisait sur son visage se transforme en irritation. "Votre mémoire est une vraie malédiction."   
+
+"Je portais cette robe lors de notre pèlerinage à Halgot. Et je ne l'ai pas quittée depuis." Il jette un coup d'œil à sa tenue. "Nous devions voyager discrètement pour que personne ne sache de quelle religion nous étions. Ni quelles étaient nos intentions. Comme des bourreaux, si ce n'est que nous étions vêtus de robes et non de capuches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Comment l'avez-vous brûlée alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Cette robe est celle que je portais à la Citadelle lorsque le Marteau divin a été déclenché."   
+
+"Imaginez un feu de camp... puis un champ couvert de feux de camp." Il tient délicatement son bâton. "Faites-en une sphère et laissez-la grossir jusqu'à ce qu'elle occupe tout l'espace." Il avale sa salive, la gorge sèche. "Sa violence a traversé ma canne et mon esprit comme une centaine d'éclairs, et tout autour de moi... il n'y avait que des flammes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ma peau a été déchiquetée, jusqu'au plus profond de ma chair." Il remonte ses manches. "Mais ma robe a résisté."   
+
+Il sourit et les cicatrices qui lui recouvrent le visage se relèvent sous sa barbe grossière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Et vous la portez depuis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Si Magran a jugé bon que je porte des cendres pour lui rendre justice, c'est ainsi. Notre existence dépend de son bon plaisir." Durance hausse les épaules.   
+
+"Quelle que soit le moyen qu'elle utilise pour répondre à mon appel, à voix basse ou bruyamment, ses couleurs semblent bien pâles comparées aux actes que l'on accomplit en son nom."  
+
+"Et je préfère qu'elle parle à voix basse. Certains autres fidèles de ma... foi... me regardent à peine si le feu de mon esprit n'honore pas mon bâton."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Aloth se pince les lèvres. "J'espère qu'il l'a lavée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Pour les transformer. S'ils se brisaient, tant pis. Plus leur chair et leur âme était détruites, plus leur espoir de salut était grand. C'était la lutte qui leur donnait de la force."  
+
+"On peut se lasser des mots au point de désirer ardemment faire couler le sang d'un imbécile bavard... qu'il serve Magran ou non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Alors ce chapitre religieux itinérant a pris fin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Nous n'étions pas nombreux." Durance grogne. "Je suis le dernier, et comme il n'existe ni texte ni poésie pour gâcher les enseignements de Durance, il n'y a pas grand-chose pour les perpétuer si le feu meurt... Mais, en soi, c'est déjà une épreuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Avec la guerre du Saint, Durance a brièvement connu un regain de popularité. Un saint face à un saint, la cruauté face à la cruauté ?" Durance hausse les épaules. "Le plus féroce d'entre nous... Eh bien, nous avons livré bataille contre Éothas... et Readceras... Il a fallu de la force pour éradiquer leurs hérésies, et peu de fidèles de Magran auraient probablement réussi à en faire autant."  
+
+"Et puis les enseignements ont décliné et sont morts... comme le font la plupart des flammes." Durance regarde son bâton. "Mais les marques ont subsisté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Au nom de Dieu et de la foi, un homme peut réaliser l'impossible." Durance se passe la langue sur les lèvres, comme si elles étaient sèches, et de la sueur perle sur son front.  
+
+"Durance l'admettait lui-même. Cette tâche ne lui plaisait guère. Mais il n'a pas reculé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Et vous suivez cet enseignement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Comme toutes les formes de vie, qu'elles suivent ou non Magran."  
+
+"La guerre du Saint a rendu cela nécessaire, et aussi déplaisant que cela ait pu paraître... eh bien, aujourd'hui, chaque marque d'Éothas, chaque âme faible qui a exposé notre gorge à l'ennemi... doit répondre de la mort de tous les soldats et disciples de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je l'ai déjà fait, oui. Des hommes, des femmes, des enfants... Et je n'ai pas hésité à utiliser mon bâton et d'autres instruments appropriés pour qu'ils apprennent et se renforcent. Une Purge visant Éothas ainsi que la faiblesse. Pour brûler les champs desséchés."  
+
+"Un sacrifice sur l'autel de la catin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Mais à quoi serviraient les mots quand les flammes nous montrent le chemin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Et aucun prêtre n'est prêt à renoncer à son confort, qu'il s'agisse de nourriture, d'un lit ou de la bouche chaude d'une catin sur son sexe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"D'où venez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"D'où je viens ?" Durance soupire en serrant brièvement son bâton. "D'un des feux de Magran... une cathédrale, Ashfall, faite d'arbres calcinés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"J'y ai étudié les écritures, les feux sculptés dans le paysage, les troncs des arbres brûlés, et j'ai travaillé dans les manufactures où les fusils et les cartouches étaient fabriqués. Tous sont des chapelles dédiées à... d'autres dévotions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"D'autres dévotions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Durance acquiesce. "Pour Magran, n'importe quel feu peut être vénéré, qu'il soit physique ou non. L'enclume d'un forgeron, l'établi d'un artisan, toutes les arènes où un feu attend de naître..."  
+
+Durance claque des doigts. "Il suffit juste d'une étincelle. Comme un feu alchimique... ou de l'étincelle qui fait exploser une cartouche... pour qu'ils accomplissent leur dessein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Leur dessein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Durance penche la tête, pensif. "Oui, leur dessein d'ALORS. C'était il y a longtemps." Durance se gratte la barbe. "Cette barbe était un peu plus lumineuse qu'aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Mais oui, les cartouches, les canons avaient tous un dessein, et ce dessein était de transpercer des mages comme vous pour leur faire perdre leur air suffisant."  
+
+Durance sourit et vous fait un signe de tête. "Cela réveillait vos semblables en les obligeant à fixer le plafond dans le noir au lieu de dormir, ça c'est sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Aloth lève les yeux au ciel. "Leur air suffisant, oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Un peu de violence, comme une réponse à un pouvoir non contenu... Eh bien, Magran y a répondu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Magran a mis les soldats et les mages sur un pied d'égalité ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Durance acquiesce à nouveau. "Les mages étaient gênants à cette époque... Les armes à feu ont transformé chaque homme en mage, et ils n'étaient pas de taille à lutter contre le bouclier ésotérique d'un jeteur de sorts."   
+
+"Ça a transformé chaque homme ordinaire en bête capable de cracher du feu. Le champ de bataille s'est transformé en tombeau pour beaucoup de mages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Mais oui, les cartouches, les canons avaient tous un dessein, et ce dessein était de transpercer des mages pour leur faire perdre leur air suffisant."  
+
+Durance sourit et vous fait un signe de tête. "Cela réveillait leurs semblables en les obligeant à fixer le plafond dans le noir au lieu de dormir, ça c'est sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Très bien. Je vais continuer à supporter votre présence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Ne soyez pas si prompt à vous apitoyer sur vous-même la prochaine fois, Gardien. Vos hurlements au moindre coup de langue ardent de Magran en disent plus long sur vous que sur moi."</DefaultText>
+      <FemaleText>"Ne soyez pas si prompte à vous apitoyer sur vous-même la prochaine fois, Gardienne. Vos hurlements au moindre coup de langue ardent de Magran en disent plus long sur vous que sur moi."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_helig_book</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La mort d'Helig n'a fait aucun bien à son écriture manuscrite. Les notes fiévreuses et dispersées détaillent plusieurs rites et procédures animantiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>L'amulette que vous avez prise sur le cadavre d'Helig commence à briller alors que vous vous approchez du livre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Après avoir tourné quelques pages, vous trouvez une illustration de l'amulette gribouillée à la va-vite. Elle est accompagnée de notes détaillant le processus par lequel Helig a lié l'âme de Rowyna à l'amulette et, ce faisant, l'imprégna d'un grand pouvoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Examinez le livre]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

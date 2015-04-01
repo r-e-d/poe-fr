@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_rhanet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous avez l'air d'être un chasseur, estramor. Les armes de Derwn peuvent protéger quelqu'un qui cherche le malheur, mais mes articles vous aideront à survivre dans la nature."</DefaultText>
+      <FemaleText>"Vous avez l'air d'être un une chasseuse, estramor. Les armes de Derwn peuvent protéger quelqu'un qui cherche le malheur, mais mes articles vous aideront à survivre dans la nature."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Un piège bien placé peut changer le cours d'une partie de chasse. Je sais de quoi je parle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Puis-je voir ce que vous avez à vendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rhanet acquiesce en vous montrant ses marchandises d'un geste de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

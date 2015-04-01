@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_female_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"J'ai entendu d'horribles histoires à propos des catacombes sous la ville... C'est passionnant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Isenric, à la bibliothèque, paye des commissions si on lui apporte des livres ! ... Mais je n'en ai trouvé aucun qu'il cherche..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Il y a bien trop de mercenaires dans la taverne ces jours-ci. Je préférerai me reposer dans un endroit plus tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Le nouveau capitaine du Creuset semble être un homme honorable. Je lui souhaite bonne chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

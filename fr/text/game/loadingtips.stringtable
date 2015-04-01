@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Pillars of Eternity a pu voir le jour grâce aux contributions de plus de 74 000 fans. Obsidian vous remercie sincèrement pour votre soutien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Lorsque votre groupe s'agrandit, vous pouvez modifier sa formation. Vous pouvez utiliser le bouton de formation sur le HUD principal pour faire défiler les formations disponibles ou créer votre propre formation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le mode Reconnaissance peut être utilisé pour effectuer des déplacements furtifs et pour fouiller une zone. Les déplacements furtifs peuvent vous permettre d'éviter des ennemis difficiles ou de prendre un avantage tactique sur eux. Les fouilles vous permettent de détecter les pièges et les objets cachés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Certains types de créatures et d'armures sont particulièrement résistants ou vulnérables à certains types de dégâts. Consultez le paramètre Réductions de dégâts de la créature, en haut de son infobulle, ainsi que le bestiaire pour déterminer les armes et sorts les plus efficaces pour la combattre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les quatre propriétés défensives suivantes permettent de résister à toutes les attaques : Déviation, Courage, Réflexes ou Volonté. Si un ennemi résiste bien à un type de dégâts, essayez d'utiliser une attaque visant une autre propriété défensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Lorsqu'une attaque frappe une cible pour lui infliger des dégâts, ceux-ci sont généralement réduits en fonction de la valeur de réduction de dégâts du type de dégâts correspondant. La valeur de réduction de dégâts ne peut jamais totalement annuler les dégâts, mais elle peut considérablement les réduire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Lorsqu'une attaque se traduit par un coup, ses dégâts et sa durée sont standard. Les écorchures réduisent les dégâts et la durée de 50 %. Un coup critique augmente les dégâts et la durée de 50 %.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Le type Dégâts pénétrants ignore toujours les valeurs de réduction de dégâts de la cible. Seules quelques attaques, comme les poisons ou les pouvoirs psychiques, infligent des dégâts pénétrants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Si la résistance d'un personnage est épuisée (0), celui-ci est renversé, mais sa résistance peut être totalement régénérée si son camp remporte le combat. Seul le repos permet généralement de régénérer les dégâts de santé. Si la santé est épuisée (0), le personnage est mutilé ou tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Un personnage peut utiliser des objets rapides ou changer de jeu d'armes pendant le combat, mais il n'a pas accès au reste de l'inventaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous pouvez enchanter une arme, un bouclier ou une armure en cliquant sur le bouton Enchanter sur sa page de description.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous pouvez créer des potions, des parchemins et de la nourriture en cliquant sur le bouton Artisanat dans l'inventaire d'un membre du groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Toutes les recettes du menu Enchanter utilisent un type de gemme, de plante et de partie de créature ainsi que du cuivre. La plupart des ingrédients peuvent servir à différentes recettes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Pour camper dans la nature, il vous faut du matériel de camping, que vous pouvez acheter dans différentes boutiques. Si vous n'avez pas de matériel de camping, sachez que la plupart des auberges louent des chambres bon marché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>La plupart des événements qui se déroulent à la forteresse surviennent au fil du jeu. Les quêtes que vous accomplissez vous permettent de collecter des taxes, de mener à bien des aventures supplémentaires et de générer des ingrédients.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Certains des personnages que vous rencontrez et combattez dans le monde du jeu peuvent être faits prisonniers et détenus dans votre forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Généralement, les effets qui modifient la même statistique se neutralisent. Dans ce cas, le jeu utilise uniquement le bonus le plus élevé de ce type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Lors d'un engagement de mêlée, les personnages ont du mal à s'éloigner des défenseurs. Cependant, certains supplices comme le Renversement, l'Assommement, la Paralysie et la Pétrification peuvent rompre l'engagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>En fonction des choix qu'il fait au cours des conversations et des quêtes, votre personnage commence à développer des Réputations, à la fois générales et spécifiques à certaines factions. Les personnages du monde du jeu réagissent en bien ou en mal à ces choix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Au cours des conversations, votre personnage principal mène la discussion, mais ses compagnons peuvent parfois intervenir en donnant leur avis. Au cours des interactions scriptées, les autres membres du groupe peuvent participer à la discussion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Le niveau de difficulté détermine les créatures qui apparaissent au combat (ainsi que leur nombre). Seul le mode Voie des damnés modifie les statistiques des créatures qui apparaissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>La puissance détermine l'ensemble des dégâts et soins dont le personnage est à l'origine ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des conversations et interactions scriptées pour tester la force et la puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>La constitution détermine la résistance et la santé du personnage ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des interactions scriptées pour supporter les situations physiquement épuisantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>La dextérité détermine la vitesse d'action des personnages ainsi que leur propriété défensive Réflexes. Elle peut également être utilisée lors des conversations et interactions scriptées pour les tours de passe-passe et les actions impliquant des déplacements rapides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>La perception détermine la chance d'un personnage de provoquer l'interruption d'attaques, ainsi que de la valeur des propriétés défensives Déviation et Réflexes. Elle peut également être utilisée lors des conversations et interactions scriptées pour remarquer des détails infimes ou cachés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>L'intelligence détermine la zone d'effet et la durée des capacités, ainsi que la propriété défensive Volonté. Elle peut également être utilisée lors des conversations et interactions scriptées dans lesquelles logique ou réflexion sont requises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>La détermination agit sur la concentration, la durée et la propriété défensive Volonté. Elle peut également être utilisée lors des conversations et interactions scriptées dans lesquelles volonté, intensité ou charisme sont requis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>La compétence Athlétisme permet d'accomplir des actions telles que l'escalade, la natation et le saut lors des interactions scriptées. Les classes telles que les combattants et les barbares commencent avec un bonus d'athlétisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>La compétence Connaissance permet de déchiffrer des indices et de se souvenir de connaissances ésotériques lors des conversations et des interactions scriptées. Les classes telles que les magiciens et les incantateurs commencent avec un bonus de connaissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>La compétence Mécanique permet de crocheter des verrous ou de neutraliser des pièges dans le monde du jeu, et de bricoler des machines lors des interactions scriptées. Les classes telles que les bandits et les incantateurs commencent avec un bonus de mécanique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>La compétence Furtivité permet d'éviter de se faire détecter en mode Reconnaissance. Les classes telles que les bandits et les rôdeurs commencent avec un bonus de furtivité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>La compétence Survie permet d'identifier les plantes, les créatures et autres composantes de la nature lors des conversations et des interactions scriptées. Les classes telles que les rôdeurs et les barbares commencent avec un bonus de survie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Les talents permettent de différencier les personnages au fil de leur progression. Les talents de classe modifient des capacités existantes ou donnent accès à de nouveaux talents non spécifiques à la classe. Les talents Offensif, Défensif et Utilitaire sont accessibles à toutes les classes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Les barbares possèdent de nombreuses capacités qui leur permettent d'engager des groupes d'ennemis en mêlée. Face à des groupes importants d'ennemis, n'hésitez pas à déployer des barbares.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Les incantateurs ne se contentent pas de prononcer des incantations. Leurs capacités ne portent pas sur le combat en première ligne, mais ce sont des guerriers compétents qui continuent à prononcer des incantations et à accumuler des phrases tout en accomplissant leurs actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Les clairvoyants utilisent la concentration pour renforcer leurs capacités et ils peuvent bénéficier de concentration supplémentaire s'ils infligent des dégâts à l'aide d'armes lorsque leur Fouet de l'âme est activé. Le Fouet de l'âme se désactive lorsque la concentration d'un clairvoyant est maximale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Les druides disposent d'un large éventail de sorts offensifs à effet de zone. Ils sont également capables d'adopter une forme animale par transformation spirituelle, ce qui leur confère une grande puissance en mêlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Les combattants sont extrêmement endurants et infligent de redoutables dégâts. Ils peuvent être très efficaces pour verrouiller une position et infliger des dégâts d'usure progressifs aux ennemis les plus tenaces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Les moines désarmés disposent de puissantes attaques mais peuvent aussi utiliser leurs capacités avec des armes de mêlée standard. Certaines de leurs capacités sont utilisables à tout moment tandis que d'autres nécessitent qu'ils subissent des dégâts et génèrent des blessures. Les blessures peuvent alors déclencher les capacités spéciales du moine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Les paladins possèdent des capacités de soutien et des capacités offensives. Les auras zélées d'un paladin ont un effet continu sur les alliés qui l'entourent. Leurs exhortations visent toujours un seul allié et leur effet est redoutable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Les prêtres sont de redoutables jeteurs de sorts de soutien. Bien que la portée de leurs sorts soit souvent limitée, ceux-ci s'appliquent toujours à un groupe et peuvent générer une myriade de bonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Les rôdeurs sont liés à leur compagnon animal et le duo forme une véritable équipe. Les attaques des compagnons animaux ne sont pas très puissantes mais elles peuvent affaiblir un ennemi pour permettre au rôdeur de l'achever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Grâce à leur capacité Attaque furtive, les bandits infligent les dégâts armés les plus lourds, toutes classes confondues. Lorsque les bandits frappent des ennemis victimes de supplices qui permettent de lancer une Attaque furtive, ils leur infligent automatiquement des dégâts supplémentaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Les magiciens peuvent uniquement jeter les sorts qui figurent dans le grimoire dont ils sont équipés. Des grimoires supplémentaires peuvent être placés aux emplacements rapides du magicien pour être sélectionnés au combat, mais le magicien n'aura alors accès aux nouveaux sorts qu'au bout de plusieurs secondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>La planque du groupe permet de stocker du matériel lorsque les inventaires de ses membres sont pleins. Certains types d'objets, comme les objets de quête et les ingrédients, sont automatiquement placés dans la planque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Les armes, les boucliers et les armures dotés des propriétés De qualité, D'exception ou Superbe confèrent des bonus aux propriétés de base de l'objet, comme la précision, les dégâts, la déviation et toutes les valeurs de réduction de dégâts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Le taux d'interruption des armes les plus petites et les plus rapides est moindre mais leur fréquence d'attaque est plus élevée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Certains types d'armes, comme l'estoc, la masse d'armes et le stylet, annulent une partie de la valeur de réduction de dégâts de l'ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Toute arme affichant un type de dégâts au choix, par exemple "entaille ou écrasement", inflige le type de dégâts le plus avantageux, généralement celui auquel la cible est la plus vulnérable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Les armures les plus lourdes confèrent une protection accrue mais la récupération est plus lente pour leurs utilisateurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Porter une seule arme de mêlée à une main et sans bouclier, confère un bonus de précision pour chaque attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>L'utilisation de deux armes de mêlée permet d'attaquer plus rapidement mais n'inflige pas les dégâts par coup des armes à deux mains et n'offre ni la précision des armes à une main seules ni le bonus de déviation d'un combat avec bouclier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Un personnage équipé d'un bouclier bénéficie d'une déviation accrue mais sa récupération est plus lente. En outre, les boucliers les plus grands peuvent nuire à la précision du personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Les armes de mêlée à deux mains infligent un maximum de dégâts par coup et peuvent se révéler très précieuses pour venir à bout des valeurs de réduction de dégâts élevées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>La nourriture ne peut pas être utilisée au combat mais peut conférer des bonus durables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Les armes et boucliers confèrent des bonus qui s'ajoutent aux bonus d'autres types d'objets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Les objets tels que les grappins et les ensembles marteau/burin se consument toujours lorsqu'ils sont utilisés au cours des interactions spéciales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Le glossaire contient les définitions et descriptions de nombreux termes liés au mécanisme de jeu. Si vous avez besoin de vous rafraîchir la mémoire sur le calcul des coups critiques ou le fonctionnement du paramètre Réduction de dégâts, ouvrez le Journal et consultez le glossaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>De nombreux aspects de l'interface et de l'affichage peuvent être définis en fonction de vos préférences à partir du menu Options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Si vous avez du mal à faire la distinction entre les couleurs vertes et rouges utilisées par défaut pour les alliés et les ennemis dans le jeu, vous pouvez activer le mode Daltonisme dans le menu Options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Pillars of Eternity est disponible en plusieurs langues. Vous pouvez changer la langue du jeu à partir du menu Options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Au combat, une flèche partant du cercle de sélection d'un personnage et pointant vers un autre indique un engagement de mêlée. Si le personnage engagé tente de s'éloigner alors que la flèche est active, il est instantanément visé par une attaque de désengagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>La plupart des créatures détectent un personnage peu après son apparition au bord du brouillard de guerre. Pour vous approcher furtivement de vos ennemis, utilisez le mode Reconnaissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Dès que vous avez accès à la forteresse, le menu correspondant est à tout moment accessible depuis le HUD principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Le HUD principal et le journal de combat peuvent être réduits si vous souhaitez explorer le monde en affichant uniquement les portraits des personnages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Passez le pointeur sur une attaque du journal de combat pour afficher des informations plus détaillées sur son issue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Le remplissage rouge sur le portrait d'un personnage représente la perte de résistance. La barre située à gauche de son portrait représente la perte de santé. La barre de santé change de couleur à mesure qu'elle se rapproche de 0. Lorsque la santé est inférieure à la résistance maximum, une barre apparaît sur le portrait pour indiquer que la résistance est limitée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous pouvez directement sélectionner les compagnons animaux des rôdeurs via leur icône, au-dessus de leur rôdeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Passez le pointeur sur les icônes du portrait d'un personnage pour connaître les sorts ou capacités qui lui sont actuellement associés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>La fiche des personnages contient toutes les informations relatives aux membres de votre groupe. Elle répertorie également toutes vos statistiques personnelles et celles de votre groupe, réputations comprises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Vous pouvez directement cliquer sur la Carte de la zone pour centrer la caméra sur l'emplacement correspondant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Le bestiaire contient l'ensemble des informations que vous avez déverrouillées sur tous les types de créatures que vous avez combattus. Plus vous battez de créatures, plus le nombre d'informations déverrouillées augmente dans chaque entrée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Le mode Lent permet de diriger les personnages au combat sans faire de pause. Le mode Rapide permet de traverser des zones que le groupe a déjà explorées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>L'activation du mode Pause pour émettre des ordres est une fonctionnalité importante du combat dans Pillars of Eternity. Si vous souhaitez définir les conditions de pause automatique, différents choix sont disponibles dans le menu Options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Lorsque vous visez des attaques à effet de zone, le cercle peut comporter une circonférence extérieure. La marge située entre les circonférences intérieure et extérieure est une zone réservée aux ennemis. Les alliés qui se trouvent dans cette marge ne sont pas touchés par le sort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Pour mettre une chaîne d'actions en file d'attente, maintenez la touche Maj enfoncée pendant que vous émettez des ordres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Les PNJ dotés d'une plaque signalétique en or ont été conçus par nos contributeurs. L'interaction avec ces personnages vous permettra d'examiner leur âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>La biographie de votre personnage s'écrit au fil de vos aventures. Consultez l'onglet Journal de la fenêtre des quêtes pour lire la vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Vos échanges avec les personnages du jeu au cours des dialogues, même les plus subtiles, contribuent à vous forger une réputation. À mesure que votre renommée évolue, certains personnages interagissent avec vous différemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Vous pouvez modifier le volume d'informations de méta-jeu affichées dans les conversations via le menu Options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>L'icône Parler apparaît sur le portrait d'un compagnon lorsqu'il souhaite vous faire part d'un élément nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Les sorts offensifs à effet de zone peuvent afficher deux cercles de visée. Le cercle intérieur s'applique à toutes les cibles qui s'y trouvent. Le cercle extérieur s'applique uniquement à vos ennemis, sans affecter de vos alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Utilisez la touche Tabulation pour sélectionner les objets interactifs dans l'environnement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>La construction du logis du gardien dans votre forteresse donne l'accès à une variété de primes. Les quêtes de primes sont des affrontements stimulants qui rapportent des récompenses précieuses, incluant des objets uniques.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

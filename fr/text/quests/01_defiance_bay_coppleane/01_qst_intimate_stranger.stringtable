@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_intimate_stranger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Comme autrefois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Donnez la bague de Kaenra à Purnisc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Découvrez ce qui s'est passé dans la maison de Purnisc à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retrouvez Kaenra à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Confrontez Nyrid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Tuez Nyrid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Obtenez la bague de Kaenra à L'oie et le renard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Libérez Purnisc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Quelque chose d'inhabituel se passe dans une maison de Copperlane. Un homme du nom de Purnisc a un comportement étrange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kaenra m'a demandé de rapporter la bague de fiançailles que Purnisc lui a offerte. Elle m'a dit que la maison de Purnisc est située près du marché dans Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La maison près du marché de Copperlane est devenue un repaire de drogués au svef. Purnisc était dans sa maison, mais il y avait quelque chose d'inhabituel chez lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Considérant tout ce qui s'est passé et tout ce que j'ai appris en étant dans la maison de Purnisc, je devrais retrouver Kaenra et lui raconter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Un sorcier du nom de Nyrid a pris la place de Purnisc. J'ai trouvé le vrai Purnisc à l'étage, et il est temps confronter Nyrid avec les faits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Nyrid et ses bandits m'ont attaqué lorsque je lui ai dit que j'avais trouvé le vrai Purnisc à l'étage.</DefaultText>
+      <FemaleText>Nyrid et ses bandits m'ont attaquée lorsque je lui ai dit que j'avais trouvé le vrai Purnisc à l'étage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>J'ai dit à Kaenra que je ne voulais pas livrer la bague, mais je doute qu'elle trouve un autre messager. Je pourrais toujours aller la chercher pour elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Nyrid étant mort, le véritable Purnisc est libre. Il attend en haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé le vrai Purnisc ligoté et blessé, enfermé dans une pièce à l'étage de sa propre maison. Il m'a dit que l'imposteur était un sorcier nommé Nyrid et m'a demandé de le tuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>L'homme en bas prétendant être Purnisc m'a attaqué dès que j'ai commencé à poser des questions.</DefaultText>
+      <FemaleText>L'homme en bas prétendant être Purnisc m'a attaquée dès que j'ai commencé à poser des questions.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai tué l'homme qui se faisait passer pour Purnisc. Peut-être que le vrai se trouve dans les parages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai fait savoir au véritable Purnisc qu'il n'avait plus rien à craindre. Il m'a alors supplié de ne pas parler à sa bien-aimée, Kaenra, de son implication dans le trafic de svef, et m'a promis une réduction sur son stock si j'arrivais à la convaincre de revenir avec lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai tué l'homme qui se faisait passer pour Purnisc. Je devrais probablement aller le dire au véritable Purnisc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai donné à Purnisc la bague comme demandé, pourtant il n'a pas semblé la reconnaître. Je pourrais retourner voir Kaenra, mais il y a quelque chose d'étrange dans cette situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai parlé avec Kaenra un peu plus tôt à L'oie et le renard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Nyrid m'a offert une réduction sur ses stocks si je tuais Purnisc pour lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Purnisc m'a demandé de retrouver Kaenra, sa fiancée, à Copperlane. Il veut qu'elle revienne, et il ne veut pas qu'elle sache qu'il trafique du svef. Il m'a promis une réduction en échange de mon aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai parlé avec Kaenra, la fiancée de Purnisc, à L'oie et le renard. Elle semblait ignorer que le véritable Purnisc est prisonnier dans sa propre demeure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Dans la maison de Purnisc, j'ai appris qu'il était en fait un trafiquant de svef. J'ai informé Kaenra et elle était effondrée d'apprendre qu'il lui a menti. Malgré cela, elle m'a remercié pour tout ce que j'ai fait pour elle.</DefaultText>
+      <FemaleText>Dans la maison de Purnisc, j'ai appris qu'il était en fait un trafiquant de svef. J'ai informé Kaenra et elle était effondrée d'apprendre qu'il lui a menti. Malgré cela, elle m'a remerciée pour tout ce que j'ai fait pour elle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai finalement fait toute la lumière sur les abus de Purnisc envers Kaenra. Elle était soulagée d'entendre que l'homme qui l'a agressée était en fait un imposteur. Elle m'a abondamment remercié pour mon aide et elle semblait extatique de pouvoir enfin retourner dans les bras de son bien aimé.</DefaultText>
+      <FemaleText>J'ai finalement fait toute la lumière sur les abus de Purnisc envers Kaenra. Elle était soulagée d'entendre que l'homme qui l'a agressée était en fait un imposteur. Elle m'a abondamment remerciée pour mon aide et elle semblait extatique de pouvoir enfin retourner dans les bras de son bien aimé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai dit à Kaenra que j'ai tué Purnisc. Elle n'a pas vraiment bien réagi à cette nouvelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Échec de la quête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai finalement fait toute la lumière sur les abus de Purnisc envers Kaenra. Elle était soulagée d'entendre que l'homme qui l'a agressée était en fait un imposteur. Elle m'a abondamment remercié pour mon aide, mais elle était un peu peinée de réaliser que je monnayais mon aide par le biais de la bague de fiançailles que Purnisc lui a donnée. Je suis sûr que Purnisc pourra rassembler l'argent pour en acheter une nouvelle.</DefaultText>
+      <FemaleText>J'ai finalement fait toute la lumière sur les abus de Purnisc envers Kaenra. Elle était soulagée d'entendre que l'homme qui l'a agressée était en fait un imposteur. Elle m'a abondamment remerciée pour mon aide, mais elle était un peu peinée de réaliser que je monnayais mon aide par le biais de la bague de fiançailles que Purnisc lui a donnée. Je suis sûre que Purnisc pourra rassembler l'argent pour en acheter une nouvelle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Je suis retourné voir Kaenra pour lui dire que j'avais donné la bague à Purnisc, comme elle me l'avait demandé. Elle m'a remercié pour ma gentillesse, et semblait prête à passer à autre chose dans sa vie.</DefaultText>
+      <FemaleText>Je suis retournée voir Kaenra pour lui dire que j'avais donné la bague à Purnisc, comme elle me l'avait demandé. Elle m'a remerciée pour ma gentillesse, et semblait prête à passer à autre chose dans sa vie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>En passant un peu de temps dans la maison de Purnisc, j'ai appris qu'il était en fait trafiquant de svef. J'ai informé Kaenra et elle était effondrée d'apprendre qu'il lui a menti. Cependant, j'ai pu la convaincre de donner une deuxième chance à Purnisc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>J'ai dit à Kaenra que Nyrid a tué Purnisc. Elle n'a pas vraiment bien réagi à cette nouvelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Après tout ça, Purnisc voulait que je retrouve sa fiancée, Kaenra et la reconquérir. J'ai refusé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>J'ai passé un accord avec Nyrid et tué Purnisc en échange d'une réduction sur le svef.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

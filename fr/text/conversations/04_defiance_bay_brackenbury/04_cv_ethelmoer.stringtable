@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_ethelmoer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La statue parfaite d'un homme d'âge mûr trône dans la pièce et surveille, impassible, les allées et venues d'une foule d'universitaires harcelés par des êtres désespérés.
+
+Une douce chaleur s'en dégage et se diffuse dans toute la pièce. Cette statue abrite une âme humaine. Vous sentez qu'elle vous observe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah, le Gardien ! Qu'est-ce qui vous amène ici ?"</DefaultText>
+      <FemaleText>"Ah, la Gardienne ! Qu'est-ce qui vous amène ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Avez-vous appris quelque chose d'intéressant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du nouveau ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Rebonjour. J'espère que vous n'allez pas m'annoncer d'autres mauvaises nouvelles concernant mon sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous avez peut-être un agent de la Clé plombée dans vos rangs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Parlez-moi du sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText> Ethelmoer grogne et la pierre qui l'entoure vibre. "Je me serais bien passé d'une telle nouvelle aujourd'hui."
+
+"Beaucoup s'immiscent dans nos affaires. Certes, il est difficile de savoir s'ils le font volontairement ou s'il s'agit là d'une calamité. Mais leurs infiltrateurs les moins doués sont parfois démasqués. Ils constituent une gêne perpétuelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Peut-être. Caedman Azo se livre-t-il à des expériences sur les patients ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Des expériences ? Caedman Azo est responsable du bien-être des patients désormais. Il n'est plus autorisé à mener de nouvelles expériences."
+
+"Je suis… déçu de Caedman. J'espérais qu'il vous aiderait dans votre enquête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ah, vous revoilà. Puis-je faire quelque chose pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"S'il vous plaît, faites court. Après ce qui s'est passé ici, vous m'excuserez, mais je préfère que nos échanges soient limités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'ai rencontré Azo. J'ai dû le tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Il gémit de dégoût. "Quel gâchis ! C'était le plus brillant d'entre nous. Un temps, j'ai espéré pouvoir redorer sa renommée. Mais un esprit comme le sien, plein d'idées, ne laisse que peu de place à la patience."
+
+"Je tirerai cette affaire au clair, mais sachez que vous avez rendu un grand service à notre institution. Si le public avait eu vent de ses transgressions, la situation aurait dégénéré. J'ai eu tort de lui accorder une seconde chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je cherche un animancien du nom de Moedred."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Voilà un certain temps qu'un Gardien n'a pas honoré ces lieux de sa présence." Sa voix résonne bruyamment sous vos pieds. "J'envie votre perspicacité naturelle, voyageur. Une telle qualité m'aurait été précieuse dans ma vie."
+
+"Mais dites-moi, qu'est-ce qui vous amène dans mon sanatorium ?"</DefaultText>
+      <FemaleText>"Voilà un certain temps qu'une Gardienne n'a pas honoré ces lieux de sa présence." Sa voix résonne bruyamment sous vos pieds. "J'envie votre perspicacité naturelle, voyageuse. Une telle qualité m'aurait été précieuse dans ma vie."
+
+ "Mais dites-moi, qu'est-ce qui vous amène dans mon sanatorium ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Moedred… Bien sûr. Vous le trouverez en bas, dans la première pièce sur la droite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"C'est vous l'animancien qui avez acheté des reliques à Imatl ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Il existe un important et célèbre marché noir pour les reliques engwithanes non répertoriées. Je ne m'en approche pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Une leçon d'histoire ? C'est un rare plaisir. La plupart des gens qui viennent ici s'intéressent d'une manière ou d'une autre à la mort et comment y échapper."
+
+"Notre institution est très ancienne à Dyrwood. Elle a 94 ans. Comme bon nombre de villes, le développement de la Baie du défi n'est pas sans poser certains problèmes. Le pire d'entre eux concerne ces êtres aux âmes malades qui peuplent les rues. Et c'est là que le sanatorium prend toute son importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je m'interroge sur la manière dont vous avez acquis votre forme actuelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ma forme de statue, vous voulez dire ? Eh bien." Il rit. "J'étais vieux ! Et, après une vie faite de découvertes, je trouvais dommage de finir par mourir. Je rêvais de me réveiller dans un autre corps et de mener une nouvelle vie. Toute cette expérience gâchée."
+
+"S'il nous faut découvrir les principes même de notre existence, cela se fera en dépit de notre condition. J'en suis certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText> "Il se trouve dans son bureau ou dans les pavillons des patients. Je vous autorise à y accéder pour aller le voir. Vous apprécierez certainement de discuter de cette question avec lui. Et en ce qui me concerne, je suis curieux de savoir ce qu'il aura à dire."
+
+"Faites attention dans les pavillons des patients. Certains sont dangereux. Je compte sur vous pour les déranger le moins possible. Ils sont suffisamment perturbés comme cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je vous en prie, je ne contrôle plus l'étage inférieur ! Je n'ai pas le temps de parler !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Que diable s'est-il passé en bas ? Vous avez reçu l'autorisation de poser des questions !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"C'est… compliqué. Un de vos patients, Uscgrim, travaillait pour la Clé plombée sans même le savoir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Tout allait bien jusqu'au moment de tuer cet espion de la Clé plombée… Là, il a pris possession d'une créature de chair…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Au terme de votre explication, Ethelmoer rompt le silence. "J'ai lu… des récits… de personnes capables de faire ce que vous décrivez. Ces récits sont courts et pas vraiment fiables. Certains suggèrent même qu'il s'agit de la même personne."
+
+"Si vraiment une telle personne était parmi nous et complotait pour précipiter notre chute… Et que je retrouvais forme humaine, je pourrais prêter main-forte en ces temps difficiles. Je crains pour l'avenir de cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText> "Azo a été influencé par un patient, mais ce patient n'était pas vraiment lui-même..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Une fois de plus, cela me rappelle combien j'envie vos dons. Ils me seraient utiles pour vérifier l'identité de chacun."
+
+"Vous non plus, vous n'êtes pas d'accord avec la Clé plombée à ce que je comprends ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ils ont quelque chose dont j'ai besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ils préparent quelque chose et j'essaie de savoir quoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Je n'aime pas ce qu'ils représentent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je ne dirais pas cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"J'espère que ce ne sont pas des connaissances que vous cherchez. Ils n'aiment guère les partager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ils préparent TOUJOURS quelque chose. C'est une certitude. Si leurs complots vous impliquent, je vous souhaite bien du plaisir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Si vous avez réussi à savoir PRÉCISEMENT ce qu'ils REPRÉSENTENT, je serais fort intéressé de l'entendre. Ce sont eux aussi des lâches, soucieux d'inverser le fil des choses car elles leur font peur, si vous voulez mon avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Eh bien, cela ne fait que très peu de différence pour moi, tant que vous m'indiquez QUI complote entre ces murs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Avez-vous une idée de qui il pourrait s'agir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je penche pour un patient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je ne le saurai pas avant de les avoir rencontrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Il serait imprudent de dédouaner qui que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText> "Très bien. Dans ce cas, je vous conseillerais de commencer par vous adresser aux animanciens qui vivent ici. Ils ont de fréquentes interactions avec les patients et leurs collègues. Vous les trouverez ici même ou dans leurs bureaux situés en bas."
+
+"Si vous notez quelque chose de suspect, signalez-le-moi immédiatement. C'est ma seule demande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Son ton se fait menaçant et retentit tout autour de vous. "Je compte sur vous pour faire plus attention lors de vos investigations à venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je vous suis reconnaissant d'avoir neutralisé la menace avant que des innocents ne perdent la vie. Nous aurions certainement dû faire face à un nouveau scandale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Au moins, vous avez réussi à limiter les dégâts que la Clé plombée était prête à infliger. Sans intervention de votre part, ils auraient très bien pu tuer tous ceux qui se trouvent ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText> "Cet épisode, aujourd'hui, sera un test suffisant. Cela va se savoir et nous subirons un autre revers à un moment où notre travail est plus que nécessaire."
+
+"J'espère que vous en avez terminé ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Continuer à vivre dans quelque chose que j'avais aidé à bâtir me semblait mieux que ce que la nature avait à m'offrir."
+
+"Le transfert à proprement parler s'est avéré plutôt simple grâce à nos techniques, et sur ce point, je suis reconnaissant. Jouer avec les âmes est bien plus facile lorsqu'il ne s'agit pas de la sienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je regrette de ne pas pouvoir jouer un rôle actif dans les efforts d'érudition déployés ici. De temps à autre, un de nos animanciens me fait plaisir et me consulte sur un problème, mais ils sont de nature jalouse et n'aiment guère collaborer."
+
+"Si vous l'envisagez, sachez que c'est un travail qui demande une patience sans faille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Brackenbury s'est avéré être un choix naturel. Le quartier se développait, et il y avait beaucoup d'argent ici à l'époque. Cet endroit doit sa survie à la curiosité des plus riches, si vous voulez mon avis."
+
+"Notre fondation a eu lieu à un moment de grande suspicion envers l'animancie, comme aujourd'hui. Tant de progrès ont été perdus en raison des mésaventures de quelques praticiens négligents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Mais au fil du temps, tout cela est tombé dans l'oubli. Depuis, nous occupons le premier rang du renouveau de l'animancie. Nous avons accueilli de nombreux et talentueux chercheurs et repoussé les frontières de nos connaissances comme jamais nous ne l'aurions imaginé."
+
+"Quelques-uns des premiers transferts ont eu lieu ici et nous avons œuvré à la purification des âmes, à l'analyse des lignées, à la préservation… La liste est longue et je vous prie de pardonner ma fierté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Aujourd'hui, ce n'est… ce n'est plus vraiment pareil. Nous avons subi des pressions pour nous faire taire… de la part des habitants plus nerveux de Dyrwood dont l'esprit est plus passionné que réfléchi, je le crains."
+
+"Les gens voient cet… cet héritage et voient qu'il implique quelque chose qu'ils ne comprennent pas. Dans un tel contexte, il est normal qu'ils soupçonnent ceux dont la compréhension dépasse la leur. Ils ont l'impression que nous leur cachons quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Alors même que nous parlons, un de nos représentants défend au palais la science de l'animancie à l'audience du duc, aussi absurde que cela puisse paraître. Si les choses tournent mal, cela pourrait marquer la fin de l'animancie à Dyrwood." 
+
+"J'ai peur qu'Aevar ne s'égare face à toute cette agitation, même si elle est irrationnelle. Nous verrons bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Bank Node 74</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Non répertoriées ?" Hiravias cligne des yeux, incrédule. "C'est le meilleur euphémisme que j'ai entendu pour « volées » depuis que j'ai tué mon cinquième rôdeur. Il soutenait qu'un artefact qu'il avait volé n'était pas « utilisé » et qu'il pouvait dès lors s'en emparer."
+
+Son air menaçant laisse place à un sourire et il ajoute, "... Et c'était la première fois que j'étranglais un homme avec des sarments de lierre. Devant son chien. Il va sans dire que j'ai laissé le chien partir... Vous me prenez pour un monstre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Et Azo ? Quel rôle ses expériences ont-elle joué dans cette catastrophe ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Azo essayait juste d'aider les patients. La Clé plombée a profité de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Même sans Azo, la Clé plombée aurait trouvé un moyen de s'immiscer dans le sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Sans mon intervention, les expériences d'Azo auraient entraîné un nouveau scandale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je n'aurais pas dû l'isoler. Ils allaient forcément recourir à un subterfuge."
+
+"Le plus sage serait d'autoriser ses expériences… Sous haute surveillance, bien sûr. Un esprit comme le sien doit être autorisé à créer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Votre demi-réponse suggère un parti pris. De même qu'elle suggère la part de vérité que j'obtiendrai de vous."
+
+"Caedman restera ici, mais sous surveillance. Et en aucune circonstance, il n'aura accès au matériel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Au pire moment possible. N'en dites pas plus. Caedman Azo n'est plus le bienvenu ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Quelqu'un ici peut-il me parler des Réveils ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous trouverez à l'étage inférieur une animancienne spécialement venue de Revua pour les étudier. Empruntez les escaliers et adressez-vous à Bellasege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"J'ai des indices indiquant qu'Azo pourrait se livrer à des expériences des plus douteuses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous en avez suffisamment fait ici. Quittez immédiatement cet endroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

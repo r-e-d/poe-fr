@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_camp_infiltration_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Halte là !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le soldat fantôme pointe son épée sur votre poitrine. "Vous n'avez rien à faire ici... Inquisiteur."</DefaultText>
+      <FemaleText>Le soldat fantôme pointe son épée sur votre poitrine. "Vous n'avez rien à faire ici... Inquisitrice."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trigger Conv Node 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous pensiez qu'on ne vous reconnaîtrait pas ici, dans votre région d'origine ? J'ai vu ce que vous avez fait de mes propres yeux. Je vous ai vu allumer des bûchers auxquels étaient attachés des innocents. Des gens que je connaissais depuis des années." 
+
+Il vous attrape à la gorge et vous commencez à manquer d'air, mais vous ne parvenez pas à déterminer si ce que vous vivez est réel ou imaginaire. "Ils méritent une confession de votre part." Il pointe son épée devant votre œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Suros, qu'est-ce que vous FAITES ?" 
+
+Surpris, le soldat vous relâche immédiatement et se retourne vers la femme qui l'a interpelé. Celle-ci porte une tunique en laine ordinaire et fait une tête de moins que lui, mais elle semble pourtant le dominer. Vous avez déjà vu ce visage, mais de loin, en sang et brûlé, alors que la femme était écartelée sur une roue métallique. Pour le moment, seule l'inquiétude se lit sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Si cet assassin est assez bête pour s'approcher d'un garde armé en plein jour, je n'ai rien à craindre. Je tiens à écouter ce que cet homme a à dire." 
+
+Elle soutient son regard jusqu'à ce qu'il détourne les yeux. Il se retourne, dépité, en vous regardant de travers. Il serre si fort le pommeau de son épée que ses articulations blanchissent.</DefaultText>
+      <FemaleText>"Si cette criminelle est assez bête pour s'approcher d'un garde armé en plein jour, je n'ai rien à craindre. Je tiens à écouter ce que cette femme a à dire." 
+
+Elle soutient son regard jusqu'à ce qu'il détourne les yeux. Il se retourne, dépité, en vous regardant de travers. Il serre si fort le pommeau de son épée que ses articulations blanchissent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que faites-vous ici, Inquisiteur ?"</DefaultText>
+      <FemaleText>"Que faites-vous ici, Inquisitrice ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Est-ce que je... vous connais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Les yeux d'Iovara s'écarquillent lorsqu'elle voit votre visage pour la première fois. "Mon frère, de retour à la maison ! Je n'ai jamais osé rêver que ce jour viendrait."</DefaultText>
+      <FemaleText>Les yeux d'Iovara s'écarquillent lorsqu'elle voit votre visage pour la première fois. "Ma sœur, de retour à la maison ! Je n'ai jamais osé rêver que ce jour viendrait."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Les yeux d'Iovara s'écarquillent lorsqu'elle voit votre visage pour la première fois. "Mon esprit me joue sûrement des tours. Je ne m'attendais tellement pas à vous revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Compte tenu de la façon dont nous nous sommes quittés, je n'avais pas le droit d'y croire."</DefaultText>
+      <FemaleText>"Compte tenu de la façon dont nous nous sommes quittées, je n'avais pas le droit d'y croire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Mentez] "J'avais juste envie de vous revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Mentez] "Je suis là pour vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Mentez] "Je suis là parce que je veux croire que vos enseignements sont vrais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Mentez] "Le mal que j'ai fait au nom de l'Inquisition est trop lourd à porter. Je veux vous aider à y mettre un terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Le Grand inquisiteur Thaos ix Arkannon m'a envoyé ici pour vous espionner."</DefaultText>
+      <FemaleText>"Le Grand inquisiteur Thaos ix Arkannon m'a envoyée ici pour vous espionner."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Mentez] "Je me suis dit que nous pourrions prendre un nouveau départ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Un inquisiteur serviable. Charmante notion. Si seulement vous aviez tous cette qualité."</DefaultText>
+      <FemaleText>"Une inquisitrice serviable. Charmante notion. Si seulement vous aviez tous cette qualité."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ce... n'est pas ce que j'espérais entendre, mais vous êtes là et c'est déjà beaucoup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Les choses sont sans doute plus complexes pour vous, mais chacun a le droit de suivre son cœur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Est-ce que vous réalisez que quand votre grand inquisiteur vous a demandé de vous convertir, il voulait aussi que vous convertissiez d'autres gens ?" 
+
+"Sans vouloir rendre les choses plus confuses, c'est gratifiant de voir que la vérité peut prévaloir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ça... me fait drôle de retrouver un ancien élève. Mes enseignements avaient peut-être du bon tout compte fait."</DefaultText>
+      <FemaleText>"Ça... me fait drôle de retrouver une ancienne élève. Mes enseignements avaient peut-être du bon tout compte fait."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je vous ai enseigné beaucoup de choses erronées par le passé. J'espère que vous me donnerez une chance de vous montrer que j'ai changé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"C'est bon de retrouver un vieil ami, quand même. On se sent seul, vous savez, quand on change ses amis en disciples."</DefaultText>
+      <FemaleText>"C'est bon de retrouver une vieille amie, quand même. On se sent seul, vous savez, quand on change ses amis en disciples."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Iovara vous regarde avec curiosité. "Quelle bonne surprise ! Cela faisait si longtemps que je n'avais pas vu un vieil ami. Et vous êtes celui que je m'attendais le moins à revoir."</DefaultText>
+      <FemaleText>Iovara vous regarde avec curiosité. "Quelle bonne surprise ! Cela faisait si longtemps que je n'avais pas vu une vieille amie. Et vous êtes celle que je m'attendais le moins à revoir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Quelles que soient vos raisons, vous m'avez manqué pendant toutes ces années. Vous retrouver ici aujourd'hui, alors que je suis entourée d'étrangers, est un merveilleux cadeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mais il n'y a rien de plus fort que les liens familiaux. Je n'aurais jamais dû douter qu'on se retrouverait un jour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"J'ai cru ne jamais vous revoir quand j'ai appris que Thaos avait lancé une inquisition. C'est un grand soulagement de voir que notre famille a résisté à ces épreuves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Si seulement c'était si simple ! Il faudrait convertir le grand inquisiteur en personne. Mais votre présence ici indique que nous ne sommes peut-être pas si loin du but finalement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Il s'est passé tant de choses depuis cette époque. L'Inquisition..." 
+
+Elle baisse les yeux, perdue dans ses pensées. 
+
+"Mais tout cela n'a plus d'importance aujourd'hui. Vous êtes là, c'est tout ce qui compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous avez pris beaucoup de risques pour faire ça pour moi. Je n'aurais jamais demandé ça à quiconque, et surtout pas à quelqu'un dont la sécurité importe tellement pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je suis... surprise que vous soyez prêt à vous donner autant de mal pour moi. Vous savez que je ne vous aurais jamais demandé ça."</DefaultText>
+      <FemaleText>"Je suis... surprise que vous soyez prête à vous donner autant de mal pour moi. Vous savez que je ne vous aurais jamais demandé ça."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"D'où êtes-vous, Inquisiteur ?"</DefaultText>
+      <FemaleText>"D'où êtes-vous, Inquisitrice ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"D'ici, en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vraiment ? Je fais si peu de rencontres de nos jours. La plupart de mes disciples sont issus d'autres villes et d'autres royaumes. Et ces soldats ont presque tous été enrôlés dans les campagnes environnantes." 
+
+"Je suis contente de voir quelqu'un qui a connu Creitum autrefois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Elle vous regarde avec insistance. "Je me souviens de vous. C'était il y a quelques années, quand j'étais missionnaire. Avant tout ça." Elle secoue la tête. 
+
+"C'est dur de repenser à cette époque, n'est-ce pas ? Je donnerais n'importe quoi pour revenir en arrière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Peu de mes disciples sont originaires d'ici. Et les soldats ont pour la plupart été enrôlés dans les campagnes. Je suis contente de voir quelqu'un qui a connu Creitum autrefois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"J'aimerais que vous restiez ici, dans notre camp. Vous serez mon invité."</DefaultText>
+      <FemaleText>"J'aimerais que vous restiez ici, dans notre camp. Vous serez mon invitée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ne pouvant plus tenir sa langue, le soldat s'approche d'Iovara et pose une main sur son épaule pour attirer son attention. Il parle à voix basse, mais la conversation n'a rien de privé. 
+
+"Madame Iovara, je vous en supplie. C'est un INQUISITEUR ! Vous êtes en danger. Vous devez absolument l'empêcher de s'en prendre à vous."</DefaultText>
+      <FemaleText>Ne pouvant plus tenir sa langue, le soldat s'approche d'Iovara et pose une main sur son épaule pour attirer son attention. Il parle à voix basse, mais la conversation n'a rien de privé. 
+
+"Madame Iovara, je vous en supplie. C'est une INQUISITRICE ! Vous êtes en danger. Vous devez absolument l'empêcher de s'en prendre à vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Elle repousse sa main calmement mais fermement. "C'est un missionnaire, comme je l'étais jadis. Ce qu'on lui a enseigné était faux, comme pour moi."
+
+"Si je ne peux pas croire à la capacité d'un homme à revenir à la raison une fois la vérité dite, quel espoir notre mouvement peut-il avoir ?"</DefaultText>
+      <FemaleText>Elle repousse sa main calmement mais fermement. "C'est une missionnaire, comme je l'étais jadis. Ce qu'on lui a enseigné était faux, comme pour moi."
+
+"Si je ne peux pas croire à la capacité d'une femme à revenir à la raison une fois la vérité dite, quel espoir notre mouvement peut-il avoir ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nous avons beaucoup d'anciens missionnaires ici. Ils sont très loyaux et très serviables. Beaucoup sont morts pour nous. Nous ne devons pas leur tourner le dos." 
+
+"Et si l'Inquisition veut m'ôter la vie, qu'il en soit ainsi. Mais ils savent aussi bien que moi que ma cause ne mourra pas avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Iovara ne sourcille pas. "La situation est-elle si désespérée là-bas ? Je n'en ai jamais rien su." 
+
+"J'espère que votre prochaine mission sera plus intéressante. Écouter mes sermons n'a rien de passionnant pour un espion."</DefaultText>
+      <FemaleText>Iovara ne sourcille pas. "La situation est-elle si désespérée là-bas ? Je n'en ai jamais rien su." 
+
+"J'espère que votre prochaine mission sera plus intéressante. Écouter mes sermons n'a rien de passionnant pour une espionne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Iovara vous montre quelque chose derrière elle. "Venez. Nous avons beaucoup de choses à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Un assassin envoyé par l'Inquisition, madame. Il a osé s'approcher de notre camp."</DefaultText>
+      <FemaleText>"Une criminelle envoyée par l'Inquisition, madame. Elle a osé s'approcher de notre camp."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Madame, il ADMET être un espion !"</DefaultText>
+      <FemaleText>"Madame, elle ADMET être une espionne !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Alors ça le rend moins dangereux, non ?" 
+
+"Je n'ai rien à cacher. Tout ce que je vois ici, c'est une opportunité de convaincre quelqu'un de nous aider."</DefaultText>
+      <FemaleText>"Alors ça la rend moins dangereuse, non ?" 
+
+"Je n'ai rien à cacher. Tout ce que je vois ici, c'est une opportunité de convaincre quelqu'un de nous aider."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_troll</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Glasdial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Glasdial et rapportez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la tête de Glasdial à Fyrgen le gardien à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le troll Glasdial, connu aussi sous le nom de la Mort verte, erre dans les ruines de Lle a Rhemen dans la gorge de Stormwall. Un alchimiste offre une prime conséquente en échange de sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Si je peux retrouver et vaincre le troll Glasdial, vu récemment autour des ruines de Lle Rhemen, je pourrai rapporter sa tête et réclamer la prime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le sort de Glasdial a été réglé. Une fois que je serai revenu voir Fyrgen le gardien avec la prime, il me donnera l'argent qui était offert.</DefaultText>
+      <FemaleText>Le sort de Glasdial a été réglé. Une fois que je serai revenue voir Fyrgen le gardien avec la prime, il me donnera l'argent qui était offert.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réclamé la prime sur Glasdial.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

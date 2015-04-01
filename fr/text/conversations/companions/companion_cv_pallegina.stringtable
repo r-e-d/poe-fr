@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_pallegina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>167</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Que les dieux maudissent ce bâtard !" Ses grands yeux luisants et dorés regardent l'étendue d'eau, sans vous voir. Puis, sentant votre présence, elle tourne sa tête emplumée vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous voulez lancer une compagnie commerciale vailienne malchanceuse ? Si vous avez un peu de plomb dans la cervelle, vous pourriez en faire quelque chose." 
+
+Elle serre sa mâchoire et continue tranquillement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tant que vous êtes partant pour nettoyer quelques taches de sang."</DefaultText>
+      <FemaleText>"Tant que vous êtes partante pour nettoyer quelques taches de sang."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Que se passe-t-il, exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je ne suis pas sûr de ce dont vous parlez, mais je ne veux pas être impliqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Assez d'argent et d'or, vous seriez surpris de voir à quel point il est possible de nettoyer les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Demeurez silencieux.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Exactement ? Si j'avais su ça, je serai de meilleure humeur. La seule chose que je sais, c'est que Mestre Verzano est déterminé à finir dans une tombe avant la fin de la saison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ah, le luxe de choisir les méli-mélo stupides dans lesquels on peut se commettre." Elle soupire. "Ce doit être agréable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"C'est vrai. Verzano a simplement de la chance que personne ne le paye en acier ces jours-ci." Elle fait grincer ses dents. "Tôt ou tard, sa chance tournera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>La femme se retourne vers l'entrepôt un moment et grimace. Après un léger hochement de tête, elle part en trombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>La femme vous sourit faiblement avant de tourner son regard vers l'entrepôt. Elle grimace, vous lance un léger hochement de tête et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Avez-vous besoin d'aide pour quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>La femme vous regarde attentivement pendant un long moment avant que ses membranes nictantes ne glissent sur ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous voulez aider ? Bien sûr. Allez dans cet entrepôt et demandez un homme nommé Verzano. Lorsque vous le trouverez, mettez-le dans un sac, jetez le sac dans une caisse et mettez la caisse sur un bateau en direction d'Ancenze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Elle réfléchit un moment avant de continuer sur un ton de colère. "Ou le bas du golfe du Bois de perle. L'un ou l'autre me vont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Bien, bien. Est-ce là votre dernier jour parmi les vivants, Verzano ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Verzano tord ses mains. "Votre timing est impeccable, Tella Pallegina. Les Doemenels en ont après moi. Vous devez les arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Pallegina grogne. "Comme si j'avais quelque chose à voir là-dedans. Les Républiques considéraient que votre affaire devait être protégée en raison de son succès. Ce succès reposait sur la coopération avec les locaux, comme la Maison Doemenel. Vous avez perdu ça..." Ses yeux dorés se rétrécissent. "... ainsi que la faveur des ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Même si vous vous en sortez, ils en ont fini de vous. Les ducs ont des intérêts plus pressants à la Baie du défi que de secourir un marchand qui s'est jeté tout seul par-dessus bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Verzano tombe à genoux et joint ses mains. "Pitié, Pallegina. Je n'ai aucune chance contre les Doemenels." Il se mord les lèvres tremblantes. "J'ai failli et je me suis déshonoré, mais vous ne pouvez quand même pas regarder votre compatriote mourir comme un chien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Pallegina regarde Verzano un long moment. Les membranes de ses yeux glissent en avant et en arrière avant de continuer. "Verzano, Verzano... pourquoi gâchez-vous votre précieux souffle avec moi ? Mes ordres viennent de l'ambassadeur, et par l'ambassadeur, de gens dont vous devriez être fier qu'ils aient eu ne serait-ce qu'une pensée sur le fait que vous alliez vivre ou non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous n'avez pas l'air d'être du genre à demander aux dieux de le maintenir hors de Hel, alors pourquoi ne pas demander grâce à la seule personne dans cette pièce qui ait le pouvoir de le faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Elle se tourne vers vous et lève ses sourcils à plumes avec impatience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"J'ai l'intention de protéger Verzano des Doemenels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Attaquez Verzano] "Ce n'est pas des Doemenel qu'il devrait se méfier... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Verzano, vous êtes livré à vous-même. Je pars - APRÈS m'avoir payé ce qui m'est dû."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[N'interrompez pas.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Que signifie tout ceci ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Restez en dehors de ça. J'ai une affaire à régler avec Mestre Verzano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Les plumes de Pallegina flamboient, mais elle ne tourne pas son visage vers vous. "J'ai toutes les intentions de rester en dehors tout ceci, comme le font les ducs bels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"C'est simple. Verzano est terminé, hors course. Son destin ne dépend plus que des Doemenels et des malheureux amis qu'il pourrait encore avoir dans la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Pallegina baisse le regard et commence à secouer légèrement la tête. Quelques instants plus tard, elle renverse la tête en arrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ha ha ha ! Oh, Verzano, vous avez après tout un saint veillant sur vous." Elle effectue une longue enjambée à travers la pièce et attrape la tête d'un Verzano déjà nerveux dans ses mains plumeuses, un geste qui semble planer dans un espace dangereusement étroit entre la caresse et l'écrasement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ne venez pas frapper à la porte de l'ambassade. Compris ?" Verzano répond par une série de rapides et faibles acquiescements. Pallegina acquiesce une fois en retour et lui inflige une gifle légère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Une épreuve difficile, mais pas injustifiée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Verzano tourne son visage plein de larmes vers vous. "Je sais que je vous place dans une position difficile, mais veuillez croire que je n'ai jamais pensé qu'aucun d'entre nous n'en viendrait à ces extrémités. Je n'ai fait que ce qui était nécessaire pour sauvegarder mes affaires et faire honneur à mon pays.
+
+"Je vous en prie, j'implore votre pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Verzano tourne son visage plein de larmes vers vous. "Je sais que vous avez un grand cœur. Je vous en prie, je n'ai jamais voulu que nous nous fassions du mal. Je ne voulais que sauvegarder mon commerce." 
+
+"Ne les laissez pas me massacrer comme cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Verzano tourne son visage vers vous et rit amèrement à travers ses larmes. "Je ne peux qu'implorer votre pitié. Notre Pallegina est aussi bienveillante que la Mère-Céleste en comparaison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Verzano tourne son visage plein de larmes vers vous. "Je vous en prie, les Doemenels vont me découper en morceaux. Mais vous pourriez les en empêcher. Tout le monde dans la Baie du défi sait ce dont vous êtes capable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Stúnzonet. Postenago. Bazzo !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Verzano joue avec le feu et quelqu'un d'autre en paie le prix." Pallegina soupire. "Votre charité dépasse de loin ce qu'il mérite. Pour autant, je n'ai au moins plus à m'occuper de lui. Pour cela, vous avez ma gratitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"J'ai toujours su que les mauvaises relations de Verzano le rattraperaient. Je ne m'attendais pas à ce que sa fin vienne d'un étranger, mais je suppose que sa capacité à nuire a dépassé ce petit cercle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vous avez fait le bon choix. Verzano ne peut que s'en prendre à lui-même. Nous l'avons assez averti, mais il ne nous a jamais écouté." Elle secoue sa tête emplumée et sourit légèrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Heureusement pour vous, Verzano, je me suis déjà chargé de Danna Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Attaquez Verzano] "Ce n'est pas des Doemenel qu'il devrait se méfier... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Pallegina lève les yeux avec une expression de satisfaction. "Ah. C'est donc fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Que vous en ayez eu l'intention ou non, vous avez rendu un grand service aux Républiques de Vailia aujourd'hui, en nous en débarrassant. Je travaille étroitement avec l'ambassade pour protéger nos intérêts, mais je pense que récemment notre regard a été trop restreint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Cela semble pertinent. Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Pas maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ah. Bien, si vous changez d'avis je serai à l'ambassade. Elle se trouve au sud-ouest du palais ducal. Premiers feux." Ses yeux dorés luisent à ce dernier mot. "Corès." Elle sourit légèrement et joint son doigt majeur à son pouce deux fois avant de partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Bien. Peut-être puis-je faire quelque chose de plus valable que de jouer à la nounou des marchands." Elle sourit. "L'ambassade est en haut de Premiers feux, au sud-ouest du palais ducal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Elle est morte ? Je ne peux vous remercier assez, aimico. Mais cela n'arrêtera pas les Doemenel très longtemps. Je dois sortir d'ici, et je vous le recommande également."
+
+Il vous donne un sac de pièces de ses mains tremblantes. "C'est tout ce que j'ai après cette aventure malheureuse. Merci encore, et je vous en prie, faites attention à vous."</DefaultText>
+      <FemaleText>"Elle est morte ? Je ne peux vous remercier assez, aimica. Mais cela n'arrêtera pas les Doemenel très longtemps. Je dois sortir d'ici, et je vous le recommande également."
+
+Il vous donne un sac de pièces de ses mains tremblantes. "C'est tout ce que j'ai après cette aventure malheureuse. Merci encore, et je vous en prie, faites attention à vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Dans tous les cas, les complications de l'ambassade avec lui ont été coupées, ce qui signifie également que je suis libérée du filet de stupidité de Verzano. Vous avez mes remerciements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous avez manifestement de quoi vous occuper en ville, mais je pense que nous pouvons nous aider mutuellement... si vous souhaitez travailler pour nous." Elle se retourne vers l'entrepôt et lève ses sourcils emplumés. "Officiellement, bien sûr. Nous pouvons y aller ensemble et je vous présenterai à l'ambassadeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Elle tourne sa tête emplumée dans votre direction. "Faites ce que vous voulez. Son sort ne me concerne plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Je ne me mettrai pas en travers de votre chemin. Faites ce que vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Nous avons besoin de quelqu'un pour nous aider à obtenir une audience avec le Duc, mais les Douzaines sont un peu plus qu'une foule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ce sont des gens ordinaires, peut-être désorganisés, mais quand même des gens. Cela n'en fait pas une foule."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Les foules sont faciles à manœuvrer si vous savez comment les mener. Elles chérissent leur indépendance, mais comme tous les groupes, elles se rallieront à quelqu'un le moment venu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Qui s'en soucie ? Si l'un d'entre eux réussit à trouver du courage et pose des problèmes, je les remettrai à leur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je n'ai rien contre les gens ordinaires, mais les Douzaines sont facilement agités et semblent toujours vouloir se battre. Il n'en faudrait pas beaucoup pour les pousser à bout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ne vous en faites pas. Je les contrôlerai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je sais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Quelles sont nos alternatives, les Doemenel et les Chevaliers du Creuset ? Préfèreriez-vous leur compagnie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Au moins pouvons-nous être sûrs que le bain de sang sera limité avec les Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Oh, vraiment ?" se moque-t-elle. "Nous verrons à quel point vous serez confiant lorsque les torches sortiront."</DefaultText>
+      <FemaleText>"Oh, vraiment ?" se moque-t-elle. "Nous verrons à quel point vous serez confiante lorsque les torches sortiront."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Le pouvons-nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ce n'est pas vraiment un problème pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ce n'est pas mon problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Elle soupire, ennuyée. "Les rues ne seront pas ensanglantées. Les Doemenel peuvent être violents, mais toujours avec un objectif en tête. Ils ne sont certainement pas mes amis ni ceux des républiques, mais leurs motivations sont faciles à comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Les Chevaliers du Creuset ont leurs ambitions, mais la stabilité de la Baie du défi est probablement primordiale dans leur esprit. Les ducs ne pensent qu'à leurs possessions, et non pas à la santé dans le long terme de nos partenaires dans le Dyrwood. Si la Baie du défi tombe, il ne nous restera plus que des routes terrestres. Sans beaucoup de confort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Les Doemenel ne sont certainement pas mes amis, mais je suis sûre qu'ils ne veulent pas voir leur ville mise à sac. Je ne peux pas en dire autant des Douzaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Pallegina lève un sourcil plumeteux. "J'espère que vous trouverez cette confiance lorsque nous affronterons une horde de fermiers en colère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Elle rit avec incrédulité. "Cela arrivera, si vous ne faites pas attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Pallegina laisse échapper un soupir d'exaspération. "Je ne pense pas que la Baie du défi soit prête pour une autre guerre civile, général."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Comme le dirait un de mes compatriotes." Elle secoue la tête avec un petit sourire. "Je ne peux qu'espérer que vous soyez aussi malin que vous pensez l'être. Sinon, nous devrons affronter les torches ensemble."</DefaultText>
+      <FemaleText>"Comme le dirait un de mes compatriotes." Elle secoue la tête avec un petit sourire. "Je ne peux qu'espérer que vous soyez aussi maligne que vous pensez l'être. Sinon, nous devrons affronter les torches ensemble."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Quel dommage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Elle vous lance un regard de côté. "Cela ne vous donne pas un air dur pour autant, vous savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Il le faut. Cela ne nous aidera pas si la ville est plongée dans le chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ils semblent être de bons alliés à avoir si nous devons voir les ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je ne veux pas non plus que quoi que ce soit de mauvais arrive à la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Elle laisse échapper un petit rire. "Je réfléchis à voix haute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Elle acquiesce sèchement. "Bien. J'espère que le duc nous croira lorsque nous lui dirons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Pallegina acquiesce. "Aucun groupe dans la ville n'est mieux connecté au duc ou mieux équipé pour gérer les Douzaines s'ils dégénèrent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Pallegina esquisse un large sourire en s'adressant à l'ambassadeur. "Ambassadeur Agosti, je voudrais vous parler d'un sujet d'une certaine urgence et d'une grande importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Soupirant comme s'il se souvenait d'une lourde charge, Vicent croise les bras avant de répondre. "Pallegina, si cela concerne le même sujet dont nous avons déjà discuté, je doute de pouvoir être convaincu plus facilement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ambassadeur, je vous prie, écoutez-la jusqu'au bout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Cessez de traîner les pieds et prêtez attention pour une fois !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Restez silencieux.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>L'ambassadeur vous évalue pendant un moment puis acquiesce avec respect. "Vous êtes bien connu dans la Baie du défi, [Player Name]." Il sourit légèrement. "Et même à l'ambassade vailienne."</DefaultText>
+      <FemaleText>L'ambassadeur vous évalue pendant un moment puis acquiesce avec respect. "Vous êtes bien connue dans la Baie du défi, [Player Name]." Il sourit légèrement. "Et même à l'ambassade vailienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>L'ambassadeur apparaît modérément ennuyé par votre interjection et tourne son attention de nouveau vers Pallegina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Vicent tourne de nouveau son attention vers Pallegina. "Alors vous maintenez une compagnie respectable ces jours-ci." Il lève les mains en l'air et hausse les épaules. "Vraiment pas une bonne raison d'aller causer des problèmes avec les animanciens et dieu sait qui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>L'ambassadeur tourne immédiatement la tête dans votre direction et vous lance un long regard plein de désapprobation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Il reporte son attention vers Pallegina avec un rire léger et une gestuelle condescendante dans votre direction. "Il s'agit de votre nouvel avocat ? Vous devriez vraiment mieux vous entourer, Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Nous devons protéger nos intérêts ici, mais cela signifie également savoir quand éviter les enchevêtrements inutiles. Les animanciens et les locaux ont des problèmes. Il les résoudront. Ou pas. De toute façon, il y a trop de risques à s'impliquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>L'ambassadeur vous regarde avec une mesure d'appréhension. "Vous avez toute mon attention... [Player Name], n'est-ce pas ? Mais à moins que Pallegina n'ait des raisons impérieuses d'interférer dans la vie politique de la Baie du défi, c'est de la position des ducs que nous devrions éviter toutes implications inutiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ambassadeur, il y a des problèmes en jeu qui dépassent les marchands escrocs et l'ouverture du port.  L'animancie est attaquée dans la Baie du défi !" Pallegina secoue ses poings emplumés pour souligner son point de vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Si elle est hors-la-loi ici, qu'est-ce qui pourrait empêcher que la même chose ne se produise dans les républiques ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ambassadeur, je vous supplie de prendre un peu de recul et reconsidérer cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>L'ambassadeur Agosti lève la main et coupe Pallegina d'un ton strident. "Assez. Nous n'allons pas encore bavasser au sujet des animanciens de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Les désirs du duc n'ont pas changé depuis la dernière fois que nous nous sommes entretenus ensemble. Si vous ne le savez pas déjà, votre insubordination est déjà arrivée aux oreilles de la duchesse de Biageppe et du duc de Selona."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"On murmure que vous n'êtes pas à la hauteur de vos devoirs. Ce sujet de conversation doit-il atteindre les rives de Spirento?"
+
+Le comportement de Pallegina s'efface rapidement pour laisser place à un état de choc et d'inquiétude, mais elle demeure silencieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Le visage de l'ambassadeur vacille entre des expressions de compassion et de frustration. "Pallegina, je ne pense pas que votre inquiétude soit infondée, mais cette ambassade n'est pas le lieu pour annuler la politique des républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Si cela peut faire une différence, ambassadeur, j'examine déjà les sujets soulevés par Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Quel genre de pleutre doublé de bon à rien êtes-vous ? Si vous et les ducs ne la prenez pas au sérieux, alors allez vous faire voir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ce n'est pas le cas, mais il serait tout à fait fortuit que votre enquête vous amène aux Ormes jumeaux, parce que c'est là que Pallegina doit se rendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>L'ambassadeur cligne des yeux, clairement pris au dépourvu par votre sortie. "Oui, bien... nous aurons notre rôle à jouer. Pour le meilleur ou pour le pire, je suis le représentant des ducs, et non l'avocat de Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Les yeux dorés de Pallegina s'élargissent mais elle garde le silence. Malgré son choc, vous percevez un sourire étouffé qui se forme un instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Pallegina reprend son comportement déterminé. "Que me veulent les ducs, ambassadeur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"L'instabilité du Dyrwood a créé une opportunité pour nous de reprendre le commerce avec l'Eir Glanfath. Nous allons avoir besoin de rencontrer prochainement les Glanfathans pour sécuriser les accords commerciaux à venir. Les routes des Ormes jumeaux peuvent être dangereuses, bien sûr, mais c'est pourquoi vous serez notre représentante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Les plumes de Pallegina se hérissent mais elle parle avec un timbre inhabituellement doux. "Eccosi, ambassadeur, mais cela ne va-t-il pas provoquer les dyrwoodans ? Leur pays est en déclin et nous avons déjà séparé leurs alliances commerciales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Les provoquer à quoi, à faire la guerre ? Indépendamment des républiques, les armées du Dyrwood ont été dépossédées de toute une génération de soldats. Il serait insensé de ne pas tirer avantage de la situation. Si nous ne le faisons pas, les Readcerans eux, n'hésiteront pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Ambassadeur, c'est faire preuve d'une compassion froide si l'on considère ce que ces gens ont traversé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"C'est logique, Pallegina. Le Dyrwood a des problèmes et tôt ou tard quelqu'un va en profiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Pallegina vous regarde incrédule, sa bouche légèrement ouverte. "Vraiment, après cela, vous n'avez rien à dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Regardez au loin de manière dépassionnée.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Désapprouvez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Pallegina est abasourdie. "Madiccho. Lorsque je suis entrée ici, je ne pensais pas que nous parlerions de la manière de découper le cadavre du Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Au-delà de cela, ambassadeur, il y a un élément pratique à prendre en compte. Nous pourrions profiter à court terme de cet arrangement, mais dans le futur ? Le Dyrwood n'oubliera pas, et les Républiques en paieront peut-être le prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Vicent lèvent ses mains pour mettre Pallegina à son aise. "Ce n'est pas ce dont nous parlons. Ce sont juste les affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>L'ambassadeur soupire. "Nous ne sommes pas les ducs, Pallegina. C'est leur décision et notre travail d'exécuter les ordres. Ce n'est pas comme s'ils vous demandaient d'assassiner quelqu'un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Pallegina lève un sourcil et contracte sa mâchoire, mais elle demeure silencieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Pallegina, Pallegina..." Il secoue la tête. "Allez aux Ormes jumeaux. Parlez à l'anamenfath, insistez sur l'instabilité du Dyrwood, et rassurez-la sur le désir des républiques vailiennes d'ouvrir un commerce sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Après une longue et inconfortable pause, Pallegina soupire profondément, ses paupières se fermant brièvement alors qu'elle cède. "Bien sûr, ambassadeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>L'ambassadeur acquiesce et sourit de manière paternelle. Puis il vous regarde. "Je sais que vous avez prévu d'enquêter sur cette 'crise' ensemble, mais j'espère que vous prenez la mesure des responsabilités de Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Bien sûr, ambassadeur. Nous avons tous des fonctions à assumer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Je comprends, mais nous allons examiner cela, quelles que soient nos responsabilités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Mentez] "Je comprends tout à fait et je m'assurerai qu'elle accomplisse cette mission importante pour les ducs." [Faites un clin d'œil odieux à Pallegina.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Acquiescez superficiellement.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Pallegina plisse les yeux vers vous en signe d'ennui, mais Vicent rayonne. "Excellent. Maintenant, si vous voulez bien m'excuser... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Vicent s'irrite et se tourne vers Pallegina. "Les ducs auront-ils besoin d'en entendre davantage sur les folles aventures de Pallegina ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Vicent se tord la bouche en tentant de deviner votre intention mais abandonne au bout d'un long moment. "Hrm. Très bien. Maintenant, si vous voulez bien m'excuser... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Pallegina lèvent les mains en l'air. "Bien sûr que non, ambassadeur. Je consulterai les anamenfath dès que je pourrai me rendre aux Ormes jumeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Bon. Si vous voulez bien m'excuser... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Cela aurait pu être meilleur, cela aurait pu être pire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Et vous ne pouviez vraiment rien dire ? Pas un traître mot pendant tout ce temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Elle plisse ses yeux. "Non pas que vous ayez beaucoup résisté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je vous remercie d'avoir pris ma défense, mais c'est difficile de convaincre l'ambassadeur d'aller à l'encontre des ordres des ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Je suis un étranger. La discussion se déroulait entre vous et l'ambassadeur."</DefaultText>
+      <FemaleText>"Je suis une étrangère. La discussion se déroulait entre vous et l'ambassadeur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Désapprouvez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Pallegina parle en serrant les dents. "Très bien, allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Je pense que vous êtes dans le vrai, mais je ne voulais pas contrarier davantage l'ambassadeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Qu'y a-t-il à combattre ? Vous avez vos ordres et vous êtes déjà en mauvaise posture avec les ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Vous auriez au moins pu m'aider à résister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Je sais que vous avez raison, Pallegina. Nous trouverons un moyen d'assurer vos obligations tout en examinant ce qu'il se passe réellement par ici. Ne vous en faites pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Cela semblait juste de vous assister, mais je pense que l'ambassadeur a fait valoir ses arguments. Si vous ne commencez pas à suivre les ordres, votre situation auprès des ducs va empirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Assez de sagesse pour nous deux. Je dois maintenant savoir comment je vais me rendre aux Ormes jumeaux avant que l'ambassadeur ne perde patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Je sais, mais c'est vraiment frustrant. J'ai passé assez de temps à me morfondre, de toute façon. Je dois maintenant savoir comment je vais me rendre aux Ormes jumeaux avant que l'ambassadeur ne perde patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Elle fait une pause et réfléchit. "Pourtant, j'ai peur que cet accord avec les Glanfathans n'affaiblisse encore plus le Dyrwood et ne crée des troubles dans les Républiques dans les années à venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"La route est longue jusqu'aux Ormes jumeaux. Vous aurez beaucoup de temps pour y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Suivez votre cœur. Agissez au mieux des intérêts des Républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Suivez simplement vos ordres, Pallegina. C'est la voie la moins susceptible de créer des problèmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Elle acquiesce et soupire. "Verus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"J'aimerais le savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Elle serre les dents et acquiesce. "Bien sûr, frero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Elle serre les dents et acquiesce. "Bien sûr, sérre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Maudit ambassadeur ! Je lui ai dit qu'il y avait une conspiration. Et encore et toujours, on m'a ignorée. Puis il y a eu la mort du duc, les émeutes, et maintenant... ceci. Si la Clé plombée me vise, nous devons prévenir l'ambassadeur aux Premiers feux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Avez-vous appris ce qu'il s'est passé en votre absence ? Un homme étrange a réussi à pénétrer dans les murs de Caed Nua, apparemment pour du commerce. Lorsque la nuit est tombée, il a grimpé jusqu'à ma fenêtre et m'a dit qu'il venait parce que j'avais posé trop de questions et mis des idées dangereuses dans la tête de l'ambassadeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"J'ai connu de meilleurs assassins, mais il n'était pas mal. J'ai examiné ses affaires et je n'ai aucun doute sur le fait qu'il agissait pour le compte de la Clé plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Soit l'ambassadeur avait tort soit il était mal avisé sur ce qui attend les Républiques. Si la Clé plombée a décidé d'envoyer un assassin à mon encontre, nous devons prévenir l'ambassadeur aux Premiers feux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Ah. Bien, si vous changez d'avis je serai à l'ambassade. Elle se trouve au sud-ouest du palais ducal. Premiers feux." Ses yeux dorés luisent à ce dernier mot. "Corès." Elle sourit légèrement et joint son majeur à son pouce deux fois avant de partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Au diable l'ambassadeur ! Je n'ai pas cessé de le mettre en garde au sujet du complot qui se tramait. Mais il m'a ignorée. Il y a eu la mort du duc, les émeutes, et maintenant... ça. Si je suis la cible de la Clé plombée, nous devons prévenir l'ambassadeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Je ne me mettrai pas en travers. Faites comme vous l'entendez."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

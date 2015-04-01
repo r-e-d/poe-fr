@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_mercenaries_for_hire</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Bronze sous le Lac</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rencontrez les Massacreurs de géants dans les plaines de Woodend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Entrez dans les ruines via la gorge de Stormwall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retrouvez les armes de Lhe a Rhemen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Rapportez les armes à Wenan dans le Hall d'expédition de Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wenan redoute un nouveau complot des Chevaliers du Creuset et recherche des armes puissantes pour les repousser. Il m'a demandé de retrouver le puissant arsenal engwithan dans les ruines de Lhe a Rhemen.
+
+Un groupe d'aventuriers rival, les Massacreurs de géants de Byne, a déjà été envoyé sur place mais a échoué.</DefaultText>
+      <FemaleText>Wenan redoute un nouveau complot des Chevaliers du Creuset et recherche des armes puissantes pour les repousser. Il m'a demandée de retrouver le puissant arsenal engwithan dans les ruines de Lhe a Rhemen.
+
+Un groupe d'aventuriers rival, les Massacreurs de géants de Byne, a déjà été envoyé sur place mais a échoué.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Selon Wenan, les Massacreurs de géants ont été incapables de trouver le moyen d'entrer dans les ruines. Il veut que je les rencontre à leur camp dans les plaines de Woodend, à l'est dans la gorge de Stormwall, pour voir s'ils ont appris quelque chose d'utile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Les Massacreurs de géants ont trouvé ce qu'ils pensent être une « clé » d'adra des ruines dans la gorge de Stormwall, juste à l'est des Plaines de Woodend, mais ils n'ont pas trouvé le moyen de s'en servir. Maintenant que je l'ai, je peux tenter ma chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Si Wenan a raison, les ruines de Lhe a Rhemen contiennent une cache d'armes puissantes. Je suis sûr que je les reconnaîtrai lorsque je les verrai.</DefaultText>
+      <FemaleText>Si Wenan a raison, les ruines de Lhe a Rhemen contiennent une cache d'armes puissantes. Je suis sûre que je les reconnaîtrai lorsque je les verrai.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai trouvé les armes anciennes que cherchaient Wenan à Lhe a Rhemen. Elles ne ressemblent pas vraiment à ce que je m'attendais.
+
+Elles sont impossibles à réparer et semblent contenir les restes d'une sorte d'énergie d'âme. Je peux expliquer cela à Wenan dans le hall d'expédition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Les Massacreurs de géants ont mentionné que les Chevaliers du Creuset ont patrouillé dans la gorge de Stormwall plus souvent qu'à l'accoutumée. Il faudra que je reste sur mes gardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé une lance qui est encore en parfaite état. Une arme pourrait ne pas suffire à Wenan, mais je pourrais l'imprégner de ma propre essence et la garder pour moi. Il semble que quelqu'un ait certainement fait la même chose dans ces ruines il y a longtemps de cela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai récupéré les armes engwithanes pour Wenan, mais j'ai dû tuer une patrouille des Chevaliers du Creuset dans l'action. J'ai au moins gagné la confiance des Douzaines dans l'histoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai récupéré les armes engwithanes pour Wenan, mais j'ai dû tuer une patrouille des Chevaliers du Creuset et des Massacreurs de géants dans l'action. J'ai au moins gagné la confiance des Douzaines dans l'histoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Wenan est mort. Je connais personne d'autre qui serait intéressé par les armes engwithanes maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

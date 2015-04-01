@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_noble_sanitarium_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"J'ai fait tout le chemin depuis les Républiques de Vailia pour voir ça. C'est quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Seuls les superstitieux ne voient pas le potentiel de cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous ne semblez pas être d'ici. Vous êtes venu vous faire soigner ?"</DefaultText>
+      <FemaleText>"Vous ne semblez pas être d'ici. Vous êtes venue vous faire soigner ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_merchant_peregund</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bonjour !" la marchande orlane sourit à votre approche. "Vous avez l'air d'aimer l'aventure. Vous cherchez des fournitures d'expédition ? J'ai tout ce qu'il vous faut !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Montrez-moi vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vendez-vous un poignard fabriqué en acier de Marche ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"De l'acier de Marche ? J'aimerais en avoir à vendre, mais hélas non. Allez voir Igrun, l'armurier. C'est l'aumaua qui se trouve là-bas. Il a souvent une bonne sélection, il vaut mieux lui demander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Des fournitures pour l'aventure... vous en avez besoin, je les ai," dit la femme orlane avec le sourire. "Vous voulez voir ce que j'ai à offrir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Bonjour, " dit la femme orlane d'un ton familier. "Merci de visiter ma boutique."
+
+"J'essaye encore de me refaire après avoir perdu ma cargaison," dit-elle en soupirant. "Mon inventaire n'est pas ce qu'il était mais... avec un peu de chance j'ai ce qui vous plaira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>La femme orlane trépigne à votre approche. "Vous vous souvenez de moi ? Nous nous sommes rencontrés au pont de Madhmr."
+
+Elle vous donne une tape sur l'épaule. "Merci de m'avoir aidée. Comme promis je vous offre les meilleurs prix de la ville. Si vous n'aviez pas été là, je serais encore fauchée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Montrez-moi vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Montrez-moi vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

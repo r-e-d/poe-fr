@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>278</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Lieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Village de Dyrford</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Personnage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Connaissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Les Chevaliers Forgerons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rang de Dunryd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Les Douzaines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ethik Nôl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Les Fangs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Maison Doemenel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Dyrwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>L'Empire d'Aedyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Eir Glanfath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Chevaliers du Creuset</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Admeth Hadret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Edrang Hadret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Galven Regd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Saint Waidwen : le fermier devenu Dieu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>La guerre du Saint : des origines jusqu'au Marteau divin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Les lunes d'Eora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Animancie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Histoires véritables des Terres vivantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Le Calendrier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Coutumes aedyranes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Coutumes glanfathanes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Poésie naasitaq</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Poésie glanfathane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Texte saint skaenite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Texte saint magranique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Texte saint berathian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Texte saint woedican</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Texte saint éothasian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Farce dyrwoodane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Pièce morale readcerane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Tragédie vailienne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vie et découvertes de Pandgram</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Monstres de l'archipel du Feu éteint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Les Blanches étendues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Le grand cerf de l'ouest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Plus petits que les hommes, les scarabées sont suffisamment intimidants pour faire fuir la plupart des voyageurs. Ces insectes dangereusement imposants ne manquent jamais d'impressionner ou de terrifier les visiteurs ainsi que de renforcer l'image de Dyrwood, celui d'un trou perdu à peine civilisé. Les vastes étendues naturelles de Dyrwood (et Eir Glanfath) sont particulièrement propices à la multiplication des scarabées. La plus aboutie des espèces de scarabées a évolué au point de se fondre à son environnement et de se doter de carapaces faites de matériaux courants et durs comme le bois, la pierre ou l'adra. Les tribus glanfathanes ont appris à fabriquer de solides boucliers, voire des armes, à partir des membres et des coquilles de ces scarabées. 
+
+Malgré leurs multiples apparences, ils sont d'une extrême complexité par rapport aux scarabées ordinaires. Lorsqu'ils choisissent un matériau en guise de coquille, ils le font dans un souci qui frôle l'art. Les scarabées de bois creusent souvent de complexes cavités dans leurs carapaces. En soufflant dans ces orifices, ils jouent une étrange musique capable d'attirer leurs congénères. Les scarabées de pierre se fabriquent de rudimentaires défenses qu'ils utilisent pour se défendre ou attaquer leurs proies. La nature complexe des scarabées reste énigmatique, mais ils s'avèrent difficiles à tuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Les fantômes sont des âmes qui ne se sont pas correctement séparées de leur corps après la mort. Cela survient généralement à la suite d'un grave traumatisme, notamment en cas de mort violente. Contrairement aux âmes perdues qui sont incapables d'interagir ou d'être détectées par le commun des mortels, les fantômes (comme les ombres et les cean gŵlas) restent liés au monde physique. Sans distinction, ils attaquent les autres formes de vie.
+
+Les fantômes peuvent aussi être issus d'être civilisés qui ont mené des vies particulièrement chaotiques, notamment des criminels violents et des fous. Dans certaines circonstances, chacun peut devenir un fantôme, mais la peur des fantômes, et leur association avec les malades mentaux, peuvent précipiter la fuite de populations vulnérables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Les ogres sont d'imposantes créatures à la peau épaisse et mesurant entre 3 et 3,5 mètres de haut. Ils sont particulièrement musclés et généralement vêtus de la fourrure ou de la peau de leurs proies. Les gourdins, les haches et les masses constituent leurs armes de prédilection. 
+
+Les ogres sont au moins aussi intelligents que les races "civilisées", mais l'agressivité dont ils font preuve, même envers leurs congénères, explique qu'ils soient peu nombreux. Malgré leur intelligence naturelle, leur tempérament versatile les a toujours empêchés de se concentrer suffisamment longtemps pour faire de grandes choses en termes culturels. La plupart d'entre eux mènent une vie semi-nomade, retirés en pleine nature, là où les rencontres se font plus rares. Ce n'est qu'à la saison des amours qu'ils se rassemblent, ce qui a souvent pour effet de réduire leur nombre plutôt que de l'augmenter. Les ogres dotés d'une nature plus "pacifique" s'efforcent d'éviter tout contact.
+
+Les rares fois où les ogres s'entraident, ils le font sous le commandement d'une ogresse. Elles sont encore plus imposantes que les mâles, mais tendent à se montrer moins agressives envers leurs congénères. Chaque fois que les ogres unissent leurs forces, ils constituent une menace insurmontable pour les êtres civilisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Les ombres voient le jour lorsque des créatures pourvues d'âmes particulièrement fracturées succombent sans être renvoyées dans le cycle de la renaissance. Altérées, ces âmes puisent l'essence des autres créatures dans l'espoir vain de se guérir. Plus elles volent d'essence, plus elles deviennent puissantes et dangereuses. Lorsqu'elles ingurgitent cette essence, elles récupèrent des fragments de matière corporelle, ce qui leur confère une apparence distinctive. Heureusement, les ombres ne peuvent puiser qu'une infime quantité d'énergie des âmes toujours attachées à un corps ou liées à un objet. Elles s'appuient essentiellement sur certaines créatures, telles que les pŵgras capables d'extirper les âmes de leur forme physique, pour les aider à obtenir l'essence dont elles ont besoin.
+
+Les ombres sont connues pour puiser l'énergie spirituelle de leurs victimes pendant leur sommeil, lorsque les âmes sont moins fermement liées aux corps. Cela donne lieu à d'horribles cauchemars qui épuisent ceux qui en sont la cible. Lorsque tous les habitants d'une ville se mettent à cauchemarder, il y a fort à parier qu'une ombre y a élu domicile.
+
+Les ombres absorbant l'énergie spirituelle, elles sont invisibles des créatures recourant à la vision spirituelle. Cela a conduit à des expériences au cours desquelles les ombres ont été liées à des armures ou à des objets afin de faire disparaître ceux qui ne veulent pas être vus par ces créatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Les jeunes dragons commencent leur cycle de vie en tant que wurms, un stade que la plupart d'entre eux ne dépassent pas. Les wurms sont ingénieux et rusés. Pour se transformer en drake (puis en dragon), un wurm a besoin de suffisamment d'espace et de ressources. À proximité d'autres drakes et dragons, ils ne se développent pas. Ils doivent élire domicile dans un endroit qui n'a pas encore été revendiqué par un de leurs plus grands congénères.
+
+Leurs chances de se développer étant relativement minces, la plupart des wurms vivent en groupes pour assurer leur survie. Intrépides et très agressives, ces créatures sont aussi relativement intelligentes car la concurrence acharnée à laquelle elles se livrent en matière de nourriture et de territoire l'exige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Énormes et agressives, les araignées se présentent sous différentes formes, couleurs et tailles partout dans les Contrées orientales. Bien plus dangereuses que leurs minuscules cousines, ces araignées géantes cherchent activement des proies humaines et animales. Même les plus faibles d'entre elles, les araignées lancières, peuvent venir à bout d'un être civilisé adulte si celui-ci n'est pas préparé. À défaut de poison, les pattes tranchantes des araignées lancières, dont découle leur nom, peuvent infliger de terribles blessures, y compris à une cible en armure.
+
+Plus redoutables que les araignées lancières, les tourneurs d'ivoire et les veuves noires sont capables d'infliger d'horribles morsures venimeuses. Les tourneurs d'ivoire peuvent tisser une toile autour de leurs proies pour les ralentir. Ce n'est pas le cas des veuves noires dont le venin est particulièrement toxique.
+
+Rares en dehors des lieux les plus reculés d'Eir Glanfath, les célèbres mangeuses de cristal sont aussi imposantes que puissantes. Elles possèdent des pouvoirs magiques qui, selon certains magiciens, se sont développés moyennant la consommation d'adra et de gemmes enchantées. En plus de leur capacité à dresser de redoutables pieux de cristal, le venin des mangeuses de cristal pétrifie momentanément la chair et le sang de leurs victimes. Les attaques lancées ensuite par ces redoutables créatures s'avèrent rapidement mortelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Les agrégats se composent d'une colonie de plusieurs espèces de plantes et de champignons carnivores qui s'unissent pour traquer leurs proies. Ce faisant, ils peuvent atteindre près de trois mètres cinquante de haut et former un "corps" vaguement anthropomorphique constitué de lianes, de feuilles, de racines et de terre. La coexistence de tant d'organismes distincts ne facilite pas leur éradication et il est généralement préférable de s'attaquer aux parties qui assurent leur déplacement ou plus simplement de brûler la colonie toute entière.
+
+La manière dont les agrégats se forment reste un mystère. Selon certains, ils apparaîtraient lorsque certaines espèces de plantes carnivores jettent leur dévolu sur un hôte commun, comme les victimes des spores humides, et seraient capables de se déplacer après s'être suffisamment renforcés. Cette théorie repose sur le fait qu'une fois découpés, bon nombre d'agrégats présentent des os et que d'autres restent à l'état de racines et de spores. 
+
+Les agrégats sont connus pour se cacher, attendant souvent sans bouger au milieu des arbres et des buissons le meilleur moment pour fondre sur leurs proies. Dotés d'une intelligence rudimentaire, ils n'en demeurent pas moins suffisamment évolués pour faire des réserves de nourriture. Il n'est pas rare de voir plusieurs victimes inconscientes prises dans les lianes d'un agrégat, attendant d'être dévorées plus tard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Les lions peuplaient autrefois les plaines situées à l'est et au sud des immenses forêts d'Eir Glanfath. Mais la colonisation des Contrées orientales a repoussé ces grands félins vers les terres situées entre les communautés glanfathanes et dyrwoodanes. En plus d'être particulièrement puissants, les lions se distinguent par leur rugissement capable de susciter la peur des êtres civilisés les plus courageux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Là où il y a des cerfs, les loups ne tardent pas à suivre." Cet adage aedyran, parfois prononcé de manière incomplète, témoigne de la vulnérabilité souvent ressentie par les premiers colons des Contrées orientales. Il évoque aussi la longue association des Aedyrans (littéralement "Peuple des cerfs") avec ces prédateurs à quatre pattes aussi présents à Dyrwood que dans tout l'Empire d'Aedyr.
+
+Les loups sont réputés pour leur rapidité et leur capacité à renverser leurs proies avant de les attaquer sans ménagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ces champignons géants font quasiment la taille d'un aumaua adulte et sont recouverts d'un capuchon aussi large que coloré. Leur poids énorme est soutenu par les dizaines de racines qui entourent leur base.
+
+Les spores humides se distinguent des autres champignons par l'appétit qu'elles affichent pour les âmes des créatures vivantes. Elles se développent et se déplacent souvent en groupes sur le sol des forêts, s'attaquant aux voyageurs les plus affaiblis qui ne peuvent pas riposter. Lorsqu'elles trouvent un hôte, elles s'y accrochent et lui procurent les nutriments de base dont il a besoin pour survivre tout en absorbant son essence. Après avoir trouvé un hôte, les spores humides se montrent particulièrement agressives, prêtes à déployer leurs racines venimeuses et acérées contre ceux qui menaceraient leur repas.
+
+Les spores humides se nourrissent d'abord de l'énergie la plus corrompue des âmes et finissent par entièrement les dévorer. Dans un tel contexte, la chair des spores humides est particulièrement appréciée des apothicaires chevronnés dans le processus de purification des âmes. Mais incorrectement utilisé, ce traitement peut provoquer une amnésie, voire une fracture de l'âme, dans les cas extrêmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Les sporelings correspondent à la forme larvaire des spores humides. Bien que plus mobiles et plus agiles que les spécimens matures, ces créatures de forme humanoïde sont également bien plus faibles. Elles naissent des spores humides et utilisent leur plus grande mobilité pour trouver de la nourriture. Comme les spores humides, les sporelings se nourrissent des organismes en décomposition et de l'essence des âmes dont ils ont besoin en quantité suffisante pour se développer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ces géants dégingandés sont deux fois plus grands que la plupart des humains. Leur corps est recouvert de grosses excroissances fongiques libérant un fluide nauséabond qui ressemble à du pus. Leurs mains et leurs pieds surdimensionnés sont pourvus de longues griffes capables de découper un homme en deux. Des dizaines de vrilles visqueuses pendent au-dessus de leur tête, elle aussi surdimensionnée, et leur grande mâchoire est remplie de dents pointues. Les trolls ont le visage, le menton et le nez longs et arborent une chevelure emmêlée et infestée de champignons. Ils n'ont jamais été vus armés, utilsant des outils ou portant des vêtements.
+
+Nul ne sait si les trolls se sont développés en harmonie avec le lichen, la mousse et les champignons ou s'ils en ont été victimes. La chair naturellement humide des trolls constitue l'environnement idéal au développement de tels végétaux. Ils leur servent de camouflage et les protègent des éléments. De plus, les enzymes qu'ils produisent assurent aux trolls un moyen de subsistance en période de disette.
+
+En symbiose avec ces végétaux, les trolls vivent généralement dans les zones densément boisées, même si certains leur préfèrent les environnements souterrains, également riches en lichen et en champignons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Particulièrement rares, les vithracks sont de redoutables créatures dotées de qualités naturelles de clairvoyance. De forme humanoïde, bien que légèrement plus grands et plus fins, leur tête ressemble à celles des araignées. À l'instar de ces dernières, ils sont capables de tisser des toiles. Ils utilisent la soie qui en résulte pour fabriquer de complexe structures, en plus de leurs robes particulièrement élaborées. 
+
+Il est impossible de distinguer un vithrack mâle d'un victrack femelle. Ils sont essentiellement jeteurs de sorts et manipulateurs d'esprits, comme les clairvoyants, mais n'hésitent pas à mordre en situation de combat rapproché. Grâce à leurs pouvoirs psioniques, les vithracks peuvent communiquer par télépathie. Comme bon nombre d'insectoïdes, leur société compte différents rôles, y compris ceux d'éclaireurs et de défenseurs.
+
+Malgré leur intelligence et leur puissance hors pair, les vithracks ne constituent pas une force majeure en raison de leur taux de natalité particulièrement faible. S'il est à l'origine de l'agressivité dont ils font preuve à l'égard des autres races, il rend aussi les vithracks particulièrement altruistes envers leurs congénères. Ils défendent leurs nids jusqu'à la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ces nuages amorphes se chargent rapidement d'une redoutable énergie. Dans le tourbillon qui s'ensuit, des dizaines de formes humanoïdes se matérialisent avant de se volatiliser en un instant. En proie à une agonie silencieuse, leur visage hurle et leurs mains s'accrochent désespérément à l'air qui les entoure.
+
+Les bîaŵacs (vents spirituels), comme on appelle ces tempêtes, créent souvent d'étranges phénomènes. Si les âmes sont libérées de leur corps et prises au milieu de la tempête, elles s'unissent aux autres éléments du tourbillon. Ils sont source de chaos et de confusion et les détruire est considéré comme miséricordieux pour les âmes qui y sont piégées. 
+
+Effectuer des expériences avec des créatures du fléau a contribué à ternir la réputation des animanciens dans de nombreux cercles. Certains la jugent dangereuse et inhumaine et d'autres, un moyen de parvenir à ses fins. Bon nombre d'être civilisés apeurés accusent les animanciens d'être à l'origine de telles manifestations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Une delempŵgra ("feuille pourrie"), plus généralement appelée pŵgra ("pourrie"), est une délemgane corrompue par la destruction de l'arbre ou la pierre d'adra qui lui sert d'habitat. Grêles et émaciées, elles sont aussi laides que les délemganes sont belles, et leur peau arbore des tons froids. Elles ont les cheveux foncés et visqueux, les traits du visage déformés, et les dents longues et acérées. Contrairement aux délemganes, elles ne sont pas enveloppées de particules lumineuses et prêtes à sortir leurs griffes contre les malheureux voyageurs qu'elles rencontrent. Les pŵgras se parent du crâne, de la peau et des plumes de leurs victimes.
+
+Contrairement aux délemganes soucieuses de préserver les forêts, les pŵgras cherchent à leur nuire, ce qui en fait des ennemies jurées. La pourriture qui les infecte confère à leurs attaques un redoutable poison, mais fragilise également leur corps, les rendant vulnérables aux attaques par perforation et par écrasement. 
+
+Ne pouvant plus puiser l'essence d'une forêt saine, elles subsistent en extrayant l'essence des plantes, des animaux et des êtres civilisés. Cela en fait les alliées naturelles des ombres qui se nourrissent de la même manière et avec qui elles chassent. 
+
+Elles s'attaquent à tous les êtres vivants, notamment aux rôdeurs et aux druides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Les délemganes, les esprits des forêts d'Eir Glanfath, font corps avec les arbres ou les monuments d'adra. Leur apparence corporelle ressemble à celle des elfes, mais leur peau se compose de bois et leurs cheveux s'apparentent à de longs végétaux (les adraganes ont une peau d'adra). Les délemganes brillent légèrement et sont souvent enveloppées de particules lumineuses. Elles ne portent pas de vêtements, n'ont pas d'organes génitaux et arborent une forme humanoïde. Les délemganes sont des êtres magiques et ne recourent pas à leurs armes physiques pour attaquer. Elles utilisent généralement leur charme et leur magie pour stopper les attaquants ou les attirer vers une mort certaine.
+
+Ces créatures puisent leur essence dans ce qui les entoure. Bien que dotées d'un corps physique et pouvant succomber si celui-ci est détruit, leur survie dépend également de la bonne santé de leur environnement. Elles ne ressentent aucune animosité envers les autres, mais défendent avec acharnement leur territoire. Dès lors, les délemganes et les adraganes ("nées de l'adra") peuvent individuellement se révéler plus ou moins agressives selon la qualité de leur milieu et la nature dangereuse ou inoffensive des explorateurs et aventuriers précédemment rencontrés. Elles constituent un frein naturel à leur développement à grande échelle. Malgré une cohabitation pacifique avec la plupart des tribus rurales d'Eir Glanfath, elles peuvent se montrer agressives si ces mêmes tribus viennent à étendre ou à développer leurs villes et villages. Certains êtres civilisés s'opposent également à la destruction de l'habitat des délemganes. Les habitants des villes, qui croient en la réincarnation de leurs âmes en forêts ou en êtres civilisés, en font partie.
+
+Les délemganes apprécient généralement les rôdeurs et les druides. Leurs liens spirituels avec les arbres ont permis de mieux comprendre les liens qui unissent les rôdeurs à leurs animaux de compagnie, même si cela reste encore à étayer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Particulièrement imposants, les dragons adultes sont au repos plus grands que la plupart des bâtiments des êtres civilisés. Dressés sur leurs pattes arrière, ils deviennent deux fois plus grands.
+
+Les dragons ont atteint le stade de maturation de leur cycle de vie. Comme les drakes, ils se sont adaptés à leur environnement, mais plus largement. Leur coloration, leur ornementation et même la structure de leur corps reflètent le territoire choisi, tout comme leurs aptitudes d'attaque et de défense. Après avoir revendiqué leur territoire et parce qu'ils sont rarement confrontés aux autres dragons ou drakes, ils restent discrets et évitent les conflits inutiles. 
+
+Seuls les dragons peuvent s'accoupler. C'est généralement la seule occasion au cours de laquelle les dragons quittent leur territoire pour trouver des congénères. Lorsqu'elles atteignent le stade de dragon, ces créatures se déterminent sexuellement. Cela étant, selon le nombre de dragons mâles ou femelles, les dragons peuvent changer de sexe. Les créatures atteignant ce stade étant rares, une telle caractéristique est essentielle à la survie de l'espèce.
+
+Les dragons sont plus intelligents que la plupart des êtres doués de raison, mais leur nature solitaire les empêche d'interagir de manière probante avec les autres espèces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Les drakes constituent le stade intermédiaire du cycle de vie des dragons. Ils ont passé le stade de wurm, mais n'ont pas encore atteint celui de dragon (et ne l'atteindront peut-être jamais). Les drakes défendent avec acharnement leur territoire et cherchent à l'étendre le plus possible. Les drakes sont particulièrement agressifs envers leurs congénères qu'ils considèrent comme autant de concurrents avec qui ils doivent se partager de rares ressources.
+
+Leur coloration reflète le territoire qu'ils ont revendiqué. Un drake ayant élu domicile dans un marécage, par exemple, présentera des tons alternant entre le vert, le marron et le noir ainsi que des membranes nictitantes, un museau plat et des naseaux retroussés. Si tous les drakes peuvent cracher du feu, nombre d'entre eux sont aussi capables de cracher d'autres éléments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Pour les druides, l'essence est plus puissante et plus harmonieuse lorsqu'elle est reliée au monde naturel. Comme la plupart des êtres dotés d'une âme (ou de fragments d'âme) ayant vécu des dizaines, voire des centaines de vies antérieures, ils sont déjà reliés au monde naturel. Étudier et pratiquer la transformation spirituelle revient à utiliser des vies antérieures et à exploiter les points forts et les compétences (voire les souvenirs) de leurs ancêtres dans le royaume animal. Les druides pensent aussi que la transformation spirituelle permet à un individu de trouver un plus grand équilibre et de renforcer son essence en "s'alignant" sur ses vies antérieures. Une telle pratique permet d'éviter les Réveils que les druides considèrent comme contre-nature.
+
+Les druides accomplis peuvent étudier plusieurs formes spirituelles, estimant que chaque forme est dotée d'une combinaison unique d'expériences qui équilibre pleinement son essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Les rôdeurs sont souvent accompagnés d'animaux de compagnie avec lesquels ils ont de solides affinités naturelles. Le processus visant à lier l'âme du rôdeur à son animal permet à ceux-ci d'afficher une même endurance, une même santé et de mourir dans les mêmes conditions. Visiblement, les rôdeurs se lient aux animaux dans lesquels ils ont été les plus récemment et les plus distinctement réincarnés. Une fois liés, le rôdeur et son compagnon ne se séparent jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>En raison de la rapidité et du mode d'attaque des araignées lancières, des fines lames aussi courageuses qu'inconscientes, membres notamment des Fangs, les ont souvent affrontées à des fins d'entraînement. De nos jours, cette tradition est uniquement perpétuée par les guerriers les plus rustiques et les plus costauds. Les araignées lancières passent également pour être de redoutables chasseuses, se servant plus de leurs pattes acérées que de leurs toiles pour capturer leurs proies. Ainsi, cette espèce s'aventure plus loin de son nid que les autres araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Les stelgaers sont d'imposants prédateurs félins. Jeunes, ils ont tendance à chasser seuls, mais à l'âge adulte, ils se regroupent pour défendre leur territoire, traquer leurs proies et s'occuper de leur progéniture. Agressifs, ces félins s'adaptent aisément et on les retrouve souvent dans différents environnements, des plaines baignées de soleil à la toundra gelée. Les colonies des êtres civilisés les ont, pour la plupart, repoussés hors de la Baie du défi. Et ils sont désormais plus nombreux à Eir Glanfath. Leur statut de redoutables prédateurs en fait un trophée de choix pour les fidèles de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Un ooze est un organisme mobile et carnivore qui se développe dans les lieux sombres, humides et peu fréquentés. Ils se nourrissent essentiellement de bactéries, de champignons et des petits insectes environnants. Lorsqu'ils atteignent la taille d'un chien, ils s'attaquent à de plus grosses proies telles que les humains. 
+
+Comme tous les êtres vivants, ils sont dotés d'essence spirituelle, mais leur manque d'intelligence et de système nerveux digne de ce nom les rendent inconsciemment agressifs et difficiles à décourager. Leur viscosité et leur mobilité leur permettent de lancer de vives attaques et ils sont capables de "cracher" des enzymes corrosives particulièrement dévastatrices. Les plus dangereux spécimens sont vecteurs de maladies, ce qui rend tout affrontement particulièrement risqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Les cean gŵlas sont des esprits violents et troublés qui n'ont pas réussi ou souhaité franchir le Linceul. Plus précisément, ce sont les esprits des femmes mortes dans des conditions particulièrement tragiques, d'où leur appellation de "cean gŵla" qui signifie "mère de sang". La représentation populaire de la cean gŵla incarnée par l'amoureuse éconduite a évolué lorsque les effets de l'Héritage de Waidwen se sont faits davantage sentir. Face à la multiplication des sans-âme et l'observation de plus en plus fréquente de cean gŵlas, beaucoup pensent que ces esprits sont liés aux mères mortes en couches. En réalité, les cean gŵlas se manifestent aussi facilement des esprits des femmes mortes à la suite de crimes ou d'accidents violents que de celles ayant mené une vie particulièrement violente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Dans les villes de Dyrwood, les feux follets sont presque mythologiques et présents dans d'anciens récits. À en croire un des ces récits les plus populaires, les feux follets seraient les âmes des enfants perdus, errant vers leur vie suivante. Dans les campagnes, ceux qui observent régulièrement les feux follets s'amusent de ces histoires. 
+Ils se manifestent dans les ruines abandonnées et autres lieux oubliés. Ils passent pour être curieux et suivent parfois les voyageurs sur de courtes distances. De nature pacifique, les feux follets peuvent se révéler particulièrement agressifs en cas de provocation et défendent férocement leur territoire s'ils se sentent menacés. Dès lors, les feux follets sont souvent décrits comme les mauvaises herbes du monde spirituel ; petits, ils se régénèrent rapidement et sont quasi inarrêtables en nombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>À l'origine, les animats avaient vocation à garder les tombeaux royaux. Les premiers à les avoir créés liaient l'âme de leurs plus redoutables guerriers et de leurs plus fidèles serviteurs à de complexes sculptures faites de différents matériaux selon le rang de l'âme qui y était capturée. Lorsque la technique inhérente à ce processus s'est répandue, de puissants animanciens se sont mis à créer leurs propres animats pour assurer leur défense, utilisant toutes les armes et les matériaux qui leur tombaient sous la main. 
+
+Seules les âmes loyales et dédiées à la protection permettent de créer des animats. Si le rituel lié à leur création peut impliquer des sujets contre leur gré, le manque de détermination d'une âme peut engendrer des abominations qui tentent immédiatement de s'auto-détruire de manière violente, infligeant souvent des dégâts collatéraux. Même les créations les plus abouties sont vulnérables aux doutes et la plupart de leurs créateurs veillent à étouffer de tels doutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Les darguls sont des cadavres chargés d'énergie spirituelle ayant atteint un stade irréversible de décomposition. À ce stade, ils ont perdu un certain nombre de leurs souvenirs et de leurs facultés mentales, mais restent suffisamment conscients pour se rendre compte de leur décadence. Leur insatiable faim et leur inévitable décomposition rendent les darguls plus intrépides et plus agressifs que les fampyrs, même s'il leur faut chercher des lieux secrets et reculés pour ne pas attirer l'attention et la colère des communautés civilisées. Certains fampyrs redoutent ce stade plus que les suivants car ils savent que leurs facultés restantes leur permettront de vivre pleinement leur décadence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Les fampyrs sont des êtres civilisés dont la vie a été anormalement prolongée. Malgré leur apparence globalement humanoïde, ils sont en passe de se transformer en horribles abominations, et ils le savent. Les fampyrs conservant leurs propres traits de caractère et souvenirs, cette connaissance morbide peut se manifester de différentes manières. Certains deviennent solitaires et prudents, évitant les menaces susceptibles de les fragiliser ou de les détruire prématurément, d'autres se laissent aller à l'hédonisme, soucieux de jouir de tous les plaisirs du monde avant qu'il ne soit trop tard. Tôt ou tard, les fampyrs (sauf s'ils sont tués) finissent par se décomposer.
+
+Les fampyrs ayant besoin d'essence pour assurer leur survie et le sang des êtres civilisés en constituant la source la plus riche et la plus immédiate, la plupart des communautés civilisées les évitent. Dès lors, les fampyrs vivent généralement et dans le meilleur des cas en marge de la société.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>À l'instar des animats, les créatures de chair sont créées par les animanciens et alimentées par une âme captive. Mais contrairement aux animats, ils ne dépendent pas de la volonté et de la loyauté de l'âme à laquelle ils sont liés. Ainsi, les créatures de chair ne sont pas sujettes aux doutes et uniquement capables de suivre des ordres simples. Elles ont également tendance à vivre moins longtemps que les animats. Alors que l'énergie et la foi de l'âme d'un animat peut assurer sa survie pendant des décennies, voire des siècles, l'âme des créatures de chair se dégrade au fil du temps et leur corps finit par ne plus répondre à leur énergie spirituelle. Les détracteurs de l'animancie en général et des créatures spirituelles en particulier y voient là un rejet par l'âme d'un corps jugé impropre et considèrent les créatures de chair comme une abomination.
+
+Au sein même des animanciens, les créatures de chair sont controversées. Certains apparentent le processus à une "lobotomie spirituelle" et estiment qu'une âme devrait pouvoir accéder à la vie suivante plutôt que d'être liée à un corps irresponsable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Les goules passent pour être de dangereux adversaires, mais pas suffisamment pour que l'on s'inquiète de leur rapide détérioration. Comme les darguls, elles préfèrent les endroits retirés, même si certaines, attirées par la chair, gravitent vers les cimetières. La chair des êtres civilisés morts suffit à calmer la faim des goules, mais pas leur inétanchable soif d'essence spirituelle. Les goules qui élisent domicile dans les cimetières ont tendance à se décomposer plus rapidement, car elles en oublient de chercher des sources de nourriture vivantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Les revenants sont des morts-vivants dépourvus de l'intelligence, toute relative, des goules. Ils ont toujours faim, mais n'ont ni la volonté ni l'intelligence de la satisfaire convenablement. Ils sont attirés par tous les endroits abritant des morts ou des cadavres en décomposition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Les squelettes n'ont plus besoin de chair ou d'essence, leur goût pour la mort leur a été instillé au fil de leurs différents stades de décomposition. Dès lors, ils attaquent tous ceux qui croisent leur chemin, sans tenter de les consommer après les avoir tués. L'essence qui les anime s'apparente à une énergie de base, car les squelettes sont dépourvus de volonté, d'intelligence et de personnalité. À défaut d'être éliminés, les squelettes peuvent se transformer en poussière ou leur essence s'évaporer enfin dans l'éther.
+
+Les savants squelettiques sont ce qu'il reste des guerriers, des magiciens et autres aventuriers. Ils ont beaucoup de points communs avec les squelettes, mais s'avèrent plus doués pour le combat et conservent parfois quelques qualités rudimentaires de leurs vies passées.
+
+Puissants et intelligents, les gardiens de la mort constituent une forme aberrante de ces squelettes. S'ils souhaitent éviter la décomposition progressive associée à leur condition, les fampyrs peuvent s'engager dans un processus risqué, coûteux et extrêmement douloureux au cours duquel leurs tissus sont séparés de leurs os pour laisser place à un squelette parfaitement conscient. Dans ce cas, l'essence ne se décompose pas dans la chair et gagne les os, une substance bien plus dure. Le nouveau gardien de la mort ne nécessitant quasiment rien pour survivre et ne se décomposant pas davantage, il peut "vivre" jusqu'à ce qu'il soit tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Face à l'Héritage de Waidwen, des familles désespérées ont sollicité l'aide des animanciens. Transférer une âme perdue dans un corps vivant était hors de question (pour la plupart), car une telle opération entraînait généralement le Réveil immédiat de l'âme transplantée. L'âme conservait alors les souvenirs d'une vie passée et non ceux d'un nouveau-né.
+
+Malgré leur mise en garde, les animanciens furent pressés de trouver une solution : moyennant le transfert de l'âme d'un animal chez un sans-âme, l'enfant pouvait retrouver conscience, instinct et volonté. Les âmes des animaux possédant moins de personnalité et de mémoire que celles des êtres civilisés, il a été suggéré que les enfants pourraient renforcer leur âme au fil du temps et recouvrer une bonne santé. Des transplantations eurent rapidement lieu partout à Dyrwood et des dizaines de milliers d'enfants en bénéficièrent.
+
+Ces enfants semblèrent effectivement retrouver conscience et volonté, et pendant quelque temps, on les pensa guéris. Mais au fil du temps, il apparut clair que les enfants sauvés n'étaient pas comme les autres enfants. Ils avaient du mal à comprendre les règles de la vie en société et se comportaient souvent bizarrement. À l'adolescence, ces différences se manifestaient par des évolutions physiques très différentes de celles des autres adolescents ; les enfants commencèrent à se transformer en wichts.
+
+Le premier d'entre eux fut une adolescente orlane. Elle était pourvue de crocs bestiaux et avait un féroce appétit. Les membres de sa famille tentèrent de la cacher, mais elle finit par les massacrer pendant leur sommeil avant de se volatiliser dans la nature. D'autres enfants sauvés ne tardèrent pas à lui emboîter le pas et de nombreuses familles furent forcées de constater que leurs enfants s'étaient transformés en redoutables créatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Les skuldrs sont d'imposants mammifères qui habitent les cavernes dans une totale, voire quasi totale obscurité. Ils ont ainsi développé une bien piètre vision et utilise leur ouïe pour traquer leurs proies. Les protrusions et les poils de leurs oreilles leur permettent de sonder l'air, ce qui est capital pour se déplacer dans un environnement souterrain. Ils communiquent à l'aide de cris et de claquements de langue et utilisent ces vocalisations sous forme d'écholocation. Grégaires, ces créatures nichent et élèvent leur progéniture ensemble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Les xaurips sont des humanoïdes reptiliens de taille similaire à celle des orlans. Ils s'affublent des os de leurs ennemis tombés, principalement des xaurips de tribus rivales. Ils aiment aussi les grandes plumes qu'ils suspendent ou accrochent à leurs atours. La peau des xaurips peut varier du vert clair au brun pastoral. Leur museau allongé (qui les empêche de parler) et un comportement des plus agressifs ne leur permettent pas de communiquer avec les races plus civilisées. Ils vivent dans des endroits retirés et sont réputés pour attaquer sans merci tous ceux qui croisent leur chemin.
+
+Les xaurips vénèrent les dragons et établissent leurs communautés autour des repaires de ces redoutables créatures. Il n'est pas rare de voir de petites tribus de xaurips vagabonder avant de trouver un drake ou un dragon à vénérer. Lorsqu'une tribu jette son dévolu sur une de ces créatures, elle la défend coûte que coûte. Les xaurips s'adonnent à des complexes rituels au cours desquels certains de leurs congénères sont offerts en sacrifice au dragon. Lorsque ce dragon grandit et vieillit, ces sacrifices se transforment en importantes manifestations religieuses qui coûtent la vie à des centaines de xaurips. La puissance et le prestige d'un xaurip est directement lié à l'âge de son dragon. Les plus puissantes tribus remontent à des centaines, voire des milliers d'années. Les guerriers et les chamans de ces vastes tribus se peignent le corps pour ressembler aux dragons qu'ils vénèrent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Précision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>La précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par les talents et autres effets actifs, tels que les sorts ou les objets. En cas d'attaque, la précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un coup ou un coup critique et moins de chances de se traduire par une écorchure ou un échec.
+Toute compétence ou talent qui n'utilise pas d'arme dans l'attaque gagne un petit bonus de précision basé sur le niveau du personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Déviation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>La déviation correspond à la défense utilisée pour résister à des attaques de mêlée et des attaques à distance directe contre le personnage situé en dehors de la zone d'effet (ZE). Elle dépend de la classe, du niveau, de la perception et la résolution du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Courage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Le courage permet de résister aux attaques portées aux systèmes physiques internes du personnage (poison, maladie, etc.).
+Il dépend de la classe, du niveau, de la puissance et de la constitution du personnage, mais peut aussi être influencé par d'autres effets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Réflexes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>La propriété défensive Réflexes permet aux personnages d'esquiver les redoutables attaques à zone d'effet (explosions, éclairs). Elle dépend de la classe, du niveau, de la dextérité et de la perception du personnage, mais peut aussi être influencée par d'autres effets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Volonté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>La propriété défensive Volonté s'oppose aux attaques mentales (sort paralysant mentalement la cible, par exemple). Elle dépend de la classe, du niveau, de l'intelligence et de la détermination du personnage, mais peut aussi être influencée par d'autres effets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Aveuglement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>La précision est réduite de 25 points pour toutes les sources. La perception est réduite de 4 points. Le déplacement est réduit de 2 points. Les réflexes et la déviation sont réduits de 20 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Charme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Une cible faisant l'objet d'un charme combat au nom de l'ennemi, à capacité réduite. La vitesse, la précision et toutes les défenses sont réduites de 25 points. Le charme est exclusif, ce qui signifie qu'un personnage ne peut faire l'objet que d'un charme à la fois. Tout nouveau charme remplace le précédent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Confusion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>La confusion pousse le personnage à se conduire de façon mal assurée. Toutes les 6 secondes, la cible choisit de manière aléatoire de faire une des choses suivantes : se comporter normalement, attaquer un allié, marcher dans une direction aléatoire ou ne rien faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Étourdissement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>La précision d'un personnage victime d'un étourdissement est réduite de 10 points. La dextérité, la perception et l'intelligence sont toutes réduites de 2 points et la vitesse de 15 %.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Domination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Une cible dominée est subordonnée à la volonté de l'ennemi et utilisera tout ce qui est à sa disposition pour contrer ses précédents coéquipiers. Annule les effets d'un charme. La domination est exclusive, ce qui signifie qu'un personnage ne peut faire l'objet que d'une seule domination à la fois. Toute nouvelle domination remplace la précédente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Prise à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>La déviation est réduite de 10 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Effroi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>La détermination et la dextérité sont réduites de 2 points et la précision de 10 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Entrave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>La dextérité, le déplacement et les réflexes sont respectivement réduits de 2, 3 et 20 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Paralysie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Une cible paralysée ne peut accomplir aucune action. Sa dextérité est nulle et ses réflexes et sa déviation sont réduits de 40 points. Annule les effets d'un assommement, d'une immobilisation et d'un renversement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Pétrification</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>L'âme d'un personnage pétrifié transforme momentanément son corps en pierre immobile et friable. Il subit les mêmes effets qu'en cas de paralysie, mais les attaques altèrent directement sa santé plutôt que son endurance. Annule les effets d'une paralysie, d'un assommement, d'une immobilisation et d'un renversement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Renversement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Les personnages renversés ne peuvent accomplir aucune action. La dextérité est réduite de 2 points. Les réflexes et la déviation sont réduits de 10 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Intoxication</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Tous les attributs d'un personnage intoxiqué sont réduits d'un point. Le courage et la volonté sont réduits de 10 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Immobilisation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Les personnages immobilisés peuvent agir, mais sans quitter l'emplacement où ils se trouvent. La dextérité est réduite de 2 points. La précision est réduite de 5 points pour toutes les sources. Les réflexes et la déviation sont réduits de 20 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Assommement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Les personnages assommés ne peuvent accomplir aucune action. La dextérité, la perception et l'intelligence sont toutes réduites de 4 points. Les réflexes et la déviation sont réduits de 30 points. Annule les effets d'une immobilisation et d'un renversement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Terreur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>La détermination et la dextérité sont réduites de 4 points. La précision est réduite de 20 points pour toutes les sources. Annule les effets d'un effroi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Affaiblissement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Les personnages affaiblis voient leur puissance et leur constitution réduites de 2 points. Le déplacement est réduit de 2 points. Le courage et la volonté sont réduits de 20 points.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Côtes meurtries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Une pénalité est infligée à la propriété défensive Courage et à la constitution des personnages aux côtes meurtries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Commotion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Les commotions infligent une pénalité à l'intelligence du personnage ainsi qu'à sa propriété défensive Volonté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Poignet foulé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>La blessure Poignet foulé inflige une pénalité à la déviation et à la précision du personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Œil gonflé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Des pénalités sont infligées à la précision et à la perception des personnages à l'œil gonflé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Entorse de la cheville</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>La blessure Entorse de la cheville réduit les réflexes et la dextérité du personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Entorse au genou</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Une pénalité de vitesse de déplacement et de dextérité est infligée aux personnages souffrant d'une entorse au genou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Épaule foulée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>La blessure Épaule foulée inflige une pénalité de vitesse d'action et de puissance au personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Coup critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Un coup critique est un jet d'attaque supérieur à 100. Un coup critique qui inflige des dégâts augmente le total des dégâts de 50 %. Lorsqu'un coup critique est porté à des effets durables (supplices de type Intoxication ou Paralysie, par exemple), la durée augmente de 50 %.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Écorchure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Une écorchure correspond à un jet d'attaque compris entre 16 et 50. Une écorchure réduit les dégâts et la durée de 50 %.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Impact</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Un coup correspond à un jet d'attaque compris entre 51 et 100. Lorsqu'une attaque se solde par un coup, les dégâts infligés et leur durée sont standard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Défenses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Pillars of Eternity utilise les quatre propriétés défensives suivantes : Déviation, Courage, Réflexes et Volonté. Chaque propriété défensive permet de résister à une catégorie d'attaques différente grâce au jet d'attaque. La déviation permet de résister aux attaques armées directes ou similaires. Le courage permet de s'opposer aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La volonté permet de résister à presque toutes les attaques psychiques.
+
+Le courage, les réflexes et la volonté reposent tous sur des paires d'attributs. Le courage repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la perception et de la détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les supplices et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Supplices</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Les supplices sont des ensembles d'effets de statut qui peuvent être appliqués à un personnage, suspendus ou totalement annulés. Pour certains supplices, des règles d'exclusivité explicites s'appliquent, mais en général ils peuvent coexister avec d'autres supplices.
+
+Lorsqu'un sort est jeté sur une cible, ce sort ainsi que ses effets et supplices subordonnés sont regroupés dans un conteneur créé de manière procédurale par le sort.
+
+Si ces conteneurs sont appliqués alors qu'une version identique est en vigueur (ex : sort Bénédiction jeté sur un personnage qui est déjà sous l'effet d'un autre sort Bénédiction), la nouvelle version remplace l'ancienne.
+
+Quel que soit le nombre d'effets qui s'applique à la cible, seuls les bonus les plus élevés et les pénalités les plus faibles sont généralement appliqués.
+
+Certaines créatures peuvent être invulnérables à un ou plusieurs supplices. Dans ce cas, ces supplices ne s'appliquent pas à ces créatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Passif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Une capacité ou un talent passif peut être attribué à un personnage si le bonus est acquis automatiquement. Par exemple, si un personnage est doté de Réflexes félins, ses bonus de réflexes sont automatiquement enregistrés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Actif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Pour utiliser une capacité ou un talent actif, le joueur doit le choisir. Par exemple, un combattant doté de la capacité Renversement doit sélectionner l'icône correspondante sur la barre d'action, puis choisir une cible pour l'utiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Résultats d'une attaque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de précision de l'attaquant est comparée à l'une des quatre propriétés défensives suivantes : Déviation (attaques de mêlée et attaques à distance directes), Courage (attaques visant l'organisme, comme le poison et la maladie), Réflexes (attaques dévastatrices à effet de zone) et Volonté (attaques psychiques). 
+
+Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la précision et la défense pour déterminer les résultats de l'attaque. Nombre inférieur ou égal à 15 = échec. Nombre compris entre 16 et 50 = écorchure. Nombre compris entre 51 et 100 = coup. Nombre supérieur à 100 = coup critique). 
+
+En cas d'équilibre entre l'attaque et la défense, la majorité des attaques se soldent par des coups ou des écorchures. Lorsque la précision est supérieure à la défense, les coups critiques sont plus probables. Lorsque la défense est supérieure à la précision, les échecs sont plus probables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Échec</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Un échec correspond à un jet d'attaque inférieur ou égal à 15. Un échec n'inflige ni dégâts ni effets de statut ou supplices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Réduction de dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Lorsqu'une attaque aboutit, les dégâts infligés peuvent être atténués grâce au paramètre Réduction de dégâts. La valeur du paramètre Réduction de dégâts (RD) est généralement liée à l'armure, mais de nombreuses créatures disposent d'une RD naturelle ou peuvent améliorer celle-ci en utilisant de la magie, des capacités, des talents ou autres.
+
+La valeur de réduction de dégâts est directement soustraite des dégâts subis. Ex : une attaque qui inflige initialement 20 points de dégâts à une cible disposant d'une RD de 7 points peut être réduite à 13 points.
+
+Les dégâts ne peuvent jamais être réduits à moins de 20 % des dégâts initiaux subis. Lorsque cette valeur minimum est atteinte, un message MIN apparaît dans le journal de combat sur la ligne d'attaque.
+
+Notez que pour la plupart des armures et des créatures, les valeurs de réduction de dégâts varient en fonction des types de dégâts. Une RD faible assure une moins bonne protection, ce qui rend la cible plus vulnérable aux attaques du même type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Concentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>La concentration d'un personnage détermine la probabilité d'interruption de ses sorts et attaques au combat. Chaque point de détermination augmente la concentration du personnage par opposition au taux d'interruption de l'attaque. Comme les jets d'attaque, les interruptions utilisent un jet aléatoire pour déterminer leur réussite. Si la concentration est supérieure au taux d'interruption, cette dernière a moins de chance d'aboutir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Résistance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>La résistance représente la capacité de survie d'un personnage à court terme. Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de sa résistance et de sa santé. Les potions et les sorts de guérison (d'un paladin, d'un prêtre ou d'un druide) peuvent renforcer la résistance au combat. Lorsque la résistance du personnage est épuisée (0), celui-ci est renversé. Un personnage renversé peut reprendre le combat grâce à l'utilisation d'une capacité Ranimation. Sinon, le personnage récupère toute sa résistance à la fin du combat (à condition qu'il appartienne au camp victorieux).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Santé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>La santé représente les dégâts à long terme (seuls le repos et certains talents permettent de la rétablir). Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de sa résistance et de sa santé. Lorsque la santé d'un personnage est épuisée (0), celui-ci est mutilé ou tué (selon les paramètres de jeu). Un personnage mutilé dont la santé est épuisée est systématiquement tué, quel que soit le paramètre défini. Contrairement à la résistance, la santé d'un personnage ne se rétablit pas à l'issue du combat, mais les valeurs de santé des personnages sont nettement supérieures à leurs valeurs de résistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Mutilation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Un personnage est mutilé lorsque sa santé est épuisée (0). Il récupère ensuite 1 point de santé à l'issue du combat, mais reçoit aussi des pénalités de défense et de précision importantes. S'il est à nouveau frappé et qu'il perd 1 point de dégâts de santé, il est immédiatement tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Blessures</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Les blessures sont des supplices à long terme. "Long terme" signifie que les effets durent jusqu'à ce que le personnage se repose. Les blessures sont généralement infligées lors des interactions scriptées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Reconnaissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Le mode Reconnaissance peut être utilisé pour effectuer des déplacements furtifs et pour fouiller une zone. Les déplacements furtifs peuvent vous permettre d'éviter des ennemis difficiles ou de prendre un avantage tactique sur eux. Les fouilles vous permettent de détecter les pièges et les objets cachés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Planque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>La planque contient tous les objets du joueur qui n'entrent pas dans l'inventaire des personnages individuels. La planque contient également des objets spéciaux comme des ingrédients et des objets de quête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Interruption</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>L'interruption détermine la probabilité de neutralisation de l'action de l'adversaire et dépend de la concentration de l'autre personnage.
+Le jet utilise la valeur d'interruption de l'attaque (arme ou autre) pour la comparer à la concentration de la cible (qui dépend de la détermination de cette dernière). Le jet peut être compris entre 1 et 100. Ce nombre est ajouté à l'interruption et soustrait de la concentration. Si le résultat est supérieur ou égal à 51, la cible réagit et son action en cours est perdue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Par rencontre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Une capacité dotée d'un nombre défini d'utilisations par rencontre ne peut être utilisée qu'un nombre défini de fois par combat. Par exemple, une capacité dotée de 3 utilisations par rencontre ne peut être utilisée que 3 fois au cours d'un même combat. À l'issue du combat, les utilisations sont régénérées pour la rencontre suivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Par repos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Une capacité dotée d'un nombre défini d'utilisations par repos ne peut être utilisée qu'un nombre défini de fois. Par exemple, une capacité dotée de 3 utilisations par repos ne peut être utilisée que 3 fois. Pour régénérer ces utilisations, le personnage doit se reposer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Modal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Tant qu'une capacité modale est active, ses effets sont continus. Par exemple, tant que les auras zélées d'un paladin sont actives, elles confèrent des bonus à tous ceux qui l'entourent. Les capacités modales sont souvent regroupées de manière à ce qu'une seule capacité modale d'une catégorie donnée puisse être active à un moment donné. Ces regroupements dépendent de la façon dont les capacités sont organisées sur la barre d'action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>À certains niveaux de difficulté, lorsque la santé d'un personnage est épuisée (0), celui-ci est mutilé (ou tué s'il est déjà mutilé). Un personnage mort ne peut pas être ramené à la vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Poison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>L'effet Poison peut être associé à différents effets de statut ou supplices, eux-mêmes généralement liés à un sort ou aux attaques d'une créature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Maladie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Les maladies peuvent infliger divers effets de statut ou supplices. L'effet Maladie est généralement associé à un sort ou aux attaques d'une créature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Récupération</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>La récupération correspond au délai qui sépare deux actions d'un personnage. Plus les actions sont longues, plus la récupération prend du temps. L'armure joue également un rôle important. Généralement, une armure lourde inflige des pénalités de récupération plus longues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Forteresse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>La forteresse, également appelée Caed Nua, est une base d'opérations dédiée au stockage, au repos, à l'organisation, à la gestion du groupe et à l'investissement. Pour accéder aux différentes fonctionnalités de la forteresse, celle-ci doit être améliorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Propriétés défensives secondaires</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Les propriétés défensives secondaires sont utilisées pour les attaques secondaires (ex : poison sur une dague). Dans cet exemple, l'attaque principale (à l'aide de la dague) vise une propriété défensive (Déviation) et l'attaque secondaire (à l'aide du poison) n'est possible que si la première attaque aboutit. Si l'attaque initiale aboutit, la propriété défensive secondaire (dans ce cas, le Courage face au poison) est utilisée pour en déterminer les effets. Si l'attaque initiale échoue, la propriété défensive secondaire n'est pas utilisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Types de dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Pillars of Eternity utilise huit types de dégâts : entaille, perforation, écrasement, brûlure, choc, corrosion, gel et pénétrants. Les types de dégâts permettent de déterminer la facilité avec laquelle une cible résiste aux dégâts d'un certain type en fonction de sa Réduction de dégâts. Une créature ou une armure peut être très résistante à un type de dégâts et vulnérable à un autre. 
+
+Certaines armes ou attaques peuvent infliger des dégâts de différents types ou intégrer une condition "ou" entre les types de dégâts. En présence d'une condition "ou", l'attaque inflige toujours le type de dégâts auquel la cible est la plus vulnérable. Les dégâts pénétrants sont les seuls dégâts qui ignorent toute la Réduction de dégâts et ils sont généralement associés aux poisons et effets similaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Interruption</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Les antilopes sont très répandues dans les plaines des Contrées orientales. Bien que la colonisation et la chasse qui en a découlé aient réduit leurs nombres, elles sont encore largement représentées dans les zones peu boisées de Dyrwood. Elles ne sont généralement pas hostiles, mais elles peuvent constituer de redoutables compagnons animaux pour les rôdeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Dyrwood abrite une vaste population d'ours, mais la plupart d'entre eux évitent les régions et les routes fréquentées par les êtres civilisés. Les nobles chassent parfois l'ours pour le plaisir, mais les colons, les vétérans et les Glanfathans préfèrent généralement les éviter. Les forêts des Contrées orientales abritent suffisamment de gibier pour éviter toute confrontation avec un ours en colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Les sangliers sont considérés comme un dangereux fléau dans les régions où s'installent la plupart des colons. Agressifs et peu craintifs, les sangliers tuent de nombreux enfants humains et elfes, ainsi que des orlans adultes. Lorsqu'ils sont en groupes, les sangliers peuvent représenter une menace pour les voyageurs et les explorateurs. Bien qu'ils soient difficiles à abattre, leurs défenses sont très recherchées par les marchands et les enchanteurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Extraordinairement rares, les gardes de la mort sont parfois créés à partir de la dépouille d'un individu particulièrement déterminé qui refuse de quitter le monde physique pour rejoindre l'au-delà. Les paladins sont les sujets les plus fréquents de cette terrible transformation, mais des prêtres et d'autres zélotes exceptionnels peuvent aussi subir le même sort. Les gardes de la mort occupent leur ancien corps, mais l'énergie qui permet à l'âme de rester dans le monde physique consume rapidement la chair pour ne laisser que les os. Conscients de leur état, les gardes de la mort sombrent souvent dans la folie. Ce sont des adversaires terrifiants qui effraient tous ceux qui les rencontrent. Leur connexion limitée avec l'au-delà leur permet de conjurer de redoutables boules de feu, d'invoquer des ombres et même de tuer les vivants en prononçant un seul mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Engagement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Un combat est engagé lorsqu'un personnage attaque un ennemi avec une arme de mêlée à courte portée. Dès que l'attaquant est suffisamment proche, il engage le combat. Lorsqu'un personnage est la cible d'un engagement, il cesse de se déplacer. Il est libre de se déplacer, mais il provoque alors une attaque de désengagement. Lorsqu'un personnage rompt un engagement, il dispose d'un délai limité pendant lequel l'ennemi dont il s'est désengagé ne peut pas tenter de nouvel engagement.
+
+Certains supplices empêchent un personnage d'engager un ennemi. Les supplices Paralysie, Pétrification, Renversement et Assommement rompent automatiquement l'engagement et peuvent être utilisés pour se sortir d'affaire.
+
+Notez qu'un certain nombre de talents et capacités modifient les règles d'engagement, comme la capacité Retraite élégante, la capacité Tenir la ligne, la capacité Défenseur du combattant, la capacité Vitesse sauvage du barbare et la capacité Fuite du bandit. Certaines créatures, en particulier les plus imposantes, peuvent engager plusieurs créatures simultanément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Prise à revers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Une prise à revers intervient lorsque deux attaquants engagent un adversaire en mêlée dans des directions opposées. Lorsque les défenseurs sont pris à revers, différentes pénalités sont infligées, ce qui permet une attaque furtive. Toute condition entraînant une rupture d'engagement de la part d'un attaquant annule également la prise à revers sur le défenseur si celle-ci est impossible sans lui.
+
+Notez que quelques rares capacités confèrent des exceptions aux règles de prise à revers standard, comme la capacité Isolement du barbare, la capacité Liaison du rôdeur et la capacité Ennemis fantômes du clairvoyant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Accumulation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Les règles d'accumulation déterminent le calcul des bonus et pénalités. Par souci de simplicité, le jeu utilise quatre catégories de bonus sources : passif, armes, actif/modal et équipement.
+
+Tous les bonus et pénalités des sources passives et des armes s'accumulent.
+
+Pour une statistique donnée, les bonus actifs et modaux (ex : capacités et objets consommables) utilisent le bonus le plus élevé et la pénalité la plus faible. Ex : si un sort de magicien confère 3 points à la déviation et que l'aura d'un paladin confère 5 points, le bonus actif/modal est de 5 points au non de 3. Si ce même sort de magicien confère également un bonus de puissance, celui-ci s'applique, sauf en présence d'un bonus de puissance supérieur issu d'une autre source active/modale.
+
+Pour une statistique donnée, l'équipement utilise également le bonus le plus élevé et la pénalité la plus faible. Il inclut tous les objets dont est directement équipé le personnage, à l'exception des armes. L'équipement est une catégorie distincte de la catégorie actif/modal, par conséquent les bonus les plus élevés et les pénalités les plus faibles de chaque catégorie s'ajoutent.
+
+Les supplices (ex : Assommement ou Renversement) sont généralement considérés comme des effets actifs. Si un supplice est appliqué à un personnage alors qu'un supplice identique est déjà actif, il remplace la durée du supplice existant si la nouvelle durée est supérieure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Fatigue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>La fatigue représente l'usure physique et psychologique liée à l'activité d'un personnage. Elle se régénère progressivement au fil des voyages et des explorations du personnage, notamment lorsqu'il combat. Certaines interactions scriptées épuisantes provoquent également de la fatigue. La compétence Athlétisme ralentit automatiquement la progression de la fatigue, quelle que soit la source.
+
+La fatigue passe par plusieurs étapes, en infligeant d'abord des pénalités mineures qui deviennent plus sévères au fil du temps.
+
+Le repos est le moyen le plus simple d'éliminer les effets de la fatigue, même si certains objets consommables peuvent également réduire la fatigue totale d'un personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Matériel de camping</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Du matériel de camping est nécessaire pour se reposer dans la nature et les donjons. Il se compose d'objets indispensables pour monter un camp, préparer à manger, panser les blessures, se reposer et récupérer. De nombreuses boutiques vendent du matériel de camping, mais il est parfois possible d'en trouver dans des conteneurs ou auprès des ennemis. Le niveau de difficulté du jeu limite la quantité de matériel de camping que vous pouvez transporter simultanément. Dans les niveaux de difficulté les plus faciles, vous pouvez en transporter davantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Outils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Lors de vos voyages dans les Contrées orientales, vous pouvez trouver différents outils simples et spécifiques. Ces objets, tels que les pieds-de-biche et les grappins, peuvent être utilisés lors des interactions scriptées. Vous n'avez pas besoin de les équiper, mais ceux-ci seront retirés de l'inventaire après utilisation.
+
+Les crochets sont des outils spécifiques utilisés pour forcer les verrous. Si la mécanique du personnage le permet, les crochets ne sont pas requis (et pas utilisés) en cas de crochetage d'un verrou. Cependant, il vous faudra peut-être utiliser quelques crochets pour venir à bout des verrous les plus complexes. Comme pour les autres outils, les crochets ne doivent pas nécessairement se trouver dans l'inventaire d'un personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Attaque maximum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>De nombreuses compétences indiqueront l'utilisation d'une attaque maximum ou principale. Lorsque de telles compétences sont utilisées, le personnage applique l'effet par le biais d'une attaque avec soit toutes les armes actuellement équipées (attaque maximum) soit avec son arme principale équipée (attaque principale).
+
+Cela signifie que toutes les statistiques des armes s'appliquent encore, y compris les dégâts et les autres effets qu'elles provoquent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Attaque principale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Dieu des golems, machines, de l'industrie, de la force, de l'espoir et de l'ambition. Il est le plus couramment apprécié au sein de la classe ouvrière. On pense que "Le Golem" a pu un jour prendre une figure simili-humaine comme la plupart des dieux, mais il a alors été tué avant de se forger un retour à l'existence à l'intérieur d'un immense golem. Il existe plusieurs versions du récit de sa mort, et aucune n'est considérée comme définitive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Dieu de la mort, des cycles, des portails, de la mortalité et de la fatalité. Garant du cycle de la vie et de la mort, on prête à Berath la volonté de prendre la vie de ceux qui ont fait leur temps. Selon le folklore, Berath est vu le plus souvent sous la forme du Chevalier blême ou du Portier, deux personnages squelettiques qui mènent les gens jusqu'à leur mort par le moyen d'un défi ou d'une ruse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Éothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Dieu de la renaissance, de la rédemption, de l'aube, du printemps et de la lumière. Il est traditionnellement vu comme un homme portant une bougie et une couronne d'argent. Considéré comme ayant possédé le corps du fermier readceran Waidwen au cours de la guerre du Saint, et ayant été détruit avec ce-dernier au terme de la guerre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Dieu de la chasse, des assassins, de la poursuite, de la nature et des créatures prédatrices. On pense parfois qu'il prend la forme d'un chasseur vêtu d'une fourrure ou d'un grand chien. Galawain privilégie la survie des forts et l'élimination des faibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Hylea</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Déesse du ciel, de la maternité, de la créativité, des oiseaux, du chant, de l'invention, du langage et des arts. Elle n'est pas connue pour prendre une forme physique particulière mais on pense qu'elle est présente dans les oiseaux en tous genres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Déesse de la guerre, du feu, de la transformation, de la purification, de la combustion et des épreuves. Déesse protectrice de Dyrwood. On pense qu'elle a béni la Bombe Marteau divin qui a détruit Waidwen voire Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Déesse des océans, des choses oubliées, de la perte, de l'implacabilité et du deuil. On dit qu'elle est tombée autrefois amoureuse de la Lune et qu'elle essaya de l'attirer à elle, au prix de conséquences catastrophiques. Les gens apportent dans ses temples des symboles des choses qu'ils souhaitent oublier, et son clergé se charge d'envoyer ces symboles dans la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Dieu de l'entropie, du froid, de l'hiver, de la malchance, de la famine et des désastres naturels. Il se manifeste sous la forme d'aurochs albinos géants, se déplaçant au milieu d'un terrible blizzard, et dans les pas laborieux de Rymrgand suivent la mort et la désintégration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Dieu du défi, de la rébellion violente, de la haine secrète, des complots, de la rancune et de la convoitise. Représenté fréquemment comme un esclave défiguré, meurtri et adoré le plus souvent par les soumis et les destitués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Dieu des secrets, des révélations, des illusions, de la cryptographie, de l'obscurantisme, de la perception, des rêves et des visions. Wael est, en lui-même, un mystère, sans forme cohérente ni genre spécifique. Ses adeptes se délectent dans la création et le dénouement de mystères.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Déesse de la justice, de la loi, des serments, des promesses, de la gouvernance, de la vengeance, de la mémoire et des hiérarchies. Dépeinte comme une noble vieille dame, portant une couronne brisée sur sa tête. On dit qu'elle a autrefois renversé tous les autres dieux mais a depuis été détrônée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Empire aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Une nation résultant de la fusion d'un royaume humain et d'un royaume elfe il y a quatre cents ans, gouverné par un fercönyng ("premier roi") ou mecwyn ("reine illustre"). Le Dyrwood et Readceras sont chacun originaires des colonies d'Aedyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Dyrwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Une nation coloniale fondée par les colons de l'Empire d'Aedyr. À la suite d'une série de conflits avec Aedyr, le territoire est devenu indépendant en 2672 AI, et est maintenant gouverné par un duc, qui est élu par sept comtes qui supervisent ses comtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Eir Glanfath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Un territoire composé de la forêt au sud est de la rivière Bael, habité par un groupe de tribus vaguement affiliées appelées Glanfathans, et gouvernées par un conseil des six tribus les plus puissantes. Eir Glanfath renferme un grand nombre de sites de ruines engwithanes, des lieux sacrés pour les Glanfathans. Les ruines ont été au centre d'un grand nombre de conflits de grande échelle avec les colons dyrwoodans, dont les implantations empiètent souvent sur le territoire glanfathan et qui cherchent fréquemment à piller les ruines de leurs reliques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Engwith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Le nom d'une civilisation éteinte qui remonte à plus de deux millénaires. On pense que le centre de leur population se trouvait là où se situent à présent Eir Glanfath et Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Readceras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Les voisins du Dyrwood au nord. Readceras est une nation ancrée dans sa foi éothasiane, une ferveur qui a pris au cours des évènements de la guerre du Saint et demeure la même après la mort apparente d'Éothas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Les Républiques de Vailia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Une puissance mercantile et jadis colonie d'une nation plus grande, Vailia l'Ancienne. Les Républiques se situent au sud de Dyrwood et d'Eir Glanfath, et sont gouvernées par un duc élu par le "consuagli asegia", un conseil de 14 ducs, comprenant les cinq plus proéminents de ses membres, les "ducs bels".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Adra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Un matériau semblable à de la coquille, recherchée par les artisans en raison de sa facilité de façonnage et par les animanciens en raison de sa capacité unique à attirer, maintenir et canaliser les âmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Animancie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>La science de la manipulation de l'âme. Un champ tout à la fois controversé et relativement récent. Bannie dans certaines nations comme Aedyr, mais autorisée dans d'autres pays comme le Dyrwood et les Républiques de Vailia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Âme réveillée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Les gens ne se souviennent généralement pas consciemment de leur vie antérieure. Quelqu'un ayant une Âme réveillée, cependant, a vu soit les souvenirs d'une vie antérieue soit toute la personnalité d'une vie antérieure émerger dans le temps présent. Comme pour les souvenirs ordinaires, un Réveil est souvent provoqué en voyant quelque chose dans le présent qui rappelle une expérience passée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Roue de Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Également connue sous le nom de "Roue de la Vie et de la Mort" ou simplement "la Roue", la Roue de Berath est un concept métaphorique utilisé pour décrire le mélange collectif de leurs âmes alors qu'elles s'échappent de leurs corps en mourant, quittent le monde par le biais des piliers d'adra puis renaissent dans de nouvelles enveloppes corporelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Bîaŵac</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Une tempête des régions sauvages d'Eir Glanfath. Ceux qui sont pris dans la tempête voient leur âme arrachées de leur corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Essence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Les âmes sont composées d'essence. En tant que ressource, cette substance d'âme est prisée par les animanciens, dont les expériences requièrent souvent l'utilisation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Sans-âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Un enfant né sans âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Les Disparus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>À la mort, les âmes se rendent entre les piliers d'adra, où elles peuvent rejoindre le cycle Éoran de la renaissance. Dans certains cas, les âmes échouent à atteindre ces piliers, ou bien refusent d'y entrer. Ces âmes sont nommées "âmes perdues" ou "les Disparus".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Purges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Dans le sillage de la guerre du Saint, les foules dyrwoodanes, en particulier dans les zones rurales, cherchèrent à tuer tous les adeptes d'Éothas. À partir de la ville de l'Aube fraîche, qui aurait laissé passer les forces de Waidwen sans résistance, les éothasians commencèrent à être pourchassés, torturés et mis à mort dans les rues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Guerre du Saint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Débutée par une révolte paysanne dans Readceras, menée par un fermier du nom de Waidwen, qui prétendait être le vassal vivant du dieu Éothas. Après avoir renversé le gouvernement readceran, Waidwen envahit le Dyrwood voisin, où il fut vaincu, détruit par une arme baptisée la "Bombe Marteau divin". On n'a plus entendu parler d'Éothas depuis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Le Salut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Une tentative des animanciens pour réduire le nombre de décès des sans-âme au cours de l'Héritage de Waidwen par une transfusion des âmes des animaux dans les enfants sans-âme dans l'espoir qu'ils puissent s'occuper d'eux-mêmes. La pratique s'est avérée un échec catastrophique, résultant sans exception dans la création de wichts et est souvent appelée "le Cruel Salut".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>L'Héritage de Waidwen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Un vaste fléau d'origine inconnue dans lequel les nouveaux-nés du Dyrwood ont commencé à naître sans âme. Il tire son nom de la coïncidence de ses origines avec la mort de saint Waidwen au cours de la guerre du Saint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Gardien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Une personne rare qui est soit née avec ou qui a acquis les moyens de percevoir les âmes, et même quelques fois la possibilité de les lire et ou de communier avec elles. Il existe plusieurs versions de la manière dont leurs talents viennent aux Gardiens, et il est bien plus courant de rencontrer quelqu'un se revendiquant à tort comme un Gardien que d'en trouver un bien réel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Wicht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Un enfant sans-âme qui est, par l'animancie, devenu le vaisseau de l'âme d'un animal. Avec le temps, ces enfants deviennent sauvages et violent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Divinités</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Lieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Savoir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Divers</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

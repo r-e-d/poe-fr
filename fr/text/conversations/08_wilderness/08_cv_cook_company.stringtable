@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_cook_company</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Byne vous regarde avec amusement, mais sa voix se fait menaçante. "Vous devez avoir perdu votre chemin. Les Massacreurs de géants ne partagent pas leur butin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"C'est Wenan qui m'envoie pour vous prêter main-forte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenan trouve que vous mettez trop de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Il se redresse et empoigne le pommeau de son épée. "C'est Wenan qui vous envoie..." Sa mâchoire se crispe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Cet homme soigné se penche et titube comme s'il était ivre. "Vous pensez pouvoir récupérer les armes ? Vous vous heurtez à deux problèmes : une entrée inondée et les patrouilles des Chevaliers du Creuset. On voit plus de Chevaliers du Creuset que d'hommes au visage peint dans le coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pourquoi les Chevaliers du Creuset sont-ils ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Si seulement je le savais ! Ces brutes en armure préfèrent généralement le confort des matelas à plumes douillets à celui des lits de camp. J'en étriperais un en un instant, mais je suis recherché et dès lors, je ne peux prétendre à aucune prime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Parlez-moi de l'entrée inondée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Que savez-vous sur ces armes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ça doit être à cause de la pluie." Il hausse les épaules. "Mais on a trouvé ceci dans l'eau." Il désigne un morceau d'adra plat et rond situé dans une bourse qu'il porte à la ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wenan n'hésite pas à y mettre le prix. Et c'est ce qui m'intéresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Et maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Voilà une question intéressante. Nous ne partageons jamais notre butin, voyez-vous." Ses compagnons forment une ligne autour de lui, prêts à dégainer leurs armes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ni vous ni moi ne voulons d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"C'est le problème de Wenan, pas le mien. Vous devriez vous adresser à votre employeur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"On m'envoie pour vous parler, c'est tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je ne suis pas ici pour le butin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Il n'y a pas beaucoup d'adra dans le coin. C'est peut-être un indice. Je suis un peu coincé avec tous ces fichus Chevaliers dans les parages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Attaquez.] "Moi, non plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Il s'approche et son souffle chaud vous parvient au visage. "Vous avez fait une erreur en venant ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"J'en parlerai à Wenan, ne vous inquiétez." Il s'approche, arme en main. "Vous n'auriez pas dû venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Et maintenant, parlons." Il s'approche et son visage ne se trouve plus qu'à quelques centimètres du vôtre. "Choisissez bien vos mots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je ne m'attendais pas à trouver les grands Massacreurs de géants sur cette affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bien sûr que non. Vous avez fait tout ce voyage pour nous tenir compagnie." Il s'approche de vous, le visage rouge de colère. "Ne vous avisez plus de me mentir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Volez une pierre d'adra.] "Vous avez raison. Nous allons retourner d'où nous venons et dire à Wenan que nous en avons fini."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Arrêtez de me regarder ou vous allez le regretter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ne pourrions-nous pas nous entraider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Il vous regarde d'un air ahuri pendant quelques instants avant d'éclater de rire, incrédule. "Je me demande où Wenan déniche des gens comme vous."
+
+"Bien sûr qu'on va s'entraider." Il fait un signe de la tête à ses compagnons. "Restez où vous êtes pour permettre à mes hommes de s'entraîner à tirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"À plus tard." Il se tourne vers ses partenaires, fait un signe de la tête et tous le suivent en bas de la colline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Byne vous fixe du regard pendant un long moment. Il finit par détourner le regard et crache dans l'herbe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Vous avez du cran, pas de doute là-dessus... et je suis de bonne humeur aujourd'hui." Il jette le disque d'adra dans votre direction. "Voyons un peu si vous allez réussir à le déchiffrer." 
+
+Il sifflote. "Allez, repas chaud pour tout le monde, ce soir. On s'occupera de ces arrivistes plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Le visage rougi par le vin, Byne semble satisfait. En repartant, il ne remarque pas votre main se faufiler dans la bourse de sa ceinture.
+
+"Eh bien, on en a terminé. Je suis certain que Wenan aura d'autres tâches à confier à quelqu'un de votre... trempe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText> Le visage de Byne devient écarlate. Sa main s'approche de sa hache, mais se pose finalement sur le disque d'adra. Il le lance à vos pieds. "Alors, voyons voir comment vous vous en sortirez. Si bien sûr, vos actes suivent vos paroles."
+
+Il se retourne vers ses compagnons. "Allez, repas chaud pour tout le monde, ce soir. On s'occupera de ces arrivistes plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Son expression suffisante disparaît un instant. "Et il a eu le toupet de vous envoyer ?" Sa main s'approche de la poignée de son arme. "Je devrais juste vous tu..." Il s'arrête et grince des dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Attaquez] "Alors, allez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Admettez-le. Vous ne savez pas que faire maintenant, sinon vous ne resteriez pas assis là."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

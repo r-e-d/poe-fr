@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_fallen_fires</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Scories de foi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez la grotte de la vision de Fyrga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Trouvez le vestige de Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Apportez "l'étincelle" à Fyrga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Fyrga, l'Ardente tranquille de Magran, a vu sa foi ébranlée par la crise des sans-âmes de la Baie du défi. Et elle n'a pas réussi à préserver les feux sacrés de la ville. Symboles du triomphe et de la protection, ils n'ont jamais été aussi importants qu'aujourd'hui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lors d'une vision, Fyrga a vu une grotte située dans un endroit doté de bassins multicolores et d'une cascade. Elle pense pouvoir y trouver quelque chose capable de lui redonner foi, mais pense également qu'elle pourrait y trouver la mort. 
+
+Si je pouvais lui récupérer cet objet, peut-être réussirait-elle à reprendre ses fonctions et à rallumer les feux sacrés de la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai trouvé la grotte derrière la cascade. Il fait une chaleur étouffante ici, mais Fyrga était certaine que j'y trouverai un vestige de sa déesse.
+
+Elle était également certaine que j'y trouverai une créature redoutable. Je dois faire attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Fyrga avait vu juste. J'ai trouvé une étrange pierre incandescente gardée par un imposant dragon. La créature semblait presque vénérer cette "étincelle".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Durance a indiqué que cette pierre incandescente était en fait un fragment du Marteau divin, une arme redoutable fabriquée avec l'aide de la déesse Magran. J'imagine ce que cela pourrait signifier pour Fyrga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Fyrga n'était pas en mesure de situer l'endroit de sa vision, mais à la salle des expéditions, quelqu'un le connaissait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé une carte indiquant l'emplacement d'un lieu appelé les Chutes brûlantes. Un long voyage m'attend, mais au moins, je connais ma destination maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Wenan des Douzaines m'a indiqué où trouver les Chutes brûlantes, l'endroit apparu dans la vision de Fyrga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai rappelé à Fyrga que le fragment du Marteau divin attestait de la puissance et du prodige de Magran. Fyrga a repris courage et réussi à rallumer les feux sacrés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai rappelé à Fyrga que Magran met ses fidèles à l'épreuve et que l'Héritage de Waidwen en est une. Fyrga a repris courage et réussi à rallumer les feux sacrés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Le fragment du Marteau divin était dénué de sens pour Fyrga car elle n'avait rien fait pour le trouver. Fyrga a alors réalisé qu'en me confiant cette tâche, elle n'était pas parvenue à se montrer digne de Magran. Elle finira par renoncer à son rôle d'Ardente tranquille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Bien qu'elle soit en possession du fragment du Marteau divin, Fyrga n'a pas retrouvé la foi. Je n'avais aucune réponse à lui apporter. Elle finira par renoncer à son rôle d'Ardente tranquille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

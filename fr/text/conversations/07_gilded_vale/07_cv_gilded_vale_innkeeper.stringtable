@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_gilded_vale_innkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh ! Bonjour et bienvenue dans l'Auberge du chien noir." L'aubergiste incline la tête sèchement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Asseyez-vous où vous voulez. Voulez-vous boire quelque chose ? Ou bien une chambre ? Nous avons les deux à disposition en ce moment. J'ai bien peur que je n'ai pas grand-chose à vous offrir en termes de repas aujourd'hui." Elle soupire. "À moins que vous n'ayez un faible pour le porridge froid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je voudrais une chambre, s'il vous plaît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous ne servez que du porridge ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ce n'est pas par choix, croyez-le bien ! Nous servions les mets les plus raffinés dans le Dyrwood. Nous avons été victimes d'un horrible coup du sort, c'est tout. La saison des récoltes a été mauvaise et nous manquons d'approvisionnement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je pourrais essayer de le trouver pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vraiment ?" Son visage s'éclaire. "Je vous en serais très reconnaissante si vous le faisiez. Il voyageait à travers le Valewood. Ce n'est probablement rien - une roue cassée, peut-être. Mais je me fais du souci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Mentez] "Je pense l'avoir croisé. Je crains qu'il n'ait été victime de certains bandits dans le Valewood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"L'aubergiste halète, se couvrant la bouche avec la main. "Oh, pauvre Tenfrith ! Je savais que j'aurais dû envoyer quelqu'un d'autre. Mais il a insisté. 'Je dois avoir les meilleurs ingrédients !' disait-il." Elle renifle. "Il était toujours si particulier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je vois. J'avais d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Bonjour. Y a-t-il quelque chose que je puisse faire pour vous ? Nous avons encore quelques chambres libres, et il n'est jamais trop tôt pour boire un verre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>L'aubergiste s'essuie les yeux discrètement en reniflant. "Oh, c'est vous. "Bonjour. Vous voulez quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Bonjour, et bienvenue dans l'..." L'aubergiste lève les yeux. "Oh ! C'est vous ! Tenfrith nous a dit ce que vous avez fait pour lui. C'est un tel soulagement de l'avoir à nouveau près de nous ! Je ne peux vous remercier assez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Considérez-vous comme un favori de la maison. Des réductions sur les boissons, les chambres... Tenfrith a dit qu'il voulait vous concocter quelque chose de spécial pour vous. Il est déjà au travail dans la cuisine." Elle rit. "Alors, que désirez-vous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je voudrais une chambre, s'il vous plaît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Pourrais-je voir ce que vous avez à vendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Pourrais-je voir ce que vous avez à vendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>L'aubergiste vous fait un grand sourire. "Bonjour. Venez vous reposer un moment, voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je voudrais payer une tournée à ces sympathiques compagnons là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sympathiques compagnons ? Vous me faites marcher. Encore une bagarre et je devrais bannir définitivement Sweynur de l'auberge." L'aubergiste désapprouve. "En attendant, ça fera six pièces de cuivre pour le tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Cela fera six pièce de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Donnez 6cp.] "Voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je vous en prie, si j'arrive seulement à les faire parler, je pourrais les convaincre d'arrêter de harceler le meunier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Partez.] "Ce n'est pas grave. Je vais y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>L'aubergiste vous étudie avec circonspection pendant un certain temps, puis soupire. "Bon, c'est d'accord. Voilà. Trois verres pour les trois imbéciles. Si vous libérez Trumbel du poids de ceux-là, peut-être sera-t-il un peu moins mesquin dans ses approvisionnements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Très bien. Voilà, trois verres pour les trois imbéciles. Occupez-vous en. Ces gars ont un tempérament bouillant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Est-ce un nain ? Cheveux bruns, barbu ? Il n'a pas survécu au voyage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"C'est lui !" "L'aubergiste halète, se couvrant la bouche avec la main. "Oh, pauvre Tenfrith ! Je savais que j'aurais dû envoyer quelqu'un d'autre. Mais il insistait toujours. 'Je dois avoir les meilleurs ingrédients !' disait-il." Elle renifle. "Il était toujours si particulier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Bien sûr. Nous les tenons toujours prêtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Certainement ! Vous êtes toujours le bienvenu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Bien sûr. Nous manquons un peu de marchandises ces jours-ci, mais nous serons bientôt livrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je suis sûre que nous allons trouver quelque chose qui vous convienne. Nous comptons parmi nous le meilleur cuisinier du Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Elle soupire à nouveau. "J'ai simplement pris la suite de l'ancien propriétaire. Je ne sais pas ce que je ferais s'il ne revient pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"J'ai envoyé Tenfrith vers le nord pour ramener des provisions. C'est notre cuisinier, vous voyez. Un artiste de la rôtisserie. Mais cela fait déjà plusieurs jours qu'il aurait dû revenir, et nous n'avons reçu aucun signe de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Si vous le ramenez sain et sauf à la maison, tout le monde ici chantera vos louanges. Personne n'aime vraiment mon porridge."</DefaultText>
+      <FemaleText>"Si vous le ramenez saine et sauve à la maison, tout le monde ici chantera vos louanges. Personne n'aime vraiment mon porridge."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je ne sais pas comment nous allons faire à présent... Nous n'avons pas grand-chose à offrir ces jours-ci, mais la cuisine de Tenfrith attirait des gens à des kilomètres à la ronde." Elle essuie une larme. "Merci de me le dire. J'ai quelques économies de côté... Peut-être pourrions-nous célébrer un service pour lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Bien sûr. Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Partez.] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous avez mentionné quelque chose à propos d'un cuisinier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Oui, ce devait être Tenfrith. Je l'ai envoyé aux provisions, et il n'est toujours pas revenu. C'est déjà assez difficile de ne rien avoir à proposer à nos hôtes, mais je me fais du souci pour lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je voudrais en savoir plus sur le Chien noir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vraiment ? Voyons, laissez-moi réfléchir... Le bâtiment en tant que tel est là depuis des années, mais le Chien noir est plutôt récent. Nous avons beaucoup de nouveaux visages par ici, également. Moins que d'habitude, je l'admets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je m'occupais des tables, en fait, jusqu'à ce que l'ancien propriétaire s'en aille. Personne ne sait vraiment ce qui lui est arrivé. Il a même laissé son pauvre chien. C'est le nom, vous voyez - le Chien noir ? Il est toujours assis à l'étage à se languir de lui. Pauvre chienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tenfrith est la grande attraction. Je suis sûre que les gens reviendront vite en masse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je me suis retrouvée à la tête de cet endroit." Elle rit. "Ma propre auberge. Beaucoup de travail, mais ça en vaut la peine jusque-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Je m'occupais des tables, en fait, jusqu'à ce que l'ancien propriétaire s'en aille. Personne ne sait vraiment ce qui lui est arrivé. Il a même laissé sa pauvre chienne." Elle sourit. "Je me réjouis qu'elle ait trouvé un nouveau maître. C'était un peu triste de la voir se languir toute la journée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je voulais vous préciser que nous avons dû augmenter nos prix, avec ce qui est arrivé au meunier. On ne va plus recevoir de blé avant un bon moment." Elle soupire. "Pauvre Trumbel..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vous pouvez jeter un œil, si vous avez l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Entendu. Je voulais vous prévenir que nous avons pu baisser nos prix." Elle sourit. "Je suppose que Trumbel a plus de chance au moulin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Dites, je pense avoir entendu parler de vous. Vous venez d'arriver en ville, c'est ça ? J'ai entendu de bonnes choses." Elle sourit à pleines dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Elle cligne des yeux en vous regardant. "Dites, je pense avoir entendu parler de vous. Vous venez d'arriver en ville, c'est ça ?" Elle jette des coups d'œil anxieux derrière vous. "Bon, bienvenue à vous, j'imagine. C'est un endroit tranquille. Nous sommes assez réservés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"J'ai appris que vous pourriez m'aider à obtenir une aide fiable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Hm ? ...Oh ! Bon, je ne dirai pas que je parle d'expérience, mais nous voyons passer de temps en temps des personnes cherchant du travail. Si vous voulez engager quelqu'un, je serais ravie de vous proposer des candidats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Voyons vos propositions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Peut-être plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Comme vous voulez. Autre chose que je puisse faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"J'aurais besoin d'une aide fiable. Connaissez-vous quelqu'un cherchant du travail ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je voudrais me procurer de l'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Entendu. Voyons voir qui est passé..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"C'est quoi l'histoire avec le chien à l'étage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Oh, cette pauvre chose. Elle attend toujours l'ancien propriétaire de l'endroit. Je ne pense pas qu'il revienne un jour. Cela fait longtemps maintenant. On a fait de notre mieux mais avec le cours des choses, on n'a pas beaucoup de temps à consacrer à un chien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je m'occupais des tables, en fait, jusqu'à ce que l'ancien propriétaire s'en aille. Personne ne sait vraiment ce qui lui est arrivé. Il a même laissé sa pauvre chienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Et puis une sorte de monstre a tué la pauvre chose. Vous le croyez ? Qui peut commettre quelque chose d'aussi terrible ?" Pasca secoue la tête. "Je suppose que nous garderons le nom, malgré tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Est-ce que l'on ne peut pas omettre le paiement ? C'est pour une bonne cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ah non, pas du tout. J'ai déjà assez été bernée. Leur offrir de quoi passer une bonne soirée n'est pas ce que j'appelle « une bonne cause »." Pasca rit. "Même s'ils vous ont convaincu, croyez-moi, le jeu n'en vaut pas la chandelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Pasca vous regarde un moment, puis soupire. "Oh, d'accord. Je sais que vous parlez franchement. Je suppose que c'est équitable, avec le fait qu'ils fassent les récoltes et tout ça. Alors, voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"J'ai envoyé Tenfrith vers le nord pour ramener des provisions. C'est notre cuisinier, vous voyez. Un artiste de la rôtisserie. Mais cela fait déjà plusieurs jours qu'il aurait dû revenir, et nous n'avons reçu aucun signe de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Aloth vous regarde et secoue la tête rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Aloth ouvre la bouche mais semble se raviser. "Rien pour moi, merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Considérez-vous comme un privilégié de la maison. Des réductions sur les boissons, les chambres... Tenfrith a dit qu'il voulait faire quelque chose de bien pour vous. Il est déjà de retour en cuisine." Elle rit. "Alors, que désirez-vous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Il ne reviendra pas. J'y ai veillé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Vous... quoi ?" Pasca fait un pas chancelant en reculant du comptoir. "À l'aide ! Gardes ! À tout le monde ! Cet homme est un meurtrier !"</DefaultText>
+      <FemaleText>"Vous... quoi ?" Pasca fait un pas chancelant en reculant du comptoir. "À l'aide ! Gardes ! À tout le monde ! Cette femme est une meurtrière !"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_dyrford_hendyna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un œuf dans un nid</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez un œuf de dragon du Croisement de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Apportez l'œuf de dragon à Hendyna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Apportez l'œuf de dragon cassé à Hendyna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Hendyna, une alchimiste de Dyrford, a du mal à s'approvisionner à cause des brigands et des réfugiés qui parcourent les routes. Elle a besoin d'ingrédients frais pour ses potions. Elle dit qu'il y a un nid de drake abandonné près de la ville. Avec un des œufs qu'il contient, elle pourrait concocter de nouvelles potions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Hendyna m'a parlé d'un nid de drake à l'est du village. Elle pense qu'il a été abandonné par le drake, mais une bande de wurms semble se l'être approprié.
+
+Les wurms l'ont attaquée lorsqu'elle a essayé de s'approcher du nid, mais elle apprécierait certainement que je lui rapporte un œuf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai descendu l'œuf de la falaise sans même le fêler. Hendyna en fera sûrement bon usage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>L'œuf s'est cassé pendant que je le descendais de la falaise. Il fuit, mais Hendyna devrait quand même être en mesure de l'utiliser pour préparer des potions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé le perchoir abandonné au sommet d'une falaise, au nord-est du Croisement de Dyrford. L'ascension s'annonce difficile ; je ferais bien de vérifier mon équipement avant de la tenter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Je me suis battu avec quelques bandits qui cherchaient l'œuf, eux aussi.</DefaultText>
+      <FemaleText>Je me suis battue avec quelques bandits qui cherchaient l'œuf, eux aussi.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai rencontré quelques bandits qui cherchaient l'œuf, eux aussi. J'ai réussi à les soudoyer pour qu'ils laissent tomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Hendyna était ravie que je lui rapporte un œuf de dragon intact. En guise de récompense, j'ai reçu quelques ingrédients pour concocter une potion et elle m'a promis une remise spéciale sur ses marchandises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Hendyna a été impressionnée que je parvienne à lui rapporter l'œuf. Il était fêlé, mais elle a dit qu'il lui servirait quand même. En guise de récompense, j'ai reçu quelques ingrédients pour concocter une potion et elle m'a promis une remise spéciale sur ses marchandises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Hendyna était déçue que l'œuf soit cassé, mais elle pensait pouvoir en sauver une partie. En guise de récompense, j'ai reçu quelques ingrédients pour concocter une potion et elle m'a promis une remise spéciale sur ses marchandises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

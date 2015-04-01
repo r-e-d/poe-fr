@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_drake_godhammer_acquire</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Su le sol où le dragon s'est enroulé, vous trouvez une pierre qui brille d'un orange lumineux, et qui est pourtant fraîche au toucher lorsque vous l'atteignez. 
+
+Durance l'aperçoit et ses yeux sont exorbités. Il a un regard furieux, sa bouche se plisse comme s'il avait goûté du poison et il crache sur le sol de pierre.
+
+"La plaisanterie cruelle d'une traînée. Cette garce a toujours su où plonger ses griffes pour me faire réagir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Cette... pierre que vous portez. C'est une partie de la bombe qui a détruit Éothas. Le Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous semblez être en colère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qu'est-ce que cela fait ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Pour la première fois, Durance semble être conscient de son comportement et aussi rapidement qu'il s'est enflammé, il semble se calmer, jusqu'à ce que vous commenciez à demander s'il a été en colère.
+
+"Hm ? Non, ce n'est pas de la colère que vous voyez. Je suis juste la victime d'une farce, il me semble. Cela restera entre elle et moi, Gardien, car je suis le seul à pouvoir l'apprécier."</DefaultText>
+      <FemaleText>Pour la première fois, Durance semble être conscient de son comportement et aussi rapidement qu'il s'est enflammé, il semble se calmer, jusqu'à ce que vous commenciez à demander s'il a été en colère.
+
+"Hm ? Non, ce n'est pas de la colère que vous voyez. Je suis juste la victime d'une farce, il me semble. Cela restera entre elle et moi, Gardienne, car je suis le seul à pouvoir l'apprécier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"On se demande. La bombe a explosé comme jamais, mais elle n'aurait pas envoyé de fragments aussi loin de la citadelle. Le drake a dû la porter sur une longue distance. Ou bien Magran l'a mise ici elle-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Parlez-moi du Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Demandez-moi en route, Gardien. Je ne suis pas d'humeur avec le parfum de la garce engorgeant encore tous mes sens."</DefaultText>
+      <FemaleText>"Demandez-moi en route, Gardienne. Je ne suis pas d'humeur avec le parfum de la garce engorgeant encore tous mes sens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Partez] "Rapportons-la à Fyrga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous surprenez encore Durance avec un rictus du coin de votre œil, mais il ne dit rien d'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Est-ce que ça vaut quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ha ! Demandez à Éothas."
+
+"Si vous voulez dire en termes d'argent... À une époque très certainement. Mais les marchés ont vite été inondés de morceaux du Marteau divin, la plupart d'entre eux n'étant rien d'autre que des enchantements triviaux faits par des escrocs en magie. Des contrefaçons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Comme il n'y a jamais eu une manière fiable de juger de l'authenticité d'un fragment, et les juges potentiels étant souvent des Gardiens, aussi discutables que les artefacts eux-mêmes, leur valeur a considérablement chuté."
+
+"Demandez dans n'importe quelle boutique et il essaiera de vous vendre ses fragments à la place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

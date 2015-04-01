@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_older_drunkard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sa robe est déchirée et tachée de vomi. Il tourne son visage sans yeux vers vous, s'essuyant la bouche. "Vous venez pour une histoire ?" Son discours est pâteux et sa voix éraillée. "j'ai raconté toutes les meilleures histoires." 
+
+Il se frappe la poitrine. "C'est mon club de toute façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quel club ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous avez besoin d'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je vais y aller maintenant..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Attendez !" Il vous attrape par le col et vous tire à lui. "Vous devez être un membre." Son haleine pue le vieux vomi. "Montrez-leur ça." Il fourre une bague dans votre main.
+
+Il chancelle vers le côté et ne s'adresse à personne en particulier "Et dites-leur que personne ne me jette du Club des Gentilshommes prafinnés et restigieux.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Le Club des gentilshommes raffinés et prestigieux !" Il pousse votre épaule. "Attendez. Si vous n'êtes pas au courant du Club, vous devez être-"
+
+Il tangue, se tenant la poitrine. Après plusieurs secondes de doute, il récupère.
+
+"Où étais-je ? Oh, vous devez être là pour la bague. La bague." Il la fourre dans votre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Il faut avoir ça pour entrer dans le salon." Il hoquète. "Ils ne laissent pas entrer n'importe qui, vous savez." Il s'essuie la main sur sa robe en lambeaux. "C'est le club le plus exclusif dans la Baie du défi."
+
+Il vous donne une claque dans le dos. "Et quoi que vous fassiez, ne leur dites pas que vous êtes nouveau, ou-" il se retourne, saisi par un accès de haut-le-cœur.</DefaultText>
+      <FemaleText>"Il faut avoir ça pour entrer dans le salon." Il hoquète. "Ils ne laissent pas entrer n'importe qui, vous savez." Il s'essuie la main sur sa robe en lambeaux. "C'est le club le plus exclusif dans la Baie du défi."
+
+Il vous donne une claque dans le dos. "Et quoi que vous fassiez, ne leur dites pas que vous êtes nouvelle, ou-" il se retourne, saisi par un accès de haut-le-cœur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ne le faites pas " Il secoue un doigt devant votre visage. "Je suis le membre le plus expérimenté du Club des gentilshommes raffinés et prestigieux." Il pousse votre épaule. "Je n'ai jamais besoin d'aide.
+
+"J'ai juste besoin de..." Il reste silencieux plusieurs secondes. "La bague !" Il fourre une bague dans votre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"On ne me chasse pas comme ça ! Je suis ici depuis bien plus longtemps que n'importe qui..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Les nouveaux membres sont tous des bouffons ! Aucune classe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Déjà assez dur de trouver un endroit avec une compagnie assez sophistiquée."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

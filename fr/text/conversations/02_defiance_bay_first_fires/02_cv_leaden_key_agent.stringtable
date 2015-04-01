@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_leaden_key_agent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Plusieurs silhouettes voilées sont alignées à proximité d'une femme cagoulée. La silhouette située en bout de ligne s'approche d'elle et la femme tend la main jusqu'à toucher le front de l'étranger.
+
+Ils se tiennent debout, en communion, alors que vous les regardez. Quelques instants plus tard, l'étranger s'écarte et reprend sa place dans le cercle autour de la statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'attends vos rapports. Et vite." La femme vous fait signe de vous approcher. Elle pose une main ouverte sur votre front et vous sentez la chaleur de sa paume à travers votre épaisse cagoule.
+
+Elle parle si bas que vous vous demandez si tout cela est bien réel.
+
+"Déclinez votre identité et les raisons de votre présence ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Quel est cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ce sont les vestiges du temple de Woedica." L'Acolyte vous montre une vaste structure entourée de fidèles. 
+
+"Les affres de la révolution ont tout détruit et seuls ces vestiges abandonnés subsistent. Parfait pour nos desseins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je suis l'Acolyte. C'est tout ce qu'il vous faut savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tous les regards se portent sur vous et des marmonnements de colère se font entendre.
+
+"Frères et sœurs, il y a un intrus parmi nous. Occupez-vous de lui !"</DefaultText>
+      <FemaleText>Tous les regards se portent sur vous et des marmonnements de colère se font entendre.
+
+"Frères et sœurs, il y a une intruse parmi nous. Occupez-vous d'elle !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mon nom appartient aux dieux et je suis à leur service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Cela ne vous regarde pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Sa voix puissante carillonne et résonne. "Quelle compagnie cherchez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je cherche la compagnie des ombres, pour que nos œuvres puissent rester secrètes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"C'est une proposition ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Parlez-moi de vos œuvres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Veiller à ce que les êtres civilisés et les sauvages ne perturbent en rien les ossements ensevelis par les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Attaquez] "Je préférerais vous montrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>La voix résonne telle une cloche dans vos oreilles. "Comment pouvons-nous connaître votre dessein ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vous pouvez le connaître par mes paroles, les agissements de ma main et le serment de mon âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Répondez d'abord à ma question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Et comment votre serment est-il gardé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Il est scellé par la Clé plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Cela suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Marmonnez quelque chose.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sa voix vous parvient tel un chuchotement pénétrant dans une de vos oreilles, puis dans l'autre. "Bienvenue, initié ! Parlez-moi de vos exploits."
+
+Dans votre esprit, vous voyez un bâtiment composé de magnifiques treillis et tuiles situé sur un superbe boulevard. Riches et érudits s'y promènent, échangeant connaissances et argent.</DefaultText>
+      <FemaleText>Sa voix vous parvient tel un chuchotement pénétrant dans une de vos oreilles, puis dans l'autre. "Bienvenue, initiée. Parlez-nous de vos exploits."
+
+Dans votre esprit, vous voyez un bâtiment composé de magnifiques treillis et tuiles situé sur un superbe boulevard. Riches et érudits s'y promènent, échangeant connaissances et argent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Mais la misère et la folie y sont également présentes. Dans un coin sale, un homme est assis, les cheveux en bataille, mais les yeux alertes. Il regarde et attend, un prisonnier par choix.
+
+La question de l'Acolyte résonne dans votre esprit. "Attend-il sans rien faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>La vision de l'Acolyte vous conduit hors de la Baie du défi, vers une ville isolée abritant un moulin à eau. Sur l'un des chemins, un panneau indique "Dyrford". Plusieurs silhouettes vêtues de manteaux et encapuchonnées se serrent les unes contre les autres.
+
+Puis des ruines se dessinent dans votre esprit. Deux effigies squelettiques entourent une crevasse dans la montagne.
+
+"Sont-ils arrivés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ce n'est pas certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ces informations vont être transmises. Voici votre tâche suivante..."
+
+Les ruines s'estompent de votre esprit, laissant place au palimpseste d'un quartier. Des maisons délabrées se dressent autour d'un cimetière et d'une ancienne tour. D'inquiétantes silhouettes arpentent les rues et, dans la tour, un homme se penche sur un étrange mécanisme. Vous ne parvenez pas à bien le distinguer, mais il y a quelque chose d'anormal chez lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Attaquez] "En fait, je suis ici pour vous arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Elle pose doucement la main sur votre tête. "Avez-vous des questions, assistant ?"</DefaultText>
+      <FemaleText>Elle pose doucement la main sur votre tête. "Avez-vous des questions, assistante ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Parlez-moi de l'homme de la tour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Pourrais-je revoir la vision des ruines ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Montrez-moi le prisonnier."</DefaultText>
+      <FemaleText>"Montrez-moi la prisonnière."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vous voyez le palimpseste d'un quartier. Des maisons délabrées se dressent autour un cimetière et d'une ancienne tour. D'inquiétantes silhouettes arpentent les rues et, dans la tour, un homme se penche sur un étrange mécanisme. Vous ne parvenez pas à bien le distinguer, mais il y a quelque chose d'anormal chez lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText> La vision de l'Acolyte vous conduit hors de la Baie du défi, vers une ville qui, vous le savez, s'appelle Dyrford. Plusieurs silhouettes vêtues de manteaux et encapuchonnées sont serrées les unes contre les autres.
+
+Puis des ruines se dessinent dans votre esprit. Deux effigies squelettiques entourent une crevasse dans la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Dans votre esprit, vous voyez un bâtiment composé de magnifiques treillis et tuiles situé sur un superbe boulevard. Riches et érudits s'y promènent, échangeant connaissances et argent.
+
+Mais la misère et la folie y sont également présentes. Dans un coin sale, un homme est assis, les cheveux en bataille, mais les yeux alertes. Il regarde et attend, un prisonnier par choix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous voyez le corps d'une femme à vos pieds. Elle porte une robe sombre avec un insigne qui ressemble à une clé. 
+
+Alors que vous vous approchez du corps de la femme, des sentiments de rage vous assaillent. La voix de la femme morte hurle dans vos oreilles et les bribes de sa conscience déchirent la vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Reculez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Son essence fait frissonner vos os et votre chair. Elle comble les espaces entre vos oreilles et l'arrière de vos yeux, s'agrippant au plus profond de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous concentrez toute votre énergie sur un même effort de volonté, un point affilé qui cible l'âme en furie comme un insecte dans son présentoir. Une fois cette chose sous contrôle, vous parvenez à l'examiner, de même que les trois pensées qui y tourbillonnent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Examinez la pensée sur la tour.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Étudiez le prisonnier.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Observez les ruines.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Vous voyez le palimpseste d'un quartier. Des maisons délabrées se dressent autour un cimetière et d'une ancienne tour. D'inquiétantes silhouettes arpentent les rues et, dans la tour, un homme se penche sur un étrange mécanisme. Vous ne parvenez pas à bien le distinguer, mais il y a quelque chose d'anormal chez lui.
+
+Non loin, vous remarquez une femme portant une cicatrice sur le cœur. Vous comprenez qu'elle a quelque chose dont il a besoin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Dans votre esprit, vous voyez un bâtiment composé de magnifiques treillis et tuiles situé sur un superbe boulevard. Riches et érudits s'y promènent, échangeant connaissances et argent.
+
+Mais la misère et la folie y sont également présentes. Dans un coin sale, un homme est assis, les cheveux en bataille, mais les yeux alertes. Il regarde et attend, un prisonnier par choix.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>La vision de l'Acolyte vous conduit hors de la Baie du défi, vers une ville isolée abritant un moulin à eau. Sur l'un des chemins, un panneau indique "Dyrford". Plusieurs silhouettes vêtues de manteaux et encapuchonnées sont serrées les unes contre les autres. 
+
+Puis des ruines se dessinent dans votre esprit. Deux effigies squelettiques entourent une crevasse dans la montagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>D'un mouvement brusque, elle retire sa main. Un cri perçant se fait entendre sous sa capuche. "Imposteur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Peut-être plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank Node 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Méfiez-vous. Peu importe qui ils sont, je doute qu'ils attendent... de nouveaux membres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Arrêtez-le. Et surtout..." Vous voyez une femme d'une pâleur cadavérique portant une cicatrice sur le cœur. "...Ne le laissez pas aller à sa rencontre."
+
+L'Acolyte vous montre une porte située en bas de la tour, une plaque de pierre et de cuivre apparemment impénétrable. Puis elle désigne la fissure invisible entre les deux moitiés parfaitement assorties et vous comprenez comment les veines de cuivre transforment un ordre en action. L'ordre vous vient à l'esprit avec une familiarité surprenante.
+
+Vous savez comment ouvrir la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous voyez également une porte située en bas de la tour, une plaque de pierre et de cuivre apparemment impénétrable. Puis l'Acolyte désigne la fissure invisible entre les deux moitiés parfaitement assorties et vous comprenez comment les veines de cuivre transforment un ordre en action. 
+
+Vous savez comment ouvrir la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Arrêtez-le. Et surtout..." Vous voyez une femme d'une pâleur cadavérique portant une cicatrice sur le cœur. "…ne le laissez pas la rencontrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Les yeux de la femme se ferment légèrement derrière son masque alors qu'elle remarque votre visage découvert. "Un intrus !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>La femme se retourne vers vous. Elle marque un temps d'arrêt en voyant votre capuche.
+
+"Vous êtes en retard."
+
+Malgré son visage caché, vous sentez la rage dans sa voix dangereusement basse et dans le soudain silence de l'assemblée présente dans la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>La femme se retourne vers vous.
+
+"Vous êtes en retard."
+
+Malgré son visage caché, vous sentez la rage dans sa voix dangereusement basse et dans le soudain silence de l'assemblée présente dans la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>La femme encapuchonnée regarde votre groupe. Les autres silhouettes en font de même, chuchotant entre elles.
+
+La femme vous pointe longuement du doigt. "Arrêtez-les !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Son essence flamboie, en s'efforçant de faire bouillir votre sang, de brûler votre mémoire et de briser vos os de l'intérieur. Mais entre ses assauts, vous voyez d'autres images : une tour, un prisonnier et des ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Essayez de voir les tâches.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Vous voyez un attroupement d'hommes et de femmes aux robes semblables à la sienne, le visage masqué. Un par un, ils s'approchent de celle qu'ils appellent leur « acolyte », et celle-ci pose la main sur le front de chacun d'entre eux pour sonder leurs pensées. 
+
+Elle les met à l'épreuve en leur posant des questions rituelles, et ils répondent que leur serment est « scellé par la Clé plombée ». Elle les interroge sur leurs tâches. Elle leur en confie de nouvelles. Tout cela sans un mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

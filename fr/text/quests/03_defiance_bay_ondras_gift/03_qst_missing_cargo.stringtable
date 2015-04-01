@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_missing_cargo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tout le monde sur le pont</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouvez la caisse manquante de Marceno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Retournez auprès de Marceno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Battez Waldr et sa bande.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>En explorant la Faveur d'Ondra, j'ai découvert qu'un coffre de mer a été volé de l'un des vaisseaux amarré sur la jetée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Marceno, un jeune marin, m'a confié que le coffre du capitaine Fortanero a été volé dans un moment de distraction. Heureusement pour Marceno, son capitaine passe du bon temps à terre, et n'a pas encore eu vent de l'incident. Marceno m'a supplié de retrouver son coffre avant que le capitaine ne rentre. Il est improbable qu'ils aient pu déjà quitté la Faveur d'Ondra, je devrais commencer mes recherches par ici.</DefaultText>
+      <FemaleText>Marceno, un jeune marin, m'a confié que le coffre du capitaine Fortanero a été volé dans un moment de distraction. Heureusement pour Marceno, son capitaine passe du bon temps à terre, et n'a pas encore eu vent de l'incident. Marceno m'a suppliée de retrouver son coffre avant que le capitaine ne rentre. Il est improbable qu'ils aient pu déjà quitté la Faveur d'Ondra, je devrais commencer mes recherches par ici.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>J'ai localisé le coffre qui a été volé du bateau de Marceno. Il sera heureux d'apprendre que j'ai localisé et me suis occupé des voleurs qui l'ont pris.</DefaultText>
+      <FemaleText>J'ai localisé le coffre qui a été volé du bateau de Marceno. Il sera heureux d'apprendre que j'ai localisé et me suis occupée des voleurs qui l'ont pris.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Les voleurs qui ont dérobé le coffre que Marceno était supposé surveiller ne l'abandonneront pas sans se battre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Il se trouve que j'ai localisé les voleurs. Je vais devoir m'occuper d'eux si je veux récupérer le coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai ouvert le coffre pour découvrir que les 'possessions de valeur' du capitaine Fortanero se résument à son chapeau et sa rapière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Les voleurs étant morts, je peux récupérer le coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Marceno était très heureux d'apprendre que j'ai récupéré le coffre avec tout son contenu. Je suis sûr qu'il sera plus attentif dorénavant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai rapporté le coffre de mer à Marceno, qui s'est montré reconnaissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai rendu le coffre à Marceno mais j'ai gardé le chapeau et l'épée qui s'y trouvaient. Son capitaine sera probablement très en colère en le découvrant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Je me suis occupé des voleurs responsables du vol du coffre de mer de Fortanero et fait savoir à Marceno où le récupérer. Il a été très reconnaissant. Les choses vont bien se passer pour lui.</DefaultText>
+      <FemaleText>Je me suis occupée des voleurs responsables du vol du coffre de mer de Fortanero et fait savoir à Marceno où le récupérer. Il a été très reconnaissant. Les choses vont bien se passer pour lui.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Marceno est mort et ne peut me récompenser pour avoir retrouvé le coffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>J'ai dit à Marceno que je gardais le chapeau et la rapière du capitaine. Il s'est enfui pour échapper à la vengeance du capitaine, me laissant profiter de mon nouveau chapeau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30011</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

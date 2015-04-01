@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_artificer_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Salutations, mon seigneur. Vous trouverez ici les machines les plus ingénieuses. Huiles, pièges et arts occultes, tout pour entraver et frustrer vos ennemis. Voulez-vous jeter un œil ?"</DefaultText>
+      <FemaleText>"Salutations, ma dame. Vous trouverez ici les machines les plus ingénieuses. Huiles, pièges et arts occultes, tout pour entraver et frustrer vos ennemis. Voulez-vous jeter un œil ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Voyons ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bonjour, mon seigneur. Avons-nous besoin de pièges aujourd'hui ?"</DefaultText>
+      <FemaleText>"Bonjour, ma dame. Avons-nous besoin de pièges aujourd'hui ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bonsoir, mon seigneur. Avons-nous besoin de pièges ce soir ?"</DefaultText>
+      <FemaleText>"Bonsoir, ma dame. Avons-nous besoin de pièges ce soir ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

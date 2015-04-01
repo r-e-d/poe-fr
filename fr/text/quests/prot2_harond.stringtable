@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\prot2_harond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'héritage du sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parcourez Dyrford pour glaner des informations sur la disparition d'Aelys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Retournez voir le seigneur Harond à l'Auberge de Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Parlez au seigneur Harond à l'auberge de Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Dame Aelys Harond a disparu dans la petite ville tranquille de Dyrford. Le seigneur Harond est fou d'inquiétude et craint que les habitants ne lui cachent délibérément des informations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le seigneur Harond n'a aucune nouvelle de dame Aelys depuis plusieurs jours, et les habitants de Dyrford ne semblent pas disposés à lui apporter leur aide. J'apprendrai peut-être quelque chose en posant des questions autour de moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Wymund, un animancien adepte de Skaen, m'a révélé quelques détails surprenants sur Aelys... notamment qu'elle attend un enfant de son oncle, le seigneur Harond. Après Wymund, je vais m'occuper d'Harond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Un garde posté sur le pont de Dyrford m'a dit que la fille du seigneur Harond avait disparu. Le seigneur Harond et ses serviteurs ont passé le village au peigne fin dans l'espoir de la retrouver, mais en vain.
+
+Le seigneur Harond m'attend à l'auberge. Il devrait en savoir plus sur cette disparition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dengler m'a expliqué qu'Aelys connaissait Trygil, le tanneur local. Sa boutique se trouve dans la tour en ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Trygil prétend qu'un ogre a emmené Aelys quelque part aux alentours de la rivière Bael, à l'est de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé l'ogre, mais il n'y avait aucune trace d'Aelys dans la grotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>L'ogre Korgrak a nié avoir dévoré Aelys. Je n'ai pas l'impression qu'il cache quoi que ce soit, contrairement à Trygil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>En explorant la grotte située à l'est de la rivière Bael, j'ai découvert un cadavre sur lequel j'ai trouvé une lettre et une clé surmontée d'une tête de mort. La lettre faisait référence à un temple secret avec une entrée près de la rivière et une autre dans une tour située derrière une boutique. La lettre était tachée avec une sorte de pigment et signée "T".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Trygil s'en est pris à moi lorsqu'il a compris que j'en savais trop. Mais je ne sais toujours pas exactement ce qu'il cachait...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai trouvé des ruines sous Dyrford. J'ignore de quoi il s'agit, mais des symboles de Skaen ont été peints sur les murs et gravés dans les tunnels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Il semble qu'un animancien adepte de Skaen ait enlevé Aelys pour accomplir une sorte de rituel. Il doit être quelque part dans ces ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Trygil prétend qu'un ogre a emmené Aelys quelque part aux alentours de la rivière Bael, à l'est de Dyrford. J'ai du mal à croire qu'elle se soit enfuie avec lui de son plein gré, mais je trouverai peut-être des indices dans la campagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Hendyna m'a dit qu'Aelys était enceinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Wymund a insisté pour que je me comporte le plus naturellement possible. Si je ne dis rien sur l'état d'Aelys en retournant voir Harond, le plan des Skaenites fonctionnera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Hendyna m'a dit avoir vu Aelys discuter avec Trygil. Sa boutique se trouve dans la tour en ruine, près de sa charrette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Le seigneur Harond a été bouleversé en apprenant la mort d'Aelys, et encore plus que j'ai découvert son secret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>DEFUNCT</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai ramené Aelys au seigneur Harond en sachant pertinemment qu'elle le tuera lorsque son esprit souillé aura terminé sa métamorphose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Le fait de purger l'esprit d'Aelys de l'influence des Skaenites l'a également rendue amnésique. Elle ne se souvient ni du seigneur Harond ni de ce qu'il lui a fait. Je l'ai envoyée commencer une nouvelle vie loin de son oncle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Aelys est retournée auprès du seigneur Harond, mais j'ai expliqué à celui-ci que les Skaenites avaient souillé l'esprit de la jeune femme. Harond va la faire interner au sanatorium de Brackenbury où j'espère qu'elle se rétablira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai tué le seigneur Harond et abandonné son cadavre à l'étage de cette auberge répugnante. Il ne méritait pas mieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

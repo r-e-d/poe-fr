@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_legacy_head</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les yeux d'adra de la tête de pierre brillent et un grondement s'échappe de sa bouche ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Le passé est une arme. La force d'un vrai guerrier se manifeste quand il s'en saisit."
+
+"Parlez-moi des qualités qui vous définissent."</DefaultText>
+      <FemaleText>"Le passé est une arme. La force d'une vraie guerrière se manifeste quand elle s'en saisit."
+
+"Parlez-moi des qualités qui vous définissent."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je rassemble des gens. J'excelle lorsqu'il s'agit de collaborer avec mes alliés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je suis quelqu'un de cohérent et de fiable. Je viens à bout de tous les obstacles à force de patience et de dévouement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je ne laisse rien venir perturber ce qui doit être fait. Je prends les décisions les plus délicates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je fais preuve d'un courage à toute épreuve dans les pires moments. J'affronte les difficultés de la vie de manière frontale et triomphale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que ceci vous donne la force !"
+
+Un symbole s'allume sur le mur situé derrière la tête de pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>La tête de pierre est silencieuse. Ses yeux d'adra sont voilés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Approchez-vous et faites-vous connaître."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_si_assassination_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les mots « Souhaitez-vous que je vous achève ? » résonnent-ils dans vos oreilles. Vous suffoquez et luttez pour garder l'équilibre. Vous mettez un genou à terre et regardez Thaos se dépêcher de quitter le bâtiment. Le monde se trouble autour de vous, les cris et le bruit des armes qui s'entrechoquent s'estompent. Seuls les mots subsistent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Thaos se tient dans une chaire située au-dessus de spectateurs vêtus de robes, dont vous faites partie, regroupés autour d'une vaste fosse circulaire creusée dans la pierre.
+
+« Souhaitez-vous que je vous achève ? » Il s'adresse à une femme située à l'arrière, au-dessus d'une vaste roue en fer surplombant ce trou béant. Les doigts des pieds et des mains de la femme sont pour la plupart coupés et ses talons sont noircis par le feu. La peau d'une de ses joues ressemble à de la cire fondue, noire, rouge et suintante, et la position de son dos semble indiquer que sa colonne vertébrale est en miettes. Pour autant, son expression ne traduit pas la douleur qu'elle doit ressentir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ses yeux sont à peine ouverts et, entre deux respirations étouffées, elle parle distinctement. « Je suis déjà en paix, Grand Inquisiteur. Et vous ? »</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Thaos la regarde droit dans le yeux. « Parfait. Si vous souhaitez souffrir, qu'il en soit ainsi. Je vous accuse d'hérésie. Puisse la prison éternelle retenir votre âme, car elle est au-delà de toute rédemption. »
+
+Il fait un signe à un spectateur encapuchonné qui commence à la détacher de la roue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

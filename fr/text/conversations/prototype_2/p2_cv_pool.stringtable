@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_pool</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>136</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lorsque vous vous approchez de la marre de sang, le liquide visqueux se met à bouillonner. Vous sentez une essence monter à la surface et s'approcher de vous en murmurant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Étirez votre âme en direction de la marre de sang.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Éloignez-vous de la marre de sang.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Les faibles murmures se transforment en cacophonie. Vous imaginez qu'une centaine d'hommes et de femmes vous entoure. Leur chair est nue, fouettée et ensanglantée, ou écorchée et couverte de mouches. Des pierres noires scintillent à la place de leurs yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous reculez. Les âmes s'éloignent et le sang cesse de bouillonner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Une voix de femme répond. "Des laissés-pour-compte. Des serfs, des esclaves et des prostituées, utilisés et jetés. Presque tout ce que nous avions nous a été ôté. Mais le peu qu'il nous restait, nous l'avons donné ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>La marre de sang est calme maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Bank Node 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Quelqu'un pourrait nettoyer ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Bah... qui peut bien fabriquer quelque chose d'aussi horrible ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Quelque chose de puissant semble animer le sang. Quoi que ce soit, je dirais que cela n'augure de rien de bon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Des masques grotesques et des mares de sang... Rien n'arrête leur folie, pas vrai ?" Kana fronce le nez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Un lieu où règne la mort... On ferait bien de ne pas traîner ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Un chaudron bouillonnant rempli de la semence haineuse de Skaen. Il est certes pleurnichard et lâche, mais il n'a jamais manqué de concentration."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sagani regarde la mare bouillonnante. "Cela n'augure de rien de bon. On ferait mieux de continuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vous avez tous été offerts en sacrifice à Skaen, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Une voix de femme répond. "Nous avons tous été sacrifiés pour satisfaire les caprices et les besoins des riches et des puissants. Mais ce que nous avons donné ici l'a été de notre propre gré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je vous vois avec des yeux de silex, mes frères et mes sœurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Ils planent au-dessus de votre âme. "La fureur brûlait en nous, inassouvie. Mais la haine peut être transformée en arme par ceux qui sont prêts à en payer le prix." Une autre voix retentit. "De notre vivant, nous étions faibles. Mais dans la mort, nous avons fait un choix. Le choix mène au pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>L'essence se rapproche, elle cherche quelque chose en vous. "Oui. Skaen a laissé sa marque sur votre âme. Vous pouvez comprendre ce que nous faisons ici. Vous pouvez comprendre les armes qui sont à notre disposition. La vengeance incarnée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Quel genre de pouvoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Le pouvoir de la vengeance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vous pouvez maintenant échapper à vos oppresseurs et poursuivre votre chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Oui, pour rendre justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Pour défendre les innocents comme vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Une voix glousse. "Si vous posez la question, c'est que vous n'avez jamais eu besoin de vous venger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Pour une nouvelle vie de dur labeur et d'abus ? Pas avant que nous ayons assouvi notre vengeance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Même nous, nous ne sommes pas assez stupides pour y croire. La justice prend le pain du seigneur pour le donner au travailleur. Mais nous sommes prêts à dépecer le seigneur et à clouer ses enfants au pilori pour nourrir les corbeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Il n'y a pas d'innocents. Même nous, les maltraités et les opprimés, nous renonçons volontiers à notre innocence pour assouvir notre vengeance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"La colère se transforme en feu. Un feu suffisamment vif pour terrifier les armées les plus puissantes. Suffisamment affamé pour consumer de vastes domaines. Et, planté comme une graine dans le cœur, suffisamment fort pour inciter un enfant à tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Les voix crient à l'unisson. "Qu'est-ce que c'est ? Encore une âme venue déchaîner sa rage et tout incendier sur son passage ? Ou simplement venue observer ? Vous risquez d'attendre longtemps. Nous en avons déjà fini pour aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Les plans des impuissants doivent être subtils. Ils doivent vider l'ennemi de l'intérieur. Les fondations d'une maison doivent être rongées pour qu'elle s'effondre sur elle-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Ils sondent les frontières de votre âme, explorent votre essence. "Vous connaissez également la force de la cruauté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Ils sondent les frontières de votre âme, explorent votre essence. "Quel dommage qu'il n'y ait rien en vous que nous puissions utiliser." Les âmes replongent dans la marre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous avez sacrifié des centaines d'âmes pour accroître votre force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Vous avez donné en pâture une fille, une enfant privilégiée, à une bête tout juste revêtue de la chair du peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Une voix murmure. "Nous avons une proposition à vous faire." Une autre voix, basse et moelleuse, résonne. "Il est si rare pour nous de pouvoir toucher une âme. Nous nous ennuyons. Nous avons faim." Vous entendez une voix tremblante, au bord de la folie. "Donnez-nous un de vos compagnons. N'importe lequel. Laissez son essence nous rejoindre et nous partagerons ce pouvoir avec vous. Nul ne le saura jamais. Il vous suffit de penser à un nom, et votre volonté nous donnera le pouvoir de terrasser cet élu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Aloth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Durance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Edér."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"La Mère en deuil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Hiravias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Pallegina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Kana Rua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Sagani."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je ne ferai pas ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur Aloth. Il cligne des yeux et son regard se tourne brièvement vers vous. Il tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Aloth essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Il finit par s'écrouler et sombre dans la flaque de sang. Vous sentez une autre présence dans la marre de sang, désorientée et en colère. Les autres âmes semblent de rassembler autour d'elle pour l'étouffer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Bank Node 125</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Faites-le sortir de la mare !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Que... que se passe-t-il ? "Qu'est-ce qu'il a ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Skaen se l'est attribué. Il élimine les forts comme Magran élimine les faibles. On ne peut plus rien pour lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Gardien, aidez-le !"</DefaultText>
+      <FemaleText>" Gardienne, aidez-le !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Attendez !" Sagani pose un genou à terre et lui met la main sur l'épaule. "Il se vide de son sang !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Les dents d'Ondra ! Vite, que quelqu'un s'occupe de lui !" Kana avance, puis recule lorsque ses pieds pataugent dans le sang. "Qu'est-ce que c'est que cette maladie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Hiravias pâlit et ses yeux s'écarquillent de surprise. "Qu'est-ce qui lui arrive ? Il faut faire quelque chose ! Il est en train de mourir, il faut qu'on..."
+
+Il se cache les yeux pour ne pas voir cette scène sanglante. "Je crois que je vais vomir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Bank Node 134</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Il... il est mort ! Quel est cet horrible tour de magie auquel nous venons d'assister ?" L'oreille intacte d'Hiravias se redresse alors que l'orlan regarde partout autour de lui.
+
+"Quittons cet endroit tant qu'il est encore temps !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Mais comment ? Il allait bien... puis, d'un coup... Nous avons dû déclencher un sort. Un piège ou quelque chose du genre."
+
+Kana secoue la tête. "Quittons cet endroit avant qu'il ne fasse une nouvelle victime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Sagani se redresse et recule doucement. "Il faut qu'on y aille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ces lieux grouillent d'âmes assoiffées de vengeance..." Elle vous regarde curieusement pendant quelques instants, puis sa silhouette se floute. Tout s'accélère et elle s'en va.
+
+"Partons d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Un acte de vengeance mesquine pour punir notre présence ici. Mais il est rare que Skaen complote seul." Les yeux de Durance croisent les vôtres d'un air accusateur, mais il n'ajoute rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Une expression de choc et d'horreur envahit le visage de Pallegina et ses yeux dorés s'écarquillent. "Je ne sais pas ce qui l'a attiré dans l'au-delà, mais il nous faut quitter cet endroit. Sur-le-champ !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>La bouche d'Edér se ferme alors que la silhouette disparaît. Il semble prêt à plonger pour la rattraper, mais il se ravise. De la main, il se couvre le visage.
+
+"Ça suffit. Allez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur Durance. Il cligne des yeux et son regard se tourne brièvement vers vous. Il tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Durance essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur Edér. Il cligne des yeux et son regard se tourne brièvement vers vous. Il tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Edér essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur Hiravias. Il cligne des yeux et son regard se tourne brièvement vers vous. Il tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Hiravias essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur Kana Rua. Il cligne des yeux et son regard se tourne brièvement vers vous. Il tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Il essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Aloth se couvre le visage avec horreur. "Par tous les dieux, qu'est-ce qu'il a ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Il recule d'un pas. "Il est mort ?" Il tourne doucement la tête vers vous. "Je suppose que vous n'en savez rien..." Il déglutit. "Qu'importe. Nous ferions mieux de partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Marché conclu." Une étrange force s'infiltre dans votre âme tandis que les bouillonnements de la marre de sang diminuent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Bank Node 152</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Faites-la sortir de la mare !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Aloth se couvre le visage avec horreur. "Par tous les dieux, qu'est-ce qu'elle a ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Gardien, aidez-la !"</DefaultText>
+      <FemaleText>"Gardienne, aidez-la !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Skaen se l'est attribuée. Il élimine les forts comme Magran élimine les faibles. On ne peut plus rien pour elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Hiravias pâlit et ses yeux s'écarquillent de surprise. "Qu'est-ce qui lui arrive ? Il faut faire quelque chose ! À l'aide..."
+
+Il se cache les yeux pour ne pas voir cette scène sanglante. "Je crois que je vais vomir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Que... que se passe-t-il ? Qu'est-ce qu'elle a ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Attendez !" Sagani pose un genou à terre et lui met la main sur l'épaule. "Elle se vide de son sang !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Les dents d'Ondra ! Vite, que quelqu'un s'occupe d'elle !" Kana avance, puis recule lorsque ses pieds pataugent dans le sang. "Qu'est-ce que c'est que cette maladie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Elle finit par s'écrouler et sombre dans la flaque de sang. Vous sentez une autre présence dans la marre de sang, désorientée et en colère. Les autres âmes semblent de rassembler autour d'elle pour l'étouffer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Nœud en cascade 163</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Un acte de vengeance mesquine pour punir notre présence ici. Mais il est rare que Skaen complote seul." Les yeux de Durance croisent les vôtres d'un air accusateur, mais il n'ajoute rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ces lieux grouillent d'âmes assoiffées de vengeance..." Elle vous regarde curieusement pendant quelques instants, puis sa silhouette se floute. Tout s'accélère et elle s'en va.
+
+"Partons d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Il recule d'un pas. "Elle est morte ?" Il tourne doucement la tête vers vous. "Je suppose que vous n'en savez rien..." Il déglutit. "Qu'importe. Nous ferions mieux de partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Elle est morte ! Quel est cet horrible tour de magie auquel nous venons d'assister ?" L'oreille intacte d'Hiravias se redresse alors que l'orlan regarde partout autour de lui.
+
+"Quittons tant qu'il est encore temps !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Une expression de choc et d'horreur envahit le visage de Pallegina et ses yeux dorés s'écarquillent. "Je ne sais pas ce qui l'a attirée dans l'au-delà, mais il nous faut quitter cet endroit. Sur-le-champ !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Sagani se redresse et recule doucement. "Il faut qu'on y aille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Mais comment ? Elle allait bien... puis, d'un coup... Nous avons dû déclencher un sort. Un piège ou quelque chose du genre."
+
+Kana secoue la tête. "Quittons cet endroit avant qu'il ne fasse une nouvelle victime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>La bouche d'Edér se ferme alors que la silhouette disparaît. Il semble prêt à plonger pour la rattraper, mais il se ravise. De la main, il se couvre le visage.
+
+"Ça suffit. Allez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur la Mère en deuil. Elle cligne des yeux et son regard se tourne brièvement vers vous. Elle tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Elle essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Personne d'autre ne semble y prêter attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Bank Node 175</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Et ce n'est certainement même pas une vraie mare de sang. Mais plutôt de la teinture rouge utilisée pour faire peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Vous avez entendu ? J'ai cru avoir entendu quelque chose..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Il croise les bras et fronce les sourcils. "J'aurais juré avoir entendu quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Durance se gratte la fesse avec l'extrémité de son bâton et bâille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Sagani fronce les sourcils en regardant son renard. "Itumaak. C'était toi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Kana se calme et regarde autour de lui. "Bizarre... J'ai eu le curieux sentiment que..." Il fronce les sourcils et regarde derrière lui, perplexe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Hiravias examine la mare de sang, mais ne semble pas avoir remarqué la lutte de la Mère en deuil.
+
+"J'hallucine ou cette mare de sang... grossit ?" Il hume l'air pendant quelques instants avant de hausser les épaules. "Cet endroit me joue des tours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Elle finit par s'écrouler et sombre dans la flaque de sang. Vous sentez une autre présence dans la marre de sang, désorientée et en colère. Les autres âmes semblent de rassembler autour d'elle pour l'étouffer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Bank Node 185</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"De retour à cette auberge, je commanderai deux poulets rôtis. Et que personne ne me juge !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Bah. Ce n'était sûrement rien. Mais nous ferions mieux d'y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Aloth se gratte la tête et hausse les épaules. "J'ai dû rêver." Il regarde à nouveau la mare de sang. "Ça vous dirait de quitter cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Durance rote et se surprend lui-même. Il regarde autour de lui pour voir si quelqu'un a remarqué, puis sourit, satisfait que cela restera son secret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Kana penche la tête, écoute, puis hausse une épaule.
+
+"Je ne me sentais pas concerné, mais je suppose qu'après plusieurs tentatives d'assassinat, on devient particulièrement prudent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Sagani se gratte le ventre. "Tout cela m'a ouvert l'appétit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"La seule chose que je sente, c'est l'odeur du sang, encore et encore... Une seconde, n'est-ce pas de la lavande ?" Hiravias hume l'air, puis tire son col vers lui et sent sa tunique.
+
+"Est-ce qu'on en a fini ici ou envisagez-vous de prendre un bain de sang ? Allons-y," dit-il d'une voix lente et sévère, "Je rêve de respirer un peu d'air frais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur Pallegina. Elle cligne des yeux et son regard se tourne brièvement vers vous. Elle tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Elle essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Vous sentez une force vous échapper pour s'abattre sur Sagani. Elle cligne des yeux et son regard se tourne brièvement vers vous. Elle tombe à genoux en suffoquant. Du sang jaillit de sa bouche ouverte pour se répandre sur le pavé et couler dans la marre. Elle essaie de crier, mais le sang qui a envahi sa gorge l'empêche d'émettre le moindre son.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Alors, vous êtes la force qui détruit ses ennemis de l'intérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"C'est terrible !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Cela doit être satisfaisant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"J'espère que ça en vaut la peine. C'est vous qui êtes emprisonnés dans une marre de sang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"L'animancien attire notre essence dans un esprit sur lequel il peut exercer son pouvoir. Nous nous enfonçons toujours plus profondément jusqu'à ce que nous ayons neutralisé toute inhibition et tout sentiment de pitié. Cet esprit devient alors le vaisseau de notre vengeance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Il s'agit de la faim assouvie après une vie entière de privation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Vous entendez un rire aigu, grinçant. "Ce n'est que temporaire, comme les tourments que nous avons endurés de notre vivant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Vous entendez un rire aigu, grinçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Alors, allez-y. Nous n'avons plus rien à partager." Les âmes sombrent à nouveau dans la marre de sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Attendez, j'aimerais vous poser d'autres questions sur cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Le temps des questions est révolu." La marre de sang est calme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Quel travail ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>La marre commence à onduler tandis qu'un chœur dissonant de rires diaboliques vous transperce les tympans. Le clapotis du sang fait bouger une grande cage métallique à demi submergée au centre de la marre, et elle grince bruyamment en se balançant d'avant en arrière sur une poulie rouillée, comme pour répondre à votre question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Attendez. Je veux savoir ce que vous avez fait ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>La marre commence à onduler tandis qu'un chœur dissonant de rires diaboliques vous transperce les tympans. Le clapotis du sang fait bouger une grande cage métallique à demi submergée au centre de la marre, et elle grince bruyamment en se balançant d'avant en arrière sur une poulie rouillée, comme pour répondre à votre question.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

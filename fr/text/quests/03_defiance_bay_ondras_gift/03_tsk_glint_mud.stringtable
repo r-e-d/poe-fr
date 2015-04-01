@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_glint_mud</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Transport clandestin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrouvez les morceaux manquants d'un sceptre engwithan dans la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Rapportez les morceaux du sceptre à Nans dans le sanatorium de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Retournez auprès d'Imatl avec les morceaux du sceptre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Retrouvez l'animancienne qui achète les artefacts engwithans auprès d'Imatl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai rencontré Imatl, un ancien matelot dans la Faveur d'Ondra. Il faisait partie de l'équipage d'un bateau-mouche transportant plusieurs caisses de chargement, dont quelques caisses d'artefacts engwithans. Plusieurs armures de Clîaban Rilag ont attaqué l'équipage, provoquant l'échouage du navire.
+
+À présent, Imatl cherche quelqu'un pour récupérer trois morceaux manquants d'un sceptre engwithan brisé. Il connaît un animancien qui lui achèterait l'artefact si toutes les parties étaient rassemblées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Imatl m'a dit que les autres morceaux de l'artefact se seront probablement enfoncé dans les hauts-fonds autour des quais. Je pourrais me faire une idée de l'objet, et en tirer un meilleur prix, si je retrouve toutes les parties.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Nans, l'ami d'Imatl est une animancienne et une experte des artefacts engwithans. Elle connaîtra la valeur de ces morceaux et dira s'ils peuvent être réassemblés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>J'ai trouvé trois morceaux du sceptre. Imatl saura quoi faire ensuite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Je peux apporter les quatre morceaux du sceptre directement au contact d'Imatl qui pratique l'animancie, mais je devrai retrouver cette personne par mes propres moyens.
+
+Imatl ne m'apportera aucune aide après la manière dont je me suis comporté avec lui.</DefaultText>
+      <FemaleText>Je peux apporter les quatre morceaux du sceptre directement au contact d'Imatl qui pratique l'animancie, mais je devrai retrouver cette personne par mes propres moyens.
+
+Imatl ne m'apportera aucune aide après la manière dont je me suis comportée avec lui.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé un morceau du sceptre brisé. Il semble que d'autres morceaux manquent toujours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé deux morceaux du sceptre brisé. Ils semblent coller, mais quelque chose manque encore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé le troisième morceau du sceptre brisé. Combinés ensemble, ces trois fragments forment un sceptre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Nans a offert de réassembler le sceptre pour 1800 pands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai convaincu Nans de réassembler le sceptre pour 1500 pands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Nans a offert de réassembler le sceptre pour 1800 pands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai convaincu Nans de réassembler le sceptre pour 1500 pands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai payé Nans pour réparer le sceptre. La procédure était chère, mais le sceptre restauré est une arme puissante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai vendu les morceaux à Nans. Elle ne m'en a pas offert autant que j'attendais, mais je suppose que son prix était assez raisonnable pour un sceptre brisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai vendu les morceaux du sceptre à Nans, et elle a rajouté quelques pièces dans la mesure où nous avons convenu du très bon état des fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai tué Nans et je ne pourrai pas vendre ou réparer l'artefact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>J'ai tué Imatl et maintenant je ne saurais jamais quoi faire avec les morceaux du sceptre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

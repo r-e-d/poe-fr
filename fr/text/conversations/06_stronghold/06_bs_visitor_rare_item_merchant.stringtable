@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_visitor_rare_item_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Avez-vous pensé à mon offre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je suis un homme bon à connaître, mon ami."</DefaultText>
+      <FemaleText>"Je suis un homme bon à connaître, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous ne trouverez pas de meilleures offres ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'attends votre décision, mon seigneur."</DefaultText>
+      <FemaleText>"J'attends votre décision, ma dame."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

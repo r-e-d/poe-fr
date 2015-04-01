@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_sapling_vailian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Les boissons dyrwoodanes sont meilleures, mais j'ai très envie de visiter les tavernes construites par les Glanfathans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Les tribus détestent les étrangers. Pourtant, leurs échanges commerciaux avec nous ont beaucoup amélioré leur quotidien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous savez ce qui est caché dans ces ruines engwithanes ? Des recettes de boissons dignes de ce nom..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Il y a beaucoup d'Orlans par ici, ce n'est pas comme chez nous. C'est sûrement pour ça que les tables sont si basses."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

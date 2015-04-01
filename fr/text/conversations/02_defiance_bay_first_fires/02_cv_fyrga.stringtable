@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_fyrga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La femme a la tête penchée et ses lèvres bougent en prière. Alors que vous vous approchez, vous notez qu'elle jette un coup d'œil à la statue voisine.
+
+Elle remarque votre présence et vous tend un sourire forcé. "Louange à Magran et bienvenue dans son temple. En quoi puis-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Un sourire figé se dessine sur ses lèvres. "Qu'est-ce qui vous ramène au temple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fyrga hoche la tête. "Puisse la flamme vous guider et vous tempérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Grâce à vous, les feux sacrés continuent de brûler dans la ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Même si je vais bientôt abdiquer, le travail ne manque pas. Trouver un successeur n'est pas une mince affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous semblez en proie à l'inquiétude. Que se passe-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Au temple ? Je pensais qu'il s'agissait d'un palais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Elle lâche un profond soupir. "C'est au sujet des feux, n'est-ce pas ?" Elle pose la main sur votre épaule. "Ils sont juste symboliques. Impossible de leur accorder foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Les feux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ce sont les deux, en fait. C'est le palais duquel le duc Aevar gouverne, mais c'est aussi un lieu de culte dédié à Magran, la déesse qui nous a menés à l'indépendance et a toujours veillé sur notre ville..." Son sourire s'obscurcit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Présentez la pierre brûlante.] "Je suis moi-même allé aux Chutes brûlantes. Et voilà ce que j'y ai trouvé."</DefaultText>
+      <FemaleText>[Présentez la pierre brûlante.] "Je suis moi-même allée aux Chutes brûlantes. Et voilà ce que j'y ai trouvé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText> "Étincelante Magran, transformez-nous de votre flamme..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Quinze ans durant ils ont brûlé sans cesser, mais cela fait des mois que je ne parviens plus à les allumer. Et les gens ont besoin de les voir plus que jamais ces temps-ci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Cela doit vous sembler des plus étrangers..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Il est des choses que l'on peut connaître sans vraiment les comprendre. Si je ne m'abuse, vous semblez savoir ce dont je veux parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ralentissez et dites-moi ce dont il s'agit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Uniquement symboliques ? C'est la raison pour laquelle vous êtes si désespérée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Elle soupire. "Les bûchers sacrés tout autour de la ville. Vous avez sûrement vu les statues de la déesse autour de la ville, avec les braseros vides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Non ! Je..." Elle soupire tel un sifflement similaire à celui de la vapeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Qu'est-ce que cela signifie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Alors, allez les rallumer. Je vois beaucoup de flammes ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Haussez les épaules.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Cela ne marche pas ainsi. Ce sont des feux sacrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Seules mes dévotions et mes prières les gardent allumés. Mais depuis peu, lorsque j'essaie de prier, je ne peux m'empêcher de penser aux sans-âmes partout en ville. Les familles endeuillées. Les réfugiés."
+
+Elle secoue la tête. "Comment Magran peut-elle nous laisser souffrir de la sorte ? Quelle force tirons-nous d'un enfant dépourvu d'âme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Et cela a ébranlé votre foi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Prenez courage et continuez d'avoir foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Elle acquiesce, passant les mains dans ses cheveux. "Mais je suppose que Magran finira par me parler à nouveau." Elle fronce les sourcils et jette un rapide coup d'œil dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous ne semblez pas être du genre à faire grand usage des mystères de la foi, mais je ne vois aucun autre moyen d'expliquer cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vous êtes pieux, vous aussi, n'est-ce pas ? Je suis sûre que vous comprenez ce que j'essaie de vous dire."</DefaultText>
+      <FemaleText>"Vous êtes pieuse, vous aussi, n'est-ce pas ? Je suis sûre que vous comprenez ce que j'essaie de vous dire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"J'ai récemment eu des visions. J'ai vu des bassins baignés de rayons de soleil colorés. D'étranges cascades semblaient monter vers les cieux avant de retomber."
+
+Elle lève les mains comme pour encadrer sa vision. "Et derrière ces cascades se trouvait une grotte. Remplie de feu, de chaleur et de danger... Et un vestige de ma déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Eh bien, je ne peux me permettre tant de nonchalance. Mais je suppose que Magran finira par me parler à nouveau." Elle fronce les sourcils et jette un rapide coup d'œil dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Elle acquiesce, pleine d'espoir, et serre les mains. "Vous avez raison. Et je pense que c'était là Magran qui me parlait." Elle jette un rapide coup d'œil dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"J'aimerais en savoir plus sur ce temple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Magran est la déesse la plus vénérée par les habitants de Dyrwood et rien d'étonnant à ce que son temple fasse partie du palais ducal. Ses feux symbolisent les épreuves, les révolutions et l'éclat des nouvelles voies, tous importants pour nous."
+
+Elle fait des gestes en direction de la statue. "C'est le premier des bûchers sacrés. Lorsqu'il est allumé, les autres bûchers situés autour de la ville le sont également."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Quelle est la signification des bûchers sacrés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ils symbolisent la puissance et la présence de Magran. Et plus que jamais, les habitants de la Baie du défi ont besoin d'être assurés de sa présence." Elle croise les bras et fixe la statue.
+
+"Nos voisins des Républiques de Vailia nous croient superstitieux, mais nous sommes juste sensibles aux signes et aux avertissements des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ils symbolisent la puissance et la présence de Magran. Et plus que jamais, les habitants de la Baie du défi ont besoin d'être assurés de sa présence." Elle croise les bras et fixe la statue.
+
+"Vous, les Vailiens, vous nous croyez superstitieux, mais nous sommes juste sensibles aux signes et aux avertissements des dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Voyez-vous toujours ces cascades dans vos visions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Elle parle d'une voix basse et posée. "Oui... De même que la grotte et... Quelque chose à l'intérieur. Des braises incandescentes de foi gardées par un terrible danger. J'aimerais pouvoir y aller moi-même." Elle lance un regard coupable en direction de la statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Elle prend la pierre entre les mains et souffle. "Par la flamme ! Savez-vous ce dont il s'agit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"C'est un fragment de la bombe Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Quoi que ce soit, visiblement, j'aurais dû le garder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Elle la tourne entre ses mains. "C'est un fragment de la bombe Marteau divin. L'arme utilisée par Magran pour nous aider à vaincre Waidwen lors de la guerre du Saint."
+
+Elle tourne la pierre entre ses mains, admirant son éclat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Oui." Elle la tourne entre ses mains. "L'arme utilisée par Magran pour nous aider à vaincre Waidwen lors de la guerre du Saint."
+
+Elle tourne la pierre entre ses mains, admirant son éclat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Elle prend un air désapprobateur et la lumière orange dessine des ombres sur son visage. "Pourquoi est-ce que je ne me sens pas différente ? Qu'est-ce que cela apporte-t-il ?"
+
+Ses articulations blanchissent alors qu'elle serre la pierre entre les doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous tenez entre les mains le fragment d'une arme créée par un dieu. L'existence d'une telle chose devrait susciter du respect en vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Magran est la déesse des épreuves et vous me demandez de poursuivre la vision qu'elle a partagée avec vous. Vous n'avez donc plus la foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je ne sais pas quoi vous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Son visage se détend et ses yeux sont captivés par la chose brillante qu'elle tient entre les mains. "Vraiment. Ce n'est pas une réponse... mais ce n'est pas dénué de sens." Elle serre la pierre dans ses mains et la range. "J'avais oublié combien c'est important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Elle a confié le Marteau divin à ses fidèles. Peut-être les croit-elle capables de mettre fin à l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"La transformation par l'épreuve." Elle tourne la pierre entre ses mains. "Ce n'est facile de répondre. Mais je n'attendais pas moins de la part d'une déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Son expression traduit une certaine angoisse. "Était-ce un test ? Ou la preuve de ce que Magran savait déjà ?" Elle range la pierre. "Je crois que je le savais... Mais j'espérais une autre réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Peut-être n'y a-t-il pas de réponse. Pour nous, mortels, en tout cas." Elle ferme les doigts autour de la pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Elle regarde tristement la statue aux mains vides. "C'est là le véritable fardeau de la foi. Pas le défi d'une déesse, mais son absence. Son silence. Ou la réponse qui révèle votre fausse conviction."
+
+Elle croise les bras devant elle. "Il faudra des semaines pour nommer un successeur qui convient. Dans l'interlude, je ferai de mon mieux pour servir les gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Alors qu'elle regarde la statue, une flamme surgit de sa main levée. "J'ai toujours apprécié l'affinité de Magran avec le feu. La manière dont il grandit et se propage." Vous sentez la chaleur du feu onduler dans la pièce.
+
+"Vous m'avez donné ce dont j'avais besoin. Je veillerai à apporter aux habitants de la Baie du défi le soutien dont ils ont besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Durance grogne d'un air dédaigneux. "Quelle force tirons-nous de l'adversité ? De la mise à l'épreuve ?"
+
+"Les feux ne faiblissent pas en raison de son manque de foi. Ils faiblissent car elle ne comprend pas comment être fidèle à une catin."
+
+"Une catin n'attend ni éloge ni dévotion. Une catin entend être dédommagée pour ses services et Magran se fait payer en transpiration et en souffrance. Cette... imbécile n'est pas digne de la chaleur de Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Hnh. Elle ne vaut pas mieux que les fidèles de Magran. Apeurée par les épreuves de son dieu. Si Magran s'adresse à elle, c'est pour précipiter la fin d'une vie d'hypocrite et cette vision n'est qu'un piège mortel pour les faibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je ne sais pas si elle apprécierait que quelqu'un d'autre suive ses rêves. Mais les routes ne sont sûres pour personne de nos jours. Il serait peut-être mieux que nous nous en chargions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Le front peinturluré de Sagani se plisse. "Une mission incertaine à l'issue aléatoire. Je peux comprendre son trouble. Cela étant, c'est étrange qu'elle nous envoie alors que la vision est bien la sienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je n'accorde que très peu de confiance aux visions, je l'admets, mais celle-ci m'intrigue." Kana sourit à pleines dents. "Peut-être obtiendrons-nous cette faveur. Je suis certain que Fyrga apprécierait et il est possible que Magran regarde d'un œil favorable nos propres épreuves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"C'est bizarre de la voir sous nos yeux comme ça. Avant ce n'était... que des histoires. Rien de réel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"L'œuvre des dieux et des être civilisés. "Kana regarde la pierre d'un air songeur. "Ce n'est pas une petite relique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"C'est bizarre de la voir sous nos yeux comme ça. Avant ce n'était... que des histoires. Rien de réel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"À Rauatai, nous avons des canons, des explosifs, des bombes... mais c'est une autre affaire." Kana regarde la pierre d'un air songeur. "Un morceau d'histoire. N'est-ce pas le signe que vous cherchiez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Hnh. Une signification. Elle n'a aucune idée de ce que cela signifie. De ce que cela représente. De ce dont elle est imprégnée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"L'épreuve de chacun arrive. Il est impossible de l'éviter. L'éviter, c'est échouer. Sa faiblesse s'affiche alors que la relique brille. Peut-être a-t-elle porté la robe de Magran, mais elle ne l'a jamais suivie."
+
+"Elle est perdue dans l'obscurité. N'oubliez pas à quoi cela ressemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Cette femme n'a pas été mise à l'épreuve ! Si nous étions seuls, je veillerais à instiller une RÉELLE transformation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Rien pour ceux qui ne se soumettent pas librement à l'épreuve ou n'ont pas la chance d'y être soumis."
+
+"Elle ressemble à une robe vide, rejetée par un dieu EXIGEANT vis-à-vis de ses fidèles. Si Magran a une once de pitié, elle l'éliminera sans ménagement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Et maintenant, permettez-moi de vous donner quelque chose dont vous pourriez avoir besoin." Elle disparaît avant de revenir rapidement avec quelque chose entre les mains. "Une arme digne de la déesse. Veuillez accepter ceci en guise de remerciement pour le service que vous avez rendu à Magran. Et à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Elle soupire à nouveau. "Attendez ici quelques instants." Elle disparaît avant de revenir rapidement avec quelque chose entre les mains. "Je ne suis plus en mesure de me servir de ceci, mais cela vous sera peut-être utile. De plus, je tiens à vous remercier pour ce que vous avez fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Heureusement, non. Maintenant que ma foi est revenue, mes rêves sont paisibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"J'y ai souvent réfléchi au point de m'interroger sur ce que j'aurai pu faire différemment. Mais non, je crains que Magran ait tout simplement cessé de me parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Merci. Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je sais qu'il se trame quelque chose là-bas. Mais où et comment m'y rendre..." Elle secoue la tête.
+
+"J'ai bien pensé me rendre à la salle des expéditions pour voir si quelqu'un connaissait cet endroit. Mais à vrai dire, je ne sais pas ce que je ferais si j'obtenais une réponse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Je n'accorde que très peu de confiance aux visions, mais... peut-être pourrions-nous l'aider, [Player Name]. Je donnerais beaucoup pour obtenir une réponse à mes propres doutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Elle a les cheveux en bataille et les yeux vides de quelqu'un en manque de sommeil. "Je crains que nous n'ayons plus ni bandages ni onguents, mais ces portes resteront ouvertes à tous ceux qui cherchent des conseils ou un refuge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Elle vous tend un sourire creux. "Par où dois-je commencer ? Les émeutiers ont bien failli brûler la ville et maintenant, les gens se tournent vers moi pour obtenir des réponses. Comme si je m'y connaissais en politique. Ou en maintien de la paix. Juste parce qu'il y a eu des incendies..."
+
+Elle secoue la tête. "Et pour couronner le tout, les feux sacrés sont toujours éteints. J'essaie de dire aux gens qu'ils sont purement symboliques, mais cela n'a pas l'air de faire la moindre différence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"La transformation par l'épreuve." Elle tourne la pierre entre ses mains. "Nous en avons certainement vu les prémisses au cours des journées passées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Vous poursuivez les plus profonds mystères du monde, n'est-ce pas ? Peut-être comprendrez-vous ce que je m'apprête à vous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

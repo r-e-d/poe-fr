@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_iwen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"C'est Alarhî qui s'occupe de tout. Je ne suis que son apprentie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Une fillette regarde le marché d'un air distrait. À votre approche, elle se redresse. 
+
+"Bienvenue, estramor !", dit-elle en vous faisant une révérence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Bonjour, estramor. Vous avez besoin d'un remède ou d'un cataplasme pour soulager vos maux ?" La fillette vous montre un présentoir. "J'ai de quoi satisfaire n'importe quel herboriste. N'hésitez pas à jeter un coup d'œil !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Alarhî n'est pas là. En son absence, c'est moi qui tiens la boutique." Elle vous montre les présentoirs de cataplasmes et de remèdes. "Si vous cherchez des herbes, des teintures, des huiles ou des onguents, vous n'aurez ici que l'embarras du choix !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Montrez-moi vos produits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Elle affiche un large sourire. "Bien sûr ! Je vous laisse regarder..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je cherche Alarhî. Où puis-je la trouver ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Elle vit non loin d'ici." La fillette désigne la sortie du marché. "Montez les marches. En haut de l'escalier, il y a un cercle de ruines. Vous voyez de quoi je parle ? C'est au nord de Hearthsong. Sa maison se trouve juste là, en face des ruines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bienvenue, estramor. Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

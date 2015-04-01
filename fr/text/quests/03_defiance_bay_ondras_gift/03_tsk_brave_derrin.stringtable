@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_brave_derrin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Derrin le courageux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retrouvez Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parlez à Odda du destin de Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrouvez les meurtriers de Derrin. (Facultatif)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Dites à Odda que vous avez tué les meurtriers de Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retrouvez la famille de Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un jeune garçon est porté disparu dans la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le fils d'Odda, Derrin, a disparu depuis deux jours. Elle doit s'occuper de son enfant sans-âme à la maison, alors elle m'a demandé de le rechercher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai retrouvé le corps de Derrin. Son âme a révélé qu'il défendait une prostituée contre des voyous près du Mât salé. Ils l'ont assassiné et ont abandonné son corps sous un quai.
+
+Odda voudra savoir ce qui s'est passé.
+
+Je peux également pourchasser les meurtriers de Derrin et m'occuper d'eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Les meurtriers de Derrin font partie des gens qui harcelent les prostituées et les clients du Mât salé.
+
+Si je veux rendre justice à Derrin, je pourrais probablement les retrouver près de la maison close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai confronté Bragan avec la preuve de son implication dans la mort de Derrin. Lui et son ami m'ont attaqué, mais je les ai tués tous les deux.
+
+Cela pourra apporter un peu de réconfort à Odda de savoir que les meurtriers de Derrin sont morts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai découvert le cadavre d'un jeune garçon dans les canaux près de la maison close dans la Faveur d'Ondra. Sa famille voudra connaître son destin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Odda a vu Derrin pour la dernière fois lorsqu'il est parti avec son père à la pêche sur les quais. Peut-être devrais-je parler avec les marins et les pêcheurs de la Faveur d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai entendu des rumeurs selon lesquelles le père de Derrin fréquente le Mât salé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai retrouvé le père de Derrin. Il a laissé le garçon pour un verre rapide et a perdu sa trace. Il a trop honte pour retourner à la maison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Marceno, un matelot local, m'a dit que Derrin est venu il y a quelques jours pour lui demander de jouer sur le bateau. Marceno a refusé et a vu l'enfant se diriger vers le Mât salé, une maison close locale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Imatl m'a dit que Derrin aimait jouer autour des bateaux sur les quais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai ramassé une dague avec la lettre 'B' gravée dessus. Elle a sûrement appartenu au meurtrier de Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai tué Bragan et ses hommes de main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai confronté Bragan avec la preuve de son implication dans la mort de Derrin. J'ai accepté sa proposition de ne pas parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai ramassé un poignard avec la lettre 'B' gravée dessus. Elle a sûrement appartenu au meurtrier de Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai tué Bragan et ses hommes de main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai confronté Bragan avec la preuve de son implication dans la mort de Derrin. J'ai accepté sa proposition de ne pas parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai retrouvé Weyd, le père de Derrin, au Mât salé. Il semblait être là depuis un bon moment. Odda, la mère de Derrin, vit à la Faveur d'Ondra. Je dois absolument la trouver pour lui donner des nouvelles de son fils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Odda pense à tord que Derrin est parti sur un bateau vers une nouvelle vie. Il vaut mieux qu'elle ne sache pas la vérité à propos de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Odda était dévastée par la nouvelle du meurtre de Derrin, mais au moins elle sait ce qui lui est arrivé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai parlé à Weyd de la disparition de son fils et je l'ai forcé à retourner voir sa femme avec ces informations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai pu localiser les voyous qui ont tué Derrin et j'ai terminé ce que le jeune garçon avait commencé en les tuant. J'ai dit à Odda que son âme repose en paix, et elle m'a donné de l'argent qu'elle avait mis de côté pour Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai menti à Weyd à propos de la disparition de Derrin et lui ai dit qu'il était parti sur un bateau vers une destination lointaine. Je l'ai forcé à aller annoncer la nouvelle à sa femme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai réussi à retrouver les assassins de Derrin, mais j'ai épargné la famille de la disparition de leur fils et continue de leur cacher sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai tué Odda, mettant un terme à ses souffrances.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

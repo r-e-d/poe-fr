@@ -1,1 +1,1 @@
-# poe-fr
+# Pillars of Eternity: French translations update

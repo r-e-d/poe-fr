@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_icantha_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous, vous n'êtes pas un des serviteurs d'Icantha. Je vous en prie, sortez-nous de là avant qu'elle ne se nourrisse de nous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Que vous est-il arrivé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nous nous occupons juste de l'entretien. Lorsque le quartier a sombré dans le chaos, Icantha nous a accueillis, en disant que nous serions en sécurité jusqu'à ce que les Chevaliers reprennent le contrôle de la situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Au lieu de cela, elle nous a enfermés ici. Chaque semaine l'un de ces monstres qui la sert vient et emporte l'un d'entre nous."
+
+"Je ne sais pas ce qu'elle fait, mais on entend parfois les cris..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Est-ce que la voie est libre maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je vous en prie sortez-nous de là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Restez ici pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"La voie vers la sortie du quartier devrait être sécurisée. Allez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Mentez] "Vous ne pouvez pas fuir le quartier, mais le haut de la tour est sûr. Aldhelm s'occupera de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je voudrais que l'on puisse abandonner la Colline de l'Héritage, mais même la tour doit être plus accueillante qu'ici. Merci !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Merci ! Nous n'oublierons jamais cela !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

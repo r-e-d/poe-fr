@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_bs_vignettes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Êtes-vous prêt à prêter serment ? À propager la parole des dieux envers les égarés et les païens ?"</DefaultText>
+      <FemaleText>"Êtes-vous prête à prêter serment ? À propager la parole des dieux envers les égarés et les païens ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vous fais confiance pour rester loyal envers les dieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je ne vous demanderais pas cela s'il y a avait un autre choix..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"C'est un missionnaire, comme je l'étais. Il enseignait les mauvaises choses, comme moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sinon, vous devrez répondre à de plus hautes autorités que moi. Mais vous me répondrez également."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ossionous... ils ont repoussé des apprentis envahisseurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes prêt à faire une confession ?"</DefaultText>
+      <FemaleText>"Vous êtes prête à faire une confession ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je suis prête... à en entendre une... de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

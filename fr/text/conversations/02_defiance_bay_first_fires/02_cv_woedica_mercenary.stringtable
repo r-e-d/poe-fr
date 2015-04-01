@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_woedica_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le mercenaire vous regarde approcher, circonspect et prêt à dégainer son arme. "Que faites-vous ici ? Vous ne semblez pas faire partie de ces gens masqués."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du calme. Comment saurais-je qu'il me faut être ici si je n'en faisais pas partie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'est-ce qui se passe ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Si vous ne le savez pas, c'est donc que vous n'êtes pas d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Il réfléchit, puis acquiesce. "Très bien, alors. Allez voir l'Acolyte et elle vous donnera votre mission. La réunion qui se tient dans la grande salle est sur le point de se terminer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Le garde siffle brusquement et vous entendez des cris au loin...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Savez-vous ce qui se passe ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Un conseil, ne posez pas de questions. Contentez-vous de faire ce qu'on vous demande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Que savez-vous sur cet endroit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Il secoue la tête. "Si je ne m'abuse, nous sommes sous les Premiers feux. Probablement sous ce temple en ruine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Attaquez] "Vous avez raison, mais là encore, je vais où je veux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Faites vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Le mercenaire regarde ses pieds. "Je vous en prie, allez-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Il évite de vous regarder. "Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Qu'est-ce qui se passe ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Parlez-moi de cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Il lève les mains. "Je n'en ai aucune idée, je vous l'assure. Nous montons la garde et surveillons les intrus, sur ordre de votre Acolyte. Nous ne posons pas de questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Si je ne m'abuse, nous sommes sous les Premiers feux. Probablement sous ce temple en ruine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous avez besoin d'autre chose ? Je crois que cela a déjà commencé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"J'ai laissé mon masque à l'intérieur. Laissez-moi passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Attention à vous, Gardien. Cet esprit est tranchant... il cherche à savoir ce que vous avez en tête..."</DefaultText>
+      <FemaleText>"Attention à vous, Gardienne. Cet esprit est tranchant... il cherche à savoir ce que vous avez en tête..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Le mercenaire regarde ses pieds. "Je vous en prie, continuez." Il regarde les autres membres du groupe. "Vous savez que l'Acolyte n'apprécie guère les invités. J'aimerais que vos amis restent à l'extérieur de la pièce principale."
+
+Il traîne des pieds. "Elle est déjà de mauvaise humeur suite à une arrivée tardive. Inutile d'en rajouter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Donnez 350 pc.] "Vous devriez peut-être regarder ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Il se gratte la main moite. "Ce qui se passe ici ne me regarde pas. Mes hommes vous laisseront en paix, mais je ne réponds pas de ces êtres masqués à l'arrière."
+
+Il se saisit de l'argent que vous lui offrez et détourne le regard. "Vous êtes seul, n'est-ce pas ? Je ne vous ai pas vu et je ne vous connais pas."</DefaultText>
+      <FemaleText>Il se gratte la main moite. "Ce qui se passe ici ne me regarde pas. Mes hommes vous laisseront en paix, mais je ne réponds pas de ces êtres masqués à l'arrière."
+
+Il se saisit de l'argent que vous lui offrez et détourne le regard. "Vous êtes seule, n'est-ce pas ? Je ne vous ai pas vue et je ne vous connais pas."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

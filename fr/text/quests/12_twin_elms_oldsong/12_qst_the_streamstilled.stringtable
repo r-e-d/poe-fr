@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_the_streamstilled</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dans le Néant blanc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez Noonfrost aux Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Localisez la Brèche taillée dans le givre à Noonfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Refermez la Brèche taillée dans le givre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez à Teir Evron, aux Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez à Teir Evron, aux Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rymrgand m'a montré une porte, la Brèche taillée dans le givre, et les Elfes pâles essaient de l'ouvrir. Au cours de cette vision, les elfes s'effondraient dans la neige et j'ai refermé la porte à l'aide d'un morceau de cristal que j'ai conservé après ce rêve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La Brèche taillée dans le givre semble faire partie d'un temple appelé Noonfrost. Si je réussis à localiser le lieu de culte de Rymrgand aux Ormes jumeaux, peut-être trouverai-je la signification de cette vision.
+
+Les habitants du coin doivent en savoir plus sur cet endroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé Noonfrost, le temple de Rymrgand à Oldsong. La Brèche taillée dans le givre doit être ici. Lorsque je l'aurai trouvée, je pourrai utiliser le morceau de glace de ma vision pour la refermer conformément aux souhaits de Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai finalement réussi à trouver la Brèche taillée dans le givre. En insérant le morceau de cristal dans la porte gelée, je la refermerai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai mené à bien la tâche confiée par Rymrgand. Maintenant, je vais pouvoir retourner à Teir Evron afin d'obtenir sa bénédiction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai donné le morceau de glace à Glasvahl, ce qui lui a permis d'accéder au Néant blanc. Puisque que je n'ai plus le morceau de glace et que la Brèche taillée dans le givre est toujours ouverte, il ne me reste plus qu'à retourner voir Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Noonfrost se trouve à Oldsong. Apparemment, le lac y est gelé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>À Noonfrost, j'ai fermé la Brèche taillée dans le givre et empêché Glaswal et son clan de s'y introduire. Rymrgand, Ondra et Skaen ont été ravis et ont promis de m'aider à descendre dans la fosse de l'Ombre ensoleillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai autorisé Glaswal et son clan à s'introduire dans la Brèche taillée dans le givre et persuadé Rymrgand que cela l'honorait. Rymrgand, Ondra et Skaen ont promis de m'aider à descendre dans la fosse de l'Ombre ensoleillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai autorisé Glaswal et son clan à s'introduire dans la Brèche taillée dans le givre. Rymrgand n'a pas apprécié et a refusé de m'aider. Je vais devoir me tourner vers un autre dieu pour obtenir de l'aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

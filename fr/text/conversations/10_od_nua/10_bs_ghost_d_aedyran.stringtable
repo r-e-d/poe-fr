@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\10_bs_ghost_d_aedyran</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ils sont trop nombreux. Ils vont nous écraser !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je sais ce qu'a ordonné le comte, mais nous ne pouvons pas rester ici ! Vous ne les entendez pas ? Vous nous envoyez à la mort !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Soyez maudit, Gyrbrandr, vous n'êtes qu'un assassin ! J'espère que les bêtes vous captureront vivant !" </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

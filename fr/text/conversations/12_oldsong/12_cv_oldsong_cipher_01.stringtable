@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_oldsong_cipher_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je donne un cours, estramor. Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Montrez le soleil en acier.] "Êtes-vous un clairvoyant ? J'aimerais en savoir plus sur quelqu'un qui a probablement touché ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Rien. Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Les yeux de l'orlan examinent les contours du soleil ornemental. De temps en temps, il s'attarde sur des détails cachés et pousse des grognements admiratifs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je trouve que les travaux pratiques sont bien plus instructifs que les cours magistraux. Finalement, nous allons peut-être progresser aujourd'hui." 
+
+Il regarde son élève du coin de l'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Regardez bien". 
+
+Il prend la relique dans ses mains et ses paupières commencent à battre involontairement tandis que ses élèves l'observent attentivement. Pendant quelques instants, vous avez l'impression qu'un insecte frétillant est en train de s'introduire dans votre canal auditif, puis vous sentez la présence du chasseur d'esprits planer sur votre conscience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Venez. Je vais vous montrer le chemin". La voix résonne à travers les canaux de votre esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Cette leçon s'est révélée très intéressante pour mon jeune élève. Je vous suis reconnaissant d'être venu me trouver."</DefaultText>
+      <FemaleText>"Cette leçon s'est révélée très intéressante pour mon jeune élève. Je vous suis reconnaissant d'être venue me trouver."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

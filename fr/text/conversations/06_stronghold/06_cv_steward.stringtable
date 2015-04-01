@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_steward</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"J'ai senti la mort de Maerwald. Vous avez mis fin à sa vie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qu'il est bon de vous revoir, mon seigneur. Je peux déjà ressentir un changement dans l'air. Il y a beaucoup à faire." 
+
+"Y a-t-il quelque chose que je puisse faire ?</DefaultText>
+      <FemaleText>"Qu'il est bon de vous revoir, ma dame. Je peux déjà ressentir un changement dans l'air. Il y a beaucoup à faire." 
+
+"Y a-t-il quelque chose que je puisse faire ?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Qu'est-ce que cela signifie d''être le maître de Caed Nua ?"</DefaultText>
+      <FemaleText>"Qu'est-ce que cela signifie d''être la maîtresse de Caed Nua ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Eh bien, entretnir un donjon n'est pas une mince affaire... C'est à vous de décider à quel point vous souhaitez vous impliquer, bien sûr. La raison partielle pour laquelle je suis ici est de m'assurer que les choses fonctionnent harmonieusement en votre absence, pour autant que l'on en a reçu l'ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Que vouliez-vous dire par "risques" ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Chaque effort pour s'installer ici a échoué, depuis l'époque de nos colons aedyrans. Les créatures émanent des Chemins Infinis, jusqu'à ce que le nouveau seigneur ou que la nouvelle dame ne soit plus. Celui qui habite en bas, ce... « Maître », ne tolère aucun rival, semble-t-il. J'ai vu, de temps à autre, d'intrépides explorateurs s'engouffrer dans les profondeurs pour obtenir des réponses... mais ne jamais revenir."
+
+"C'est cette force qui a conservé Caed Nua comme ruine aride... et qui m'a ôté tout espoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Que sont les Chemins infinis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Qui est le Maître des profondeurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Mais ne suis-je pas le maître de Caed Nua ?"</DefaultText>
+      <FemaleText>"Mais ne suis-je pas la maîtresse de Caed Nua ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Les Chemins infinis d'Od Nua. C'est le nom donné au labyrinthe sous le donjon. Le comte, euh... Nous étions prévenus, par les Glanfathans, que ce site était maudit. Et une légende y est liée, bien qu'à l'époque nous n'en pensions rien du tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Personne ne sait jusqu'où descendent les tunnels, et peu qui s'y sont aventurés en sont revenus. On parle de richesses et de trésors... la promesse de reliques engwithanes a attiré nombre chasseurs de trésors. C'est leur mort qu'ils auront trouvé, je le crains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Il ne doit pas rester grand-chose de son œuvre, car les ruines sont là depuis au moins mille ans. Mais ce qui reste est... impressionnant. Le comte pensait certainement la même chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Alors je devrais rechercher et vaincre ce 'Maître des profondeurs'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Si vous réussissez, votre nom sera connu à travers tout Dyrwood. Vous serez le seul maître de Caed Nua, et restaurerez son nom prestigieux. Et je me souviendrai de vous pour cela, ma seigneur, aussi longtemps qu'une seule pierre de Caed Nua tiendra debout."</DefaultText>
+      <FemaleText>"Si vous réussissez, votre nom sera connu à travers tout Dyrwood. Vous serez la seule maîtresse de Caed Nua, et restaurerez son nom prestigieux. Et je me souviendrai de vous pour cela, ma dame, aussi longtemps qu'une seule pierre de Caed Nua tiendra debout."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Partez.] "Il est temps de trouver cette « reine » dans la « cité du défi »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je pourrais... prendre des dispositions pour la réparation, si vous le souhaitez. Lorsque ce ne fut plus la volonté du précédent maître, je me suis retrouvé impuissant. Et que suis-je sinon l'instrument du maître ?"
+
+"Cela prendrait du temps, mais bien moins que de trouver une autre route vers la Baie du défi."</DefaultText>
+      <FemaleText>"Je pourrais... prendre des dispositions pour la réparation, si vous le souhaitez. Lorsque ce ne fut plus la volonté du précédent maître, je me suis retrouvé impuissant. Et que suis-je sinon l'instrument du maître ?"
+
+"Cela prendrait du temps, mais bien moins que de trouver une autre route vers la Baie du défi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Dans quel état est le donjon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ah, par où commencer ? Voyons par ici..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>En arrivant au bout du grand hall, vous percevez une chaleur invitante rayonnant d'un grand trône construit en marbre, avec un raffinement artistique incongru au beau milieu des ouvrages de pierre pragmatiques du château. Un visage voilé est sculpté en relief dans le dos du trône, surveillant la pièce avec des yeux creux.
+
+À votre approche, vous sentez la chaleur fluctuer, bien qu'entraînante. Une voix retentit de la sculpture, s'infiltrant dans la forteresse à travers la pierre et l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Moi aussi. Si vous le trouvez, je serai heureux de l'apprendre. Chaque jour, son absence dépose de la poussière dans mes salles, révèle de nouvelles fissures sur mes pierres. C'est bien dommage. Le comte ne l'aurait jamais permis."
+
+"Vous êtes libre de le rechercher ici. Je vais libérer le passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous disiez qu'il s'agit de vos salles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ce n'est pas une relation semblable à celle qu'il existe entre une terre et son seigneur, mais plutôt celle qui lie un enfant à sa mère. J'ai conçu ce château, voyez-vous. Le comte m'en a confié la tâche. Je commençais... à vieillir. Je savais qu'il s'agissait de ma seule chance de construire quelque chose de magnifique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Parlez-moi de Maerwald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"C'était un grand homme. Il est venu ici un jour, jeune avec de longs cheveux et une armure étincelante, et a banni toutes les créatures ténébreuses qui se tapissaient dans ce lieu après des siècles de négligence."
+
+"Il percevait la beauté de ce lieu. Sa beauté d'antan. Alors il se l'est approprié alors que personne n'en voulait. Nous avons travaillé ensemble pour le restaurer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Une idée de l'endroit où je peux trouver Maerwald ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je ressens sa présence faiblement quelque part à l'intérieur du donjon. Mais il utilise ses dons pour me perturber et mes sens sont obscurcis depuis. Je voudrais seulement connaître ses raisons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Le Gardien revient. Enfin, l'un d'eux, au moins. Avez-vous réussi à trouver Maerwald ?"</DefaultText>
+      <FemaleText>"La Gardienne revient. Enfin, l'un d'eux, au moins. Avez-vous réussi à trouver Maerwald ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>L'air semble tout à coup se charger d'énergie. "Je vois."
+
+"Si c'est la Baie du défi que vous cherchez, je suis désolé de vous dire que vous avez fait un long chemin pour rien. La barbacane orientale s'est effondrée il y a des années, et Maerwald n'a jamais pu la reconstruire. La route qui arrive ici est une impasse. Il a juste pu rassembler les matériaux avant que son esprit ne devienne... préoccupé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Comment puis-je réparer la barbacane ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Maerwald a mis des matériaux de côté pour la barbacane, et ils n'attendent que vous. Si vous souhaitez, à l'avenir, effectuer des réparations supplémentaires dans le donjon, nous aurons besoin d'argent pour les matériaux et la main d'œuvre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Maerwald a gardé un registre, apparemment, et j'ai pris la liberté de le mettre à jour... Vous pourriez y jeter un œil si vous le souhaitez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Oui ? Comment puis-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous... vous l'avez fait. J'ai ressenti le changement d'ici. C'est comme s'il y avait un bruit, une voix, soulignant chaque son dans le donjon et j'ai tout simplement cessé de le remarquer... Le silence semble à présent presque étrange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Mon seigneur, il semble que vous avez reçu une lettre. D'une personne plutôt déplaisante, je dois dire. Quoi qu'il en soit, je l'ai ici, et je peux vous en communiquer le contenu si vous le souhaitez."</DefaultText>
+      <FemaleText>"Ma dame, il semble que vous avez reçu une lettre. D'une personne plutôt déplaisante, je dois dire. Quoi qu'il en soit, je l'ai ici, et je peux vous en communiquer le contenu si vous le souhaitez."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Que voulait le messager ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ne me dérangez pas avec cela pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vous lancer un défi, semble-t-il. Pas le sien, mais au nom de son seigneur. J'ai bien peur que vous ayez un ennemi. Ce seigneur Raedric semble être très en colère avec vous." 
+
+"Il exige que vous l'affrontiez dans son donjon, et a menacé d'attaquer Caed Nua à défaut. Il a un certain sens du dramatique, je dois dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"À propos de cette mystérieuse missive..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Oh, oui... voulez-vous que je relaie le message maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Bien sûr, bien sûr. Une autre fois, peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Un autre Gardien à Caed Nua. Brillant très fortement à ces yeux. Quel étrange hasard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je cherche Maerwald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"De quel comte parliez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Êtes-vous emprisonné dans ce trône ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je n'ai pas pu me résoudre à le quitter après sa construction. Repartir vers ma maison solitaire. J'ai supplié le comte de me laisser rester, d'en prendre soin. C'était tout ce que je voulais, et il me l'a accordé."
+
+"Des années plus tard, lorsque l'huissier de Berath est enfin venu, j'ai supplié le comte de trouver un moyen de me laisser y demeurer. Ce qu'il fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Mais il commença à être plus distant il y a quelques temps. Il ne m'a jamais dit pourquoi. Il s'est retiré de plus en plus profondément dans le donjon, ne le quittant jamais, envoyant des serviteurs chercher de la nourriture, se cachant de ma vue. Les restaurations ont cessé." La voix soupire de nostalgie.
+
+"Quand on regarde le lieu, on ne se rend pas compte des progrès que l'on a fait. Dans la plupart des pièces, c'est pire que jamais. Et tout ce que je peux faire, c'est de le regarder s'écrouler autour de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Le comte de Yenwood. Le premier, en fait, lorsque Dyrwood était une colonie. Il a trouvé ce site, la seule ruine qu'Eir Glanfath a refusé de défendre, et il pensait que la fortune qu'elle renfermait serait immense. Le donjon était sa manière de défendre la part de sa famille, et ceci devint une obsession. Il devait savoir ce qu'il y avait en dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Emprisonné ? C'est parfois l'impression que cela donne, je suppose. Mais je dirais plus que je réside ici."
+
+"Le trône a été ramené des ruines. Une des premières choses qu'ils ont trouvé. Comme une dernière faveur à un homme mourant, le comte a obtenu que j'y emménage. L'adra est un vaisseau accueillant pour une âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Il a dévoué sa vie à creuser les ruines sous le donjon. Elles ont été scellées dans la roche et le sol. Délibérément, il semblerait."
+
+"Les années se sont écoulés, et avec elles le comte. Il a creusé toute sa vie et n'a jamais trouvé ce qu'il cherchait. Son obsession devint celle de son fils, et celle du fils de son fils. Et un jour, ce jeune comte est arrivé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Qu'a-t-il trouvé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je voudrais vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Un labyrinthe infini, incompréhensible dans sa construction. Mais il n'a jamais réussi à en savoir plus. De viles créatures ont élu résidence ici. Viles et dangereuses. Elles se sont déversées à travers le donjon et ont tué ses résidents, y compris le comte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Après cela le donjon est resté abandonné. Inutilisé. Délabré. La maîtrise qu'exerçait Maerwald sur cet endroit fut le premier espoir que j'ai eu en deux cents ans. J'attendais depuis si longtemps de voir ce lieu resplendir à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Oh, ce n'est pas aussi confiné que ça y paraît. Je ressens tout le donjon depuis ici, et tout ce qui y est lié. Il y a quelque chose à propos de ce trône et de sa construction. Ou peut-être est-ce ce lieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je ne peux que deviner pourquoi tout ceci a eu lieu. Je crains d'avoir contrarié les dieux, en plaçant cet endroit ici, et ils m'ont maudit pour que je le regarde disparaître. Pour témoigner de ma propre folie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Il ne m'a pas donné le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Le vieux misérable aboyait comme un fou. Je lui ai fait une faveur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"À plusieurs d'entre elles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>L'intendant est un moment silencieux. L'air semble se rafraîchir.
+
+"Cela m'attriste de l'apprendre. Mais une partie de moi se réjouit de ne plus avoir à attendre ou se soucier des ténèbres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Cet endroit a toujours connu son maître, aussi longtemps qu'il en a eu un. Il a sa propre volonté, qui a peu à voir avec le château et beaucoup à voir avec le terrain sur lequel il est bâti. Il vous considère maintenant comme le successeur de Maerwald, que vous vous en souciez ou non."
+
+"Un honneur redoutable, hériter d'une forteresse à la fois en ruine et maudite. Mais dans de bonnes mains elle pourrait être tellement plus ! Si seulement vous l'aviez vue dans ses beaux jours."
+
+"Vous allez rester, dites ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Maerwald a dit que je dois me rendre dans la « cité du défi » à la recherche de « la reine »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Il faut que vous le sachiez, cette reine que vous cherchez... La Baie du défi n'a pas de reine. Les mecwyns d'Aedyr n'ont pas régné ici depuis la guerre."
+
+"La seule reine avec un quelconque pouvoir qui soit est Woedica. On m'a dit qu'ils avaient érigé là un temple magnifique en son honneur, mais je n'ai jamais eu la chance de le voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Faites attention lors de vos recherches. De nombreux dangers vous attendent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Caed Nua restera vôtre. Ce... pourrait être à nouveau extraordinaire... si vous le vouliez. Si nous devons reconstruire, vous verrez rapidement que les gens seront à votre service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ce n'est pas possible. Seigneur Raedric est mort. Je l'ai constaté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"C'est une ruse, à n'en point douter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je relève toujours un défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Oh, le messager était on ne peut plus clair. Ou peut-être devrais-je dire que la lettre l'était. Regardez par vous-même, si vous voulez." 
+
+"Je suppose qu'il pourrait s'agir d'une sorte de plaisanterie. De mauvais goût qui plus est, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Y avait-il quoi que ce soit d'autre que je puisse faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Qui parle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vous savez ce que je suis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je suis désolé si je vous ai troublé. J'ai bien peur d'avoir perdu mes bonnes manières. Je n'ai pas eu beaucoup d'occasions de socialiser, récemment." 
+
+"Mais peu importe, je suppose que vous êtes à la recherche de Maerwald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"On pourrait difficilement le manquer. Vous brûlez comme une chandelle. Bien sûr, je sais aussi quoi chercher."
+
+"Mais peu importe, je suppose que vous êtes là à la recherche de Maerwald ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"J'ai toujours rêvé d'avoir mon propre donjon. Même s'il est un peu maudit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"En effet, il n'a pas l'air d'être du genre à qui on dit 'non'. J'espère que vous serez prudent, mon seigneur. J'ignore pourquoi cet homme vous veut du mal, mais il semble assez déterminé."</DefaultText>
+      <FemaleText>"En effet, il n'a pas l'air d'être du genre à qui on dit 'non'. J'espère que vous serez prudente, ma dame. J'ignore pourquoi cet homme vous veut du mal, mais il semble assez déterminé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"C'est ce que j'ai appris. Je suis sûr que vous l'emporterez, mais j'espère que pour autant vous prendrez vos précautions. Il a vraiment l'air de vouloir vous faire du mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Que faire d'une ruine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>L'air semble tout à coup se charger d'énergie. "La... la décision vous appartient, évidemment."
+
+"Le donjon vous reconnaît tout de même comme son maître. À un moment donné, ce pourrait être un endroit dont vous seriez fier." 
+
+"Il a simplement besoin d'une main qui le guide."</DefaultText>
+      <FemaleText>L'air semble tout à coup se charger d'énergie. "La... la décision vous appartient, évidemment."
+
+"Le donjon vous reconnaît tout de même comme sa maîtresse. À un moment donné, ce pourrait être un endroit dont vous seriez fière." 
+
+"Il a simplement besoin d'une main qui le guide."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vous ressentez cette même émanation de chaleur, une énergie dans l'air. "Alors, il est à vous, mon seigneur ! Je ne peux vous dire à quel point je suis heureux, je veux dire, il est bon de savoir que le donjon est à nouveau entre des mains compétentes."</DefaultText>
+      <FemaleText>"Vous ressentez cette même émanation de chaleur, une énergie dans l'air. "Alors, il est à vous, ma dame ! Je ne peux vous dire à quel point je suis heureux, je veux dire, il est bon de savoir que le donjon est à nouveau entre des mains compétentes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Je suppose que je devrais mentionner, d'abord, que si vous avez l'intention de voyager vers la Baie du défi pour des fournitures, il y a eu une... sorte de complication." 
+
+"La Barbacane orientale s'est effondrée il y a plusieurs dizaines d'années de cela, et Maerwald ne l'a jamais reconstruite. La route qui arrive ici est une impasse. Il a juste pu rassembler des matériaux avant que son esprit ne devienne... préoccupé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Si vous souhaitez vraiment continuer, je devrais mentionner, d'abord, que vous trouverez la route barrée." 
+
+"La Barbacane orientale s'est effondrée il y a plusieurs dizaines d'années de cela, et Maerwald ne l'a jamais reconstruite. La route qui arrive ici est une impasse. Il a juste pu rassembler la matériaux avant que son esprit ne devienne... préoccupé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Voyons quelles réparations je peux effectuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Pas pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Comme vous voudrez. Une autre fois, peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"... Vous devriez savoir, cependant, que le poste n'est pas exempt de risques. Votre nom grandira et vous devrez vous confronter aux menaces contre le donjon. Et puis... il y a d'autre choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"La malédiction de Maerwald lui appartenait - une malédiction de Gardien. Mais ses prédécesseurs n'ont pas mieux réussi. Il y a une... présence, dans le donjon. Ou plutôt, en dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Que vouliez-vous dire lorsque vous disiez que ce donjon était maudit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Vous avez réussi là où les comtes, leurs descendants, et les cohortes d'explorateurs ont échoué. Il n'y a plus personne pour contester votre revendication. Vous êtes bel et bien le maître de Caed Nua."
+
+"Nous le savions depuis le début, évidemment. Mais maintenant le monde entier le saura, et partagera ma fierté dans vos accomplissements."</DefaultText>
+      <FemaleText>"Vous avez réussi là où les comtes, leurs descendants, et les cohortes d'explorateurs ont échoué. Il n'y a plus personne pour contester votre revendication. Vous êtes bel et bien la maîtresse de Caed Nua."
+
+"Nous le savions depuis le début, évidemment. Mais maintenant le monde entier le saura, et partagera ma fierté dans vos accomplissements."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"La nouvelle de Caed Nua se propage vite et loin. Je m'attends à recevoir bientôt des visiteurs de tous les coins du monde !" 
+
+"C'est... Je ne peux vous dire à quel point c'est merveilleux, de voir cet endroit retrouver sa grandeur originelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Merci, mon seigneur. Ce donjon ne fait que refléter ce que vous avez fait pour nous. Un... monument, si vous voulez." 
+
+"... je vous ai retenu trop longtemps, n'est-ce pas ? Je vais vous faire mon rapport."</DefaultText>
+      <FemaleText>"Merci, ma dame. Ce donjon ne fait que refléter ce que vous avez fait pour nous. Un... monument, si vous voulez." 
+
+"... je vous ai retenu trop longtemps, n'est-ce pas ? Je vais vous faire mon rapport."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Je dois dire, mon seigneur, que vous avez fait un travail impressionnant en restaurant les défenses du donjon. Je ne pense pas qu'une souris pourrait s'introduire dans ces murs."</DefaultText>
+      <FemaleText>"Je dois dire, ma dame, que vous avez fait un travail impressionnant en restaurant les défenses du donjon. Je ne pense pas qu'une souris pourrait s'introduire dans ces murs."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Bien, place aux affaires..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Les gens commencent à remarquer votre dur labeur. J'ose espérer que l'on reçoive très vite plus de visiteurs." 
+
+"Je suis... heureux que vous ayez décidé de rester, mon seigneur. C'est difficile d'avoir assisté à la dégradation de cet endroit."</DefaultText>
+      <FemaleText>"Les gens commencent à remarquer votre dur labeur. J'ose espérer que l'on reçoive très vite plus de visiteurs." 
+
+"Je suis... heureux que vous ayez décidé de rester, ma dame. C'est difficile d'avoir assisté à la dégradation de cet endroit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Le voir restauré est... J'imagine déjà les grandes foules, les pétitionnaires. La musique, peut-être, lors de soirées ?" 
+
+"Oh, je m'emporte un peu, n'est-ce pas ? Voilà mon rapport."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"J'espère que tout va bien, mon seigneur ? N'hésitez surtout pas si je peux faire quelque chose pour vous aider."</DefaultText>
+      <FemaleText>"J'espère que tout va bien, ma dame ? N'hésitez surtout pas si je peux faire quelque chose pour vous aider."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Il semble que votre célébrité se propage, mon seigneur. J'ai entendu des voyageurs parler de vos accomplissement dans la Baie du défi."</DefaultText>
+      <FemaleText>"Il semble que votre célébrité se propage, ma dame. J'ai entendu des voyageurs parler de vos accomplissement dans la Baie du défi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Si vous me permettez, c'est un soulagement de retrouver le donjon sous le commandement de quelqu'un de plus connecté au monde. C'est si facile de laisser les choses aller à vau-l'eau..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Il ne faut pas vous faire de souci, mon seigneur. Vous faites du très bon travail. Je ne pense pas que l'on aurait pu espérer mieux... C'eût été une folie."</DefaultText>
+      <FemaleText>"Il ne faut pas vous faire de souci, ma dame. Vous faites du très bon travail. Je ne pense pas que l'on aurait pu espérer mieux... ni que j'en aurais eu l'audace auparavant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Je suis certain que vous en serez tout à fait capable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"J'ai quelques questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Alors je ferai tout ce qui en mon pouvoir pour y répondre. Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Était-ce votre donjon, autrefois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Ce n'est pas une relation semblable à celle qu'il existe entre une terre et son seigneur, mais plutôt celle qui lie un enfant à sa mère. J'ai conçu ce château, voyez-vous. Le comte m'en a confié la tâche. Je commençais... à vieillir. Je savais qu'il s'agissait de ma seule chance de construire quelque chose de magnifique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Je n'ai pas pu me résoudre à le quitter après sa construction. Repartir vers ma maison solitaire. J'ai supplié le comte de me laisser rester, d'en prendre soin. C'était tout ce que je voulais, et il me l'a accordé."
+
+"Des années plus tard, lorsque l'huissier de Berath est enfin venu, j'ai supplié le comte de trouver un moyen de me laisser y demeurer. Ce qu'il fit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je n'ai plus de question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Y a-t-il autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Vous avez mentionné un comte, l'autre fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Oui, le comte de Yenwood. Le premier, en fait, lorsque Dyrwood était une colonie. Il a trouvé ce site, la seule ruine qu'Eir Glanfath a refusé de défendre, et il pensait que la fortune qu'elle renfermait serait immense. Le donjon était sa manière de défendre la part de sa famille, et ceci devint une obsession. Il devait savoir ce qu'il y avait en dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Il a dévoué sa vie à creuser les ruines sous le donjon. Elles ont été scellées dans la roche et le sol. Délibérément, il semblerait."
+
+"Les années se sont écoulés, et avec elles le comte. Il a creusé toute sa vie et n'a jamais trouvé ce qu'il cherchait. Son obsession devint celle de son fils, et celle du fils de son fils. Et un jour, ce jeune comte est arrivé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Et il a trouvé les Chemins infinis qui l'attendaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Qu'a-t-il trouvé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Je voudrais demander autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Un labyrinthe infini, incompréhensible dans sa construction. Mais il n'a jamais réussi à en savoir plus. De viles créatures ont élu résidence ici. Viles et dangereuses. Elles se sont déversées à travers le donjon et ont tué ses résidents, y compris le comte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Après cela le donjon est resté abandonné. Inutilisé. Délabré. La maîtrise qu'exerçait Maerwald sur cet endroit fut le premier espoir que j'ai eu en deux cents ans. J'attendais depuis si longtemps de voir ce lieu resplendir à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Je ne peux que deviner pourquoi tout ceci a eu lieu. Je crains d'avoir contrarié les dieux, en plaçant cet endroit ici, et ils m'ont maudit pour que je le regarde disparaître. Pour témoigner de ma propre folie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Certainement." Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Il a maintenant un nouveau maître, et une deuxième chance. ... Comme moi."</DefaultText>
+      <FemaleText>"Il a maintenant une nouvelle maîtresse, et une deuxième chance. ... Comme moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Oui, un labyrinthe infini, incompréhensible dans sa construction. Mais il n'a jamais réussi à en savoir plus. De viles créatures ont élu résidence ici. Viles et dangereuses. Elles se sont déversées à travers le donjon et ont tué ses résidents, y compris le comte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Vous avez vengé ces morts, et je vous en remercie. Je ne peux qu'espérer que leurs âmes ont trouvé le repos, ou bien d'autres vies, quelque part dans le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Après l'attaque, le donjon est resté abandonné pendant deux cents ans. Lorsque Maerwald est arrivé, j'ai espéré de pouvoir voir enfin le donjon restauré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Il semble que je me sois trompé, car vous avez été le sauveur de cet endroit, pas lui. Je pensais que la malédiction qui s'est abattue sur ce lieu ne finirait jamais. Que je devrais regarder chaque pierre finir en poussière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"En restaurant le donjon... mon grand projet... vous m'avez redonner un but. Votre nom, votre âme, sont écrits sur cette pierre. Je sais que Caed Nua ne tombera plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Êtes-vous emprisonné dans ce trône ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Emprisonné ? C'est parfois l'impression que cela donne, je suppose. Mais je dirais plus que je réside ici.
+
+"Le trône a été ramené des ruines. Une des premières choses qu'ils ont trouvée. Comme une dernière faveur à une femme mourante, le comte a obtenu que j'y emménage. L'adra est un vaisseau accueillant pour une âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Oh, ce n'est pas aussi confiné que ça y paraît. Je ressens tout le donjon depuis ici, et tout ce qui y est lié. Il y a quelque chose à propos de ce trône et de sa construction. Ou peut-être est-ce ce lieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Il y a une sorte de barrière bloquant le passage en bas. Où est-ce que cela mène ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Du moins, telle a été la conclusion tirée par tous ceux qui sont venus ici ; les esprits qui continuent à hanter les Chemins infinis et continuent à parler d'un Maître des profondeurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Je ne saurais le dire avec certitude. Je pense que cela doit être lié à l'homme désigné comme l'architecte des Chemins infinis - Od Nua, le tyran engwithan. Certains prétendent que son esprit vit toujours ou qu'il a placé un sort sur le site."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"On dit que les ruines ont été construites par un puissant Engwithan appelé Od Nua, qui régnait ici jusqu'à ce que son peuple ne se retourne contre lui. Ils ont détruit ses « Chemins infinis », et comblé de nombreux tunnels supérieurs avec de la terre et des roches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Vous avez pu apercevoir la main de la grande statue que construisit Od Nua. ...Peut-être s'agit-il de la statue d'Od Nua lui-même ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Bien sûr que vous l'êtes ! Le donjon n'en n'aurait pas d'autre... mais les Chemins infinis sont une chose entièrement différente. Il est dommage, vraiment, qu'ils soient autant entremêlées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Si on ne s'occupe pas du Maître des profondeurs... il y existera toujours une menace sur le donjon venant de l'intérieur." 
+
+"Je... je sais que cela fait beaucoup. Mais si vous vouliez rester - enfin si vous étiez le seigneur de ce lieu... alors je ne peux que vous conseiller d'aller au devant de cet ennemi avant qu'il ne vous détruise."</DefaultText>
+      <FemaleText>"Si on ne s'occupe pas du Maître des profondeurs... il y existera toujours une menace sur le donjon venant de l'intérieur." 
+
+"Je... je sais que cela fait beaucoup. Mais si vous vouliez rester - enfin si vous étiez la dame de ce lieu... alors je ne peux que vous conseiller d'aller au devant de cet ennemi avant qu'il ne vous détruise."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Vous irez ? Je... Vous avez tout mon soutien, mon seigneur, et je ferai en sorte que l'accès soit dégagé. Mais je dois vous avertir qu'il ne s'agit pas d'une tâche facile. Nombreux sont ceux qui sont partis avant vous... Je ne voudrais pas que, vous aussi, soyez la proie de ce qui a pris leur vie.</DefaultText>
+      <FemaleText>"Vous irez ? Je... Vous avez tout mon soutien, ma dame, et je ferai en sorte que l'accès soit dégagé. Mais je dois vous avertir qu'il ne s'agit pas d'une tâche facile. Nombreux sont ceux qui sont partis avant vous... Je ne voudrais pas que, vous aussi, soyez la proie de ce qui a pris leur vie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ceci, mon seigneur... mène aux Chemins infinis et à la véritable malédiction de ce donjon. C'est la modeste protection que j'ai pu prendre pour défendre le donjon, mais en vérité elle ne changera pas grand chose..."
+
+"Je peux ouvrir la voie pour vous, mais vous devez savoir..."</DefaultText>
+      <FemaleText>"Ceci, ma dame... mène aux Chemins infinis et à la véritable malédiction de ce donjon. C'est la modeste protection que j'ai pu prendre pour défendre le donjon, mais en vérité elle ne changera pas grand chose..."
+
+"Je peux ouvrir la voie pour vous, mais vous devez savoir..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[Partez.] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Si vous avez l'intention d'aller là-bas, nous pouvons tout de suite commencer par réparer la barbacane. Vous n'avez qu'à me dire ce que vous souhaitez faire, et je ferai les arrangements nécessaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Je dois avouer que votre dernier visiteur est un individu du genre bruyant. Je crois que la dernière fois que j'ai vu quelqu'un d'aussi soûl, c'était il y a un siècle."
+
+"Il a plutôt la cote avec les gardes, cependant... ils le feraient jongler avec des couteaux maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Il semble que vous avez un visiteur de renom. Un vétéran de la guerre du Saint. C'est une source d'inspiration pour vos gardes, et il a une conversation fascinante, j'ai trouvé... Je me demande s'il ne serait pas utile que quelqu'un écrive ses aventures..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"J'ai remarqué qu'un visiteur plutôt important vient d'arriver dans le donjon. Un dignitaire d'Aedyr. Cela me rappelle les temps anciens..." 
+
+"Mais peu importe, je devrais m'assurer que les serviteurs lui offrent tout le confort requis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"J'ai bien peur qu'un de vos invités ne mettent vos convives mal à l'aise... C'est juste qu'il est recherché dans plusieurs villes, vous voyez, et certains d'entre eux craignent de voir leur bourse disparaître au passage. Je suis sûr que vous avez vos raisons pour le garder par ici, bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Seigneur ! Les nouvelles étaient si horribles que j'ai eu peur de ne jamais vous revoir. Est-ce la vérité ? La Baie du défi est en proie aux émeutes ?"
+
+"Et... qu'Aevar Rictus-de-loup a été tué ?"</DefaultText>
+      <FemaleText>"Ma dame ! Les nouvelles étaient si horribles que j'ai eu peur de ne jamais vous revoir. Est-ce la vérité ? La Baie du défi est en proie aux émeutes ?"
+
+"Et... qu'Aevar Rictus-de-loup a été tué ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"C'est terrible... Mais je suis heureux que vous soyez sain et sauf, mon seigneur. Il ne reste plus qu'à espérer que la ville retrouve le calme."</DefaultText>
+      <FemaleText>"C'est terrible... Mais je suis heureux que vous soyez sain et sauf, ma dame. Il ne reste plus qu'à espérer que la ville retrouve le calme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"C'est vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Oui. Et je ferai payer Thaos pour ce qu'il a fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>[Acquiescez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Oui. Et bon débarras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"J'en suis sûr mon seigneur. Et il le mérite bien. Que les dieux le harcèlent à chacun de ses pas." 
+
+"Je suis heureux, par dessus tout, que vous soyez sain et sauf. Il ne reste plus qu'à espérer que la Baie du défi retrouve le calme.."</DefaultText>
+      <FemaleText>"J'en suis sûr ma dame. Et il le mérite bien. Que les dieux le harcèlent à chacun de ses pas." 
+
+"Je suis heureux, par dessus tout, que vous soyez saine et sauve. Il ne reste plus qu'à espérer que la Baie du défi retrouve le calme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"... Je sais que vous n'êtes pas du genre à... porter le deuil, mon seigneur, mais... sa mort menace de déstabiliser la région. Tout au moins, je m'inquiète de l'état du donjon, si les citoyens excitent des étrangers." 
+
+"Je suis heureux que vous soyez sain et sauf, mon seigneur. Je m'inquiétais vraiment."</DefaultText>
+      <FemaleText>"... Je sais que vous n'êtes pas du genre à... porter le deuil, ma dame, mais... sa mort menace de déstabiliser la région. Tout au moins, je m'inquiète de l'état du donjon, si les citoyens excitent des étrangers." 
+
+"Je suis heureux que vous soyez saine et sauve, ma dame. Je m'inquiétais vraiment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Seigneur ! Vous ne le pensez pas... Sa mort apportera le chaos dans toute la région. Il ne reste plus qu'à espérer que la ville retrouve le calme." 
+
+"Bon, je suis juste heureux que vous sembliez sain et sauf. Je m'inquiétais vraiment."</DefaultText>
+      <FemaleText>"Ma dame ! Vous ne le pensez pas... Sa mort apportera le chaos dans toute la région. Il ne reste plus qu'à espérer que la ville retrouve le calme." 
+
+"Bon, je suis juste heureux que vous soyez saine et sauve. Je m'inquiétais vraiment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Les Chemins infinis ! Voilà, mon ami, là où je dois me rendre. Là où nous devons aller, si vous voulez bien m'accompagner. Quel que soit le danger... pensez également au savoir que nous trouverons ! Peut-être que ce Maître parle aedyran ?"</DefaultText>
+      <FemaleText>"Les Chemins infinis ! Voilà, mon amie, là où je dois me rendre. Là où nous devons aller, si vous voulez bien m'accompagner. Quel que soit le danger... pensez également au savoir que nous trouverons ! Peut-être que ce Maître parle aedyran ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Je reste, bien sûr, à votre service, et aussi longtemps que vous êtes le maître ici nous serons toujours liés. Vous n'avez pas besoin de revenir ici, de parler avec moi. Quel que soit l'endroit où vous mènent vos voyages, vous pouvez me faire savoir votre volonté ; il vous suffit de le désirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Alors partez sur le champ." La voix de l'intendant contient une pointe de frivolité. "Sachez, mon seigneur, que ce n'est là que la première et la moindre de nombreuses grandes entreprises. Le donjon a contenu de nombreux bâtiments et serviteurs pendant de nombreuses années."</DefaultText>
+      <FemaleText>"Alors partez sur le champ." La voix de l'intendant contient une pointe de frivolité. "Sachez, ma dame, que ce n'est là que la première et la moindre de nombreuses grandes entreprises. Le donjon a contenu de nombreux bâtiments et serviteurs pendant de nombreuses années."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Si vous le souhaitez, nous pouvons réparer certaines des structures extérieures qui vous rapporteront richesse et reconnaissance, attirant les gens à votre service. La reconstruction des défenses empêchera qu'elles soient envahies, comme ce fut le cas sous la garde de Maerwald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Vous n'avez pas besoin de tout choisir tout de suite. Je reste à votre service, et aussi longtemps que vous êtes le maître ici nous serons toujours liés. Vous n'avez pas besoin de venir jusqu'ici pour parler avec moi. Quel que soit l'endroit où vous mènent vos voyages, vous pouvez me faire savoir votre volonté ; il vous suffit de le désirer."</DefaultText>
+      <FemaleText>"Vous n'avez pas besoin de tout choisir tout de suite. Je reste à votre service, et aussi longtemps que vous êtes la maîtresse ici nous serons toujours liés. Vous n'avez pas besoin de venir jusqu'ici pour parler avec moi. Quel que soit l'endroit où vous mènent vos voyages, vous pouvez me faire savoir votre volonté ; il vous suffit de le désirer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Oh, mais tout d'abord, la barbacane !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Voyons quelles réparations je peux effectuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Si vous m'indiquez quelles réparations vous souhaitez effectuer par la suite, je prendrai les dispositions nécessaires. Cela peut prendre du temps à finir, mais chacun vous apportera les ressources supplémentaires une fois terminées. En trouvant un endroit où les mettre, nous pouvons recruter des marchands pour vous approvisionner en fournitures ou ingrédients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"La réparation du donjon augmentera votre prestige... et attirera aussi bien des individus utiles qu'une attention regrettable de bandits et d'opportunistes. Si nous pouvons augmenter le niveau de sécurité du donjon, cela sera moins préoccupant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Y avait-il autre chose, mon seigneur ?"</DefaultText>
+      <FemaleText>"Y avait-il autre chose, ma dame ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Oui ? Comment puis-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Y avait-il autre chose, mon seigneur ?"</DefaultText>
+      <FemaleText>"Y avait-il autre chose, ma dame ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Bien sûr. Que vouliez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Mon seigneur, il y a un sujet que j'hésite à aborder en raison de sa probable insignifiance, mais en tant que maître de ce lieu, j'ai le sentiment que vous devriez être prévenu de tous les événements se déroulant dans les environs."
+
+"On parle d'un homme en robe sur la route avec un bâton enflammé qui agresse les voyageurs aux environs de la Croisée de Magran."</DefaultText>
+      <FemaleText>"Ma dame, il y a un sujet que j'hésite à aborder en raison de sa probable insignifiance, mais en tant que maîtresse de ce lieu, j'ai le sentiment que vous devriez être prévenue de tous les événements se déroulant dans les environs."
+
+"On parle d'un homme en robe sur la route avec un bâton enflammé qui agresse les voyageurs aux environs de la Croisée de Magran."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"En quoi cela me concerne-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Quelqu'un d'autre peut-il s'en charger ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Ce n'est peut-être pas le cas, c'est pourquoi j'étais réticent à aborder le sujet. Mais s'il continue à être un problème, les voyageurs pourraient éviter la zone. Il pourrait faire fuir les marchands ou les hôtes invités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Que veut-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Je... ne sais pas mon seigneur. Il insulte les passants, ou les menace. Il est probablement fou."</DefaultText>
+      <FemaleText>"Je... ne sais pas ma dame. Il insulte les passants, ou les menace. Il est probablement fou."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Il semble avoir un talent pour le combat, mon seigneur. Je comprends qu'il a insulté une cohorte de mercenaires, puis il a eu le dessus sur eux quand cela a dégénéré. Puis, à leur tour, ils en ont informé les autorités locales, qui n'ont pas fait mieux."
+
+"Il vaudrait mieux s'en charger personnellement, si vous l'intention de faire quelque chose à son sujet."</DefaultText>
+      <FemaleText>"Il semble avoir un talent pour le combat, ma dame. Je comprends qu'il a insulté une cohorte de mercenaires, puis il a eu le dessus sur eux quand cela a dégénéré. Puis, à leur tour, ils en ont informé les autorités locales, qui n'ont pas fait mieux."
+
+"Il vaudrait mieux s'en charger personnellement, si vous l'intention de faire quelque chose à son sujet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Je préfèrerais discuter d'autres sujets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Bien sûr, mon seigneur."</DefaultText>
+      <FemaleText>"Bien sûr, ma dame."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

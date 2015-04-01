@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_weapon_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Salutations, mon seigneur. Vous cherchez une nouvelle lame ? Une hache peut-être ? J'ai tout ce qu'il faut ici pour répondre aux exigences d'un homme d'action."</DefaultText>
+      <FemaleText>"Salutations, ma dame. Vous cherchez une nouvelle lame ? Une hache peut-être ? J'ai tout ce qu'il faut ici pour répondre aux exigences d'une femme d'action."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Si cela sert à frapper quelqu'un, alors je le vends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous voulez regarder ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

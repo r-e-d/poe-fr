@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_vithrack_entry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une horrible sensation envahit votre esprit. Un tintement particulièrement aigu résonne en vous, accompagné d'un cri de colère :</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Envahisseur ! Voleur !" La voix est aussi étrangère que féroce et vous traverse l'esprit à la vitesse de l'éclair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>À chaque syllabe, des aiguilles s'enfoncent dans votre cerveau avant de disparaître au fil des mots. Le tintement qui résonnait dans votre esprit a disparu.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

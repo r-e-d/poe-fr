@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_si_skaen_temple_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Deux pieux sont solidement plantés dans l'ouvrage en pierre tandis que des cordes rompues tombent dans le gouffre obscur d'une immense caverne. De l'autre côté se trouve une petite ouverture à laquelle un pont permettait probablement d'accéder autrefois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examinez la zone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Lancez votre corde et votre grappin de l'autre côté du gouffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le gouffre obscur semble sans fin. Des ruines de piliers en pierre, vestiges de l'ancien pont, surgissent de l'abîme. De l'autre côté, vous voyez l'entrée d'un tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Des poutres en bois dépassent de part et d'autre du gouffre. Malgré leur âge, elles semblent suffisamment robustes pour soutenir un grappin et une corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous visez les poutres situées de l'autre côté du gouffre et lancez votre grappin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Celui-ci s'accroche à l'une des poutres et s'enfonce dans le bois lorsque vous tirez sur la corde. Vous tirez plusieurs fois pour vous assurer qu'il est bien accroché. Vous nouez l'extrémité de la corde à l'une des poutres situées près de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Une respiration bruyante résonne de l'autre côté du gouffre. Tout le monde est fatigué, sauf [SkillCheck 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Franchissez le gouffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous atteignez l'autre côté sans incident. La corde semble toujours bien tendue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>La corde ne fléchit pas sous votre poids, mais vous sentez la tension et les vibrations à chacun de vos mouvements. Les grincements et craquements des poutres en bois résonnent dans l'abîme. Vous progressez lentement mais sûrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Le chemin se termine par un précipice. Les vestiges d'un pont en ruine sont visibles de l'autre côté du gouffre. Votre corde est tendue au-dessus du vide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Une respiration bruyante résonne de l'autre côté du gouffre. Tout le monde est fatigué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous atteignez l'autre côté, indemne, mais vous n'en pouvez plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Une respiration bruyante résonne de l'autre côté du gouffre. [SkillCheck 0], [SkillCheck 1], [SkillCheck 2] et [SkillCheck 3] n'en peuvent plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Une respiration bruyante résonne de l'autre côté du gouffre. [SkillCheck 0], [SkillCheck 1] et [SkillCheck 2] n'en peuvent plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Une respiration bruyante résonne de l'autre côté du gouffre. [SkillCheck 0] et [SkillCheck 1] n'en peuvent plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Une respiration bruyante résonne de l'autre côté du gouffre. [SkillCheck 0] n'en peut plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>La sueur sur vos paumes desserrent la prise, et lorsque vous êtes au milieu du gouffre, vos mains glissent, vous laissant suspendu par les chevilles.
+
+Avec toute votre force, vous réussissez à vous redresser sur la corde et à l'attraper, mais l'épisode vous a épuisé.</DefaultText>
+      <FemaleText>La sueur sur vos paumes desserrent la prise, et lorsque vous êtes au milieu du gouffre, vos mains glissent, vous laissant suspendue par les chevilles.
+
+Avec toute votre force, vous réussissez à vous redresser sur la corde et à l'attraper, mais l'épisode vous a épuisé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>La respiration laborieuse du groupe fait écho à travers le gouffre. Il commence à fatiguer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

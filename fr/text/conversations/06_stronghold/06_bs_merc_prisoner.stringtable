@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_merc_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Attendez, on pourrait peut-être trouver un arrangement, non ? Je peux vous payer une rançon en échange de ma libération..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous avez peut-être besoin de quelqu'un pour vous aider ? Je vous serais plus utile à l'extérieur qu'ici, vous savez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Sale pourriture !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Laissez-moi tranquille... Vous vous êtes assez amusé comme ça..."</DefaultText>
+      <FemaleText>"Laissez-moi tranquille... Vous vous êtes assez amusée comme ça..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bon sang, qu'est-ce que vous leur avez fait ? Vous êtes malade !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

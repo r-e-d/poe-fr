@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_kadal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un jeune homme apparaît devant vous, tremblant et excité. "Vous ! Je vous ai vu avec Lumdala. Vers l'amphithéâtre. Écoutez, je ne sais pas ce vous fabriquez avec elle, mais je ne veux plus rien à voir à faire avec tout ça. Je suis juste venu ramasser mes affaires. Laissez-moi partir, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous avez intérêt à parler, et vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Reprenez votre souffle et calmez-vous. Dites-moi ce qui se passe si vous voulez que je vous aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Pourquoi ? Que mijote le Dégustateur d'étoiles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Il se pourlèche les lèvres. "Comme je vous ai été utile, j'ai besoin de votre promesse que vous ne mêlerez pas mon nom à tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kadal regarde l'allée. "Vite, avant qu'elle n'arrive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que voulez-vous de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Mentez] "Je ne vous mentionnerai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Alors je ne peux pas vous laisser partir." Le jeune homme approche d'une main tremblante son poignard à la ceinture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Saisissez l'arme de Kadal et pointez-la sur sa gorge.] "Réfléchissez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"S'il n'y a pas d'autre moyen, qu'il en soit ainsi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Attaquez] "Ce sera facile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Faites craquer vos doigts.] "Êtes-vous certain de vouloir cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Filez d'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Kadal couvre son visage de ses mains. "Le Rang de Dunryd ?! Bon sang, j'aurais dû savoir qu'ils en avaient après nous..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ils finiront par vous trouver, Kadal. Faites le bien pendant qu'il en est encore temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Kadal secoue la tête, faisant glisser ses doigts dans ses cheveux. "J'en ai déjà trop dit. Promettez-moi que vous ne me livrerez pas à eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Kadal ouvre lentement un sachet et en sort une petite clé. "Ceci ouvre la porte qui se trouve derrière vous. Il y a un passage qui mène à... un théâtre." Il frémit. "Il vaut mieux que vous voyiez par vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Kadal hésite, le poignard tremblant dans sa main. Il alterne son regard entre sa lame et vous, et vice-versa. Enfin, il le laisse tomber au sol, levant les mains. "Je suis désolé ! Ne me faites pas de mal !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Kadal lève les mains, tremblant de manière incontrôlable. "Je suis désolé ! Ne me tuez pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Dites-moi ce que vous savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Alors commencez à parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Il hoche la tête, et inspire un grand coup. "Merci. Mais le temps manque. Lumdala va venir me chercher et je dois sortir d'ici. Peut-être hors de la ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"D'accord, d'accord ! Nous n'avons pas beaucoup de temps avant que Lumdala ne nous trouve de toute façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je ne peux pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Kadal ferme les yeux et soupire. "Loué soit Berath." Kadal ouvre un sachet et en sort une petite clé. "Ceci ouvre la porte qui se trouve derrière vous. Il y a un passage qui mène à..." Il frémit. "Il vaut mieux que vous voyiez par vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Kadal ferme les yeux et déglutit. "Vous avez la clé. Partez, avant qu'elle ne revienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Aucune chance. Vous avez joué un rôle dans tout cela, et vous devrez en assumer les conséquences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ce n'est pas si simple !" Kadal secoue la tête, frustré et paniqué. "Mais si vous ne m'écoutez pas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Merci. Et... bonne chance." Il ne vous regarde pas dans les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Laisse tomber ce poignard avant que je ne te le fasse avaler, gamin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Kadal hésite, le poignard tremblant dans sa main. Il alterne son regard entre sa lame et vous, et vice-versa. Enfin, il le laisse tomber au sol, levant les mains. "Je suis désolé ! Ne me faites pas de mal !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Il laisse pendre sa tête misérablement. "J'ai essayé de partir. Vraiment. Mais vous ne savez pas de quoi elle est capable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Il ferme les yeux en gémissant. "Je suis vraiment désolé." On ne sait pas exactement à qui il parle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Voyons d'abord ce que vous avez à dire pour votre défense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je parie que vous n'en avez jamais utilisé auparavant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je ne vous mentionnerai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tout ce qui m'importe est d'empêcher une autre disparition. Ce que vous avez fait auparavant ne m'importe peu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Le jeune homme fait un pas vers vous, son regard fixé sur les autres comédiens, en parlant à voix basse. "Retrouvez-moi dans la maison de Lumdala. Je sais ce qu'il se passe."
+
+Il frappe ses mains et siffle les autres comédiens. "Bravo ! "Bravo, vraiment !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Désolé, je ne peux pas parler maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"On ne peut pas parler ici - Lumdala va se méfier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sagani regarde Kadal avec dégoût. "Suivez les vautours et vous trouverez la charogne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"C'est la première fois que je rencontre un comédien qui ne veut pas voir son nom écrit partout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Il semble que l'avorton veuille vendre le reste des détritus... cela pourrait être amusant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Aloth se penche. "Je ne suis pas sûr que ce pauvre misérable en vaille la peine. Nous devrions arrêter Lumdala avant qu'elle n'ait vent de nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ce ne serait pas le premier homme à suivre une âme sombre sur un chemin sombre... Si cela nous aide à résoudre cela, peut-être que ses informations valent quelques mots bienveillants."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

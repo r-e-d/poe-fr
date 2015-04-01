@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_si_broken_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le bord du pont est sombre par rapport à la cité rayonnante qui se trouve en contrebas. Un courant d'air frais s'élève des profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Sautez de l'autre côté.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous vous élancez au-dessus du vide et vous réceptionnez de l'autre côté sans encombres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[SkillCheck 0] évalue mal la distance et manque son saut. [SkillCheck 0] parvient de justesse à attraper le rebord saillant du pont, mais ses jambes pendent dans le vide. En haletant, [SkillCheck 0] parvient à se hisser en lieu sûr.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

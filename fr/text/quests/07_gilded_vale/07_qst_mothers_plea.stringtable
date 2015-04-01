@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_mothers_plea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La complainte d'une mère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez jusqu'à la Boussole d'Anslög et parlez à Mère Ranga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Débarrassez-vous des Xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez voir Aufra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Récupérez des spores humides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Par ordre du seigneur de la Vallée dorée, toute femme donnant naissance à un enfant sans-âme sera exilée du village. Aufra craint de se retrouver parmi les exilées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dans la Vallée dorée, j'ai rencontré Aufra, la sœur de Calisca. Aufra attend un enfant et craint, elle aussi, de donner naissance à un sans-âme, tout comme nombre de femmes malheureuses avant elle. Elle m'a demandé de partir au sud vers la Boussole d'Anslög, où je pourrais trouver Ranga, une sage-femme qui connaîtrait un moyen de retenir l'âme de l'enfant d'Aufra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Plutôt qu'être payée, Ranga m'a demandé d'aider Tana, son assistant xaurip, qui est poursuivi par les membres de son ancienne tribu. Leur camp est au nord-est du lagon. Ranga m'a demandé de m'occuper d'eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai récupéré la mixture demandée par Aufra, mais Mère Ranga m'a révélé que cette concoction est en réalité une recette de sage-femme destinée à améliorer la santé d'Aufra plus qu'un remède.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Pour finir sa concoction, Ranga a besoin d'un morceau particulier issu d'un sporeling que l'on trouve dans une grotte marine des alentours. Je dois lui en récupérer un pendant qu'elle travaille sur le reste de la mixture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai atteint le lagon. Il paraît que Ranga vit dans les environs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Je me suis occupé des voisins embarrassants de Ranga. Elle acceptera peut-être de m'aider, maintenant.</DefaultText>
+      <FemaleText>Je me suis occupée des voisins embarrassants de Ranga. Elle acceptera peut-être de m'aider, maintenant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai récupéré les spores demandées par Ranga. Une fois que je la rejoindrai, elle devrait pouvoir terminer la mixture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un personnage vital pour accomplir cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai ramené la potion à Aufra et je lui ai fait croire qu'elle possède les propriétés magiques qu'elle espère. Peut-être qu'elle et son enfant auront de la chance. Seul le temps le dira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai ramené la potion à Aufra et je lui ai dit la vérité sur la mixture. Elle était évidemment déçue, mais a apprécié mes efforts. Elle n'a plus beaucoup d'espoir d'avoir un futur avec son enfant dans la Vallée dorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ranga a été tuée. Ses secrets meurent avec elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai ramené la potion à Aufra et je lui ai fait croire qu'elle possède les propriétés magiques qu'elle espère. Peut-être qu'elle et son enfant auront de la chance. Seul le temps le dira.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

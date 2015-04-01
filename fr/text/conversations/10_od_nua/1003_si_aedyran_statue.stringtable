@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1003_si_aedyran_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Logée dans une alcôve tranquille, la fière statue de pierre a un bras en l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examinez la statue.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>D'après le style vestimentaire et les restes fêlés de la barbe de la statue, [SkillCheck 0] pense qu'il s'agit du comte de Yenwood. Ce prestigieux guerrier était connu pour mener ses hommes au combat en brandissant un sabre luisant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bien qu'ancienne, la statue n'est pas aussi délabrée que certains autres objets alentour. Le costume de la statue est de style aedyran. Il doit s'agir d'un vestige de la colonisation aedyrane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Placez le sabre Résolution dans la main de la statue.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous entendez un mécanisme grincer de l'autre côté du mur, derrière la statue. Puis un bruit rocailleux retentit et un mur voisin se déplace pour révéler une porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>La statue représente un guerrier sur le point d'attaquer, le sabre levé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Retirez le sabre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous tirez sur le sabre, mais il semble solidement logé dans la main de la statue. Si vous poursuivez vos efforts, vous risquez d'endommager la lame ou de vous entailler la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Le revêtement doré de la statue de pierre est abîmé. Elle devait autrefois tenir quelque chose dans la main. D'après sa posture, il s'agissait vraisemblablement d'une arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Le sabre glisse d'abord facilement, puis se bloque. Vous devez forcer un peu pour l'insérer complètement. Vous entendez un bruit sourd et, soudain, l'avant-bras de la statue se déverrouille et pivote.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

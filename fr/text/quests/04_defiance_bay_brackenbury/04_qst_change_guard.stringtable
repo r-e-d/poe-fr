@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_qst_change_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La Relève de la garde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Assassinez Eldrid Wenfeld au donjon Creuset situé au Premiers feux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Gedmar Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le maréchal Wenfeld des Chevaliers du Creuset s'est mis en tête de perturber et de mettre fin aux activités commerciales de la maison Doemenel à la Baie du défi. Gedmar voudrait le voir mort et en faire porter le chapeau aux Douzaines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Gedmar veut voir le maréchal Wenfeld mort avant que celui-ci ne rallie les Chevaliers du Creuset contre la maison Doemenel. Gedmar a dit que je trouverais certainement ma cible seule dans la chapelle.
+
+Le seigneur Doemenel souhaite faire porter le chapeau de cet assassinat aux Douzaines. Il m'a donné un objet appartenant aux Douzaines à placer sur l'autel de la chapelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Wenfeld n'est plus. Le seigneur Doemenel sera ravi de l'apprendre, mais il m'a aussi demandé de mettre un objet appartenant aux Douzaines sur l'autel de la chapelle du donjon.
+
+Abrecan, de son côté, m'a demandé de ne rien laisser qui pourrait relier l'assassinat aux Douzaines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Abrecan est venu me voir et m'a demandé de ne pas faire porter le chapeau aux Douzaines. Il pense que son père est trop prudent et souhaite revenir à l'époque où le nom des Doemenel suscitait la peur partout dans la ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai placé cet objet sur l'autel comme Gedmar Doemenel l'a demandé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Gedmar s'est montré impressionné après que j'ai réussi à assassiner Eldrid sans alerter qui que ce soit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai assassiné Eldrid, mais Gedmar n'a pas apprécié les dégâts collatéraux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai averti Eldrid du complot d'assassinat orchestré contre lui par Gedmar Doemenel. Il a récompensé mon initiative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai assassiné Wenfeld et laissé une preuve afin d'incriminer les Douzaines. Cela devrait attiser le conflit entre les Douzaines et les Chevaliers du Creuset, comme prévu par Gedmar Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai assassiné Wenfeld, mais je n'ai pas laissé l'objet appartenant aux Douzaines. Les Chevaliers du Creuset ne manqueront pas de soupçonner la maison Doemenel pour ce meurtre, mais cela suscitera aussi l'infamie contre le clan, ce que souhaitait Abrecan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai assassiné le seigneur Doemenel et me suis mis sa maison à dos. Du moins, ce qu'il en reste.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

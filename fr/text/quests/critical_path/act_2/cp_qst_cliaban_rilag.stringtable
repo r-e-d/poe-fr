@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_cliaban_rilag</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Par la Porte de la mort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez le village de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parlez à Beodmar au temple de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rendez-vous à Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trouvez des signes de la Clé plombée à Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>En ville, trouvez quelqu'un qui connaît les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rendez-vous à Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>La vision de l'Acolyte montrait des ruines mystérieuses situées quelque part à l'extérieur de Dyrford. La Clé plombée a envoyé des agents pour tenter de trouver le site, mais j'ignore encore pour quelles raisons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Je ne sais pas exactement où se trouvent ces ruines, mais il est possible qu'un des villageois de Dyrford les connaisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>On m'a dit que Beodmar, le prêtre des lieux, connaissait des ruines engwithanes dans les environs. Peut-être pourra-t-il m'aider à trouver le site que je cherche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Beodmar m'a indiqué où trouver Clîaban Rilag, mais m'a conseillé de me tenir à l'écart des tribus de Glanfathans qui gardent les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai rejoint les ruines indiquées par l'Acolyte. Je réussirai peut-être à trouver des indices expliquant la présence de la Clé plombée ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai finalement rejoint le village de Dyrford. C'est un coin tranquille et perdu, mais quelqu'un ici doit connaître les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Beodmar est mort, mais j'ai réussi à sonder son âme pour savoir où se trouve Clîaban Rilag.
+
+J'ai senti un mauvais pressentiment chez le vieil homme, sans réussir à découvrir la raison de son malaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Des agents de la Clé plombée cédant leur âme à la machine engwithane de Clîaban Rilag me sont apparus en vision. Ils s'adonnaient au même rituel que celui dont j'ai été témoin aux environs de Cilant Lîs, ce qui signifie qu'ils doivent le perpétrer partout à Dyrwood. Les pensées d'un des agents suggèrent qu'ils étaient là pour veiller à ce que les enfants des environs naissent sans âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

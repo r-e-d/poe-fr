@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_bs_gv_inn_villagers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"J'ai cru que cet endroit partait à vau-l'eau après le départ du propriétaire, mais ça tient le coup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"La nourriture ici est vraiment horrible ces derniers jours. Vous pensez que les rats sont entrés dans le garde-manger ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"On a vu certains des anciens gardes de Raedric accourir ici ces derniers temps, hurlant à propos de monstres. Une bande de misérables couards, pour la plupart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Il est bon de voir de nouveaux visages par ici. On a l'impression que le village se réduit de plus en plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"On dit que le seigneur Raedric a été assassiné. Je parie que toute une armée va bientôt débarquer ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"J'aimerais bien avoir des ménestrels par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Quelqu'un a-t-il vu Perly dans les parages ? Il est généralement en train de se soûler à cette heure de la journée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Il fait bon et sec ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_winds_of_steel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Vents d'acier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez la Boussole d'Anslög.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retrouvez Aranroed près du quai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez au donjon du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Venez à bout des chevaliers forgés renégats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez au donjon du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Parlez au commandant Clyver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Visiblement, les chevaliers forgés du commandant Clyver sont une réussite. La Haute justice souhaite même étendre le projet en demandant à ses propres maîtres forgerons de fabriquer des chevaliers forgés au château de Fleetbreaker. 
+
+Le commandant Clyver m'a demandé d'apporter les recherches à un des commandants de la Haute justice à la Boussole d'Anslög.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La Boussole d'Anslög est un petit lagon situé au nord de la Baie du défi. Le commandant Clyver m'a dit que le coursier de la Haute justice, un commandant du nom d'Aranroed, m'y attendra. L'envoi d'un navire à destination de la Baie du défi attirerait à coup sûr l'attention des Douzaines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Aranroed attendra les recherches près du quai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai apporté les recherches à Aranroed et elle est en route pour le château de Fleetbreaker. Je devrais retourner au donjon du Creuset, aux Premiers feux. Le commandant Clyver sera ravi d'apprendre que les recherches sont arrivées à bon port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>De retour au donjon du Creuset, j'ai constaté que les chevaliers forgés étaient devenus fous. Les Chevaliers du Creuset semblent livrer une bataille perdue d'avance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Maintenant qu'Aranroed est morte, les recherches sur les chevaliers forgés ne parviendront jamais au château de Fleetbreaker. Quoi qu'il en soit, je devrais retourner au donjon du Creuset pour en informer le commandant Clyver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Maintenant que la menace des chevaliers forgés a été neutralisée, je devrais parler au commandant Clyver pour savoir ce qui s'est passé ici et l'informer des évènements qui se sont déroulés à la boussole d'Anslög.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai échappé à une embuscade tendue par les Douzaines qui ont tenté de me voler les recherches de Vianna. Ils voulaient éviter qu'elles ne parviennent pas au château de Fleetbreaker. Aranroed se charge de les apporter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ignore ce qui a mal fonctionné avec les chevaliers forgés, mais le commandant Clyver pourra peut-être l'expliquer... S'il survit à la bataille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Au cours de l'échange, les Chevaliers du Creuset et moi-même avons été pris en embuscade par Padebald, un membre des Douzaines, qui entendent empêcher les Chevaliers du Creuset de lever une armée de chevaliers forgés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai participé à la défense du donjon du Creuset contre les chevaliers forgés. Clyver s'est montré reconnaissant et a promis de me soutenir à l'avenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Le commandant Clyver est mort. Je ne pourrai plus compter sur le soutien des Chevaliers du Creuset désormais.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

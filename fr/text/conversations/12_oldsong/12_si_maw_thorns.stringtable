@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_si_maw_thorns</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un épais enchevêtrement d'épines et de lianes aussi tranchantes que des lames de rasoir a envahi ce passage. En l'examinant, vous avez l'impression que le mur végétal bouge, comme s'il respirait. De gros serpentins de lianes s'enroulent au bord du gouffre en produisant un doux bruissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Un passage s'ouvre brièvement devant vous tandis que deux lianes se déplacent dans des directions opposées, et vous en profitez pour avancer prudemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Forcez le passage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Essayez de vous faufiler à travers le mur vivant.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>En vous engageant à grandes enjambées dans l'enchevêtrement de lianes, vous découvrez qu'elles sont aussi épaisses et solides que des troncs d'arbre. Au contact, les lianes réagissent et une masse tortillante d'épines et de feuilles aussi tranchantes que des lames de rasoir vous encercle rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Examinez les lianes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>À travers les trouées de cet enchevêtrement de végétation, vous distinguez une grande salle circulaire. De temps en temps, vous apercevez du pelage fauve et entendez de faibles grognements par-dessus le bruissement des lianes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous avancez en retenant votre souffle et en prenant soin de ne pas effleurer la moindre feuille sur les branches qui vous entourent. Vous évitez de justesse une plante épineuse sur le point de s'abattre sur vous et parvenez in extremis à vous écarter du mur végétal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Au départ, vous parvenez à vous déplacer avec précaution entre les plantes. Mais à mi-chemin, [SkillCheck 0] marche sur une branche morte et une liane s'abat brusquement sur lui.</DefaultText>
+      <FemaleText>Au départ, vous parvenez à vous déplacer avec précaution entre les plantes. Mais à mi-chemin, [SkillCheck 0] marche sur une branche morte et une liane s'abat brusquement sur elle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Les lianes s'enroulent impitoyablement autour des jambes de [SkillCheck 0], et la lutte qui s'ensuit fait réagir la végétation environnante qui s'enchevêtre frénétiquement. [SkillCheck 0] parvient finalement à se dégager de l'étreinte du mur et sort en boitillant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous avancez en retenant votre souffle et en prenant soin de ne pas effleurer la moindre feuille sur les branches qui vous entourent. Malgré vos efforts, votre épaule reste coincée contre une branche en fleurs et une liane s'enroule brusquement autour de vos jambes. Vous vous dégagez rapidement et profitez de votre élan pour échapper à l'étreinte du mur végétal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous accédez à la salle suivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>À la vitesse de l'éclair, vous vous jetez sur [SkillCheck 0] pour l'écarter et les lianes manquent leur cible. Mais l'agitation éveille l'attention d'autres plantes et vous vous ruez tous les deux vers l'extrémité opposée du mur végétal.</DefaultText>
+      <FemaleText>À la vitesse de l'éclair, vous vous jetez sur [SkillCheck 0] pour l'écarter et les lianes manquent leur cible. Mais l'agitation éveille l'attention d'autres plantes et vous vous ruez toutes les deux vers l'extrémité opposée du mur végétal.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Une liane finit par vous atteindre, tel un gourdin, et vous êtes brusquement repoussé dans la direction opposée. Le doux bruissement des lianes s'est transformé en rugissement qui résonne à travers la Gueule.</DefaultText>
+      <FemaleText>Une liane finit par vous atteindre, tel un gourdin, et vous êtes brusquement repoussée dans la direction opposée. Le doux bruissement des lianes s'est transformé en rugissement qui résonne à travers la Gueule.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

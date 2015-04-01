@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_rhemen_spider_tunnel_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cet imposant tunnel serpente sous terre et se prolonge vers l'est. Il est bloqué par un enchevêtrement scintillant de toiles d'araignées que vous devriez pouvoir négocier.
+
+Les parois situées au-dessous de ces toiles d'araignées semblent particulièrement fragiles et friables. Moyennant des outils adaptés, vous devriez être en mesure d'élargir le passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Élargissez le tunnel à l'aide d'un marteau et d'un burin.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Frayez-vous un chemin entre les toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Alors que vous vous frayez un chemin, la voix aiguë résonne une nouvelle fois dans votre tête. "Infiltre, poursuit ! Vous ne l'aurez pas." Vous entendez un jacassement famélique. "Maintenant. Mangez."
+
+De virevoltantes créatures aux mandibules grinçantes s'échappent des murs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Des filaments collants de toiles d'araignées pendillent à l'entrée du tunnel. Le passage qui y mène est suffisamment dégagé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Demandez à [Slot 0] de se débarrasser des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous examinez les filaments épais et visqueux. Vous allez devoir redoubler d'efforts pour vous y frayer un chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Demandez à [Slot 1] de se débarrasser des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Demandez à [Slot 2] de se débarrasser des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Demandez à [Slot 3] de se débarrasser des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Demandez à [Slot 4] de se débarrasser des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Demandez à [Slot 5] de se débarrasser des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>En se débattant, [Slot 0] se débarrasse des lourdes toiles d'araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 0] s'attaque à la toile d'araignée, mais ne parvient pas à déchirer ses différentes épaisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[N'essayez pas de vous débarrasser des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>En se débattant, [Slot 1] se débarrasse des lourdes toiles d'araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 1] s'attaque à la toile d'araignée, mais ne parvient à déchirer ses différentes épaisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>En se débattant, [Slot 2] se débarrasse des lourdes toiles d'araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 2] s'attaque à la toile d'araignée, mais ne parvient à déchirer ses différentes épaisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>En se débattant, [Slot 3] se débarrasse des lourdes toiles d'araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Slot 3] s'attaque à la toile d'araignée, mais ne parvient à déchirer ses différentes épaisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>En se débattant, [Slot 4] se débarrasse des lourdes toiles d'araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 4] s'attaque à la toile d'araignée, mais ne parvient à déchirer ses différentes épaisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>En se débattant, [Slot 5] se débarrasse des lourdes toiles d'araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 5] s'attaque à la toile d'araignée, mais ne parvient à déchirer ses différentes épaisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous trouvez une faille dans la roche et martelez les parois du passage. Friable, la pierre s'effondre. En quelques minutes, vous avez ouvert une brèche suffisamment grande pour vous glisser dans le tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Débarrassez-vous des toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>En vous débattant, vous coupez les lourdes toiles d'araignées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous vous attaquez à la toile d'araignée, mais ne parvenez pas à déchirer ses différentes épaisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Pénétrez dans le tunnel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Rampez sous les toiles d'araignées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Vous avancez à quatre pattes et vous sentez les toiles d'araignées collantes venir s'accrocher à votre dos. Vos mouvements sont de plus en plus difficiles et il vous faut déployer bien des efforts pour vous en libérer.
+
+Alors que vous sortez du tunnel en rampant, vos vêtements et vos cheveux sont recouverts de toiles d'araignées collantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

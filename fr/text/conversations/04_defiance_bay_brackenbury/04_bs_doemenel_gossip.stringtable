@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_doemenel_gossip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"C'est la personne dont je vous parlais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"L'assassin qui s'en est pris à Eldrid Wenfeld ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pas si fort, il va vous entendre ?"</DefaultText>
+      <FemaleText>"Pas si fort, elle va vous entendre !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"S'il a décidé de s'occuper du capitaine, c'est certainement déjà fait."</DefaultText>
+      <FemaleText>"Si elle a décidé de s'occuper du capitaine, c'est certainement déjà fait."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

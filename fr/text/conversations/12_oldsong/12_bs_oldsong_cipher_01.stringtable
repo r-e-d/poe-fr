@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_bs_oldsong_cipher_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Les intentions de votre ennemi sont comme les vagues qui se fracassent sur le rivage, vous les voyez arriver avant même qu'elles frappent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"... Lorsque ces pensées prennent forme et se propagent, elles entraînent l'esprit vers l'immédiateté. Selon votre volonté, un lac peut se transformer en mer en furie ou en mare paisible..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Il s'agit de canaliser les pensées de ses ennemis pour contrôler leur esprit... vous comprenez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"... Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous ne pouvez pas mentir à un Chasseur d'esprits, mais vous pouvez au moins faire semblant de m'amuser un peu, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

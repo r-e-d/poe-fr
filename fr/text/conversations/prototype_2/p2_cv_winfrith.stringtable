@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_winfrith</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme corpulent et souriant se tient derrière un comptoir en bois gondolé. Il est en train d'astiquer un écu. Il lève les yeux. "Je ne crois pas vous connaître. Mais c'est toujours un plaisir de voir un nouveau visage dans le village. C'est bon pour le commerce et ça fait toujours du bien de parler à quelqu'un. Mais que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bienvenue. Qu'est-ce que Winfrith peut faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je cherche une jeune noble qui s'appelle Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Il secoue la tête et glousse. "C'est ça le problème avec ces seigneurs. Ils s'imaginent que leur argent et leur nom de famille leur donnent droit à un traitement de faveur. Ils s'attendent à ce que tout le monde se mette à plat ventre devant eux, comme le font leurs serviteurs. Non, monsieur. Ce n'est pas comme ça que ça se passe à Dyrwood. C'est justement pour échapper à tout ça que nous avons rompu tout lien avec Aedyr. S'ils croient que..."</DefaultText>
+      <FemaleText>Il secoue la tête et glousse. "C'est ça le problème avec ces seigneurs. Ils s'imaginent que leur argent et leur nom de famille leur donnent droit à un traitement de faveur. Ils s'attendent à ce que tout le monde se mette à plat ventre devant eux, comme le font leurs serviteurs. Non, madame. Ce n'est pas comme ça que ça se passe à Dyrwood. C'est justement pour échapper à tout ça que nous avons rompu tout lien avec Aedyr. S'ils croient que..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bien sûr, bien sûr, j'y viens." Il se racle la gorge. "Je ne l'ai pas vue. Enfin, pas depuis qu'elle est portée disparue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hendyna ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Une alchimiste. Elle tient un petit étal près du centre du village. Elle a du talent, mais elle a eu un accroc avec des wurms l'autre jour. Elle a eu de la chance de ne pas tomber sur cet ogre. Il a enlevé tous les cochons de Rumbald. Vous êtes au courant ? Mais évitez de lui en parler. C'est encore un sujet sensible pour lui, et quand il commence à parler de cet ogre et de ses cochons, on ne l'arrête plus..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Winfrith, concentrez-vous. Je cherche la fille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Excusez-moi, mais qu'est-ce que tout cela a à voir avec Aelys ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je comprends très bien ce que vous ressentez, mais pour le moment, je cherche sa fille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oubliez ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Il vous fait un clin d'œil, la bouche toujours ouverte, et lâche un petit rire. "Désolé, je me laisse emporter parfois. Vous avez besoin d'autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Allez droit au but, je commence à perdre mon calme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Eh bien, comme je vous l'ai dit, et comme je l'ai dit à ces soldats, ce n'est pas comme ça que ça se passe ici. Le dernier qui a essayé de nous mener par le bout du nez, c'était un empereur, et on ne s'est pas laissé faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Que se passe-t-il à Dyrford ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Oh, c'est un petit village tranquille. Il ne s'y passe pas grand-chose. Et encore moins depuis l'affaire de l'Héritage. Voyant qu'ils ne pouvaient pas avoir d'enfants, les gens ont tout simplement arrêté d'essayer d'en avoir. Et je vous assure que ça rend le quotidien beaucoup moins drôle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ah, c'est ce seigneur qui vous envoie ?" Il grogne. "Mais au moins vous, vous êtes poli. Comme si ça ne suffisait pas qu'une petite armée débarque dans le village, il faut en plus qu'ils viennent se mêler de vos affaires."</DefaultText>
+      <FemaleText>"Ah, c'est ce seigneur qui vous envoie ?" Il grogne. "Mais au moins vous, vous êtes polie. Comme si ça ne suffisait pas qu'une petite armée débarque dans le village, il faut en plus qu'ils viennent se mêler de vos affaires."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Elle était très réservée." Il hausse les épaules et se remet à astiquer l'écu. "Mais vous savez comment sont les femmes. Toujours en train de jacasser entre elles. Tout ça est parfaitement innocent, cela dit, je ne critique pas. J'ai juste l'impression qu'elles ont toujours quelque chose à dire. Cette fille avait l'air plutôt calme, très timide. Mais même Hendyna a réussi à la faire parler, c'est dire."</DefaultText>
+      <FemaleText>"Elle était très réservée." Il hausse les épaules et se remet à astiquer l'écu. "Mais vous savez comment sont les femmes. Toujours en train de jacasser entre elles. Tout ça est parfaitement innocent, cela dit, je ne critique pas. J'ai juste l'impression qu'elles ont toujours quelque chose à dire. Cette fille avait l'air plutôt calme, très timide. Mais même Hendyna a réussi à la faire parler, c'est dire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Il pointe un doigt dans votre direction, la main tremblant d'excitation et d'émotion. "Vous voyez ! C'est le genre d'attitude dont je parlais ! Vous fouinez dans ce village sans le moindre respect pour ses habitants et vous vous attendez à ce qu'ils vous obéissent au doigt et à l'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

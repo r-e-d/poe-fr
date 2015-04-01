@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_kana_rest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>111</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous savez, on parle des Gardiens dans toutes les régions que j'ai pu visiter. Si la vie d'aventures ne vous réussit pas, vous pourrez toujours lire les âmes contre une pièce. Conseillez les gens. Dites-leur à quelle famille ils appartiennent, et contre qui ils devraient se battre en duel pour des offenses passées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous êtes également un nouveau venu dans le Dyrwood, [Player Name] - Qu'est-ce que vous en faites jusque-là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Cela peut devenir un peu écrasant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eh bien, vous n'aviez pas besoin d'adoucir vos paroles me concernant, si jamais cela doit aller trop loin. Nous trouverons les moyens de vous soigner, [Player Name]. Vous avez ma parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je suis désolé si j'ai manqué de tact auparavant, à propos du fait que vous soyez un Gardien. Je ne comprenais pas ce que cela implique. Est-ce difficile d'écouter les esprits en permanence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"J'y penserai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je me réjouis de voir que vous trouvez cela amusant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je pourrais probablement convaincre les gens de toutes sortes de choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du calme, Kana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Probablement plus sûr que de combattre des créatures." Kana glousse. "Et vous en tirez tout autant de tension."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Désolé. Il semble que je ne sois pas très fort à élever les esprits." Kana grimace. "C'était involontaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Bien, ce n'est... pas vraiment l'approche à laquelle je pensais, mais c'est très clair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je n'ai pas vraiment eu de temps pour apprécier la vue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ces gens sont des fous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Comment savez-vous que je ne suis pas un local ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Kana rit. "Il est écrit Rauatai partout sur vous. Ce n'est pas une tare, ceci dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"C'est juste. Je suis ici depuis peu, en ce qui me concerne, mais je trouve que les locaux laissent une forte impression. Et, euh, la nourriture également."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"... C'est juste une impression que j'ai. Interne." La bouche de Kana se tord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Il semble qu'il y ait des problèmes de brassage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Les gens semblent être assez gentils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Oh, rien d'embarrassant. J'ai l'oreille pour les accents, et les gens ici sont, euh, colorés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je suppose donc que personne ne vous a encore entraîné dans une bagarre." Kana vous offre un rictus disproportionné. "Ni moi. On parle beaucoup du tempérament du Dyrwood, mais jusque-là ils se sont largement relâché à ce sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vous croyez ? Je suis surpris que personne ne vous ait encore entraîné dans une bagarre. Un dyrwoodan n'aime rien mieux que d'avoir l'occasion de démontrer sa haine des Aedyrans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ils sont par ailleurs assez rafraîchissants, je trouve. J'ai passé une heure ou deux à discuter avec les habitués dans une taverne ou deux, et tout le monde, depuis le tavernier jusqu'à la serveuse, a une opinion à partager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vous avez donc rencontré les locaux ?" Kana rit. "Je ne crois pas qu'ils soient si durs. On parle beaucoup du tempérament du Dyrwood, mais jusque-là ils se sont largement relâché à ce sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Cela semble être une tendance dans ces régions. Quand les troubles ne concernent pas les Glanfathans, ils ont lieu parmi les dyrwoodans eux-mêmes. Je trouve étrange qu'un peuple encerclé par des ennemis puisse se déchirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Il y a ce chant de marins que j'ai entendu par hasard chanter de temps en temps. À propos d'une femme qui réunit les noms de ceux qu'elle a aimé - l'équipage, vous voyez - et tisse avec chacun d'entre eux un joyeux destin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"L'animancie semble être le sujet du jour ici. Vous avez plus de relations avec les âmes que moi, qu'en pensez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"En tant qu'érudit je dois reconnaître son potentiel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Je pense qu'il est incroyable que nous détenions autant de pouvoir sur nos propres âmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vous n'êtes pas aussi intéressé par le sujet ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je pense que je suis las d'entendre parler de ce sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Bien sûr." Kana agite sa main. "Mais en termes concrets, vous approuvez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Oh non, je trouve que c'est fascinant. Je ne pense pas que vous pouvez vraiment étudier les Engwithans sans plonger dans les techniques et les recherches que les animanciens expérimentent aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je trouve que c'est très bien organisé. Les dosages et les mesures. Alors qu'avec les Engwithans, leurs dons avec l'adra et l'énergie de l'âme semblent plus être de... l'art. L'un est une carte du ciel et l'autre est une ballade chantée par un pilote solitaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Oui. En révélant les secrets de l'âme, nous pouvons réaliser notre plein potentiel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Oui, n'est-ce pas ? Les afflictions de l'âme, traitées comme on soignerait une jambe cassée... Qui sait - nous assistons peut-être à l'aube d'un âge d'or."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Les animanciens ont bousillé leur temps de recherches, et ce sont toujours les gens innocents qui en payent le prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Cela a sûrement aidé également de nombreuses personnes, n'est-ce pas ? Ceux souffrant de maladies de l'âme, ou affligés de sautes d'humeur et de pulsions criminelles. Et même la lecture des lignées d'âme, les gens ont une meilleure appréciation de leur place dans le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je préfère que mes vies passées y restent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"[Player Name]... Pensez-vous qu'un homme seul puisse changer le cours de la destinée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Kana soupire. "Il y a des gens, vous compris, qui semblent changer le monde en le traversant simplement." 
+
+"Et il y en a ceux qui manœuvrent et complotent, tirant des fils dans l'ombre et de cette manière renversent des ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vous n'aimez pas les questions faciles, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Une femme pourrait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Pourquoi posez-vous question ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je ne crois pas en la destinée. Le destin est ce que vous en faites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Non. Les choses s'agencent selon la volonté des dieux. On ne peut rien y faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"S'il avait eu la volonté et les moyens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Mais... alors est-ce qu'un dieu n'agirait pas à travers vous ? Si Thaos n'a pas assassiné le duc, alors les émeutes n'ont jamais eu lieu. Jouons-nous un rôle déjà écrit, ou sommes-nous simplement inexorablement tirés vers une destination ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Attendez, vous n'êtes pas en train de planifier l'assassinat de quelqu'un n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Bien sûr que non ! Je voulais juste dire que... Je me demande si je ne m'étais pas complètement trompé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Les moyens... c'est le point de friction, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Il était temps que vous adoptiez une approche plus active. Qui tuons-nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous demandez si j'ai déjà craqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je suis fatigué d'être entraîné dans les problèmes des autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Cela a été assez utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Toutes mes excuses. Changeons de sujet. Beau temps, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"J'apprécie le débat que cela a soulevé. Ces sujets méritent réflexion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Non. Je pense que nous touchons à des sujets qui nous dépassent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Hm. Et Aloth ne semble pas non plus être d'accord, n'est-ce pas ?"
+
+"Bien, merci de prêter une oreille. J'ai hâte de voir où tout cela mène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Le mystère a du bon, je suppose." 
+
+"Bien, merci de prêter une oreille. J'ai hâte de voir où tout cela mène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Rien de bon ne sort de ce genre de pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Je préfère rester en dehors de tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"D'accord. Changeons de sujet. Beau temps, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Je ne sais pas encore quoi en penser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Nous sommes deux alors. J'ai vu de nombreux exemples du bien qui peut en ressortir, un remède pour la maladie de l'âme et la lecture des lignages d'âme... Mais avec autant d'accidents - l'incident de Baelreach, par exemple - ils ont difficilement fait bonne impression ici dans le Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Personne ne mérite plus le repos. Vous avez fait beaucoup pour aider les gens ici." Kana soupire. "Nous trouverons une solution. Vous avez ma parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Dommage, comme ils semblent en posséder beaucoup." Kana rit doucement. "Désolé. Mais je suis sûr que nous trouverons une solution. Je vous aiderai en attendant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"On pouvait penser qu'ils réagiraient au bout d'un moment." Kana soupire. "Bon, nous trouverons une solution. Je vous aiderai en attendant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vous avez géré tout cela avec un calme remarquable. Je ne suis pas sûr que j'en ferai de même, si j'étais à votre place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"On ne peut nier que les morts sont d'excellentes sources d'informations, parfois..." Kana tousse. "Désolé. En tout cas, nous devons trouver une solution pour cela. Vous pouvez compter sur mon aide en attendant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Difficilement. Vous avez l'air de bien supporter tout cela, si vous arrivez à plaisanter à toute heure. Je m'en réjouis pour votre esprit - ils nous a sauvé bien à plusieurs reprises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous semblez assez équilibré pour nos occupations." Kana sourit. "Et dans tous les cas, nous trouverons une solution bien avant que la malédiction de Maerwald ne se produise. Vous avez ma parole."</DefaultText>
+      <FemaleText>"Vous semblez assez équilibrée pour nos occupations." Kana sourit. "Et dans tous les cas, nous trouverons une solution bien avant que la malédiction de Maerwald ne se produise. Vous avez ma parole."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"J'imagine. Tous les morts réunis, réclamant de l'attention." Kana tousse. "Désolé. En tout cas, nous devons trouver une solution. Vous pouvez compter sur mon aide en attendant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Quoi ? Non ! Eh bien, c'est-à-dire... Non, non, ce n'est pas ce que je voulais dire. Je me demande juste si je ne me suis pas complètement trompé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Pourquoi me dire cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"C'est une étrange histoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Si seulement c'était aussi simple que de prononcer un nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"N'est-ce pas le cas ? Ce ne sont peut-être que des paroles, mais en mettant un mot après l'autre, vous finissez souvent par sortir un sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ajoutez-y un air et, ma foi, un homme pourrait partir au combat en chantant, non ?" Kana glousse. "En tous les cas, votre nom contient encore de la puissance, je pense. Vous devrez faire votre propre tissage, cependant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Mais occupons-nous d'abord de l'âge dans lequel nous sommes. Après vous, mon ami."</DefaultText>
+      <FemaleText>"Mais occupons-nous d'abord de l'âge dans lequel nous sommes. Après vous, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je préfère garder les idées claires à propos de tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Intéressant. Je me demande si cela parle à votre opinion sur l'animancie ou sur les êtres civilisés. Ha, mais je ne vais pas vous déranger plus longtemps. Mettons-nous en chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Une position équitable. Je suis sûr que le Dyrwood ne laissera pas traîner le sujet. Nous sommes sûrs d'en entendre parler. Mettons-nous en chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ainsi va la promesse... Eh bien, qui sait ? Nous verrons peut-être l'aube d'un âge d'or, conforme à la prophétie des animanciens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Hm. Peut-être avec quelques régulations, alors ? Ah, mais qui en saurait assez pour placer des limites adéquates ?" 
+
+"Bien, merci de prêter une oreille. J'ai hâte de voir où tout cela mène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Bien, merci de prêter une oreille. J'ai hâte de voir où tout cela mène."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Bref, vous semblez assez équilibré pour nos occupations." Kana sourit. "Et dans tous les cas, nous trouverons une solution bien avant que la malédiction de Maerwald ne se produise. Vous avez ma parole."</DefaultText>
+      <FemaleText>"Bref, vous semblez assez équilibrée pour nos occupations." Kana sourit. "Et dans tous les cas, nous trouverons une solution bien avant que la malédiction de Maerwald ne se produise. Vous avez ma parole."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je me moque de vos histoires ridicules."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Une femme à l'appétit démesuré, en effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Oh, conversation stérile. Mais également parce que j'ai réfléchi au pouvoir des noms. Cet homme que vous pourchassez, ce Thaos. Il prend un nom engwithan. Je me demande s'il y a une raison à cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"J'ai des questions bien plus importantes à lui poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Peut-être pourrons-nous lui poser la question lorsque nous le trouverons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Je veux simplement être guéri. Je me moque de savoir qui il est."</DefaultText>
+      <FemaleText>"Je veux simplement être guérie. Je me moque de savoir qui il est."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Désolé, je voulais simplement... je vous laisse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"En effet. J'aurais également quelques questions à propos de la Clé plombée. Oh, mais vous aurez la primeur, bien sûr. Les priorités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Bien sûr. Désolé. Je ne voulais pas le sous-estimer. Loin de là - peut-être que si nous comprenons notre ennemi, nous le retrouverons plus facilement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Et je trouve que l'équipe a du mal à partager." Kana tousse. "En tous les cas, je me retrouve à réfléchir sur le pouvoir des noms. Cet homme que vous pourchassez, ce Thaos. Il prend un nom engwithan. Je me demande s'il y a une raison à cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"La plupart des chants de marins ont une touche d'étrangeté, non ? Pourtant, je ne le mentionne que parce que je me retrouve à réfléchir au pouvoir des noms. Cet homme que vous pourchassez, ce Thaos. Il prend un nom engwithan. Je me demande s'il y a une raison à cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Dame Webb disait qu'il était un homme à la longue vie..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ha, je doute que cela soit aussi simple. Un geste symbolique, peut-être. Comme nommer une lame 'Cœur de Feu' en l'honneur de Magran." 
+
+"Mais je ne voulais pas vous importuner. Mettons-nous en chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Vous me connaissez. Toujours à fouiller là où je ne devrais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Vous ne pourrez pas changer ce qui adviendra. Pourquoi vous en soucier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Provoquer le chaos est une chose. C'en est une autre de provoquer un changement durable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Il rit doucement. "Oui, je pense qu'elle pourrait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"De quoi s'agit-il réellement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"J'ai essayé de ne pas le faire. Je trouve cela très difficile;" Les épaules de Kana s'affaissent. "Mais je pense vraiment que je me suis complètement trompé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Je suppose que vous avez raison..." Dans ce cas, le temps le dira - nous verrons quelles leçons la Baie du défi tirera de cette épreuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Je me demande si je ne me suis pas complètement trompé." Non, pas ce qui concerne le meurtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je voulais rapporter un artefact qui résoudrait tous les problèmes de Rauatai pour moi. Après tout ce que l'on a vu et fait, je sais que je devrais à nouveau les convaincre. Même si je dois leur rabattre leurs oreilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Je voulais rapporter un artefact qui résoudrait tous les problèmes de Rauatai pour moi. Après tout ce que l'on a vu et fait, je ne suis pas sûr que ça aurait servi à grand chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

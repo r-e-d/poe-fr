@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_battered_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les habits raffinés de cet homme sont déchirés, et du sang jaillit d'une plaie récente au-dessus de son œil. Il essaye de se relever seul, mais son bras est tremblant. Il grimace de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Aidez-le.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"M-merci." Il halète en se levant. "Ma tête..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je n'arrive pas à croire qu'ils vous ont attaqué au milieu de la rue !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dois-je aller leur donner une leçon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Moi non plus." Il étire lentement une jambe, grimaçant à la vue de son genou éraflé. "C'est une partie assez dure de la ville, mais la populace n'a jamais été violente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Laissez-moi juste d'abord partir d'ici, d'accord ?" Il soupire et se frotte la tête. "Le Faveur d'Ondra n'a jamais été si mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Il tamponne soigneusement son nez ensanglanté avec un mouchoir de soie. "J'étais en chemin vers le Club." Il étire lentement une jambe, grimaçant à la vue de son genou éraflé. "C'est une partie assez dure de la ville, mais la populace n'a jamais été violente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Même une nuit avec Iqali ne mérite pas cela." Il part en boitant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je veux juste rentrer chez moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'homme essaye encore de récupérer ses affaires. Il sonde un hématome grandissant sur sa mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

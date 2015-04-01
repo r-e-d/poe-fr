@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_silence_questions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vos questions commencent à m'ennuyer. Ça suffit maintenant. Poursuivons notre route jusqu'au prochain feu de camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous êtes au service de Wael ou quoi ? Laissons-lui ces mystères et ces questions, au moins jusqu'à notre prochaine escale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Des yeux de Wael sont-ils peints sur votre peau ? Il y a plus de mystères que de questions, et un cortège entier de réponses ne suffira pas à vous calmer. Même les soldats ont besoin de réfléchir... comme leurs prêtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nous ne suivons pas le même chemin, Gardien. Gardez vos questions pour un autre jour."</DefaultText>
+      <FemaleText>"Nous ne suivons pas le même chemin, Gardienne. Gardez vos questions pour un autre jour."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous me cassez les pieds. Taisez-vous et gardez vos questions pour vous si vous voulez préserver vos forces jusqu'au prochain feu de camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

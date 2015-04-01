@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_supplicant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mon seigneur, j'ai une affaire importante qui requiert votre attention..."</DefaultText>
+      <FemaleText>"Ma dame, j'ai une affaire importante qui requiert votre attention..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Des progrès importants ont été fait, mon seigneur ?"</DefaultText>
+      <FemaleText>"Des progrès importants ont été fait, ma dame ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je ne voudrais pas vous presser, mon seigneur, mais... le temps presse."</DefaultText>
+      <FemaleText>"Je ne voudrais pas vous presser, ma dame, mais... le temps presse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Salutations, mon seigneur. Y a-t-il des nouveaux faits à propos de l'affaire qui nous occupe ?"</DefaultText>
+      <FemaleText>"Salutations, ma dame. Y a-t-il des nouveaux faits à propos de l'affaire qui nous occupe ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

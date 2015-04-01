@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_doemenel_thug</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Des brutes menaçantes s'approchent de vous. Très étrange puisque vous vous trouvez au milieu de nulle part.
+
+"Gedmar Doemenel vous transmet son bon souvenir," dit l'un d'entre eux. "Et présente ses condoléances à votre famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ses condoléances ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Étrange. Je pensais en faire de même pour vos familles." [Attaquez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Le chef du groupe dégaine une lame, émoussée et tachée à force d'avoir servi.
+
+"Si un Doemenel vous propose un marché, vous acceptez."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

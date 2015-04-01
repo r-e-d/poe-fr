@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_deathguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Champion de Berath</DefaultText>
+      <FemaleText>La Championne de Berath</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retournez à la forteresse de Raedric et trouvez votre adversaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Terrassez Raedric VII</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez à la forteresse de Raedric et trouvez votre adversaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Après avoir tué le seigneur Raedric, je pensais la Vallée dorée libérée de son influence. Mais il semble que quelque chose s'agite encore dans cette grande forteresse. Il pourrait s'agir d'un nouvel usurpateur qui en a après le trône, ou d'une simple superstition. Dans tous les cas, il vaudrait mieux enquêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Alors que j'étais dans le Jeune arbre céleste aux Ormes jumeaux, j'ai rencontré un ancien garde de la Vallée dorée. Il affirme que le seigneur Raedric lui-même est retourné à sa forteresse... alors que je l'ai occis de mes mains.
+
+Apparemment, Raedric cherche à se venger de moi pour lui avoir pris la vie et il m'a lancé un défi. Je devrais peut-être vérifier l'authenticité de ces récits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Il semble que la volonté de Raedric lui a permis de s'accrocher à son enveloppe mortelle et à ce cycle. Il ne sera pas facile de l'en défaire une nouvelle fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Il semble qu'on m'a lancé un défi… et le responsable n'est autre que le seigneur Raedric VII, que je pensais mort.
+
+Raedric souhaite que je le rejoigne à sa forteresse pour une ultime rencontre. Ma propre forteresse risque sinon de subir de nouveaux assauts. Je ne sais quel sinistre sort ou supercherie est à l'origine de cette apparente résurrection, mais la réponse se trouve à la forteresse de Raedric.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Il semble que Nedmar a survécu au changement de régime. Il m'a dit que le Seigneur Raedric m'attend en haut de sa tour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Il semble qu'Osrya a survécu au chaos entourant le retour de Raedric, et a retrouvé son ancienne position de favorite. Néanmoins, elle n'a pas mis longtemps à me dire où il se trouve : il m'attend au plus haut point de la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un personnage vital pour accomplir cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai vaincu le seigneur Raedric VII une bonne fois pour toute.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

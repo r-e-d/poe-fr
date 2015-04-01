@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_tsk_songs_of_the_wild</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Chants de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez et capturez les trois rares oiseaux chanteurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Delem à Oldsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Delem, l'incantateur d'Oldsong, cherche de rares oiseaux chanteurs. Il prétend que la consommation de ces oiseaux exotiques lui permettra d'absorber leur nature musicale. Il espère ainsi composer un chant suffisamment puissant pour repousser le vent glacial qui souffle sur Oldsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Delem, un Orlan du quartier d'Oldsong, regrette les joyeux oiseaux qui virevoltaient et chantaient sur la place avant que le vent de Noonfrost ne les chasse.
+Delem pense qu'en consommant la chair de trois rares oiseaux chanteurs, celle-ci renforcera son esprit et lui permettra de faire revenir la foule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai capturé les trois rares oiseaux chanteurs pour Delem. Je vais aller le retrouver dans le quartier d'Oldsong, aux Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Delem m'a confié de précieuses informations sur les oiseaux qu'il recherche.
+
+Très prisé des Glanfathans, le tîam vit généralement en captivité, mais il se fait rare.
+
+L'élytre est un petit oiseau qui vit d'ordinaire dans les sous-bois, et plus particulièrement à proximité des imposantes structures d'adra où son plumage d'un turquoise irisé se confond avec la roche.
+
+Enfin, Delem veut un chante-nuage, un oiseau très solitaire et difficile à capturer qui niche exclusivement contre les parois rocheuses des plus hautes montagnes d'Eir Glanfath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé un élytre non loin des Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé un tîam dans une maison du quartier d'Hearthsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai attrapé un superbe chante-nuage au sommet d'une montagne, près du temple d'Hylea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai trouvé trois oiseaux chanteurs pour Delem. Il était très satisfait de mes efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Après avoir discuté avec les prêtres d'Hylea, j'ai réussi à faire comprendre à Delem qu'il avait tort de penser qu'en mangeant ces oiseaux, il s'octroierait leurs pouvoirs. Visiblement, il était un peu déçu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Après avoir discuté avec Llensi, l'heureuse propriétaire d'un des rares oiseaux chanteurs, j'ai appris que le plan de Delem reposait sur une superstition des Orlans sauvages. J'ai réussi à lui faire entendre que son plan était une erreur et il y a renoncé à contrecœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Échec de la quête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

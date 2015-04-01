@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_tayr_nowneth_machine_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Un pilier d'adra ébréché se dresse devant vous, recouvert de pierres travaillées et incrusté de veines de cuivre. Des runes inintelligibles couvrent le panneau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Inspectez la machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Quittez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Choisissez « Terminer ».]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Maximisez le réglage de la machine dans l'espoir de surcharger l'appareil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Au moment où les mots de commandes quittent vos lèvres, le cadran plonge dans l'adra sous votre main. Un bruit semblable à un coup de tonnerre éclate au-dessus.
+
+La lueur s'évanouit de la machine au fur et à mesure qu'elle se désactive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Murmurant une commande, vous tournez violemment le cadran. Les flèches mobiles tournent de plus en plus vite, vacillant sur leurs axes. La lumière emplissant la machine devient rapidement trop brillante à soutenir.
+
+Vous détournez le regard et couvrez vos oreilles, mais le terrible craquement qui suit secoue le sol sous vos pieds. Lorsque vous regardez à nouveau, la machine est détruite, impossible à utiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Un rayon de soleil de filaments de cuivre entoure un cadran, deux fois plus grand qu'un œuf de poule. Les filaments se croisent et divergent, se terminant en un amas de nœuds. Chaque fil a un point d'origine quelque part au bord du cadran.
+
+Des runes sont inscrites autour du cadran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Redirigez le flux d'essence vers vous-même selon les instructions d'Aldhelm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Un pilier d'adra ébréché se dresse devant vous, recouvert de pierres travaillées et incrusté de veines de cuivre. Le panneau est recouvert de runes, que vous pouvez maintenant comprendre.
+
+Vous reconnaissez les mots pour « Terminer », et pour « Maintenir ». Le cadran est réglé sur « Maintenir ». Vous reconnaissez également une inscription qui décrit que la façon de tourner le cadran permet d'accélérer l'appareil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Tournez le cadran.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Rien ne se passe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous regardez les fils de cuivre et vous vous rappelez ce qu'Aldhelm vous a montré. Vous tordez le cadran vers l'ensemble de nœuds le plus éloigné et commandez à la machine de libérer l'essence.
+
+Vos os bourdonnent et vos dents vibrent tandis qu'un étrange pouvoir vous emplit. Votre sang semble bouillir et vous appuyez vos mains sur votre tête pour contenir la pression grandissante. Juste au moment où vous allez crier, la douleur cesse et vous ne ressentez que puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

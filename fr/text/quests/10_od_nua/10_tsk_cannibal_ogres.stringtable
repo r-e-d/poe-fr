@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_tsk_cannibal_ogres</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Mesures désespérées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Zolla, la chef des ogres, et récupérez son torque de cérémonie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rapportez le torque à Thulgar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Piégé dans une partie des Chemins Infinis d'Od Nua, un clan d'ogres a succombé au cannibalisme pour survivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Un des ogres que j'ai rencontré s'est montré relativement bavard. Thulgar prétend être l'un des derniers, sinon le dernier, des ogres encore sain d'esprit. Les autres obéissent aux ordres de leur chef, Zolla, chez qui la faim a déclenché de terribles cauchemars qui l'ont fait sombrer dans la folie, à tel point qu'ils se livrent désormais au cannibalisme pour rester en vie. Thulgar m'a demandé une chose dont il est incapable : tuer Zolla pour mettre un terme à sa brutalité. Il m'a demandé de lui rapporter son torque en guise de preuve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai tué Zolla, la chef des ogres. Il ne me reste plus qu'à informer Thulgar que j'ai accompli ma mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai informé Thulgar que ma terrible mission est accomplie : Zolla est morte. Cette nouvelle a semblé l'apaiser, malgré le chagrin qu'elle lui a causé. Avec un peu de chance, il trouvera un endroit pour s'installer, loin d'ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Estimant que je n'avais aucun intérêt à aider un ogre mangeur d'hommes, je l'ai tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai informé Thulgar que ma terrible mission est accomplie : Zolla est morte. Il a semblé chagriné par cette nouvelle, mais soulagé que tout soit terminé, sûr de la retrouver dans l'au-delà le moment venu. Il m'a néanmoins adressé des remerciements.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

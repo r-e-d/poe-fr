@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_sevis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme se retourne vers vous, essuyant du sang sur son estoc. Ses sourcils froncés trahissent un moment de confusion. Mais en vous regardant, un sourire lent et confiant lui traverse le visage. "La Marque de fer ne rencontre que très peu de voyageurs de ce côté de la route. Que ferait-il là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Un elfe met la tête sur le côté. "Comme nous, il cherche peut-être cet œuf de dragon, chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Un nain jure et crache dans l'herbe. "C'est une question rhétorique, imbécile." Il tient fermement son épée. "Tout le monde sait que les routes qui desservent les villages grouillent de brigands. Ce sont certainement des bandits... comme nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attaquez] "Faites le pire que vous pouvez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"On va certainement pouvoir se partager le butin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je retourne sur la route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pourquoi voudriez-vous un œuf de dragon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Il rit. "Pour le vendre, bien sûr. Si c'était pour le manger, j'aurais aussi volé des cochons dans cette ferme de Dyrford."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Excellente idée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Posez votre argent et votre matériel à vos pieds..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Et là, le partage sera honnête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Chef, je doute qu'ils acceptent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"J'aimerais vous laisser partir, mais Raolf a tendance à tirer dans le dos des gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Les bandits se regardent. L'elfe ouvre la bouche pour parler, mais les autres s'empressent de le faire taire. Leur chef retrouve ce sourire confiant. "Un œuf en bon état peut facilement atteindre 400 pands. Mais, comme nous étions ici les premiers, nous allons devoir ajouter quelque chose pour le temps et les efforts déployés..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>L'elfe brandit son pistolet. "Vous savez que je me suis beaucoup entraîné ! Je pourrais facilement les atteindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Mentez] "Seuls les jeunes dragons marquent leurs œufs. Alors, vous n'avez plus qu'à espérer le vendre à un pauvre bougre avant que la mère ne vienne le récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Il sourit. "Merci pour l'avertissement, mais je crois que je vais tenter ma chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Les autres bandits murmurent. Le chef lève la main. "Du calme ! Vous n'allez tout de même pas croire une telle chose... Et même si c'était vrai, nous le vendrions avant que cela arrive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Passons un marché. Vous vous en allez et je vous donne la valeur de l'œuf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Payez 800 cp.] "Tenez. Et maintenant, allez-vous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vous me faites marcher. Je ne vous donnerai pas un sou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Que savez-vous sur les œufs de dragon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Il hausse les épaules. "Ils sont ronds et gros et ils viennent des dragons adultes et jeunes. Qu'y a-t-il d'autre à savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Des tas de choses, et c'est la raison pour laquelle vous ne devriez pas déranger leurs nids."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je ne veux pas prendre de risques avec les dragons. Dites ce que vous voulez, je m'en vais." Elle part précipitamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Formidable la présence d'un œuf géant tout près. Rien ne m'ouvre plus l'appétit que de piller des cadavres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Pour une fois, Raolf, je crois que vous avez eu une bonne idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Attention. On dirait que vous mettez en doute mon honnêteté..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Il baisse la tête. "Je suis là pour faire des affaires. J'espère que nous aurons l'occasion de faire de nouvelles affaires ensemble, un jour. En attendant, au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Laissez-la partir. Notre part sera plus importante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Où allez-vous, bande de lâches ?" Il regarde Raolf et Norgar s'enfuir d'un air consterné. Puis, il vous regarde. "Chaque chose en son temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Cela... ne sent pas bon pour nous." Il commence à reculer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Raolf. Ce n'est pas drôle si je dois tout expliquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Il hausse les épaules et brandit son arme. "Ça valait le coup d'essayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Les bandits se regardent. L'elfe ouvre la bouche pour parler, mais les autres s'empressent de le faire taire.
+
+Leur chef retrouve ce sourire confiant. "Je pensais que vous étiez un marchand. Un œuf en bon état peut facilement atteindre 400 pands. Mais, comme nous étions ici les premiers, nous allons devoir ajouter quelque chose pour le temps et les efforts déployés..."</DefaultText>
+      <FemaleText>Les bandits se regardent. L'elfe ouvre la bouche pour parler, mais les autres s'empressent de le faire taire.
+
+Leur chef retrouve ce sourire confiant. "Je pensais que vous étiez une marchande. Un œuf en bon état peut facilement atteindre 400 pands. Mais, comme nous étions ici les premiers, nous allons devoir ajouter quelque chose pour le temps et les efforts déployés..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"J'ai vu toutes sortes de redoutables créatures. Certaines bien pires qu'un drake en colère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Excellente idée ! Un véritable porteur de bouclier, celui-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Cela... ne sent pas bon pour nous. J'ai entendu parler des Marcheurs austères..." Il commence à reculer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

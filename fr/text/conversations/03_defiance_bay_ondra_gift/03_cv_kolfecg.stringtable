@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_kolfecg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un jeune homme elfe louche de surprise en vous voyant. "Vous ne pouvez pas simplement débarquer dans la maison des gens comme ça ! Pour qui vous prenez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quoi encore ?" Il vous regarde avec nervosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous avez été très clair. Partez maintenant."</DefaultText>
+      <FemaleText>"Vous avez été très claire. Partez maintenant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je suis un ami de Bricanta Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"L'elfe qui vit ici ! Maintenant sortez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Il fait un pas en arrière. "Attendez une minute. Je ne me frotte pas aux Doemenel, vous comprenez ? Je suis sûr qu'on peut oublier cet incident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je ne vous ferai pas de mal, mais vous devez quitter la Baie du défi. Bricanta vous en veut à l'évidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Qu'avez-vous fait pour la rendre si furieuse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Vous n'avez pas à me le dire deux fois." Il se précipite à la porte. "Ils ne me trouveront pas, promis. Qu'Ondra vous bénisse !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Attaquez] "J'ai bien peur que Bricanta Doemenel n'ait pas oublié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Attaquez] "Les Doemenel ne chérissent pas vraiment le pardon. Moi non plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Passez-le à tabac.] "Remerciez-moi de simplement vous rosser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Passez-le à tabac.] "Si je ne vous donne pas une bonne leçon, Bricanta enverra quelqu'un le faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je lui ai dit qu'elle n'était pas mon genre ! Peut-être pas de manière aussi correctement, mais je ne voulais pas m'attirer les foudres de l'homme le plus dangereux de la Baie du défi. Comment aurais-je pu savoir qu'elle le prendrait personnellement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Attendez, vous ne pouvez pas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

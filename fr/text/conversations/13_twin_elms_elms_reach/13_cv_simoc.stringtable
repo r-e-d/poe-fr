@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_cv_simoc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>138</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un vieil elfe grisonnant, les cheveux tressés et teints, se tient à un bout du couloir. Ses bras et sa poitrine portent de pales cicatrices.
+
+Il sourit d'un air forcé.
+
+"Rares sont les estramors autorisés à pénétrer dans notre cité sacrée. Bethwl doit être de particulièrement bonne humeur aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Simoc croise les bras sur sa poitrine balafrée."Autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Il vous fait un signe de la tête. "[Player Name]. Que cherchez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous ne semblez pas vraiment apprécier les estramors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que sont les Sables ensanglantés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Donnez à Simoc la potion d'essence.] "Tenez, voici la potion demandée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Il tend une main déformée par l'âge et les combats. Il approche la fiole d'un de ses yeux d'un bleu délavé.
+
+"Pour le salut de ma tribu."
+
+Il boit le contenu de la fiole d'une seule et longue traite. Puis son regard ragaillardi se porte à nouveau sur vous. "Et bonne chance, voyageur. Puisse ceci vous être utile."</DefaultText>
+      <FemaleText>Il tend une main déformée par l'âge et les combats. Il approche la fiole d'un de ses yeux d'un bleu délavé.
+
+"Pour le salut de ma tribu."
+
+Il boit le contenu de la fiole d'une seule et longue traite. Puis son regard ragaillardi se porte à nouveau sur vous. "Et bonne chance, voyageuse. Puisse ceci vous être utile."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Il tend une main déformée par l'âge et les combats. Il approche la fiole d'un de ses yeux d'un bleu délavé.
+
+"Pour le salut de ma tribu."
+
+Il boit le contenu de la fiole d'une seule et longue traite. Il déglutit, et après quelques secondes, il vous regarde. Sa respiration se fait de plus en plus difficile. "Vous... vous m'avez empoisonné." Il commence à lever la main en direction des guerriers qui se trouvent dans l'autre pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous êtes ici pour le Stelgaer à trois défenses ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Donnez à Simoc le poison.]"Tenez, voici la potion demandée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Bonjour, [Player Name]. Je..." Il se plie en deux, en proie à une soudaine quinte de toux.
+
+Alors qu'il se redresse, sa respiration s'accélère. "La potion semble toujours avoir... des effets secondaires inattendus." La suspicion qui se lisait sur son visage disparaît aussi vite qu'elle était apparue. "Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"J'ai des questions concernant la mission que vous m'avez confiée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vous venez à Teir Evron pour en savoir plus sur ce qui vous attend ?" Il affiche un large sourire qui découvre des dents jaunies et mal alignées. "Ou pour vous illustrer aux Sables ensanglantés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Un ancien lieu de sacrifice." Il croise les doigts. "Dans une grotte située à proximité des grands ormes.
+
+"Rehstin et ses druides font partie intégrante de la société glanfathane depuis des générations... quoi qu'en disent les autres tribus. Eir Glanfath a tenu bon face aux estramors car nous sommes un certain nombre à comprendre la puissance du sacrifice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Il vous regarde d'un œil critique. "Vous, en revanche... vous ne semblez pas en mesure d'en apprécier la cruelle nécessité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Il vous regarde d'un œil critique. "Cette idée vous met-elle mal à l'aise ? Elle devrait. C'est ce qui a permis à notre société de survivre aussi longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Il vous regarde d'un œil critique. "Mais vous et les Ethik Nôl avez déjà fait connaissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Il vous regarde d'un œil critique. "Ce n'est pas quelque chose que vos amies, les Ovates, sont en mesure d'apprécier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Parlez-moi du Stelgaer à trois défenses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"C'est la plus redoutable et la plus féroce des six grandes tribus d'Eir Glanfath. Nous avons été les premiers à nous défendre des estramors arrivés il y a deux siècles."
+
+Il redresse le menton. "Nous avons toujours vécu près de la frontière. Et il nous a toujours incombé de repousser les étrangers et les envahisseurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"En tant qu'Anamfath du Stelgaer à trois défenses, je guide notre tribu dans tous les domaines."
+
+Il regarde en direction de la pièce principale de la hutte où d'autres sont regroupés. "Je suis aux Ormes jumeaux pour m'entretenir avec les autres Anamfatha des onolfên, vos sans-âme. Nous n'en avons compté que de rares cas, mais cela a renforcé notre méfiance à l'égard de nos voisins."
+
+Un stelgaer s'étire, toutes griffes dehors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Les yeux de Simoc se plissent. "Certains d'entre nous pensent que vos onolfên sont le résultat de la profanation des sites des Bâtisseurs. D'autres, qu'il s'agit d'un mal répandu par les estramors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Hiravias se penche et chuchote. "À leur manière de toujours parler d'anciennes batailles, on croirait qu'il s'agit de la tribu du Martyr à trois défenses. Certes, ils sont redoutables et leur histoire est jalonnée d'actes héroïques. Je pense parfois qu'ils s'attaqueraient aux autres tribus s'ils n'avaient pas suffisamment à faire avec les intrus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bank Node 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Les gens n'en font qu'à leur tête. Et à la fin... quand il y a une fin... ils trouvent toujours des prétextes pour justifier leurs actes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Un mal dont souffre l'âme ? Voilà un concept intéressant, mais il ne s'est pas répandu au-delà des frontières de Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ces réponses ne font qu'attiser leur haine. Rien ne vient étayer ces accusations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ses épaules voutées se redressent. "J'ai participé à la guerre de la Pierre profanée ainsi qu'à celle des Arbres noirs. J'ai vu mes frères tomber alors qu'ils défendaient les sites des Bâtisseurs et j'ai moi-même fait couler le sang aux côtés de Galven Rêgd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Il tousse. "Aujourd'hui, les estramors pensent pouvoir trouver un remède aux sans-âme dans nos sites sacrés... voire un refuge sur nos terres."
+
+Son regard s'assombrit. "J'ai vu ce qui s'est passé lorsqu'ils ont jeté leur dévolu sur le sol glanfathan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Et cela vous inquiète ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Faites preuve de miséricorde. Ils essaient juste de sauver leurs enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Alors, vous devez résister. Leur donner une raison de ne pas approcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"N'y a-t-il pas assez de place pour tout le monde ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Et si les estramors arrivent ici en force, apportant avec eux le mal dont ils souffrent, qu'adviendra-t-il de nos enfants ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Il renifle. "J'ai connu bien trop de guerres pour ne pas m'en inquiéter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Simoc vous fixe du regard d'un air menaçant. "Prenez garde, estramor. Ma patience a été mise à rude épreuve aujourd'hui après avoir appris ce qui s'était passé aux Sables ensanglantés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Que se passe-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Le vieil homme a les cheveux en bataille. Son visage est marqué d'anciennes cicatrices et la colère qu'il éprouve. "Assassinés. Presque tous les druides des Ethik Nôl ont été massacrés sur leurs propres autels des Sables ensanglantés. Et personne ne sait qui se cache derrière cet acte odieux."
+
+Il secoue la tête et grogne. "Ces imbéciles de la Boussole guidée se réjouissent. Ils n'ont pas conscience de ce que nous avons perdu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Cela appartenait aux druides des Ethik Nôl. Certes, leurs pratiques et leurs sacrifices étaient décriés, mais ils nous ont offert de prodigieuses peintures de guerre."
+
+Il secoue la tête. "Renoncer à cet endroit alors que les estramors sont à nos portes... nous coûtera cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Il esquisse un sourire. "Vous me comprenez parfaitement. Peut-être étiez-vous un Stelgaer à trois défenses dans une autre vie.
+
+"Une telle férocité n'est pas courante chez les estramors. Peut-être comprendrez-vous la délicate situation dans laquelle je me trouve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Il renifle. "En deux siècles, la Baie du défi et la Nouvelle-Heomar ont connu une croissance exceptionnelle. Elles éclatent et empestent comme des cadavres bouffis.
+
+"Non. Les inviter sur nos terres nous conduirait à notre perte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Il vous regarde. "Vous pouvez peut-être nous aider. Rares sont ceux à en avoir le cran, mais je pense que cela conviendrait à quelqu'un de votre... trempe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Il vous regarde. "Vous pouvez peut-être nous aider. Rares sont ceux à en avoir le cran, mais je crois que vous êtes en mesure de comprendre pourquoi certaines frictions sont nécessaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Il vous regarde. "Bethwl a remarqué quelque chose en vous lorsqu'elle vous a ouvert les portes. Et vous avez pu voir ces lieux sacrés comme peu d'estramors les ont vus.
+
+"J'espère que vous comprenez mon besoin de les protéger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Au cours de mes deux cent cinquante années d'existence, j'ai livré deux guerres avec mon peuple. Nos frontières sont restées intactes grâce, notamment, à la réputation du Stelgaer à trois défenses."
+
+Sa voix se transforme en grognement. "J'ai engendré une douzaine d'enfants, mais aucun n'a été jugé digne de me succéder. Je n'ai que faire de ces histoires d'héritage qui obsèdent les seigneurs estramors, mais il est important que mon successeur poursuive ce que j'ai commencé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Votre fonction est-elle héréditaire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Si vos propres enfants ne peuvent pas vous succéder, qu'arrive-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Pas tout à fait. Nous pensons que les âmes de nos ancêtres nous reviennent et qu'une âme puissante peut en soutenir bien d'autres. Mais toutes les âmes doivent être mises à l'épreuve par nos anciens.
+
+"Les membres du rîow ont commencé par essayer de trouver un successeur parmi mes enfants, mais leurs âmes ont été jugées trop faibles. D'ordinaire, ils se tournent vers les autres membres de ma tribu, vers les chefs de clans et leurs proches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>" D'ordinaire, les membres du rîow se tournent vers les autres membres de ma tribu, vers les chefs de clans et leurs proches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"D'ordinaire." Il ajuste son regard. "Mais nous prenons également sous notre coupe la progéniture d'autres tribus et l'Anamfath de la Grue pêcheuse m'a confié son plus jeune enfant."
+
+Il grimace. "Et comme aucun de mes enfants n'a été jugé digne de me succéder, le rîow se penchera sur cette enfant des marécages, apparentée à un autre Anamfath et ma fille adoptive, pour me remplacer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ne pourriez-vous pas simplement la renvoyer dans sa famille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Une enfant des marécages ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Je ne vois pas le problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Il secoue lentement la tête. "Cela constituerait une grave insulte envers la Grue pêcheuse... et aurait de graves répercussions sur l'autre Anamfatha."
+
+"Je sais qu'elle ferait un bon chef, mais pas au sein du Stelgaer à trois défenses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Les Orlans de la Grue pêcheuse vivent au marécage de Thein depuis des millénaires. Ils sont rusés et sournois, des qualités indispensables pour se déplacer en toute discrétion dans les marais..." 
+
+Il croise les bras. "Mais cela ne dissuade en rien les estramors à terrain découvert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Il désigne les guerriers rassemblés près du feu. "Notre sauvagerie a dissuadé les estramors d'empiéter sur notre territoire. Nos exploits lors de la guerre de la Pierre profanée sont de tous leurs récits. Mais si une enfant de la Grue pêcheuse venait à prendre la tête de notre tribu, nous perdrions cet aplomb et les estramors n'auraient plus peur de nous."
+
+"Cette enfant sera influencée par les âmes de ses ancêtres. En temps de crise, elle se tournera vers ses proches du marécage de Thein pour demander conseil. J'aurai beau tout lui apprendre, cela ne lui suffira pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Ses épaules se raidissent. "J'ai beaucoup de respect pour la Grue pêcheuse. Mais nous sommes différents."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il vous regarde. "Vous pouvez peut-être nous aider. En raison notamment du fait que les Ethik Nôl vous connaissent et vous respectent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Il vous regarde. "Vous pouvez peut-être nous aider. En vous acquittant d'une tâche aussi difficile que... nécessaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous avez aidé les Fangs à repousser l'expédition étrangère. Vous devez comprendre les enjeux qui sont les nôtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Cette Orlane possède l'âme d'un chef. Si celle-ci venait à être transmise à un de mes enfants, notre tribu conserverait sa puissance."
+
+À côté de Simoc, un stelgaer se gratte la tête sur la jambe de l'Anamfath. Il ne chancelle pas. "Les druides des Sables ensanglantés savent le faire et comprennent combien il est important pour le Stelgaer à trois défenses de conserver une solide lignée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Expliquez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Il vous remet une clé. "Il y a une maison au sud-est d'Hearthsong, près de la rivière. L'enfant dormira et j'ai fait en sorte qu'elle soit... seule quelques instants."
+
+Sa voix se fait sourde. "Prenez-la et conduisez-la auprès de la gardienne Wrdha des Sables ensanglantés. Elle saura ce qu'il faut faire. Lorsqu'elle vous aura remis l'essence liquide, revenez me voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Très bien. Je vais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je ne ferai pas ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous avez perdu la tête ? Il est hors de question que je vous aide à tuer cette enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Que fera la gardienne Wrdha à cette enfant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Je ne vois pas pourquoi vous voulez que je m'en charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Comment pensez-vous pouvoir vous en sortir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Son visage balafré se crispe une nouvelle fois. "Avez-vous assisté aux rituels des Sables ensanglantés ? Nous la sacrifierons. C'est la seule manière de distiller son essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Parce ce qu'il m'est impossible de le faire sans attirer l'attention." Il fronce les sourcils. "Je n'aime guère me défausser sur quelqu'un d'autre, mais si je venais à être pris, cela déclencherait à coup sûr une guerre entre nos deux tribus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Parlez-moi de la potion que Wrdha doit vous concocter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"De l'essence, mélangée et distillée dans un liquide. Elle n'aura que peu d'effet immédiat sur moi, mais renforcera l'âme de ma descendance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Rares sont ceux à savoir que l'enfant est ici et un bébé orlan ressemble à tous les autres." Il hausse les épaules.
+
+"Mais laissez-moi m'occuper de cet aspect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Il acquiesce. "Vous entretenez de bonnes relations avec le peuple glanfathan. Agissez rapidement et discrètement, estramor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Redites-moi où je peux trouver l'enfant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Elle se trouve dans une maison à Hearthsong. Suivez la route en direction du sud-est jusqu'à la rivière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"C'est tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Il acquiesce. "Ce que je vous demande là est fort déplaisant... mais nécessaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je n'aime guère devoir agir ainsi. Mais deux siècles à la tête de cette tribu m'ont appris qu'on n'a rien sans rien."
+
+Il acquiesce. "Réfléchissez-y, estramor. Je sais me montrer généreux envers ceux qui me rendent service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Attaquez.]"C'est la fin de votre dynastie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Vous mériteriez que je vous tue pour cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>À côté de lui, les stelgaers grognent. "En présence de mes meilleurs guerriers ? Ce serait fort imprudent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"L'enfant orlane ? Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Edér ne prête pas la moindre attention à l'elfe. Son regard est fixé sur le stelgaer qui se trouve devant lui. Il s'adresse à vous en murmurant : "Vous croyez que ça le dérangerait si j'apprivoisais son stelgaer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Euh... chez moi... carresser d'un stelgaer n'a pas la même signification..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bank Node 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"D'après ce qu'on a vu, ces sites sacrés pourraient renfermer un remède."  
+
+"Ils protègent ces sites parce qu'on leur a demandé de le faire. Si seulement ils avaient le courage de se poser des questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ils sont désespérés. Les meilleurs d'entre eux veulent trouver un remède. Et les pires cherchent un prétexte pour piller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Eh bien, il A raison," marmonne Hiravias. "On apprend à se méfier de ses voisins lorsqu'ils profanent vos terres et ce, pendant des générations."
+
+Hiravias croise les bras et hausse les épaules. "Il a toutes les raisons d'Eora de s'inquiéter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Vous avez de la chance !" Hiravias babille. "Cette enfant de la Grue pêcheuse est un cadeau du ciel et vous devriez faire être reconnaissant !" La voix d'Hiravias se transforme en chuchotement. "Surtout compte tenu de la... faiblesse de votre famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"D'après mon expérience, lorsqu'un homme ou une femme de pouvoir convoite une chose qui ne lui appartient pas, rien ne peut l'en dissuader."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Peu après la formation des Républiques, nous avons envoyé des explorateurs au marécage de Thein pour chercher un passage qui nous permettrait d'accéder plus rapidement à la Marche blanche, le royaume des nains. Peu d'entre eux en sont revenus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Les yeux d'Hiravias s'écarquillent en attendant cela. "Personne ne déprécie la Grue pêcheuse si ce n'est moi," marmonne-t-il en étirant les griffes de ses doigts. "Mais oui, je concède que ma tribu est... suffisamment sage... pour éviter les tactiques irréfléchies d'un combat à la loyale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"C'est un dur constat, à ce que j'ai lu. Vous avez lu entre les lignes en ce qui concerne ces commandants aedyrans frustrés décrivant l'ennemi invisible qui harcelait leurs troupes. Quelques sabotages et autres embuscades peuvent inverser le cours d'un conflit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je ne serais pas si catégorique. L'ennemi invisible suscite bien plus de peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Je crois que vous sous-estimez l'efficacité de quelques discrets archers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Edér se frotte le nez. Il secoue la tête, comme s'il cherchait à chasser des toiles d'araignées. "Alors notre mission consiste à voler l'âme d'un bébé ? Qu'est-ce que ça cache ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Les iris des yeux dorés de Pallegina se dilatent. "C'est dur, même pour des Glanfathans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Hiravias s'approche et murmure. "Ce n'est pas vrai... Les âmes ne sont pas 'transmises' d'une personne à l'autre sans..." Hiravias se tait et serre les poings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Cela ne s'est pas passé comme prévu. Il ne fait pas dans la demi-mesure, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Les yeux d'Aloth se plissent. "C'est... problématique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Sagani se gratte l'intérieur de l'oreille d'un doigt rosâtre. "Je ne suis qu'une chasseuse de la toundra, alors vous allez devoir ralentir. Qu'est-ce que vous attendez de nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Sagani regarde Simoc de haut en bas. "Je pourrais m'occuper de lui."
+
+Elle vous regarde. "Je vous en prie. Laissez-moi m'occuper de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Les yeux d'Aloth sont exorbités. "Parfait, je préférerais distiller ce vieux sac d'os pour en faire de la chair à pâté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ce serait plus facile de tuer ce type et de distiller son essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Pallegina sourit. "Les vieux sont prompts à sacrifier les jeunes pour servir leurs intérêts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Hiravias regarde Simoc, les yeux écarquillés. "Quel misérable... Même pour le Stelgaer à trois défenses ! Et si je rossais ce vieil homme dérangé jusqu'à lui arracher les os, le cerveau et l'essence ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Parfait. Bien sûr." Kana baisse le ton. "[Player Name], de toute évidence, cet homme ne va pas bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Sagani baisse la tête. "Vous vous souvenez de ce qui s'est passé la dernière fois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Il regarde la fiole que vous tenez dans la main. "Quelque chose ne va pas."
+
+Il plisse les yeux. "Qu'êtes-vous en train de me donner ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"La potion d'essence que vous avez demandée. Faites venir Wrdha si vous en doutez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Vous êtes paranoïaque parce que vous avez peur de ce qui vous attend. C'est normal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"De l'essence distillée. Voilà tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Du poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vous venez d'ingurgiter un mélange d'essence concentrée et de sang. À quoi vous attendiez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vous avez bu trop vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Non ! Je vous le jure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"C'était du poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Il se jette sur vous avec un cri de rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Je suppose que vous avez raison." Il reprend son souffle.
+
+"Et je suppose que je dois vous remercier. Bon voyage, estramor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Ses cheveux semblent plus en bataille que d'habitude et il a les yeux rougis. "Je viens d'apprendre que mon fils avait été abattu en pleine rue. Avez-vous plus d'informations ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Mentez.]"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Il m'est tombé dessus alors que l'enfant était avec moi. Je n'avais pas le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Je vois." Il se calme quelques secondes et ses yeux vous scrutent. "Lliras a toujours été une forte tête, à défaut d'une âme forte."
+
+Il se racle la gorge. "Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Je vois." Il se calme quelques secondes et regarde par terre. "Lliras a toujours été une forte tête, à défaut d'une âme forte. Si seulement il m'avait écouté..."
+
+Il se racle la gorge. "Bon. Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Tant d'enfants privés de leur âme... de familles en détresse... et il volerait l'essence de cette enfant pour assouvir son ambition ?
+
+"Puissent ses agissements cesser... sa lignée s'éteindre... s'il faut en passer par là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Vous avez fait tout ce voyage pour vous immiscer dans ces questions de politique... dans toute cette mesquinerie... ?"
+
+L'expression de son visage est austère. "Nous ne devons pas faire cela, Gardien. Nous sommes là pour sauver les enfants... l'avenir de Dyrwood. Je ne vous laisserai pas commettre un crime aussi odieux."</DefaultText>
+      <FemaleText>"Vous avez fait tout ce voyage pour vous immiscer dans ces questions de politique... dans toute cette mesquinerie... ?"
+
+L'expression de son visage est austère. "Nous ne devons pas faire cela, Gardienne. Nous sommes là pour sauver les enfants... l'avenir de Dyrwood. Je ne vous laisserai pas commettre un crime aussi odieux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>La Mère en deuil recule avec horreur. "Quel est ce crime ? Tuer une enfant à des fins politiques ?" Un masque de colère envahit son visage. "Nous ne pouvons pas laisser cette corruption... cette folie... gagner du terrain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Lliras m'a demandé de vous tuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Le vieil Anamfath éclate de rire. "J'aimerais presque que ce soit vrai. Lliras n'a pas suffisamment de cran pour ça." Son expression devient plus grave. "Sinon, j'aurais déjà un héritier digne de ce nom à l'heure qu'il est."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_heritage_hill</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Héritage Éternel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Entrez dans la tour sur la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Allez en haut de la tour sur la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Découvrez le fonctionnement de la machine engwithane sur la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retrouvez Icantha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Occupez-vous de la machine engwithane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Trouvez la tour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Acolyte m'a montré une vision d'une ancienne tour dans un quartier délabré de la Baie du défi. Il y avait un homme étrange dans la tour, travaillant sur une sorte de machine. J'ai aussi vu une femme avec une cicatrice sur le cœur. Je ne sais pas où elle se trouve, mais je pense qu'elle détient la clé de ce qui s'est passé ici.
+
+La Clé plombée s'intéressait à cette tour pour une raison précise. J'ai besoin de comprendre son utilité si je veux déchiffrer leurs plans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La tour que j'ai vue domine les murs qui entourent la Colline de l'Héritage. J'espère y trouver la prochaine pièce du puzzle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La vision de l'Acolyte ne m'avait pas préparé à ce que j'y ai trouvé. Tout le quartier grouille de cadavres réanimés. Je vais avoir du mal à me frayer un chemin jusqu'en haut de la tour. Qui sait ce que j'y trouverai, d'ailleurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai découvert une ancienne machine au sommet de la tour. Et, juste comme me l'avait montré l'Acolyte, il y a quelqu'un d'autre là-haut.
+
+Il pourrait m'en dire plus ce qui s'est passé là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je dois parler à Icantha à la Colline de l'Héritage. Elle sait apparemment quelque chose d'important à propos de la tour, ce qui pourrait être la clé pour comprendre les objectifs de la Clé plombée. 
+
+Ceci expliquerait pourquoi l'Acolyte était préoccupé par cette femme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Maintenant que je peux comprendre la langue des Engwithans, je peux retourner à la machine au sommet de la tour de Teir Nowneth et m'occuper de la malédiction qui frappe la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>L'Acolyte de la Clé plombée m'a montré une ancienne tour située à proximité d'un cimetière, dans un quartier aux bâtiments délabrés. 
+
+Pour suivre cette piste, je dois trouver la tour. Je devrais commencer par interroger les justiciers en patrouille qui doivent doivent bien connaître la ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>La garde du portail de la Colline de l'Héritage m'a dit que j'avais besoin d'une autorisation spéciale délivrée par Wyla dans le Donjon des Premiers feux pour entrer.
+
+Évidemment, l'argent ou la violence pourrait tout aussi bien le convaincre de me laisser passer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai tué le gul de la vision de l'Acolyte, au sommet de la tour. Je pense qu'il essayait de comprendre le fonctionnement de la machine engwithane. De toute évidence, il n'y était pas parvenu, mais il pourrait détenir des informations qui me seraient utiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Aldhelm, l'animancien en train de pourrir en haut de la tour, a promis de me montrer un moyen de me renforcer si je lui obtiens les mots de commandes d'Icantha et une source de subsistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>La dégénérescence d'Aldhelm était très avancée. Il paraissait prêt à me sauter dessus lorsque j'ai essayé de lui parler. Si je veux qu'il m'aide, j'aurais besoin de lui envoyer une victime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai trouvé la femme pâle de la vision de l'Acolyte, mais elle n'a aucune intention de m'aider. Peut-être qu'aider l'homme de la vision pourrait me donner une meilleure idée de la manière de traiter avec elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai appris que les machines engwithanes qui jonchent Dyrwood peuvent être utilisées pour déplacer les âmes. J'ai également appris l'engwithan, ce qui signifie que je peux les faire fonctionner. J'ai éteint la machine en haut de Teir Nowneth. Les âmes dans la Colline de l'Héritage peuvent retrouver leur cycle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai appris que les machines engwithanes qui jonchent Dyrwood peuvent être utilisées pour déplacer les âmes. J'ai également appris l'engwithan, ce qui signifie que je peux les faire fonctionner. Pour empêcher la machine d'être à nouveau utilisée, je l'ai détruite en sacrifiant les âmes emprisonnées de la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai appris que les machines engwithanes qui jonchent Dyrwood peuvent être utilisées pour déplacer les âmes. J'ai également appris l'engwithan, ce qui signifie que je peux les faire fonctionner. J'ai utilisé la machine pour absorber le pouvoir des âmes enfermées dans la Colline de l'Héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

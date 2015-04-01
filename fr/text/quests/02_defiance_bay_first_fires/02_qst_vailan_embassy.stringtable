@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_vailan_embassy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les Oubliés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez le pont d'Aedelwan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Au pont d'Aedelwan, faites-vous passer pour l'acheteur de Mestre Barcozzi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Éliminez les Oubliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez auprès de Vicent Agosti à l'ambassade des Premiers feux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Vicent Agosti veut que j'empêche un groupe d'aventuriers de piller des ruines engwithanes afin d'éviter un incident diplomatique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les Oubliés attendent l'acheteur de Mestre Barcozzi au pont d'Aedelwan. Agosti veut que j'aille voir l'acheteur afin de recueillir des informations sur l'opération de contrebande de reliques engwithanes des Oubliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Parlez aux Oubliés et faites-vous passer pour l'acheteur de Mestre Barcozzi. Découvrez comment les Oubliés font sortir en contrebande les artefacts engwithans de la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Les Oubliés ne me laisseront pas quitter le pont d'Aedelwan en vie. L'heure est venue de les tuer avant qu'ils ne me tuent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je devrais retourner voir Vicent Agosti et dire à l'ambassadeur que les Oubliés ne lui causeront plus aucun problème.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Vicent Agosti s'est montré soulagé d'apprendre que les Oubliés ne pilleront plus les ruines engwithanes et que de potentiels incidents diplomatiques ont été évités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai tué Vicent Agosti avant de mener à bien sa mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_machine_ending</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vos compagnons comme témoins, vous montez à l'endroit où Thaos se tenait autrefois devant son peuple. La grande machine se trouve devant vous, inactive, prête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous avez vu cette machine et d'autres comme elle en marche. Vous comprenez comment elle fonctionne. C'est un appareil dirigeant les âmes. 
+
+En tant que Gardien il serait très facile d'influencer cette direction, bien qu'avec une machine aussi grande, ce serait la dernière chose que vous feriez.</DefaultText>
+      <FemaleText>Vous avez vu cette machine et d'autres comme elle en marche. Vous comprenez comment elle fonctionne. C'est un appareil dirigeant les âmes. 
+
+En tant que Gardienne il serait très facile d'influencer cette direction, bien qu'avec une machine aussi grande, ce serait la dernière chose que vous feriez.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous montez à l'endroit où Thaos se tenait autrefois devant son peuple. La grande machine se trouve devant vous, endormie, prête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Prononcez la commande pour activer la machine.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Pas encore.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous vous tenez encore une fois devant la grande machine engwithane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>On entend le crissement de la pierre tandis que les anciens rouages se desserrent et commencent à tourner. 
+
+Il ne faudra que quelques instants avant que les âmes ne soient envoyées dans la veine d'adra. Ce sera votre chance unique de les rediriger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Renvoyez les âmes dans le cycle de réincarnation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Renvoyez les âmes dans les corps auxquels elles étaient destinées.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Désintégrez les âmes par entropie, mettant un terme à leur existence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Distribuez l'essence aux âmes existantes dans le Dyrwood pour les renforcer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Autorisez les âmes à passer à travers la veine vers Woedica.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Dispersez les âmes vers un lieu inconnu.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous fermez les yeux et développez votre perception vers l'extérieur, en acceptant l'immense totalité des dizaines de milliers d'âmes en orbite dans la pièce. Votre prise sur les âmes est précaire. Vous vous retrouvez à lutter pour toutes les garder sous votre influence, et vous pouvez les sentir s'échapper tandis que la machine accélère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Un bref moment arrive où vous avez le sentiment de toutes les tenir ensemble, et leur force est si grande que vous sentez qu'elles vont vous déchirer.
+
+En cet instant, vous dédiez tout votre être à courber leur orbite, pour canaliser leur flux vers une nouvelle direction...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

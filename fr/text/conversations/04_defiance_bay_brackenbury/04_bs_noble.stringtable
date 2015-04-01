@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Le Tonneau carbonisé est une des meilleures auberges de la ville si vous cherchez un endroit où loger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Contrairement à ce qui se dit, il ne se passe rien d'anormal au sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nous avons de la chance que le Rang de Dunryd soit basé à Brackenbury… Du coup, le quartier est plus sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"La maison Doemenel n'a pas bonne réputation, mais ce sont d'excellents voisins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Plus tôt le seigneur Reymont placera sa folle de fille au sanatorium, mieux ce sera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bonjour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bonsoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Le seigneur Gaderman. Je ne l'aurais jamais cru."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous ne vous tromperiez pas de quartier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ah, le nouveau préposé à l'entretien ! Euh... Désolé. Je vous ai pris pour quelqu'un d'autre."</DefaultText>
+      <FemaleText>"Ah, la nouvelle préposée à l'entretien ! Euh... Désolé. Je vous ai pris pour quelqu'un d'autre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous cherchez du travail à Brackenbury ? Il faut une formation spécialisée pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_noonfrost_breach_altar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un piédestal de glace noire se lève du sol. De longs cristaux de glace pareils à des doigts, aussi durs et transparents que le diamant, entourent et percent l'autel.
+
+Un trou s'est creusé au milieu de l'autel. Bien qu'il ne puisse faire plus de quelques centimètres, il aspire tout l'air autour de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Comblez le trou avec l'éclat de Rymrgand.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>L'éclat s'adapte parfaitement.
+
+En se mettant en place, le froid autour de l'autel se dissipe. De même, le portail devant vous semble s'épaissir et la mystérieuse infiltration diminue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_enter_breith_eaman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Cour des pénitents</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez l'Île des sépultures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez la Cour des pénitents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sautez dans la fosse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Les sœurs délemganes des Ormes jumeaux savent que Thaos a fui par un chemin souterrain pour rejoindre un site engwithan appelé l'Ombre ensoleillée, en bloquant l'accès derrière lui.  
+
+Les sœurs m'ont révélé un autre chemin pour l'y rejoindre, et peut-être même le devancer. L'Île des sépultures abrite un chemin qui traverse les ruines d'une ancienne prison engwithane, Breith Eaman. La route est périlleuse, mais c'est sans doute la plus rapide pour rejoindre l'Ombre ensoleillée, car elle descend tout droit. 
+
+Mes hallucinations sont de plus en plus fréquentes et j'ai du mal à les distinguer de la réalité. Je commence à manquer de temps. J'ai besoin de savoir ce dont Thaos se souvient au sujet de notre passé commun afin d'apaiser ce qui tourmente mon âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sîdha et Rîhenwn m'ont appris que le chemin qui mène à l'Ombre ensoleillée se trouve sur l'Île des sépultures. Il y a là une ancienne cour qui devrait me mener à Thaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai atteint les rivages de l'Île des sépultures. Quelque part sur l'île, la Cour des pénitents renferme un passage vers Breith Eaman et l'Ombre ensoleillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Le centre de la Cour des pénitents abrite une fosse si profonde qu'on n'en voit pas le fond et qu'on n'entend aucun écho lorsqu'on y jette des cailloux. Toute chute est certainement mortelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dorvhal, garde et passeur d'Oldsong, m'a dit que l'Île des sépultures n'a rien à voir avec les autres quartiers des Ormes jumeaux. L'île est un cimetière où reposent les Anamfatha des Six tribus. C'est un lieu dangereux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé un raccourci pour rejoindre la Cour. Cela devrait m'épargner un dangereux voyage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Il me faudrait une intervention divine pour pouvoir atteindre le fond de cette fosse indemne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai survécu à la chute dans le fond de la fosse de la Cour des pénitents.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

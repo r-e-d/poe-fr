@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_doemenel_messenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une femme s'approche de vous, une lueur dans les yeux."[Player Name], je suppose ? J'ai beaucoup entendu parler de vous. De même que mon employeur. En fait, il a un travail à vous proposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Elle regarde par-dessus son épaule et s'approche de vous. "Si vous allez à Brackenbury, allez voir Abrecan Doemenel. Le manoir de sa famille se trouve au cœur du quartier. Il a une mission à confier à quelqu'un doté de vos compétences." 
+
+En un clin d'œil, elle se fond dans la foule.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

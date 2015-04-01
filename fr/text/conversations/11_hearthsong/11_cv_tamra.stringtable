@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_tamra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cette grande femme est vêtue de peaux. Ses yeux noirs sont très perçants. "J'ai ici les plus belles peaux d'Eir Glanfath. Les plus épaisses, comme celles des stelgaers, sont inusables. J'ai aussi des bottes suffisamment souples pour amortir le bruit de vos pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Une peau pour votre foyer, peut-être ? Ou des fourrures pour vous tenir chaud quand il fait très froid ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Puis-je voir ce que vous avez à vendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Regardez les trésors que nous ont rapportés nos chasseurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Qu'est-ce que vous vendez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes le premier à découvrir mes nouveautés, caredh."</DefaultText>
+      <FemaleText>"Vous êtes la première à découvrir mes nouveautés, caredh."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ce que je porte sur moi. Je vends les peaux de toutes sortes de bêtes de Galawain. Des étrangers viennent de tous les villages alentour pour les voir, car nous sommes un peuple de grands chasseurs. Chaque peau raconte l'histoire d'une grande partie de chasse, et nos marchands les font à leur tour voyager sur nos territoires."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

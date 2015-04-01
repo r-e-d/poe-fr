@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_sea_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce coffre de mer porte le grand sceau ciselé d'un vaisseau, et le mot 'FORTANERO' en dessous est inscrit en lettres dorées. Il est fermé par un lourd cadenas en laiton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Prendre le coffre de mer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[essayez de déverrouiller le coffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Laissez-le tranquille.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Malgré vos efforts, le verrou tient bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Après un peu de travail, le verrou tourne avec un cliquetis satisfaisant, et vous pouvez enlever le cadenas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Ouvrez le coffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le coffre de mer contient un chapeau de capitaine et une belle rapière en alliage, et rien d'autre. Il semble que le capitaine Fortanero tienne particulièrement à son chapeau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Laissez-les dans le coffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Prenez le chapeau et la rapière.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Le verrou s'avère plus difficile à ouvrir que prévu. À un certain point il semble coller, mais vous arrivez à forcer l'ouverture du verrou. Mais il ne semble pas possible de le refermer, cependant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

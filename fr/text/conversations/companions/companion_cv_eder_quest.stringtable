@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_eder_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ce vieux Gardien..." Il secoue la tête en gloussant. "Je ne sais pas à quoi je m'attendais, mais sûrement pas à ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous vouliez l'interroger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Non... Enfin, c'est un peu gênant maintenant. C'est juste une idée idiote qui m'a traversé l'esprit. Je ne sais pas comment j'ai pu croire que ça marcherait."
+
+"C'est marrant, c'est ma première lueur d'espoir depuis... Eh bien... Depuis des années. C'est déjà ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qu'est-ce que c'était ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Allez, je n'aime pas le suspense !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Il n'y a pas de quoi être gêné. Je ne pas du genre à juger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Puisque vous comptiez l'interroger devant moi, autant tout me dire tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Il soupire. "Très bien. Je vous dois bien ça. Après tout, c'est vous qui m'avez conduit jusqu'à lui." 
+
+"Ces rumeurs sur mon frère Woden à la Vallée dorée, sur le fait qu'il aurait combattu contre nous pour le compte de Waidwen. Ça me travaille depuis un certain temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Pourquoi ne m'avez-vous pas demandé de vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ce n'est pas comme ça que ça marche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous avez raison, vous avez de quoi être gêné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Parce que je ne vous connaissais pas, je suppose. C'est dur de faire confiance à un étranger qui prétend être un Gardien."</DefaultText>
+      <FemaleText>"Parce que je ne vous connaissais pas, je suppose. C'est dur de faire confiance à une étrangère qui prétend être une Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Au fond de moi, je connaissais la vérité, bien sûr. Un Gardien n'est pas un devin."
+
+"Je crois juste que l'idée que j'ai eue m'a fait ressentir certaines choses, et je ne voulais pas perdre ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Si je voudrais vraiment enquêter sur mon frère, ce n'est pas des Gardiens que je devrais chercher, mais des archives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je me disais que... ce vieux Gardien saurait peut-être comment mon frère est mort, en le lisant dans mon âme, en utilisant le lien qui nous unissait."
+
+"Je vous avais bien dit que c'était idiot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je repense à ce qu'était Woden. Il savait toujours ce qui était juste et ce qu'il avait à faire. Un jour, il est parti pour Dyrwood afin de combattre un homme qui prétendait être notre dieu. Alors j'ai su que je devais en faire autant. Il le fallait."
+
+"Quand j'ai entendu dire qu'il était mort en combattant pour Readceras, ça m'a rendu malade. Pas parce qu'il avait choisi le mauvais camp, mais parce que je n'avais pas fait le même choix. Waidwen ne nous inspirait pas confiance, mais s'il était bien Eothas..." Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Alors, qu'attendez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ça vous a pris quinze ans pour comprendre ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vous devriez vous préparer à ce qu'il n'y ait aucune trace de la mort de votre frère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Il sourit. "Je n'ai jamais songé à chercher. Pas avant que vous ne me mettiez dans la tête ces idées folles à propos des Gardiens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je n'ai rien à perdre, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Edér réfléchit un moment, les lèvres crispées. Il lève les sourcils. "Si quelque chose a été inscrit, c'est à la Baie du défi que je le trouverai. Il y a des archives au palais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je sais que vous avez déjà beaucoup fait pour moi, mais si vous acceptiez de m'accompagner aux archives, eh bien…"
+
+"Avec ma chance, le gars des archives deviendra fou et essaiera de me tuer. Je me sentirais plus en sécurité avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"C'est l'endroit où mon grand frère a livré son dernier combat." 
+
+Edér examine le paysage luxuriant qui est devant vous. Il se pince les lèvres.
+
+"J'aimerais pouvoir vous dire ce que nous cherchons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Des vestiges du combat, je suppose. Ce que quinze années de pluie n'ont pas réussi à effacer." 
+
+Il vous regarde. "Si vous voyez le fantôme de mon frère, vous me faites signe, d'accord ?" Il vous fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Hé, il y a du métal dans le sol, là-bas, près du bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Rien ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je crois voir... Non. Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Rien par ici. Ils ont dû tout nettoyer après la bataille. C'est... embêtant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hé. Trop récent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ils avaient raison, ça a été rapide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>L'extrémité d'un objet métallique dépasse d'un monticule de vase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vous le saisissez à pleine main et tirez.
+
+Il s'agit d'un cadre semi-circulaire en acier à peu près de la taille de votre poing. À espaces réguliers autour du demi-cercle, des pointes dépassent, comme des langues de flammes : les rayons d'un soleil levant.
+
+Un plant de vorlas est gravé au centre du soleil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"J'ai déjà vu ça. Il y en a au sommet des étendards de Readceras. En tout cas, c'était le cas quand Waidwen était en vie."
+
+Il vous prend l'objet des mains et le retourne pour l'examiner. "Ouah, ça me fait quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Je suis assez habile avec les objets. Je pourrais peut-être en tirer quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"On devrait le montrer à un expert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Le Rang de Dunryd pourrait peut-être en tirer quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Un clairvoyant pourrait peut-être en tirer quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Il hausse les épaules. "Beaucoup de gens ont dû y toucher. La fonction de porte-étendard est uniquement honorifique dans la plupart des endroits. Mais d'après ce que j'ai entendu dire, les Readcerans se servaient de leurs étendards pour combattre. Sérieusement."
+
+"Ce n'est pas grand-chose, mais c'est déjà mieux que rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Il vous passe l'objet. 
+
+"Voyons ce dont vous êtes capable." 
+
+"Et pas d'entourloupe si vous ne voulez pas vous réveiller un matin avec des serpents dans votre couchage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bon, il ne nous reste plus qu'à retourner à la Baie du défi, je suppose. À moins que nous repérions les ossements de mon frère sur le chemin du retour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Évidemment, ce serait plus facile si votre ami Thaos n'avait pas assassiné tous les clairvoyants qu'on connaissait…" 
+
+"Mais il doit y avoir des clairvoyants aux Ormes jumeaux. En espérant qu'ils n'ont pas pris la poudre d'escampette."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous prenez le soleil en acier d'une main et serrez la main d'Edér de l'autre en ignorant son regard équivoque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Une voix se détache au milieu du vacarme, à la fois impertinente et sérieuse, fort semblable à celle d'Edér.
+
+Vous n'avez aucune image de son propriétaire, mais son voyage est imprimé dans les formes du soleil en acier, et dans votre esprit, celui-ci s'ouvre tel un chemin s'étirant à la fois vers le sud, en direction de la Vallée dorée, et vers le nord, par-delà le relief accidenté qui relie Dyrwood à Readceras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vous remontez le chemin jusqu'à son origine, le plus loin possible, en planant au-dessus des plaines et des coteaux, jusqu'à la maison d'une seule pièce de la Vallée dorée, avec son toit de chaume et son sol en terre battue. Le chemin est à peine perceptible à cet endroit, car son éloignement temporel brouille les images et vous empêche de distinguer les détails. De la Vallée dorée, il suit une route qui passe par le pont de Madhmr et les portes de la Baie du défi avant de dévier brusquement pour couper vers le nord et rejoindre directement Readceras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Le chemin mène à la cité readcerane, royale et austère, dans le style impérial aedyran. Il serpente à travers les rues, remonte un grand escalier dans un immeuble imposant et passe sous des porches avant d'accéder à ce qui semble être une salle du trône.
+
+Un homme est assis sur le trône, sa tête est pure, d'un éclat aveuglant, et lorsque son regard se tourne vers vous, la lumière noie tout le reste. Sa voix est tonitruante, mais ses paroles sont incompréhensibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>La voix et la lumière s'évanouissent, et le chemin vous entraîne vers une caserne, puis à nouveau vers le sud, en direction de Dyrwood. En chemin, des escarmouches éclatent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Sur un des champs de bataille, l'empreinte devient plus nette et vous voyez un étendard readceran surmonté d'un soleil en acier dans les mains d'un soldat mort.
+
+Vous voyez un jeune homme dont la chevelure est semblable à celle d'Edér se précipiter sur l'étendard et le soulever. Le chemin que vous avez suivi s'ouvre sous ses pieds, et tandis que sa main caresse l'extrémité en acier, vous entendez ses pensées s'accélérer. Elles sont pour son dieu, son pays et un frère qu'il espère loin de cet endroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>En un instant, les pensées disparaissent, de même que l'homme, et l'étendard est transmis à un autre soldat. Vous empruntez à nouveau le chemin qui serpente vers le sud avant de se désintégrer dans l'ombre de Clîaban Rilag. 
+
+Vous ouvrez les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Alors ? Qu'avez-vous vu ? Vous aviez l'air de faire des efforts surhumains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Votre frère est allé jusqu'à la Baie du défi avant de rejoindre Readceras. Il y a rencontré Waidwen. Puis il s'est enrôlé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Les yeux d'Edér s'écarquillent. "De quoi a-t-il parlé avec Waidwen ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"La tête de Waidwen était enveloppée d'un faisceau de lumière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Mentez] "Waidwen lui a demandé de croire en lui. Votre frère a accepté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ça ne m'étonne pas. Woden et moi avions entendu suffisamment de récits de son soulèvement pour savoir qu'il ne s'agissait pas d'un conte. Cela ne veut pas dire que c'était Eothas. Il aurait pu s'agir d'un tour de magicien."
+
+"Ce qui importe, c'est de savoir de quoi ils ont parlé. Que se sont-ils dit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Non. Ça n'a aucun sens. Il n'avait aucune raison de prendre Waidwen au mot."
+
+"Que s'est-il passé ? Qu'a-t-il dit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Edér fronce les sourcils. "Ce n'est pas drôle. Allez ! Ce soleil en métal, mon frère l'a touché. Vous avez vu où il est allé. De quoi a-t-il parlé avec Waidwen ? Pourquoi mon frère a-t-il combattu pour Readceras ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je n'en sais rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"J'aimerais pouvoir vous en dire plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vous êtes SOURD ? Je vous ai dit que je n'en sais RIEN !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Edér reste bouche bée et son regard se glace. Son front se plisse entre ses sourcils. Il se mord la lèvre inférieure. 
+
+Sa bouche laisse échapper un murmure. 
+
+"Bon, c'est fini, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Nous trouverons un autre moyen de découvrir pourquoi il a agi ainsi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Nous avions peu de chances de réussir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je savais que ce serait une perte de temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Non, je ne crois pas." Le visage d'Edér est sombre.
+
+"Que pouvons-nous faire ? Rechercher des reliques de guerre ? Nous avons eu de la chance de trouver celle-là."
+
+"Les soldats qui combattaient avec lui sont morts depuis longtemps. Cette bataille a été un véritable massacre. Et quoi que sache Éothas, il ne parle à personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Il acquiesce lentement en regardant dans le vide. Le visage d'Edér est sombre.
+
+"C'est marrant. Vous pouvez présenter ça de centaines de façons différentes, mais au bout du compte, ça ne change rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Allons-y maintenant. J'ai vu ce que j'avais à voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"J'espère que je ne vous ai pas paru ingrat sur le champ de bataille. Vous avez fait ce que vous pouviez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je n'ai rien remarqué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous aviez beaucoup de choses en tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"C'était important pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Il sourit d'un air désabusé. "On y était presque. Je ne m'attendais pas à ça."
+
+"Pendant une seconde, j'ai cru que j'allais enfin obtenir quelques réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"C'était idiot, bien sûr. Pourquoi devrais-je obtenir des réponses ? Il y a un monde d'éothasians qui ignore si leur dieu a été éliminé."
+
+"Mais comment ne pas regarder en arrière ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Edér regarde au loin et se concentre sur quelque chose d'invisible et d'irréel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Qu'en dirait votre frère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous avez fait ce que vous deviez. Même si Waidwen était bien Eothas, ses actes étaient destructeurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"On dirait que votre foi penche du mauvais côté. Il aurait apporté l'unité, même par la force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vous avez fait l'erreur d'attendre que quelqu'un vous dise ce qui était juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Edér semble surpris par la question. Il réfléchit un moment. 
+
+"Il me dirait de lui faire confiance."
+
+Il lève un sourcil. "Évidemment, ce serait beaucoup plus facile si je savais ce qu'il avait en tête. Mais je n'en ai peut-être pas besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ses actes ne semblaient pas assez justes pour un dieu. C'est la raison pour laquelle Woden et moi pensions que Waidwen était un usurpateur." 
+
+"Il ne m'est pas venu à l'idée que mon dieu pouvait vouloir du mal aux siens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je crois que bien des choses auraient été différentes s'il avait gagné. Les Purges n'auraient jamais eu lieu. La Vallée dorée serait... différente. Les arbres ne seraient pas ce qu'ils sont, j'en sais quelque chose. Ma famille serait même peut-être encore là."
+
+"Il n'y aurait peut-être pas eu d'Héritage. Les Dyrwoodans se seraient rendus s'ils avaient su ce qui les attendaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Il réfléchit un moment, les yeux plissés. 
+
+Puis il se met à rire. "Si je ne peux rien attendre de mieux, autant trouver du réconfort ailleurs, je suppose." 
+
+"L'avantage quand on vénère un dieu défunt, c'est qu'il n'y a pas de châtiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Quelque chose à méditer, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Il vous tape sur l'épaule. "Je suppose que vous le savez mieux que personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ce vieux Gardien. Vous l'avez rencontré ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Il a perdu la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Complètement ?" Il vous regarde, un drôle de sourire aux lèvres. 
+
+En l'absence de réponse, il hoche la tête d'un air compréhensif. "Cela explique pourquoi nous n'avons pas entendu parler de lui pendant un certain temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Des deux mains, Edér et vous commencez à creuser dans la vase pour déloger l'objet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Des deux mains, vous commencez à creuser dans la vase pour déloger l'objet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Vous le saisissez à pleine main et tirez.
+
+Il s'agit d'un cadre semi-circulaire en acier à peu près de la taille de votre poing. À espaces réguliers autour du demi-cercle, des pointes dépassent, comme des langues de flammes : les rayons d'un soleil levant.
+
+Un plant de vorlas est gravé au centre du soleil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Montrez-le à la Mère en deuil.] "Vous pensez pouvoir nous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Écoutez, j'apprécie que vous en preniez l'initiative, mais je doute que cette charmante dame soit une clairvoyante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>La Mère en deuil vous regarde. "Je ferai de mon mieux. Mais j'aurais besoin des compétences d'un Gardien pour m'aider... à identifier l'âme après avoir retrouvé sa trace."
+
+Elle se retourne vers Edér, la main tendue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Edér lui tend le soleil en acier. Le geste est mécanique, inconscient.
+
+La Mère en deuil prend le soleil dans une main et votre main dans l'autre. Vous ressentez sa présence dans votre esprit. Ses pensées vous apaisent et vous invitent à vous détendre. "Concentrez-vous", dit-elle et ces mots retentissent tel un abysse infini.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Vous fermez les yeux et vous concentrez. Le soleil brille dans votre esprit. Il en émane une chaleur issue de l'expérience collective ainsi que les échos des pensées du passé : de la bataille, de la foi et de la mère patrie.
+
+Vous passez de voix en voix, de pensée en pensée en vous appuyant sur la signature vibrante de l'âme d'Edér pour repérer son frère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Nous n'avons plus rien à attendre. J'ai ce qu'il me faut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Il regarde dame Webb. "C'est tout ce que je voulais savoir." Désolé de vous avoir fait perdre votre temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Dame Webb ne dit rien. Les lèvres pincées, elle acquiesce doucement, sans colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"J'aurais aimé vous aider davantage. Recevez toute ma compassion. Tant qu'un objet nous montrera ce qu'il nous faut savoir, il nous décevra."
+
+"J'ai des tas de dossiers inachevés. Les jours sans, j'envisage souvent de partir. De mettre mes compétences au service de quelque chose de moins... déconcertant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Si seulement des mots pouvaient combler un tel vide... Lui ôter son doute, ses questions."
+
+"Je regrette que mes réponses n'ont fait qu'aggraver sa souffrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"J'ai peut-être tourné le dos à mon dieu quand il avait besoin de moi. Je ne le saurai jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je... je regrette de ne pas avoir pu être plus utile. Vous avez toute ma compassion. Aussi souvent qu'un objet nous montre ce que nous devons savoir, il ne tient pas ses promesses. 
+
+"Mes fichiers sont pleins d'affaires qui n'ont pas été élucidées. Les mauvais jours je pense souvent à tout quitter. Utiliser mes compétences à quelque chose de moins... frustrant."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

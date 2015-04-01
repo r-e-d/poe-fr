@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_durance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Les épreuves de Durance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Passez du temps à voyager avec Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parlez de votre vision à Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Continuez à faire connaissance avec Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Demandez à Durance ce que signifient les symboles qui s'éteignent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Continuez à voyager avec Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Parlez de Woedica à Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>À la Croisée de Magran, j'ai rencontré un drôle de prêtre qui affirme que nous avons intérêt à nous interroger mutuellement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Durance prétend que lui et moi sommes faits pour voyager ensemble, et que nous pouvons beaucoup apprendre l'un de l'autre. C'est un homme prolixe qui pose plus de questions qu'il n'offre de réponses, mais en voyageant quelque temps avec lui, je ferai peut-être des découvertes intéressantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai rêvé de Durance. Mes yeux ne parvenaient pas à faire le point sur lui, et une lumière aveuglante jaillissait de son bâton. C'était un rêve particulièrement réaliste dans lequel une partie de son âme semblait se révéler à moi. Je devrais l'interroger sur ce que j'ai vu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Durance m'a révélé qu'il était un des concepteurs de la bombe Marteau divin. Mais je sens qu'il ne m'a pas tout dit, du moins pas encore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai encore rêvé de Durance. Un symbole brûlait sur son bâton : un cercle composé de douze petits cercles. Et tandis que je regardais ce symbole, onze des douze cercles se sont éteints. Dans mon rêve, Durance essayait de les rallumer, en vain. Il saura peut-être ce que cela signifie, comme pour mon rêve précédent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Durance est resté évasif quand je l'ai interrogé sur les cercles qui s'éteignaient sur son bâton. Il a prétendu que cela représentait le lien rompu avec les autres concepteurs du Marteau divin, qu'il a quittés pour suivre sa propre route après la destruction d'Éothas. Au moment opportun, j'essaierai d'en savoir plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Le fait que Woedica soit responsable de l'Héritage de Waidwen soulève de nombreuses questions sur les circonstances de la guerre du Saint et la destruction d'Éothas. Durance pourra peut-être m'éclairer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Durance a été troublé par notre discussion sur le complot de Woedica et la mort d'Éothas. Dans la mesure où le Marteau divin était l'œuvre de Magran, il est probable qu'elle ait été de mèche avec Woedica. Mais Durance est encore plongé dans le déni. Si je parviens à lui présenter mes arguments avec ses mots, je romprai peut-être l'emprise que Magran a sur lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réussi à faire admettre à Durance que Magran avait conspiré avec Woedica pour créer le Marteau divin, et que le silence de la déesse n'était pas dû au fait qu'il l'avait trompée mais au fait qu'elle avait prévu qu'il meure avec les autres concepteurs du Marteau divin afin que personne n'apprenne qu'elle était impliquée dans la destruction d'Éothas. Bien que cette alliance entre les déesses ait apparemment été de courte durée, elle éclaire d'un nouveau jour la guerre du Saint et l'épidémie de sans-âme qui a suivi. Durance, quant à lui, a renoncé à sa déesse en jurant de se venger d'elle. Dans la mesure où il a déjà tué un dieu, il pourrait bien être un des seuls hommes encore en vie capable de mettre une telle menace à exécution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Durance est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Cette affaire ne peut plus être résolue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

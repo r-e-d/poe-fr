@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_lords_of_a_barren_land</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Seigneur d'une Terre Stérile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez jusqu'à la forteresse du seigneur Raedric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Affrontez le seigneur Raedric VIIème du nom, dans la forteresse de Raedric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Voyagez jusqu'au camp secret de Kolsc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Parlez à Kolsc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez à la forteresse de Raedric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>La Vallée dorée est dirigée par le seigneur Raedric, qui réside dans la forteresse qui se trouve au-delà de l'Esternwood. Le Dyrwood étant sous l'emprise de la malédiction connue sous le nom de l'Héritage de Waidwen, il a pris des mesures drastiques pour en trouver la cause. Cela lui a valu de nombreux ennemis, dont beaucoup aimeraient le voir déchu de ses fonctions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai été approché par un homme qui s'exprimait contre la cruauté du seigneur Raedric. Il m'a demandé de rejoindre sa cause, et de mettre un terme au règne de Raedric. Le donjon se trouve à l'est d'Esternwood et sera âprement défendu. Ce sera un défi considérable que d'y pénétrer.</DefaultText>
+      <FemaleText>J'ai été approchée par un homme qui s'exprimait contre la cruauté du seigneur Raedric. Il m'a demandé de rejoindre sa cause, et de mettre un terme au règne de Raedric. Le donjon se trouve à l'est d'Esternwood et sera âprement défendu. Ce sera un défi considérable que d'y pénétrer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai atteint la forteresse de Raedric. Le seigneur Raedric se trouve quelque part à l'intérieur, mais y pénétrer ne sera pas une tâche facile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai parlé au seigneur Raedric, qui raconte une autre histoire. Il m'a demandé de parler à Kolsc de ses plans pour usurper le trône et prendre le pouvoir dans la Vallée dorée et dans les terres environnantes. Raedric dit que je peux trouver Kolsc à la Fourche de Magran, dans la campagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai trouvé le lieu de rencontre de Kolsc et de ses alliées. Kolsc attend à l'intérieur. Il me reste à décider de son destin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai tué Kolsc et par la même occasion éliminé une menace majeure pour le pouvoir du seigneur Raedric. Raedric m'a promis une récompense si je revenais victorieux.</DefaultText>
+      <FemaleText>J'ai tué Kolsc et par la même occasion éliminé une menace majeure pour le pouvoir du seigneur Raedric. Raedric m'a promis une récompense si je revenais victorieuse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai parlé à Nedmar, le grand prêtre. Il m'a promis qu'il me donnerait accès à la salle du trône de Raedric si j'arrive à libérer son ancien acolyte, Giacco, des prisons de la forteresse, situées dans les sous-sols du donjon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai parlé à Osrya, une animancienne qui se trouve dans les donjons de la forteresse. Elle m'a promis d'ouvrir un passage secret jusqu'aux quartiers personnels de Raedric si j'arrive à me débarrasser de Nedmar, le grand prêtre de Berath. Il réside dans les plus hauts étages de la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Kolsc pense qu'il est impossible d'attaquer la forteresse de front. Il suggère que je trouve un moyen d'y pénétrer par les égouts, en passant par l'est des douves. Sinon, je peux peut-être trouver un moyen d'accéder aux étages supérieurs du château, où réside Nedmar, le contact de Kolsc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Kolsc pense qu'il est impossible d'attaquer la forteresse de front. Il suggère que je trouve un moyen d'y pénétrer par les égouts, en passant par l'est des douves. Sinon, je devrais pouvoir trouver un moyen d'accéder aux étages supérieurs du château, où réside Nedmar, le contact de Kolsc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai sauvé Giacco, l'acolyte de Nedmar et j'ai informé ce dernier de mon succès. Le prêtre m'a donné une clé avec laquelle je pourrai ouvrir la porte du quartier des copistes et, en le traversant, atteindre la chapelle qui se trouve directement à côté de la salle du trône de Raedric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai tué Nedmar, comme promis, et j'en ai informé Osrya. Elle m'a été reconnaissante et m'a ouvert un passage secret qui mène directement aux chambres de Raedric, ce qui me donnera un accès plus facile à sa salle du trône.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé des robes berathanes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Giacco a été tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai tué Osrya. Il y a peu de chance qu'elle puisse m'aider à rejoindre Raedric, maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai tué Nedmar, mettant un terme à notre marché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai libéré Giacco de sa cellule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Le seigneur Raedric VII est mort. Kolsc est maintenant libre de s'approprier la forteresse de Raedric et les terres alentours, y compris la Vallée dorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Je me suis chargé de Kolsc et j'ai informé le Seigneur Raedric qu'il est libre de régner sur les terres de la Vallée dorée sans craindre d'opposition de la part de l'usurpateur.</DefaultText>
+      <FemaleText>Je me suis chargée de Kolsc et j'ai informé le Seigneur Raedric qu'il est libre de régner sur les terres de la Vallée dorée sans craindre d'opposition de la part de l'usurpateur.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué tous les héritiers des terres de Raedric. La Vallée dorée va devoir se débrouiller sans ses "sauveurs". </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

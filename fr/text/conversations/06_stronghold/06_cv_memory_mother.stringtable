@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_memory_mother</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>En vous approchant plus près, l'apparition en face de vous se révèle être une elfe. Ses cheveux filandreux sont teints en noir, et elle tire un fil sur son tablier. Ses yeux sont creux et distants avant qu'elle ne vous remarque.
+
+Un sourire fragile descend comme un voile sur son visage. "Alors on a encore joué au soldat ? Va te laver et viens m'aider à écosser ces pois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Elle se détourne de vous assez longtemps pour produire un panier qui, comme elle, est tremblant et semi-transparent. "Je ne veux rien entendre. Il faut manger tes légumes si tu veux grandir et être fort comme un vrai soldat un jour."
+
+"Comme on a dit, d'accord ?" Elle vous regarde du coin de l'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Les soldats sont des gens importants." Sa voix monte et descend selon qu'elle se penche au-dessus de son panier. "Ils défendent les faibles. Et punissent les méchants."
+
+Elle soupire, une mèche spectrale de cheveux flotte. "Tu es trop jeune pour comprendre maintenant, mais il y a beaucoup de gens mal intentionnés." Elle ouvre une cosse avec un ongle ébréché. "Les gens comme l'homme qui a tué ton père." Elle écrase une autre cosse entre le doigt et le pouce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Mais de quoi parlez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Cela me rappelle ce qui est arrivé à... euh, mon père."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Son sourire fragile se brise. "Avant ta naissance, les Glanfanthans ont attaqué des colons comme nous. Ils ont dit que nous avions renversé certaines de leurs pierres adra spéciales. C'est pour cela qu'il l'appelle la guerre de la Pierre profanée."
+
+"Ils étaient très en colère, et ils sont arrivés dans nos villages et ont tué beaucoup de gens." Une cosse lui échappe, et elle se pique le côté de son doigt avec l'ongle ébréché de son pouce. Elle ne dit rien tandis que sa peau passe lentement du blanc au rouge. "Ton père était l'un d'entre eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Il était l'une des personnes que les Glanfathans ont tué ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"C'est ce que je viens de dire." Sa voix est lente et enrouée, et sa main est immobile au-dessus du panier. Quelque chose de sombre et de vide passe devant ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Elle laisse tomber le panier et se retourne, se tamponnant le visage avec le coin de son tablier. "Voilà pourquoi tu seras un soldat un jour. Pour protéger. Et pour venger."
+
+Elle regarde le filet de sang sur son doigt. "Pourquoi tu n'irais pas jouer ? Je vais terminer mon travail ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"... Et mon père aussi  ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Elle laisse éclater un rire heurté et sans humour. "Oui, lui aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Voilà mon petit soldat."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

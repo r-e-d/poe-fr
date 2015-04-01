@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_eder_hub2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Qu'avez-vous à l'esprit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que voulez-vous demander à ce Gardien de Caed Nua ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"J'aimerais vous poser une question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Si c'est ce que vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que faisiez-vous avant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Oh, à part la guerre, je ne me suis jamais aventuré bien loin de l'endroit où vous m'avez trouvé. Des travaux agricoles, principalement. Je n'ai jamais vraiment aimé les villes ni appris de métier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Les habitants de la Vallée dorée ont-ils vraiment essayé de vous tuer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ils... ils ont essayé, en effet."
+
+"Curieux moment car nous venions de gagner la guerre. Ils ont fêté mon retour. Ils ont joué de la musique et dansé. Trumbel a utilisé la moitié de ses céréales pour cuisiner un énorme gâteau au miel. Un gâteau dont je continue de rêver. Comme d'une parenthèse enchantée."
+
+"Ils étaient tous désolés d'apprendre que mon frère avait disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Pourquoi êtes-vous resté aussi longtemps dans un village qui vous détestait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je suis sûr que mes parents se posent la même question."
+
+"Les Purges éothasianes se sont répandues dans le village comme une maladie."
+
+"Face à un tel phénomène, on a tendance à attendre que ça passe, même si on sait que ça ne passera pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous avez de la famille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Plus que mes parents maintenant. Ils ont embarqué à bord d'un navire à destination d'Aedyr lorsque les Purges ont commencé. Ils voulaient que je les accompagne, mais on ne voyait pas les choses de la même manière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Parlez-moi de votre frère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Woden était... le fils aîné idéal. Respectueux. Honnête. Réfléchi dans tout ce qu'il faisait."
+
+Il rit. "C'était vraiment casse-pieds pour moi. Il me ridiculisait par tout ce qu'il faisait. Ce n'était pas volontaire, mais cela rendait la situation encore pire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je me pose des questions sur Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Alors, on est deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Qu'y a-t-il à savoir sur Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Si vous cherchez une religion, peut-être devriez-vous commencer par un dieu qui n'a pas été réduit en cendres, mais je ne vous arrêterai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vénérez-vous toujours Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"En quelque sorte. Je doute qu'il s'attende à me voir dans son temple en ce moment."
+
+"Il n'y a plus grand-chose à faire pour lui, si ce n'est entretenir sa mémoire et continuer d'espérer qu'il nous fait une plaisanterie depuis... quinze ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Pourquoi avez-vous choisi de vénérer Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Question d'éducation. Ma famille a toujours vénéré Éothas. Je suppose qu'au départ, je n'ai pas eu le choix."
+
+"Je ne sais pas vraiment pourquoi ma famille s'est mise à le vénérer. Probablement en raison du fait que Gaun veillait sur nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Qu'est-ce qui vous a fait penser que Waidwen ne parlait pas pour Éothas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sa manière d'agir. Pas lorsqu'il a commencé sa rébellion ni même lorsqu'il a pris le pouvoir de Readceras. Mais lorsqu'il a envoyé ses armées à Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je voudrais vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Continuons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"On parlera plus quand on se sera éloignés de la foule en colère… et de ses torches !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"C'est... euh... Eh bien, ça fait beaucoup à avaler d'un coup ! Ce qu'a dit la fantôme semblait tellement irréel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je m'attendais à voir plus de prisonniers dans une prison éternelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"On va au devant d'un paquet d'ennuis. Vous ne préférez pas qu'on attende que Thaos essaie de vous tuer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Si vous tuez Thaos, vous mériterez le titre de duc. Je voterai pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Comment se fait-il que les seules personnes autorisées à assister à ces séances d'animancie soient des fanatiques ou des tordus ? Quel est le meilleur des scénarios dans un cas comme celui-là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je me demande ce que je ferais si j'étais membre d'une société secrète d'assassins à Dyrwood ? Mais mes idées n'ont aucun intérêt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"La Baie du défi est... enfin, ce n'est pas exactement ce que j'espérais. Quoi qu'on dise sur la Vallée dorée, au moins ils auraient tous été d'accord pour me pendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Edér se gratte la tête et sourit. "Eh bien, je suppose qu'il vaut mieux parler à un Gardien fou qu'à personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"J'espère que ce vieux Gardien est toujours là. Je n'ai pas entendu parler de lui depuis des années."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Certaines choses sur le passé. Sur la guerre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je dirais que je suis passé à côté de l'occasion de découvrir ce que je voulais savoir. Mais ce vieux Gardien ouvre de nouvelles possibilités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Enfant, je pensais aller prêcher la parole d'Éothas. Dans notre temple du coin."
+
+"Mes parents m'y ont encouragé. Je leur avais donné tellement de soucis qu'ils disaient qu'il serait préférable que je sois en bons termes avec le dieu de la rédemption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Certes, le fait que nous l'avons fait exploser n'a sûrement pas augmenté mes chances dans ce projet. Mais s'il existe quelqu'un de bien placé pour pardonner un acte pareil, c'est bien Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Nous avons mis du temps à apprendre pour les Purges. Des éothasians ont été tués dans les rues. À l'Aube fraîche et ailleurs."
+
+"On ne laisserait pas une telle chose arriver à la Vallée dorée. C'est ce qu'ils ont tous dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"J'ai été pris par surprise, après toute cette fête."
+
+Il rit. "J'aurais dû m'en douter lorsque le tailleur m'a proposé de me confectionner de nouveaux vêtements et s'est contenté de prendre mon tour de cou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Mais les semaines ont passé et les Purges ont continué. Rapidement, ils se sont mis à douter que mon frère combattait pour Dyrwood. Puis, ils se sont mis à douter de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Edér marque une pause, perdu dans ses pensées. "Les fermiers pour lesquels je travaillais avaient une petite fille sans-âme. Lorsqu'ils ont appris que les animanciens disposaient de ce remède, appelé Salut, ils ont accouru."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Avec ce Salut, ils dotaient les enfants des âmes des animaux. Vous en avez certainement entendu parler. Et leur donnaient suffisamment de personnalité pour prendre soin d'eux-mêmes."
+
+"Vous pouvez imaginer ce que cela a donné. En quelque temps, les enfants se sont transformés en créatures sauvages. En monstres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Et ces fermiers ont doté leur petite fille de l'âme de leur chien. Pendant un certain temps, elle faisait mine de comprendre ce qu'on disait, elle se nourrissait, bien que de façon bien curieuse."
+
+"Puis un jour, le pire est arrivé. On l'a retrouvée en train de ronger les os de son frère. Il a fallu l'enchaîner et l'enfermer dans un enclos à vaches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Il secoue la tête et ses yeux se plissent d'un air songeur. "Il attendait juste qu'un jour sa fille lève les yeux et reconnaisse son papa."
+
+"Il attendait qu'elle aille mieux."
+
+"Je ne comprenais pas tout cela à l'époque. Mais ces temps-ci, je pense beaucoup à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Après cela, la mère ne voulait plus rien avoir à faire avec sa fille. Mais tous les jours, le père allait la voir. Il lui donnait du poulet. De temps à autre, il lui jetait de l'eau pour la laver."
+
+"La plupart des villageois murmuraient à son sujet. « Pauvre homme », disaient-ils. « Ravagé par le chagrin »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Parlez-moi des Purges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je ne les ai pas vus depuis bien longtemps. Je devrais aller leur rendre visite, mais en fait, je n'ai pas vraiment envie de sortir de chez moi."
+
+"C'est une bonne chose qu'ils m'aient chassé car sinon, je ne serais jamais parti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Mes parents nous ont toujours laissés faire ce que nous voulions. Ils ne m'ont jamais dit d'être plus comme lui ou ce genre de choses." Il sourit. "Ce qui s'est avéré être une bonne chose, car je ne l'aurais jamais été."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Lui aussi, il faisait des bêtises. Mais disons juste, qu'il avait plus tendance à se sentir coupable ensuite."
+
+"Un fermier qui vivait près de chez nous, Hereward, ne pouvait pas s'empêcher de dire qu'il s'occupait mieux de ses poulets que quiconque. Que leur plumage était plus blanc que ceux des autres. Il a convaincu le boucher de les lui acheter au prix deux fois plus élevé que d'habitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Woden et moi, on en avait assez de l'entendre. À l'époque, j'avais onze, voire douze ans."
+
+Ul large sourire apparaît sur le visage d'Edér. "Un soir, nous avons « emprunté » une demi-douzaine de teintures au teinturier. Puis, nous avons teint les poulets de Hereward de toutes les couleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Le lendemain matin, le boucher est venu lui demander six de ses poulets les plus blancs." Edér glousse d'un air malicieux.
+
+"Nous étions contents de nous jusqu'à ce que Hereward se rende compte de ce que nous avions fait. Il s'est agenouillé et a pleuré, entouré de ses poulets colorés et ne sachant que faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Je me disais que c'était bien fait pour lui, mais Woden n'était pas de cet avis. Et bien sûr, le lendemain, tous ses poulets avaient été nettoyés. Certes, ils n'étaient plus blancs, mais Woden y avait mis tout son cœur. Il ne m'a jamais rien avoué, mais je le savais. C'était Woden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Éothas était un jeune homme, affublé d'une couronne en argent, qui transportait une bougie partout avec lui."
+
+Il grogne avec amusement."Cela ressemble à un mauvais éloge funèbre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Il était... eh bien, il incarnait différentes choses pour chacun, je suppose. La renaissance. La rédemption. La lumière."
+
+"Dans les campagnes, il est connu en tant que Gaun, le fermier, qui veille à ce que toutes choses passent, les saisons comme les gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Gaun veille sur les faibles. Il rétablit les déséquilibres. On comprend aisément pourquoi les pauvres des environs l'appréciaient. Pendant quelque temps, il a été très populaire ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"De nos jours, rares sont ceux à vénérer ouvertement Éothas. Il est difficile de savoir qui continue de le faire en privé et qui a abandonné. J'ai parfois l'impression d'être le dernier."
+
+Il sourit d'un air affecté. "Si c'est le cas, il mérite ce deuil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Si je ne m'abuse, il ne s'est plus adressé à personne depuis l'explosion du Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Pourquoi le vénérer, alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"J'ai une autre question sur Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Parfait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Mais ce n'est pas vraiment ça. Non, pas vraiment." Il lance un regard en coin.
+
+"Je suppose que je crois toujours en ce qu'il croyait."
+
+"J'espère juste que sa mort ne signifie pas la mort de toutes ces choses. Cela y ressemble parfois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Il grimace. "Eh bien, s'il s'avère qu'il n'est PAS mort et que je l'ai abandonné, j'aurai trahi mon dieu à deux reprises. Même le dieu de la rédemption a des principes."
+
+"Je renaîtrais sûrement sous forme d'un gros cheval aumaua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Il vous regarde discrètement dans les yeux. "Est-il possible que mon ancêtre ait fait quelque chose de si mal que seul Éothas pourrait pardonner ?"
+
+"Cela expliquerait d'où me viennent ces qualités peu respectables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Il secoue la tête. "Hmmm. Il y avait quelque chose que j'appréciais particulièrement chez Éothas. Depuis toujours. Il comprenait mieux les gens que n'importe quel autre dieu. Il connaissait nos points faibles et il nous acceptait en dépit de ceux-ci."
+
+"Les gens sont redoutables lorsqu'ils ont peur. Un dieu comme Éothas vous aidait à comprendre qu'il n'y avait aucune raison d'avoir peur. Il faisait de vous quelqu'un de meilleur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Le vénériez-vous uniquement en raison de votre éducation ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Et maintenant, il disparaît pour quelques années et regardez ce qui se passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Jusque-là, il était auprès des siens. C'est ce que faisait Éothas, du moins Gaun. Ces fermiers mourraient de faim sans que leur gouvernement ne lève le petit doigt. Je pensais que, même si cela ne venait pas d'Éothas, il avait eu raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Mais il a envoyé des armées de l'autre côté de la frontière. Il a lui-même fini par franchir la frontière."
+
+"On dit qu'il traquait les réfugiés qui avaient échappé à la rébellion. Il voulait les punir et nous punir pour les avoir laissés vivre ici."
+
+"Cela ne me convenait pas. Ce sont là les agissements d'un dieu vengeur. Skaen ou Woedica, peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ou d'un homme qui a perdu la tête."
+
+"J'ai toujours du mal à y croire. Mais plus personne n'est en mesure de le dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Edér vous regarde comme s'il regardait directement le soleil. "Vous ne voulez vraiment pas parler de quelque chose de plus agréable, comme la guerre des Arbres noirs ou l'Héritage, par exemple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Vraiment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Edér hausse les épaules. "Non, pas la dernière partie. Mais vous deviez y réfléchir. Cela en dit long sur l'endroit que j'ai considéré comme chez moi pendant toutes ces années."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Puis-je vous poser une autre question personnelle ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"C'est révélateur de voir combien vous êtes démuni en l'absence de dieu pour vous protéger."
+
+"La guerre du Saint a mis à l'épreuve les Dyrwoodans. Les gens pensaient que c'était la fin du monde. Ils se demandaient comment vaincre un dieu, mais ici comme à la Marche blanche, personne ne pensait qu'il allait mourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"C'est quelque chose de penser que vous allez mourir aux mains de quelqu'un d'autre. Une immense colère vous envahit. Un sentiment d'indignation."
+
+"Imaginez tout un pays en proie à cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Il se peut que tout ait commencé à l'Aube fraîche. Une ville proche de la frontière. Ils ont laissé Waidwen entrer sans opposition. Le reste de Dyrwood a maudit leurs noms jusqu'à la fin de la guerre."
+
+"Selon certains, les éothasians auraient persuadé la ville de ne pas s'opposer à l'armée. Selon d'autres, ce n'était que de la lâcheté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"C'était comme l'Héritage. Personne n'en connaissait la raison et ils se sont tournés vers la personne qui incarnait le mieux ce qu'ils croyaient."
+
+"Quoi qu'il en soit, cette ville brûlait bien avant que les premières cendres d'Éothas ne tombent par terre. Et les gens d'ici appréciaient de prendre la situation en main après avoir été si désespérés. Les feux se sont alors répandus. Beaucoup d'éothasians se sont mis à suivre notre dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"On disait aussi que c'était en fait Magran qui avait ordonné les Purges. J'avais du mal à y croire. J'avais l'impression que les gens faisaient ce qu'ils voulaient, s'enveloppant de leur dieu comme d'un manteau."
+
+"Là encore, c'est ce que je pensais de Waidwen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"J'ai trouvé cet objet enfoui aux environs de Clîaban Rilag. Il date peut-être de la guerre du Saint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

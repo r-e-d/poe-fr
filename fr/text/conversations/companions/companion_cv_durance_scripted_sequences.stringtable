@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_scripted_sequences</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous vous réveillez et voyez Durance qui tient son bâton à deux mains devant lui. Une flamme vacille au sommet de celui-ci en projetant des ombres sur le visage de Durance dont les yeux sont plongés dans la contemplation.   
+
+Malgré la lumière produite par le feu, vos yeux ne parviennent pas à faire le point sur Durance... Vous vous demandez si vous êtes bien réveillé ou s'il s'agit d'un effet d'optique, mais tout est... flou, à l'exception du bâton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le bâton... Durance semble examiner les inscriptions qui y sont gravées. En les observant, vous constatez que les inscriptions flamboient légèrement à travers les fissures du bois chaud.   
+
+Comme du métal en fusion, les lignes s'embrasent progressivement sur les bords du bâton avant de former un réseau complexe de veines ardentes et de s'agglutiner en couches épaisses qui palpitent comme un cœur près des mains de Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>En les observant, vous constatez que les veines forment une spirale composée d'une douzaine de cercles distincts... des cercles qui forment à nouveau une spirale jusqu'à représenter à leur tour un cercle. Ces cercles palpitent et s'arrêtent. Tout est étrangement silencieux... Puis...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Puis, soudain, une intense lumière jaillit du feu en produisant un souffle et un éclair... Et vous vous réveillez à nouveau. Durance est à la même place, son bâton à la main, mais il est bien réel.   
+
+Il ne semble pas vous avoir remarqué... ni réagir à ce qui s'est passé.</DefaultText>
+      <FemaleText>Puis, soudain, une intense lumière jaillit du feu en produisant un souffle et un éclair... Et vous vous réveillez à nouveau. Durance est à la même place, son bâton à la main, mais il est bien réel.   
+
+Il ne semble pas vous avoir remarquée... ni réagir à ce qui s'est passé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Durance vous regarde en silence. "Dites-moi ce que vous avez vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Il y a eu un éclair, comme une explosion... un souffle... C'était incroyablement intense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Durance vous écoute attentivement. Il reste étrangement silencieux pendant quelques instants, puis se met à parler à voix basse.  
+
+"Vous avez vu la lumière du Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Le Marteau divin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Le Marteau divin ? Qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"C'était une arme du peuple de Dyrwood. Le symbole de leur indépendance. Elle a sauvé Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Que savez-vous sur lui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vous avez dit que vous étiez douze sur le pont ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Que s'est-il passé sur le pont quand le Marteau divin est tombé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vous avez dit que vous aviez l'impression que les prêtres du Marteau divin et vous aviez partagé le sort des douze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Qu'avez-vous fait ensuite ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Dans la vision que j'ai eue de votre bâton, vous étiez... flou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Je voudrais vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Durance continue à parler à voix basse, sur un ton monocorde, comme s'il répétait quelque chose pour la énième fois, que ce soit à voix haute ou pour lui-même. "Il a mis fin à la guerre du Saint... en renversant un dieu de son perchoir."  
+
+Le visage de Durance se fige. "Rares sont ceux qui nieraient qu'Éothas a... dépassé les bornes. C'est le message que le Marteau divin a adressé à Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous avez vu sa lumière parce que j'ai contribué à le façonner, à lui donner vie... et à le libérer." Durance avale sa salive et acquiesce. "Lorsqu'on l'a vu... son rayonnement semble presque trop intense pour être vrai... Et on ne l'oublie pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous avez contribué à la fabrication du Marteau divin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Nous étions douze." Durance acquiesce. "Nous avons façonné l'arme, élaboré ses plans, prié pour être guidés à Ashfall, et j'ai alors réalisé que... chacun de nous avait reçu un bâton issu de la forêt des Arbres noirs, dont émanaient des braises et un feu bien plus intenses que cette... branche que vous voyez là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"J'avais l'impression que le bâton était un doigt de Magran qui guidait ma main et celle des onze autres, les ombres des douze qui allaient se poster sur le pont pour arrêter Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Les ombres des douze ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"J'ai également vu une douzaine de cercles brillants émerger de votre bâton."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Parlez-moi du pont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"J'aimerais vous poser d'autres questions sur le Marteau divin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Durance fronce les sourcils. "Quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Il y avait un rituel. Pour les douze qui se tenaient sur le pont, il y avait une douzaine d'ombres projetées, une douzaine de fidèles de Magran, ses plus fervents partisans qui avaient façonné le Marteau divin. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Durance pose le bâton devant lui. La flamme qui le surmonte... s'enroule momentanément, puis la lumière s'intensifie légèrement... avant de former progressivement douze anneaux de flammes...  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Les ombres projetées par le feu du Marteau divin, peut-être..." Soudain, la flamme s'éteint, sans produire de fumée. "... Et nous avons également partagé leur sort. Dyrwood porte aujourd'hui la marque du Marteau divin. La marque de Magran." Durance fronce les sourcils et détourne les yeux du bâton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Que voulez-vous dire par « nous avons également partagé leur sort » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Toutes les morts ne sont pas paisibles." Durance grogne en ajustant la corde de sa robe. "Il y a des passions qui s'apaisent en-dessous de la ceinture. Certaines morts viennent du silence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Le lien que nous avions jadis avec Magran... a été emporté par la lumière du Marteau divin."   
+
+"Comme si nous avions perdu nos sens... et notre détermination. Au lieu d'une victoire... bienvenue, ce fut le silence..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Rares sont ceux qui peuvent se vanter d'avoir tué un dieu. Cela n'a rien... d'héroïque, vous savez. Et cette mort a changé notre foi. Toutes les fois, je pense."  
+
+Durance repose les yeux sur l'extrémité éteinte de son bâton. "Le doute a suivi. Et le monde a changé... Je crois que ce que nous avons fait a déplu à Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Pourquoi cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Le monde est brisé, la Roue est immobilisée." Durance gratte une des cicatrices laissées sur sa joue par la vérole, s'arrête, retire sa main, puis l'examine en fronçant les sourcils. "Le cœur du monde est malade et c'est peut-être le prix à payer pour avoir contrarié un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Il grogne. "Pour avoir contrarié deux dieux... Car bien que Magran ait guidé nos mains, sa volonté a peut-être dépassé une limite qui ne devait pas être franchie." Il marque une pause en regardant son bâton. "Comme l'a fait Waidwen. 'Saint' Waidwen." Durance crache. "L'arrogance des mortels face à l'arrogance des mortels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Mais si le monde avait changé... je devais changer avec lui. Si j'avais oublié certains enseignements de Magran, je devrais les retrouver. Je devrais m'assurer qu'elle me voie à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Qu'avez-vous fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je me suis souvenu des enseignements de Magran, que les marques laissées dans la chair étaient plus importantes que la mort d'un vaisseau." Durance fronce les sourcils. "Et je me suis demandé si le fait d'avoir tué Éothas... l'avait libéré. Avait-il réussi à échapper à son châtiment et à rejoindre la Roue ?"   
+
+La voix Durance devient étrange... Pour une fois, il semble sincèrement s'interroger. "Comme un mortel ?" Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"En revenant du pont du Marteau divin, désormais béni, j'ai pensé à Ashfall, à la guerre des Arbres noirs, et je me suis demandé s'il fallait que je sois brûlé pour me retrouver. C'est ça le cœur de Magran."  
+
+"J'ai au moins cet espoir." Durance fronce les sourcils. "Voilà les doutes qui m'assaillent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Que s'est-il passé quand vous êtes retourné à Ashfall ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"La route qui mène à Ashfall est longue, ce qui laisse le temps de réfléchir." Sa main serre son bâton. "Et si vous prenez le temps de réfléchir, vous ne rentrez pas chez vous."   
+
+"Je suis parti sans rien dire à personne, avec pour seuls bagages la robe que je portais à Halgot, mon bâton et mon nom... qui est enterré depuis longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"J'ignore ce que sont devenus les onze autres artisans et disciples... Et s'ils ont été assaillis par les mêmes doutes que moi. Mais... ce n'était pas bien. Nous avions fait tout ça... La catin avait demandé et obtenu la victoire après la défaite et..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vous avez l'impression d'avoir été trahi par votre dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Avez-vous l'impression d'avoir trahi votre dieu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Racontez-moi ce qui s'est passé sur le pont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ce n'est pas rien... d'être utilisé et rejeté." Durance plisse le yeux, comme s'il était plongé dans des réflexions intérieures.   
+
+"Waidwen a peut-être ressenti la même chose, à la fin, quand le marteau a frappé. Ce qui serait la preuve que votre dieu est aussi creux que le vaisseau qu'il habite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"J'ai essayé de trouver une explication... J'ai évité tout contact avec d'autres prêtres de Magran, je n'ai pas cherché les murs d'Ashfall... Et j'ai essayé de faire amende honorable auprès de mon dieu à travers mes actes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"J'ai participé aux Purges pendant un certain temps... Et peu après, les premiers signes des sans-âme sont apparus." Il fronce les sourcils. "Tant de crimes... de profanations, de violations..." Il crache. "Le « Salut »... Les animanciens ne sont qu'un mal de plus engendré par la guerre du Saint... une rechute de l'innovation, du désespoir, pour réparer nos erreurs."   
+
+"Tout semblait pire qu'avant le pont. Et au fil des ans... malgré la victoire... la situation n'a fait qu'empirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Nous avions choisi le pont parce que nous pouvions le contrôler." Les mains de Durance serrent le haut du bâton, comme si elles le tenaient pas le cou. "Nous savions que nous pouvions y faire trébucher Éothas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Mais au-delà de cela, c'était le symbole de la colonne vertébrale de Dyrwood. De tels symboles sont importants lorsque l'on fabrique une arme..." Durance examine son bâton et ses yeux parcourent les inscriptions qui y sont gravées. "N'importe quelle arme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Les traits de Durance se durcissent, et ses yeux brûlent tandis qu'il fronce les sourcils. "Je pense qu'Éothas le savait... de même que son vaisseau, avec son... arrogance." Sa main serre le bâton. "Il avait l'intention de marcher sur le pont comme si c'était le dos de Dyrwood."   
+
+"Et nous avions l'intention de le brûler avec la lumière de notre foi... et la sienne. Douze sur le pont, douze dans l'ombre, et nous nous sommes donnés à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous vous êtes donnés à lui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Au... Marteau divin."   
+
+"Un tel dispositif n'est pas simplement une machine. Il renferme des éléments spirituels." Durance fronce les sourcils. "Même de l'esprit de Waidwen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Des éléments spirituels ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Waidwen ? Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Les douze qui ont produit le Marteau divin étaient prêts à tout pour sauver Dyrwood, pour sauver leur peuple. C'est la raison pour laquelle nous avons été choisis."  
+
+"Chacun de nous..." Le visage de Durance se crispe. "Chacun de nous haïssait cet imposteur. Cette rage, cet esprit, cette rébellion ont imprégné notre œuvre."   
+
+"Et nous ont permis d'étudier Waidwen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Nous avons tous étudié Waidwen. C'était notre ennemi, et il était la chair que le dieu portait comme un manteau, mais cette chair le rendait vulnérable."  
+
+"Je connaissais les champs que ses mains avaient cultivés, sa famille, ce qu'il avait récolté. Je savais où il était né. Nous voulions le connaître pour savoir ce qui l'avait poussé à nous combattre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Pourquoi était-ce si important ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Vous ne tuez pas le dieu, mais l'homme dans lequel il habite. Et vous transformez cet homme en cendres."  
+
+"L'arme était destinée à consumer sa chair mais aussi son âme. Et c'est ce qu'elle a fait, au détriment de la nôtre et de la faveur de notre déesse... Que cette catin soit damnée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"On dirait que vous avez été victime de l'arme que vous avez contribué à créer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Est-ce la raison pour laquelle votre image était floue dans le rêve ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Durance fronce les sourcils et vous regarde avec des yeux perçants. "Vos yeux ont peut-être été aveuglés par la vérité du Marteau divin, Gardien." Il grogne. "J'ai peut-être parfois l'impression de n'être qu'à moitié un homme, mais c'est déjà deux fois plus que la plupart des gens."</DefaultText>
+      <FemaleText>Durance fronce les sourcils et vous regarde avec des yeux perçants. "Vos yeux ont peut-être été aveuglés par la vérité du Marteau divin, Gardienne." Il grogne. "J'ai peut-être parfois l'impression de n'être qu'à moitié un homme, mais c'est déjà deux fois plus que la plupart des gens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Durance fronce les sourcils et vous regarde avec des yeux perçants. "Vos yeux ont peut-être été aveuglés par la lumière du Marteau divin, Gardien." Il grogne. "J'ai peut-être parfois l'impression de n'être qu'à moitié un homme, mais c'est déjà deux fois plus que la plupart des gens."</DefaultText>
+      <FemaleText>Durance fronce les sourcils et vous regarde avec des yeux perçants. "Vos yeux ont peut-être été aveuglés par la lumière du Marteau divin, Gardienne." Il grogne. "J'ai peut-être parfois l'impression de n'être qu'à moitié un homme, mais c'est déjà deux fois plus que la plupart des gens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Durance secoue la tête, mais son visage se crispe et s'empourpre. "Si vous avez peur pour mon esprit, ces peurs sont sans fondement. Le fait d'avoir vu la lumière du Marteau divin n'a fait que renforcer ma colère. En outre, cela m'a rendu plus fort et m'a permis de réexaminer les enseignements de Magran... de les appréhender sous un autre angle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"J'ai l'impression que vous n'êtes pas entier, comme si votre esprit avait été... coupé en deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Est-ce à ce moment-là que vous avez recherché les enseignements de Durance ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Durance grogne, le visage rouge de fièvre. "J'en ai assez de vos questions, Gardien... Je ne vous permets pas de me sonder ainsi. Allez-vous-en et laissez-moi tranquille."</DefaultText>
+      <FemaleText>Durance grogne, le visage rouge de fièvre. "J'en ai assez de vos questions, Gardienne... Je ne vous permets pas de me sonder ainsi. Allez-vous-en et laissez-moi tranquille."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Durance s'apprête à vous sauter dessus, mais il se reprend et fait un signe de tête. "Il me fallait du temps pour retrouver les enseignements que j'avais perdus. Et pour accomplir la volonté de la déesse dans le cadre des Purges... La foi en Éothas subsistait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Peut-être que Magran ne voulait pas non plus des Purges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>De la sueur s'accumule dans les rides noires de suie de son front et coule sur ses joues rougeaudes. Elle goutte au bout de son nez.  
+
+Ses lèvres bougent mais aucun son ne sort de sa bouche. Pour une fois, il est perdu. En sentant votre regard posé sur lui, il se calme rapidement et s'essuie le front avec le dos de sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Sa voix trahit sa nervosité. "Hnh. Si vous vouez un culte aux lubies d'une garce volage, vous ne serez jamais rien d'autre que de la poussière sous ses pieds."  
+
+"Mais si vous vouez un culte à ce qu'elle vénère et considérez son feu comme le vôtre, elle vous respectera."   
+
+"Et bien sûr, à ce moment-là, vous n'en aurez plus besoin. L'épreuve et la transformation, comme l'a enseigné Durance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Durance vous lance un regard noir et ses yeux vous donnent l'impression d'être au bord d'un précipice.</DefaultText>
+      <FemaleText>Durance vous lance un regard noir et ses yeux vous donnent l'impression d'être au bord d'un précipice. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Maintenant je comprends pourquoi vous traitez votre déesse de catin. Elle vous a rejeté et vous vous languissez d'elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Vous avez commis des atrocités et votre déesse vous a rejeté. Qui dit que la justice est étrangère à Magran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Comme vous, Durance ignorait peut-être comment servir Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"J'ai l'impression que votre déesse ne vous pardonnera jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Il semblerait que le silence de Magran soit votre épreuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Vous avez commis des atrocités et votre déesse vous a rejeté. Vous l'avez mérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Vos yeux s'ouvrent sur une scène familière. Durance est assis, son bâton posé sur ses genoux et une flamme maligne germe à une extrémité de celui-ci.  
+
+Vous avez du mal à le distinguer car ses traits sont flous. En revanche, vous distinguez parfaitement son bâton dont les inscriptions émettent un rayonnement orange. Bien que le visage de Durance soit flou, vous voyez que son expression est dure et son front plissé. Sa voix siffle et crépite, comme s'il se disputait avec son bâton, mais vous ne comprenez pas ce qu'il dit. À la lueur du feu, des postillons jaillissent de sa bouche comme des étincelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Un des symboles attire votre attention. Il s'agit d'un cercle composé de douze cercles plus petits. Un des petits cercles émet une lueur plus intense que les onze autres, qui tremblent et s'estompent comme des braises mourantes.  
+
+Tout en continuant à marmonner, Durance approche son visage du bâton et souffle rapidement sur les cercles qui sont en train de s'éteindre, mais ils ne se rallument pas. Un par un, les cercles s'éteignent et de la fumée s'élève des cendres. Un seul continue à brûler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Durance jette son bâton à ses pieds. Vous avez du mal à distinguer ses bords. Comme son propriétaire, le bâton est devenu flou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Vous fermez les yeux puis les rouvrez. Durance est en train de ramasser son bâton par terre, mais il n'est plus flou et vous êtes réveillé.</DefaultText>
+      <FemaleText>Vous fermez les yeux puis les rouvrez. Durance est en train de ramasser son bâton par terre, mais il n'est plus flou et vous êtes réveillée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Durance vous lance un regard de défi. "Vous voyez beaucoup de choses qui n'existent pas, Gardien. Le symbole représentait peut-être la santé mentale que vous êtes en train de perdre. Nous devrions lui dire adieu tant que vous avez encore la présence d'esprit de la pleurer."</DefaultText>
+      <FemaleText>Durance vous lance un regard de défi. "Vous voyez beaucoup de choses qui n'existent pas, Gardienne. Le symbole représentait peut-être la santé mentale que vous êtes en train de perdre. Nous devrions lui dire adieu tant que vous avez encore la présence d'esprit de la pleurer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"C'était le symbole du Marteau divin. J'ai vu douze cercles. Onze se sont effacés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"J'ai vu un symbole composé de douze cercles. Que représente-t-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Hnh, il n'y a aucun mystère là-dedans, Gardien. Nous étions douze à fabriquer le Marteau divin. Après l'explosion, je les ai tous quittés pour voir ce que Magran me réservait. Je ne les ai jamais revus depuis."</DefaultText>
+      <FemaleText>"Hnh, il n'y a aucun mystère là-dedans, Gardienne. Nous étions douze à fabriquer le Marteau divin. Après l'explosion, je les ai tous quittés pour voir ce que Magran me réservait. Je ne les ai jamais revus depuis."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Vous êtes sûr de m'avoir tout dit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Si vous le dites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Durance plante son regard dans le vôtre.   
+
+"Vous et vos semblables interprétez vos visions comme cela vous arrange. Mais la flamme de Magran ne laisse aucune place à l'interprétation."  
+
+"Je n'ai pas de temps à perdre avec vos élucubrations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Je sais ce que j'ai vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Les flammes déforment tout ce qui les entoure. Et vous ne semblez jamais bien loin d'une flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"La nature et l'emplacement des flammes ne font aucun doute. La question que tout le monde se pose, c'est : POURQUOI existent-elles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Il n'y a aucune honte à cela dans la mesure où ma vérité est plus intéressante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Les fous ont toujours tendance à vouloir convaincre leur entourage de la réalité qu'ils sont les seuls à voir. Mais lorsque votre doctrine est la vérité, vous n'avez pas besoin de convaincre. Il suffit d'ouvrir les yeux."  
+
+"Si je pensais que ça pouvait vous aider, je vous purifierais, Gardien."</DefaultText>
+      <FemaleText>"Les fous ont toujours tendance à vouloir convaincre leur entourage de la réalité qu'ils sont les seuls à voir. Mais lorsque votre doctrine est la vérité, vous n'avez pas besoin de convaincre. Il suffit d'ouvrir les yeux."  
+
+"Si je pensais que ça pouvait vous aider, je vous purifierais, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Examinez le bâton.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>... Et à votre grand étonnement, une silhouette féminine se tient derrière lui. Vous êtes sur le point de crier quand vous réalisez qu'il s'agit de la statue de Magran près de laquelle vous avez rencontré Durance à la Croisée...   
+
+Mais... elle vous a brièvement paru... vivante... Son ombre semblait bouger, masquée, avant de s'immobiliser, figée dans la nuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Face à Éothas, nous tous, les douze, avons déchaîné nos prières et laissé tomber le Marteau divin." 
+
+... Une lumière intense apparaît, puis s'estompe pour laisser place à une lueur semblable à celle d'une bougie. Les ombres vous paraissent ensuite plus nettes, comme pourvues de contours, et vous clignez des yeux pour mieux voir... Durance regarde toujours attentivement la petite flamme semblable à une bougie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Vous croyez pouvoir mettre du charbon à mes pieds, mais ce qui a déjà brûlé ne brûlera jamais plus." 
+
+"Ces discussions sont VOTRE épreuve, Gardien. Vous ne pouvez pas détourner la vérité sur quelqu'un qui a déjà été purifié par elle."</DefaultText>
+      <FemaleText>"Vous croyez pouvoir mettre du charbon à mes pieds, mais ce qui a déjà brûlé ne brûlera jamais plus." 
+
+"Ces discussions sont VOTRE épreuve, Gardienne. Vous ne pouvez pas détourner la vérité sur quelqu'un qui a déjà été purifié par elle."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

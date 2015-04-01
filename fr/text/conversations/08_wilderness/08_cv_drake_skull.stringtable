@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_drake_skull</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce crâne de dragon pointe en direction de l'est. À cet endroit, la terre est douce et humide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Enterrez le parchemin de Wael.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Alors que vous recouvrez l'ancien parchemin d'une dernière poignée de terre, la voix changeante résonne une fois de plus dans votre tête.
+
+"Bien joué, Gardien."</DefaultText>
+      <FemaleText>Alors que vous recouvrez l'ancien parchemin d'une dernière poignée de terre, la voix changeante résonne une fois de plus dans votre tête.
+
+"Bien joué, Gardienne."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

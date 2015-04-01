@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_tsk_elder_archives</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La Parabole de Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Récupérez le parchemin volé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Grimda à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un groupe de voleurs a dérobé un parchemin de Wael dans le Hall des mystères révélés dans la Baie du défi. La Haute archiviste, Grimda, veut que je suive la trace des voleurs et que je récupère le parchemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Grimda a dit qu'un des voleurs a mentionné une ferme abandonnée sur le chemin de Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai récupéré le parchemin volé. Tout ce qui reste à faire est de le livrer à Grimda dans le Hall des mystères révélés à Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé plusieurs personnes se cachant dans une ferme abandonnée. Je pense qu'il s'agit des voleurs que Grimda a mentionnés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Maintenant que les voleurs sont morts, je peux les fouiller pour récupérer le parchemin et retourner auprès de Grimda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Je viens de vivre la plus étrange des expériences. J'ai entendu une voix dans ma tête, et elle m'a demandé de cacher à nouveau le parchemin. Elle m'a demandé de l'enterrer sous le crâne du drake tourné vers l'est, dans la Prairie noire. Ça ressemblait à s'y méprendre à un message de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai enterré le parchemin là où le souhaitait Wael. Grimda voudra savoir ce qui lui est arrivé, mais j'ignore comment elle réagira à cette nouvelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai rapporté le parchemin de Wael à Grimda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Avec Grimda morte, il n'y a plus de raison de rapporter le parchemin de Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai suivi les instructions cryptées de Wael et enterré le parchemin dans la Prairie noire. Sans surprise, Grimda ne m'a pas cru, et à présent elle est furieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai suivi les instructions cryptées de Wael et enterré le parchemin dans la Prairie noire. Grimda l'a compris comme la volonté de Wael et était satisfaite.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

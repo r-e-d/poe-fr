@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_confront_lka</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Souvenirs des anciens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Entrez à l'Ombre ensoleillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Recherchez Thaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai suivi les conseils des délemganes. Je me suis laissé guider dans les profondeurs de Breith Eaman avec la bénédiction des dieux, qui m'ont demandé d'arrêter Thaos avant qu'il ne remette les sans-âme de Dyrwood à la déesse Woedica pour qu'elle s'en repaisse.
+
+Quoi qu'il arrive, nous ne sommes pas au bout de nos peines. Je dois trouver Thaos au plus vite. Les murmures qui hantent mon esprit sont plus présents que jamais. Je n'ai plus aucun répit. Lorsque je me présenterai à Thaos, je risque d'être aussi perdu que l'était Maerwald.</DefaultText>
+      <FemaleText>J'ai suivi les conseils des délemganes. Je me suis laissée guider dans les profondeurs de Breith Eaman avec la bénédiction des dieux, qui m'ont demandé d'arrêter Thaos avant qu'il ne remette les sans-âme de Dyrwood à la déesse Woedica pour qu'elle s'en repaisse.
+
+Quoi qu'il arrive, nous ne sommes pas au bout de nos peines. Je dois trouver Thaos au plus vite. Les murmures qui hantent mon esprit sont plus présents que jamais. Je n'ai plus aucun répit. Lorsque je me présenterai à Thaos, je risque d'être aussi perdue que l'était Maerwald.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai survécu à la chute du sommet de la Cour des pénitents. Le chemin qui est devant moi mène à la prison éternelle des Engwithans. Selon les sœurs délemganes, il devrait également me permettre d'accéder à cette "Ombre ensoleillée" à laquelle Thaos est lié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Les âmes qui m'ont été offertes par les dieux ont illuminé un chemin dans l'obscurité de ce lieu. Thaos se trouve devant, quelque part.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai atteint la machine engwithane que j'ai vue dans mes rêves. Des milliers d'âmes dyrwoodanes y ont été aspirées. Thaos ne peut être loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

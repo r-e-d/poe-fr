@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_kolsc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>134</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Halte, sire, un moment." Un homme encapuchonné attend sur la route, revêtu d'une cape verte. Il avance à grandes enjambées pour aller à votre rencontre, et en se rapprochant ses traits se précisent sous la forme d'un jeune homme, quoique marqué par la fatigue.</DefaultText>
+      <FemaleText>"Halte, ma dame, un moment." Un homme encapuchonné attend sur la route, revêtu d'une cape verte. Il avance à grandes enjambées pour aller à votre rencontre, et en se rapprochant ses traits se précisent sous la forme d'un jeune homme, quoique marqué par la fatigue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ah, l'étranger serviable. Je suis ravi que vous soyez venu. Avez-vous des nouvelles pour nous ?" Kolsc plisse son front. "Étrange - Je n'ai pas eu d'instructions de la forteresse. Avez-vous réussi ? Raedric est-il mort ?"</DefaultText>
+      <FemaleText>"Ah, l'étrangère serviable. Je suis ravi que vous soyez venue. Avez-vous des nouvelles pour nous ?" Kolsc plisse son front. "Étrange - Je n'ai pas eu d'instructions de la forteresse. Avez-vous réussi ? Raedric est-il mort ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nous avons appris que vous avez attaqué la forteresse. Et nous sommes arrivés trop tard. Mais un moment plus tôt, et j'aurais assisté à son dernier soupir... Peu importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que voulez-vous que je fasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je préfèrerais ne pas être impliqué."</DefaultText>
+      <FemaleText>"Je préfèrerais ne pas être impliquée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>L'homme acquiesce, se tenant un peu plus droit. "C'est une sombre tâche que je vais vous confier, mais je vous assure qu'il n'y a pas d'autre choix. Il faut arrêter le seigneur Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je trouverai Raedric et me chargerai de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je vois." Kolsc vous regarde un instant, reculant prudemment d'un pas. "Oui, bien sûr. Quoi qu'il en soit, l'homme est loin d'être demeuré, et il ne manquerait pas l'occasion de retourner mes alliés contre moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"La Vallée dorée ne survivra pas si elle continue à subir la loi du seigneur Raedric. Il faut l'arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Seul un homme déterminé à voir la Vallée dorée retrouver son lustre d'antan. Jadis, étranger, la Vallée dorée était digne de son nom. Le blé brillait comme l'or sur les collines, et les gens vivaient bien."</DefaultText>
+      <FemaleText>"Seul un homme déterminé à voir la Vallée dorée retrouver son lustre d'antan. Jadis, étrangère, la Vallée dorée était digne de son nom. Le blé brillait comme l'or sur les collines, et les gens vivaient bien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Et qu'est-il arrivé ? Quelle que soit la cause du fléau sur notre terre, son peuple n'est pas fautif. Raedric cherche à nous punir pour des crimes que nous n'avons pas commis, alors qu'il oublie lui-même les siens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Pas moi. Et il paiera pour ce qu'il a fait. Moi, Kolsc, je le jure par la flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"La Vallée dorée a trop souffert de la folie de Raedric. Il soignerait l'Héritage de Waidwen en s'assurant qu'aucun être vivant dans le village ne puisse en être victime. Je crains que sa propre épouse, Ygrid, ne soit menacée. L'homme ne possède pas une once de pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Balancez-le des remparts, ou bien décapitez-le. Je m'en moque. Une fois son trône abandonné, la Vallée dorée disposera de la gérance qu'elle mérite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Alors je loue votre courage, et vous remercie de votre assistance. Mais je ne vous y enverrai pas sans que vous soyez dûment averti."</DefaultText>
+      <FemaleText>"Alors je loue votre courage, et vous remercie de votre assistance. Mais je ne vous y enverrai pas sans que vous soyez dûment avertie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nedmar peut vous aider à atteindre Raedric, mais il réside dans le niveau supérieur de la forteresse de Raedric, protégé par des gardes et des mercenaires. Vous devrez rester dans l'ombre, si vous avez l'intention de l'atteindre sans alarmer tout le donjon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Un assaut frontal serait malavisé. Si vous voulez le faire, vous pourriez suivre nos pas et rechercher l'entrée par les égouts à la bordure est des douves. Il détourne le regard. "Mais plusieurs de mes hommes ont été capturés. Il se peut que l'entrée ait été découverte, et bouchée à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ces hommes étaient sous mon commandement. Je vous serais redevable si vous trouviez un moyen de les aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"La forteresse de Raedric grouille de soldats et de mercenaires, tous loyaux envers Raedric. Ils n'accueilleront pas les intrus à bras ouverts. En vérité, ils seront d'autant plus en alerte en raison de nos échecs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Une fois à l'intérieur, recherchez mon vieil ami, Nedmar. C'est le grand-prêtre berathian, maintenant que le Dieu brillant est tombé. Un homme bon, dans des circonstances difficiles. Il entendra raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Très bien. Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Merci du conseil. J'en ferai bon usage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je tracerai ma voie. C'est plus drôle ainsi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Il n'y a aucune raison de gâcher des ressources si ce n'est pas nécessaire. J'y penserai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"C'est une bénédiction des dieux d'avoir trouvé quelqu'un qui comprenne l'honneur et le devoir. Que Magran vous apporte la victoire, l'ami. Bonne chance."</DefaultText>
+      <FemaleText>"C'est une bénédiction des dieux d'avoir trouvé quelqu'un qui comprenne l'honneur et le devoir. Que Magran vous apporte la victoire, l'amie. Bonne chance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Kolsc vous étudie un moment. "Qu'il en soit ainsi. Du moment que vous ne perdez pas de vue le véritable ennemi. Que les dieux vous guident, étranger."</DefaultText>
+      <FemaleText>Kolsc vous étudie un moment. "Qu'il en soit ainsi. Du moment que vous ne perdez pas de vue le véritable ennemi. Que les dieux vous guident, étrangère."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Un discours de tacticien. Gardez vos sens en éveil et je suis sûr que la victoire sera vôtre. J'attends l'annonce de votre succès."</DefaultText>
+      <FemaleText>"Un discours de tacticienne. Gardez vos sens en éveil et je suis sûr que la victoire sera vôtre. J'attends l'annonce de votre succès."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J'ai parlé avec Raedric. Il avait des choses intéressantes à dire sur vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Quoi qu'il vous ait dit, les crimes de Raedric sont bien réels. Il continuera à assassiner son peuple. Sa famille." La lèvre de Kolsc se recourbe. "Est-ce là la façon d'agir d'un seigneur ? Il n'a pas l'honneur d'un chien fou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Attaquez] "C'est vous qui manquez d'honneur. Vous vous êtes joué de moi et pour tenter d'usurper le trône de Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je me pencherai sur vos paroles. Peut-être ai-je agi trop rapidement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Alors que les dieux vous apportent la victoire, l'ami. Bonne chance."</DefaultText>
+      <FemaleText>"Alors que les dieux vous apportent la victoire, l'amie. Bonne chance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je vois." Kolsc désapprouve. "Peut-être changerez-vous d'avis une fois que vous aurez réalisé que vous n'êtes pas exempt des excès de Raedric. Lorsque vous découvrez l'étendue de ses crimes."</DefaultText>
+      <FemaleText>"Je vois." Kolsc désapprouve. "Peut-être changerez-vous d'avis une fois que vous aurez réalisé que vous n'êtes pas exempte des excès de Raedric. Lorsque vous découvrez l'étendue de ses crimes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je dois rassembler mes alliés. La forteresse se trouve à l'est. J'ai des oreilles là-bas et attends l'annonce du changement, au cas où vous changeriez d'avis." Il s'incline encore. "Peut-être nous rencontrerons-nous à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Venez, dégagez ces cadavres du hall." Sur ce, Kolsc avance à grandes enjambées vers le trône.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Pardonnez-moi, il y a beaucoup à faire. Mais nous n'oublierons pas ce que vous avez fait pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Il semble favoriser sa jambe gauche en marchant, et une tache sombre transparaît sur le tissu de son pantalon, sous le genou. Il vous salue pour autant d'une révérence polie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Il semble que vous ayez rendu un fier service à Aufra." L'homme hoche la tête vers la maison à proximité. "La Boussole d'Anslög est un endroit dangereux, et pourtant vous voulez vous y aventurer pour la secourir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"J'imagine que nous serons épargnés de la vision des fourches et des torches hors de notre moulin" L'homme sourit de travers. "Du bon travail, d'avoir calmer cette querelle. Trumble dormira sans aucun doute plus facilement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"J'imagine que Tuatanu était heureux du retour de ses stocks. C'est un excellent forgeron. Et un homme bon, par-dessus le marché, mais obéissant à un maître cruel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"La Vallée dorée a besoin de tant de courage, en ces temps obscurs. Des cœurs solides, enclins à secourir ces gens." Il se tourne pour contempler le village. "Puis-je vous compter parmi eux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"La Vallée dorée est emplie de ces gens. Des gens qui méritent mieux que de voir leur foyer sombrer dans la terreur et la folie." Il se tourne pour contempler le village. "Je vise à les sauver. Et j'aurais besoin de votre aide dans cette entreprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"La Vallée dorée a vu trop de conflits, ces temps-ci. La perte de trop nombreuses vies, en raison de la terreur et de la famine. Le village ne survivra pas, à moins que nous nous rassemblions pour le sauver. J'ai besoin de votre aide, étranger, dans cette tâche."</DefaultText>
+      <FemaleText>"La Vallée dorée a vu trop de conflits, ces temps-ci. La perte de trop nombreuses vies, en raison de la terreur et de la famine. Le village ne survivra pas, à moins que nous nous rassemblions pour le sauver. J'ai besoin de votre aide, étrangère, dans cette tâche."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"De quel droit voudriez-vous déloger un thayn du Dyrwood ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"[Mentez.] Bien sûr. Je suis très serviable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vous m'avez menti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Non. Et je n'en ai pas l'intention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Partez.] "Pas encore. Je reviendrai quand ce sera terminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Le seigneur Raedric m'a demandé de le débarrasser d'une nuisance. Il s'avère un allié bien plus utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Était-ce convaincant, alors ? Cet effort ultime et désespéré d'un homme qui a vu, se tenant devant lui, la fin de ses années de cruauté ? Toute sa famille adorait Eothas, avant la guerre du Saint, et à présent il s'efforce de compenser son fourvoiement en se dépouillant de sa pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Très bien. Je reviendrai avec la tête de Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Kolsc acquiesce avec une expression de soulagement. "Plantez une lame dans son cœur. Cela suffira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"C'est tout ce que je peux vous demander. Réfléchissez-y. Je suis sûr que vous prendrez la bonne décision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Attaquez.] "Ne vous fatiguez pas. Vous ne me tromperez pas deux fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Cela dépend. Je n'aide pas les autres par charité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Je vois." Son ton contient un peu de déception. "Bien, si je ne peux solliciter votre sens de la justice, peut-être que votre... nature pragmatique suffira. La mission que je vous confie améliorerait grandement notre fortune à tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je vous aurais utilisé, oui - pour nous sauver tous. Il semble que j'ai fait le mauvais choix." Il dégaine son épée. "Qu'il en soit ainsi. Je suis désolé, l'ami. Nous allons devoir nous occuper du salut de la Vallée dorée sans vous."</DefaultText>
+      <FemaleText>"Je vous aurais utilisée, oui - pour nous sauver tous. Il semble que j'ai fait le mauvais choix." Il dégaine son épée. "Qu'il en soit ainsi. Je suis désolé, l'amie. Nous allons devoir nous occuper du salut de la Vallée dorée sans vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Qu'il en soit ainsi. Je suis désolé de ne pas avoir pu vous convaincre, l'ami. Je veillerai à ce que vous ayez une digne sépulture."</DefaultText>
+      <FemaleText>"Qu'il en soit ainsi. Je suis désolé de ne pas avoir pu vous convaincre, l'amie. Je veillerai à ce que vous ayez une digne sépulture."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Kolsc désapprouve et fait un pas en arrière. "Que voulez-vous dire ? Avez-vous perdu votre conviction ? Je vous assure, il n'y a pas plus noble cause que celle-ci. Il nous revient de débarrasser cette terre des tyrans, car ils ne chuteront de leur propre chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Oui ? Y a-t-il autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vous mentir ? Comment ai-je pu vous tromper ?" Kolsc vous observe un moment, avant qu'il ne comprenne. "Ah. Raedric vous a rempli la tête de poison. Il est loin d'être idiot. Et il ne manquerait pas une occasion de retourner mes alliés contre moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>L'expression de Kolsc se refroidit. "Je vois. Je regrette de ne pas avoir pu vous convaincre. J'espérais que sa langue de serpent empoisonnée n'entraîne pas un autre misérable - mais j'avais tort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Je ne connais pas la raison de votre passage sur cette route, l'ami, mais je vous déconseille de l'emprunter." Il fait des gestes vers le chemin en balançant son bras. "Car le donjon là-bas appartient à ce tyran qui se nomme lui-même seigneur de la Vallée dorée."</DefaultText>
+      <FemaleText>"Je ne connais pas la raison de votre passage sur cette route, l'amie, mais je vous déconseille de l'emprunter." Il fait des gestes vers le chemin en balançant son bras. "Car le donjon là-bas appartient à ce tyran qui se nomme lui-même seigneur de la Vallée dorée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Comme beaucoup de tyrans, il s'est entouré d'hommes et de femmes forts par peur des représailles." L'homme sourit faiblement. "Nous devrions tous accueillir comme il se doit l'assistance d'un courageux compagnon tel que vous, mais je maintiens que vous devriez continuer avec des alliés."</DefaultText>
+      <FemaleText>"Comme beaucoup de tyrans, il s'est entouré d'hommes et de femmes forts par peur des représailles." L'homme sourit faiblement. "Nous devrions tous accueillir comme il se doit l'assistance d'une femme courageuse telle que vous, mais je maintiens que vous devriez continuer avec des alliés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Comme beaucoup de tyrans, il s'est entouré d'hommes et de femmes forts par peur des représailles." L'homme sourit faiblement. "Vous voilà prévenu. Si vous ne renoncez pas malgré cela, cependant, je me demande si nous n'allons pas nous assister l'un l'autre."</DefaultText>
+      <FemaleText>"Comme beaucoup de tyrans, il s'est entouré d'hommes et de femmes forts par peur des représailles." L'homme sourit faiblement. "Vous voilà prévenue. Si vous ne renoncez pas malgré cela, cependant, je me demande si nous n'allons pas nous assister l'un l'autre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Qui est ce tyran dont vous parlez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Merci de l'avertissement. Peut-être reviendrai-je plus tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Je peux affronter une menace par moi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"J'espère que vous le pourrez." L'expression de l'homme s'assombrit. "Car nous avons affreusement besoin d'aide. Vous devriez parler à Pasca au Chien noir. Elle peut vous mettre en contact avec des personnes fiables. Et si votre situation s'améliore, je vous implore, il faut arrêter le seigneur Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Alors peut-être vous en sortirez-vous mieux que nous." L'expression de l'homme s'assombrit. "Écoutez, il n'y a pas de temps à perdre, et si vous choisissez de mettre votre vie en danger par curiosité, peut-être pourriez-vous le faire pour une fin plus noble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Quelles que soient vos raisons, je peux vous promettre que votre aide sera dûment récompensée. Le seigneur Raedric a amassé les fruits d'un long règne. Mettez-y un terme et vous en aurez votre part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"La Vallée dorée a trop souffert de la folie de Raedric. Il soignerait l'Héritage de Waidwen en s'assurant qu'aucun être vivant dans le village ne puisse en être victime. Je crains que sa propre épouse, Ygrid, ne soit menacée. L'homme ne possède pas une once de pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je l'affronterai moi-même et je planterai une lame dans son cœur pourri. Mais notre dernière tentative nous a coûté cher, et le seigneur Raedric a appelé des renforts. Nous avons peu de temps devant nous, et dans cette situation je dois implorer de l'aide là où je le peux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Je vais rassembler les alliés sur qui je peux compter. Affrontez le donjon si vous l'osez. Envoyez Raedric dans sa tombe et la Vallée dorée vous considérera comme son sauveur." L'homme s'incline à nouveau. "Que les dieux guident votre bras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Nous ne sommes pas restés sans rien faire. Mon peuple et moi avons percé les défenses, dans l'intention d'en finir avec le règne de Raedric. Nous sommes entrés de nuit par les égouts. Mais nous avons été éconduits." Son visage s'assombrit. "Il existe... de sombres créatures dans les donjons. L'œuvre de l'animancien de Raedric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"À vous de jouer. Le seigneur Raedric a appelé des renforts et bientôt on ne pourra plus l'arrêter. Nous avons peu de temps devant nous, et c'est le moment où je dois implorer de l'aide là où je le peux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Il baisse les yeux vers sa blessure. "Mais ce n'est pas la jambe qui me fait mal. Nous avons subi trop de pertes sur les défenses de Raedric. C'est pourquoi je me tourne vers vous, pour de l'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Il ne se débarrassera pas de moi aussi vite. Si je dois marcher sur la forteresse avec toute la Vallée dorée dans mon dos, je lui ferai payer tout ce qu'il a fait. Vous serez seulement le premier de ses alliés à tomber.</DefaultText>
+      <FemaleText>"Il ne se débarrassera pas de moi aussi vite. Si je dois marcher sur la forteresse avec toute la Vallée dorée dans mon dos, je lui ferai payer tout ce qu'il a fait. Vous serez seulement la première de ses alliés à tomber.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je vous en prie. Le seigneur Raedric n' s'arrêtera pas. Il continuera à assassiner son peuple. Il a déjà assassiné sa famille." La lèvre de Kolsc se recourbe. "Est-ce là la façon d'agir d'un seigneur ? C'est un chien sans honneur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Attaquez.] "J'ai fait mon choix. Défendez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Attaquez.] "Le seigneur Raedric vous passe le bonjour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Partez.] "Je vais y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Kolsc dégaine sa lame. "Aux armes, camarades ! Il y a un traître parmi nous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Peut-être que les choses sont différentes ailleurs, étranger, mais ici dans le Dyrwood nous ne nous inclinons pas devant des seigneurs autoproclamés, ni ne souffrons des cruels caprices de nobles qui ne méritent pas leurs titres."</DefaultText>
+      <FemaleText>"Peut-être que les choses sont différentes ailleurs, étrangère, mais ici dans le Dyrwood nous ne nous inclinons pas devant des seigneurs autoproclamés, ni ne souffrons des cruels caprices de nobles qui ne méritent pas leurs titres."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Le seigneur Raedric s'est avéré incapable de gouverner avec justice. Il a précipité son propre destin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Raedric." Il tourne la tête pour cracher au sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Il s'agit de Raedric le Septième, descendant de la grande maison aedyrane qui s'est alliée avec le Dyrwood au cours de la révolution. Les Raedrics ont été des protecteurs de la Vallée dorée depuis lors. Ils ont été jadis à la hauteur de leur charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Mais, plus maintenant. La Maison de Raedric est dirigée par un oppresseur. Celui qui pense pouvoir purger le cours de l'Héritage de Waidwen de ces terres par la force et le feu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Vous avez vu l'arbre, au centre de la Vallée dorée. Il se tient là depuis bien avant l'érection de la première maison. Et c'est aujourd'hui le testament de la cruauté de Raedric. Il y a chaque semaine plus de cadavres." Il secoue la tête. "Nous devons y mettre un terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"C'est fait. Le tyran est mort et notre village est libre de choisir son destin. La Vallée dorée vous est redevable. Je vous suis redevable - vous avez accompli ce que je n'ai pas pu faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Servez-vous dans les coffres de Raedric en guise de récompense. Vous l'avez doublement mérité." Kolsc contemple la salle du trône, souriant. "Il y a beaucoup à faire. Nous devons envoyer la nouvelle à l'erl, bien sûr. Révoquer les lois cruelles que Raedric a instaurées..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Mais ne pensez-pas que nous oublierons votre assistance. Vous avez réellement pesé sur la situation. Vous pouvez être fier : tout le monde se souviendra de ce moment."</DefaultText>
+      <FemaleText>"Mais ne pensez-pas que nous oublierons votre assistance. Vous avez réellement pesé sur la situation. Vous pouvez être fière : tout le monde se souviendra de ce moment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Seul un homme déterminé à voir la Vallée dorée retrouver son lustre d'antan. Autrefois, étranger, lorsque la Vallée dorée était digne de son nom. Les récoltes brillaient comme l'or, et les gens vivaient bien."</DefaultText>
+      <FemaleText>"Seul un homme déterminé à voir la Vallée dorée retrouver son lustre d'antan. Autrefois, étrangère, lorsque la Vallée dorée était digne de son nom. Les récoltes brillaient comme l'or, et les gens vivaient bien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Et qu'est-il arrivé ? Quelle que soit la cause du fléau sur notre terre, son peuple n'est pas fautif. Raedric cherche à nous punir pour des crimes que nous n'avons pas commis, alors qu'il oublie lui-même les siens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Pas moi. Et il paiera pour ce qu'il a fait. Je le jure par la flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Seul un homme déterminé à voir la Vallée dorée retrouver son lustre d'antan. Autrefois, étranger, lorsque la Vallée dorée était digne de son nom. Les récoltes brillaient comme l'or, et les gens vivaient bien."</DefaultText>
+      <FemaleText>"Seul un homme déterminé à voir la Vallée dorée retrouver son lustre d'antan. Autrefois, étrangère, lorsque la Vallée dorée était digne de son nom. Les récoltes brillaient comme l'or, et les gens vivaient bien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Et qu'est-il arrivé ? Quelle que soit la cause du fléau sur notre terre, son peuple n'est pas fautif. Raedric cherche à nous punir pour des crimes que nous n'avons pas commis, alors qu'il oublie lui-même les siens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Pas moi. Et il paiera pour ce qu'il a fait. Moi, Kolsc, je le jure par la flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Peut-être pourriez-vous venir avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Je voudrais tellement pouvoir le faire. Mais je ne ferais que vous entraver un peu plus. Un des lèche-bottes de Raedric a glissé une dague dans ma jambe avant qu'il ne tombe. Qu'il soit au moins aussi chanceux dans une prochaine vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Peut-être pourriez-vous venir avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Je voudrais tellement pouvoir le faire. Mais je ne ferais que vous entraver un peu plus. Un des lèche-bottes de Raedric a glissé une dague dans ma jambe avant qu'il ne tombe. Qu'il soit au moins aussi chanceux dans une prochaine vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Il baisse les yeux vers sa blessure. "Mais ce n'est pas la jambe qui me fait mal. Nous avons subi et trop de pertes sur les défenses de Raedric. C'est pourquoi je me tourne vers vous, pour de l'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Je ne sais rien sur les cultures dorées, mais il y avait de toute façon moins de mouches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Je ne sais rien sur les cultures dorées, mais il y avait de toute façon moins de mouches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Il va nous devoir bien plus qu'un terrain vague plein de gravats après cela..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Le seigneur Raedric est clairement fou, mais je ne pense pas que les ducs apprécieraient que je sois impliquée dans un coup d'état dyrwoodan... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Quelle folie née de cette crise... penser qu'un homme tuerait sa propre femme... ne trouverait aucun amour pour ses enfants sans défense..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je ne sais rien sur les cultures dorées, mais il y avait de toute façon moins de mouches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"C'était généralement la même chose dans les républiques. Ces jours-ci les ducs payent les agitateurs pour qu'ils lâchent leurs fourches. Cela marche généralement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Nous étendons également la même courtoisie aux dieux qui ne méritent pas leurs titres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Les yeux d'Aloth se rétrécissent. "Et je suppose que ce compagnon pense qu'il ferait un meilleur seigneur ? Je l'ai déjà entendue celle-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Durance glousse, s'étouffant presque de son propre mépris. "« Dieu brillant ». Il n'a jamais été aussi brillant que lorsque la bombe l'a emporté."
+
+"Le sobriquet est obsolète à présent. La cendre ne brille pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Il y a du mérite dans cette voie, Gardien. De nombreuses leçons sont à dispenser, et nombreux sont ceux qui en ont besoin au donjon."</DefaultText>
+      <FemaleText>"Il y a du mérite dans cette voie, Gardienne. De nombreuses leçons sont à dispenser, et nombreux sont ceux qui en ont besoin au donjon."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Un choix avisé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ce serait bien s'il pouvait nous envoyer quelques rebelles de plus et même une catapulte tant qu'on y est."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"J'espère que vous le pourrez. J'ai eu vent des actions que vous avez déjà effectuées au service de nos terres. Nous avons cruellement besoin de quelqu'un comme vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Vous devriez aller parler à Pasca au Chien noir. Elle peut vous mettre en contact avec des personnes fiables. Et si votre situation s'améliore, je vous implore, il faut arrêter le seigneur Raedric. Si nous ne l'affrontons pas, personne ne le fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"La Vallée dorée peut se targuer de compter un grand gardien en votre personne. J'entends souvent votre nom. Vous pouvez être fier, mon ami."</DefaultText>
+      <FemaleText>"La Vallée dorée peut se targuer de compter une grande Gardienne en votre personne. J'entends souvent votre nom. Vous pouvez être fier, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Quel que soit le mal que vous ayez pu déjà commettre... Je sais que vous pouvez accomplir de grandes choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Vous êtes un homme honnête, et par mon honneur, je vous traiterai avec bienveillance. Nous sommes du côté, mon ami."</DefaultText>
+      <FemaleText>"Vous êtes un femme honnête, et par mon honneur, je vous traiterai avec bienveillance. Nous sommes du côté, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Quelle que soient les petites tromperies que j'ai pu effectuer, je l'ai fait pour une bonne raison." Kolsc tire son épée de son fourreau. "Je pensais que vous pourriez reconnaître la tactique, mon ami. Je suis désolé que nous ne puissions pas nous entendre."</DefaultText>
+      <FemaleText>"Quelle que soient les petites tromperies que j'ai pu effectuer, je l'ai fait pour une bonne raison." Kolsc tire son épée de son fourreau. "Je pensais que vous pourriez reconnaître la tactique, mon amie. Je suis désolé que nous ne puissions pas nous entendre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>L'expression de Kolsc se refroidit. "Je vois. J'espérais qu'une juste cause motiverait même quelqu'un de votre acabit, mais je vois à présent que j'ai eu tort de vous faire confiance. Raedric a toujours compté sur ceux prompts à changer de bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"C'est comme si quelqu'un devait vous surnommer le beau prêtre, Durance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Je dois rassembler mes alliés. La forteresse se trouve à l'est, après Esternwood. J'ai des oreilles là-bas et attends l'annonce du changement, au cas où vous changeriez d'avis." Il s'incline encore. "Peut-être nous rencontrerons-nous à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Un discours de tacticien. Gardez vos sens en éveil et je suis sûr que la victoire sera vôtre. Vous trouverez la Forteresse de Raedric à l'est, après Esternwood. J'attends l'annonce de votre succès."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Kolsc vous étudie un moment. "Qu'il en soit ainsi. Du moment que vous ne perdez pas de vue le véritable ennemi. Sa forteresse se trouve après Esternwood. Que les dieux vous guident, étranger."</DefaultText>
+      <FemaleText>Kolsc vous étudie un moment. "Qu'il en soit ainsi. Du moment que vous ne perdez pas de vue le véritable ennemi. Sa forteresse se trouve après Esternwood. Que les dieux vous guident, étrangère."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"C'est une bénédiction des dieux d'avoir trouvé quelqu'un qui comprenne l'honneur et le devoir. La Forteresse de Raedric se trouve après Esternwood, pas très loin à l'est. Que Magran vous apporte la victoire, l'ami. Bonne chance."</DefaultText>
+      <FemaleText>"C'est une bénédiction des dieux d'avoir trouvé quelqu'un qui comprenne l'honneur et le devoir. La Forteresse de Raedric se trouve après Esternwood, pas très loin à l'est. Que Magran vous apporte la victoire, l'amie. Bonne chance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Alors que les dieux vous apportent la victoire, l'ami. Vous trouverez la Forteresse de Raedric à l'est, après Esternwood. Bonne chance."</DefaultText>
+      <FemaleText>"Alors que les dieux vous apportent la victoire, l'amie. Vous trouverez la Forteresse de Raedric à l'est, après Esternwood. Bonne chance."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

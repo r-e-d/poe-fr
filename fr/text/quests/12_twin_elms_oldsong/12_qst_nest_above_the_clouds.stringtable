@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_nest_above_the_clouds</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Nid au-dessus des nuages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez le temple d'Hylea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Affrontez la bête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Priez Hylea à Teir Evron, aux Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Priez Hylea à Teir Evron, aux Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une menace pèse sur le temple d'Hylea et a dispersé ses fidèles. J'ai été chargé de la neutraliser.</DefaultText>
+      <FemaleText>Une menace pèse sur le temple d'Hylea et a dispersé ses fidèles. J'ai été chargée de la neutraliser.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dans les montagnes qui surplombent les Ormes, quelque chose menace le temple d'Hylea. J'ai été chargé de la neutraliser.</DefaultText>
+      <FemaleText>Dans les montagnes qui surplombent les Ormes, quelque chose menace le temple d'Hylea. J'ai été chargée de la neutraliser.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai gravi la montagne jusqu'à son sommet et rejoint le temple d'Hylea. Quelque chose d'énorme y a récemment élu domicile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je me suis occupé de la dragonne et de son petit, et le Nid ne présente plus de danger pour les fidèles d'Hylea.
+
+Hylea acceptera peut-être de m'accorder une faveur en échange de mon aide. Je pourrai la prier à Teir Evron.</DefaultText>
+      <FemaleText>Je me suis occupée de la dragonne et de son petit, et le Nid ne présente plus de danger pour les fidèles d'Hylea.
+
+Hylea acceptera peut-être de m'accorder une faveur en échange de mon aide. Je pourrai la prier à Teir Evron.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai décidé d'autoriser la dragonne et son petit à rester au temple d'Hylea. J'ai pensé que la déesse de la maternité attachait tout autant d'importance à la vie de ces créatures.
+
+J'espère que la déesse comprendra mon point de vue. Je pourrai la prier à Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le Grand-prêtre Casfath et la Grande-prêtresse Onŵen m'ont parlé de la dragonne et m'ont invité à directement demander conseil à Hylea. Je devrais être en mesure de communiquer avec la déesse à Teir Evron, dans le quartier des Ormes.</DefaultText>
+      <FemaleText>Le Grand-prêtre Casfath et la Grande-prêtresse Onŵen m'ont parlé de la dragonne et m'ont invitée à directement demander conseil à Hylea. Je devrais être en mesure de communiquer avec la déesse à Teir Evron, dans le quartier des Ormes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>En vision, j'ai vu un homme et une femme qui fuyaient le sommet de la montagne. Je les ai ensuite vus se cacher dans un cercle de pierres, les ruines d'un ancien temple des Ormes jumeaux. S'il existe un quartier de la ville qui abrite d'autres temples, peut-être pourrai-je y trouver les elfes. Ils devraient être en mesure de m'indiquer comment rejoindre le temple d'Hylea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Lors d'une vision conférée par la déesse, j'ai vu les fidèles de la déesse terrorisés par une redoutable menace. De toute évidence, neutraliser cette menace me vaudra ses faveurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Les ecclésiastiques Casfath et Onŵen ont confirmé la présence d'une dragonne dans le Nid du temple d'Hylea. Ils ont indiqué que la bête ne se laissera pas faire et expliqué que pour rejoindre le Nid, il fallait franchir un col de montagne à Oldsong et suivre les falaises de Northweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Casfath et Onŵen ont été ravis d'apprendre que le Nid a été débarrassé des créatures qui y avaient élu domicile. Ils m'ont conseillé de m'adresser à Hylea qui ne manquera pas de récompenser mes efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Casfath et Onŵen ont été désolés d'apprendre que j'avais choisi d'autoriser les créatures à rester. Cela étant, Hylea verra peut-être les choses sous un angle différent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai rejoint Northweald, une forêt située aux abords des Ormes jumeaux. Les escaliers menant au Nid sont creusés dans les falaises escarpées qui bordent la partie septentrionale des lieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Un habitant du coin m'a indiqué que le temple d'Hylea se trouve à Northweald, au sommet d'une montagne. Casfath et Onŵen, deux ecclésiastiques, se trouvent, quant à eux, à Oldsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué la dragonne et son petit pour permettre aux fidèles d'Hylea de se rendre, en toute sécurité, au Nid. Certaines créatures doivent mourir pour permettre à d'autres de survivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai autorisé la dragonne à rester. J'ai expliqué à Hylea que la créature avait cherché un endroit sûr pour élever son petit et que tous deux ne méritaient pas de mourir. Visiblement, elle était d'accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai mortellement blessé la dragonne, mais au dernier moment, je l'ai autorisée à s'enfuir avec son petit. Je doute qu'ils survivent, mais j'ai expliqué à Hylea que même ces créatures ne méritaient pas de mourir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Lorsque j'ai expliqué à Hylea que j'avais autorisé la dragonne à rester pour nourrir son petit, elle a semblé satisfaite. Mais, je me suis ravisé et j'ai finalement attaqué ces créatures. Je doute qu'Hylea apprécie ce revirement de situation.</DefaultText>
+      <FemaleText>Lorsque j'ai expliqué à Hylea que j'avais autorisé la dragonne à rester pour nourrir son petit, elle a semblé satisfaite. Mais, je me suis ravisée et j'ai finalement attaqué ces créatures. Je doute qu'Hylea apprécie ce revirement de situation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai autorisé la dragonne à rester dans le temple d'Hylea. La déesse n'a pas apprécié et je vais devoir me tourner vers une autre divinité si j'ai besoin d'aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai autorisé la dragonne à rester. J'ai réussi à convaincre Hylea que ces créatures sont, elles aussi, source de beauté et qu'elles ne méritent pas de mourir. Visiblement, elle était d'accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_tsk_breaking_bread</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Contre le blé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Résolvez la querelle entre Trumbel et Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Résolvez la querelle entre Trumbel et Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez voir Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez voir Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouvez les causes de la querelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retournez voir Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retournez voir Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Certains fermiers de la Vallée dorée maintiennent que Trumbel le meunier cache du blé. Les fermiers affamés sont à bout et la situation semble sur le point de dégénérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai parlé à Sweynur dans la taverne du Chien noir. Il maintient que Trumbel le meunier garde toutes les réserves de nourriture du village pour lui. J'ai proposé de parler à Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai parlé à Trumbel, le meunier de la Vallée dorée. Il craint que sa famille ne se fasse attaquer par un groupe de villageois qui pense qu'il les fait payer leur blé trop cher. Il m'a demandé de parler à Sweynur, le meneur de ce groupe, et de mettre fin au conflit. Sweynur devrait se trouver dans la taverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai convaincu le meunier de renoncer à contrôler la réserve de blé. Sweynur devrait être content de l'entendre, même si on peut se demander combien de temps le blé durera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai convaincu Sweynur d'arrêter de menacer Trumbel et sa famille. Trumbel sera soulagé de l'entendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Il semble que les tensions entre le meunier et certains fermiers locaux sont sur le point de dégénérer. Je peux peut-être m'y intéresser. Le meunier a trouvé refuge dans son moulin. Et les fermiers se sont réunis dans la taverne locale pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai tué Trumbel le meunier. Peut-être que cette nouvelle intéressera Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai tué Sweynur et ses sbires. Cette nouvelle devrait soulager Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai tué Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai tué Sweynur et ses alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai tué Trumbel le meunier. Peut-être que cette nouvelle intéressera Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai tué Sweynur et ses alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai tué Trumbel le meunier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai tué Sweynur le fermier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué Trumbel et Sweynur. Quoi qu'il se passe maintenant, aucun des deux n'aura son mot à dire maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai convaincu Trumbel qu'il était dans son intérêt de traiter équitablement avec Sweynur et ses sbires. Sweynur est content de ce résultat et m'a offert une tournée à la taverne ainsi qu'une petite somme de monnaie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu Sweynur de laisser le meunier et sa famille en paix. Sweynur et ses amis semblaient assez découragés par ce revers, mais le meunier était soulagé de savoir que sa famille serait en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai tué Sweynur, afin d'être sûr qu'il n'embêtera plus Trumbel. Le meunier devrait être en sécurité et le village a perdu quelques fauteurs de troubles.</DefaultText>
+      <FemaleText>J'ai tué Sweynur, afin d'être sûre qu'il n'embêtera plus Trumbel. Le meunier devrait être en sécurité et le village a perdu quelques fauteurs de troubles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai tué Trumbel, le meunier de la Vallée dorée. Sweynur et les autres ont été un peu déstabilisés par mon approche proactive et ont décidé de récupérer ce qu'ils pouvaient dans les réserves de blé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>J'ai tué Trumbel et Sweynur. Peu importe leur dispute, ça ne m'intéresse pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Les négociations sont maintenant à sens unique, étant donné que j'ai tué une des parties impliquées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>J'ai changé d'avis et tué Trumbel. Le village devra faire sans lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

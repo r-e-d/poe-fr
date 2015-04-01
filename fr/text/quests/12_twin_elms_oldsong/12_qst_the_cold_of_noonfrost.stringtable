@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_the_cold_of_noonfrost</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prison de glace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez Noonfrost à Oldsong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez Alwah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Libérez Alwah de Noonfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez auprès de Larha dans la Gueule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez auprès de Larha dans la Gueule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le lac d'Oldsong a commencé à geler depuis l'arrivée d'un groupe d'elfes pâles. Larha, qui fait partie des Fangs, a envoyé sa sœur Alwah mener l'enquête.
+
+Alwah a rejoint le temple de Noonfrost en quête de réponses. Elle n'est toujours pas revenue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Alwah, une éclaireuse des Fangs, est portée disparue à Noonfrost, le temple du lac. Larha a envoyé Alwah enquêter sur le froid qui se dégage du temple.
+
+Larha pense que les elfes pâles, récemment arrivés au temple, peuvent en être la cause. Quoi qu'il en soit, je pense être en mesure de trouver Alwah, ou des indices sur sa disparition, à Noonfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé Noonfrost. Les Glamfellens y sont bien implantés.
+
+S'ils sont responsables de la disparition d'Alwah, je doute qu'ils l'avouent. Mais j'espère moi-même réussir à retrouver sa trace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé Alwah enfermée dans une pièce à l'arrière de Noonfrost. Elle m'a expliqué que les Glamfellens l'avaient capturée alors qu'elle furetait aux alentours. Elle veut que je l'aide à s'enfuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Alwah a réussi à s'enfuir de Noonfrost. Larha sera ravie de l'apprendre, mais elle voudra également en savoir plus sur ce qui s'est passé dans le temple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Alwah est morte avant de pouvoir s'enfuir de Noonfrost. Je vais devoir apporter cette triste nouvelle à Larha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Je lui avais pourtant dit que le moment était mal choisi pour partir. Ce ne sera bon pour personne si les elfes pâles lui mettent la main dessus alors qu'elle s'enfuit et je vais donc devoir lui ouvrir la voie ou trouver un moyen de négocier avec leur chef. Mais ils semblent peu enclins à m'autoriser à le voir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Glasvahl m'a donné la permission de libérer Alwah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai ouvert une voie pour permettre à Alwah de s'enfuir de Noonfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Alwah est morte avant de pouvoir s'enfuir de Noonfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai conclu un marché avec Glasvahl, le chef des elfes pâles, afin de permettre la libération d'Alwah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

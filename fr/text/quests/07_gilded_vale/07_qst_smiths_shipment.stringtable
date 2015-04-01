@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_smiths_shipment</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le chargement du forgeron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rendez-vous à la Prairie noire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suivez la piste du chargement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez voir Tuatanu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tuatanu, le forgeron de Vallée dorée, attend un chargement de matériaux depuis longtemps. Il craint qu'il soit arrivé quelque chose au chariot, qui se dirigeait vers la Vallée dorée par la route de l'est.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tuatanu m'a demandé de chercher l'un des wagons d'approvisionnement de la maréchalerie du Marteau Noir qui devait arriver dans la Vallée dorée il y a plusieurs jours. Il pense que je peux trouver sa trace dans la Prairie noire, qui se trouve au sud-est de la Vallée dorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je suis arrivé à la Prairie noire. Tuatanu m'a beaucoup parlé des dangers de cet endroit, qui regorge d'animaux et de bandits. En suivant la route, je trouverais peut-être le chargement, ou des indices me permettant de savoir ce qui est arrivé au chariot.</DefaultText>
+      <FemaleText>Je suis arrivée à la Prairie noire. Tuatanu m'a beaucoup parlé des dangers de cet endroit, qui regorge d'animaux et de bandits. En suivant la route, je trouverais peut-être le chargement, ou des indices me permettant de savoir ce qui est arrivé au chariot.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Les craintes de Tuatanu étaient fondées. J'ai trouvé le chargement du Marteau Noir entre les mains d'un groupe de bandits qui hantent le nord de la prairie. Tout laisse penser que les employés de Tuatanu ont connus une fin tragique. Je n'ai plus qu'à ramener le chargement et récupérer ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé un chariot retourné dans la Prairie noire. Cela pourrait être celui dont parlait Tuatanu, mais il a été pillé. Je trouverai peut-être plus de preuves dans les parages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Je suis tombé sur un groupe de bandits dans la Prairie noire. Je m'en suis chargé. Leur camp regorge d'objets volés. Je trouverais peut-être le chargement de Tuatanu parmi le reste.</DefaultText>
+      <FemaleText>Je suis tombée sur un groupe de bandits dans la Prairie noire. Je m'en suis chargée. Leur camp regorge d'objets volés. Je trouverais peut-être le chargement de Tuatanu parmi le reste.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Un personnage vital pour accomplir cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai amené son chargement perdu à Tuatanu. Il était content de le revoir, mais il regrette d'avoir perdu ses employés. Il a promis de me donner accès à de meilleures marchandises, maintenant qu'il a de quoi les faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

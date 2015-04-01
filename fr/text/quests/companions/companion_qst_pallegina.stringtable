@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_pallegina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'enfant des cinq soleils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Allez parler à Agosti à l'ambassade vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aidez Pallegina à trouver un accord commercial avec l'Anamenfath des Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Allez prévenir Agosti à l'ambassade vailienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Aidez Pallegina à trouver un accord commercial avec l'Anamenfath des Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Pallegina pense qu'elle a perdu son temps avec des tâches triviales à la Baie du défi. Elle croit qu'il y a de plus graves dangers pour les Républiques de Vailia et aimerait que vous l'aidiez à déjouer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Pallegina souhaite se rendre à l'ambassade vailienne des Premiers feux pour s'entretenir avec l'ambassadeur Agosti.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>En dépit des efforts de Pallegina, l'ambassadeur Agosti a insisté pour qu'elle obéisse aux ordres et rencontre l'Anamenfath des Ormes jumeaux pour négocier un accord commercial entre les Républiques de Vailia et les Glanfathans. Cet accord risque de nuire au commerce de Dyrwood et d'accroître les tensions entre Dyrwood et les Républiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Je dois me rendre à l'ambassade vailienne des Premiers feux et prévenir l'ambassadeur que la Clé plombée s'intéresse aux investigations de Pallegina. Étant son supérieur, il peut également être une cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Malgré la rencontre avec la Clé plombée, Pallegina a toujours ordre de négocier un accord commercial avec l'Anamenfath des Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>L'ambassadeur Agosti n'a malheureusement pas survécu à la rencontre avec la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Pallegina a obéi aux ordres des ducs des Républiques de Vailia et conclu l'accord commercial qu'ils réclamaient. Mais cet accord risque d'accroître les tensions entre Dyrwood et les Républiques. Une guerre n'est d'ailleurs pas impossible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Pallegina a modifié les termes de l'accord commercial que les ducs des Républiques de Vailia réclamaient pour empêcher les Républiques de nuire au commerce glanfathan. Elle a ainsi préservé les relations entre Dyrwood et les Républiques, mais si elles ne tirent aucun bénéfice de cet accord, Pallegina perdra son poste au sein de son ordre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Pallegina est morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

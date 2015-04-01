@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\backstory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>404</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Aucun arrière-plan sélectionné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Votre famille appartient à la haute société et votre éducation vous a offert des avantages dont ne bénéficient pas les moins bien nés. Vous avez eu accès à une éducation d'excellence et les fêtes extravagantes, la danse, la chasse et les préoccupations politiques de la noblesse n'ont plus de secret pour vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous avez un goût naturel pour l'esthétique, que vous avez cultivé au fil du temps pour capter la vie sous toutes ses facettes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous avez quitté votre terre natale depuis quelque temps, renonçant à ce qui vous était familier pour partir à la découverte de frontières inconnues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous n'appréciez guère que l'on vous dise que faire. Votre nature rebelle a laissé place à une grande indignation envers toute forme d'autorité et de puissance et vous avez saisi toutes les occasions d'exprimer vos opinions dissidentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Il est rare que vous restiez bien longtemps au même endroit. Vous allez de ville en ville, vous déplaçant au gré de vos envies ; vous vous sentez chez vous sur la route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous consacrez votre vie à la découverte et à l'exploration et ne pouvez résister à l'appel des sirènes de contrées aussi lointaines qu'inconnues. Beaucoup se contentent parfaitement de vivre dans une même petite ville, ce qui pour vous reviendrait à une condamnation à mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous vivez dans la nature, consacrant le plus clair de votre temps à peaufiner vos techniques de chasse, la longue attente, la traque frénétique, puis la mise à mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Comme beaucoup de roturiers, forts de corps et d'esprit, vous avez acquis une compétence complexe et choisi de prendre votre destin en main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>L'habileté au combat est une compétence très appréciée dans un monde où la majeure partie de la nature reste indomptée et de nombreuses frontières contestées. Le combat est votre affaire et jusqu'ici, vous avez eu suffisamment de chance pour y survivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Éloquence, goût des chiffres, capacité à évaluer les autres ou simple hasard, jusqu'à récemment vous viviez du commerce de marchandises.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Il y a ceux qui cherchent l'inspiration dans les livres ou dans les lieux de culte et ceux pour qui cette inspiration est plus personnelle, sans réel choix. L'étincelle de l'inspiration divine vous a montré la voie et depuis, vous voyagez en quête d'accomplissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>La pensée abstraite, le choc des idéaux, les notions de bien et de mal et la quête de la vérité ultime sont autant de choses qui vous motivent au point d'organiser votre vie afin de consacrer le plus clair de votre temps à contempler d'insaisissables réponses et à mettre à mal des croyances communément acceptées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous avez répondu à une vocation, renonçant à la liberté d'une vie séculaire pour les récompenses spirituelles de la dévotion divine... Une vie faite d'habits de cérémonie, d'étude de textes sacrés et de diffusion des vérités qu'ils renferment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous avez toujours pris ce que vous vouliez, peu importe ce dont il s'agissait et à qui cela appartenait. Au regard de la plupart des lois, cela s'apparente à du vol, mais vous n'avez que faire des lois, si ce n'est de vos propres lois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Peu de gens comprennent ce que cela signifie d'être contraint à travailler pour quelqu'un d'autre, d'être privé de sa liberté tout comme de sa dignité. Vous avez connu cela... Le dur labeur, les chaînes et le regard omniprésent d'un maître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous avez toujours eu un goût prononcé pour les chiffres et les lettres, le réel et l'imaginaire, les problèmes et les stratagèmes. Au cours de vos études, vous avez réussi à privilégier ce qui vous intéressait et depuis, vous consacrez le plus clair de votre temps à vous améliorer moyennant l'acquisition de connaissances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Les lois du monde naturel sont pour vous les indices d'une énigme que vous entendez résoudre en perçant ses mystères et en découvrant de petites vérités pour en révéler de plus grandes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Au cours d'une vision, vous avez vu une autre époque et un autre endroit. Vous arpentiez une vaste pièce et en direction d'une gigantesque machine devant laquelle se trouvait un homme. Vous vouliez lui poser une question, mais ce n'était pas clair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Au cours d'une deuxième vision, vous avez revu cet homme... La projection d'une vie passée d'après Maerwald. L'homme s'est adressé à vous comme si vous étiez un jeune missionnaire. Vous lui avez dit que vous aviez vu le jour dans une ville appelée Creitum et lui avez expliqué pourquoi vous aviez décidé de rejoindre son ordre. Puis, il vous a demandé de prêter serment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Au cours d'une deuxième vision, vous avez revu cet homme... La projection d'une vie passée d'après Maerwald. L'homme s'est adressé à vous comme si vous étiez un jeune missionnaire. Vous lui avez dit que vous aviez passé le plus clair de votre temps dans une ville du nom de Creitum et lui avez expliqué pourquoi vous aviez décidé de rejoindre son ordre. Puis, il vous a demandé de prêter serment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Au cours d'une deuxième vision, vous avez revu cet homme... La projection d'une vie passée d'après Maerwald. L'homme s'est adressé à vous comme si vous étiez un jeune missionnaire. Vous lui avez dit que vous aviez récemment élu domicile dans une ville du nom de Creitum et lui avez expliqué pourquoi vous aviez décidé de rejoindre son ordre. Puis, il vous a demandé de prêter serment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Au cours d'une troisième vision, l'homme que vous cherchiez vous est à nouveau apparu. Vous avez tenté de quitter l'ordre missionnaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous lui avez expliqué que vous aviez vu des païens commettre l'indicible et que vous ne vouliez plus être confronté à de telles horreurs.</DefaultText>
+      <FemaleText>Vous lui avez expliqué que vous aviez vu des païens commettre l'indicible et que vous ne vouliez plus être confrontée à de telles horreurs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Vous lui avez expliqué que vous aviez été aux prises avec vos proches au sujet de votre nouvelle foi, mais qu'ils ne l'avaient pas accepté et refusaient de vous parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous lui avez expliqué que vous vous sentiez responsable d'une altercation avec des païens, une altercation qui avait fait plusieurs blessés graves dans les rangs des missionnaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous lui avez expliqué que vous aviez fait quelque chose dont vous ne pouviez pas parler et que la honte que vous ressentiez suffisait à expliquer votre départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Malgré vos sentiments, l'homme a réussi à vous convaincre de ne pas partir et ce faisant, vous a allégé d'un lourd fardeau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Au lendemain de l'assassinat du duc, Thaos a dit quelque chose qui a réveillé un souvenir de votre vie passée. Vous avez vu une femme se faire torturer, écartelée sur une roue en fer. Thaos était là, lui demandant si elle se repentait, ce qu'elle a refusé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>En pleine nature, vous avez eu une vision de Thaos. Il voulait savoir comment vous connaissiez une hérétique qui, comme vous, venait de Creitum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous avez admis avoir eu un faible pour cette hérétique autrefois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vous avez admis que cette hérétique était votre sœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vous avez admis que cette hérétique était votre mentor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous avez admis que cette hérétique était votre amie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous avez admis connaître cette hérétique, mais expliqué ne pas en être proche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Vous avez expliqué ne jamais avoir rencontré cette hérétique par le passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vous avez menti à Thaos et indiqué ne jamais avoir rencontré cette hérétique par le passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Chemin faisant vers les Ormes jumeaux, Thaos vous est une nouvelle fois apparu en vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Il vous appelait "Inquisiteur" et faisait référence à une foule rassemblée autour d'une hérétique du nom d'Iovara ix Ensios. Il entendait l'arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Il disait savoir que vous lui aviez menti concernant cette hérétique et vous demandait de lui avouer la véritable nature de vos relations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Compte tenu de vos relations avec Iovara, il vous demandait de l'aider à la traduire en justice. Il parlait de trahison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous avez parlé pour la première fois à Iovara aux abords de Teir Evron. Elle vous a souhaité la bienvenue dans son camp et semblait ravie de vous revoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Au cours d'une autre vision, vous avez revu Iovara sur les quais de l'Île des sépultures. Elle s'inquiétait pour sa ville natale et envisageait de lever une armée pour contrer l'inquisition de Thaos. Vous avez fait ce que Thaos vous avait demandé et lui avez conseillé de se réfugier à Ossionus, où le roi s'apprêtait à la livrer à l'inquisition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>À la Cour des pénitents, vous avez partiellement assisté au procès d'Iovara. Thaos l'a accusée d'hérésie et a ordonné qu'elle soit torturée, mais elle n'a rien confessé. Du moins, pas dans le sens où Thaos l'entendait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vous vous êtes retrouvé dans la grande chambre des ruines où vous avez pour la première fois rencontré la Clé plombée. Au pied d'un immense pilier d'adra, vous avez enfin pu parler à Thaos, celui à qui vous vouliez poser une question. Vous l'avez confronté aux mensonges qu'il vous avait dit pour vous convaincre de rester au sein de l'ordre missionnaire et gagner votre loyauté. Vous vouliez savoir si les dieux étaient réels. Il ne vous a pas franchement répondu. Mais il vous a indiqué que si vous persistiez, vous vous exposeriez au jugement de l'inquisition.</DefaultText>
+      <FemaleText>Vous vous êtes retrouvée dans la grande chambre des ruines où vous avez pour la première fois rencontré la Clé plombée. Au pied d'un immense pilier d'adra, vous avez enfin pu parler à Thaos, celui à qui vous vouliez poser une question. Vous l'avez confronté aux mensonges qu'il vous avait dit pour vous convaincre de rester au sein de l'ordre missionnaire et gagner votre loyauté. Vous vouliez savoir si les dieux étaient réels. Il ne vous a pas franchement répondu. Mais il vous a indiqué que si vous persistiez, vous vous exposeriez au jugement de l'inquisition.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>En route pour la Vallée dorée avec une caravane, vous avez fait un malaise. Le maître de la caravane a alors demandé à un de ses guides, Calisca, de vous accompagner pour aller chercher un remède.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Chemin faisant, vous avez été victimes d'une embuscade et de retour au camp, vous avez constaté tous ceux qui s'y trouvaient avaient été massacrés par des locaux en colère. Vous les avez matés et avez bien failli succomber à un vent qui menaçait de séparer votre âme de votre corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vous avez trouvé refuge dans une ancienne ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vous avez trouvé refuge avec Calisca dans une ancienne ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Vous avez trouvé refuge avec Heodan dans une ancienne ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous avez trouvé refuge avec Heodan et Calisca dans une ancienne ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Calisca vous a fait part de sa désapprobation de vous voir vous reposer dans un lieu où des pillards auraient bien pu vous tuer pendant votre sommeil. Vous avez malgré tout choisi de vous y reposer et constaté, en vous réveillant, que Calisca était partie et avait emporté votre eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Vous avez trouvé son corps inerte un peu plus loin dans la ruine. Elle avait succombé à un cruel destin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Calisca vous a fait part de sa désapprobation de vous voir vous reposer dans un lieu où des pillards auraient bien pu vous tuer pendant votre sommeil. Vous avez choisi de poursuivre, malgré les blessures d'Heodan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>En sortant de la ruine, vous avez assisté à un étrange rituel perpétué par une sorte d'ancienne machine. Il y avait un homme qui commandait les autres et il s'en dégageait quelque chose d'étrangement familier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Lorsqu'il est parti, la machine s'est mise à tourner, générant une sorte d'énergie. Puis, il y a eu une explosion similaire à la tempête de vent qui avait sévi plus tôt. Cette explosion a réduit ceux qui l'accompagnaient en cendres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Lorsqu'il est parti, la machine s'est mise à tourner, générant une sorte d'énergie. Puis, il y a eu une explosion similaire à la tempête de vent qui avait sévi plus tôt. Cette explosion a réduit ceux qui l'accompagnaient en cendres et ni Heodan ni Calisca n'y ont survécu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Lorsqu'il est parti, la machine s'est mise à tourner, générant une sorte d'énergie. Puis, il y a eu une explosion similaire à la tempête de vent qui avait sévi plus tôt. Cette explosion a réduit ceux qui l'accompagnaient en cendres et Heodan y a également succombé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Lorsqu'il est parti, la machine s'est mise à tourner, générant une sorte d'énergie. Puis, il y a eu une explosion similaire à la tempête de vent qui avait sévi plus tôt. Cette explosion a réduit ceux qui l'accompagnaient en cendres et Calisca y a également succombé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Suite à cette explosion, vous avez perdu connaissance et lorsque vous avez repris vos esprits, vous vous sentiez très bizarre. Vous voyiez des choses. Entendiez des choses. Vous avez quitté les ruines pour tenter de rejoindre la Vallée dorée à pied, dans l'espoir d'y trouver quelqu'un capable de vous soigner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Une fois à la Vallée dorée, vous avez constaté que la ville n'était plus la colonie florissante dont vous aviez entendu parler. Vous y avez trouvé une ville moribonde, à la merci d'un phénomène appelé l'Héritage de Waidwen, et y avez reçu un accueil glacial de la part de son magistrat. Votre intention de vous installer à la Vallée dorée semblait compromise jusqu'à ce que les cloches de la forteresse de Raedric se mettent à tinter pour annoncer que l'enfant du maître des lieux était né en bonne santé. Le magistrat vous a conseillé de vous reposer dans une auberge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Mais vous n'avez pas réussi à trouver le sommeil, en proie à d'oppressants murmures, à un cauchemar éveillé. Vous avez vu une naine pendue à un arbre situé au cœur de la Vallée dorée. Elle a prononcé un seul mot, "Gardien".</DefaultText>
+      <FemaleText>Mais vous n'avez pas réussi à trouver le sommeil, en proie à d'oppressants murmures, à un cauchemar éveillé. Vous avez vu une naine pendue à un arbre situé au cœur de la Vallée dorée. Elle a prononcé un seul mot, "Gardienne".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Le magistrat vous a indiqué qu'il ne vous serait pas possible de vous installer à la Vallée dorée, ni même d'y rester plus de quelques jours. Vous avez alors compris que vous aviez fait tout ce chemin pour rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>En vous approchant de la naine pendue, vous avez constaté que vous étiez en mesure de discuter avec elle. Vous avez appris que vous étiez un Gardien, peut-être à la suite de l'incident survenu dans les ruines, et que dès lors, vous aviez des visions sur lesquelles la naine n'a pu vous donner que très peu de détails. Elle vous a conseillé de vous adresser à un vieux Gardien du nom de Maerwald, le maître d'un donjon, susceptible de vous aider.</DefaultText>
+      <FemaleText>En vous approchant de la naine pendue, vous avez constaté que vous étiez en mesure de discuter avec elle. Vous avez appris que vous étiez une Gardienne, peut-être à la suite de l'incident survenu dans les ruines, et que dès lors, vous aviez des visions sur lesquelles la naine n'a pu vous donner que très peu de détails. Elle vous a conseillé de vous adresser à un vieux Gardien du nom de Maerwald, le maître d'un donjon, susceptible de vous aider.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>En arrivant à Caed Nua, vous avez constaté que les lieux étaient hantés par des esprits agressifs et que leur intendant ne savait pas où se trouvait le maître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Maerwald était dans les cachots de son propre donjon pour tenter d'échapper aux esprits qui hantaient son esprit torturé. Son âme s'était Réveillée sur ses vies passées et un conflit inconciliable semblait l'avoir rendu fou. Il vous a mis en garde sur le fait que vous vous exposiez au même sort. Mais, il vous a aussi indiqué qu'il existait un moyen d'annuler votre Réveil. Il vous a dit de chercher du côté de la Clé plombée, dont vous aviez rencontré les membres dans les ruines, pour savoir comment vous y prendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Maerwald était habité par le personnage d'une de ses vies passées et vous avez dû le tuer. Vous avez lié son âme au donjon pour qu'elle continue de garder les lieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Maerwald était habité par le personnage d'une de ses vies passées et vous avez dû le tuer. Vous avez libéré son âme du donjon pour lui permettre d'accéder à la vie suivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Maerwald était habité par le personnage d'une de ses vies passées et vous avez dû le tuer. Vous avez sondé son âme afin d'y trouver de précieuses informations et y avez aperçu une salle située au plus profond du donjon, susceptible de renfermer quelque chose d'important.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>À la Baie du défi, vous avez trouvé un temple consacré à Woedica, la déesse de la Clé plombée, mais celui-ci avait été brûlé depuis bien longtemps. Sur place, un esprit vous a indiqué qu'une partie du temple subsistait sous terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vous avez rejoint le temple de Woedica en empruntant les catacombes situées sous la Baie du défi. Là, vous avez infiltré la Clé plombée et trouvé quelques indices intéressants sur ses opérations, dans l'espoir de retrouver l'homme que vous aviez vu dans les ruines, l'homme qui avait démarré la machine et provoqué votre Réveil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Vous avez rejoint le temple de Woedica en empruntant les catacombes situées sous la Baie du défi. Vous avez tué les membres de la Clé plombée qui y étaient regroupés et trouvé quelques indices intéressants sur leurs opérations, dans l'espoir de retrouver l'homme que vous aviez vu dans les ruines, l'homme qui avait démarré la machine et provoqué votre Réveil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Vous avez trouvé le quartier de la Colline de l'Héritage abandonné, grouillant de créatures ni vivantes ni mortes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Avec l'aide de l'animancien Aldhelm et de l'experte en langues anciennes Icantha, qui avaient tous deux échappé à la mort, vous avez appris que la machine située au-dessus de la Colline de l'Héritage pouvait relier les âmes aux corps, permettant à ces derniers de rester animés même dans la mort. En outre, Icantha vous a indiqué que partout à Dyrwood des machines similaires faisaient office de relais et permettaient le transfert des âmes d'un endroit à un autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Vous avez arrêté la machine de Teir Nowneth, libérant ainsi les âmes qu'elle retenait prisonnières.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Vous avez détruit la machine de Teir Nowneth, provoquant ainsi la désintégration des âmes qu'elle retenait prisonnières.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Plutôt que de libérer ou de détruire les âmes, vous avez choisi d'utiliser la machine de Teir Nowneth pour vous renforcer moyennant l'essence qu'elle renfermait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Dans la ruine de Clîaban Rilag, vous avez découvert les corps calcinés des membres de la Clé plombée, qui se seraient visiblement sacrifiés, ce à quoi la machine engwithane ne serait pas étrangère. En tant que Gardien, vous avez réussi à revivre les derniers instants de ces agents et avez pu constater que ces machines sont étroitement liées à l'Héritage de Waidwen.</DefaultText>
+      <FemaleText>Dans la ruine de Clîaban Rilag, vous avez découvert les corps calcinés des membres de la Clé plombée, qui se seraient visiblement sacrifiés, ce à quoi la machine engwithane ne serait pas étrangère. En tant que Gardienne, vous avez réussi à revivre les derniers instants de ces agents et avez pu constater que ces machines sont étroitement liées à l'Héritage de Waidwen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Au sanatorium de Brackenbury, vous avez trouvé l'homme que vous recherchiez. Il a pris possession du corps d'un patient et semble l'utiliser pour détruire la carrière d'un homme qui était autrefois l'un des plus grands animanciens de Dyrwood, un homme qui tentait de trouver un remède à l'Héritage de Waidwen. Cet homme n'a pas souhaité vous aider à annuler votre Réveil, du moins pas de son plein gré. Il a rapidement quitté le sanatorium, transférant son âme de corps en corps et semant une belle pagaille sur son passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Dame Webb, du Rang de Dunryd, a demandé à vous voir. Visiblement, elle détiendrait des informations sur la personne que vous étiez et sur vos agissements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Vous avez rencontré dame Webb dans ses appartements de la maison d'Hadret. Elle voulait savoir pourquoi vous étiez aux trousses de la Clé plombée et vous a donné quelques informations sur l'homme que vous recherchez, Thaos ix Arkannon, un homme qui se réincarne sans rien oublier de ses vies passées et orchestre des complots qui mettent plusieurs vies à aboutir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Grâce à tout ce que vous avez vu, vous avez réussi à démontrer à dame Webb que la Clé plombée était à l'origine de l'Héritage de Waidwen et que ce complot impliquait d'en faire porter le chapeau aux animanciens. Elle vous a conseillé de vous adresser au duc Aevar Rictus-de-Loup qui tient actuellement des audiences au palais sur l'avenir de l'animancie. Elle pense qu'il vous écoutera, sous réserve que vous disposiez d'une invitation pour assister à ces audiences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous avez réussi à convaincre les Douzaines de vous accepter au sein de leur délégation afin de participer aux audiences concernant l'animancie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Vous avez réussi à convaincre les Chevaliers du Creuset de vous accepter au sein de leur délégation afin de participer aux audiences concernant l'animancie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Vous avez réussi à convaincre la maison Doemenel de vous accepter au sein de leur délégation afin de participer aux audiences concernant l'animancie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>À défaut d'avoir réussi à participer aux audiences au sein d'une autre délégation, dame Webb a accepté à contrecœur que vous vous y rendiez en tant que représentant du Rang de Dunryd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Lors des audiences d'animancie, vous avez révélé ce que vous saviez sur la Clé plombée et convaincu le duc que l'animancie était bien trop dangereuse et qu'il fallait en banir la pratique. Avant même que le duc Aevar ne termine son allocution, Thaos a pris possession du corps d'un animancien et l'a assassiné, provoquant un vif émoi à la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Lors des audiences d'animancie, vous avez révélé ce que vous saviez sur la Clé plombée et convaincu le duc du bien-fondé de l'animancie. Avant même que le duc Aevar ne termine son allocution, Thaos a pris possession du corps d'un animancien et l'a assassiné, provoquant un vif émoi à la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Vous avez remonté la piste de Thaos jusqu'au Rang de Dunryd où vous avez constaté que tous les clairvoyants avaient été tués, y compris dame Webb. Mais en sondant son âme pour examiner les derniers instants de sa vie, vous avez appris que Thaos était en route vers les Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Vous avez fui la Baie du défi en plein chaos et en proie à une foule prête à massacrer tous les animanciens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Aux Ormes jumeaux, vous avez constaté que la plupart des quartiers étaient fermés aux étrangers, mais avez réussi à persuader l'anamenfath de vous laisser y accéder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Au pied de deux arbres géants, vous avez rencontré deux sœurs délemganes. Elles vous ont expliqué que vous faisiez fausse route car aucun Réveil ne pouvait être annulé, mais elles ont reconnu l'intérêt de votre quête, vous expliquant que si vous réussissiez à trouver la cause du mal dont était victime votre âme, vous pourriez l'éradiquer. Quoi qu'il en soit, seul Thaos dispose des informations dont j'ai besoin. Je m'apprête à le rejoindre dans une ville engwithane souterraine appelée l'Ombre ensoleillée. Les délemganes m'ont indiqué un chemin pour m'y rendre, mais il me faudra l'aide des dieux pour pouvoir l'emprunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>À Teir Evron, vous avez communié avec les dieux et appris que l'éradication de l'animancie à Dyrwood ne suffira pas à déjouer le complot de Thaos. Il envisage d'offrir les âmes déplacées à Woedica, un geste qui ne manquera pas d'asseoir sa domination sur les autres dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Rymrgand vous a demandé de sceller une porte menant à son domaine, la Brèche taillée dans le givre, située dans son temple de Noonfrost. Elle a volontairement été ouverte par un groupe d'elfes pâles soucieux d'accéder à une mort définitive pour se libérer du joug de la Roue de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Vous pensez qu'il convient d'aider les elfes à accéder à cette mort définitive et tentez de votre mieux d'expliquer votre décision à Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Vous avez scellé la Brèche taillée dans le givre comme Rymrgand l'a ordonné, laissant les elfes à leur triste sort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Galawain a sollicité votre aide afin de déclencher une confrontation entre une lionne et un ours dont l'impasse ne lui plaît guère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Vous avez veillé à ce qu'Oernos meurt, permettant ainsi à la lionne Sul de continuer son règne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Vous avez veillé à ce que la lionne Sul succombe pour mettre fin à son règne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Les deux animaux sont morts, aucun n'étant digne de régner selon vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Berath a demandé à ce que l'archidruide Rehstin et la Grande Ovate du Bosquet doré Erona soient tués et vous y avez veillé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>En vision, Hylea vous a montré une créature ailée qui a élu domicile au-dessus de son temple et vous y avez trouvé une dragonne protégeant sa progéniture. Vous avez eu pitié de la dragonne et l'avez laissée partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>En vision, Hylea vous a montré une créature ailée qui a élu domicile au-dessus de son temple et vous y avez trouvé une dragonne protégeant sa progéniture. Vous avez tué la dragonne afin de permettre aux fidèles d'Hylea de revenir en toute sécurité dans ces lieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Vous avez conclu un pacte avec Berath et accepté de rendre les âmes volées par Thaos à la Roue pour leur permettre de trouver de nouveaux corps et commencer de nouvelles vies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Vous avez conclu un pacte avec Hylea et accepté de rendre les âmes des sans-âme à leurs corps d'origine pour leur offrir une seconde chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Vous avez conclu un pacte avec Galawain, Magran et Abydon et accepté d'utiliser les âmes déplacées par Thaos pour galvaniser les âmes des Dyrwoodans qui ont survécu et leur permettre de se renforcer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Vous avez conclu un pacte avec Rymgand, Ondra et Skaen et accepté de dissoudre les âmes déplacées par Thaos pour disperser leur essence dans l'éther et veiller à ce que jamais plus elles n'habitent de corps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Skaen s'est discrètement approché de vous pour vous demander de trahir les autres dieux et de doubler Thaos, usurpant sa position et renforçant Woedica, ce que vous avez accepté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Skaen s'est discrètement approché de vous pour vous demander de trahir les autres dieux et de doubler Thaos, usurpant sa position et renforçant Woedica, ce que vous avez refusé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Skaen s'est discrètement approché de vous pour vous demander de trahir les autres dieux et de doubler Thaos, usurpant sa position et renforçant Woedica, et vous n'avez pris aucune décision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>En route vers l'Ombre ensoleillée, vous avez rencontré Wael et celui-ci vous a proposé de transférer les âmes volées par Thaos vers un lieu inconnu, créant un nouveau mystère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Au sommet de l'Île des sépultures, entouré des âmes confiées par les dieux, vous avez sauté dans la fosse et au terme d'une interminable chute, vous avez atterri sain et sauf dans la prison éternelle dont vous avait parlé les délemganes.</DefaultText>
+      <FemaleText>Au sommet de l'Île des sépultures, entourée des âmes confiées par les dieux, vous avez sauté dans la fosse et au terme d'une interminable chute, vous avez atterri saine et sauve dans la prison éternelle dont vous avait parlé les délemganes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>À l'extrémité de Breith Eaman, vous avez rencontré Iovara qui se souvenait de vous dans une lointaine vie. Elle vous a rappelé que vous étiez déjà venu la voir après qu'elle a été condamnée pour lui dire que si ce qu'elle vous avait appris était vrai, c'était donc que les dieux n'étaient pas réels. Elle vous avait répondu, mais sans apporter de preuve, et à défaut d'être satisfait, vous étiez allé affronter Thaos à l'Ombre ensoleillée. Elle a suggéré que peut-être votre âme avait besoin de résoudre ce point, mais que Thaos ne vous aiderait en rien.</DefaultText>
+      <FemaleText>À l'extrémité de Breith Eaman, vous avez rencontré Iovara qui se souvenait de vous dans une lointaine vie. Elle vous a rappelé que vous étiez déjà venue la voir après qu'elle a été condamnée pour lui dire que si ce qu'elle vous avait appris était vrai, c'était donc que les dieux n'étaient pas réels. Elle vous avait répondu, mais sans apporter de preuve, et à défaut d'être satisfaite, vous étiez allée affronter Thaos à l'Ombre ensoleillée. Elle a suggéré que peut-être votre âme avait besoin de résoudre ce point, mais que Thaos ne vous aiderait en rien.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Vous avez laissé Iovara à son triste sort, à sa prison où elle préférait demeurer pour continuer à défier les dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Vous avez convaincu Iovara de vous aider à éliminer Thaos, sachant que tant qu'il vivrait, elle ne pourrait jamais réaliser sa vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Vous avez renvoyé Iovara dans le cycle pour qu'elle retrouve vie dans un autre corps, sans se souvenir de ses précédentes expériences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>À l'Ombre ensoleillée, vous avez trouvé la pièce de votre précédente confrontation avec Thaos et avez à nouveau défié son autorité, avec succès cette fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Vous avez renvoyé l'âme de Thaos dans le cycle où il va lui falloir vivre avec son échec pour le restant de ses jours et comprendre la futilité de sa mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Vous avez mis l'âme de Thaos en pièces, une miséricorde pour un homme porteur d'un si lourd secret que celui bien gardé par la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Vous avez envoyé l'âme de Thaos à Breith Eaman, la condamnant à y demeurer à jamais, rendant justice à tous ceux qu'il avait trompés et mettant fin à ses odieux complots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Persuadé que Thaos méritait un nouveau départ, vous avez effacé son passé et lui avez ainsi offert la possibilité de mener une vie normale, libéré de tout ce qu'il savait.</DefaultText>
+      <FemaleText>Persuadée que Thaos méritait un nouveau départ, vous avez effacé son passé et lui avez ainsi offert la possibilité de mener une vie normale, libéré de tout ce qu'il savait.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Pour punir Thaos de ses crimes et de ses agissements contre vous, vous avez mis son âme en pièces, l'éliminant à jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Une fois Thaos mort, vous avez enfin réussi à en savoir plus sur l'origine et la nature des dieux et cette réponse a visiblement apaisé votre âme. Les hallucinations et les murmures ont cessé. Il vous fallait à présent décider du sort à réserver aux âmes piégées à l'Ombre ensoleillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous avez vu le jour au sein d'une famille royale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Vous venez de [Player Culture] où votre famille a utilisé sa richesse pour acheter son titre de noblesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Vous venez de [Player Culture] où votre famille occupe une place de choix au sein de l'élite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Vous êtes artiste et venez de [Player Culture].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Vous venez de [Player Culture] et vivez de l'artisanat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous étiez artiste et entendiez dépeindre le monde tel que vous le perceviez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Vous êtes originaire de [Player Culture] dont vous êtes parti en quête de fortune.</DefaultText>
+      <FemaleText>Vous êtes originaire de [Player Culture] dont vous êtes partie en quête de fortune.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Vous êtes originaire de [Player Culture] et avez choisi de vous installer ailleurs pour fuir la persécution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Vous êtes originaire de [Player Culture] et avez choisi de partir pour conquérir de nouveaux territoires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez y avez rejoint les rangs d'une cause rebelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous vous livriez à l'espionnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous avez été accusé de crimes et jeté en prison.</DefaultText>
+      <FemaleText>Vous venez de [Player Culture] où vous avez été accusée de crimes et jetée en prison.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Vous venez de [Player Culture] où très jeune, vous avez perdu vos parents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Originaire de [Player Culture], votre vie d'escroc vous a toujours empêché de rester bien longtemps au même endroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous vous êtes continuellement déplacé pour échapper à ceux qui vous cherchaient.</DefaultText>
+      <FemaleText>Vous venez de [Player Culture] où vous vous êtes continuellement déplacée pour échapper à ceux qui vous cherchaient.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Originaire de [Player Culture], vous passez depuis peu le plus clair de votre temps sur la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez choisi de vivre le long de la frontière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Bien qu'originaire de [Player Culture], vous avez passé le plus clair de votre temps sur la mer, parmi ceux qui soumettent les autres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous avez mené une vie de solitaire en pleine nature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous avez trouvé votre voie en tant que chasseur de monstres.</DefaultText>
+      <FemaleText>Vous venez de [Player Culture] où vous avez trouvé votre voie en tant que chasseuse de monstres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous viviez de la chasse et de la cueillette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez vécu de la pêche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous avez appris le métier de forgeron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous avez travaillé en tant que bâtisseur durant quelque temps.</DefaultText>
+      <FemaleText>Vous venez de [Player Culture] où vous avez travaillé en tant que bâtisseuse durant quelque temps.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous étiez employé en tant que cuisinier.</DefaultText>
+      <FemaleText>Vous venez de [Player Culture] où vous étiez employée en tant que cuisinière.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez finalement rejoint une armée et participé à une guerre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous étiez mercenaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous étiez en quête de toutes sortes d'aventures, vivant des butins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous vous livriez à la contrebande de marchandises de port en port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous commandiez des navires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Originaire de [Player Culture], vous aviez votre propre boutique et vendiez des marchandises aux gens du coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>En tant que théologien vivant à [Player Culture], vous avez consacré votre vie à l'étude de la doctrine religieuse.</DefaultText>
+      <FemaleText>En tant que théologienne vivant à [Player Culture], vous avez consacré votre vie à l'étude de la doctrine religieuse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Vous venez de [Player Culture] où votre vie a changé lorsque vous avez commencé à avoir des visions spirituelles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez opté pour l'ascétisme d'une vie monastique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Originaire de [Player Culture], votre goût pour l'éthique et la moralité a guidé vos entreprises intellectuelles et vous avez suivi votre seule raison pour trouver votre voie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Originaire de [Player Culture], vous aviez pour vocation d'enseigner votre savoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Vous venez de [Player Culture] où, au fil du temps, vous avez commencé à douter de la réalité, vous interrogeant sur le bien-fondé de croire en quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Originaire de [Player Culture] où vous apparteniez au clergé, vous avez finalement choisi d'y renoncer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous dirigiez une congrégation de fidèles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Originaire de [Player Culture], votre foi profonde a toujours été source d'une inspiration que vous avez voulu partager en devenant missionnaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez utilisé votre foi à des fins de manipulation et gagné la confiance des autres pour mieux les exploiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Originaire de [Player Culture], vous parveniez à joindre les deux bouts en vous octroyant la propriété des autres, et pas par le biais du commerce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Vous êtes originaire de [Player Culture] où, attiré par la mer, vous avez embrassé une vie de pirate.</DefaultText>
+      <FemaleText>Vous êtes originaire de [Player Culture] où, attirée par la mer, vous avez embrassé une vie de pirate.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Originaire de [Player Culture], vous étiez bandit et terrorisiez les voyageurs et les villageois vulnérables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Originaire de [Player Culture], vous étiez esclave et vous vous échiniez à bord d'une galère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous meniez une vie d'esclave, travaillant dur dans les champs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Vous venez de [Player Culture] où une dette insurmontable vous a contraint à l'engagisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>En tant qu'érudit dans votre pays, [Player Culture], vous avez étudié l'histoire de votre culture et, plus globalement, du monde.</DefaultText>
+      <FemaleText>En tant qu'érudite dans votre pays, [Player Culture], vous avez étudié l'histoire de votre culture et, plus globalement, du monde.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous avez étudié l'ésotérisme sous toutes ses coutures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez étudié l'art du combat et plus particulièrement la guerre, comme d'autres étudient les langues ou les mathématiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Originaire de [Player Culture], vous utilisiez vos connaissances scientifiques pour élucider des crimes et traquer leurs auteurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Originaire de [Player Culture], votre connaissance de la nature vous a permis d'extraire de puissantes substances végétales, capables de modifier l'état du corps et de l'esprit de tout un chacun, et vous avez offert ces substances aux autres en échange de faveurs et argent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Originaire de [Player Culture], vous avez développé un intérêt pour les choses les plus élémentaires de la nature et la manière d'opérer des transformations, ce qui vous a conduit à devenir alchimiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Mais vos origines royales ont été pour vous source de jalousie et d'intrigue, et victime d'une tentative de meurtre, vous avez préféré quitter votre pays.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Vous avez perdu les faveurs des vôtres et avez été déshérité. Privé d'avenir, vous avez rassemblé vos affaires et êtes parti.</DefaultText>
+      <FemaleText>Vous avez perdu les faveurs des vôtres et avez été déshéritée. Privée d'avenir, vous avez rassemblé vos affaires et êtes partie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Mais même la royauté peut être amenée à fuir en l'absence de suffisamment de pouvoir pour se maintenir sur le trône. Renversée, votre famille a tout perdu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Mais vous n'avez jamais demandé à avoir du sang royal et avez fui vos responsabilités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Avoir du sang royal n'a que peu de valeur, sauf si vous pouvez prétende au trône, ce qui n'était pas votre cas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Mais la vérité sur la manière dont votre famille avait acquis son titre a fini par éclater au grand jour. Vous avez été déshonoré et les autres nobles se sont mis à vous mépriser.</DefaultText>
+      <FemaleText>Mais la vérité sur la manière dont votre famille avait acquis son titre a fini par éclater au grand jour. Vous avez été déshonorée et les autres nobles se sont mis à vous mépriser.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Posséder un titre est une chose, le faire reconnaître en est une autre. Votre famille n'a jamais réussi à asseoir sa légitimité au sein de la noblesse, vous amenant à penser qu'il était inutile de continuer à le prétendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Mais votre famille compte un certain nombre d'ennemis et vos rivaux ont fini par user d'odieux mensonges pour salir son nom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Il ne lui reste plus que son nom, car sa fortune a été dilapidée et son déclin semble désormais inévitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Mais vous n'êtes pas dans les bonnes grâces des membres de votre famille qui préféreraient vous voir disparaître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Ils sont hautement estimés par la société, mais pas par vous et vous préféreriez n'avoir rien à faire avec eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Mais la troupe avec laquelle vous évoluiez n'existe plus et vous avez dû faire cavalier seul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Mais se produire devant un public n'est rentable que si le spectacle est bon et malheureusement pour vous, votre talent n'est pas en phase avec votre passion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Mais se produire en public n'est pas sans dangers et à la suite d'un terrible accident, vous avez dû revoir votre mode de vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Vous avez alors tout fait pour vous en sortir, mais les impôts exigés par les seigneurs locaux vont ont rendu la vie impossible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Mais votre prometteuse carrière a tourné court lorsque vous avez perdu l'apprentissage dans lequel vous aviez investi plusieurs années de votre vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Mais vos dons ont été source de ressentiment et un cruel acte de sabotage a définitivement mis fin à votre carrière naissante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Mais votre manière d'appréhender le monde était source de peur et de confusion et vous avez perdu tout espoir de vivre de votre art.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Tout a changé lorsqu'un jour, de retour à votre atelier, vous avez découvert que votre travail vous avait été volé, vous laissant sans le sou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Mais l'art ne remporte de succès que s'il est en mouvement et il n'est en mouvement que s'il est source d'inspiration. Au fil du temps, vos sources d'inspiration se sont taries et à défaut d'en trouver de nouvelles, votre carrière a tourné court.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Mais malgré vos efforts, vous n'avez pas réussi à faire fortune comme vous l'entendiez et avez jugé qu'il n'était plus nécessaire de rester.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Vous avez suivi les récits des autres qui avaient faire fortune et découvert que vous arriviez trop tard. Les terres étaient arides et toutes leurs ressources avaient été épuisées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Mais ce mode de vie ne vous satisfaisait pas et à un certain moment, vous avez jugé qu'il était temps pour vous de partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Votre fuite n'a pas suffi et vos persécuteurs ont fini par vous tomber dessus, vous forçant à vous en aller une fois de plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Mais l'endroit que vous avez rejoint ne s'est pas avéré meilleur que le précédent et vous avez rapidement compris que nous n'y étiez pas le bienvenu.</DefaultText>
+      <FemaleText>Mais l'endroit que vous avez rejoint ne s'est pas avéré meilleur que le précédent et vous avez rapidement compris que nous n'y étiez pas la bienvenue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Mais l'endroit que vous avez choisi n'était pas assez éloigné de ceux qui vous voulaient du mal et vous n'avez pas supporté la peur de les voir y arriver d'un jour à l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Mais ces terres étaient insoumises. Votre village a été incendié par des autochtones qui y voyaient une menace, vous laissant sans rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Mais vous avez fini par renoncer, vos cruels agissements pour conquérir ces terres pesant beaucoup trop sur votre conscience. Vous avez fini par vouloir tout abandonner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Mais ces terres s'avérèrent plus dure à maîtriser, votre colonie étant incapable de se défendre des nouvelles maladies qui s'y répandaient. La population a été décimée et, par chance, vous avez réussi à vous enfuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Mais peu de rebellions aboutissent et votre cause a été mise à mal par vos oppresseurs, vous laissant bien démuni.</DefaultText>
+      <FemaleText>Mais peu de rebellions aboutissent et votre cause a été mise à mal par vos oppresseurs, vous laissant bien démunie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>De prime abord, la cause semblait noble, mais une fois au pouvoir, ce régime ne s'est pas avéré meilleur que celui qu'il avait renversé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Vous n'avez pas tardé à comprendre les réalités de la guerre et à ne plus aimer vous battre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Mais rattrapé par les dangers de votre métier, vous avez été démasqué au cours d'une mission. Vous avez échappé à la capture, mais votre identité a été découverte et vous n'êtes plus en sécurité chez vous.</DefaultText>
+      <FemaleText>Mais rattrapée par les dangers de votre métier, vous avez été démasquée au cours d'une mission. Vous avez échappé à la capture, mais votre identité a été découverte et vous n'êtes plus en sécurité chez vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Une offre particulièrement alléchante vous a convaincu de doubler votre employeur, une manœuvre bien trop dangereuse pour rester dans votre pays.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Mais les exigences de vos fonctions impliquaient bien trop de compromis moraux et suite à l'échec de votre dernière mission, votre tête a été mise à prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Vous avez purgé votre sentence et après avoir recouvré la liberté, il vous a fallu trouver votre place dans le monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Vous avez alors jugé que votre sentence était bien trop longue et l'avez écourtée en vous évadant de votre prison, préférant la fuite incessante aux chaînes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Vous avez finalement été libéré sur parole, mais votre goût pour la liberté était bien trop fort pour vous soumettre aux règles de votre libération et vous avez choisi de mener une vie de fugitif.</DefaultText>
+      <FemaleText>Vous avez finalement été libérée sur parole, mais votre goût pour la liberté était bien trop fort pour vous soumettre aux règles de votre libération et vous avez choisi de mener une vie de fugitive.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Mais l'orphelinat n'était pas fait pour vous et, un jour, vous avez décidé de l'incendier et de vous enfuir avant que quelqu'un ne s'en rende compte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Sans parents pour prendre soin de vous, vous n'avez jamais trouvé d'endroit où vous poser et de jour en jour, vous vous éloignez de votre lieu de naissance pour répondre à une quête insatiable qui vous échappe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Alors que le monde grouille d'orphelins, vous faites partie de ces rares personnes pour qui le fait de ne pas avoir de parents est un choix puisque vous les avez tous les deux tués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Vous avez quitté la dernière ville où vous avez séjourné à la hâte, avec à vos trousses ceux que vous aviez trompés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Mais duper les gens a fini par vous lasser et vous avez souhaité prendre un nouveau départ, de même qu'une nouvelle direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Mais certaines personnes poursuivent ceux qui les ont trompées jusqu'à la mort et vous en avez fait l'expérience. Vous enfuir très loin semblait être la meilleure solution pour vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Visiblement, ils pensent que vous portez sur vous quelque chose de précieux et sont bien décidés à vous le prendre. Vous n'avez pas d'autre choix que de vous déplacer continuellement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Vous avez des ennemis prêts à tout pour vous nuire, ce qu'ils tentent constamment de faire. Vous n'avez pas d'autre choix que de vous déplacer continuellement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Mais la raison pour laquelle ils vous cherchent vous échappe. Tout ce que vous savez, c'est qu'il vous faut continuellement vous déplacer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Votre voyage en mer a tourné court lorsque des pirates ont attaqué et détruit votre navire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Vous n'avez jamais trouvé ce que vous y cherchiez et maintenant, il vous faut vous réorienter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Mais la mer est un lieu de solitude et vous avez rapidement compris que vous aviez besoin de compagnie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Mais la violence y régnait en maître, faisant de nombreuses victimes et vous forçant à réévaluer votre situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Mais une vie de frontalier est une vie de solitaire et ce vide vous a envahi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Coupés de la civilisation, vous et d'autres personnes des environs étiez vulnérables aux attaques et un jour, vous avez été la cible d'un pillage particulièrement violent au cours duquel vous avez été mutilé et privé de foyer.</DefaultText>
+      <FemaleText>Coupés de la civilisation, vous et d'autres personnes des environs étiez vulnérables aux attaques et un jour, vous avez été la cible d'un pillage particulièrement violent au cours duquel vous avez été mutilée et privée de foyer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Pendant quelque temps, vous avez participé à leurs pillages, mais vous avez fini par comprendre que cela ne vous mènerait nulle part et que l'heure était venue pour vous de partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Pendant quelque temps, vous avez participé à leurs pillages, mais vous avez compris que tôt ou tard, votre foyer serait l'objet de leur convoitise. Jugeant cela intolérable, vous êtes parti sans la moindre hésitation.</DefaultText>
+      <FemaleText>Pendant quelque temps, vous avez participé à leurs pillages, mais vous avez compris que tôt ou tard, votre foyer serait l'objet de leur convoitise. Jugeant cela intolérable, vous êtes partie sans la moindre hésitation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Pendant quelque temps, vous avez participé à leurs pillages, avant de réaliser que cela ne vous satisfaisait en rien et que vous aspiriez à bien mieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Le voyage à destination de la Vallée dorée vous a permis de vous poser et de commencer une nouvelle vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>À la Vallée dorée, vous espérez pouvoir faire profil bas et ne pas attirer inutilement l'attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Arrivé à la Vallée dorée, vous aviez en tête de faire fortune.</DefaultText>
+      <FemaleText>Arrivée à la Vallée dorée, vous aviez en tête de faire fortune.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Vous avez choisi de rejoindre la Vallée dorée pour échapper à votre ancienne vie et n'avez pas tardé à en repartir pour y échapper encore davantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>La Vallée dorée est votre première étape et le moment venu, vous espérez rejoindre la ville pour voir ce qu'elle peut vous offrir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>La Vallée dorée constitue pour vous un tremplin et vous espérez ne pas vous y attarder avant de reprendre votre route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>La Vallée dorée constitue pour vous un moyen de vous enrichir et vous n'envisagez pas de vous y installer définitivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Vos rêves de romance vous ont mené à vous aventurer à Dyrwood et à élire domicile à la Vallée dorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>La Vallée dorée constitue un changement de décor pour vous, mais vous n'avez pas l'intention de changer de mode de vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Vous avez rejoint la Vallée dorée dans l'espoir de participer à de grandes aventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>À la Vallée dorée, vous entendez ne pas perdre votre temps et éviter les ennuis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Une fois à la Vallée dorée, vous entendez commencer par vous faire de nouveaux amis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Vous avez rejoint la Vallée dorée et entendez y rester pour voir ce que la ville a à vous offrir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Soucieux de montrer ce dont vous êtes capable, vous avez jeté votre dévolu sur une redoutable bête, mais avez été mis à mal. La plupart des chasseurs qui vous accompagnaient ont été tués et vous avez dû poursuivre seul.</DefaultText>
+      <FemaleText>Soucieuse de montrer ce dont vous êtes capable, vous avez jeté votre dévolu sur une redoutable bête, mais avez été mise à mal. La plupart des chasseurs qui vous accompagnaient ont été tués et vous avez dû poursuivre seule.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Mais malgré les risques encourus, vous n'avez reçu que peu de gratitude de la part de ceux que vous avez sauvés. Au fil du temps, cela a commencé à vous lasser au point d'avoir le sentiment que vos efforts étaient inutiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Vous avez jeté votre dévolu sur une bête célèbre, bien décidé à montrer ce dont vous étiez capable, avant de constater que celle-ci était déjà morte. Privé de vos ambitions, vous avez décidé de quitter votre pays.</DefaultText>
+      <FemaleText>Vous avez jeté votre dévolu sur une bête célèbre, bien décidée à montrer ce dont vous étiez capable, avant de constater que celle-ci était déjà morte. Privée de vos ambitions, vous avez décidé de quitter votre pays.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Mais vous avez dû faire face à une période de disette au point de vous aventurer plus loin en quête de gibier. Autour de vous, beaucoup sont morts de faim et ce souvenir hante votre esprit. Vous êtes parti dans l'espoir de ne plus vivre de telles épreuves.</DefaultText>
+      <FemaleText>Mais vous avez dû faire face à une période de disette au point de vous aventurer plus loin en quête de gibier. Autour de vous, beaucoup sont morts de faim et ce souvenir hante votre esprit. Vous êtes partie dans l'espoir de ne plus vivre de telles épreuves.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Au cours d'une partie de chasse, un accident a coûté la vie à un de vos amis. Vous en avez été jugé responsable au point de ne plus être le bienvenu au sein de la communauté.</DefaultText>
+      <FemaleText>Au cours d'une partie de chasse, un accident a coûté la vie à un de vos amis. Vous en avez été jugée responsable au point de ne plus être la bienvenue au sein de la communauté.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Mais en dehors de la chasse, vous aviez d'autres ambitions. Votre village a condamné votre choix et votre départ a été source d'une grande honte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Mais votre bateau de pêche a été devancé par de plus grands navires et au fil du temps, les réserves en poissons sont devenues rares. Confronté à la famine, il vous a fallu partir.</DefaultText>
+      <FemaleText>Mais votre bateau de pêche a été devancé par de plus grands navires et au fil du temps, les réserves en poissons sont devenues rares. Confrontée à la famine, il vous a fallu partir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Mais pris dans une violente tempête, votre bateau a sombré. Après avoir perdu le fruit de votre travail, il vous a fallu prendre un nouveau départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Mais le besoin de nourrir votre famille a commencé à vous peser. Vous avez décidé de partir, en oubliant vos responsabilités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Mais malgré sa tutelle, votre maître n'avait pas l'intention de vous laisser lui faire concurrence. À défaut de pouvoir vous lancer dans le commerce, vous avez dû chercher des opportunités ailleurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Mais la mort prématurée de votre maître à précipité la fin de votre formation. Sans espoir de terminer votre apprentissage, vous avez dû partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Votre immense talent n'était pas reconnu par votre entourage. En proie à la frustration, vous avez décidé de partir pour un endroit où vos compétences seraient plus appréciées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Mais à la suite d'une petite erreur de planification, un de vos bâtiments s'est effondré, faisant plusieurs morts. Votre carrière a subitement pris fin et vous êtes parti en quête de nouveaux territoires où vous ne seriez pas reconnu.</DefaultText>
+      <FemaleText>Mais à la suite d'une petite erreur de planification, un de vos bâtiments s'est effondré, faisant plusieurs morts. Votre carrière a subitement pris fin et vous êtes partie en quête de nouveaux territoires où vous ne seriez pas reconnue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Pendant un certain temps, vous avez été très demandé et avez fait fortune en construisant des bâtiments. Mais le marché s'est effondré et vous avez dû partir en quête de nouvelles opportunités.</DefaultText>
+      <FemaleText>Pendant un certain temps, vous avez été très demandée et avez fait fortune en construisant des bâtiments. Mais le marché s'est effondré et vous avez dû partir en quête de nouvelles opportunités.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Vous avez pris un associé, certain qu'ensemble, vous gagneriez plus d'argent. Mais celui-ci, après avoir pris tout votre argent, a décidé de faire cavalier seul. Abandonné par ceux que vous pensiez être vos amis, vous avez dû continuer seul.</DefaultText>
+      <FemaleText>Vous avez pris un associé, certain qu'ensemble, vous gagneriez plus d'argent. Mais celui-ci, après avoir pris tout votre argent, a décidé de faire cavalier seul. Abandonnée par ceux que vous pensiez être vos amis, vous avez dû continuer seule.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Ne supportant plus votre employeur, vous avez compris qu'il ne vous était pas possible de rester une minute de plus dans cette maison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Un jour, vous avez décidé de provoquer un noble en crachant dans sa nourriture. Cette décision vous a coûté cher. Il a riposté en faisant de votre vie un enfer et vous avez dû partir de chez vous pour éviter que la situation ne dégénère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Avoir accès à de nobles maisons vous a ouvert bien des portes, à commencer par les faveurs d'un galant époux. Lorsque sa femme a découvert votre aventure, elle a mis votre tête à prix et vous avez dû vous enfuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Avoir accès à de nobles maisons vous a ouvert bien des portes, à commencer par les faveurs d'une jolie épouse. Lorsque son mari a découvert votre aventure, il a mis votre tête à prix et vous avez dû vous enfuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Mais vos talents culinaires n'étaient pas reconnus par vos employeurs et, au fil du temps, vous n'avez plus supporté leur manque de goût. Vous avez pensé que vos efforts seraient plus appréciés ailleurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Vous venez de [Player Culture] où vous occupiez la fonction de constable et de gardien de la paix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Au fil des combats, vous avez commencé à comprendre que vous n'aviez pas fait allégeance aux bonnes personnes. Une fois la guerre terminée, vous êtes parti, laissant vos regrets derrière vous.</DefaultText>
+      <FemaleText>Au fil des combats, vous avez commencé à comprendre que vous n'aviez pas fait allégeance aux bonnes personnes. Une fois la guerre terminée, vous êtes partie, laissant vos regrets derrière vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>La guerre a coûté la vie à bon nombre de soldats et le souvenir de leur mort a hanté votre esprit bien après les combats. Vous avez quitté votre pays dans l'espoir d'oublier ces douloureux souvenirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Vous avez toujours été soldat et vous excellez sur le champ de bataille. Face à une paix incertaine, vous avez quitté votre pays sans vraiment savoir où cela vous mènerait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Vous vivez de votre épée et les opportunités se faisant rares dans votre pays, vous avez dû vous aventurer ailleurs pour assurer votre subsistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>La vie de mercenaire n'est pas sans risques et vous vous êtes retrouvé redevable d'un dangereux individu. Vous vous êtes mis en quête de travail, dans l'espoir de vous acquitter de votre dette avant que votre tête ne soit mise à prix.</DefaultText>
+      <FemaleText>La vie de mercenaire n'est pas sans risques et vous vous êtes retrouvée redevable d'un dangereux individu. Vous vous êtes mise en quête de travail, dans l'espoir de vous acquitter de votre dette avant que votre tête ne soit mise à prix.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>En tant que mercenaire, vous avez acquis une mauvaise réputation car de nombreux méfaits vous ont été imputés, à tort ou à raison. Vous avez décidé de prendre un nouveau départ ailleurs, dans un endroit où vous passeriez inaperçu.</DefaultText>
+      <FemaleText>En tant que mercenaire, vous avez acquis une mauvaise réputation car de nombreux méfaits vous ont été imputés, à tort ou à raison. Vous avez décidé de prendre un nouveau départ ailleurs, dans un endroit où vous passeriez inaperçue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Mais un soir, dans un bar, vous avez affronté une riche personne qui n'a pas apprécié d'être battue à plates coutures. Vous avez quitté la ville pour tenter d'échapper à l'influence de votre adversaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Mais votre dernière aventure s'est soldée par un cuisant échec et plusieurs personnes ont trouvé la mort. Vous êtes parti dans l'espoir d'oublier ce qui s'était passé.</DefaultText>
+      <FemaleText>Mais votre dernière aventure s'est soldée par un cuisant échec et plusieurs personnes ont trouvé la mort. Vous êtes partie dans l'espoir d'oublier ce qui s'était passé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Vous avez accepté un travail bien payé, avant de rapidement découvrir que vous n'aviez pas choisi les bons employeurs. Vos proches vous ont laissé tomber et vous avez vu le nombre de vos alliés se réduire à peau de chagrin. Vous n'aviez plus grand-chose à attendre en restant ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Au fil du temps, la vie d'aventurier, aussi difficile qu'incertaine, a perdu de son attrait. Vous avez décidé de partir, en quête de quelque chose de différent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Mais vos alliés et vous avez été confrontés à un vaste groupe de brigands. Ceux-ci ont pris le contrôle de la ville, établissant leurs propres règles, et vous avez dû vous enfuir pour éviter la pendaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Bien qu'important, votre travail ne paie guère et vous avez du mal à joindre les deux bouts. Vous avez décidé de partir dans l'espoir de trouver quelque chose de plus rentable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Malgré tous vos efforts, les gens continuaient de souffrir et, au fil du temps, votre mission vous a semblé bien futile. Vous ne perceviez plus l'intérêt de tenter de contenir l'inévitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>C'était une entreprise aussi rentable que dangereuse. Un concurrent a décidé de vous dénoncer aux autorités et vous leur avez échappé de justesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Vous aviez quelques scrupules quant aux marchandises que vous transportiez. Mais un client a trompé votre confiance en vous demandant de transporter quelque chose que vous n'auriez jamais accepté et vous avez juré que plus jamais vous ne connaîtriez pareille situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>C'était une entreprise aussi rentable que périlleuse. Au cours d'une affaire, vous avez été doublé et avez tout perdu.</DefaultText>
+      <FemaleText>C'était une entreprise aussi rentable que périlleuse. Au cours d'une affaire, vous avez été doublée et avez tout perdu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Un jour, vous avez été la cible de pirates et jeté par-dessus bord. Vous avez survécu, mais cette expérience vous a dégoûté de ce travail. Vous êtes parti en quête de nouvelles opportunités.</DefaultText>
+      <FemaleText>Un jour, vous avez été la cible de pirates et jetée par-dessus bord. Vous avez survécu, mais cette expérience vous a dégoûté de ce travail. Vous êtes partie en quête de nouvelles opportunités.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Mais l'équipage a fait acte de mutinerie contre vous. Vous avez survécu, mais perdu votre navire, vous poussant à prendre un nouveau départ ailleurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Mais vous avez commencé à ne plus apprécier les conditions de vie à bord. Lorsque vous avez dénoncé la manière dont le navire était commandé, vos supérieurs se sont débarrassés de vous et il vous a fallu trouver du travail ailleurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Mais un jour, des bandits ont pillé votre boutique, avant de prendre la fuite avec tout ce qu'elle renfermait. Privé de votre gagne-pain, vous avez compris que vous n'aviez plus d'avenir dans cet endroit.</DefaultText>
+      <FemaleText>Mais un jour, des bandits ont pillé votre boutique, avant de prendre la fuite avec tout ce qu'elle renfermait. Privée de votre gagne-pain, vous avez compris que vous n'aviez plus d'avenir dans cet endroit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Mais vous n'aviez ni l'expérience ni les compétences suffisantes pour tenir une boutique et votre affaire a inévitablement périclité. Furieux d'avoir perdu leur argent, vos investisseurs ont juré de veiller à ce que vous n'ayez pas de seconde chance. Vous avez dû quitter votre ville natale, en quête d'un nouveau gagne-pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Mais votre réussite a suscité la colère et la jalousie de vos concurrents et l'un d'entre eux a fait appel à des brutes pour saccager votre boutique. Privé de votre gagne-pain, vous avez compris que vous n'aviez plus d'avenir dans cet endroit.</DefaultText>
+      <FemaleText>Mais votre réussite a suscité la colère et la jalousie de vos concurrents et l'un d'entre eux a fait appel à des brutes pour saccager votre boutique. Privée de votre gagne-pain, vous avez compris que vous n'aviez plus d'avenir dans cet endroit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Au fil du temps, vous avez estimé avoir suffisamment étudié les textes. Il vous fallait à présent découvrir leur sens réel dans le monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Au cours de vos études, vous avez constaté que les connaissances collectées par vos prédécesseurs étaient loin d'être exhaustives. Si certains pensaient que ces mystères ne pouvaient être élucidés, le nombre de choses inexpliquées a fini par vous décevoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Dans vos textes, vous avez trouvé quelques passages aussi intéressants que provocateurs et les avez partagés avec vos pairs. Ils ne se sont pas montrés aussi réceptifs que vous l'espériez et vous ont discrédité dans l'espoir d'étouffer l'affaire. Votre réputation ruinée, vous n'aviez plus d'autre choix que de quitter votre pays.</DefaultText>
+      <FemaleText>Dans vos textes, vous avez trouvé quelques passages aussi intéressants que provocateurs et les avez partagés avec vos pairs. Ils ne se sont pas montrés aussi réceptifs que vous l'espériez et vous ont discréditée dans l'espoir d'étouffer l'affaire. Votre réputation ruinée, vous n'aviez plus d'autre choix que de quitter votre pays.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Au cours d'une vision, un pays que vous n'aviez jamais vu vous est apparu. Au fil du temps et de vos recherches, vous avez compris qu'il s'agissait de Dyrwood et votre vision vous invitait à vous y rendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Vos visions ont suscité l'attention de votre entourage, notamment des factions convaincues qu'elles gagneraient à s'allier à vous. Refusant qu'on vous utilise, une nuit, vous êtes parti en quête d'anonymat.</DefaultText>
+      <FemaleText>Vos visions ont suscité l'attention de votre entourage, notamment des factions convaincues qu'elles gagneraient à s'allier à vous. Refusant qu'on vous utilise, une nuit, vous êtes partie en quête d'anonymat.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Vos études ont attiré l'attention et vous avez été accusé d'hérésie. Harcelé par ceux qui vous accusaient, vous avez dû partir pour éviter le pire.</DefaultText>
+      <FemaleText>Vos études ont attiré l'attention et vous avez été accusée d'hérésie. Harcelée par ceux qui vous accusaient, vous avez dû partir pour éviter le pire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Votre vie était difficile et vous avez rapidement compris qu'elle ne correspondait en rien à vos attentes. Vous avez regretté votre choix au point de partir, bien décidé à prendre un nouveau départ ailleurs.</DefaultText>
+      <FemaleText>Votre vie était difficile et vous avez rapidement compris qu'elle ne correspondait en rien à vos attentes. Vous avez regretté votre choix au point de partir, bien décidée à prendre un nouveau départ ailleurs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Votre formation vous poussait à ignorer les questions matérielles, mais vous n'y parveniez pas. Vous avez succombé à l'amour et commencé à remettre en question le bien-fondé de votre formation. Si cette aventure n'a pas duré, elle vous a poussé à prendre un nouveau départ.</DefaultText>
+      <FemaleText>Votre formation vous poussait à ignorer les questions matérielles, mais vous n'y parveniez pas. Vous avez succombé à l'amour et commencé à remettre en question le bien-fondé de votre formation. Si cette aventure n'a pas duré, elle vous a poussée à prendre un nouveau départ.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Votre formation était ardue, mais vous saviez qu'elle n'était qu'une étape de votre cheminement. Une fois votre formation terminée, vous avez choisi de faire cavalier seul et de vous enrichir des connaissances du monde extérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Après plusieurs années d'étude, vous avez jugé que l'heure était venue de vous aventurer dans le monde pour mettre la théorie en pratique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Mais les années passées derrière un bureau ont commencé à vous sembler inutiles et vous avez abandonné vos études.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Plongé dans des débats philosophiques et conjectures académiques toujours plus complexes, vous avez fini par comprendre que rien de ce que vous étudiiez ne pouvait être prouvé.</DefaultText>
+      <FemaleText>Plongée dans des débats philosophiques et conjectures académiques toujours plus complexes, vous avez fini par comprendre que rien de ce que vous étudiiez ne pouvait être prouvé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Mais votre relation avec un de vos étudiants a éclaté au grand jour. Celle-ci n'a pas duré, pas plus que votre mariage lorsque cela s'est su.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Mais vos enseignements étaient tournés en dérision par votre entourage et vos élèves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Mais on vous soupçonnait de ne plus avoir grand-chose à offrir ou à accomplir et vous avez quitté vos fonctions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Lorsque les autorités religieuses ont eu vent de vos convictions, vous avez été menacé et persécuté.</DefaultText>
+      <FemaleText>Lorsque les autorités religieuses ont eu vent de vos convictions, vous avez été menacée et persécutée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Mais vous en aviez assez de votre propre nihilisme et avez décidé de prendre de la distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>La plupart de vos actions vous semblaient bien inutiles et avez décidé de quitter votre pays.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Votre dieu n'étant pas là lorsque vous aviez besoin de lui, vous avez commencé à douter de votre foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Votre propre blasphème vous avait éloigné de votre foi, vous privant de tout espoir de salut.</DefaultText>
+      <FemaleText>Votre propre blasphème vous avait éloignée de votre foi, vous privant de tout espoir de salut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Vous avez compris que certains serments n'étaient pas faciles à tenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Mais les habitants de votre ville natale n'avaient que faire de vos enseignements et vous avez décidé de faire entendre votre message ailleurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Mais la tentation de tant de disciples dévoués s'est avérée trop grande. Vos fidèles disciples ont fui votre présence lorsqu'ils ont découvert la portée de vos badinages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Mais la ville dans laquelle vous prêchiez a été mise à sac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Mais vous avez découvert que votre foi n'avait ni réponses ni solutions pour les gens que vous serviez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Mais vous avez perdu vos illusions face à l'hypocrisie et à la supercherie de ceux qui prétendaient partager votre foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Alors, vous êtes parti, dans l'espoir de répandre votre foi à Dyrwood.</DefaultText>
+      <FemaleText>Alors, vous êtes partie, dans l'espoir de répandre votre foi à Dyrwood.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Lorsque vos supercheries ont éclaté au grand jour, vous n'avez pas eu d'autre choix que de partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Vous vous étiez tellement illustré qu'il vous a fallu partir à destination d'un endroit où ni votre nom ni vos agissements ne seraient connus.</DefaultText>
+      <FemaleText>Vous vous étiez tellement illustrée qu'il vous a fallu partir à destination d'un endroit où ni votre nom ni vos agissements ne seraient connus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Vous avez fini par éprouver du dégoût pour votre propre supercherie. Vous êtes parti dans l'espoir de prendre un nouveau départ.</DefaultText>
+      <FemaleText>Vous avez fini par éprouver du dégoût pour votre propre supercherie. Vous êtes partie dans l'espoir de prendre un nouveau départ.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Vous avez été attrapé une fois de trop et avez dû vous en aller pour échapper à la pendaison.</DefaultText>
+      <FemaleText>Vous avez été attrapée une fois de trop et avez dû vous en aller pour échapper à la pendaison.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Mais votre propre associé vous a doublé et lorsque les autorités ont commencé à s'intéresser à vos agissements, vous avez fui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Mais vous avez fini par voler les mauvaises personnes. Soudain, les amendes et les peines d'emprisonnement ont commencé à pleuvoir et vous avez fui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Mais vous êtes tombé éperdument amoureux de quelqu'un qui n'était pas fait pour vous.</DefaultText>
+      <FemaleText>Mais vous êtes tombée éperdument amoureuse de quelqu'un qui n'était pas fait pour vous.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Vous meniez une vie agréable jusqu'à ce que des querelles avec vos camarades de bord ne vous conduisent à la planche. Par chance, vous y avez survécu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Les exploits de votre équipage ont précipité votre chute et les flottes de plusieurs pays ont fini par vous traquer. Votre navire a été coulé et les membres d'équipage restants sont partis aux quatre vents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Mais votre capitaine avait un faible pour vous et vous avez réussi à quitter le navire sain et sauf.</DefaultText>
+      <FemaleText>Mais votre capitaine avait un faible pour vous et vous avez réussi à quitter le navire saine et sauve.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Le souvenir des innocents que vous aviez tués a commencé à vous hanter et vous êtes parti.</DefaultText>
+      <FemaleText>Le souvenir des innocents que vous aviez tués a commencé à vous hanter et vous êtes partie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Mais contrairement à vos compatriotes, ces petits succès ne vous satisfaisaient en rien. Aspirant à mieux, vous êtes parti.</DefaultText>
+      <FemaleText>Mais contrairement à vos compatriotes, ces petits succès ne vous satisfaisaient en rien. Aspirant à mieux, vous êtes partie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Finalement, vos crimes ont attiré l'attention de l'armée et vous avez dû vous séparer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Mais alors que le mauvais temps et de piètres qualités de navigation mettaient à mal le navire, vous avez réussi à vous libérer de vos chaînes avant qu'il ne coule. Bon nombre de vos camarades n'ont pas eu cette chance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Mais vous conspiriez avec vos compagnons de galère. Ensemble, vous avez pris le contrôle du navire et jeté tous vos maîtres par-dessus bord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Vous auriez été esclave pour le restant de vos jours si, moyennant un geste de gentillesse, vous n'aviez pas été acheté et libéré.</DefaultText>
+      <FemaleText>Vous auriez été esclave pour le restant de vos jours si, moyennant un geste de gentillesse, vous n'aviez pas été achetée et libérée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Mais vous avez fui et réussi à échapper aux hommes de main de votre maître, de même qu'aux autorités locales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Mais les lois ont fini par changer et vos amis et vous avez été libérés suite à un décret local.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Mais un jour, vous avez riposté et tué votre maître. Vous avez fui avant que les autorités ne vous punissent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Après des années de dur labeur, vous avez fini par vous acquitter de votre dette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Mais lorsqu'une armée d'envahisseurs est arrivée, vos compagnons et vous avez été libérés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Mais les conditions de votre servitude sont devenues trop coûteuses. Vous avez fui, laissant votre famille derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Mais après des années à ne voir le monde qu'à travers des livres, vous avez voulu en faire l'expérience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Après des années d'étude, vous en aviez assez de lire les exploits des autres et avez décidé de vous illustrer, vous aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Mais plus vous examiniez les événements du passé, plus vous constatiez que l'histoire était déformée par les avis des personnes qui en faisaient le récit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Mais votre carrière a tourné court après une bien piètre décision qui a précipité votre expulsion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Mais vos études ont atteint leurs limites et vous avez été freiné par vos propres instructeurs.</DefaultText>
+      <FemaleText>Mais vos études ont atteint leurs limites et vous avez été freinée par vos propres instructeurs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Mais vos instructeurs n'étaient que des charlatans et vous avez rapidement compris qu'ils n'avaient pas grand-chose à vous apprendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Mais votre ambition vous a rendu intrépide et votre mépris des règles a précipité votre expulsion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Mais en apprenant les tactiques utilisées pour affamer, tuer et réduire à l'esclavage des milliers de gens, vous avez compris que vous ne vouliez rien avoir à faire avec ce monde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Mais un exercice a mal tourné et vous avez mis fin à vos études après avoir fait couler le sang d'un camarade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Lorsque vous avez compris que vos aptitudes dépassaient celles de vos instructeurs, vous êtes parti.</DefaultText>
+      <FemaleText>Lorsque vous avez compris que vos aptitudes dépassaient celles de vos instructeurs, vous êtes partie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Mais chemin faisant, vous avez commis des erreurs dont certaines ont conduit des innocents à être accusés de crimes qu'ils n'avaient pas commis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Mais incapable de résoudre une affaire, votre incertitude a miné votre moral.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Mais au fil de vos propres investigations, vous avez découvert des faits troublants sur quelqu'un qui comptait pour vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Mais en voyant les dégâts que provoquaient ces substances, vous avez éprouvé de la culpabilité et renoncé à poursuivre votre travail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Mais vos pratiques imprudentes ont attiré l'attention des autorités. Vous avez fui avant qu'elles ne vous mettent la main dessus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>La concurrence était rude, mais malgré votre éviction, vous avez survécu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Mais vous avez mesuré les dangers de votre entreprise à la suite d'un accident qui a bien failli vous coûter la vie. Ce souvenir a résonné dans votre esprit tel un avertissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Mais vous avez appris que votre professeur, dont vous jugiez les compétences et l'éthique au-dessus de tout soupçon, n'était qu'un tricheur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Mais après avoir étudié et atteint les limites de votre discipline, vous avez réalisé que vous n'aviez toujours pas obtenu les réponses souhaitées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Vous avez aidé un magicien aedyran du nom d'Aloth aux prises avec les habitants de la Vallée dorée. Naturellement, il s'est montré ravi d'avoir de la compagnie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Aloth vous a révélé que son âme avait été Réveillée et qu'il partageait sa conscience avec une femme pleine de fougue du nom d'Iselmyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Aloth a avoué faire partie de la Clé plombée, mais après avoir appris les crimes commis par les membres de l'organisation partout à Dyrwood, il s'est montré disposé à vous aider à les arrêter. Vous avez accepté qu'il vous accompagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Aloth a avoué faire partie de la Clé plombée, mais après avoir appris les crimes commis par les membres de l'organisation partout à Dyrwood, il s'est montré disposé à vous aider à les arrêter. Mais vous l'avez éconduit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>À la Vallée dorée, vous avez rencontré Edér, un fermier local et un fidèle d'Éothas. La foi de sa famille de même que le rôle de son frère lors de la guerre du Saint, ont éveillé les soupçons des autorités locales et ensemble, vous avez décidé de quitter la ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Vous avez finalement appris que le frère d'Edér, Woden, avait combattu pour Readceras durant la guerre du Saint et après avoir rencontré Waidwen en personne. Edér a compris qu'il ne saurait peut-être jamais pourquoi son frère avait décidé de soutenir Waidwen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>À la Croisée de Magran, vous avez rencontré un étrange prêtre qui se faisant appeler Durance. D'emblée, il a su que vous étiez un Gardien et a semblé convaincu que vous étiez destinés à cheminer ensemble et à partager vos connaissances.</DefaultText>
+      <FemaleText>À la Croisée de Magran, vous avez rencontré un étrange prêtre qui se faisant appeler Durance. D'emblée, il a su que vous étiez une Gardienne et a semblé convaincu que vous étiez destinés à cheminer ensemble et à partager vos connaissances.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Vous avez prouvé à Durance que Magran avait conspiré avec Woedica contre Éothas et qu'elle avait prévu que Durance trouve la mort en même temps que les autres ingénieurs de la bombe Marteau divin. Durance s'est alors détourné de Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Vous avez établi un lien étrange avec une femme que vous avez instinctivement reconnue comme étant la Mère en deuil. Elle vous a rejoint à Dyrford, mais depuis personne n'a remarqué sa présence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Vous avez appris que la Mère en deuil avait mis au monde les premiers sans-âme de Dyrwood. Craignant pour la vie de ces enfants tout comme pour sa propre vie, elle a fait croire aux parents de ceux-ci qu'ils étaient en bonne santé. Mais vous l'avez rassurée en lui disant que c'était nécessaire et justifié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Vous avez appris que la Mère en deuil avait mis au monde les premiers sans-âme de Dyrwood. Craignant pour la vie de ces enfants tout comme pour sa propre vie, elle a fait croire aux parents de ceux-ci qu'ils étaient en bonne santé. Vous lui avez fait comprendre qu'elle avait mal agi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>La Mère en deuil vous a demandé de purger son âme des douloureux souvenirs de la Cloche de la naissance. Vous avez refusé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>La Mère en deuil vous a demandé de purger son âme des douloureux souvenirs de la Cloche de la naissance. Vous avez accepté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>À Caed Nua, vous avez rencontré un érudit de Rauatai du nom de Kana Rua. Il s'est joint à vous dans l'espoir de découvrir un texte ancien et sacré enseveli sous le donjon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Dans les bois, vous avez rencontré un druide orlan du nom d'Hiravias. Il vous a dit être en route pour les Ormes jumeaux et apprécier explorer de nouveaux lieux. Il semblait attacher une grande importance à la sécurité d'un groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Pallegina, un paladin des Républiques de Vailia, s'est montrée impressionnée par la manière dont vous avez géré un marchand imprudent et vous a proposé de faire équipe pour servir vos propres intérêts, de même que ceux de ses ducs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Fidèle à son ordre, Pallegina vous a fait une offre destinée à enrichir les ducs aux dépens de Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Mettant en péril sa position au sein du Frermàs mes Canc Suolias, Pallegina a modifié les conditions de l'accord des ducs pour empêcher les Républiques d'empiéter sur le commerce des Glanfathans à Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>En pleine nature, vous avez rencontré la chasseuse Sagani. Partie de Naasitaq, elle espérait trouver la réincarnation d'un ancien de son village. Impressionnée par votre aptitude à voir et à traquer les âmes, elle a accepté votre offre de l'accompagner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Vous avez finalement trouvé Persoq, qui avait été réincarné en cerf. Hélas, il avait été mortellement blessé par des chasseurs glanfathans. Sagani a juste eu le temps de lui parler de sa famille à Massuk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Vous avez finalement trouvé Persoq, qui avait été réincarné en cerf. Hélas, il avait été mortellement blessé par des chasseurs glanfathans. Sagani a juste eu le temps de lui parler de son héritage à Massuk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Vous avez finalement trouvé Persoq, qui avait été réincarné en cerf. Hélas, il avait été mortellement blessé par des chasseurs glanfathans. Sagani a prononcé les noms des habitants de son village et pensait que le rituel n'avait que peu de signification en dehors de les réconforter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Kana a trouvé la tablette et compris qu'elle avait été détruite depuis bien longtemps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Hiravias a rencontré Scathden, un autre druide qui, à son instar, a été transformé en Stelgaer automnal. Hiravias a mis fin à sa longue épreuve et à l'exclusion qui a suivi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Vous avez rejoint la forteresse de Raedric et tué le seigneur à l'origine de tant de malheurs à la Vallée dorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Vous avez tué le soi-disant usurpateur Kolsc, permettant ainsi au seigneur Raedric VII de garder la mainmise sur la Vallée dorée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Vous avez commencé à explorer l'immense donjon situé sous votre forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Au cœur des Chemins infinis d'Od Nua, vous avez rencontré un ancien et puissant dragon que vous avez tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Au cœur des Chemins infinis d'Od Nua, vous avez rencontré un ancien et puissant dragon que vous avez accepté d'aider. Vous avez trouvé un nouvel hôte pour le dragon : Falanroed, une tueuse de dragons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Aloth a trouvé la mort au cours de vos périples.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Edér a péri alors que vous l'accompagniez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Hiravias est mort alors qu'il voyageait avec vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Pallegina a péri au cours de vos voyages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>La Mère en deuil s'est séparée de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>La Mère en deuil est morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Durance a péri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Kana Rua a péri alors que vous voyagiez ensemble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Sagani est morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Biographie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Visions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Au cours des audiences d'animancie, grâce à vos arguments selon lesquels l'animancie ne trouvait que peu d'écho, vous avez marqué un point contre la Clé plombée. Avant même que le duc Aevar ne termine son allocution, Thaos a pris possession du corps d'un animancien et l'a assassiné, provoquant un vif émoi à la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Vous avez convaincu Iovara que son emprisonnement n'était plus dans son intérêt. Vous avez désintégré son âme pour veiller à ce qu'elle ne soit plus soumise à la Roue de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

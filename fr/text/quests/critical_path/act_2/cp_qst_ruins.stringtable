@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Chemin critique des ruines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez le temple de Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez un moyen d'entrer dans le temple de Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Découvrez ce que prépare la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Chemin critique des ruines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le temple de Woedica se trouve dans le quartier des Premiers feux de la Baie du défi. C'est là que je dois commencer à enquêter sur la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le temple de Woedica est en ruines, du moins à la surface. J'ai eu une vision dans laquelle des âmes descendaient un escalier en ruines menant à une chambre située sous le temple. L'escalier est inaccessible, mais il existe peut-être un autre accès au temple par les catacombes de la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai atteint le sous-sol du temple de Woedica. Il ne me reste plus qu'à fouiller les lieux pour découvrir ce que trame la Clé plombée à la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Je me suis fait passer pour un mercenaire engagé par la Clé plombée et peux me déplacer librement dans les ruines.</DefaultText>
+      <FemaleText>Je me suis faite passer pour une mercenaire engagée par la Clé plombée et peux me déplacer librement dans les ruines.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

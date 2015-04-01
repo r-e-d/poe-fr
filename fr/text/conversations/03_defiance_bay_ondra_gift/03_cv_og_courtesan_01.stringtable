@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_og_courtesan_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous devez être nouveau en ville. Et si je vous accueillais comme il se doit ?"</DefaultText>
+      <FemaleText>"Vous devez être nouvelle en ville. Et si je vous accueillais comme il se doit ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'ai du temps et plein de choses à vous montrer, chéri."</DefaultText>
+      <FemaleText>"J'ai du temps et plein de choses à vous montrer, chérie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La courtisane vous fait un clin d'œil et sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

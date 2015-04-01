@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_voice_past</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une voix du passé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Entrez dans les catacombes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Recherchez Rowyna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rendez-vous au sanatorium de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Récupérez les recherches de Helig dans le laboratoire de Moedred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retrouvez Helig dans les catacombes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retrouvez Dalton dans Copperlane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tuez Helig de Thein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Retrouvez Helig dans les catacombes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Aujourd'hui, j'ai rencontré Dalton, un aventurier à la retraite à Copperlane. Il entend la voix de Rowyna, sa bien-aimée et camarade qui est morte à ses côtés il y a près de 60 ans. 
+
+Dans ses rêves, elle erre dans les catacombes sous la ville. Il m'a demandé de m'y aventurer et de me lancer à sa recherche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dalton m'a parlé d'une entrée aux catacombes au coin sud-ouest de Copperlane. J'ai besoin de la trouver si je veux partir a la recherche de Rowyna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai réussi à entrer dans les catacombes. Malheureusement, Dalton n'a pu me donner de directions précises, mais si Rowyna erre par ici, il y a sûrement un signe d'elle quelque part.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai rencontré Helig de Thein, le sorcier qui a tué Rowyna il y tant d'années. Il prétend savoir où elle se trouve, mais il me demande une faveur en échange de l'information.
+
+Helig veut que je retrouve son grimoire pour régler une ancienne dette. Il pense qu'il est en possession de Moedred, un animancien du sanatorium de Brackenbury et ancien rival de Helig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je suis entré dans le sanatorium de Brackenbury. Selon Helig, Moedred garde tout ce qui a de la valeur dans un coffre dans son laboratoire. Il m'a donné une clé pour l'ouvrir.</DefaultText>
+      <FemaleText>Je suis entrée dans le sanatorium de Brackenbury. Selon Helig, Moedred garde tout ce qui a de la valeur dans un coffre dans son laboratoire. Il m'a donné une clé pour l'ouvrir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Lorsque j'ai ouvert le coffre de Moedred, la fille wicht de l'animancien a surgi et l'a mis en pièces. Quelque chose me dit que la revanche d'Helig n'a rien à voir avec son grimoire.
+
+Helig se réjouira sans doute d'apprendre tout cela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai récupéré une amulette contenant l'âme de Rowyna. La donner à Dalton le réconforterait, bien qu'aux dépens de Rowyna ; je doute qu'elle ait apprécié d'avoir été retenue prisonnière pendant de si longues années.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Helig est encore pire que je ne le pensais. Moedred m'a parlé des expériences sinistres de son ancien collègue. J'ai décidé d'en finir avec Helig une fois pour toutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>J'ai assassiné Moedred. Ce n'est pas ce que Helig voulait que je fasse, mais ce qui est fait est fait. Je dois retourner le voir et lui dire ce qui s'est passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai parlé avec Eorn, un orlan se cachant dans les catacombes. Il n'a pas vu Rowyna, mais il a mentionné des voix venant du nord-ouest du canal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai assassiné Helig, le sorcier qui a tué Rowyna il y a de nombreuses années. Il n'y a aucun signe d'elle, mais peut-être que je trouverai un indice dans sa chambre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé une amulette rayonnante sur le cadavre de Helig. Elle pourrait avoir une certaine importance pour Dalton, à défaut d'autre chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai assassiné le sorcier mort-vivant Helig, pour de bon cette fois-ci. Il n'y a aucun signe de Rowyna, mais peut-être que je trouverai un indice dans sa chambre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai trouvé une amulette rayonnante sur le cadavre de Helig. Elle pourrait avoir une certaine importance pour Dalton, à défaut d'autre chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai assassiné Helig dans les catacombes. Il n'y a aucun signe de Rowyna, mais peut-être que je trouverai un indice dans sa chambre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>J'ai trouvé une amulette rayonnante sur le cadavre de Helig. Elle pourrait avoir une certaine importance pour Dalton, à défaut d'autre chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>J'ai assassiné le sorcier mort-vivant Helig, pour de bon cette fois-ci. Il n'y a aucun signe de Rowyna, mais peut-être que je trouverai un indice dans sa chambre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>J'ai trouvé une amulette rayonnante sur le cadavre de Helig. Elle pourrait avoir une certaine importance pour Dalton, à défaut d'autre chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Après une examination approfondie, j'ai réalisé que l'âme de Rowyna était enfermée dans l'amulette d'héliotrope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Après une examination approfondie, j'ai réalisé que l'âme de Rowyna était enfermée dans l'amulette d'héliotrope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Après une examination approfondie, j'ai réalisé que l'âme de Rowyna était enfermée dans l'amulette d'héliotrope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Après une examination approfondie, j'ai réalisé que l'âme de Rowyna était enfermée dans l'amulette d'héliotrope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Helig était incroyablement mécontent que je lui ai volé sa vengeance contre Moedred, et j'ai été forcé de le tuer. Je devrais le fouiller au cas où il pourrait me mener à Rowyna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Moedred a avoué avoir tué Helig, mais il a aussi expliqué que c'était un homme vil et dangereux. Je pourrais continuer à aider Helig, ou bien retourner dans les catacombes et finir ce que Moedred a commencé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Helig a emprisonné l'âme de Rowyna dans une amulette d'héliotrope. J'ai convaincu Dalton de la détruire pour la libérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Helig a emprisonné l'âme de Rowyna dans une amulette d'héliotrope. Son essence en fait un talisman puissant, que j'ai décidé de garder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Helig a emprisonné l'âme de Rowyna dans une amulette d'héliotrope. Je l'ai donnée à Dalton, qui était reconnaissant de retrouver son amour disparu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai trouvé une amulette appartenant à Rowyna dans les catacombes et je l'ai rapportée à Dalton. Il était reconnaissant d'avoir ce symbole de son amour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai trouvé une amulette appartenant à Rowyna dans les catacombes. Elle est assez puissante, alors j'ai décidé de la garder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai dit à Dalton qu'il rêvait simplement de Rowyna. Il était déçu, mais il m'a remercié pour mon aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Dalton a connu une fin tragique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Helig a emprisonné l'âme de Rowyna dans une amulette d'héliotrope. Je l'ai libérée, au grand regret de Dalton.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

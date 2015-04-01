@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_tsk_rogue_knight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Chevalier Rôdeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez la cuirasse de famille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Revenez auprès d'Osric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Retrouvez la déclaration de Penhelm au donjon du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Rapportez la déclaration de Penhelm à Kurren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Montrez la déclaration au Commandant Clyver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Retournez voir d'Osric avec la cuirasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Dites à Osric ce qui s'est passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Récupérez le plastron du cadavre de Penhelm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Prenez le plastron de Penhelm de force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Osric a été évincé des Chevaliers du Creuset par un compagnon d'armes nommé Penhelm. Pire, ses supérieurs ont confisqué une cuirasse qui était dans sa famille depuis des générations.
+
+Osric m'a demandé de récupérer la cuirasse auprès de Penhelm. Il pense que son rival pourrait avoir contrefait un document du Rang de Dunryd attestant de la pureté de son âme. Si j'arrive à prouver la contrefaçon de Penhelm, je pourrais faire pression pour récupérer la cuirasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Osric, un formateur du hall d'expédition à Copperlane, m'a dit que son plastron se trouverait quelque part dans le donjon du Creuset dans les Premiers Feux. Il a aussi mentionné que Penhelm, le gardien de l'arsenal, était l'un des officiers responsable de son expulsion et qu'il y a peu de chance qu'il remette l'objet de famille de son plein gré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai grandement simplifié la situation en tuant Penhelm et en récupérant la cuirasse sur son cadavre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Penhelm ne semble pas enclin à rendre l'armure d'Osric, qu'il porte sur lui. Je vais avoir besoin d'un moyen de pression.
+
+Osric pense que la déclaration de Penhelm, attestant que l'âme de Penhelm est exempte de toute influence aedyrane, est un faux. Il dit que je pourrais la trouver quelque part dans le donjon du Creuset aux Premiers feux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Penhelm semble s'être approprié l'armure d'Osric, mais j'ai sa déclaration en main comme possible élément de négociation.
+
+Kurren, le clairvoyant qui a validé la déclaration de Penhelm, travaille dans la maison Hadret dans Brackenbury. Il devrait pouvoir être certain ou non de l'authenticité de la déclaration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Osric avait raison, le Rang de Dunryd a découvert que Penhelm partage un héritage d'âme avec un général qui s'est opposé à l'indépendance dyrwoodane. Les Chevaliers du Creuset ne l'auraient jamais admis.
+
+Le document que j'ai est un faux crée pour masquer l'héritage d'âme entaché de Penhelm. Kurren a suggéré que son officier supérieur au donjon du Creuset, le commandant Clyver, s'occupe de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Je me suis occupé de Penhelm et la cuirasse est maintenant en ma possession. Je dois tenir Osric au courant.</DefaultText>
+      <FemaleText>Je me suis occupée de Penhelm et la cuirasse est maintenant en ma possession. Osric voudra connaître le résultat.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>J'ai autorisé Penhelm à partir avec sa réputation ainsi qu'avec la cuirasse d'Osric. Je dois tenir Osric au courant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Je dois récupérer le plastron d'Osric sur le cadavre de Penhelm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Maintenant que Kurren est mort, je n'ai aucun moyen de pression sur Penhelm. Le seul moyen d'acquérir le plastron d'Osric est de tuer Penhelm au donjon du Creuset dans les Premiers Feux et le prendre sur son cadavre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Penhelm a tenté de me tuer pour protéger son secret. Il a échoué misérablement. Je peux maintenant récupérer la cuirasse et la rendre à Osric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Penhelm s'est confronté à moi, et j'ai décidé de lui donner la déclaration. J'ai aussi pu le convaincre de me donner la cuirasse. Je peux maintenant la rendre à Osric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Penhelm s'est approprié l'armure d'Osric. Il ne la quittera pas tant qu'il est un Chevalier du Creuset.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai trouvé une attestation qui confirme la lignée de l'âme de Penhelm. Elle est signée par Kurren, un clairvoyant du Rang de Dunryd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Après avoir rendu la déclaration à Penhelm, je l'ai convaincu de me rendre la cuirasse d'Osric. Ce dernier a eu du mal à croire le déroulement des évènements, mais il était néanmoins heureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai réussi à voler la cuirasse pour Osric. Ce n'est pas comme s'il allait le dire aux Chevaliers du Creuset ; il était heureux de la récupérer et j'étais heureux d'être payé.</DefaultText>
+      <FemaleText>J'ai réussi à voler la cuirasse pour Osric. Ce n'est pas comme s'il allait le dire aux Chevaliers du Creuset ; il était heureux de la récupérer et j'étais heureuse d'être payé.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai récupéré la cuirasse d'Osric, mais non sans quelques pertes. Lorsque je lui ai parlé, il était furieux. Il m'a dit de garder son objet de famille. Malgré son amertume, il semble que son serment envers l'ordre comptait encore pour lui. Il ne détestait certainement pas Penhelm autant que les apparences le suggéraient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai récupéré la cuirasse d'Osric, mais non sans quelques pertes. J'ai dû tuer Penhelm, mais je ne le lui ai pas mentionné Heureusement, il n'a pas posé trop de questions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Osric est mort et sa tâche n'est plus à l'ordre du jour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Penhelm m'a attaqué après que j'ai appris sa contrefaçon. Osric semblait regretter sa mort, mais il était heureux de récupérer sa cuirasse.</DefaultText>
+      <FemaleText>Penhelm m'a attaquée après que j'ai appris sa contrefaçon. Osric semblait regretter sa mort, mais il était heureux de récupérer sa cuirasse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai la cuirasse d'Osric mais j'ai décidé de la garder. Je suis surpris qu'il ne m'ait pas attaqué sur le champ.</DefaultText>
+      <FemaleText>J'ai la cuirasse d'Osric mais j'ai décidé de la garder. Je suis surprise qu'il ne m'ait pas attaqué sur le champ.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Punir Penhelm pour le maquillage de son âme ne semblait pas une bonne chose, alors je lui ai rendu sa déclaration. Je n'ai pas obtenu de lui la cuirasse, alors je ne pourrai la rendre à Osric.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

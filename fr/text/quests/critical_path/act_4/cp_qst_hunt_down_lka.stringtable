@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_hunt_down_lka</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'assassin en fuite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez les Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Parlez à l'Anamenfath du Passage des six.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Cherchez des indices sur Thaos aux Ormes jumeaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Parlez à la délemgane de Teir Evron aux Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Thaos a tué le duc et dame Webb, ce qui a plongé la Baie du défi dans le chaos. Mais dame Webb a vu vers où il avait l'intention de se rendre - la ville des Ormes jumeaux. C'est là-bas que je dois me rendre, si je veux le ratrapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai vu les derniers instants de dame Webb. Thaos l'a tuée dans son lit, mais avant de mourir elle est parvenue à apprendre qu'il comptait se rendre aux Ormes jumeaux. Je me demande si elle a fait ça parce qu'elle savait que je le verrais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai appris que les étrangers n'étaient pas autorisés à aller au-delà d'Hearthsong. Je parlerai à l'Anamenfath qui préside au Passage des six pour en obtenir l'autorisation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai rejoint les Ormes jumeaux. La ville a une entrée principale. Avec un peu de chance, quelqu'un l'aurait vu passer par là. Je vais devoir demander autour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>L'Anamenfath Bethwl a accepté que je rejoigne les quartiers d'Oldsong et des Ormes. Elle a suggéré de s'adresser aux sœurs délemganes dans les Ormes, près du lieu nommé Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Les étrangers sont interdits d'aller s'aventurer plus loin dans la ville. Ils ont dit que l'Anamenfath Bethwl, qui préside le Passage des six au cœur d'Hearthsong, pourrait m'autoriser à accéder aux autres quartiers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Les Glanfathans des Ormes jumeaux ont entendu parler d'un mystérieux homme, un étranger, qui se serait récemment introduit dans leurs quartiers interdits des Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Les Glanfathans m'ont dit que je pourrais trouver les sœurs délemganes sous les arbres géants des Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>L'Anamenfath Bethwl est morte. Comme je ne peux plus compter sur elle pour obtenir des informations sur Thaos ou une autorisation d'accès aux Ormes jumeaux, je vais devoir trouver des réponses tout seul.</DefaultText>
+      <FemaleText>L'Anamenfath Bethwl est morte. Comme je ne peux plus compter sur elle pour obtenir des informations sur Thaos ou une autorisation d'accès aux Ormes jumeaux, je vais devoir trouver des réponses toute seule.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>L'Anamenfath Bethwl est morte. Comme je ne peux plus compter sur elle pour obtenir des informations sur Thaos ou une autorisation d'accès aux Ormes jumeaux, je vais devoir trouver des réponses tout seul.</DefaultText>
+      <FemaleText>L'Anamenfath Bethwl est morte. Comme je ne peux plus compter sur elle pour obtenir des informations sur Thaos ou une autorisation d'accès aux Ormes jumeaux, je vais devoir trouver des réponses toute seule.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Les sœurs délemganes m'ont dit d'aller à Teir Evron pour gagner la faveur des dieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

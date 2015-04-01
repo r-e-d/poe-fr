@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_bs_caravanner_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"La vie de nomade ne vous sied guère, n'est-ce pas ? Vous avez l'air aussi rugueux que ce marchand, Heodan."</DefaultText>
+      <FemaleText>"La vie de nomade ne vous sied guère, n'est-ce pas ? Vous avez l'air aussi rugueuse que ce marchand, Heodan."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Il y a toutes sortes de créatures dans ces bois. Et puis il y a les tribus..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'ai déjà voyagé avec Odema auparavant. Il ne nous a jamais égarés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je vois de plus en plus de gens sur les routes ces temps-ci. À la recherche de sécurité dans les villes et les cités, semble-t-il."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

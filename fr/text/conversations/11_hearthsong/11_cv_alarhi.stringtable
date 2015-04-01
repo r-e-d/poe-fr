@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_alarhi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une vieille elfe vêtue d'une lourde robe vous fait signe d'approcher. "Bienvenue, étranger. Bienvenue !" Ses avant-bras sont recouverts de taches vertes et bleues.</DefaultText>
+      <FemaleText>Une vieille elfe vêtue d'une lourde robe vous fait signe d'approcher. "Bienvenue, étrangère. Bienvenue !" Ses avant-bras sont recouverts de taches vertes et bleues.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bienvenue. Contente de vous revoir. Pour sûr !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez à vendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bien sûr, étranger. Bien sûr !"</DefaultText>
+      <FemaleText>"Bien sûr, étrangère. Bien sûr !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ravie de vous revoir, estramor. J'espère que vous avez réfléchi à mon offre au sujet de Rinatto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Rinatto ne vous embêtera plus. Il a quitté la ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vous êtes le bienvenu dans notre foyer. Quelles nouvelles m'apportez-vous ?"</DefaultText>
+      <FemaleText>"Vous êtes la bienvenue dans notre foyer. Quelles nouvelles m'apportez-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Rinatto ne vous embêtera plus. Il est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Mort ?" Alarhî lève les sourcils et se raidit. "Vu son comportement, ça ne m'étonne pas. Mais la mort d'un marchand vailien n'augure rien de bon pour le commerce." 
+
+Alarhî sort une petite bourse de sa robe. "Enfin, l'affaire est close. Rinatto n'assombrira plus notre marché. Tenez, prenez ceci en guise de récompense pour m'avoir rendu service. Bon voyage, estramor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Alarhî hoche la tête en souriant. "Je suis contente que vous ayez réussi à convaincre Rinatto de partir sur ses deux jambes. Il aurait été fâcheux de devoir l'évacuer sur une civière." 
+
+Alarhî sort une petite bourse de sa robe et la pose dans votre main. "Vous avez fait du bon travail, estramor. Veuillez accepter ceci en guise de récompense. Et si vous avez besoin d'herbes ou de teintures, je vais veiller à ce que vous soyez toujours bien accueilli dans ma boutique."</DefaultText>
+      <FemaleText>Alarhî hoche la tête en souriant. "Je suis contente que vous ayez réussi à convaincre Rinatto de partir sur ses deux jambes. Il aurait été fâcheux de devoir l'évacuer sur une civière." 
+
+Alarhî sort une petite bourse de sa robe et la pose dans votre main. "Vous avez fait du bon travail, estramor. Veuillez accepter ceci en guise de récompense. Et si vous avez besoin d'herbes ou de teintures, je vais veiller à ce que vous soyez toujours bien accueillie dans ma boutique."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Bienvenue, ami de la Grue pêcheuse, bienvenue ! Nos mains vous accueillent chaleureusement. Pour sûr."</DefaultText>
+      <FemaleText>"Bienvenue, amie de la Grue pêcheuse, bienvenue ! Nos mains vous accueillent chaleureusement. Pour sûr."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Allons droit au but, estramor. Que voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Je peux vous faire un prix, ami d'Eir Glanfath. Pour sûr."</DefaultText>
+      <FemaleText>"Je peux vous faire un prix, amie d'Eir Glanfath. Pour sûr."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Comme vous voudrez, étranger. À votre service."</DefaultText>
+      <FemaleText>"Comme vous voudrez, étrangère. À votre service."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Alarhî se tient devant vous, grande et fière, entourée de guerriers glanfathans qui surveillent chacun de vos gestes. "Je m'attendais bien à ce que Rinatto m'envoie quelqu'un, mais pas vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Elle penche la tête sur le côté et bat lentement des paupières. "La présence de mes gardes armés vous étonne ? Vous vous attendiez à trouver une commerçante sans défense, pas vrai ?" 
+
+Un garde s'avance, mais Alarhî lui fait signe de s'arrêter. "Non !" aboie-t-elle. "Laissons l'étranger s'exprimer !"</DefaultText>
+      <FemaleText>Elle penche la tête sur le côté et bat lentement des paupières. "La présence de mes gardes armés vous étonne ? Vous vous attendiez à trouver une commerçante sans défense, pas vrai ?" 
+
+Un garde s'avance, mais Alarhî lui fait signe de s'arrêter. "Non !" aboie-t-elle. "Laissons l'étrangère s'exprimer !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Une vieille elfe se tient devant vous, grande et fière, entourée de guerriers glanfathans qui surveillent chacun de vos gestes. "Vous parlez au nom de Rinatto, je présume ? Je savais qu'il finirait par m'envoyer quelqu'un... Mais je ne m'attendais pas à ce que ce soit l'estramor à l'origine du chaos qui règne à la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je suis ici pour récupérer l'argent de Rinatto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Je tiens à entendre votre version des faits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je me fiche du Vailien. Mais je peux peut-être vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>La vieille femme vous sourit en levant un sourcil. "Bien sûr... Qu'est-ce qui intéresse les étrangers, à part l'argent ?"
+
+Des plis de sa robe, elle sort une petite racine qu'elle porte à ses narines pour la humer. "La tribu de la Grue pêcheuse cultive ces terres depuis des générations. Rinatto s'imagine-t-il que ces plantes poussent comme des mauvaises herbes ? Sans efforts de notre part ? Sans labeur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Onguents, potions, teintures !" D'un grand geste, elle désigne les pots, bouteilles et herbes exposés derrière elle. "J'ai tout ce que vous pouvez chercher. Pour sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nous ne sommes pas comme les Dyrwoodans. Ici, l'hospitalité règne !" Alarhî vous fait un signe de tête et lève une main ; sa paume et ses doigts sont couverts de teinture bleue et verte. 
+
+"Émissaire du Vailien, délivrez-nous le message qui vous a été confié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Alarhî frantuma lo stelo tra le mani, sommando nuove macchie arancioni alle tracce blu e verdi sulle sue mani.
+
+"L'affare è concluso. Renát ha i frutti del nostro raccolto. Non possiamo restituire i soldi al vailiano, proprio come non possiamo rimettere sui rami le foglie di Elardh Golah".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Dites à Rinatto que nous avons honoré notre part du contrat. S'il continue à feindre l'indignation, il aura affaire à nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ma patience a des limites. Donnez. Moi. L'argent." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>La vieille femme regarde ses gardes, puis se tourne vers vous en levant un sourcil. "Déjà ? Vous n'êtes pas très patient." 
+
+Elle claque des doigts et les gardes s'immobilisent. "Chassez cette vermine de mon foyer !"</DefaultText>
+      <FemaleText>La vieille femme regarde ses gardes, puis se tourne vers vous en levant un sourcil. "Déjà ? Vous n'êtes pas très patiente." 
+
+Elle claque des doigts et les gardes s'immobilisent. "Chassez cette vermine de mon foyer !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"C'est un bon début", dit-t-elle en se grattant le menton.
+
+"Rinatto m'a acheté plusieurs boisseaux d'Elardh Golah. Il a accepté de les payer au prix fort et m'a même dit que c'était une « bonne affaire »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ce n'est qu'une fois le contrat rempli que le Vailien a commencé à cracher son venin !" Alarhî se met en colère. 
+
+"Rinatto m'a accusée de l'avoir escroqué en lui vendant de l'Elardh Golah frelaté !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Quel culot ! Car en vérité, l'Elardh Golah ne peut rien pour lui." Elle lève un doigt couvert de teinture bleue, le baisse lentement et sourit. "Le vieil arc de Rinatto n'est plus assez vigoureux pour bander complètement. L'Elardh Golah ne lui donnera jamais la lance d'un jeune chasseur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Notre contrat était en règle, mais Rinatto ne veut pas admettre qu'aucune herbe médicinale ne peut remédier à ses problèmes de virilité." 
+
+Elle secoue la tête et sa voix se transforme en grondement. "Je n'ai jamais vendu aucun remède frelaté à qui que ce soit ! Si Rinatto continue à nous calomnier, nous le ferons taire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Quel genre de punition pensez-vous infliger à Rinatto ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Rinatto a calomnié son hôtesse. Il n'est plus le bienvenu ici. Ce marchand doit disparaître des Ormes jumeaux." Elle croise les bras sous les manches de sa robe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Mais on ne transige pas avec l'hospitalité glanfathane. Nous devons lui laisser une chance de s'en aller de lui-même avant de prendre des mesures contre lui. Adressez-lui un avertissement de notre part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Dites à Rinatto que s'il ne s'en va pas, il sera accusé d'avoir conspiré pour voler des reliques engwithanes sur nos terres. Il ne prendra pas le risque d'être jugé devant le conseil des Anamfatha."
+
+Alarhî sort une petite cage en bois des plis de sa robe. "Dites-lui que s'il n'écoutera pas, son membre défectueux finira dans une cage, comme ce scarabée noir... En tant que nourrirure pour nos oiseaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Elle vous regarde un long moment. "Vous êtes prêt à lui tourner le dos ?" Elle lève un sourcil en esquissant un petit sourire. 
+
+"Rinatto doit disparaître de notre cité sacrée. La défiance qu'il sème doit être éradiquée. Si vous voulez nous aider, convainquez-le de s'en aller."</DefaultText>
+      <FemaleText>Elle vous regarde un long moment. "Vous êtes prête à lui tourner le dos ?" Elle lève un sourcil en esquissant un petit sourire. 
+
+"Rinatto doit disparaître de notre cité sacrée. La défiance qu'il sème doit être éradiquée. Si vous voulez nous aider, convainquez-le de s'en aller."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je vais lui porter ce message."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"J'en ai assez entendu. Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"La réputation de votre tribu dépend de vos actes. Est-ce l'image que vous souhaitez donner de vous à vos futurs partenaires commerciaux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Comment puis-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"En tant qu'ami des Ormes jumeaux, je vous prie de rendre son argent au Vailien. Je vous le demande comme une faveur."</DefaultText>
+      <FemaleText>"En tant qu'amie des Ormes jumeaux, je vous prie de rendre son argent au Vailien. Je vous le demande comme une faveur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Les Glanfathans échangent un regard désapprobateur. Un murmure s'élève autour de l'âtre jusqu'à ce qu'Alarhî, les yeux fermés, frappe violemment du pied sur le sol. "Ça suffit ! Taisez-vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Elle attend que ses frères se taisent et rouvre les yeux. "Vous ne manquez pas de clairvoyance. Le commerce renforce toutes nos tribus, et les accusations de Rinatto, bien qu'elles soient fausses, risquent de se propager comme un poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Pour le bien des Ormes jumeaux, nous allons donc céder aux revendications de ce fieffé menteur." 
+
+Alarhî relève une de ses manches et en sort une bourse en cuir. Le cliquetis du cuivre résonne dans la pièce. "Rapportez ça au Vailien avec la... bénédiction... de la tribu de la Grue pêcheuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>La vieille femme vous regarde longuement, sans savoir si elle doit froncer des sourcils ou vous sourire. 
+
+"Une gentillesse contre une autre ? Comme lorsqu'on échange des pièces contre des herbes médicinales. Des gestes vides mais intéressés. Bon..." Elle regarde ses mains tachées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Vous avez donné de votre personne pour notre peuple." Alarhî joint les mains et croise les doigts. "Les gestes vides se remplissent les uns des autres." Elle décroise les doigts et vous fait un signe de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Alarhî vous fait un signe de tête. "Revenez me voir quand le Vailien aura disparu des Ormes jumeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"J'ai ce que vous cherchez. Pour sûr. Venez voir !" Entre courbettes et sourires, elle désigne une fillette près de sa boutique d'herboristerie. "Nous sommes là pour vous aider, étranger. Oui, pour vous aider. La tribu de la Grue pêcheuse est au service de votre peuple."</DefaultText>
+      <FemaleText>"J'ai ce que vous cherchez. Pour sûr. Venez voir !" Entre courbettes et sourires, elle désigne une fillette près de sa boutique d'herboristerie. "Nous sommes là pour vous aider, étrangère. Oui, pour vous aider. La tribu de la Grue pêcheuse est au service de votre peuple."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Merci, estramor. Je vous suis très reconnaissante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Retournez voir votre maître vailien, estramor. Nous n'avons plus rien à nous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

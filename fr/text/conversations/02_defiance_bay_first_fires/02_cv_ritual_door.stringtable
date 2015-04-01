@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_ritual_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous entendez des murmures et des chants de l'autre côté de la porte. Un rituel semble en cours d'exécution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Donnez le capuchon et le masque.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Invitez le groupe à vous suivre dans la pièce.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Continuez dans la pièce seul.]</DefaultText>
+      <FemaleText>[Continuez dans la pièce seule.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Éloignez-vous de la porte.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous enlevez le capuchon et le masque et retournez dans le hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous retournez dans le hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous faites glisser le capuchon et le masque sur votre tête. Vous pouvez sentir le tissu qui commence à brûler, mais vous tapotez le tissu sur votre tête et réussissez à contenir les flammes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous tirez le capuchon et le masque sur votre tête. Ils sont inconfortables, mais semblent dissimuler votre visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous ouvrez la porte et entrez dans la pièce en faisant un geste pour que le reste de votre groupe vous accompagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous ouvrez la porte et entrez dans la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous tirez le capuchon et le masque sur votre tête. Ils s'adaptent tout juste à vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous entendez des murmures et des chants de l'autre côté de la porte. Une sorte de rituel est en cours. Cependant, vous utilisez déjà vos seuls moyens de dissimulation.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

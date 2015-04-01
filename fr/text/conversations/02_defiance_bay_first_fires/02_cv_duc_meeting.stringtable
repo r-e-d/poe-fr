@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_duc_meeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>163</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>La salle située plus bas est le théâtre d'un débat animé. Les différents groupes se distinguent facilement dans la foule. Dans leurs lourdes armures, les Chevaliers du Creuset sont rassemblés dans un coin. Dans un autre se trouvent les membres bien habillés de la maison Doemenel qui observent avec un intérêt de prédateurs. Un peu plus loin, les Douzaines n'ont manifestement fait aucun effort d'habillement pour leur seigneur. Au milieu de tout ce monde, les animanciens en tenue officielle et à l'expression tantôt revêche ou soucieuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Comme je l'ai dit, ce n'est pas une question de progrès, mais de potentiel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Alors vous l'admettez, maître Barrasc, l'animancie est incapable de mettre fin à l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Non ! Nous avons mené de nombreuses et prometteuses expériences. Caedman Azo a..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Caedman Azo a tué un enfant ! Pour rien ! Nous devrions le pendre haut et court pour ce qu'il a fait ! Les Douzaines ne le toléreront pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"L'expérience a échoué, mais ses travaux..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"C'est inutile. Maître Azo a récemment disparu. Et même si l'expérience a échoué, ses travaux..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ses travaux ont été sabotés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, le nouveau représentant des Douzaines ! Qu'est-ce qui vous fait parler de sabotage ?"</DefaultText>
+      <FemaleText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, la nouvelle représentante des Douzaines ! Qu'est-ce qui vous fait parler de sabotage ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, le nouveau représentant des Chevaliers du Creuset ! Qu'est-ce qui vous fait parler de sabotage ?"</DefaultText>
+      <FemaleText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, la nouvelle représentante des Chevaliers du Creuset ! Qu'est-ce qui vous fait parler de sabotage ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, le nouveau représentant de la maison Doemenel ! Qu'est-ce qui vous fait parler de sabotage ?"</DefaultText>
+      <FemaleText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, la nouvelle représentante de la maison Doemenel ! Qu'est-ce qui vous fait parler de sabotage ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, le nouveau représentant de la délégation ! Qu'est-ce qui vous fait parler de sabotage ?"</DefaultText>
+      <FemaleText>Tout à coup, les participants se tournent vers vous, en proie au jugement et à l'incrédulité. Seul le duc, un homme au regard furieux et à la barbe en bataille, ne semble pas déconcerté par votre interruption. "Ah, la nouvelle représentante de la délégation ! Qu'est-ce qui vous fait parler de sabotage ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"J'ai rencontré un faux patient au sanatorium de Brackenbury qui avait trafiqué la machine d'Azo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"[Mentez] Un animancien rival l'a avoué lors d'une enquête menée sur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Et alors ? Ces gens sont prêts à se jouer de la vie de nos enfants !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Là ! Ces mêmes gens censés porter tous nos espoirs ! Des saboteurs et des fous !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"En effet. En supposant qu'il s'agissait BIEN d'un sabotage, cet animancien Azo n'a-t-il aucun compte à rendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Il ne s'agit pas de l'Incident de Baelreach. C'est un scientifique responsable qui a été manipulé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ceux qui me connaissent savent que je suis quelqu'un de juste. Ne doutez pas de l'innocence de Caedman Azo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ceux qui me connaissent savent que je suis quelqu'un de juste. Vous devez condamner Caedman Azo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Non, il ne l'est pas. C'est un scientifique responsable qui a été manipulé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oui, il l'est. Les ambitions de Caedman Azo vont au-delà de son éthique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Foutaises ! Ces animanciens ne sont pas dignes de confiance ! Regardez ce qui s'est passé à la Colline de l'Héritage ! Nos supposés « protecteurs » du donjon du Creuset n'arrivent même pas rétablir l'ordre suite aux dégâts causés par l'animancie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Exactement ! Regardez ce qui s'est passé à la Colline de l'Héritage ! Nos supposés « protecteurs » du donjon du Creuset n'arrivent même pas rétablir l'ordre suite aux dégâts causés par l'animancie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Pensez-vous vraiment qu'il s'agit de VOTRE délégué, Eadric ?"</DefaultText>
+      <FemaleText>"Pensez-vous vraiment qu'il s'agit de VOTRE déléguée, Eadric ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Pas pour bien longtemps, vu ce qu'il prétend."</DefaultText>
+      <FemaleText>"Pas pour bien longtemps, vu ce qu'elle prétend."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Votre Grâce, la situation serait différente si nos chevaliers n'étaient pas aussi occupés à veiller à ce que LEUR ORGANISATION ne déclenche pas une révolution à nos portes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"La Colline de l'Héritage a maculé VOS MAINS de sang, justicière. Vous avez fermé les yeux et regardez ce qui se passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je n'ai pas mis les pieds à la Colline de l'Héritage depuis la quarantaine. Les chevaliers n'ont certes pas réussi à limiter les dégâts, mais ceux-ci ont été provoqués par une machine ancienne. L'animancie n'a rien à voir là-dedans. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Les Chevaliers du Creuset n'y sont pour rien. Ce n'est pas l'œuvre de l'animancie, mais d'une ancienne machine de Teir Nowneth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous avez de bien étranges goûts en matière de voyages. Vos récits sont captivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Vous pensez que quelques cadavres en putréfaction ou des gardes volontaires peuvent se mettre en travers de mon chemin ? Je mérite d'obtenir les réponses que je recherche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Regardez-moi dans les yeux et dites-moi que je mens, Votre Grâce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"J'ai prêté serment. Je mets au défi quiconque ici présent de me contredire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Demandez autour de vous. En cas de problèmes, je prends les choses en main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Je vous demande simplement d'écouter ce que j'ai à dire. Et d'arriver à vos propres conclusions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Le duc se fend d'un sourire. "Je dois avouer que vous en avez tout l'air."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Le duc vous lance un regard sévère qui semble durer une éternité. "Je ne peux pas. Sans prendre le risque de mentir, moi aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"J'ai appris qu'un nouveau délégué devait assister à l'audience du jour. On m'avait parler de votre franchise."</DefaultText>
+      <FemaleText>"J'ai appris qu'une nouvelle déléguée devait assister à l'audience du jour. L'on m'avait parler de votre franchise."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"J'ai appris qu'un nouveau délégué doit assister à l'audience du jour. Il m'a été dit de m'attendre à des menaces et autres intimidations. Ce qui n'a rien de nouveau ici, comme vous pouvez le constater.
+
+"Très bien, vous êtes peut-être cette personne."</DefaultText>
+      <FemaleText>"J'ai appris qu'une nouvelle déléguée devait assister à l'audience du jour. Il m'a été dit de m'attendre à des menaces et autres intimidations. Ce qui n'a rien de nouveau ici, comme vous pouvez le constater.
+
+"Très bien, vous êtes peut-être cette personne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Très bien. Parlez-nous de ce que vous prétendez avoir vu à la Colline de l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Parlez-nous de ce que vous avez vu à la Colline de l'Héritage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"La tour de Teir Nowneth abrite une machine engwithane capable de prendre possession des âmes. Cette même machine a transformé les habitants en morts-vivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ma maison accepterait, Votre Grâce. Son avenir est plein de promesses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Et je suppose que les impressionnants bénéfices tirés de l'Héritage n'y sont pour rien, n'est-ce pas, Doemenel ? Vous n'allez plus pouvoir jouer sur les deux tableaux ! L'animancie ou ce pays."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Malgré ce que vous dites, nous disposons d'un témoignage selon lequel des animanciens ont passé du temps là-bas. Leurs agissements avaient sûrement quelque chose à voir avec tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Leur présence ne prouve en rien leur implication. Ce témoignage relève d'une supposition plus que d'une preuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"J'ai des raisons de penser que d'autres personnes présentes à la tour pourraient être impliquées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Il apparaît évident qu'ils étudiaient une dangereuse machine qui dépassait leur entendement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ils se sont montrés aveuglément ambitieux, n'ont pris que peu de précautions et ont laissé des sentiments personnels s'immiscer dans la résolution du problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"L'animancie a de nombreux ennemis. Il vous suffit de regarder les personnes présentes dans cette salle pour le constater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vous... Vous ne comprenez pas ! Partout où il y a des animanciens, c'est la catastrophe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Mais... Mais l'objectif précis de ces expériences est de comprendre ! Afin d'utiliser ces dangereuses créations avec responsabilité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"TELLE est la situation, Votre Grâce ! Quelles que soient leurs "intentions", l'animancie est un fléau qui ruine tout ce qu'elle touche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nous savons tous ce qu'est vraiment l'Héritage de Waidwen. Cela n'a rien à voir avec un saint de Creed-ceras devenu fou après avoir emprunté le mauvais chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Est-ce vraiment le cas ? Ne devrions-nous pas prendre le temps de tirer une conclusion claire ? Après tout, quelle preuve avons-nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Mon fils et ma fille sont ENTERRÉS sous ma maison. Nous n'avons pas de terre et c'est là que nous les avons enterrés. Pour ce qui est de mon fils, ma femme l'a laissé se noyer alors qu'elle le baignait. Ses poumons se sont gorgés d'eau et il a cessé de respirer. Quant à ma fille, un soir, nous l'avons couchée dans son lit et le lendemain matin, elle ne respirait plus." 
+
+"Cette affaire des sans-âmes est sans fin. Et elle est sans fin car nous laissons ces charlatans jouer aux dieux. La VOILÀ ta preuve, espèce de merdeuse !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Cela suffit, Eadric. Dame Doemenel a raison. S'il s'agit de l'animancie, pourquoi les autres pays qui autorisent cette pratique ne subissent-ils pas le même sort ? Qui, parmi nous, peut dire qu'il comprend vraiment pourquoi l'Héritage sévit ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>La foule commence à marmonner... Un brouhaha teinté de doute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"L'Héritage de Waidwen est l'œuvre de la Clé plombée. Elle est à l'origine de la chute de Caedman Azo. Comme la tour de la Colline de l'Héritage. Ils veulent vous influencer. Ils veulent la chute de l'animancie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Le marmonnement sourd se transforme en vacarme sceptique qui remplit la salle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je les ai vus dans les ruines d'Eir Glanfath. Ils manipulaient des machines capables d'agir sur les âmes et de les rediriger, près des villages comme la Vallée dorée et Dyrford où l'Héritage est universel. En tant que Gardien, j'ai entendu leurs morts confesser leur complot. Ils volent les âmes de ceux qui ne sont pas encore nés."</DefaultText>
+      <FemaleText>"Je les ai vus dans les ruines d'Eir Glanfath. Ils manipulaient des machines capables d'agir sur les âmes et de les rediriger, près des villages comme la Vallée dorée et Dyrford où l'Héritage est universel. En tant que Gardienne, j'ai entendu leurs morts confesser leur complot. Ils volent les âmes de ceux qui ne sont pas encore nés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Encore un fou ! Maître Barrasc, avez-vous pensé à fermer à clé le sanatorium avant de partir ?"
+
+La salle s'esclaffe.</DefaultText>
+      <FemaleText>"Encore und folle ! Maître Barrasc, avez-vous pensé à fermer à clé le sanatorium avant de partir ?"
+
+La salle s'esclaffe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je vous en prie, je cherche juste à aider Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vous voulez voir à quoi ressemble la folie, faites un autre commentaire du genre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Que votre utérus se dessèche avant même de donner, pour ce que cela me fait. Le reste des personnes ici présentes entendront la vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vous déshonorez votre ordre en contestant la vérité avant même de l'avoir écoutée, madame. Je m'attendais à mieux de la part d'une Chevaleresse du Creuset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Si tel est le cas, pour le bien de votre mari, j'espère qu'il avait accès à une maison close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Un rire tonitruant se fait entendre dans la salle. Taragyth rougit, mais elle ne réplique pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Si, comme le dit le duc, aucune théorie ne se vérifie plus qu'une autre, à quoi bon les entendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Vos railleries ne changeront pas la vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Depuis son trône, le duc se penche en avant et la curiosité se lit dans ses yeux. "Vous devez savoir que la Clé plombée est une histoire pour les voyous à la petite semaine et les enfants en train de jouer."
+
+"Je ne dis pas que vous mentez... Pas encore. Mais vous feriez bien de réfléchir à tout cela. Aidez-nous à vous faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Qu'est-ce qui est plus probable ? Que les dieux détruisent Dyrwood pour une science pratiquée dans de nombreux endroits du monde ? Ou qu'un groupe de gens détestent l'animancie au point de vouloir l'éliminer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"La Clé plombée existe bel et bien. Elle compte dans ses rangs des étrangers d'Aedyr et de Readceras qui détestent Dyrwood et veulent nous voir souffrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Prenons le cas d'un seigneur trompé par sa femme. S'il lui demande d'arrêter, elle n'aura que plus envie de voir son amant. Mais s'il propage une rumeur selon laquelle son amant s'est rendu dans une maison close et a attrapé la petite vérole, elle mettra fin à leur relation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Tous ici présents, nous voulons la même chose. Nous voulons mettre fin à l'Héritage de Waidwen. En nous serrant les coudes au lieu de nous quereller, nous pourrons arrêter les auteurs de ces méfaits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Encore une supposition ! Remettez-le à sa place, Votre Grâce. Il nous fait perdre notre temps."</DefaultText>
+      <FemaleText>"Encore une supposition ! Remettez-la à sa place, Votre Grâce. Elle nous fait perdre notre temps."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"J'ai vu ces machines de mes propres yeux et elles fonctionnent à l'aide de mécanismes que seule une personne dotée de connaissances anciennes peut comprendre. Aucun groupe, hormis la Clé plombée, ne possède de telles connaissances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Dois-je aussi vous parler des robes que portaient ces gens ? Des runes écrites dans une langue morte promettant à Woedica de sceller ces connaissances à l'aide d'une clé plombée ? Des jeux d'enfants, vous dites ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ce n'est pas une supposition. J'ai vu ces gens mener leurs missions dans les ruines d'Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"C'est la première chose que vous dites qui a du sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Je vous en prie, c'est de l'incitation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Est-ce si difficile de croire que nos ennemis historiques conspireraient contre nous ? L'Héritage a emboîté le pas à la guerre du Saint. Et Aedyr tente de s'en prendre à nous depuis l'époque d'Admeth Hadret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Vous insinuez que les sacrifices du peuple de Dyrwood n'ont pas suffi à nous valoir d'implacables ennemis ? Comment osez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Appelez cela comme vous voudrez, mais ces gens sont là pour s'emparer de Dyrwood. C'est vers eux que vous devez orienter votre colère !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je ne vois pas ce qu'un riche seigneur a à voir avec cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Réfléchissez-y. Imaginez un barde dans une auberge, jouant son air préféré soir après soir. Si vous lui dites que vous n'aimez pas cet air, il le jouera encore plus fort. Mais si vous payez les clients pour qu'ils partent, il pensera que son air en est responsable et arrêtera de le jouer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Cela ressemble à la farce de Thorne 'Le vaillant cambrioleur' dans laquelle le cambrioleur pousse Aedeldred à quitter sa femme en lui faisant croire que l'idée vient de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Dans le cas présent, Dyrwood est la femme. La Clé plombée est le seigneur. L'animancie la liaison. Vous comprenez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Vous dites qu'ils n'aiment pas l'animancie et tentent de nous pousser à la bannir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Cette pièce fut commandée par mon grand-père. Vous voulez dire que nous sommes Aedeldred et qu'un cambrioleur tente de nous faire changer d'avis à notre insu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Aucun membre des Douzaines qui se respecte ne laissera ces animanciens propager leur magie noire là où naissent des enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je vous jure que les animanciens n'ont rien à voir avec le sort tragique de vos enfants. L'Héritage perdurera tant que n'arrêtons pas les bonnes personnes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Si un animancien venait à s'approcher de trop près d'un enfant à naître, il devrait en répondre devant moi. Mais pour le moment, il nous faut nous concentrer sur la Clé plombée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous devez le comprendre. Les animanciens n'y sont pour rien. La Clé plombée est votre ennemi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je ne sais rien de tout cela..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je crois pouvoir moi-même distinguer mes amis de mes ennemis. Vous feriez mieux de bien choisir votre camp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Vos propos sont de moins en moins sensés. Vous en avez terminé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je... Ce n'était pas ce que je voulais dire. Il déforme mes propos."</DefaultText>
+      <FemaleText>"Je... Ce n'était pas ce que je voulais dire. Elle déforme mes propos."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"C'est scandaleux ! Mes ancêtres n'ont pas donné leur vie pour qu'un soi-disant chevalier remette en question leur sacrifice !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"On s'égosillait à dire qu'ils n'étaient pas dignes de confiance. Personne n'a écouté. Regardez où nous en sommes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je ne vois pas l'intérêt de troquer un ennemi que nous connaissons pour un dont nous ignorons tout. Vous vous concentrez sur un ennemi fictif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Si vous me connaissiez un tant soit peu, vous sauriez que j'ai été affublé de différents qualificatifs, mais jamais de celui de menteur. Un témoin honnête est la meilleure preuve dont vous disposiez dans cette affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"La seule preuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"La seule preuve qui ne condamne pas les vôtres à la potence, vous voulez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Le justicier a raison... Tout cela a trait au sanatorium."</DefaultText>
+      <FemaleText>"La justicière a raison... Tout cela a trait au sanatorium."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Vos arguments sont... inattendus. C'est le moins qu'on puisse dire. Voilà une nouvelle possibilité à laquelle il nous faut réfléchir."
+
+"Comment avez-vous appris tout cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Les Chevaliers du Creuset m'ont été d'une aide précieuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"La maison Doemenel a mis à ma disposition les ressources qu'il me fallait. Nous leur devons beaucoup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Les martyres des Douzaines ont soutenu ma quête de réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je me suis personnellement intéressé à cette affaire pour essayer de bien la comprendre."</DefaultText>
+      <FemaleText>"Je me suis personnellement intéressée à cette affaire pour essayer de bien la comprendre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Mais ces audiences vont au-delà de l'Héritage de Waidwen, même s'il s'agit de notre plus urgente préoccupation."
+
+"Disons pour le moment que je pensais vous croire sur le fait que nos amis du sanatorium de Brackenbury et leurs pairs ne sont en rien responsables de la malédiction qui pèse sur mon pays."
+
+"Dites, que feriez-vous à ma place ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText> "Je vois. Je m'étonne que les chevaliers aient saisi une opportunité aussi improbable pour trouver une issue à tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Même s'ils n'ont pas tous participé à votre enquête." Il jette un regard bref en direction d'Eadric.
+
+"Quoi qu'il en soit, je suis agréablement surpris par leur ouverture d'esprit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je suis heureux de constater que la maison Doemenel met à disposition d'importantes ressources pour résoudre cette affaire dont l'enjeu est considérable pour nous tous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Le duc hausse les sourcils. "Vraiment ? Si je ne m'abuse, cette terre vous est étrangère. Vos efforts pour la préserver n'en sont que plus louables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Je vais laisser les animanciens poursuivre leur travail. Ils explorent des questions que nous souhaitons tous comprendre. Si nous en avions su davantage, cette crise aurait peut-être pu être évitée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"L'animancie doit être étudiée à Dyrwood. Si vous ne le faites pas, quelqu'un d'autre s'en chargera et pourra alors exercer un grand pouvoir sur vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Les animanciens de Dyrwood ont acquis bien trop de liberté. La pratique de l'animancie doit être limitée et contrôlée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"L'animancie est trop dangereuse. Nous n'étions pas censés l'utiliser et nous avons prouvé pourquoi nous n'en sommes pas dignes. Elle devrait être proscrite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"À vrai dire, je ne sais pas vraiment si l'animancie a un lien avec l'Héritage de Waidwen. Il serait bon d'en interdire la pratique, du moins pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Très bien. C'est tout ce que je voulais entendre. Pas uniquement de vous, mais de la part de tout le monde. Nous y avons consacré beaucoup de temps. L'heure est venue de passer à autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je tiens à remercier les délégations pour m’avoir aidé à y voir plus clair. Je tiens à remercier plus particulièrement notre nouveau délégué pour m’avoir fait réfléchir et m’avoir alerté sur un nouvel ennemi que je n’avais pas anticipé."</DefaultText>
+      <FemaleText>"Je tiens à remercier les délégations pour m’avoir aidé à y voir plus clair. Je tiens à remercier plus particulièrement notre nouvelle déléguée pour m’avoir fait réfléchir et m’avoir alerté sur un nouvel ennemi que je n’avais pas anticipé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Je tiens à remercier les délégations pour m’avoir aidé à y voir plus clair. Ainsi que notre nouveau délégué de nous avoir fait part d’une nouvelle possibilité sur laquelle nous devons nous pencher."</DefaultText>
+      <FemaleText>"Je tiens à remercier les délégations pour m’avoir aidé à y voir plus clair. Ainsi que notre nouvelle déléguée de nous avoir fait part d’une nouvelle possibilité sur laquelle nous devons nous pencher."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Je tiens à remercier les délégations pour m’avoir aidé à y voir plus clair. Ainsi que notre nouveau délégué pour avoir rendu cette dernière journée encore plus intéressante."</DefaultText>
+      <FemaleText>"Je tiens à remercier les délégations pour m’avoir aidé à y voir plus clair. Ainsi que notre nouvelle déléguée pour avoir rendu cette dernière journée encore plus intéressante."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Pallegina se penche pour chuchoter. "Ramir di Barrasc est originaire de Palminia. C'est l'un des plus brillants animanciens des Républiques de Vailia. Il a rejoint la Baie du défi il y a cinq ans car il pensait qu'elle était le centre névralgique des recherches en animancie."
+
+Dans les paroles de Pallegina et la manière dont elle regarde son compatriote, vous sentez de la fierté mêlée d'un soupçon de frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Aloth marmonne entre ses dents. "Ce qu'Azo a fait à Gram n'était pas digne d'un scientifique qui se respecte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Aloth marmonne entre ses dents. "Après la mascarade à laquelle nous avons assisté au sanatorium, je ne peux qu'être d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Le visage impassible, Pallegina regarde dans votre direction et acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Aloth secoue la tête. "Les animanciens servent leurs propres ambitions et se remplissent les poches. Leur donner ce pouvoir reviendrait à laisser un enfant jouer dans une armurerie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ces animanciens, en quête d'argent et de gloire, ne m'inspirent pas confiance. Mais s'ils réussissent à guérir nos enfants, je n'agirai pas contre eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Pallegina vous lance un regard, les sourcils plissés par l'agacement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Et qui s'en occupera ? Des charlatans comme Azo ? Ou des imbéciles comme Ethelmoer, ignorant tout ce que qui se passe entre ces murs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Pallegina laisse échapper un petit rire de surprise, "Di verus ?" Déçue, elle secoue ses plumes tout en marmonnant, "Gliente igniare..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Aloth vous fait un petit signe de la tête. "Bien dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Durance glousse. "Lors de nos voyages, vous avez gagné le cœur des gens, je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Bonne idée, Gardien ! Ne laissez pas échapper votre chance."</DefaultText>
+      <FemaleText>"Bonne idée, Gardienne ! Ne laissez pas échapper votre chance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Hah ! Mauvais pont, en effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Ces soi-disant intellectuels n’ont que faire de l’ordre naturel des choses, quittes à nous faire tous souffrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Au fond de la salle, le duc est assis sur son trône, épuisé, mais vigilant et toujours combatif.
+
+"... Eh bien, répondez à ceci, maître Barrasc. Si vous, les animanciens, représentez notre meilleur espoir pour combattre l'Héritage, quels progrès pouvez-vous démontrer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Vous pensez que c'était là le but de la machine ? Ou un malheureux effet secondaire ?" Kana frissonne. "Mais alors, pourquoi les Engwithans auraient-ils construit une telle machine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Vous regardez les poutres du plafond de la grande entrée du palais. Le bruit du métal qui s'entrechoque résonne et se mêle aux cris des blessés alors que vous titubez.
+
+Thaos a disparu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Edér se penche, la tête à l'envers pour vous voir du dessus. "Hé, vous êtes en vie !"
+
+Il vous regarde, le front plissé. "Vous pouvez bouger ? On ne devrait pas rester ici. Lorsque les Dyrwoodans se mettent en colère, ils brûlent tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Durance vous donne une petite tape avec l'extrémité de son bâton. "Debout !"
+
+Il secoue la tête. "Je ne vois pas comment vous envisagez de survivre à votre épreuve, Gardien, si le simple fait de voir votre ennemi vous fait défaillir tel un prêtre dans une maison close."
+
+"Quittons cet endroit avant que cela ne dégénère."</DefaultText>
+      <FemaleText>Durance vous donne une petite tape avec l'extrémité de son bâton. "Debout !"
+
+Il secoue la tête. "Je ne vois pas comment vous envisagez de survivre à votre épreuve, Gardienne, si le simple fait de voir votre ennemi vous fait défaillir tel un prêtre dans une maison close."
+
+"Quittons cet endroit avant que cela ne dégénère."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Aloth plane au-dessus de vous, le visage inquiet. "[Player Name], nous devons partir. Et vite." Ses yeux scrutent le couloir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"[Player Name] !" Kana Rua s'approche de vous en regardant, inquiet, autour de lui. "J'espère que vous pouvez marcher parce qu'on ne peut pas rester ici plus longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Sagani vous tapote la joue d'une main ferme, mais douce. "Debout ! La situation se corse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Pallegina se tient devant vous. Elle scrute la pièce des yeux avant de regarder vers le bas et de vous prendre la main.
+
+Ses yeux brillent d'une lumière intérieure et sa voix semble détachée.
+
+"Debout ! IMMÉDIATEMENT !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>La Mère en deuil plane au-dessus de vous, le regard apeuré. "Nous sommes cernés par des esprits en proie à la colère et à la peur. Il faut qu'on y aille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"[Player Name], on doit y aller !" Hiravias erre à vos côtés, à l'affût tout en vous tirant par vos vêtements. "Allez, il ne faut pas traîner dans le coin !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Venant du côté, vous entendez le tintement d'une cotte de mailles et notez la présence d'un garde blessé affaissé contre le mur. Visiblement, il essaie de vous dire quelque chose, mais il parle trop bas pour que vous l'entendiez. Il reprend son souffle et réussit à prononcer quelques mots.
+
+"Dame Webb. Elle est la seule... Il faut la prévenir. Elle saura que faire. Je vous en prie... Trouvez-la. Racontez-lui tout." Le garde s'évanouit et glisse sur le sol, immobile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Le témoignage du délégué s'est révélé instructif et juste, et les Chevaliers du Creuset souhaitent officiellement l'en remercier."</DefaultText>
+      <FemaleText>"Le témoignage de la déléguée s'est révélé instructif et juste, et les Chevaliers du Creuset souhaitent officiellement l'en remercier."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"C'est la personne la plus sage de la salle, selon moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Notre nouveau délégué a tenu de sages propos. J'espère que vous saurez les entendre, Votre Grâce."</DefaultText>
+      <FemaleText>"Notre nouvelle déléguée a tenu de sages propos. J'espère que vous saurez les entendre, Votre Grâce."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Aloth marmonne entre ses dents. "Comment pouvez-vous le tenir pour responsable ? Vous avez vu l'état du sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>L'esprit de la Mère en deuil s'approche du vôtre. "Remédiez au chaos qui règne ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Vous avez raison, Gardien. Hélas, je crains que cela ne trouve aucun écho ici..."</DefaultText>
+      <FemaleText>"Vous avez raison, Gardienne. Hélas, je crains que cela ne trouve aucun écho ici..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"L'heure est venue de choisir une orientation pour Dyrwood. Je suis prêt à faire ma déclaration."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

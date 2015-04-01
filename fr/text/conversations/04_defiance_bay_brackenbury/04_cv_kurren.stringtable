@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_kurren</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Qu'est-ce qui vous amène au Rang de Dunryd ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kurren s'affaire avec la montagne de parchemins qui se dresse devant lui. "Rebonjour, mon mystérieux ami."</DefaultText>
+      <FemaleText>Kurren s'affaire avec la montagne de parchemins qui se dresse devant lui. "Rebonjour, ma mystérieuse amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kurren dresse l'oreille. "Vous avez des nouvelles, peut-être ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"C'est toujours un plaisir de rencontrer quelqu'un d'intelligent." Il se remet à trier les parchemins posés sur la table. "Il doit être quelque part par ici?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>En vous voyant, les oreilles de Kurren s'aplatissent. "Pas la fille de Reymont. Elle est folle et sa chevalière a disparu, oui, mais elle n'est pas sortie de chez elle depuis des semaines." Il fronce le nez. "Elle reste là sans rien faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Visiblement, vous auriez bien besoin d'un peu d'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Une affaire ou trois, tout dépend comment on regarde les choses." Il tapote ses doigts griffus."Trois semaines et une disparition à la fin de chacune. Pour certains, il pourrait s'agir d'une coïncidence. Mais pour moi, c'est un indice."
+
+"Dame Webb vous connaît. Elle vous fait confiance. Alors, moi aussi, je vais vous faire confiance… Tant que nous aurons des intérêts communs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je vais voir ça. Par où dois-je commencer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ils ont tous été assassinés. Une certaine Lumdala les a tués lors de ses spectacles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Il siffle."Quelque chose d'énorme, je le savais ! Je vais immédiatement envoyer mes hommes à ses trousses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oui, vous avez parcouru la Baie du défi depuis notre dernière rencontre." Ses yeux vifs vous scrutent. "Qu'avez-vous découvert ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous avez peut-être le temps de m'aider ?" Il se frotte les mains. "Je n'aime pas l'idée qu'une piste comme celle-ci puisse être écartée. À part le Rang de Dunryd, je n'ai que très peu de personnes vers qui me tourner, mais vous êtes quelqu'un de confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tant de secrets et de pistes dans cette ville. Partout, on entend parler de vols… de disparitions." Il se touche l'oreille. "Hélas, nous n'avons pas le temps d'enquêter sur tous ces délits."
+
+"Je suis censé travailler sur d'autres affaires, mais mon esprit s'attarde sur quelques cas récents. La malédiction du clairvoyant… être en proie à la curiosité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Parlez-moi de ces différentes affaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pourquoi ne pouvez-vous pas enquêter sur ces affaires ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Il se touche à nouveau l'oreille. "Question de priorités, selon dame Webb. Les problèmes se multiplient à la Baie du défi ces temps-ci et ne limitent pas à quelques disparitions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Il sourit laissant apparaître des dents pointues. "Copperlane, la Faveur d'Ondra et Brackenbury, bien sûr. Pour parler à ceux qui ont signalé ces disparitions. Les seuls à en savoir suffisamment pour s'en soucier. Lora, Oly et Elcga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Qui a disparu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Avez-vous trouvé des indices ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Deux hommes et une femme. Lendry, Kendal et Kora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Il vaut mieux interroger Oly. Visiblement, ils auraient bu un verre ensemble au Mât salé de la Faveur d'Ondra et personne ne le connaissait suffisamment pour s'inquiéter de sa disparition." Une de ses oreilles se contracte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Pas encore. Les victimes n'ont aucun lien et c'est ce qui m'interpelle." Il passe la main le long de son oreille. "Cela pourrait avoir un rapport avec l'animancie. Les chercheurs ont sans cesse besoin de cobayes. Les moins scrupuleux, notamment." Il marque une pause, en pleine concentration. "Cela semble trop risqué pour le sanatorium, mais on ne sait jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Il agite la main. "Commencez par interroger les personnes qui ont signalé la disparition de nos victimes. Vous mettrez peut-être le doigt sur quelque chose qui aurait pu m'échapper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Permettez-moi de vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Oui, je vous en prie." Il vous regarde avec curiosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Donnez-lui la chevalière de Reymont.] "Ils ont tous été assassinés. Linete Reymont en est responsable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"J'ai trouvé les personnes portées disparues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"C'est trop tard. Elle s'en est prise à moi avant même que je revienne vous voir, et je l'ai tuée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Il fallait mettre fin à ces abominables crimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous avez brillamment mené cette enquête et votre perspicacité nous a permis de résoudre une affaire particulièrement délicate. Et de sauver des vies, j'en suis certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Kurren prend la chevalière et l'examine de plus près. "C'est bien la sienne. Et cela fait..." Il ferme les yeux. "Des endroits obscurs. Des endroits froids. Des endroits morts." Il rouvre les yeux. "Excellent travail. Avec cet indice, je vais pouvoir la convoquer et l'interroger pour obtenir l'histoire dans ses moindres détails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vraiment ?" Kurren sourit à pleines dents. "Je ne peux pas dire que je sois vraiment désolé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"À propos de mon paiement?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Haussez les épaules.] "Je vais m'en aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Kurren sourit. "J'apprécie votre zèle. Prenez ceci en guise de paiement pour vos services."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bien sûr. Vous m'avez épargné bien du travail. Tenez, c'est pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Travailler avec vous est un plaisir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Cela n'a pas été facile de trouver ces gens. Je mérite plus pour mon aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Attendez ?" Kurren pose la main sur votre bras. "Après tout ce que vous avez fait pour nous, vous méritez bien quelque chose. Tenez. C'est pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je n'attends rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Merci pour votre générosité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Pareillement. Au revoir et bonne chance pour la suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je suis autorisé à vous donner un peu plus." Kurren se gratte derrière une oreille. "Sans votre aide, cette affaire n'aurait pas été résolue avant un bon moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Kurren acquiesce. "Merci pour votre aide. Le Rang de Dunryd et moi même saurons nous en souvenir. Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ses yeux s'écarquillent. "C'est très généreux de votre part. Le Rang de Dunryd saura s'en souvenir… Tout comme moi." Kurren vous serre la main. "Si vous aimez les longues enquêtes en échange d'un maigre salaire, sachez que vous pouvez rejoindre le Rang de Dunryd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Parlez-moi de Lendry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Parlez-moi de Kendal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Parlez-moi de Kora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Sa disparition a été signalée par Elcga, une naine attirée par..." Il ferme les yeux et renifle l'air. "Le bon vin et les jeunes élégants. Avec beaucoup de temps et d'argent à consacrer à ses plaisirs. Essayez Brackenbury."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"C'est la sœur de Lora, une des marchandes du bazar de Copperlane. Ce n'est pas le genre de personne à disparaître comme ça, visiblement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ce n'est pas nécessaire. Elle s'en est prise à moi avant même que je revienne vous voir, et je l'ai tuée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Les oreilles de Kurren se serrent contre sa tête. "Vraiment dommage. Elle a emporté avec elle de précieuses informations, c'est certain. Cela étant, je vais voir ce que je peux trouver. De tels crimes laissent toujours des traces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"J'ai pris plaisir à vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Moi aussi. Après tout ce que vous avez fait pour nous, vous méritez une récompense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Parlez-moi de vos compétences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"J'étudie les liens entre les âmes. Je cherche les choses perdues, disparues ou gênantes. Notamment lorsque des personnes puissantes et influentes sont concernées."
+
+"Je suis clairvoyant. À Eir Glanfath, on nous appelait autrefois brishalgwin. « Chasseurs d'esprit »... Joli titre, oui, mais ce n'est que lorsque les animanciens ont commencé à travailler avec mes congénères, il y a quarante ans, que nous avons vraiment compris notre pouvoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Montrez-lui la déclaration écrite sous serment de Penhelm.] "Cette déclaration écrite sous serment est-elle authentique ? Elle porte votre signature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText> Il prend le document, mais semble regarder entre les mots, comme si quelque chose était inscrit en filigrane sur le papier. 
+
+Kurren découvre ses dents pointues. "Je me souviens de Penhelm. Un homme fier comme un paon, à la bouche sèche et aux mains moites lorsque je lui ai dit que son âme descendait d'un général Aedyran. Un général qui avait participé à la rébellion d'Hadret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>L'orlan est entouré de livres et de parchemins. Ses cheveux rêches sont incroyablement longs et il tend l'oreille en vous entendant approcher. "Vous avez des nouvelles. Caed Nua, Vallée dorée. D'anciennes voix, en effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Comment le saviez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"De quoi est-ce que vous parlez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous devez vous tromper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>L'orlan sourit, révélant une rangée de dents particulièrement pointues. "En tant que clairvoyant, je sais ce genre de choses. Vous portez l'odeur des anciens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je n'apprécie guère cette intrusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Que pouvez-vous me dire d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Ses oreilles se contractent vers le bas. "Pas autant que je le souhaiterais, hélas. Mon travail pour dame Webb implique que je concentre mes talents ailleurs." Il regarde une table couverte de parchemins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Ses oreilles se contractent vers le bas. "Heureusement pour vous, mon travail pour dame Webb implique que je concentre mes talents ailleurs." Il regarde une table couverte de parchemins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Nous sommes les meilleurs détectives au monde. En explorant les âmes, il nous suffit de regarder quelqu'un pour connaître ses déplacements. Ou d'examiner une arme pour savoir qui l'a utilisée."
+
+Son nez se contracte alors qu'il vous regarde. "C'est utile pour élucider des crimes, comme vous pouvez l'imaginer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Certains riches clients paient pour assister à des spectacles au cours desquels des acteurs sont assassinés. Au premier rang desquels le seigneur Gaderman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Beaucoup, en fait. Une certaine Lumdala organise des spectacles au cours desquels des acteurs sont assassinés. Le seigneur Gaderman est un de ses plus fidèles clients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Il siffle. "Quelque chose d'énorme, je le savais ! Je vais immédiatement envoyer mes hommes à ses trousses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Il siffle. "Quelque chose d'énorme, je le savais ! Je vais immédiatement envoyer mes hommes à leurs trousses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"C'est trop tard. Il est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"La situation s'est compliquée, je le crains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Le front de Kurren se plisse. "Vraiment dommage. Il aurait certainement pu nous fournir de nombreux… et précieux indices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Le front de Kurren se plisse. "Vraiment dommage. Ils auraient certainement pu nous fournir de nombreux... et précieux indices."
+
+"Nous allons devoir nous débrouiller avec... ce qu'il vous reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Vous êtes clairvoyant comme moi, si je ne m'abuse ?"</DefaultText>
+      <FemaleText>"Vous êtes clairvoyant comme moi, si je ne m'abuse ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Il sourit, révélant une rangée de dents particulièrement pointues. "Vous devinez ce qu'il vous faut savoir. Mes modestes talents me disent que vous avez de redoutables talents. Ils nous seraient fort utiles ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Ses oreilles se contractent vers le bas. "Quel dommage que mon travail pour dame Webb implique que je concentre mes talents ailleurs." Il regarde une table couverte de parchemins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"J'ai des questions à vous poser sur ces disparitions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Il acquiesce. "Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je ne manquerai pas de vous tenir au courant. Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Qu'est-ce qui vous occupe tant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Ses petites mains velues manipulent les papiers qui se trouvent devant lui. "Les sans-âmes, l'agitation croissante et les intrigues politiques omniprésentes. Face à tous ces sans-âmes, les personnes portées disparues sont le cadet de nos soucis en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Kurren agite un doigt griffu. "Malheureusement, je ne suis pas autorisé à parler de ce que je fais. Si ce n'est avec le Rang de Dunryd. Un civil doit avoir la confiance de dame Webb pour que je partage avec lui ce genre d'informations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je n'ai pas le temps pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oui, bien sûr." Il se frotte les mains. "Si vous changez d'avis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Un lien, oui ! J'en suis certain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Il consulte la déclaration écrite sous serment. "Cette déclaration est fausse, et ce n'est pas la première que je vois." Il vous la rend. "Mais je n'ai pas de temps pour les Chevaliers et leurs obsessions."
+
+"Apportez cela au commandant Clyver et montrez-lui le sceau." Il désigne le sceau en cire à côté de sa signature contrefaite. "En la comparant avec une autre, il verra tout de suite la différence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Les indices désignaient une certaine Lumdala, mais elle est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Son front se plisse. "Malheureusement, nous ne connaîtrons jamais son degré d'implication. Cela clôturera cette affaire, même si ce n'est pas idéal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Il est déjà mort, alors il sera facile à trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je suis ici sur invitation de dame Webb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Kurren penche la tête sur le côté comme pour tenter de mieux vous voir.
+
+"Pardonnez-moi. Les rares visiteurs qu'elle reçoit sont plus fascinants les uns que les autres." 
+
+"Ses choix n'ont de cesse de me ravir. Rien à voir avec moi, mais son regard est bien plus vif que le mien. Je me demande ce qu'elle voit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText> "Sa chambre se trouve à l'étage. Des gardes y sont postés. La ville ne l'apprécie peut-être pas à sa juste valeur, mais le duc, si."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ce n'est pas tout. Lumdala avait un associé appelé Kadal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Vraiment ? Alors, je veillerai à ce qu'il soit traduit en justice. Merci encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Le regard d'Aloth se porte sur vous. "Condamner un homme pour l'âme dont les dieux l'ont affublé ? Ce n'est pas juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Sagani se redresse. "Comme un de ces romans de série noire vailiens. J'en ai lu quelques-uns sur la route. Ça fait passer le temps !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Aloth croise les bras. "Ils en sont bien capables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[Montrez-lui le soleil en acier.] "J'aimerais retrouver un homme qui aurait pu toucher cet objet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Il le regarde et ses oreilles se contractent avec intérêt. "À partir d'un étendard de guerre, oui ? De Readceras ?"
+
+"Oui, je crois pouvoir faire quelque chose. L'empreinte n'est pas récente, mais elle est relativement bien conservée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Si vous cherchez quelqu'un, votre étrange don pourrait vous être utile. Les images ne sont pas toujours très nettes et votre cible sera plus facile à identifier par sa signature d'âme."
+
+"Je vous dirai ce que je vois. Et ce sera à vous d'y donner un sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Pardonnez mon incursion dans votre esprit. C'est pour la bonne cause !"
+
+Il vous prend par une main et tient le soleil en acier dans l'autre. "Et maintenant, libérez votre esprit des pensées qui l'habitent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"C'est la sœur de Lora, une des marchandes du bazar de Copperlane. Ce n'est pas le genre de personne à disparaître comme ça, visiblement."
+
+"Lora était désespérée. Je pense que la visite de quelqu'un de compatissant lui fera le plus grand bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Il vaut mieux interroger Oly. Visiblement, ils auraient bu un verre ensemble au Mât salé de la Faveur d'Ondra et personne ne le connaissait suffisamment pour s'inquiéter de sa disparition." Une de ses oreilles se contracte.
+
+"Comme vous, c'est quelqu'un de silencieux. Le faire parler ne sera pas une mince affaire. À moins de le faire boire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Les oreilles de Kurren se dressent vers l'entrée au son de votre approche. Il se tourne vers vous en sursautant.
+
+Il soupire en vous reconnaissant, la main étreignant son cœur. "J'ai cru que vous étiez un pillard.
+
+"J'ai bien peur que vous arriviez trop tard si vous venez solliciter l'aide du Rang de Dunryd. Il ne reste que moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Je pensais que vous étiez mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Pas encore." Il considère les traces de lutte autour de lui.
+
+"J'étais sorti acheter de la nourriture lorsque tout cela est arrivé. Je suis arrivé peu après."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je voudrais encore rassembler quelques effets, des papiers, essentiellement. Certaines affaires que je ne veux pas abandonner, même si je suis le dernier à présent.
+
+"Je partirai bien assez tôt. Je suppose qu'ils vont essayer de me pourchasser. Mais c'est... difficile de quitter tout ça. Dame Webb, elle... travaillait tant pour cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Les oreilles de Kurren se dressent vers l'entrée au son de votre approche ; il se tourne vers vous en sursautant.
+
+"Je vous ai déjà vu auparavant. Vous travailliez avec Dame Webb." Il soupire, la main sur le cœur. "J'ai cru que vous étiez un pillard."
+
+"J'ai bien peur que vous arriviez trop tard si vous venez solliciter l'aide du Rang de Dunryd. Il ne reste que moi."</DefaultText>
+      <FemaleText>Les oreilles de Kurren se dressent vers l'entrée au son de votre approche ; il se tourne vers vous en sursautant.
+
+"Je vous ai déjà vu auparavant. Vous travailliez avec Dame Webb." Il soupire, la main sur le cœur. "J'ai cru que vous étiez une pillarde."
+
+"J'ai bien peur que vous arriviez trop tard si vous venez solliciter l'aide du Rang de Dunryd. Il ne reste que moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Kurren sourit avec gravité." "Oui ? En quoi puis-je vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Il siffle. "Quelque chose de gros, je le savais ! Je m'en occupe immédiatement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Nous avions des fonds modestes pour les indépendants qui travaillaient avec nous. Il n'y a plus de raison de les garder maintenant. Sans votre aide, cela n'aurait pas été élucidé, comme tant d'autres que nous ne résoudrons jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

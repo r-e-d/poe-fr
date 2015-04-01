@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_sanitarium_wicht_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dans un coin du laboratoire de Moedred se trouve une imposante malle patinée. Elle semble renfermer quelque chose d'important, notamment en raison de sa taille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Examinez la malle de plus près.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ouvrez la malle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ne touchez pas à la malle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Déverrouillez la malle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Rien n'attire votre attention, si ce n'est le gros cadenas situé sur sa partie avant. Quoi que cet animancien y conserve, il ne veut pas que quelqu'un d'autre le voit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>L'absence de poussière à la surface de la malle et les longues rayures sur le sol carrelé indiquent que cette malle est régulièrement utilisée et déplacée dans le laboratoire malgré sa grande taille. 
+
+Les bords de la malle présentent d'étroites entailles. Elles ressemblent à des griffures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>La malle s'ouvre, vidée de son obscur contenu. Elle ne renferme que quelques morceaux de tissu et un os de rat rongé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Un gros cadenas ferme la malle. Il est trop solide pour être forcé et les mécanismes trop compliqués pour être crochetés. Vous allez devoir trouver la clé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous prenez la clé récupérée auprès d'Helig et l'insérez dans le cadenas. Elle s'y introduit à la perfection et tourne avec un bruit sourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>La malle ne contient ni grimoires ni trésors... Mais vous y découvrez le regard sauvage et la gueule aux dents saillantes d'une monstrueuse créature. Sa forme humanoïde n'est plus qu'angles osseux et terribles griffes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>En y regardant de plus près, vous reconnaissez la vague silhouette d'une jeune fille à la peau grisâtre sous ces os déformés et allongés. La créature grogne et sort de la malle avant de se diriger non pas vers vous, mais vers Moedred. Moedred n'a pas le temps de crier qu'elle lui saute à la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>En y regardant de plus près, vous reconnaissez la vague silhouette d'une jeune fille à la peau grisâtre sous ces os déformés et allongés. La créature grogne et bondit hors de la malle, toutes griffes dehors.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

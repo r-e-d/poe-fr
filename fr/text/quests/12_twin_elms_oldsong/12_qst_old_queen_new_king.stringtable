@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_old_queen_new_king</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'ancienne reine et le nouveau roi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rejoignez la gueule en pierre de la vision de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez la lionne à la Gueule de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sortez Sul et Oernos de l'impasse dans laquelle ils se trouvent à la Gueule de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez auprès de Galawain à Teir Evron, aux Ormes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez auprès de Desthwn à l'entrée de la Gueule de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Trouvez un moyen de prier Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Deux puissants prédateurs, une lionne et un ours, sont dans l'impasse. Ils s'observent, mais n'ont pas encore attaqué. Il m'incombe de régler ce conflit d'une manière ou d'une autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>En vision, Galawain m'a montré une lionne qui attend et un ours qui lui tourne autour.
+
+Il m'a aussi montré une grotte dont l'entrée ressemble à la gueule d'un loup, aux environs d'un temple. Je dois pouvoir y apprendre davantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le plus puissant prédateur d'Eir Glanfath vit traditionnellement dans un endroit appelé Gueule de Galawain. Sul, une vieille lionne, tient cette position depuis des lustres. Mais récemment, un grand ours du nom d'Oernos est venu la défier. Sul reste dans son repaire et refuse d'affronter son adversaire.
+
+Sans combat pour résoudre cette affaire, les Fangs ne savent point la quelle des deux bêtes est le légitime champion. Desthwn, leur chef, espère que je pourrais persuader Sul de relever le défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Irensî a expliqué que Sul mérite l'avantage qu'elle a acquis avec la Gueule  et que n'importe quel chasseur en ferait de même. Si Oernos veut s'emparer de sa place, il devra l'affronter dans son repaire.
+
+En outre, Sul a récemment donné naissance à des lionceaux qui pourraient un jour devenir plus puissants que toute autre bête.
+
+Si aucune des bêtes ne s'approche de l'autre, je vais devoir régler cette affaire par moi-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai sorti ces bêtes de l'impasse. Je peux maintenant recevoir ma bénédiction de la part du dieu Chercheur en personne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai sorti ces bêtes de l'impasse. Desthwn appréciera d'en connaître l'issue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai sorti les bêtes de l'impasse. Desthwn est mort, mais il semble que mes actes aient fini par servir Galawain. Il y a peut-être un moyen d'obtenir la faveur du dieu Chercheur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Einden, un barbare qui soutient Oernos, a indiqué que la présence de Sul violait les principes de Galawain. Il estime qu'elle doit être chassée, coûte que coûte. Le laxisme est source de stagnation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Einden pense que Sul doit être éliminée, à défaut d'affronter ouvertement Oernos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Irensî pense que Sul et ses lionceaux offriront le plus bel héritage à la Gueule de Galawain. Si Oernos n'est pas assez fort pour affronter Sul là où elle se trouve, c'est qu'elle ne pense pas qu'il est le vrai champion. Elle veut qu'il soit éliminé, coûte que coûte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Desthwn m'a suggéré de me tourner vers le dieu Chercheur pour obtenir une faveur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Il semble que les deux camps accepteraient de s'affronter sous certaines conditions. Irensî a indiqué que Sul serait prête à accepter si ses lionceaux pouvaient, en toute sécurité, rejoindre les autres lions. Oernos pourrait alors affronter Sul à l'arrière de la Gueule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>L'endroit de la vision correspond à un temple d'Oldsong appelé 'la Gueule'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai rejoint la Gueule. Ces bêtes ne devraient pas être trop difficiles à trouver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Desthwn m'a donné sa bénédiction pour tuer une des bêtes. Les Fangs accepteront l'autre comme champion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai soutenu Sul en tant que championne légitime de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai soutenu Oernos en tant que nouveau champion de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué Sul et Oernos. Maintenant, n'importe quelle bête d'Eir Glanfath pourra prétendre à élire domicile dans la Gueule de Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai persuadé les deux camps d'autoriser un combat entre les deux prédateurs. C'était le seul moyen de désigner le véritable champion.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
