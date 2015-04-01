@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0} {1} {2} pour {3} {4} de dégâts {5}.</DefaultText>
+      <DefaultText>{0} touche {2} pour {3} dégâts {4} ({1}). {5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>{0} {1} {2} pour {3} de dégâts en désengagement {4}.</DefaultText>
+      <DefaultText>{0} touche {2} pour {3} de dégâts {4} en désengagement ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,37 +351,37 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Entailler</DefaultText>
+      <DefaultText>Tranchant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Écraser</DefaultText>
+      <DefaultText>Contondant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Transpercer</DefaultText>
+      <DefaultText>Perforant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Brûler</DefaultText>
+      <DefaultText>de Feu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Geler</DefaultText>
+      <DefaultText>de Froid</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Frapper</DefaultText>
+      <DefaultText>d'Electricité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Corroder</DefaultText>
+      <DefaultText>d'Acide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4115,37 +4115,37 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>entailles</DefaultText>
+      <DefaultText>tranchant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>écrasement</DefaultText>
+      <DefaultText>contondant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>perforation</DefaultText>
+      <DefaultText>perforant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>brûlure</DefaultText>
+      <DefaultText>de Feu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>glace</DefaultText>
+      <DefaultText>de Froid</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>frappe</DefaultText>
+      <DefaultText>d'Electricité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>corrosion</DefaultText>
+      <DefaultText>d'Acide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6675,7 +6675,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>{0} de dégâts</DefaultText>
+      <DefaultText>de dégâts {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
