@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1824</EntryCount>
+  <EntryCount>1823</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10077,7 +10077,7 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1751</ID>
-      <DefaultText>Donne l'impression que le lanceur ne se trouve plus à la même place et lui accorde un bonus aux scores de Déviation et de Réflexe pour la durée d'effet de la potion.</DefaultText>
+      <DefaultText>Donne l'impression que le lanceur ne se trouve plus à la même place et lui accorde un bonus aux scores de Déviation et de Réflexes pour la durée d'effet de la potion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10806,11 +10806,6 @@ Lorsque Aedwyn mourut dans l'ignorance, la lame passa dans les mains d'une jeune
     </Entry>
     <Entry>
       <ID>1892</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1893</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

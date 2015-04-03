@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1929</EntryCount>
+  <EntryCount>1937</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -157,11 +157,11 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>Verrouillé !</DefaultText>
-      <FemaleText />
+      <FemaleText>Verrouillée !</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Cliaban Ruillaig</DefaultText>
+      <DefaultText>Clîaban Rilaig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Réflexe</DefaultText>
+      <DefaultText>Réflexes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,22 +317,22 @@
     <Entry>
       <ID>62</ID>
       <DefaultText>Non blessé</DefaultText>
-      <FemaleText />
+      <FemaleText>Non blessée</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Légèrement blessé</DefaultText>
-      <FemaleText />
+      <FemaleText>Légèrement blessée</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>Blessé</DefaultText>
-      <FemaleText />
+      <FemaleText>Blessée</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
       <DefaultText>Gravement blessé</DefaultText>
-      <FemaleText />
+      <FemaleText>Gravement blessée</FemaleText>
     </Entry>
     <Entry>
       <ID>66</ID>
@@ -417,7 +417,7 @@
     <Entry>
       <ID>82</ID>
       <DefaultText>Humain</DefaultText>
-      <FemaleText />
+      <FemaleText>Humaine</FemaleText>
     </Entry>
     <Entry>
       <ID>83</ID>
@@ -427,7 +427,7 @@
     <Entry>
       <ID>84</ID>
       <DefaultText>Nain</DefaultText>
-      <FemaleText />
+      <FemaleText>Naine</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -437,17 +437,17 @@
     <Entry>
       <ID>86</ID>
       <DefaultText>Orlan</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlane</FemaleText>
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Divin</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>Humains</DefaultText>
-      <FemaleText />
+      <FemaleText>Humaines</FemaleText>
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -457,7 +457,7 @@
     <Entry>
       <ID>90</ID>
       <DefaultText>Nains</DefaultText>
-      <FemaleText />
+      <FemaleText>Naines</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -467,12 +467,12 @@
     <Entry>
       <ID>92</ID>
       <DefaultText>Orlans</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlanes</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>Divins</DefaultText>
-      <FemaleText />
+      <FemaleText>Divines</FemaleText>
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -832,7 +832,7 @@
     <Entry>
       <ID>165</ID>
       <DefaultText>Renversé</DefaultText>
-      <FemaleText />
+      <FemaleText>Renversée</FemaleText>
     </Entry>
     <Entry>
       <ID>166</ID>
@@ -1202,42 +1202,42 @@
     <Entry>
       <ID>239</ID>
       <DefaultText>Nain des montagnes</DefaultText>
-      <FemaleText />
+      <FemaleText>Naine des montagnes</FemaleText>
     </Entry>
     <Entry>
       <ID>240</ID>
       <DefaultText>Nain austral</DefaultText>
-      <FemaleText />
+      <FemaleText>Naine australe</FemaleText>
     </Entry>
     <Entry>
       <ID>241</ID>
       <DefaultText>Divin de la mort</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine de la mort</FemaleText>
     </Entry>
     <Entry>
       <ID>242</ID>
       <DefaultText>Divin du feu</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine du feu</FemaleText>
     </Entry>
     <Entry>
       <ID>243</ID>
       <DefaultText>Divin de la lune</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine de la lune</FemaleText>
     </Entry>
     <Entry>
       <ID>244</ID>
       <DefaultText>Orlan du foyer</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlane du foyer</FemaleText>
     </Entry>
     <Entry>
       <ID>245</ID>
       <DefaultText>Orlan sauvage</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlane sauvage</FemaleText>
     </Entry>
     <Entry>
       <ID>246</ID>
       <DefaultText>Aumaua côtier</DefaultText>
-      <FemaleText />
+      <FemaleText>Aumaua côtière</FemaleText>
     </Entry>
     <Entry>
       <ID>247</ID>
@@ -1252,7 +1252,7 @@
     <Entry>
       <ID>249</ID>
       <DefaultText>Combattant</DefaultText>
-      <FemaleText />
+      <FemaleText>Combattante</FemaleText>
     </Entry>
     <Entry>
       <ID>250</ID>
@@ -1262,12 +1262,12 @@
     <Entry>
       <ID>251</ID>
       <DefaultText>Prêtre</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse</FemaleText>
     </Entry>
     <Entry>
       <ID>252</ID>
       <DefaultText>Magicien</DefaultText>
-      <FemaleText />
+      <FemaleText>Magicienne</FemaleText>
     </Entry>
     <Entry>
       <ID>253</ID>
@@ -1277,12 +1277,12 @@
     <Entry>
       <ID>254</ID>
       <DefaultText>Rôdeur</DefaultText>
-      <FemaleText />
+      <FemaleText>Rôdeuse</FemaleText>
     </Entry>
     <Entry>
       <ID>255</ID>
       <DefaultText>Druide</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse</FemaleText>
     </Entry>
     <Entry>
       <ID>256</ID>
@@ -1292,22 +1292,22 @@
     <Entry>
       <ID>257</ID>
       <DefaultText>Moine</DefaultText>
-      <FemaleText />
+      <FemaleText>Moniale</FemaleText>
     </Entry>
     <Entry>
       <ID>258</ID>
       <DefaultText>Clairvoyant</DefaultText>
-      <FemaleText />
+      <FemaleText>Clairvoyante</FemaleText>
     </Entry>
     <Entry>
       <ID>259</ID>
       <DefaultText>Chanteur</DefaultText>
-      <FemaleText />
+      <FemaleText>Chanteuse</FemaleText>
     </Entry>
     <Entry>
       <ID>260</ID>
       <DefaultText>Divin de la nature</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine de la nature</FemaleText>
     </Entry>
     <Entry>
       <ID>261</ID>
@@ -1612,17 +1612,17 @@
     <Entry>
       <ID>322</ID>
       <DefaultText>Faunal</DefaultText>
-      <FemaleText />
+      <FemaleText>Faunale</FemaleText>
     </Entry>
     <Entry>
       <ID>323</ID>
       <DefaultText>Géant</DefaultText>
-      <FemaleText />
+      <FemaleText>Géante</FemaleText>
     </Entry>
     <Entry>
       <ID>324</ID>
       <DefaultText>Mort-vivant</DefaultText>
-      <FemaleText />
+      <FemaleText>Morte-vivante</FemaleText>
     </Entry>
     <Entry>
       <ID>325</ID>
@@ -1651,7 +1651,7 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>Impact</DefaultText>
+      <DefaultText>Coup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1887,7 +1887,7 @@
     <Entry>
       <ID>379</ID>
       <DefaultText>Supprimé</DefaultText>
-      <FemaleText />
+      <FemaleText>Supprimée</FemaleText>
     </Entry>
     <Entry>
       <ID>380</ID>
@@ -2017,7 +2017,7 @@
     <Entry>
       <ID>405</ID>
       <DefaultText>Plein</DefaultText>
-      <FemaleText />
+      <FemaleText>Pleine</FemaleText>
     </Entry>
     <Entry>
       <ID>406</ID>
@@ -2136,7 +2136,7 @@
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>Monstre</DefaultText>
+      <DefaultText>Bête</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2221,7 +2221,7 @@
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Attaques {0}</DefaultText>
+      <DefaultText>Attaque {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2448,7 +2448,7 @@ Instincts de chasseur - Les nains australs bénéficient de 15 points de préci
       <ID>488</ID>
       <DefaultText>Les divins de la mort inspirent plus de méfiance que les autres divins. Les étranges excroissances qui couvrent leurs yeux, et parfois même leur visage, leur donnent un air menaçant. Transparentes pour les divins, ces excroissances masquent leurs traits pour les autres. Les divins de la mort sont souvent tués à la naissance car de nombreuses cultures considèrent qu'ils portent malheur. 
 
-Vecteur de mort - Lorsque les divins de la mort attaquent un ennemi dont la résistance est inférieure ou égale à 25 %, les dégâts infligés sont accrus.</DefaultText>
+Vecteur de mort - Lorsque les divins de la mort attaquent un ennemi dont la résistance est inférieure ou égale à 15 %, les dégâts infligés sont accrus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3585,7 +3585,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>709</ID>
-      <DefaultText>Non disponible</DefaultText>
+      <DefaultText>Occupé(e)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4620,7 +4620,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>916</ID>
-      <DefaultText>Scarabées de bois et araignées lancières </DefaultText>
+      <DefaultText>Scarabées de bois et araignées lancières</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5150,7 +5150,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1024</ID>
-      <DefaultText>On Attack: {0}</DefaultText>
+      <DefaultText>Lors d'une attaque : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5605,7 +5605,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>{0} {1} de dégâts</DefaultText>
+      <DefaultText>{0} de dégâts {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5625,7 +5625,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1119</ID>
-      <DefaultText>Impossible à prendre pour cible</DefaultText>
+      <DefaultText>Cible impossible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5665,7 +5665,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} {1} de dégâts</DefaultText>
+      <DefaultText>{0} de dégâts {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5695,7 +5695,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>{0} {1} de dégâts par blessure</DefaultText>
+      <DefaultText>{0} de dégâts {1} par blessure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5790,7 +5790,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1152</ID>
-      <DefaultText>{0}-pt d'effet de bouclier</DefaultText>
+      <DefaultText>{0}-pt Bouclier de stase</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5825,7 +5825,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1159</ID>
-      <DefaultText>Faire apparaître une arme : {0}</DefaultText>
+      <DefaultText>Invoquer une arme : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5875,7 +5875,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1169</ID>
-      <DefaultText>{0} de précision, déviation et réflexe contre les ennemis distants</DefaultText>
+      <DefaultText>{0} de précision, déviation et réflexes contre les ennemis distants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5885,7 +5885,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>{0} de portée critique en cas d'attaque de la même cible qu'un allié</DefaultText>
+      <DefaultText>{0} de coups convertis en coups critiques en cas d'attaque de la même cible qu'un allié</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5895,7 +5895,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>{0} de portée coups critiques/coups des ennemis attaquants</DefaultText>
+      <DefaultText>{0} de coups critiques des ennemis attaquant convertis en coups</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5905,12 +5905,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1175</ID>
-      <DefaultText>{0} de portée coups/écorchures contre les ennemis attaquant Déviation ou Réflexes</DefaultText>
+      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (Déviation ou Réflexes)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>{0} de portée coups/écorchures contre les ennemis attaquant Courage ou Volonté</DefaultText>
+      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (Courage ou Volonté)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5960,7 +5960,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1186</ID>
-      <DefaultText>Riposter en cas d'impact par une attaque de mêlée</DefaultText>
+      <DefaultText>Riposter en cas d'attaque de mêlée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6000,12 +6000,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>{0} de défense en cas d'assommement</DefaultText>
+      <DefaultText>{0} de défense pendant un assommement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>{0} de défense en cas de renversement</DefaultText>
+      <DefaultText>{0} de défense pendant un renversement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6035,37 +6035,37 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>{0} de portée écorchures/coups</DefaultText>
+      <DefaultText>{0} d'écorchures converties en coups</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Les attaques peuvent assommer en cas de coup critique</DefaultText>
+      <DefaultText>Les coups critiques peuvent assommer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>{0} de portée écorchures/échec</DefaultText>
+      <DefaultText>{0} d'écorchures converties en échecs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>{0} de portée coups critiques/coups</DefaultText>
+      <DefaultText>{0} de coups critiques convertis en coups</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>{0} de portée échecs/écorchures</DefaultText>
+      <DefaultText>{0} d'échecs convertis en écorchures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} de portée coups/coups critiques</DefaultText>
+      <DefaultText>{0} de coups convertis en coups critiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>{0} de portée échecs/écorchures</DefaultText>
+      <DefaultText>{0} d'échecs convertis en écorchures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6100,7 +6100,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>{0} de portée écorchures/échecs contre les ennemis attaquant Réflexe</DefaultText>
+      <DefaultText>{0} d'écorchures des ennemis attaquant converties en échecs (Réflexes)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6120,7 +6120,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>{0} {1} de dégâts progressifs en cas d'impact</DefaultText>
+      <DefaultText>{0} de dégâts progressifs {1} en cas d'impact</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6225,7 +6225,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>{0} de portée coups/écorchures de l'attaquant</DefaultText>
+      <DefaultText>{0} de coups convertis en écorchures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6325,7 +6325,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>{0} de défense en cas de désengagement</DefaultText>
+      <DefaultText>{0} de défense en désengagement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6365,7 +6365,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>{0} d'effet de zone de chant</DefaultText>
+      <DefaultText>{0} d'effet de zone d'incantation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6450,12 +6450,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1284</ID>
-      <DefaultText>Arche adra</DefaultText>
+      <DefaultText>Arche d'adra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1285</ID>
-      <DefaultText>Piliers adra</DefaultText>
+      <DefaultText>Piliers d'adra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6825,7 +6825,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1359</ID>
-      <DefaultText>En excluant la cible principale </DefaultText>
+      <DefaultText>En excluant la cible principale</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7020,7 +7020,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1398</ID>
-      <DefaultText>La compétence Connaissance englobe les divers savoirs acquis par le personnage, souvent dans les domaines occultes ou ésotériques. En dehors des conversations et interactions scriptées, la connaissance est utilisée pour activer les parchemins. Des valeurs plus élevées de connaissance permettent au personnage d'utiliser des parchemins de plus haut niveau.</DefaultText>
+      <DefaultText>La compétence Connaissance englobe les divers savoirs acquis par le personnage, souvent dans les domaines occultes ou ésotériques. En dehors des conversations et interactions scriptées, la connaissance est utilisée pour activer les parchemins. Une connaissance plus élevées permet au personnage d'utiliser des parchemins de plus haut niveau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7035,7 +7035,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1401</ID>
-      <DefaultText>Escalier de maître</DefaultText>
+      <DefaultText>Escalier principal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7331,27 +7331,27 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     <Entry>
       <ID>1462</ID>
       <DefaultText>Les invocations sont de puissants effets magiques que les incantateurs peuvent générer après avoir prononcé le nombre de phrases requis.</DefaultText>
-      <FemaleText />
+      <FemaleText>Les invocations sont de puissants effets magiques que les incantatrisses peuvent générer après avoir prononcé le nombre de phrases requis.</FemaleText>
     </Entry>
     <Entry>
       <ID>1463</ID>
       <DefaultText>Tous les druides maîtrisent une forme animale. Cette forme confère au druide de puissantes capacités de mêlée ainsi qu'un pouvoir supplémentaire lorsqu'il est transformé.</DefaultText>
-      <FemaleText />
+      <FemaleText>Tous les druidesses maîtrisent une forme animale. Cette forme confère à la druidesse de puissantes capacités de mêlée ainsi qu'un pouvoir supplémentaire lorsqu'elle est transformée.</FemaleText>
     </Entry>
     <Entry>
       <ID>1464</ID>
       <DefaultText>Les clairvoyants peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de concentration, que les clairvoyants acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
-      <FemaleText />
+      <FemaleText>Les clairvoyantes peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de concentration, que les clairvoyantes acquièrent en utilisant leur Fouet de l'âme.</FemaleText>
     </Entry>
     <Entry>
       <ID>1465</ID>
       <DefaultText>Tous les incantateurs peuvent prononcer en continu des incantations composées de phrases magiques. Les phrases produisent des effets passifs et permettent à l'incantateur de générer un pouvoir jusqu'à ce qu'il utilise une invocation.</DefaultText>
-      <FemaleText />
+      <FemaleText>Tous les incantatrices peuvent prononcer en continu des incantations composées de phrases magiques. Les phrases produisent des effets passifs et permettent à l'incantatrice de générer un pouvoir jusqu'à ce qu'elle utilise une invocation.</FemaleText>
     </Entry>
     <Entry>
       <ID>1466</ID>
       <DefaultText>Les druides sélectionnent un type de dégâts (Entaille, Perforation, Écrasement, Brûlure, Corrosion, Gel ou Choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</DefaultText>
-      <FemaleText />
+      <FemaleText>Les druidesses sélectionnent un type de dégâts (Entaille, Perforation, Écrasement, Brûlure, Corrosion, Gel ou Choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</FemaleText>
     </Entry>
     <Entry>
       <ID>1467</ID>
@@ -7408,12 +7408,14 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
       <DefaultText>Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
 
 Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la Précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
-      <FemaleText />
+      <FemaleText>Toutes les rôdeuses ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet à la rôdeuse et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que la rôdeuse attaque à distance.
+
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeuses dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si une rôdeuse ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la Précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si une rôdeuse est tuée, le compagnon animal meurt immédiatement de douleur.</FemaleText>
     </Entry>
     <Entry>
       <ID>1478</ID>
-      <DefaultText>Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciens apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les prêtres ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
-      <FemaleText />
+      <DefaultText>Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciens apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciennes ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
+      <FemaleText>Les magiciennes ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciennes apprennent des sorts individuels qu'elles conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciennes à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciennes ont accès à un ensemble de sorts supplémentaires. Mais elles peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel elles ont accès chaque fois qu'elles progressent. Les magiciennes ont également la possibilité d'apprendre des sorts à partir des grimoires qu'elles trouvent ou qu'elles achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciennes augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</FemaleText>
     </Entry>
     <Entry>
       <ID>1479</ID>
@@ -8037,7 +8039,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>Zone d'effet : {0} </DefaultText>
+      <DefaultText>Zone d'effet : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8382,7 +8384,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>{0} {1} de dégâts contre soi lors d'une attaque avec des instruments</DefaultText>
+      <DefaultText>{0} de dégâts {1} contre soi en cas d'attaque avec des armes magiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8567,7 +8569,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1710</ID>
-      <DefaultText>Formation en V </DefaultText>
+      <DefaultText>Formation en V</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9534,7 +9536,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1911</ID>
-      <DefaultText>Intendant</DefaultText>
+      <DefaultText>Intendante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9720,6 +9722,46 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     <Entry>
       <ID>1952</ID>
       <DefaultText>{0} de multiplicateur de dégâts critiques contre les ennemis dotés d'une faible résistance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1953</ID>
+      <DefaultText>Moyenne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1954</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1955</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1960</ID>
+      <DefaultText>Graphics Quality</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1961</ID>
+      <DefaultText>Adjust the game's graphics quality. Use a lower setting if your game runs slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1962</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1963</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1964</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

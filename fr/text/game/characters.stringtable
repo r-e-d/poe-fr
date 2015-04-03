@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1332</EntryCount>
+  <EntryCount>1334</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -52,7 +52,7 @@
     <Entry>
       <ID>43</ID>
       <DefaultText>Loup</DefaultText>
-      <FemaleText />
+      <FemaleText>Louve</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -167,7 +167,7 @@
     <Entry>
       <ID>68</ID>
       <DefaultText>Chat druide</DefaultText>
-      <FemaleText />
+      <FemaleText>Chatte druidesse</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -212,7 +212,7 @@
     <Entry>
       <ID>78</ID>
       <DefaultText>Loup de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Louve de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>79</ID>
@@ -272,7 +272,7 @@
     <Entry>
       <ID>90</ID>
       <DefaultText>Homme à capuche</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme à capuche</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -282,7 +282,7 @@
     <Entry>
       <ID>92</ID>
       <DefaultText>Nain à capuche</DefaultText>
-      <FemaleText />
+      <FemaleText>Naine à capuche</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
@@ -292,12 +292,12 @@
     <Entry>
       <ID>94</ID>
       <DefaultText>Homme encapuchonné</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme encapuchonnée</FemaleText>
     </Entry>
     <Entry>
       <ID>95</ID>
       <DefaultText>Aumaua encapuchonné</DefaultText>
-      <FemaleText />
+      <FemaleText>Aumaua encapuchonnée</FemaleText>
     </Entry>
     <Entry>
       <ID>96</ID>
@@ -677,7 +677,7 @@
     <Entry>
       <ID>172</ID>
       <DefaultText>Chef des brutes</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des brutes</FemaleText>
     </Entry>
     <Entry>
       <ID>173</ID>
@@ -752,7 +752,7 @@
     <Entry>
       <ID>190</ID>
       <DefaultText>Chevalier du Creuset</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière du Creuset</FemaleText>
     </Entry>
     <Entry>
       <ID>191</ID>
@@ -792,22 +792,22 @@
     <Entry>
       <ID>198</ID>
       <DefaultText>Marin vailien</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme marin vailienne</FemaleText>
     </Entry>
     <Entry>
       <ID>199</ID>
       <DefaultText>Marin vailien</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme marin vailienne</FemaleText>
     </Entry>
     <Entry>
       <ID>200</ID>
       <DefaultText>Ouvrier de l'entrepôt</DefaultText>
-      <FemaleText />
+      <FemaleText>Ouvrière de l'entrepôt</FemaleText>
     </Entry>
     <Entry>
       <ID>201</ID>
       <DefaultText>Client de la maison close</DefaultText>
-      <FemaleText />
+      <FemaleText>Cliente de la maison close</FemaleText>
     </Entry>
     <Entry>
       <ID>202</ID>
@@ -852,7 +852,7 @@
     <Entry>
       <ID>210</ID>
       <DefaultText>Mage de choc vailien</DefaultText>
-      <FemaleText />
+      <FemaleText>Mage de choc vailienne</FemaleText>
     </Entry>
     <Entry>
       <ID>211</ID>
@@ -877,7 +877,7 @@
     <Entry>
       <ID>215</ID>
       <DefaultText>Chevalier du Pacte d'or</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière du Pacte d'or</FemaleText>
     </Entry>
     <Entry>
       <ID>216</ID>
@@ -902,7 +902,7 @@
     <Entry>
       <ID>220</ID>
       <DefaultText>Homme vêtu d'une robe blanche</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme vêtue d'une robe blanche</FemaleText>
     </Entry>
     <Entry>
       <ID>221</ID>
@@ -932,7 +932,7 @@
     <Entry>
       <ID>226</ID>
       <DefaultText>Diplomate vailien</DefaultText>
-      <FemaleText />
+      <FemaleText>Diplomate vailienne</FemaleText>
     </Entry>
     <Entry>
       <ID>227</ID>
@@ -997,7 +997,7 @@
     <Entry>
       <ID>239</ID>
       <DefaultText>Soldat vailien</DefaultText>
-      <FemaleText />
+      <FemaleText>Soldate vailienne</FemaleText>
     </Entry>
     <Entry>
       <ID>240</ID>
@@ -1087,7 +1087,7 @@
     <Entry>
       <ID>257</ID>
       <DefaultText>Portier de Doemenel</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme portier de Doemenel</FemaleText>
     </Entry>
     <Entry>
       <ID>261</ID>
@@ -1102,7 +1102,7 @@
     <Entry>
       <ID>263</ID>
       <DefaultText>Comédien</DefaultText>
-      <FemaleText />
+      <FemaleText>Comédienne</FemaleText>
     </Entry>
     <Entry>
       <ID>264</ID>
@@ -1337,12 +1337,12 @@
     <Entry>
       <ID>310</ID>
       <DefaultText>Sanglier</DefaultText>
-      <FemaleText />
+      <FemaleText>Laie</FemaleText>
     </Entry>
     <Entry>
       <ID>311</ID>
       <DefaultText>Homme voilé</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme voilée</FemaleText>
     </Entry>
     <Entry>
       <ID>312</ID>
@@ -1357,7 +1357,7 @@
     <Entry>
       <ID>315</ID>
       <DefaultText>Mage de choc vailien</DefaultText>
-      <FemaleText />
+      <FemaleText>Mage de choc vailienne</FemaleText>
     </Entry>
     <Entry>
       <ID>316</ID>
@@ -1387,7 +1387,7 @@
     <Entry>
       <ID>321</ID>
       <DefaultText>Chevalier du Pacte d'or</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière du Pacte d'or</FemaleText>
     </Entry>
     <Entry>
       <ID>322</ID>
@@ -1427,7 +1427,7 @@
     <Entry>
       <ID>329</ID>
       <DefaultText>Chevalier du Creuset</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière du Creuset</FemaleText>
     </Entry>
     <Entry>
       <ID>330</ID>
@@ -1437,7 +1437,7 @@
     <Entry>
       <ID>331</ID>
       <DefaultText>Compagnon de saint Waidwen</DefaultText>
-      <FemaleText />
+      <FemaleText>Disciple de saint Waidwen</FemaleText>
     </Entry>
     <Entry>
       <ID>332</ID>
@@ -1461,8 +1461,8 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Intendant</DefaultText>
-      <FemaleText />
+      <DefaultText>Intendante</DefaultText>
+      <FemaleText>Intendante</FemaleText>
     </Entry>
     <Entry>
       <ID>337</ID>
@@ -1477,12 +1477,12 @@
     <Entry>
       <ID>339</ID>
       <DefaultText>Artificier</DefaultText>
-      <FemaleText />
+      <FemaleText>Artificière</FemaleText>
     </Entry>
     <Entry>
       <ID>340</ID>
       <DefaultText>Prêtre de la chapelle</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse de la chapelle</FemaleText>
     </Entry>
     <Entry>
       <ID>341</ID>
@@ -1582,7 +1582,7 @@
     <Entry>
       <ID>362</ID>
       <DefaultText>Comédien humain</DefaultText>
-      <FemaleText>Comédiene humaine</FemaleText>
+      <FemaleText>Comédienne humaine</FemaleText>
     </Entry>
     <Entry>
       <ID>363</ID>
@@ -1632,12 +1632,12 @@
     <Entry>
       <ID>372</ID>
       <DefaultText>Guerrier glanfathan</DefaultText>
-      <FemaleText />
+      <FemaleText>Guerrière glanfathane</FemaleText>
     </Entry>
     <Entry>
       <ID>373</ID>
       <DefaultText>Corrupted Animancer</DefaultText>
-      <FemaleText />
+      <FemaleText>Animancienne corrompue</FemaleText>
     </Entry>
     <Entry>
       <ID>374</ID>
@@ -1747,7 +1747,7 @@
     <Entry>
       <ID>397</ID>
       <DefaultText>Tourneur d'ivoire de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Tourneuse d'ivoire de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>398</ID>
@@ -1787,7 +1787,7 @@
     <Entry>
       <ID>405</ID>
       <DefaultText>Chef des sentinelles vithracks</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des sentinelles vithracks</FemaleText>
     </Entry>
     <Entry>
       <ID>406</ID>
@@ -1812,12 +1812,12 @@
     <Entry>
       <ID>410</ID>
       <DefaultText>Chef des éclaireurs vithracks</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des éclaireurs vithracks</FemaleText>
     </Entry>
     <Entry>
       <ID>411</ID>
       <DefaultText>Chef des éclaireurs vithracks</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des éclaireurs vithracks</FemaleText>
     </Entry>
     <Entry>
       <ID>412</ID>
@@ -1842,7 +1842,7 @@
     <Entry>
       <ID>416</ID>
       <DefaultText>Chef des xaurips</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des xaurips</FemaleText>
     </Entry>
     <Entry>
       <ID>417</ID>
@@ -1922,7 +1922,7 @@
     <Entry>
       <ID>432</ID>
       <DefaultText>Tourneur d'ivoire</DefaultText>
-      <FemaleText />
+      <FemaleText>Tourneuse d'ivoire</FemaleText>
     </Entry>
     <Entry>
       <ID>433</ID>
@@ -1967,22 +1967,22 @@
     <Entry>
       <ID>441</ID>
       <DefaultText>Scribe oisif</DefaultText>
-      <FemaleText />
+      <FemaleText>Scribe oisise</FemaleText>
     </Entry>
     <Entry>
       <ID>442</ID>
       <DefaultText>Scribe oisif</DefaultText>
-      <FemaleText />
+      <FemaleText>Scribe oisise</FemaleText>
     </Entry>
     <Entry>
       <ID>443</ID>
       <DefaultText>Scribe oisif</DefaultText>
-      <FemaleText />
+      <FemaleText>Scribe oisise</FemaleText>
     </Entry>
     <Entry>
       <ID>444</ID>
       <DefaultText>Scribe oisif</DefaultText>
-      <FemaleText />
+      <FemaleText>Scribe oisise</FemaleText>
     </Entry>
     <Entry>
       <ID>445</ID>
@@ -2022,22 +2022,22 @@
     <Entry>
       <ID>452</ID>
       <DefaultText>Ours</DefaultText>
-      <FemaleText />
+      <FemaleText>Ourse</FemaleText>
     </Entry>
     <Entry>
       <ID>453</ID>
       <DefaultText>Prêtre xaurip</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse xaurip</FemaleText>
     </Entry>
     <Entry>
       <ID>454</ID>
       <DefaultText>Dragon d'adra</DefaultText>
-      <FemaleText />
+      <FemaleText>Dragonne d'adra</FemaleText>
     </Entry>
     <Entry>
       <ID>455</ID>
       <DefaultText>Prêtre de Wael</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse de Wael</FemaleText>
     </Entry>
     <Entry>
       <ID>456</ID>
@@ -2052,7 +2052,7 @@
     <Entry>
       <ID>458</ID>
       <DefaultText>Archidruide Rehstin</DefaultText>
-      <FemaleText />
+      <FemaleText>Archidruidesse Rehstin</FemaleText>
     </Entry>
     <Entry>
       <ID>459</ID>
@@ -2066,7 +2066,7 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Piège Mur de flammes</DefaultText>
+      <DefaultText>Mur de flammes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2127,7 +2127,7 @@
     <Entry>
       <ID>475</ID>
       <DefaultText>Garde glanfathan</DefaultText>
-      <FemaleText>Gardienne glanfathane</FemaleText>
+      <FemaleText>Garde glanfathane</FemaleText>
     </Entry>
     <Entry>
       <ID>476</ID>
@@ -2147,7 +2147,7 @@
     <Entry>
       <ID>479</ID>
       <DefaultText>Client de la maison close</DefaultText>
-      <FemaleText />
+      <FemaleText>Cliente de la maison close</FemaleText>
     </Entry>
     <Entry>
       <ID>480</ID>
@@ -2177,7 +2177,7 @@
     <Entry>
       <ID>485</ID>
       <DefaultText>Chef</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe</FemaleText>
     </Entry>
     <Entry>
       <ID>486</ID>
@@ -2267,7 +2267,7 @@
     <Entry>
       <ID>503</ID>
       <DefaultText>Homme de la tribu</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme de la tribu</FemaleText>
     </Entry>
     <Entry>
       <ID>504</ID>
@@ -2302,7 +2302,7 @@
     <Entry>
       <ID>510</ID>
       <DefaultText>Guerrier</DefaultText>
-      <FemaleText />
+      <FemaleText>Guerrière</FemaleText>
     </Entry>
     <Entry>
       <ID>511</ID>
@@ -2317,7 +2317,7 @@
     <Entry>
       <ID>513</ID>
       <DefaultText>Chasseur des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Chasseuse des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>514</ID>
@@ -2337,7 +2337,7 @@
     <Entry>
       <ID>517</ID>
       <DefaultText>Dragon céleste</DefaultText>
-      <FemaleText />
+      <FemaleText>Dragonne céleste</FemaleText>
     </Entry>
     <Entry>
       <ID>518</ID>
@@ -2357,7 +2357,7 @@
     <Entry>
       <ID>521</ID>
       <DefaultText>Chasseur des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Chasseuse des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>522</ID>
@@ -2382,7 +2382,7 @@
     <Entry>
       <ID>526</ID>
       <DefaultText>Lion</DefaultText>
-      <FemaleText />
+      <FemaleText>Lionne</FemaleText>
     </Entry>
     <Entry>
       <ID>527</ID>
@@ -2392,7 +2392,7 @@
     <Entry>
       <ID>528</ID>
       <DefaultText>Ours</DefaultText>
-      <FemaleText />
+      <FemaleText>Ourse</FemaleText>
     </Entry>
     <Entry>
       <ID>529</ID>
@@ -2407,7 +2407,7 @@
     <Entry>
       <ID>531</ID>
       <DefaultText>Chien de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Chienne de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>532</ID>
@@ -2422,7 +2422,7 @@
     <Entry>
       <ID>535</ID>
       <DefaultText>Homme du Clan des Lions</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme du Clan des Lions</FemaleText>
     </Entry>
     <Entry>
       <ID>536</ID>
@@ -2437,12 +2437,12 @@
     <Entry>
       <ID>538</ID>
       <DefaultText>Homme du Clan des Ours</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme du Clan des Ours</FemaleText>
     </Entry>
     <Entry>
       <ID>539</ID>
       <DefaultText>Sorcier elfe pâle</DefaultText>
-      <FemaleText />
+      <FemaleText>Sorcière elfe pâle</FemaleText>
     </Entry>
     <Entry>
       <ID>540</ID>
@@ -2462,7 +2462,7 @@
     <Entry>
       <ID>543</ID>
       <DefaultText>Prêtre elfe pâle</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse elfe pâle</FemaleText>
     </Entry>
     <Entry>
       <ID>544</ID>
@@ -2517,7 +2517,7 @@
     <Entry>
       <ID>554</ID>
       <DefaultText>Vailien</DefaultText>
-      <FemaleText />
+      <FemaleText>Vailienne</FemaleText>
     </Entry>
     <Entry>
       <ID>555</ID>
@@ -2647,7 +2647,7 @@
     <Entry>
       <ID>582</ID>
       <DefaultText>Maître de caravane Odema</DefaultText>
-      <FemaleText />
+      <FemaleText>Maîtresse de caravane Odema</FemaleText>
     </Entry>
     <Entry>
       <ID>583</ID>
@@ -2672,7 +2672,7 @@
     <Entry>
       <ID>587</ID>
       <DefaultText>Chevalier du Creuset</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière du Creuset</FemaleText>
     </Entry>
     <Entry>
       <ID>588</ID>
@@ -2817,7 +2817,7 @@
     <Entry>
       <ID>616</ID>
       <DefaultText>Prêtre entêté</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse entêtée</FemaleText>
     </Entry>
     <Entry>
       <ID>617</ID>
@@ -2847,7 +2847,7 @@
     <Entry>
       <ID>622</ID>
       <DefaultText>Vieil homme en robe</DefaultText>
-      <FemaleText />
+      <FemaleText>Vieille femme en robe</FemaleText>
     </Entry>
     <Entry>
       <ID>623</ID>
@@ -2917,7 +2917,7 @@
     <Entry>
       <ID>636</ID>
       <DefaultText>Squelette orlan</DefaultText>
-      <FemaleText />
+      <FemaleText>Squelette d'orlane</FemaleText>
     </Entry>
     <Entry>
       <ID>637</ID>
@@ -2927,7 +2927,7 @@
     <Entry>
       <ID>638</ID>
       <DefaultText>Squelette nain</DefaultText>
-      <FemaleText />
+      <FemaleText>Squelette de naine</FemaleText>
     </Entry>
     <Entry>
       <ID>639</ID>
@@ -2937,22 +2937,22 @@
     <Entry>
       <ID>640</ID>
       <DefaultText>Squelette combattant</DefaultText>
-      <FemaleText />
+      <FemaleText>Squelette de combattante</FemaleText>
     </Entry>
     <Entry>
       <ID>641</ID>
       <DefaultText>Squelette rôdeur</DefaultText>
-      <FemaleText />
+      <FemaleText>Squelette de rôdeuse</FemaleText>
     </Entry>
     <Entry>
       <ID>642</ID>
       <DefaultText>Escroc squelettique</DefaultText>
-      <FemaleText />
+      <FemaleText>Fripouille squelettique</FemaleText>
     </Entry>
     <Entry>
       <ID>643</ID>
       <DefaultText>Squelette magicien</DefaultText>
-      <FemaleText />
+      <FemaleText>Squelette de magicienne</FemaleText>
     </Entry>
     <Entry>
       <ID>644</ID>
@@ -3022,7 +3022,7 @@
     <Entry>
       <ID>658</ID>
       <DefaultText>Chevreuil</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevrette</FemaleText>
     </Entry>
     <Entry>
       <ID>659</ID>
@@ -3057,7 +3057,7 @@
     <Entry>
       <ID>665</ID>
       <DefaultText>Prêtre de Berath</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse de Berath</FemaleText>
     </Entry>
     <Entry>
       <ID>666</ID>
@@ -3097,7 +3097,7 @@
     <Entry>
       <ID>673</ID>
       <DefaultText>Prêtre du Dieu brisé</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse du Dieu brisé</FemaleText>
     </Entry>
     <Entry>
       <ID>674</ID>
@@ -3182,7 +3182,7 @@
     <Entry>
       <ID>690</ID>
       <DefaultText>Roi des skuldrs</DefaultText>
-      <FemaleText />
+      <FemaleText>Reine des skuldrs</FemaleText>
     </Entry>
     <Entry>
       <ID>691</ID>
@@ -3252,7 +3252,7 @@
     <Entry>
       <ID>704</ID>
       <DefaultText>Serveur</DefaultText>
-      <FemaleText>Serveuse</FemaleText>
+      <FemaleText>Serveur</FemaleText>
     </Entry>
     <Entry>
       <ID>705</ID>
@@ -3372,17 +3372,17 @@
     <Entry>
       <ID>729</ID>
       <DefaultText>Bottes d'homme mort</DefaultText>
-      <FemaleText />
+      <FemaleText>Bottes de femme morte</FemaleText>
     </Entry>
     <Entry>
       <ID>730</ID>
       <DefaultText>Arpenteurs des marécages</DefaultText>
-      <FemaleText />
+      <FemaleText>Arpenteuses des marécages</FemaleText>
     </Entry>
     <Entry>
       <ID>731</ID>
       <DefaultText>Bottes de rôdeur glanfathan</DefaultText>
-      <FemaleText />
+      <FemaleText>Bottes de rôdeuse glanfathane</FemaleText>
     </Entry>
     <Entry>
       <ID>732</ID>
@@ -3422,12 +3422,12 @@
     <Entry>
       <ID>741</ID>
       <DefaultText>Manteau de l'infatigable défenseur</DefaultText>
-      <FemaleText />
+      <FemaleText>Manteau de l'infatigable défenseuse</FemaleText>
     </Entry>
     <Entry>
       <ID>742</ID>
       <DefaultText>Adraswen Glanfathan</DefaultText>
-      <FemaleText />
+      <FemaleText>Adraswen Glanfathane</FemaleText>
     </Entry>
     <Entry>
       <ID>743</ID>
@@ -3477,7 +3477,7 @@
     <Entry>
       <ID>752</ID>
       <DefaultText>Torque du chasseur</DefaultText>
-      <FemaleText />
+      <FemaleText>Torque de la chasseuse</FemaleText>
     </Entry>
     <Entry>
       <ID>753</ID>
@@ -3512,7 +3512,7 @@
     <Entry>
       <ID>759</ID>
       <DefaultText>Ceinture du fou</DefaultText>
-      <FemaleText />
+      <FemaleText>Ceinture de la folle</FemaleText>
     </Entry>
     <Entry>
       <ID>760</ID>
@@ -3627,7 +3627,7 @@
     <Entry>
       <ID>782</ID>
       <DefaultText>Messager du Rang de Dunryd</DefaultText>
-      <FemaleText />
+      <FemaleText>Messagère du Rang de Dunryd</FemaleText>
     </Entry>
     <Entry>
       <ID>783</ID>
@@ -3662,7 +3662,7 @@
     <Entry>
       <ID>789</ID>
       <DefaultText>Pillard</DefaultText>
-      <FemaleText />
+      <FemaleText>Pillarde</FemaleText>
     </Entry>
     <Entry>
       <ID>790</ID>
@@ -3747,7 +3747,7 @@
     <Entry>
       <ID>806</ID>
       <DefaultText>Chef des loups</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des loups</FemaleText>
     </Entry>
     <Entry>
       <ID>807</ID>
@@ -3777,7 +3777,7 @@
     <Entry>
       <ID>812</ID>
       <DefaultText>Escroc</DefaultText>
-      <FemaleText />
+      <FemaleText>Fripouille</FemaleText>
     </Entry>
     <Entry>
       <ID>813</ID>
@@ -3787,7 +3787,7 @@
     <Entry>
       <ID>814</ID>
       <DefaultText>Éclaireur du Creuset</DefaultText>
-      <FemaleText />
+      <FemaleText>Éclaireuse du Creuset</FemaleText>
     </Entry>
     <Entry>
       <ID>815</ID>
@@ -3852,12 +3852,12 @@
     <Entry>
       <ID>827</ID>
       <DefaultText>Grand drake étrange</DefaultText>
-      <FemaleText />
+      <FemaleText>Grande drake étrange</FemaleText>
     </Entry>
     <Entry>
       <ID>828</ID>
       <DefaultText>Prêtre xaurip</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse xaurip</FemaleText>
     </Entry>
     <Entry>
       <ID>829</ID>
@@ -3912,7 +3912,7 @@
     <Entry>
       <ID>839</ID>
       <DefaultText>Chevalier du Creuset</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière du Creuset</FemaleText>
     </Entry>
     <Entry>
       <ID>840</ID>
@@ -3922,7 +3922,7 @@
     <Entry>
       <ID>841</ID>
       <DefaultText>Chevreuil</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevrette</FemaleText>
     </Entry>
     <Entry>
       <ID>842</ID>
@@ -3932,12 +3932,12 @@
     <Entry>
       <ID>843</ID>
       <DefaultText>Zloxx l'usurpateur</DefaultText>
-      <FemaleText />
+      <FemaleText>Zloxx l'usurpatrice</FemaleText>
     </Entry>
     <Entry>
       <ID>844</ID>
       <DefaultText>Le Vautour</DefaultText>
-      <FemaleText />
+      <FemaleText>La Vautour</FemaleText>
     </Entry>
     <Entry>
       <ID>845</ID>
@@ -3987,7 +3987,7 @@
     <Entry>
       <ID>854</ID>
       <DefaultText>Aodhán l'ingénieux</DefaultText>
-      <FemaleText />
+      <FemaleText>Aodhán l'ingénieuse</FemaleText>
     </Entry>
     <Entry>
       <ID>855</ID>
@@ -4067,17 +4067,17 @@
     <Entry>
       <ID>870</ID>
       <DefaultText>Champion xaurip</DefaultText>
-      <FemaleText />
+      <FemaleText>Championne xaurip</FemaleText>
     </Entry>
     <Entry>
       <ID>871</ID>
       <DefaultText>Prêtre xaurip</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse xaurip</FemaleText>
     </Entry>
     <Entry>
       <ID>872</ID>
       <DefaultText>Escarmoucheur xaurip</DefaultText>
-      <FemaleText />
+      <FemaleText>Escarmoucheuse xaurip</FemaleText>
     </Entry>
     <Entry>
       <ID>873</ID>
@@ -4102,7 +4102,7 @@
     <Entry>
       <ID>877</ID>
       <DefaultText>Urblat l'éventreur</DefaultText>
-      <FemaleText />
+      <FemaleText>Urblat l'éventreuse</FemaleText>
     </Entry>
     <Entry>
       <ID>878</ID>
@@ -4132,7 +4132,7 @@
     <Entry>
       <ID>883</ID>
       <DefaultText>Elfwyn Loup-hivernal</DefaultText>
-      <FemaleText />
+      <FemaleText>Elfwyn Louve-hivernale</FemaleText>
     </Entry>
     <Entry>
       <ID>884</ID>
@@ -4162,7 +4162,7 @@
     <Entry>
       <ID>889</ID>
       <DefaultText>Justicier Forgant</DefaultText>
-      <FemaleText />
+      <FemaleText>Justicière Forgant</FemaleText>
     </Entry>
     <Entry>
       <ID>890</ID>
@@ -4202,12 +4202,12 @@
     <Entry>
       <ID>897</ID>
       <DefaultText>Cheval</DefaultText>
-      <FemaleText />
+      <FemaleText>Jument</FemaleText>
     </Entry>
     <Entry>
       <ID>898</ID>
       <DefaultText>Roi Ninguen</DefaultText>
-      <FemaleText />
+      <FemaleText>Reine Ninguen</FemaleText>
     </Entry>
     <Entry>
       <ID>899</ID>
@@ -4332,7 +4332,7 @@
     <Entry>
       <ID>923</ID>
       <DefaultText>Vieil ivrogne</DefaultText>
-      <FemaleText />
+      <FemaleText>Vieille ivrogne</FemaleText>
     </Entry>
     <Entry>
       <ID>924</ID>
@@ -4462,12 +4462,12 @@
     <Entry>
       <ID>949</ID>
       <DefaultText>Comédien</DefaultText>
-      <FemaleText />
+      <FemaleText>Comédienne</FemaleText>
     </Entry>
     <Entry>
       <ID>950</ID>
       <DefaultText>Anneau du serveur</DefaultText>
-      <FemaleText />
+      <FemaleText>Anneau de la serveuse</FemaleText>
     </Entry>
     <Entry>
       <ID>951</ID>
@@ -4497,17 +4497,17 @@
     <Entry>
       <ID>956</ID>
       <DefaultText>Homme en robe</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme en robe</FemaleText>
     </Entry>
     <Entry>
       <ID>957</ID>
       <DefaultText>Homme en robe</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme en robe</FemaleText>
     </Entry>
     <Entry>
       <ID>958</ID>
       <DefaultText>Homme en robe</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme en robe</FemaleText>
     </Entry>
     <Entry>
       <ID>959</ID>
@@ -4527,12 +4527,12 @@
     <Entry>
       <ID>962</ID>
       <DefaultText>Bandit</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme bandit</FemaleText>
     </Entry>
     <Entry>
       <ID>963</ID>
       <DefaultText>Chef des bandits</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des bandits</FemaleText>
     </Entry>
     <Entry>
       <ID>964</ID>
@@ -4557,17 +4557,17 @@
     <Entry>
       <ID>968</ID>
       <DefaultText>Soldat</DefaultText>
-      <FemaleText />
+      <FemaleText>Soldate mercenaire</FemaleText>
     </Entry>
     <Entry>
       <ID>969</ID>
       <DefaultText>Chat</DefaultText>
-      <FemaleText />
+      <FemaleText>Chatte</FemaleText>
     </Entry>
     <Entry>
       <ID>970</ID>
       <DefaultText>Sanglier de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Laie de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>971</ID>
@@ -4577,27 +4577,27 @@
     <Entry>
       <ID>972</ID>
       <DefaultText>Ours de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Ourse de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>973</ID>
       <DefaultText>Lion de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Lionne de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>974</ID>
       <DefaultText>Lion de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Lionne de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>975</ID>
       <DefaultText>Cerf de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Biche de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>976</ID>
       <DefaultText>Ours de compagnie</DefaultText>
-      <FemaleText />
+      <FemaleText>Ourse de compagnie</FemaleText>
     </Entry>
     <Entry>
       <ID>977</ID>
@@ -4702,7 +4702,7 @@
     <Entry>
       <ID>997</ID>
       <DefaultText>Canard</DefaultText>
-      <FemaleText />
+      <FemaleText>Cane</FemaleText>
     </Entry>
     <Entry>
       <ID>998</ID>
@@ -4952,7 +4952,7 @@
     <Entry>
       <ID>1047</ID>
       <DefaultText>Homme de la tribu</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme de la tribu</FemaleText>
     </Entry>
     <Entry>
       <ID>1048</ID>
@@ -4977,7 +4977,7 @@
     <Entry>
       <ID>1052</ID>
       <DefaultText>Manteau du renard et du chasseur</DefaultText>
-      <FemaleText />
+      <FemaleText>Manteau de la renarde et de la chasseuse</FemaleText>
     </Entry>
     <Entry>
       <ID>1053</ID>
@@ -4997,7 +4997,7 @@
     <Entry>
       <ID>1056</ID>
       <DefaultText>Chasseur</DefaultText>
-      <FemaleText />
+      <FemaleText>Chasseuse</FemaleText>
     </Entry>
     <Entry>
       <ID>1057</ID>
@@ -5047,12 +5047,12 @@
     <Entry>
       <ID>1066</ID>
       <DefaultText>Homme de la tribu</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme de la tribu</FemaleText>
     </Entry>
     <Entry>
       <ID>1067</ID>
       <DefaultText>Homme de la tribu</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme de la tribu</FemaleText>
     </Entry>
     <Entry>
       <ID>1070</ID>
@@ -5117,7 +5117,7 @@
     <Entry>
       <ID>1083</ID>
       <DefaultText>Escroc mercenaire</DefaultText>
-      <FemaleText />
+      <FemaleText>Fripouille mercenaire</FemaleText>
     </Entry>
     <Entry>
       <ID>1084</ID>
@@ -5172,7 +5172,7 @@
     <Entry>
       <ID>1094</ID>
       <DefaultText>Sauvageon des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Sauvageonne des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>1095</ID>
@@ -5197,7 +5197,7 @@
     <Entry>
       <ID>1099</ID>
       <DefaultText>Stelgaer âgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Stelgaer âgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1100</ID>
@@ -5212,7 +5212,7 @@
     <Entry>
       <ID>1102</ID>
       <DefaultText>Habitant en colère</DefaultText>
-      <FemaleText />
+      <FemaleText>Habitante en colère</FemaleText>
     </Entry>
     <Entry>
       <ID>1103</ID>
@@ -5242,11 +5242,11 @@
     <Entry>
       <ID>1108</ID>
       <DefaultText>L'homme qui tire les ficelles</DefaultText>
-      <FemaleText />
+      <FemaleText>La femme qui tire les ficelles</FemaleText>
     </Entry>
     <Entry>
       <ID>1109</ID>
-      <DefaultText>Agent de la Clé plombée </DefaultText>
+      <DefaultText>Agent de la Clé plombée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5262,7 +5262,7 @@
     <Entry>
       <ID>1112</ID>
       <DefaultText>Chevalier forgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière forgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1113</ID>
@@ -5277,7 +5277,7 @@
     <Entry>
       <ID>1115</ID>
       <DefaultText>Guerrier</DefaultText>
-      <FemaleText />
+      <FemaleText>Guerrière</FemaleText>
     </Entry>
     <Entry>
       <ID>1116</ID>
@@ -5287,17 +5287,17 @@
     <Entry>
       <ID>1117</ID>
       <DefaultText>Jeune skuldr affamé</DefaultText>
-      <FemaleText />
+      <FemaleText>Jeune skuldr affamée</FemaleText>
     </Entry>
     <Entry>
       <ID>1118</ID>
       <DefaultText>Xaurip maladif</DefaultText>
-      <FemaleText />
+      <FemaleText>Xaurip maladive</FemaleText>
     </Entry>
     <Entry>
       <ID>1119</ID>
       <DefaultText>Guerrier des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Guerrière des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>1120</ID>
@@ -5317,7 +5317,7 @@
     <Entry>
       <ID>1123</ID>
       <DefaultText>Homme de la tribu</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme de la tribu</FemaleText>
     </Entry>
     <Entry>
       <ID>1124</ID>
@@ -5332,7 +5332,7 @@
     <Entry>
       <ID>1126</ID>
       <DefaultText>Chien noir</DefaultText>
-      <FemaleText />
+      <FemaleText>Chienne noire</FemaleText>
     </Entry>
     <Entry>
       <ID>1127</ID>
@@ -5377,7 +5377,7 @@
     <Entry>
       <ID>1135</ID>
       <DefaultText>Escroc de la Clé plombée</DefaultText>
-      <FemaleText />
+      <FemaleText>Fripouille de la Clé plombée</FemaleText>
     </Entry>
     <Entry>
       <ID>1136</ID>
@@ -5407,12 +5407,12 @@
     <Entry>
       <ID>1141</ID>
       <DefaultText>Stelgaer tacheté</DefaultText>
-      <FemaleText />
+      <FemaleText>Stelgaer tachetée</FemaleText>
     </Entry>
     <Entry>
       <ID>1142</ID>
       <DefaultText>Stelgaer tacheté âgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Stelgaer tachetée âgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1143</ID>
@@ -5432,7 +5432,7 @@
     <Entry>
       <ID>1146</ID>
       <DefaultText>Lion âgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Lionne âgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1147</ID>
@@ -5452,7 +5452,7 @@
     <Entry>
       <ID>1150</ID>
       <DefaultText>Cheval</DefaultText>
-      <FemaleText />
+      <FemaleText>Jument</FemaleText>
     </Entry>
     <Entry>
       <ID>1151</ID>
@@ -5472,7 +5472,7 @@
     <Entry>
       <ID>1154</ID>
       <DefaultText>Chasseur des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Chasseuse des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>1155</ID>
@@ -5502,22 +5502,22 @@
     <Entry>
       <ID>1160</ID>
       <DefaultText>Mystérieux moine</DefaultText>
-      <FemaleText />
+      <FemaleText>Mystérieuse moniale</FemaleText>
     </Entry>
     <Entry>
       <ID>1161</ID>
       <DefaultText>Grand moine</DefaultText>
-      <FemaleText />
+      <FemaleText>Grande moniale</FemaleText>
     </Entry>
     <Entry>
       <ID>1162</ID>
       <DefaultText>Moine</DefaultText>
-      <FemaleText />
+      <FemaleText>Moniale</FemaleText>
     </Entry>
     <Entry>
       <ID>1163</ID>
       <DefaultText>Moine mourant</DefaultText>
-      <FemaleText />
+      <FemaleText>Moniale mourante</FemaleText>
     </Entry>
     <Entry>
       <ID>1164</ID>
@@ -5562,7 +5562,7 @@
     <Entry>
       <ID>1172</ID>
       <DefaultText>Porcelet</DefaultText>
-      <FemaleText />
+      <FemaleText>Porcelet femelle</FemaleText>
     </Entry>
     <Entry>
       <ID>1173</ID>
@@ -5572,22 +5572,22 @@
     <Entry>
       <ID>1174</ID>
       <DefaultText>Ours âgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Ourse âgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1175</ID>
       <DefaultText>Jeune ours</DefaultText>
-      <FemaleText />
+      <FemaleText>Jeune ourse</FemaleText>
     </Entry>
     <Entry>
       <ID>1176</ID>
       <DefaultText>Jeune sanglier</DefaultText>
-      <FemaleText />
+      <FemaleText>Jeune laie</FemaleText>
     </Entry>
     <Entry>
       <ID>1177</ID>
       <DefaultText>Sanglier âgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Laie âgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1178</ID>
@@ -5602,22 +5602,22 @@
     <Entry>
       <ID>1180</ID>
       <DefaultText>Druide Ours</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse des Ours</FemaleText>
     </Entry>
     <Entry>
       <ID>1181</ID>
       <DefaultText>Druide Sanglier</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse des Sangliers</FemaleText>
     </Entry>
     <Entry>
       <ID>1182</ID>
       <DefaultText>Druide Cerf</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse des Cerfs</FemaleText>
     </Entry>
     <Entry>
       <ID>1183</ID>
       <DefaultText>Druide Loup</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse des Loups</FemaleText>
     </Entry>
     <Entry>
       <ID>1184</ID>
@@ -5627,22 +5627,22 @@
     <Entry>
       <ID>1185</ID>
       <DefaultText>Chevalier forgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière forgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1186</ID>
       <DefaultText>Jeune lion</DefaultText>
-      <FemaleText />
+      <FemaleText>Jeune lionne</FemaleText>
     </Entry>
     <Entry>
       <ID>1187</ID>
       <DefaultText>Ogre archer</DefaultText>
-      <FemaleText />
+      <FemaleText>Ogresse archère</FemaleText>
     </Entry>
     <Entry>
       <ID>1188</ID>
       <DefaultText>Ogre druide</DefaultText>
-      <FemaleText />
+      <FemaleText>Ogresse druidesse</FemaleText>
     </Entry>
     <Entry>
       <ID>1189</ID>
@@ -5657,17 +5657,17 @@
     <Entry>
       <ID>1192</ID>
       <DefaultText>Jeune loup</DefaultText>
-      <FemaleText />
+      <FemaleText>Jeune louve</FemaleText>
     </Entry>
     <Entry>
       <ID>1193</ID>
       <DefaultText>Loup âgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Louve âgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1194</ID>
       <DefaultText>Soldat de la garde fampyr</DefaultText>
-      <FemaleText />
+      <FemaleText>Soldate de la garde fampyr</FemaleText>
     </Entry>
     <Entry>
       <ID>1195</ID>
@@ -5742,7 +5742,7 @@
     <Entry>
       <ID>1209</ID>
       <DefaultText>Pêcheur</DefaultText>
-      <FemaleText />
+      <FemaleText>Pêcheuse</FemaleText>
     </Entry>
     <Entry>
       <ID>1210</ID>
@@ -5827,7 +5827,7 @@
     <Entry>
       <ID>1227</ID>
       <DefaultText>Manteau d'un prêtre éothasian</DefaultText>
-      <FemaleText />
+      <FemaleText>Manteau d'une prêtresse éothasiane</FemaleText>
     </Entry>
     <Entry>
       <ID>1228</ID>
@@ -5872,7 +5872,7 @@
     <Entry>
       <ID>1236</ID>
       <DefaultText>Homme de la tribu inquiet</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme de la tribu inquiète</FemaleText>
     </Entry>
     <Entry>
       <ID>1237</ID>
@@ -5882,27 +5882,27 @@
     <Entry>
       <ID>1238</ID>
       <DefaultText>Bourreau de Woedica</DefaultText>
-      <FemaleText />
+      <FemaleText>Bourrelle de Woedica</FemaleText>
     </Entry>
     <Entry>
       <ID>1239</ID>
       <DefaultText>Cerf</DefaultText>
-      <FemaleText />
+      <FemaleText>Biche</FemaleText>
     </Entry>
     <Entry>
       <ID>1240</ID>
       <DefaultText>Jeune cerf</DefaultText>
-      <FemaleText />
+      <FemaleText>Jeune biche</FemaleText>
     </Entry>
     <Entry>
       <ID>1241</ID>
       <DefaultText>Cerf âgé</DefaultText>
-      <FemaleText />
+      <FemaleText>Biche âgée</FemaleText>
     </Entry>
     <Entry>
       <ID>1242</ID>
       <DefaultText>Druide sauvage</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse sauvage</FemaleText>
     </Entry>
     <Entry>
       <ID>1243</ID>
@@ -5917,7 +5917,7 @@
     <Entry>
       <ID>1245</ID>
       <DefaultText>Druide corrupteur</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse corruptrice</FemaleText>
     </Entry>
     <Entry>
       <ID>1246</ID>
@@ -5932,7 +5932,7 @@
     <Entry>
       <ID>1248</ID>
       <DefaultText>Escroc hors-la-loi</DefaultText>
-      <FemaleText />
+      <FemaleText>Fripouille hors-la-loi</FemaleText>
     </Entry>
     <Entry>
       <ID>1249</ID>
@@ -5947,12 +5947,12 @@
     <Entry>
       <ID>1251</ID>
       <DefaultText>Prêtre hors-la-loi</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse hors-la-loi</FemaleText>
     </Entry>
     <Entry>
       <ID>1252</ID>
       <DefaultText>Moine hors-la-loi</DefaultText>
-      <FemaleText />
+      <FemaleText>Moniale hors-la-loi</FemaleText>
     </Entry>
     <Entry>
       <ID>1253</ID>
@@ -5997,12 +5997,12 @@
     <Entry>
       <ID>1261</ID>
       <DefaultText>Prêtre aedyran</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse aedyrane</FemaleText>
     </Entry>
     <Entry>
       <ID>1262</ID>
       <DefaultText>Naroc le Prophète</DefaultText>
-      <FemaleText />
+      <FemaleText>Naroc la Prophétesse</FemaleText>
     </Entry>
     <Entry>
       <ID>1263</ID>
@@ -6012,7 +6012,7 @@
     <Entry>
       <ID>1264</ID>
       <DefaultText>Guerrier paria</DefaultText>
-      <FemaleText />
+      <FemaleText>Guerrière paria</FemaleText>
     </Entry>
     <Entry>
       <ID>1265</ID>
@@ -6022,12 +6022,12 @@
     <Entry>
       <ID>1266</ID>
       <DefaultText>Tyran aedyran</DefaultText>
-      <FemaleText />
+      <FemaleText>Tyran aedyrane</FemaleText>
     </Entry>
     <Entry>
       <ID>1267</ID>
       <DefaultText>Chaman paria</DefaultText>
-      <FemaleText />
+      <FemaleText>Chamane paria</FemaleText>
     </Entry>
     <Entry>
       <ID>1268</ID>
@@ -6037,7 +6037,7 @@
     <Entry>
       <ID>1269</ID>
       <DefaultText>Sorcier de Telaneir</DefaultText>
-      <FemaleText />
+      <FemaleText>Sorcière de Telaneir</FemaleText>
     </Entry>
     <Entry>
       <ID>1270</ID>
@@ -6047,7 +6047,7 @@
     <Entry>
       <ID>1271</ID>
       <DefaultText>Zélote éothasian</DefaultText>
-      <FemaleText />
+      <FemaleText>Zélote éothasiane</FemaleText>
     </Entry>
     <Entry>
       <ID>1272</ID>
@@ -6082,7 +6082,7 @@
     <Entry>
       <ID>1278</ID>
       <DefaultText>Assassin de Rauatai</DefaultText>
-      <FemaleText />
+      <FemaleText>Tueuse de Rauatai</FemaleText>
     </Entry>
     <Entry>
       <ID>1279</ID>
@@ -6127,12 +6127,12 @@
     <Entry>
       <ID>1287</ID>
       <DefaultText>Chef de guerre Iklak</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe de guerre Iklak</FemaleText>
     </Entry>
     <Entry>
       <ID>1288</ID>
       <DefaultText>Druide corrompu</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse corrompue</FemaleText>
     </Entry>
     <Entry>
       <ID>1289</ID>
@@ -6142,7 +6142,7 @@
     <Entry>
       <ID>1290</ID>
       <DefaultText>Homme de la tribu confiant</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme de la tribu confiante</FemaleText>
     </Entry>
     <Entry>
       <ID>1291</ID>
@@ -6152,7 +6152,7 @@
     <Entry>
       <ID>1292</ID>
       <DefaultText>Gardien des archives</DefaultText>
-      <FemaleText />
+      <FemaleText>Gardienne des archives</FemaleText>
     </Entry>
     <Entry>
       <ID>1293</ID>
@@ -6191,7 +6191,7 @@
     </Entry>
     <Entry>
       <ID>1300</ID>
-      <DefaultText>Agent de la Clé plombée </DefaultText>
+      <DefaultText>Agent de la Clé plombée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6217,7 +6217,7 @@
     <Entry>
       <ID>1305</ID>
       <DefaultText>Chef des pillards</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des pillards</FemaleText>
     </Entry>
     <Entry>
       <ID>1306</ID>
@@ -6232,12 +6232,12 @@
     <Entry>
       <ID>1308</ID>
       <DefaultText>Assassin de la Clé plombée</DefaultText>
-      <FemaleText />
+      <FemaleText>Tueuse de la Clé plombée</FemaleText>
     </Entry>
     <Entry>
       <ID>1309</ID>
       <DefaultText>Champion de Berath</DefaultText>
-      <FemaleText />
+      <FemaleText>Championne de Berath</FemaleText>
     </Entry>
     <Entry>
       <ID>1310</ID>
@@ -6247,7 +6247,7 @@
     <Entry>
       <ID>1311</ID>
       <DefaultText>Défenseur de Raedric</DefaultText>
-      <FemaleText />
+      <FemaleText>Défenseuse de Raedric</FemaleText>
     </Entry>
     <Entry>
       <ID>1312</ID>
@@ -6292,7 +6292,7 @@
     <Entry>
       <ID>1320</ID>
       <DefaultText>Guerrier des Trois défenses</DefaultText>
-      <FemaleText />
+      <FemaleText>Guerrière des Trois défenses</FemaleText>
     </Entry>
     <Entry>
       <ID>1321</ID>
@@ -6347,37 +6347,37 @@
     <Entry>
       <ID>1331</ID>
       <DefaultText>Chat noir</DefaultText>
-      <FemaleText />
+      <FemaleText>Chatte noire</FemaleText>
     </Entry>
     <Entry>
       <ID>1332</ID>
       <DefaultText>Chat tricolore</DefaultText>
-      <FemaleText />
+      <FemaleText>Chatte tricolore</FemaleText>
     </Entry>
     <Entry>
       <ID>1333</ID>
       <DefaultText>Adorable chat</DefaultText>
-      <FemaleText />
+      <FemaleText>Adorable chatte</FemaleText>
     </Entry>
     <Entry>
       <ID>1334</ID>
       <DefaultText>Chat tigré roux</DefaultText>
-      <FemaleText />
+      <FemaleText>Chatte tigrée rousse</FemaleText>
     </Entry>
     <Entry>
       <ID>1335</ID>
       <DefaultText>Chien Beagle</DefaultText>
-      <FemaleText />
+      <FemaleText>Chienne Beagle</FemaleText>
     </Entry>
     <Entry>
       <ID>1336</ID>
       <DefaultText>Labrador noir</DefaultText>
-      <FemaleText />
+      <FemaleText>Chienne Labrador noire</FemaleText>
     </Entry>
     <Entry>
       <ID>1337</ID>
       <DefaultText>Terrier</DefaultText>
-      <FemaleText />
+      <FemaleText>Chienne Terrier</FemaleText>
     </Entry>
     <Entry>
       <ID>1338</ID>
@@ -6397,7 +6397,7 @@
     <Entry>
       <ID>1341</ID>
       <DefaultText>Chat noir</DefaultText>
-      <FemaleText />
+      <FemaleText>Chatte noire</FemaleText>
     </Entry>
     <Entry>
       <ID>1342</ID>
@@ -6407,7 +6407,7 @@
     <Entry>
       <ID>1343</ID>
       <DefaultText>Homme en robe</DefaultText>
-      <FemaleText />
+      <FemaleText>Femme en robe</FemaleText>
     </Entry>
     <Entry>
       <ID>1344</ID>
@@ -6417,7 +6417,7 @@
     <Entry>
       <ID>1345</ID>
       <DefaultText>Chef des malfrats</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe des malfrats</FemaleText>
     </Entry>
     <Entry>
       <ID>1346</ID>
@@ -6427,17 +6427,17 @@
     <Entry>
       <ID>1347</ID>
       <DefaultText>Chasseur des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Chasseuse des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>1348</ID>
       <DefaultText>Druide des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>1349</ID>
       <DefaultText>Chasseur d'esprits des Fangs</DefaultText>
-      <FemaleText />
+      <FemaleText>Chasseuse d'esprits des Fangs</FemaleText>
     </Entry>
     <Entry>
       <ID>1350</ID>
@@ -6457,22 +6457,22 @@
     <Entry>
       <ID>1353</ID>
       <DefaultText>Charognard</DefaultText>
-      <FemaleText />
+      <FemaleText>Charognarde</FemaleText>
     </Entry>
     <Entry>
       <ID>1354</ID>
       <DefaultText>Traqueur mercenaire</DefaultText>
-      <FemaleText />
+      <FemaleText>Traqueuse mercenaire</FemaleText>
     </Entry>
     <Entry>
       <ID>1355</ID>
       <DefaultText>Voleur d'âmes mercenaire</DefaultText>
-      <FemaleText />
+      <FemaleText>Voleuse d'âmes mercenaire</FemaleText>
     </Entry>
     <Entry>
       <ID>1356</ID>
       <DefaultText>Arbalétrier mercenaire</DefaultText>
-      <FemaleText />
+      <FemaleText>Arbalétrière mercenaire</FemaleText>
     </Entry>
     <Entry>
       <ID>1357</ID>
@@ -6482,17 +6482,17 @@
     <Entry>
       <ID>1358</ID>
       <DefaultText>Gardien de caravane</DefaultText>
-      <FemaleText />
+      <FemaleText>Gardienne de caravane</FemaleText>
     </Entry>
     <Entry>
       <ID>1359</ID>
       <DefaultText>Chef de la Clé plombée</DefaultText>
-      <FemaleText />
+      <FemaleText>Cheffe de la Clé plombée</FemaleText>
     </Entry>
     <Entry>
       <ID>1360</ID>
       <DefaultText>Narrateur</DefaultText>
-      <FemaleText />
+      <FemaleText>Narratrice</FemaleText>
     </Entry>
     <Entry>
       <ID>1361</ID>
@@ -6542,7 +6542,7 @@
     <Entry>
       <ID>1370</ID>
       <DefaultText>Écorcheur spirituel de la Clé plombée</DefaultText>
-      <FemaleText />
+      <FemaleText>Écorcheuse spirituelle de la Clé plombée</FemaleText>
     </Entry>
     <Entry>
       <ID>1371</ID>
@@ -6567,7 +6567,7 @@
     <Entry>
       <ID>1377</ID>
       <DefaultText>Pêcheur</DefaultText>
-      <FemaleText />
+      <FemaleText>Pêcheuse</FemaleText>
     </Entry>
     <Entry>
       <ID>1378</ID>
@@ -6577,7 +6577,7 @@
     <Entry>
       <ID>1379</ID>
       <DefaultText>Chasseur</DefaultText>
-      <FemaleText />
+      <FemaleText>Chasseuse</FemaleText>
     </Entry>
     <Entry>
       <ID>1380</ID>
@@ -6597,7 +6597,7 @@
     <Entry>
       <ID>1383</ID>
       <DefaultText>Artilleur</DefaultText>
-      <FemaleText />
+      <FemaleText>Artilleuse</FemaleText>
     </Entry>
     <Entry>
       <ID>1384</ID>
@@ -6607,7 +6607,7 @@
     <Entry>
       <ID>1385</ID>
       <DefaultText>Bottes de l'animancien</DefaultText>
-      <FemaleText />
+      <FemaleText>Bottes de l'animancienne</FemaleText>
     </Entry>
     <Entry>
       <ID>1386</ID>
@@ -6637,7 +6637,7 @@
     <Entry>
       <ID>1406</ID>
       <DefaultText>Gardien du Temple</DefaultText>
-      <FemaleText />
+      <FemaleText>Gardienne du Temple</FemaleText>
     </Entry>
     <Entry>
       <ID>1412</ID>
@@ -6662,6 +6662,16 @@
     <Entry>
       <ID>1425</ID>
       <DefaultText>Assassin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

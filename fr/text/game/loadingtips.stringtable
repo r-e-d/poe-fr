@@ -2,11 +2,11 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\loadingtips</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>84</EntryCount>
+  <EntryCount>88</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Pillars of Eternity a pu voir le jour grâce aux contributions de plus de 74 000 fans. Obsidian vous remercie sincèrement pour votre soutien.</DefaultText>
+      <DefaultText>Pillars of Eternity a pu voir le jour grâce aux contributions de plus de 77 000 fans. Obsidian vous remercie sincèrement pour votre soutien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,6 +422,26 @@
     <Entry>
       <ID>89</ID>
       <DefaultText>La construction du logis du gardien dans votre forteresse donne l'accès à une variété de primes. Les quêtes de primes sont des affrontements stimulants qui rapportent des récompenses précieuses, incluant des objets uniques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

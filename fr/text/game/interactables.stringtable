@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>766</EntryCount>
+  <EntryCount>765</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -566,7 +566,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>La position du cadavre étendu au bord de la mare indique qu'il a dû mourir dans d'atroces souffrances. Ses mains squelettiques en putréfaction sont encore dirigées vers sa gorge.</DefaultText>
+      <DefaultText>La position du cadavre étendu au bord de la mare indique qu'il a dû mourir dans d'atroces souffrances. Ses mains squelettiques en putréfaction empoignent sa gorge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3883,11 +3883,6 @@ Sud vers le Mât salé</DefaultText>
     <Entry>
       <ID>867</ID>
       <DefaultText>Boutique</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>886</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

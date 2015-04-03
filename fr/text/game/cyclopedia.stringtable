@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>278</EntryCount>
+  <EntryCount>289</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -248,7 +248,7 @@ Les ombres absorbant l'énergie spirituelle, elles sont invisibles des créature
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Les jeunes dragons commencent leur cycle de vie en tant que wurms, un stade que la plupart d'entre eux ne dépassent pas. Les wurms sont ingénieux et rusés. Pour se transformer en drake (puis en dragon), un wurm a besoin de suffisamment d'espace et de ressources. À proximité d'autres drakes et dragons, ils ne se développent pas. Ils doivent élire domicile dans un endroit qui n'a pas encore été revendiqué par un de leurs plus grands congénères.
+      <DefaultText>Les jeunes dragons commencent leur cycle de vie en tant que wurms, un stade que la plupart d'entre eux ne dépassent pas. Les wurms sont ingénieux et rusés, voire très intelligents. Pour se transformer en drake (puis en dragon), un wurm a besoin de suffisamment d'espace et de ressources. À proximité d'autres drakes et dragons, ils ne se développent pas. Ils doivent élire domicile dans un endroit qui n'a pas encore été revendiqué par un de leurs plus grands congénères.
 
 Leurs chances de se développer étant relativement minces, la plupart des wurms vivent en groupes pour assurer leur survie. Intrépides et très agressives, ces créatures sont aussi relativement intelligentes car la concurrence acharnée à laquelle elles se livrent en matière de nourriture et de territoire l'exige.</DefaultText>
       <FemaleText />
@@ -604,7 +604,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>La dextérité, le déplacement et les réflexes sont respectivement réduits de 2, 3 et 20 points.</DefaultText>
+      <DefaultText>La dextérité, le déplacement et les réflexes sont respectivement réduits de 2, 1.5 et 20 points.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,7 +684,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Les personnages affaiblis voient leur puissance et leur constitution réduites de 2 points. Le déplacement est réduit de 2 points. Le courage et la volonté sont réduits de 20 points.</DefaultText>
+      <DefaultText>Les personnages affaiblis voient leur puissance et leur constitution réduites de 2 points. Le déplacement est réduit de 1 points. Le courage et la volonté sont réduits de 20 points.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -734,7 +734,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>La blessure Entorse de la cheville réduit les réflexes et la dextérité du personnage.</DefaultText>
+      <DefaultText>La blessure Entorse de la cheville réduit les réflexes et la dextérité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -754,7 +754,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>La blessure Épaule foulée inflige une pénalité de vitesse d'action et de puissance au personnage.</DefaultText>
+      <DefaultText>La blessure Épaule foulée inflige une pénalité de vitesse d'action et de puissance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -779,7 +779,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Impact</DefaultText>
+      <DefaultText>Coup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,7 +846,7 @@ Certaines créatures peuvent être invulnérables à un ou plusieurs supplices. 
       <ID>154</ID>
       <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de précision de l'attaquant est comparée à l'une des quatre propriétés défensives suivantes : Déviation (attaques de mêlée et attaques à distance directes), Courage (attaques visant l'organisme, comme le poison et la maladie), Réflexes (attaques dévastatrices à effet de zone) et Volonté (attaques psychiques). 
 
-Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la précision et la défense pour déterminer les résultats de l'attaque. Nombre inférieur ou égal à 15 = échec. Nombre compris entre 16 et 50 = écorchure. Nombre compris entre 51 et 100 = coup. Nombre supérieur à 100 = coup critique). 
+Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la précision et la défense pour déterminer les résultats de l'attaque. Nombre inférieur ou égal à 15 = échec. Nombre compris entre 16 et 50 = écorchure. Nombre compris entre 51 et 100 = coup. Nombre supérieur à 100 = coup critique. 
 
 En cas d'équilibre entre l'attaque et la défense, la majorité des attaques se soldent par des coups ou des écorchures. Lorsque la précision est supérieure à la défense, les coups critiques sont plus probables. Lorsque la défense est supérieure à la précision, les échecs sont plus probables.</DefaultText>
       <FemaleText />
@@ -955,7 +955,7 @@ Notez que pour la plupart des armures et des créatures, les valeurs de réducti
     <Entry>
       <ID>174</ID>
       <DefaultText>L'interruption détermine la probabilité de neutralisation de l'action de l'adversaire et dépend de la concentration de l'autre personnage.
-Le jet utilise la valeur d'interruption de l'attaque (arme ou autre) pour la comparer à la concentration de la cible (qui dépend de la détermination de cette dernière). Le jet peut être compris entre 1 et 100. Ce nombre est ajouté à l'interruption et soustrait de la concentration. Si le résultat est supérieur ou égal à 51, la cible réagit et son action en cours est perdue.</DefaultText>
+Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) pour la comparer à la concentration de la cible (dépend de la détermination). Le jet peut être compris entre 1 et 100. Ce nombre est ajouté à l'interruption et soustrait de la concentration. Si le résultat est supérieur ou égal à 51, la cible subit un coup et son action en cours est retardée. La durée du délai est déterminé par la force de l'interruption, basée sur l'arme ou l'attaque. Une interruption appliquée à un personnage déjà sous le coup d'une interruption dont la durée est plus longue n'aura aucun effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1485,7 +1485,7 @@ Cela signifie que toutes les statistiques des armes s'appliquent encore, y compr
     <Entry>
       <ID>275</ID>
       <DefaultText>Gardien</DefaultText>
-      <FemaleText />
+      <FemaleText>Gardienne</FemaleText>
     </Entry>
     <Entry>
       <ID>276</ID>
@@ -1520,6 +1520,61 @@ Cela signifie que toutes les statistiques des armes s'appliquent encore, y compr
     <Entry>
       <ID>282</ID>
       <DefaultText>Divers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
