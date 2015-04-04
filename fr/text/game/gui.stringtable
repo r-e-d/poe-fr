@@ -1631,7 +1631,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>En mode Grosses têtes, la tête des personnages est ridiculement disproportionnée par rapport à leur corps. Merci, Josh.</DefaultText>
+      <DefaultText>En mode grosses têtes, la tête des personnages est ridiculement disproportionnée par rapport à leur corps. Merci, Josh.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>Si cette option est activée, le jeu n'affiche jamais les cercles de sélection colorés sur les personnages.</DefaultText>
+      <DefaultText>Si cette option est activée, les cercles de sélection seront visibles uniquement en mode pause ou lors du survol du pointeur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2865,7 +2865,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Si cette option est activée, le jeu n'affiche jamais de pointeurs sur les personnages hors écran.</DefaultText>
+      <DefaultText>Si cette option est activée, le jeu n'affiche jamais les pointeurs des personnages hors écran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4460,7 +4460,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Si cette option est activée, les ligatures seront utilisées sur certains personnages, dans les zones de texte.</DefaultText>
+      <DefaultText>Si cette option est activée, les ligatures seront affichées sur certains caractères dans les zones de texte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4960,7 +4960,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>Si cette option est activée, des effets spéciaux peuvent être utilisés lorsque des ennemis sont tués.</DefaultText>
+      <DefaultText>Si cette option est activée, des effets gore peuvent être utilisés lorsque des ennemis sont tués.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5160,7 +5160,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1026</ID>
-      <DefaultText>Échelle de police</DefaultText>
+      <DefaultText>Échelle de la police</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6460,12 +6460,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Morceaux</DefaultText>
+      <DefaultText>Gore</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1287</ID>
-      <DefaultText>Arrière-plan HUD uni</DefaultText>
+      <DefaultText>Arrière-plan ATH uni</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6660,7 +6660,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>Lorsque cette option est activée, certains éléments visuels du jeu sont modifiés pour s'adapter aux utilisateurs daltoniens.</DefaultText>
+      <DefaultText>Si cette option est activée, certains éléments visuels du jeu sont modifiés pour s'adapter aux utilisateurs daltoniens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7090,7 +7090,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>Résolution</DefaultText>
+      <DefaultText>Définition écran</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7175,7 +7175,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1431</ID>
-      <DefaultText>Permet de régler la taille du texte dans les parties riches en texte du jeu, comme les conversations et le journal.</DefaultText>
+      <DefaultText>Ajuste la taille du texte dans les parties abondantes en texte, comme les conversations et le journal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7484,7 +7484,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1492</ID>
-      <DefaultText>Cette option active le rafraîchissement vertical de l'écran.</DefaultText>
+      <DefaultText>Si cette option est activé, le taux de rafraîchissement du jeu sera synchronisé avec celui de l'écran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8124,12 +8124,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1620</ID>
-      <DefaultText>Pointeur Cage</DefaultText>
+      <DefaultText>Pointeur restreint</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1621</ID>
-      <DefaultText>Lorsque cette option est activée, le pointeur de la souris est limité à la fenêtre de jeu.</DefaultText>
+      <DefaultText>Si cette option est activée, les mouvement du pointeur de la souris sont limités à la fenêtre de jeu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8851,7 +8851,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1767</ID>
-      <DefaultText>Modifie la résolution d'écran du jeu (s'appliquera une fois cette fenêtre fermée).</DefaultText>
+      <DefaultText>Modifie la définition de l'écran de jeu (s'appliquera une fois cette fenêtre fermée).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9106,7 +9106,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1818</ID>
-      <DefaultText>Lorsque cette option est activée, le jeu se déroule exclusivement en mode Plein écran. Sinon, le mode fenêtré est utilisé.</DefaultText>
+      <DefaultText>Si cette option est activée, le jeu se lance exclusivement en mode Plein écran. Sinon, il sera lancé en mode fenêtré.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9606,12 +9606,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Afficher la résistance du groupe en nombre</DefaultText>
+      <DefaultText>Afficher les valeurs de résistance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1927</ID>
-      <DefaultText>Affiche les valeurs de résistance actuelle et maximum des membres du groupe en nombre sur leur portrait.</DefaultText>
+      <DefaultText>Affiche les valeurs numériques de résistance, actuelle et maximum, sur le portait des membres du groupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9741,12 +9741,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1960</ID>
-      <DefaultText>Graphics Quality</DefaultText>
+      <DefaultText>Qualité des graphismes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1961</ID>
-      <DefaultText>Adjust the game's graphics quality. Use a lower setting if your game runs slowly.</DefaultText>
+      <DefaultText>Ajuste la qualité des graphismes du jeu. Abaisser ce paramètres si votre jeu est ralenti.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
