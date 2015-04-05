@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>Sample Place</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1087,12 +1087,16 @@ Certaines armes ou attaques peuvent infliger des dégâts de différents types o
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText />
+      <DefaultText>CUT - Damage Reduction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText />
+      <DefaultText>CUT - When an attack hits for any amount of damage, it is initially reduced by the target's Damage Threshold, then further reduced by Damage Reduction.
+
+Damage Reduction is a percentage reduction of incoming damage, making it more valuable against truly large amounts of damage from a single hit. Like Damage Threshold, Damage Reduction cannot reduce incoming damage 20% of the initial amount. When this minimum value is hit, you will see a MIN message in the combat log on the attack line.
+
+Note that many suits of armor and many creatures will grant different Damage Reductions and Damage Thresholds against the different Damage Types. Lower Reductions protect against less damage, making the target more vulnerable to attacks of that type.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1524,57 +1528,65 @@ Cela signifie que toutes les statistiques des armes s'appliquent encore, y compr
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText />
+      <DefaultText>Réserve rapide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText />
+      <DefaultText>Raccourcis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText />
+      <DefaultText>Contenu des contributeurs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText />
+      <DefaultText>Actions planifiées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText />
+      <DefaultText>Cliquer sur un objet d'un conteneur en appuyant sur la touche majuscule le déplacera directement dans votre réserve.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText />
+      <DefaultText>Vous pouvez créer un raccourci de n'importe quelle capacité en plaçant le curseur par dessus son bouton et en appuyant sur la touche de raccourci désirée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText />
+      <DefaultText>Pillars of Eternity a été rendu possible par la générosité de milliers de contributeurs, et nombreux sont ceux qui ont contribué au contenu du jeu définitif.
+	  
+Les PNJ avec des noms sur plaques dorés ont été conçus par nos contributeurs. Interagir avec eux vous permettra de vivre l'histoire de chacun.
+
+Les icones en forme de pierres tombales indiquent un memorial. Ce sont des messages personnalisés écrits par nos contributeurs. Beaucoup de ces messages « briseront le quatrième mur », ainsi les joueurs désirant une immersion totale souhaiteront éviter de cliquer dessus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText />
+      <DefaultText>Cliquer en maintenant la touche majuscule enfoncée ajoute une série d'action ou de points de passage en file d'attente. Ceux-ci seront effectués dans l'ordre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText />
+      <DefaultText>Dégâts collatéraux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText />
+      <DefaultText>Énormément de sorts et de capacités de zone peuvent blesser les ennemis comme les alliés.
+		  
+Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera tout le monde dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
+
+Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affectera pas si ceux-ci sont dans le cercle externe engendré par une forte intelligence. Vous pouvez utiliser ce cercle externe pour frapper les ennemis sans blesser vos alliés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText />
+      <DefaultText>Supprimé</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
