@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Si la résistance d'un personnage est épuisée (0), celui-ci est renversé, mais sa résistance peut être totalement régénérée si son camp remporte le combat. Seul le repos permet généralement de régénérer les dégâts de santé. Si la santé est épuisée (0), le personnage est mutilé ou tué.</DefaultText>
+      <DefaultText>Si l'endurance d'un personnage est épuisée (0), celui-ci est renversé, mais son endurance peut être totalement régénérée si son camp remporte le combat. Seul le repos permet généralement de régénérer les dégâts de santé. Si la santé est épuisée (0), le personnage est mutilé ou tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>La constitution détermine la résistance et la santé du personnage ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des interactions scriptées pour supporter les situations physiquement épuisantes.</DefaultText>
+      <DefaultText>La constitution détermine l'endurance et la santé du personnage ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des interactions scriptées pour supporter les situations physiquement épuisantes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Le remplissage rouge sur le portrait d'un personnage représente la perte de résistance. La barre située à gauche de son portrait représente la perte de santé. La barre de santé change de couleur à mesure qu'elle se rapproche de 0. Lorsque la santé est inférieure à la résistance maximum, une barre apparaît sur le portrait pour indiquer que la résistance est limitée.</DefaultText>
+      <DefaultText>Le remplissage rouge sur le portrait d'un personnage représente la perte d'endurance. La barre située à gauche de son portrait représente la perte de santé. La barre de santé change de couleur à mesure qu'elle se rapproche de 0. Lorsque la santé est inférieure à l'endurance maximum, une barre apparaît sur le portrait pour indiquer que l'endurance est limitée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

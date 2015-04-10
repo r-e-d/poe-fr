@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Lorsqu'un membre du groupe subit des dégâts, sa résistance et sa santé déclinent. Un voile rouge commence à recouvrir son portrait et la barre de santé située à sa gauche baisse. Lorsque le voile recouvre entièrement le portrait, le personnage est KO. Des potions et des sorts peuvent être utilisés pour régénérer la résistance des personnages et leur permettre de continuer à combattre, mais seul du repos leur permettra de recouvrer la santé.</DefaultText>
+      <DefaultText>Lorsqu'un membre du groupe subit des dégâts, son endurance et sa santé déclinent. Un voile rouge commence à recouvrir son portrait et la barre de santé située à sa gauche baisse. Lorsque le voile recouvre entièrement le portrait, le personnage est KO. Des potions et des sorts peuvent être utilisés pour régénérer l'endurance des personnages et leur permettre de continuer à combattre, mais seul du repos leur permettra de recouvrer la santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Aïe ! Lorsque la résistance d'un membre du groupe est épuisée, il est KO. Il ne peut alors plus combattre. Cela dit, si votre camp remporte le combat, sa résistance sera régénérée à l'issue de celui-ci. Contrairement à la résistance, la santé ne se régénère pas à l'issue du combat. Surveillez la barre située à gauche du portrait du personnage pour veiller à ce qu'il ne soit pas mutilé ou tué.</DefaultText>
+      <DefaultText>Aïe ! Lorsque l'endurance d'un membre du groupe est épuisée, il est KO. Il ne peut alors plus combattre. Cela dit, si votre camp remporte le combat, son endurance sera régénérée à l'issue de celui-ci. Contrairement à l'endurance, la santé ne se régénère pas à l'issue du combat. Surveillez la barre située à gauche du portrait du personnage pour veiller à ce qu'il ne soit pas mutilé ou tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

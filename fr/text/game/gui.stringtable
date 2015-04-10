@@ -646,12 +646,12 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>{0} récupère {1} de résistance.</DefaultText>
+      <DefaultText>{0} récupère {1} d'endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>{2} soigne {0} pour {1} de résistance.</DefaultText>
+      <DefaultText>{2} soigne {0} pour {1} d'endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Faible résistance</DefaultText>
+      <DefaultText>Faible endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,7 +996,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Le mode Pause automatique est activé lorsque la résistance d'un membre du groupe est inférieure à 25 %.</DefaultText>
+      <DefaultText>Le mode Pause automatique est activé lorsque l'endurance d'un membre du groupe est inférieure à 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1831,7 +1831,7 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>{0} % de résistance et santé, {1} de courage</DefaultText>
+      <DefaultText>{0} % d'endurance et santé, {1} de courage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2356,7 +2356,7 @@
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>La constitution combine la santé globale et la résistance d'un personnage. Bien que peu utilisée lors des interactions, elle permet de résister à la douleur ou d'endurer une terrible épreuve physique. Au combat, elle agit sur la santé et la résistance maximum ainsi que sur la propriété défensive Courage.</DefaultText>
+      <DefaultText>La constitution combine la santé globale et l'endurance d'un personnage. Bien que peu utilisée lors des interactions, elle permet de résister à la douleur ou d'endurer une terrible épreuve physique. Au combat, elle agit sur la santé et l'endroit maximum ainsi que sur la propriété défensive Courage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2398,21 +2398,21 @@
       <ID>481</ID>
       <DefaultText>Le Peuple des prairies (ou Thyrtans) constitue la principale communauté humaine de Dyrwood, où elle vit depuis près de 2 000 ans. Les représentants du Peuple des prairies vivent traditionnellement à la lisière des forêts elfiques et travaillent dans les plaines, d'où leur nom. La plupart des humains de Dyrwood sont des Thyrtans. 
 
-Esprit combatif - Une fois par rencontre, 5 secondes après que leur résistance passe en-dessous de la barre des 50 %, les représentants de ce peuple reçoivent momentanément des bonus de précision et de dégâts.</DefaultText>
+Esprit combatif - Une fois par rencontre, 5 secondes après que leur endurance passe en-dessous de la barre des 50 %, les représentants de ce peuple reçoivent momentanément des bonus de précision et de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>482</ID>
       <DefaultText>Le Peuple des océans (Calbandras) puise ses origines près de l'Équateur, de l'autre côté du globe, et constitue la communauté humaine la plus répandue de cette région, mais il a aussi migré vers de lointaines contrées du monde. Le Peuple des océans représente la culture dominante des Républiques de Vailia et est également bien représenté à Dyrwood. 
 
-Esprit combatif - Une fois par rencontre, 5 secondes après que leur résistance passe en-dessous de la barre des 50 %, les représentants de ce peuple reçoivent momentanément des bonus de précision et de dégâts.</DefaultText>
+Esprit combatif - Une fois par rencontre, 5 secondes après que leur endurance passe en-dessous de la barre des 50 %, les représentants de ce peuple reçoivent momentanément des bonus de précision et de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>483</ID>
       <DefaultText>Le Peuple de la savane (ou Natlans) est originaire du sud de l'Équateur et, à l'exception de quelques groupes qui ont migré vers le nord, il n'en a pas bougé pendant plus de dix mille ans. Le terme Natlan signifie littéralement « originaire ». Bien représentés à Readceras, les membres du Peuple de la savane sont rares à Dyrwood et dans les Républiques de Vailia. 
 
-Esprit combatif - Une fois par rencontre, 5 secondes après que leur résistance passe en-dessous de la barre des 50 %, les représentants de ce peuple reçoivent momentanément des bonus de précision et de dégâts.</DefaultText>
+Esprit combatif - Une fois par rencontre, 5 secondes après que leur endurance passe en-dessous de la barre des 50 %, les représentants de ce peuple reçoivent momentanément des bonus de précision et de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2448,28 +2448,28 @@ Instincts de chasseur - Les nains australs bénéficient de 15 points de préci
       <ID>488</ID>
       <DefaultText>Les divins de la mort inspirent plus de méfiance que les autres divins. Les étranges excroissances qui couvrent leurs yeux, et parfois même leur visage, leur donnent un air menaçant. Transparentes pour les divins, ces excroissances masquent leurs traits pour les autres. Les divins de la mort sont souvent tués à la naissance car de nombreuses cultures considèrent qu'ils portent malheur. 
 
-Vecteur de mort - Lorsque les divins de la mort attaquent un ennemi dont la résistance est inférieure ou égale à 15 %, les dégâts infligés sont accrus.</DefaultText>
+Vecteur de mort - Lorsque les divins de la mort attaquent un ennemi dont la endurance est inférieure ou égale à 15 %, les dégâts infligés sont accrus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
       <DefaultText>Le corps des divins du feu ressemble à du métal incandescent, à du bois brûlé ou à de la pierre, et des flammes inoffensives jaillissent des crevasses de leur peau. Les divins du feu sont à la fois vénérés et craints dans l'archipel du Feu éteint. Les habitants de la région les croient capables de réveiller des volcans, ou s'imaginent du moins qu'en les tuant, ils risquent de réveiller un volcan. À Dyrwood, les divins du feu sont souvent considérés comme une bénédiction de Magran, la déesse de la guerre et du feu. 
 
-Forgé pour le combat - En dessous de 50 % de résistance, les divins du feu brillent comme du métal dans une forge, ce qui accroît leur réduction de dégâts et inflige des dégâts de feu minimes à toute créature qui les frappe en mêlée.</DefaultText>
+Forgé pour le combat - En dessous de 50 % d'endurance, les divins du feu brillent comme du métal dans une forge, ce qui accroît leur réduction de dégâts et inflige des dégâts de feu minimes à toute créature qui les frappe en mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
       <DefaultText>Les divins de la nature combinent des caractéristiques humaines et animales, et leur corps est souvent recouvert de plantes, de mousse ou de champignons. Compte tenu de cette apparence, on les croit souvent malades et bon nombre d'entre eux sont tués à la naissance. Beaucoup d'ordres druidiques s'intéressent aux divins de la nature en raison de la curiosité dont ils font preuve à l'égard des âmes qui habitent les animaux, les plantes et les pierres. 
 
-Source de vie - Toute régénération de résistance progressive est 25 % plus rapide.</DefaultText>
+Source de vie - Toute régénération de endurance progressive est 25 % plus rapide.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>491</ID>
       <DefaultText>Les divins de la lune sont les divins les mieux tolérés. Malgré la couleur de leur peau et la grosse excroissance en forme de lune qu'ils portent sur le front, les autres êtres civilisés les jugent plus agréables à regarder. Entre autres croyances, les marins pensent que les divins de la lune portent chance, même si les avis divergent quant à la nature de celle-ci. 
 
-Marée argentée - À chaque rencontre, lorsque la résistance est inférieure à 75 %, 50 % et 25 %, les divins de la lune génèrent des vagues curatrices de clair de lune qui régénèrent leur résistance et celle de leurs alliés.</DefaultText>
+Marée argentée - À chaque rencontre, lorsque l'endurance est inférieure à 75 %, 50 % et 25 %, les divins de la lune génèrent des vagues curatrices de clair de lune qui régénèrent leur endurance et celle de leurs alliés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2502,10 +2502,10 @@ Armé jusqu'aux dents - Tous les aumauas insulaires bénéficient d'un jeu d'arm
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>Les combattants constituent la ligne de front des armées disciplinées des Contrées orientales. Bien que plus répandus dans les cultures dotées d'une structure martiale organisée, les combattants peuvent aussi être mercenaires, gardes du corps ou occuper des postes similaires. La résistance et la défense de mêlée des combattants sont excellentes.
+      <DefaultText>Les combattants constituent la ligne de front des armées disciplinées des Contrées orientales. Bien que plus répandus dans les cultures dotées d'une structure martiale organisée, les combattants peuvent aussi être mercenaires, gardes du corps ou occuper des postes similaires. La endurance et la défense de mêlée des combattants sont excellentes.
 
 Capacité de départ : 
-Récupération constante - Les combattants régénèrent continuellement leur résistance à un rythme modeste pendant le combat.</DefaultText>
+Récupération constante - Les combattants régénèrent continuellement leur endurance à un rythme modeste pendant le combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,7 +2521,7 @@ Attaque furtive - Applique un bonus de dégâts aux attaques armées à distance
       <DefaultText>Les prêtres sont des adeptes des divinités d'Eora et pratiquent la magie religieuse. Bien que tous les prêtres se consacrent à des dieux spécifiques, ils puisent leur force dans leurs croyances personnelles. Contrairement à la plupart des paladins, les prêtres ont tendance à se concentrer sur la philosophie, sur l'enseignement et sur les relations des organisations religieuses avec le peuple. L'accueil réservé aux prêtres dépend principalement de la manière dont le dieu qu'ils vénèrent est perçu par les habitants de la région.
 
 Capacités de départ : 
-Rayonnement sacré - Renforce légèrement la résistance des alliés qui entourent le prêtre. Tout vaisseau ennemi présent dans la zone subit des dégâts de brûlure et peut être frappé d'effroi. Au fil du jeu, le pouvoir de cette capacité peut évoluer en fonction des réputations du prêtre par rapport aux comportements privilégiés par sa divinité. 
+Rayonnement sacré - Renforce légèrement l'endurance des alliés qui entourent le prêtre. Tout vaisseau ennemi présent dans la zone subit des dégâts de brûlure et peut être frappé d'effroi. Au fil du jeu, le pouvoir de cette capacité peut évoluer en fonction des réputations du prêtre par rapport aux comportements privilégiés par sa divinité.
 Sorts - Les prêtres ont accès à un éventail de sorts offensifs et de soutien. Tous les deux niveaux, ils ont automatiquement accès à un ensemble de sorts supplémentaires. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des prêtres augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText />
     </Entry>
@@ -5545,7 +5545,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1103</ID>
-      <DefaultText>{0} de résistance max</DefaultText>
+      <DefaultText>{0} d'endurance max</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5555,7 +5555,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>{0} de résistance</DefaultText>
+      <DefaultText>{0} d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5590,7 +5590,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>{0} de résistance par seconde</DefaultText>
+      <DefaultText>{0} d'endurance par seconde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5830,12 +5830,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>{0} de résistance puisée</DefaultText>
+      <DefaultText>{0} d'endurance puisée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1161</ID>
-      <DefaultText>{0} de régénération de résistance</DefaultText>
+      <DefaultText>{0} de régénération d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5880,7 +5880,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>{0} de dégâts contre les ennemis dotés d'une faible résistance</DefaultText>
+      <DefaultText>{0} de dégâts contre les ennemis dotés d'une faible endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6105,7 +6105,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1215</ID>
-      <DefaultText>{0} de résistance</DefaultText>
+      <DefaultText>{0} d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6190,7 +6190,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>{0} de dégâts régénérés sous forme de résistance</DefaultText>
+      <DefaultText>{0} de dégâts régénérés sous forme d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6200,12 +6200,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>{0} de précision lorsque la résistance est inférieure à {1}</DefaultText>
+      <DefaultText>{0} de précision lorsque l'endurance est inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>{0} de dégâts lorsque la résistance est inférieure à {1}</DefaultText>
+      <DefaultText>{0} de dégâts lorsque l'endurance est inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6360,7 +6360,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>{0} de dégâts de {1} convertis en résistance</DefaultText>
+      <DefaultText>{0} de dégâts de {1} convertis en endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6405,7 +6405,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Ranimation avec {0} de résistance</DefaultText>
+      <DefaultText>Ranimation avec {0} d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6600,7 +6600,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1314</ID>
-      <DefaultText>Santé et résistance masquées</DefaultText>
+      <DefaultText>Santé et endurance masquées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6615,7 +6615,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>{0} de résistance maximale</DefaultText>
+      <DefaultText>{0} d'endurance maximale</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6860,7 +6860,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1366</ID>
-      <DefaultText>Requiert une résistance inférieure à {0}</DefaultText>
+      <DefaultText>Requiert une endurance inférieure à {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6880,12 +6880,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1370</ID>
-      <DefaultText>Requiert au moins {0} de résistance</DefaultText>
+      <DefaultText>Requiert au moins {0} d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1371</ID>
-      <DefaultText>Requiert une résistance inférieure à {0}</DefaultText>
+      <DefaultText>Requiert une endurance inférieure à {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7514,7 +7514,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1498</ID>
-      <DefaultText>Résistance</DefaultText>
+      <DefaultText>Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7684,7 +7684,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Draine {0} dégâts de {1} et restaure de la résistance</DefaultText>
+      <DefaultText>Draine {0} dégâts de {1} et restaure de l'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7754,7 +7754,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1546</ID>
-      <DefaultText>{0} lorsque la résistance est inférieure à {1}</DefaultText>
+      <DefaultText>{0} lorsque l'endurance est inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7784,12 +7784,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1552</ID>
-      <DefaultText>{0} lorsque la résistance est supérieure à {1}</DefaultText>
+      <DefaultText>{0} lorsque l'endurance est supérieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1553</ID>
-      <DefaultText>{0} lorsque la résistance est inférieure à {1}</DefaultText>
+      <DefaultText>{0} lorsque l'endurance est inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8484,7 +8484,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1693</ID>
-      <DefaultText>{0} de coups convertis en coups critiques contre des cibles de résistance faible</DefaultText>
+      <DefaultText>{0} de coups convertis en coups critiques contre des cibles de faible endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9386,12 +9386,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1874</ID>
-      <DefaultText>Afficher la résistance sur les portraits</DefaultText>
+      <DefaultText>Afficher l'endurance sur les portraits</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1875</ID>
-      <DefaultText>Permet d'afficher la résistance sur les portraits des membres du groupe sous forme de chiffre.</DefaultText>
+      <DefaultText>Permet d'afficher l'endurance sur les portraits des membres du groupe sous forme de chiffre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9606,12 +9606,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Afficher les valeurs de résistance</DefaultText>
+      <DefaultText>Afficher les valeurs d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1927</ID>
-      <DefaultText>Affiche les valeurs numériques de résistance, actuelle et maximum, sur le portait des membres du groupe.</DefaultText>
+      <DefaultText>Affiche les valeurs numériques d'endurance, actuelle et maximum, sur le portait des membres du groupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9721,7 +9721,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>{0} de multiplicateur de dégâts critiques contre les ennemis dotés d'une faible résistance</DefaultText>
+      <DefaultText>{0} de multiplicateur de dégâts critiques contre les ennemis dotés d'une faible endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

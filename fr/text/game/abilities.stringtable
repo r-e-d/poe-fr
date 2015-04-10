@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Siphonnage de résistance</DefaultText>
+      <DefaultText>Siphonnage d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Siphonnage de résistance</DefaultText>
+      <DefaultText>Siphonnage d'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,12 +1176,12 @@
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Isole une cible au sein d'une sphère de protection qui régénère sa résistance.</DefaultText>
+      <DefaultText>Isole une cible au sein d'une sphère de protection qui régénère son endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Crée un cercle de guérison durable qui régénère la résistance des alliés.</DefaultText>
+      <DefaultText>Crée un cercle de guérison durable qui régénère l'endurance des alliés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,7 +1196,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Crée une projection énergétique de la foi du prêtre qui se déplace lentement et régénère la résistance des alliés tout en infligeant des dégâts de gel aux ennemis.</DefaultText>
+      <DefaultText>Crée une projection énergétique de la foi du prêtre qui se déplace lentement et régénère l'endurance des alliés tout en infligeant des dégâts de gel aux ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Offre aux alliés l'aide d'une âme compatissante qui déclenche un effet de guérison lorsque leur résistance est faible.</DefaultText>
+      <DefaultText>Offre aux alliés l'aide d'une âme compatissante qui déclenche un effet de guérison lorsque leur endurance est faible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Dissout l'esprit de la cible en lui infligeant des dégâts de corrosion et en transformant cette essence en résistance pour le jeteur de sorts.</DefaultText>
+      <DefaultText>Dissout l'esprit de la cible en lui infligeant des dégâts de corrosion et en transformant cette essence en endurance pour le jeteur de sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Le jeteur de sorts puise la force vitale de la cible pour améliorer sa vigueur, ce qui accroît sa vitesse et ses déplacements tout en réduisant la résistance de l'ennemi.</DefaultText>
+      <DefaultText>Le jeteur de sorts puise la force vitale de la cible pour améliorer sa vigueur, ce qui accroît sa vitesse et ses déplacements tout en réduisant l'endurance de l'ennemi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,7 +1416,7 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Dans l'intensité de la bataille, le combattant régénère continuellement sa résistance à un rythme modeste.</DefaultText>
+      <DefaultText>Dans l'intensité de la bataille, le combattant régénère continuellement son endurance à un rythme modeste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1451,7 +1451,7 @@
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>Crée un champ d'énergie sacrée autour du prêtre, en carbonisant tous les vaisseaux alentour et en régénérant une modeste partie de la résistance des alliés. Le pouvoir du Rayonnement sacré d'un prêtre varie en fonction de l'alignement de ses réputations avec les comportements tolérés par sa foi.</DefaultText>
+      <DefaultText>Crée un champ d'énergie sacrée autour du prêtre, en carbonisant tous les vaisseaux alentour et en régénérant une modeste partie de l'endurance des alliés. Le pouvoir du Rayonnement sacré d'un prêtre varie en fonction de l'alignement de ses réputations avec les comportements tolérés par sa foi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Ordonne à un allié inconscient de se relever, ce qui lui confère un bonus de résistance important mais temporaire puisque la moitié disparaît rapidement.</DefaultText>
+      <DefaultText>Ordonne à un allié inconscient de se relever, ce qui lui confère un bonus d'endurance important mais temporaire puisque la moitié disparaît rapidement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1546,7 +1546,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Uniquement motivé par la foi, le paladin peut guérir par imposition des mains. Le paladin ou un allié situé à sa portée peut ainsi récupérer un degré de résistance important.</DefaultText>
+      <DefaultText>Uniquement motivé par la foi, le paladin peut guérir par imposition des mains. Le paladin ou un allié situé à sa portée peut ainsi récupérer un degré de endurance important.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,7 +1826,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>Le combattant tire sa force de son esprit indomptable, ce qui lui permet de récupérer 50 % de la résistance perdue lors d'une attaque.</DefaultText>
+      <DefaultText>Le combattant tire sa force de son esprit indomptable, ce qui lui permet de récupérer 50 % de l'endurance perdue lors d'une attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Le combattant refuse de s'avouer vaincu. Lorsque sa résistance est nulle, le combattant se relève et reçoit 50 % de sa résistance maximale ainsi qu'une augmentation temporaire de ses défenses et de sa réduction de dégâts.</DefaultText>
+      <DefaultText>Le combattant refuse de s'avouer vaincu. Lorsque son endurance est nulle, le combattant se relève et reçoit 50 % de son endurance maximale ainsi qu'une augmentation temporaire de ses défenses et de sa réduction de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2021,7 +2021,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Insuffle de la vitalité au jeteur de sorts qui bénéficie d'une augmentation temporaire de sa résistance actuelle et maximale.</DefaultText>
+      <DefaultText>Insuffle de la vitalité au jeteur de sorts qui bénéficie d'une augmentation temporaire de sa endurance actuelle et maximale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2071,7 +2071,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>La main du jeteur de sorts se transforme en parasite toxique qui inflige des dégâts de corrosion à la cible, l'affaiblit et réduit une partie de sa résistance.</DefaultText>
+      <DefaultText>La main du jeteur de sorts se transforme en parasite toxique qui inflige des dégâts de corrosion à la cible, l'affaiblit et réduit une partie de son endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2341,7 +2341,7 @@
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Insuffle aux alliés la ferveur de la droiture au combat. Lorsqu'un allié présent dans la zone d'effet porte un coup fatal, il récupère de la résistance.</DefaultText>
+      <DefaultText>Insuffle aux alliés la ferveur de la droiture au combat. Lorsqu'un allié présent dans la zone d'effet porte un coup fatal, il récupère de l'endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2386,7 +2386,7 @@
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Accorde une deuxième chance en ranimant les alliés inconscients présents dans la zone d'effet et en régénérant une petite partie de leur résistance.</DefaultText>
+      <DefaultText>Accorde une deuxième chance en ranimant les alliés inconscients présents dans la zone d'effet et en régénérant une petite partie de leur endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2436,7 +2436,7 @@
     </Entry>
     <Entry>
       <ID>502</ID>
-      <DefaultText>Invoque l'aide du dieu du prêtre, ce qui régénère la résistance et abrège les effets négatifs pour tous les alliés présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Invoque l'aide du dieu du prêtre, ce qui régénère l'endurance et abrège les effets négatifs pour tous les alliés présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2651,7 +2651,7 @@
     </Entry>
     <Entry>
       <ID>547</ID>
-      <DefaultText>Forme un nuage de purification qui régénère la résistance des alliés et repousse les ennemis.</DefaultText>
+      <DefaultText>Forme un nuage de purification qui régénère l'endurance des alliés et repousse les ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2851,7 +2851,7 @@
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Permet à un allié de bloquer mentalement sa douleur, ce qui confère un bonus à sa réduction de dégâts et régénère progressivement sa résistance.</DefaultText>
+      <DefaultText>Permet à un allié de bloquer mentalement sa douleur, ce qui confère un bonus à sa réduction de dégâts et régénère progressivement son endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,7 +2891,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts pénétrants. Les cibles dont la résistance est faible explosent, infligeant au passage des dégâts d'écrasement à tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts pénétrants. Les cibles dont l'endurance est faible explosent, infligeant au passage des dégâts d'écrasement à tous les personnages présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Dévore la force impalpable qui unit l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts pénétrants. Les cibles dont la résistance est nulle se désintègrent.</DefaultText>
+      <DefaultText>Dévore la force impalpable qui unit l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts pénétrants. Les cibles dont l'endurance est nulle se désintègrent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3146,7 +3146,7 @@
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>Puise une partie de la résistance de tous les ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Puise une partie de l'endurance de tous les ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3986,7 +3986,7 @@
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText>Ranime les alliés présents dans la zone d'effet en régénérant légèrement leur résistance.</DefaultText>
+      <DefaultText>Ranime les alliés présents dans la zone d'effet en régénérant légèrement leur endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4046,7 +4046,7 @@
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts pénétrants continus sont ajoutés à l'attaque de celui-ci et sa résistance est régénérée.</DefaultText>
+      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts pénétrants continus sont ajoutés à l'attaque de celui-ci et son endurance est régénérée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4086,7 +4086,7 @@
     </Entry>
     <Entry>
       <ID>834</ID>
-      <DefaultText>Canalise l'énergie lunaire et la dirige vers une source localisée qui régénère la résistance des alliés présents dans la zone d'effet et confère un bonus mineur à toutes les défenses.</DefaultText>
+      <DefaultText>Canalise l'énergie lunaire et la dirige vers une source localisée qui régénère l'endurance des alliés présents dans la zone d'effet et confère un bonus mineur à toutes les défenses.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4131,7 +4131,7 @@
     </Entry>
     <Entry>
       <ID>843</ID>
-      <DefaultText>Fait apparaître un bâton incandescent de pure énergie pour le magicien, ce qui lui confère une chance supplémentaire de frapper et augmente sa résistance à chaque frappe réussie.</DefaultText>
+      <DefaultText>Fait apparaître un bâton incandescent de pure énergie pour le magicien, ce qui lui confère une chance supplémentaire de frapper et augmente son endurance à chaque frappe réussie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4196,7 +4196,7 @@
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Un évènement magique insidieux se déclenche lorsque le lanceur atteint 50 % de résistance. Il renverse immédiatement les ennemis les plus proches et bénéficie brièvement d'un bonus de réduction de dégâts et de défense.</DefaultText>
+      <DefaultText>Un évènement magique insidieux se déclenche lorsque le lanceur atteint 50 % d'endurance. Il renverse immédiatement les ennemis les plus proches et bénéficie brièvement d'un bonus de réduction de dégâts et de défense.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4216,7 +4216,7 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Fait apparaître un anneau noir d'énergie nécrotique qui se déploie dans toutes les directions pour infliger des dégâts de corrosion à tout ce qu'il touche. Il peut également détruire les personnages dont la résistance est faible.</DefaultText>
+      <DefaultText>Fait apparaître un anneau noir d'énergie nécrotique qui se déploie dans toutes les directions pour infliger des dégâts de corrosion à tout ce qu'il touche. Il peut également détruire les personnages dont l'endurance est faible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4231,7 +4231,7 @@
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>Le barbare entre dans un état frénétique, ce qui confère un bonus de puissance, de constitution et de vitesse d'attaque, mais inflige une pénalité de déviation contre les attaques subies. Pendant que la frénésie du barbare est active, sa résistance et sa santé sont masquées.</DefaultText>
+      <DefaultText>Le barbare entre dans un état frénétique, ce qui confère un bonus de puissance, de constitution et de vitesse d'attaque, mais inflige une pénalité de déviation contre les attaques subies. Pendant que la frénésie du barbare est active, son endurance et sa santé sont masquées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4246,12 +4246,12 @@
     </Entry>
     <Entry>
       <ID>866</ID>
-      <DefaultText>Le barbare canalise son irrépressible détermination, ce qui régénère une grande partie de sa résistance.</DefaultText>
+      <DefaultText>Le barbare canalise son irrépressible détermination, ce qui régénère une grande partie de son endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>867</ID>
-      <DefaultText>Lorsqu'il souffre, le barbare se déchaîne, ce qui lui confère un bonus de dégâts, à condition que sa résistance soit inférieure à 50 %.</DefaultText>
+      <DefaultText>Lorsqu'il souffre, le barbare se déchaîne, ce qui lui confère un bonus de dégâts, à condition que son endurance soit inférieure à 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4291,7 +4291,7 @@
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>Déclenche une revanche finale lorsque le barbare a réduit la résistance à 0. Il massacre alors instantanément tous les personnages qui se trouvent à sa portée en lançant une attaque maximum.</DefaultText>
+      <DefaultText>Déclenche une revanche finale lorsque le barbare a réduit l'endurance à 0. Il massacre alors instantanément tous les personnages qui se trouvent à sa portée en lançant une attaque maximum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4301,7 +4301,7 @@
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>Invoque une énergie primitive qui permet aux alliés situés à portée de bénéficier d'une régénération de résistance constante pendant que l'incantateur chante.</DefaultText>
+      <DefaultText>Invoque une énergie primitive qui permet aux alliés situés à portée de bénéficier d'une régénération d'endurance constante pendant que l'incantateur chante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4311,7 +4311,7 @@
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Fait appel au lien naturel qui unit le druide au sanglier, ce qui lui permet de prendre momentanément cette forme. La transformation spirituelle Sanglier régénère la résistance perdue et ses attaques de mêlée infligent des dégâts sur la durée.</DefaultText>
+      <DefaultText>Fait appel au lien naturel qui unit le druide au sanglier, ce qui lui permet de prendre momentanément cette forme. La transformation spirituelle Sanglier régénère l'endurance perdue et ses attaques de mêlée infligent des dégâts sur la durée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4506,7 +4506,7 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Le bandit s'efforce d'achever un adversaire blessé en lui assénant un coup précis et fatal via un bonus de précision dont la puissance est plus importante lorsque la résistance de la cible est faible.</DefaultText>
+      <DefaultText>Le bandit s'efforce d'achever un adversaire blessé en lui assénant un coup précis et fatal via un bonus de précision dont la puissance est plus importante lorsque l'endurance de la cible est faible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4951,7 +4951,7 @@
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>La transformation spirituelle en Sanglier permet au druide de régénérer continuellement sa résistance à un rythme modeste.</DefaultText>
+      <DefaultText>La transformation spirituelle en Sanglier permet au druide de régénérer continuellement son endurance à un rythme modeste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5014,7 +5014,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>Lorsque la résistance des sangliers de compagnie est inférieure à 50 %, ceux-ci bénéficient d'un bonus de dégâts.
+      <DefaultText>Lorsque l'endurance des sangliers de compagnie est inférieure à 50 %, ceux-ci bénéficient d'un bonus de dégâts.
 
 Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
 
@@ -5028,7 +5028,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>Tous les sangliers de compagnie reçoivent un bonus de dégâts, tant que leur résistance est inférieure à 50 %.</DefaultText>
+      <DefaultText>Tous les sangliers de compagnie reçoivent un bonus de dégâts, tant que leur endurance est inférieure à 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5390,7 +5390,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1090</ID>
-      <DefaultText>Lorsque le paladin terrasse un adversaire, les ennemis alentour bénéficient d'une résistance accrue.</DefaultText>
+      <DefaultText>Lorsque le paladin terrasse un adversaire, les ennemis alentour bénéficient d'une endurance accrue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5410,7 +5410,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1094</ID>
-      <DefaultText>Les Flammes de dévotion du paladin rétablissent la résistance des alliés alentour.</DefaultText>
+      <DefaultText>Les Flammes de dévotion du paladin rétablissent l'endurance des alliés alentour.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5980,7 +5980,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Toutes les attaques lancées contre des ennemis à une faible résistance transforment certains coups en coups critiques, et tous les coups critiques infligent des dégâts supplémentaires.</DefaultText>
+      <DefaultText>Toutes les attaques lancées contre des ennemis à une faible endurance transforment certains coups en coups critiques, et tous les coups critiques infligent des dégâts supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6455,7 +6455,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Lorsque la résistance des divins du feu est faible, leur corps s'endurcit, ce qui améliore leur réduction de dégâts, et leur âme se déchaîne sur les assaillants en infligeant des dégâts de brûlure à tous ceux qui les frappent en mêlée.</DefaultText>
+      <DefaultText>Lorsque l'endurance des divins du feu est faible, leur corps s'endurcit, ce qui améliore leur réduction de dégâts, et leur âme se déchaîne sur les assaillants en infligeant des dégâts de brûlure à tous ceux qui les frappent en mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6560,7 +6560,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1328</ID>
-      <DefaultText>Puise le pouvoir vivifiant de la nature pour créer un léger effet de régénération et augmenter la résistance maximale des membres du groupe.</DefaultText>
+      <DefaultText>Puise le pouvoir vivifiant de la nature pour créer un léger effet de régénération et augmenter l'endurance maximale des membres du groupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6590,7 +6590,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText>Les divins avians sont naturellement difficiles à frapper avec des armes à distance, ce qui confère un bonus de déviation contre toutes les attaques de ce type. Sous la barre des 50 % de résistance, les sens et les déplacements d'un divin avian deviennent plus précis, ce qui confère un bonus de perception et de défense contre les attaques de désengagement.</DefaultText>
+      <DefaultText>Les divins avians sont naturellement difficiles à frapper avec des armes à distance, ce qui confère un bonus de déviation contre toutes les attaques de ce type. Sous la barre des 50 % d'endurance, les sens et les déplacements d'un divin avian deviennent plus précis, ce qui confère un bonus de perception et de défense contre les attaques de désengagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6600,12 +6600,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1336</ID>
-      <DefaultText>Les divins de la mort semblent sentir de manière innée la vulnérabilité de leurs ennemis lorsque la mort se profile. Contre toutes les cibles dotées d'une faible résistance, les divins de la mort reçoivent un bonus de dégâts.</DefaultText>
+      <DefaultText>Les divins de la mort semblent sentir de manière innée la vulnérabilité de leurs ennemis lorsque la mort se profile. Contre toutes les cibles dotées d'une faible endurance, les divins de la mort reçoivent un bonus de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Tous les humains possèdent un esprit indomptable capable de relever tous les défis lorsque la situation paraît désespérée. Lorsque la résistance d'un humain est inférieure à 50 %, il reçoit un bonus de précision et de dégâts.</DefaultText>
+      <DefaultText>Tous les humains possèdent un esprit indomptable capable de relever tous les défis lorsque la situation paraît désespérée. Lorsque l'endurance d'un humain est inférieure à 50 %, il reçoit un bonus de précision et de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6620,7 +6620,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>Les âmes de tous les divins de la lune sont reliées à des réserves d'énergie de guérison. Au combat, lorsque la résistance d'un divin de la lune passe sous la barre des 75 %, 50 % et 25 % pour la première fois, il génère automatiquement une vague de guérison autour de lui.</DefaultText>
+      <DefaultText>Les âmes de tous les divins de la lune sont reliées à des réserves d'énergie de guérison. Au combat, lorsque l'endurance d'un divin de la lune passe sous la barre des 75 %, 50 % et 25 % pour la première fois, il génère automatiquement une vague de guérison autour de lui.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6630,7 +6630,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1342</ID>
-      <DefaultText>Les âmes des divins de la nature réagissent avec une grande puissance à la détresse et à l'effondrement imminent de leur enveloppe physique. Lorsque la résistance d'un divin de la nature est inférieure à 50 %, il reçoit un bonus de puissance, de constitution et de dextérité.</DefaultText>
+      <DefaultText>Les âmes des divins de la nature réagissent avec une grande puissance à la détresse et à l'effondrement imminent de leur enveloppe physique. Lorsque l'endurance d'un divin de la nature est inférieure à 50 %, il reçoit un bonus de puissance, de constitution et de dextérité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6660,7 +6660,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1348</ID>
-      <DefaultText>Régénère une portion modérée de la résistance de son utilisateur à chaque utilisation.</DefaultText>
+      <DefaultText>Régénère une portion modérée de l'endurance de son utilisateur à chaque utilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6725,7 +6725,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1361</ID>
-      <DefaultText>Le Gardien ou la Gardienne expose l'essence vitale de ses ennemis, ce qui lui confère de la résistance.</DefaultText>
+      <DefaultText>Le Gardien ou la Gardienne expose l'essence vitale de ses ennemis, ce qui lui confère de l'endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6840,7 +6840,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1385</ID>
-      <DefaultText>Empêche la santé d'un personnage gravement blessé d'atteindre le seuil fatal de 0. Le personnage peut néanmoins être renversé si sa résistance est épuisée.</DefaultText>
+      <DefaultText>Empêche la santé d'un personnage gravement blessé d'atteindre le seuil fatal de 0. Le personnage peut néanmoins être renversé si son endurance est épuisée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -889,12 +889,12 @@ Notez que pour la plupart des armures et des créatures, les valeurs de réducti
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Résistance</DefaultText>
+      <DefaultText>Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>La résistance représente la capacité de survie d'un personnage à court terme. Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de sa résistance et de sa santé. Les potions et les sorts de guérison (d'un paladin, d'un prêtre ou d'un druide) peuvent renforcer la résistance au combat. Lorsque la résistance du personnage est épuisée (0), celui-ci est renversé. Un personnage renversé peut reprendre le combat grâce à l'utilisation d'une capacité Ranimation. Sinon, le personnage récupère toute sa résistance à la fin du combat (à condition qu'il appartienne au camp victorieux).</DefaultText>
+      <DefaultText>L'endurance représente la capacité de survie d'un personnage à court terme. Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de son endurance et de sa santé. Les potions et les sorts de guérison (d'un paladin, d'un prêtre ou d'un druide) peuvent renforcer l'endurance au combat. Lorsque l'endurance du personnage est épuisée (0), celui-ci est renversé. Un personnage renversé peut reprendre le combat grâce à l'utilisation d'une capacité Ranimation. Sinon, le personnage récupère toute son endurance à la fin du combat (à condition qu'il appartienne au camp victorieux).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -904,7 +904,7 @@ Notez que pour la plupart des armures et des créatures, les valeurs de réducti
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>La santé représente les dégâts à long terme (seuls le repos et certains talents permettent de la rétablir). Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de sa résistance et de sa santé. Lorsque la santé d'un personnage est épuisée (0), celui-ci est mutilé ou tué (selon les paramètres de jeu). Un personnage mutilé dont la santé est épuisée est systématiquement tué, quel que soit le paramètre défini. Contrairement à la résistance, la santé d'un personnage ne se rétablit pas à l'issue du combat, mais les valeurs de santé des personnages sont nettement supérieures à leurs valeurs de résistance.</DefaultText>
+      <DefaultText>La santé représente les dégâts à long terme (seuls le repos et certains talents permettent de la rétablir). Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de son endurance et de sa santé. Lorsque la santé d'un personnage est épuisée (0), celui-ci est mutilé ou tué (selon les paramètres de jeu). Un personnage mutilé dont la santé est épuisée est systématiquement tué, quel que soit le paramètre défini. Contrairement à l'endurance, la santé d'un personnage ne se rétablit pas à l'issue du combat, mais les valeurs de santé des personnages sont nettement supérieures à leurs valeurs d'endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
