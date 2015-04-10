@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Aïe ! Lorsque l'endurance d'un membre du groupe est épuisée, il est KO. Il ne peut alors plus combattre. Cela dit, si votre camp remporte le combat, son endurance sera régénérée à l'issue de celui-ci. Contrairement à l'endurance, la santé ne se régénère pas à l'issue du combat. Surveillez la barre située à gauche du portrait du personnage pour veiller à ce qu'il ne soit pas mutilé ou tué.</DefaultText>
+      <DefaultText>Aïe ! Lorsque l'endurance d'un membre du groupe est épuisée, il est KO. Il ne peut alors plus combattre. Cela dit, si votre camp remporte le combat, son endurance sera régénérée à l'issue de celui-ci. Contrairement à l'endurance, la santé ne se régénère pas à l'issue du combat. Surveillez la barre située à gauche du portrait du personnage pour veiller à ce qu'il ne soit pas meurtri ou tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Oh oh. Lorsque la barre de santé d'un personnage commence à clignoter en rouge, cela signifie qu'il risque d'être mutilé ou tué. Il doit alors se reposer dans une auberge ou utiliser du matériel de camping pour régénérer sa santé.</DefaultText>
+      <DefaultText>Oh oh. Lorsque la barre de santé d'un personnage commence à clignoter en rouge, cela signifie qu'il risque d'être meurtri ou tué. Il doit alors se reposer dans une auberge ou utiliser du matériel de camping pour régénérer sa santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Lorsque la santé du personnage est épuisée, il tombe immédiatement. Et en fonction de votre paramètre de difficulté, il est mutilé ou tué. Un personnage mutilé reçoit d'importantes pénalités de combat et tout dégât supplémentaire peut le tuer. Dans Pillars of Eternity, les personnages tués ne peuvent pas revenir à la vie.</DefaultText>
+      <DefaultText>Lorsque la santé du personnage est épuisée, il tombe immédiatement. Et en fonction de votre paramètre de difficulté, il est meurtri ou tué. Un personnage meurtri reçoit d'importantes pénalités de combat et tout dégât supplémentaire peut le tuer. Dans Pillars of Eternity, les personnages tués ne peuvent pas revenir à la vie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
