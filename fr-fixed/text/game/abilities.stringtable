@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Fin du supplice</DefaultText>
+      <DefaultText>Suppression des afflictions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2226,7 +2226,7 @@
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>Neutralise toutes les peurs extérieures des alliés présents dans la zone d'effet, ce qui leur confère un bonus de résistance contre les attaques basées sur la peur ou la terreur et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Neutralise toutes les peurs extérieures des alliés présents dans la zone d'effet, ce qui leur confère un bonus de résistance contre les afflictions effroi et terreur et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2246,7 +2246,7 @@
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Renforce la santé des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les attaques basées sur la maladie et l'affaiblissement et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Renforce la santé des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions intoxication et affaiblissement et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2276,7 +2276,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Libère les alliés présents dans la zone d'effet des contraintes perçues, ce qui leur confère un bonus contre les attaques basées sur l'entrave ou l'immobilisation et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Libère les alliés présents dans la zone d'effet des contraintes perçues, ce qui leur confère un bonus contre les afflictions entrave et immobilisation et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2316,7 +2316,7 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Stimule l'empressement des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les attaques basées sur la confusion et l'étourdissement et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Stimule l'empressement des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions confusion et étourdissement et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2371,7 +2371,7 @@
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>Insuffle un esprit de libération aux alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les attaques basées sur la paralysie ou la pétrification et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Insuffle un esprit de libération aux alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions paralysie et pétrification et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,7 +2446,7 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>Renforce le dévouement du groupe, ce qui confère des bonus contre les attaques basées sur les charmes ou la domination et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Galvanise le dévouement du groupe, ce qui confère des bonus contre les afflictions charme ou domination et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2631,7 +2631,7 @@
     </Entry>
     <Entry>
       <ID>543</ID>
-      <DefaultText>Déclenche une vague déferlante qui emporte tout sur son passage et inflige des dégâts d'écrasement et d'assommement.</DefaultText>
+      <DefaultText>Déclenche une vague déferlante qui emporte tout sur son passage, ce qui inflige des dégâts contondant et l'affliction assommement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3656,12 +3656,12 @@
     </Entry>
     <Entry>
       <ID>748</ID>
-      <DefaultText>Résistance aux supplices</DefaultText>
+      <DefaultText>Résistance aux afflictions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Abrège les effets des renversements et des entraves.</DefaultText>
+      <DefaultText>Abrège la durée des afflictions renversement et entrave.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3951,7 +3951,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Les alliés présents dans la zone d'effet reçoivent un bonus pour leurs valeurs de réduction de dégâts de gel et de choc, ainsi qu'un bonus de défense contre le renversement.</DefaultText>
+      <DefaultText>Les alliés présents dans la zone d'effet reçoivent un bonus de réduction de dégâts de gel et de choc, ainsi qu'un bonus contre l'affliction renversement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5175,12 +5175,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText>Les prêtres peuvent canaliser leur fureur grâce à leur capacité Interdiction. Leur attaque inflige alors un douloureux supplice d'affaiblissement.</DefaultText>
+      <DefaultText>Les prêtres peuvent canaliser leur fureur grâce à leur capacité Interdiction, ce qui ajoute une douloureuse affliction affaiblissement à leur attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Améliore les défenses du personnage contre les supplices Charme, Confusion, Domination, Effroi et Terreur.</DefaultText>
+      <DefaultText>Renforce les défenses du personnage contre les afflictions charme, confusion, domination, effroi et terreur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5190,7 +5190,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText>Améliore les défenses du personnage contre les supplices Paralysie, Pétrification, Intoxication, Assommement et Affaiblissement.</DefaultText>
+      <DefaultText>Renforce les défenses du personnage contre les afflictions paralysie, pétrification, Intoxication, assommement et affaiblissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5200,7 +5200,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Améliore les défenses du personnage contre les supplices Aveuglement, Étourdissement, Entrave, Renversement et Immobilisation.</DefaultText>
+      <DefaultText>Renforce les défenses du personnage contre les afflictions aveuglement, étourdissement, entrave, renversement et immobilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5230,7 +5230,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une défense accrue contre les supplices Charme, Confusion et Domination.</DefaultText>
+      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une défense accrue contre les afflictions charme, confusion et domination.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6550,7 +6550,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>Le supplice Immobilisation frappe la cible et devient le point d'ancrage d'un rayon énergétique glacial du magicien qui inflige des dégâts de gel aux ennemis présents sur son passage.</DefaultText>
+      <DefaultText>La cible est frappée par l'affliction immobilisation et devient le point d'ancrage d'un rayon énergétique glacial du magicien qui inflige des dégâts de gel aux ennemis présents sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

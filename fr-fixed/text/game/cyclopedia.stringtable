@@ -544,7 +544,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Une cible faisant l'objet d'un charme combat au nom de l'ennemi, à capacité réduite. La vitesse, la précision et toutes les défenses sont réduites de 25 points. Le charme est exclusif, ce qui signifie qu'un personnage ne peut faire l'objet que d'un charme à la fois. Tout nouveau charme remplace le précédent.</DefaultText>
+      <DefaultText>Une cible faisant l'objet d'un charme combat au nom de l'ennemi, avec des compétences réduites. La vitesse, la précision et toutes les défenses sont réduites de 25 points. Le charme est exclusif, ce qui signifie qu'un personnage ne peut faire l'objet que d'un charme à la fois. Tout nouveau charme remplace le précédent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,7 +554,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>La confusion pousse le personnage à se conduire de façon mal assurée. Toutes les 6 secondes, la cible choisit de manière aléatoire de faire une des choses suivantes : se comporter normalement, attaquer un allié, marcher dans une direction aléatoire ou ne rien faire.</DefaultText>
+      <DefaultText>L'affliction confusion pousse le personnage à se conduire de façon mal assurée. Toutes les 6 secondes, la cible choisit de manière aléatoire de faire une des choses suivantes : se comporter normalement, attaquer un allié, marcher dans une direction aléatoire ou ne rien faire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Un coup critique est un jet d'attaque supérieur à 100. Un coup critique qui inflige des dégâts augmente le total des dégâts de 50 %. Lorsqu'un coup critique est porté à des effets durables (supplices de type Intoxication ou Paralysie, par exemple), la durée augmente de 50 %.</DefaultText>
+      <DefaultText>Un coup critique est un jet d'attaque supérieur à 100. Un coup critique qui inflige des dégâts augmente le total des dégâts de 50 %. Lorsqu'un coup critique est porté à des effets durables (afflictions intoxication ou paralysie, par exemple), cette durée augmente de 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,25 +796,25 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
       <ID>146</ID>
       <DefaultText>Pillars of Eternity utilise les quatre propriétés défensives suivantes : Déviation, Courage, Réflexes et Volonté. Chaque propriété défensive permet de résister à une catégorie d'attaques différente grâce au jet d'attaque. La déviation permet de résister aux attaques armées directes ou similaires. Le courage permet de s'opposer aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La volonté permet de résister à presque toutes les attaques psychiques.
 
-Le courage, les réflexes et la volonté reposent tous sur des paires d'attributs. Le courage repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la perception et de la détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les supplices et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
+Le courage, les réflexes et la volonté reposent tous sur des paires d'attributs. Le courage repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la perception et de la détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les afflictions et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Supplices</DefaultText>
+      <DefaultText>Afflictions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Les supplices sont des ensembles d'effets de statut qui peuvent être appliqués à un personnage, suspendus ou totalement annulés. Pour certains supplices, des règles d'exclusivité explicites s'appliquent, mais en général ils peuvent coexister avec d'autres supplices.
+      <DefaultText>Les afflictions sont des ensembles d'effets de statut qui peuvent être appliquées, suspendues ou totalement annulées envers un personnage. Pour certaines afflictions, des règles d'exclusivité explicites s'appliquent, mais en général elles peuvent coexister avec d'autres afflictions.
 
-Lorsqu'un sort est jeté sur une cible, ce sort ainsi que ses effets et supplices subordonnés sont regroupés dans un conteneur créé de manière procédurale par le sort.
+Lorsqu'un sort est jeté sur une cible, ce sort ainsi que ses effets et afflictions subordonnés sont regroupés dans un conteneur créé de manière procédurale par le sort.
 
 Si ces conteneurs sont appliqués alors qu'une version identique est en vigueur (ex : sort Bénédiction jeté sur un personnage qui est déjà sous l'effet d'un autre sort Bénédiction), la nouvelle version remplace l'ancienne.
 
-Quel que soit le nombre d'effets qui s'applique à la cible, seuls les bonus les plus élevés et les pénalités les plus faibles sont généralement appliqués.
+Quel que soit le nombre d'effets qui s'applique à la cible, généralement seuls les meilleurs bonus et les pires pénalités sont appliqués.
 
-Certaines créatures peuvent être invulnérables à un ou plusieurs supplices. Dans ce cas, ces supplices ne s'appliquent pas à ces créatures.</DefaultText>
+Certaines créatures peuvent être invulnérables à une ou plusieurs afflictions. Dans ce cas, ces afflictions ne s'appliquent pas à ces créatures.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -858,7 +858,7 @@ En cas d'équilibre entre l'attaque et la défense, la majorité des attaques se
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Un échec correspond à un jet d'attaque inférieur ou égal à 15. Un échec n'inflige ni dégâts ni effets de statut ou supplices.</DefaultText>
+      <DefaultText>Un échec correspond à un jet d'attaque inférieur ou égal à 15. Un échec n'inflige ni dégâts, ni effets de statut ou afflictions.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -924,7 +924,7 @@ Notez que pour la plupart des armures et des créatures, les valeurs de réducti
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Les blessures sont des supplices à long terme. "Long terme" signifie que les effets durent jusqu'à ce que le personnage se repose. Les blessures sont généralement infligées lors des interactions scriptées.</DefaultText>
+      <DefaultText>Les blessures sont des afflictions à long terme. "Long terme" signifie que les effets durent jusqu'à ce que le personnage se repose. Les blessures sont généralement infligées lors des interactions scriptées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1005,7 +1005,7 @@ Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) 
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>L'effet Poison peut être associé à différents effets de statut ou supplices, eux-mêmes généralement liés à un sort ou aux attaques d'une créature.</DefaultText>
+      <DefaultText>L'effet Poison peut être associé à différents effets de statut ou afflictions, provenant généralement des attaques d'une créature, et souvent d'un sort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1015,7 +1015,7 @@ Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) 
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Les maladies peuvent infliger divers effets de statut ou supplices. L'effet Maladie est généralement associé à un sort ou aux attaques d'une créature.</DefaultText>
+      <DefaultText>Les maladies peuvent infliger une large variéré d'effets de statut ou d'afflictions. L'effet Maladie est généralement associé à un sort, et souvent à des attaques d'une créature.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1108,7 +1108,7 @@ Note that many suits of armor and many creatures will grant different Damage Red
       <ID>203</ID>
       <DefaultText>Un combat est engagé lorsqu'un personnage attaque un ennemi avec une arme de mêlée à courte portée. Dès que l'attaquant est suffisamment proche, il engage le combat. Lorsqu'un personnage est la cible d'un engagement, il cesse de se déplacer. Il est libre de se déplacer, mais il provoque alors une attaque de désengagement. Lorsqu'un personnage rompt un engagement, il dispose d'un délai limité pendant lequel l'ennemi dont il s'est désengagé ne peut pas tenter de nouvel engagement.
 
-Certains supplices empêchent un personnage d'engager un ennemi. Les supplices Paralysie, Pétrification, Renversement et Assommement rompent automatiquement l'engagement et peuvent être utilisés pour se sortir d'affaire.
+Certaines afflictions empêchent un personnage d'engager un ennemi. Les afflictions paralysie, pétrification, renversement et assommement rompent automatiquement l'engagement et peuvent être utilisées pour se sortir d'affaire.
 
 Notez qu'un certain nombre de talents et capacités modifient les règles d'engagement, comme la capacité Retraite élégante, la capacité Tenir la ligne, la capacité Défenseur du combattant, la capacité Vitesse sauvage du barbare et la capacité Fuite du bandit. Certaines créatures, en particulier les plus imposantes, peuvent engager plusieurs créatures simultanément.</DefaultText>
       <FemaleText />
@@ -1140,7 +1140,7 @@ Pour une statistique donnée, les bonus actifs et modaux (ex : capacités et ob
 
 Pour une statistique donnée, l'équipement utilise également le bonus le plus élevé et la pénalité la plus faible. Il inclut tous les objets dont est directement équipé le personnage, à l'exception des armes. L'équipement est une catégorie distincte de la catégorie actif/modal, par conséquent les bonus les plus élevés et les pénalités les plus faibles de chaque catégorie s'ajoutent.
 
-Les supplices (ex : Assommement ou Renversement) sont généralement considérés comme des effets actifs. Si un supplice est appliqué à un personnage alors qu'un supplice identique est déjà actif, il remplace la durée du supplice existant si la nouvelle durée est supérieure.</DefaultText>
+Les afflictions (ex : assommement ou renversement) sont généralement considérées comme des effets actifs. Si une affliction est appliquée à un personnage alors qu'une affliction identique est déjà active, il remplace la durée d'affliction existante si la nouvelle durée est supérieure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
