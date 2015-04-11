@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Pour faire face aux attaques, tous les personnages du jeu (amis et ennemis confondus) disposent de quatre propriétés défensives de base : Déviation, Courage, Réflexes et Volonté. Ces propriétés défensives reposent sur les attributs, le niveau, les objets et autres effets du personnage. Lors d'une attaque, la précision est comparée aux propriétés défensives de la cible. Si la précision du personnage est inférieure à la propriété défensive de sa cible, une pénalité est attribuée à l'attaque et celle-ci a de fortes chances de se solder par un échec. Si la précision du personnage est supérieure à la propriété défensive de sa cible, l'attaque a de fortes chances de se traduire par un coup critique.</DefaultText>
+      <DefaultText>Pour faire face aux attaques, tous les personnages du jeu (amis et ennemis confondus) disposent de quatre propriétés défensives de base : déviation, robustesse, réflexes et volonté. Ces propriétés défensives reposent sur les attributs, le niveau, les objets et autres effets du personnage. Lors d'une attaque, la précision est comparée aux propriétés défensives de la cible. Si la précision du personnage est inférieure à la propriété défensive de sa cible, une pénalité est attribuée à l'attaque et celle-ci a de fortes chances de se solder par un échec. Si la précision du personnage est supérieure à la propriété défensive de sa cible, l'attaque a de fortes chances de se traduire par un coup critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Vous attaquez actuellement un ennemi dont au moins une propriété défensive (Déviation, Courage, Réflexes ou Volonté) est nettement supérieure à la précision de votre personnage. Lorsque la propriété défensive est nettement supérieure à la précision, il est extrêmement difficile de porter un coup et impossible de porter un coup critique. Essayez d'améliorer la précision de votre personnage ou d'utiliser un sort ou une capacité visant une autre propriété défensive.</DefaultText>
+      <DefaultText>Vous attaquez actuellement un ennemi dont au moins une propriété défensive (déviation, robustesse, réflexes ou volonté) est nettement supérieure à la précision de votre personnage. Lorsque la propriété défensive est nettement supérieure à la précision, il est extrêmement difficile de porter un coup et impossible de porter un coup critique. Essayez d'améliorer la précision de votre personnage ou d'utiliser un sort ou une capacité visant une autre propriété défensive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

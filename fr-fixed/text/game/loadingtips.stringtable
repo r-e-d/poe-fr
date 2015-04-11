@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Les quatre propriétés défensives suivantes permettent de résister à toutes les attaques : Déviation, Courage, Réflexes ou Volonté. Si un ennemi résiste bien à un type de dégâts, essayez d'utiliser une attaque visant une autre propriété défensive.</DefaultText>
+      <DefaultText>Les quatre propriétés défensives suivantes permettent de résister à toutes les attaques : déviation, robustesse, réflexes ou volonté. Si un ennemi résiste bien à un type de dégâts, essayez d'utiliser une attaque visant une autre propriété défensive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>La puissance détermine l'ensemble des dégâts et soins dont le personnage est à l'origine ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des conversations et interactions scriptées pour tester la force et la puissance.</DefaultText>
+      <DefaultText>La puissance détermine l'ensemble des dégâts et soins dont le personnage est à l'origine ainsi que sa propriété défensive robustesse. Elle peut également être utilisée lors des conversations et interactions scriptées pour tester la force et la puissance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>La constitution détermine l'endurance et la santé du personnage ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des interactions scriptées pour supporter les situations physiquement épuisantes.</DefaultText>
+      <DefaultText>La constitution détermine l'endurance et la santé du personnage ainsi que sa propriété défensive robustesse. Elle peut également être utilisée lors des interactions scriptées pour supporter les situations physiquement épuisantes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

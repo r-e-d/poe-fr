@@ -498,12 +498,12 @@ Toute compétence ou talent qui n'utilise pas d'arme dans l'attaque gagne un pet
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Courage</DefaultText>
+      <DefaultText>Robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Le courage permet de résister aux attaques portées aux systèmes physiques internes du personnage (poison, maladie, etc.).
+      <DefaultText>La robustesse permet de résister aux attaques portées aux systèmes physiques internes du personnage (poison, maladie, etc.).
 Il dépend de la classe, du niveau, de la puissance et de la constitution du personnage, mais peut aussi être influencé par d'autres effets.</DefaultText>
       <FemaleText />
     </Entry>
@@ -644,7 +644,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Tous les attributs d'un personnage intoxiqué sont réduits d'un point. Le courage et la volonté sont réduits de 10 points.</DefaultText>
+      <DefaultText>Tous les attributs d'un personnage intoxiqué sont réduits d'un point. La robustesse et la volonté sont réduits de 10 points.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,7 +684,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Les personnages affaiblis voient leur puissance et leur constitution réduites de 2 points. Le déplacement est réduit de 1 points. Le courage et la volonté sont réduits de 20 points.</DefaultText>
+      <DefaultText>Les personnages affaiblis voient leur puissance et leur constitution réduites de 2 points. Le déplacement est réduit de 1 points. La robustesse et la volonté sont réduits de 20 points.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,7 +694,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Une pénalité est infligée à la propriété défensive Courage et à la constitution des personnages aux côtes meurtries.</DefaultText>
+      <DefaultText>Les personnages souffrant de côtes meurtries subissent une pénalité de la propriété défensive robustesse et de constitution.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -794,9 +794,9 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Pillars of Eternity utilise les quatre propriétés défensives suivantes : Déviation, Courage, Réflexes et Volonté. Chaque propriété défensive permet de résister à une catégorie d'attaques différente grâce au jet d'attaque. La déviation permet de résister aux attaques armées directes ou similaires. Le courage permet de s'opposer aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La volonté permet de résister à presque toutes les attaques psychiques.
+      <DefaultText>Pillars of Eternity utilise les quatre propriétés défensives suivantes : déviation, robustesse, réflexes et volonté. Chaque propriété défensive permet de résister à une catégorie d'attaques différente grâce au jet d'attaque. La déviation permet de résister aux attaques armées directes ou similaires. La robustesse permet de s'opposer aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La volonté permet de résister à presque toutes les attaques psychiques.
 
-Le courage, les réflexes et la volonté reposent tous sur des paires d'attributs. Le courage repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la perception et de la détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les supplices et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
+La robustesse, les réflexes et la volonté reposent tous sur un couple d'attributs. La robustesse repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la perception et de la détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les supplices et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -844,7 +844,7 @@ Certaines créatures peuvent être invulnérables à un ou plusieurs supplices. 
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de précision de l'attaquant est comparée à l'une des quatre propriétés défensives suivantes : Déviation (attaques de mêlée et attaques à distance directes), Courage (attaques visant l'organisme, comme le poison et la maladie), Réflexes (attaques dévastatrices à effet de zone) et Volonté (attaques psychiques). 
+      <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de précision de l'attaquant est comparée à l'une des quatre propriétés défensives suivantes : déviation (attaques de mêlée et attaques à distance directes), robustesse (attaques visant l'organisme, comme le poison et la maladie), réflexes (attaques dévastatrices à effet de zone) et volonté (attaques psychiques). 
 
 Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la précision et la défense pour déterminer les résultats de l'attaque. Nombre inférieur ou égal à 15 = échec. Nombre compris entre 16 et 50 = écorchure. Nombre compris entre 51 et 100 = coup. Nombre supérieur à 100 = coup critique. 
 
@@ -1045,7 +1045,7 @@ Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) 
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Les propriétés défensives secondaires sont utilisées pour les attaques secondaires (ex : poison sur une dague). Dans cet exemple, l'attaque principale (à l'aide de la dague) vise une propriété défensive (Déviation) et l'attaque secondaire (à l'aide du poison) n'est possible que si la première attaque aboutit. Si l'attaque initiale aboutit, la propriété défensive secondaire (dans ce cas, le Courage face au poison) est utilisée pour en déterminer les effets. Si l'attaque initiale échoue, la propriété défensive secondaire n'est pas utilisée.</DefaultText>
+      <DefaultText>Les propriétés défensives secondaires sont utilisées pour les attaques secondaires (ex : poison sur une dague). Dans cet exemple, l'attaque principale (à l'aide de la dague) vise une propriété défensive (déviation) et l'attaque secondaire (à l'aide du poison) n'est possible que si la première attaque aboutit. Si l'attaque initiale aboutit, la propriété défensive secondaire (dans ce cas, la robustesse face au poison) est utilisée pour en déterminer les effets. Si l'attaque initiale échoue, la propriété défensive secondaire n'est pas utilisée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
