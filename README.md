@@ -2,12 +2,12 @@
 
 ## Installation:
 
-Just unpack the file to:  
+Unpack and move the fr-fixed directory to:  
 
 For Steam-Users:  
- * Windows: [steam]\steamapps\common\Pillars of Eternity\PillarsOfEternity_Data\data\localized\fr  
- * Linux: [steam]/SteamApps/common/Pillars of Eternity/PillarsOfEternity_Data/data/localized/fr  
+ * Windows: [steam]\steamapps\common\Pillars of Eternity\PillarsOfEternity_Data\data\localized  
+ * Linux: [steam]/SteamApps/common/Pillars of Eternity/PillarsOfEternity_Data/data/localized  
 
 For Gog-Users:  
- * Windows: [PoE]\PillarsOfEternity_Data\data\localized\fr  
- * Linux: [Poe]/PillarsOfEternity_Data/data/localized/fr  
+ * Windows: [PoE]\PillarsOfEternity_Data\data\localized  
+ * Linux: [Poe]/PillarsOfEternity_Data/data/localized  
