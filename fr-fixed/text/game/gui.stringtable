@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>La première fois que la santé d'un personnage atteint zéro, celui-ci est simplement mutilé au lieu de mourir.</DefaultText>
+      <DefaultText>La première fois que la santé d'un personnage atteint zéro, celui-ci est simplement meurtri au lieu de mourir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Mutiler les compagnons avant la mort</DefaultText>
+      <DefaultText>Meurtrir les compagnons avant la mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5720,7 +5720,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>{0} de mutiler au moment de l'impact</DefaultText>
+      <DefaultText>{0} de chance d'entraver par coup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7025,7 +7025,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Les pièges et les verrous peuvent poser des problèmes à tous les aventuriers, y compris aux plus aguerris, car ils épuisent leurs ressources et mutilent ou tuent ceux qui ont la malchance de déclencher un mécanisme caché. La compétence Mécanique facilite l'ouverture des verrous ainsi que la découverte et la neutralisation de pièges. En outre, n'importe quel personnage peut utiliser la compétence Mécanique pour poser ses propres pièges. Plus la compétence Mécanique est élevée, plus le piège est précis. Lors des conversations et des interactions scriptées, la compétence Mécanique peut être utilisée pour activer ou désactiver différentes machines.</DefaultText>
+      <DefaultText>Les pièges et les verrous peuvent poser des problèmes à tous les aventuriers, y compris aux plus aguerris, car ils épuisent leurs ressources et meurtrient ou tuent ceux qui ont la malchance de déclencher un mécanisme caché. La compétence Mécanique facilite l'ouverture des verrous ainsi que la découverte et la neutralisation de pièges. En outre, n'importe quel personnage peut utiliser la compétence Mécanique pour poser ses propres pièges. Plus la compétence Mécanique est élevée, plus le piège est précis. Lors des conversations et des interactions scriptées, la compétence Mécanique peut être utilisée pour activer ou désactiver différentes machines.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7744,8 +7744,8 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1544</ID>
-      <DefaultText>{0} a été mutilé.</DefaultText>
-      <FemaleText>{0} a été mutilée.</FemaleText>
+      <DefaultText>{0} a été meurtri.</DefaultText>
+      <FemaleText>{0} a été meurtrie.</FemaleText>
     </Entry>
     <Entry>
       <ID>1545</ID>

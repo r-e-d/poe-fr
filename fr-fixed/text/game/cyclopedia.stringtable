@@ -904,17 +904,17 @@ Notez que pour la plupart des armures et des créatures, les valeurs de réducti
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>La santé représente les dégâts à long terme (seuls le repos et certains talents permettent de la rétablir). Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de son endurance et de sa santé. Lorsque la santé d'un personnage est épuisée (0), celui-ci est mutilé ou tué (selon les paramètres de jeu). Un personnage mutilé dont la santé est épuisée est systématiquement tué, quel que soit le paramètre défini. Contrairement à l'endurance, la santé d'un personnage ne se rétablit pas à l'issue du combat, mais les valeurs de santé des personnages sont nettement supérieures à leurs valeurs d'endurance.</DefaultText>
+      <DefaultText>La santé représente les dégâts à long terme (seuls le repos et certains talents permettent de la rétablir). Les dégâts non absorbés par la réduction de dégâts du personnage sont directement déduits de son endurance et de sa santé. Lorsque la santé d'un personnage est épuisée (0), celui-ci est meurtri ou tué (selon les paramètres de jeu). Un personnage meurtri dont la santé est épuisée est systématiquement tué, quel que soit le paramètre défini. Contrairement à l'endurance, la santé d'un personnage ne se rétablit pas à l'issue du combat, mais les valeurs de santé des personnages sont nettement supérieures à leurs valeurs d'endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Mutilation</DefaultText>
+      <DefaultText>Meurtri(e)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Un personnage est mutilé lorsque sa santé est épuisée (0). Il récupère ensuite 1 point de santé à l'issue du combat, mais reçoit aussi des pénalités de défense et de précision importantes. S'il est à nouveau frappé et qu'il perd 1 point de dégâts de santé, il est immédiatement tué.</DefaultText>
+      <DefaultText>Un personnage est meurtri lorsque sa santé est épuisée (0). Il récupère ensuite 1 point de santé à l'issue du combat, mais reçoit aussi des pénalités de défense et de précision importantes. S'il est à nouveau frappé et qu'il perd 1 point de dégâts de santé, il est immédiatement tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -995,7 +995,7 @@ Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) 
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>À certains niveaux de difficulté, lorsque la santé d'un personnage est épuisée (0), celui-ci est mutilé (ou tué s'il est déjà mutilé). Un personnage mort ne peut pas être ramené à la vie.</DefaultText>
+      <DefaultText>À certains niveaux de difficulté, lorsque la santé d'un personnage est épuisée (0), celui-ci est meurtri (ou tué s'il est déjà meurtri). Un personnage mort ne peut pas être ramené à la vie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
