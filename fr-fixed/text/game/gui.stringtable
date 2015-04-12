@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Courage</DefaultText>
+      <DefaultText>Robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,12 +1826,12 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>{0} % de dégâts et soins, {1} de courage</DefaultText>
+      <DefaultText>{0} % de dégâts et soins, {1} de robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>{0} % d'endurance et santé, {1} de courage</DefaultText>
+      <DefaultText>{0} % d'endurance et santé, {1} de robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2341,7 +2341,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>La puissance représente la force physique et psychique d'un personnage, sa force brute ainsi que sa capacité à canaliser de puissants pouvoirs magiques. Lors des interactions, elle améliore les capacités d'intimidation et agit sur la force brute. Au combat, elle renforce les dégâts, la capacité de guérison et la propriété défensive Courage.</DefaultText>
+      <DefaultText>La puissance représente la force physique et psychique d'un personnage, sa force brute ainsi que sa capacité à canaliser de puissants pouvoirs magiques. Lors des interactions, elle améliore les capacités d'intimidation et agit sur la force brute. Au combat, elle renforce les dégâts, la capacité de guérison et la propriété défensive robustesse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2356,7 +2356,7 @@
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>La constitution combine la santé globale et l'endurance d'un personnage. Bien que peu utilisée lors des interactions, elle permet de résister à la douleur ou d'endurer une terrible épreuve physique. Au combat, elle agit sur la santé et l'endroit maximum ainsi que sur la propriété défensive Courage.</DefaultText>
+      <DefaultText>La constitution combine la santé globale et l'endurance d'un personnage. Bien que peu utilisée lors des interactions, elle permet de résister à la douleur ou d'endurer une terrible épreuve physique. Au combat, elle agit sur la santé maximale et l'endurance ainsi que sur la propriété défensive robustesse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2433,7 +2433,7 @@ Endurance élémentaire - Tous les elfes pâles possèdent une réduction accrue
       <ID>486</ID>
       <DefaultText>Les nains des montagnes (ou Aptapos), originaires du continent situé à l'est de Dyrwood, ont connu plusieurs vagues de migrations dans la région. Contrairement aux orlans, également de petite taille et fréquemment assujettis, les Aptapos ont toujours combattu les êtres civilisés hostiles plus grands qu'eux et choisi de fortifier leurs maisons plutôt que de s'installer ailleurs. Les nains des montagnes sont nombreux dans les Républiques de Vailia, mais plus rares à Dyrwood et Readceras. 
 
-Robuste et courageux - Les nains des montagnes ont un bonus de protection contre le poison et la maladie.</DefaultText>
+Robuste et vigoureux - Les nains des montagnes ont un bonus de protection contre le poison et la maladie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5575,7 +5575,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1109</ID>
-      <DefaultText>{0} de courage</DefaultText>
+      <DefaultText>{0} de robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5910,7 +5910,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (Courage ou Volonté)</DefaultText>
+      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (robustesse ou volonté)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Robuste et courageux</DefaultText>
+      <DefaultText>Robuste et vigoureux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1156,7 +1156,7 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Punit une cible pour les péchés qu'elle a commis, réduisant sa déviation, son courage, ses réflexes et sa volonté.</DefaultText>
+      <DefaultText>Punit une cible pour les péchés qu'elle a commis, réduisant sa déviation, sa robustesse, ses réflexes et sa volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1361,7 +1361,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>La cible est victime d'une explosion commotionnelle d'énergie psychique et le traumatisme qui en résulte lui inflige des dégâts bruts. Les personnages situés dans une zone conique derrière une cible qui manque un test de courage sont renversés par le souffle.</DefaultText>
+      <DefaultText>La cible est victime d'une explosion commotionnelle d'énergie psychique et le traumatisme qui en résulte lui inflige des dégâts bruts. Les personnages situés dans une zone conique derrière la cible et qui manque un test de robustesse sont renversés par le souffle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3341,7 +3341,7 @@
     </Entry>
     <Entry>
       <ID>685</ID>
-      <DefaultText>Parchemin de courage</DefaultText>
+      <DefaultText>Parchemin de bravoure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3966,7 +3966,7 @@
     </Entry>
     <Entry>
       <ID>810</ID>
-      <DefaultText>Enhardit les alliés présents dans la zone d'effet en leur conférant des bonus de courage et de volonté.</DefaultText>
+      <DefaultText>Enhardit les alliés présents dans la zone d'effet, ce qui leur confère des bonus de robustesse et de volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4096,7 +4096,7 @@
     </Entry>
     <Entry>
       <ID>836</ID>
-      <DefaultText>Érige un épais mur d'épines noueuses qui infligent des dégâts de perforation. Son effet d'empoisonnement affaiblit également la cible et l'empêche de réussir le test de courage.</DefaultText>
+      <DefaultText>Érige un épais mur d'épines noueuses qui infligent des dégâts perforants. En cas d'échec d'un test de robustesse, les toxines des épines infligent l'affliction affaiblissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4261,7 +4261,7 @@
     </Entry>
     <Entry>
       <ID>869</ID>
-      <DefaultText>Le barbare frappe si fort que les moyens de défense ordinaires sont facilement ignorés. Lors des attaques qui visent normalement la déviation, le barbare préférera attaquer le courage si cette défense est la plus faible.</DefaultText>
+      <DefaultText>Le barbare frappe si fort que les moyens de défense ordinaires ne sont plus d'aucune utilité. Lors des attaques qui visent normalement la déviation, le barbare s'attaquera plutôt à la robustesse si cette défense est plus faible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4391,7 +4391,7 @@
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>Le moine bénéficie d'une perspicacité momentanée grâce à l'endurance, ce qui lui confère un bonus temporaire de courage, de réflexes et de volonté lorsqu'un effet hostile expire.</DefaultText>
+      <DefaultText>Le moine acquiert un nouveau degré de connaissance temporaire de par son endurance, ce qui lui confère un bonus momentané de robustesse, de réflexes et de volonté lorsqu'un effet hostile expire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4411,7 +4411,7 @@
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Le moine se concentre pleinement sur le monde spirituel, ce qui lui confère un bonus de courage, de réflexes et de volonté.</DefaultText>
+      <DefaultText>Le moine se concentre pleinement sur le monde spirituel, ce qui lui confère un bonus de robustesse, de réflexes et de volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4971,7 +4971,7 @@
     </Entry>
     <Entry>
       <ID>1011</ID>
-      <DefaultText>Lorsqu'un druide est transformé en cerf, un bonus s'applique à toutes ses défenses (déviation, courage, réflexes et volonté).</DefaultText>
+      <DefaultText>Lors de sa transformation en cerf, le druide reçoit un bonus à toutes ses défenses (déviation, robustesse, réflexes et volonté).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4996,7 +4996,7 @@
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>Les antilopes de compagnie bénéficient de défenses naturellement supérieures (déviation, courage, réflexes et volonté). 
+      <DefaultText>Les antilopes de compagnie bénéficient de défenses naturellement supérieures (déviation, robustesse, réflexes et volonté). 
 
 Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
 
@@ -5095,7 +5095,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>Courage de l'ours</DefaultText>
+      <DefaultText>Robustesse de l'ours</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5115,7 +5115,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Améliore la défense Courage du personnage.</DefaultText>
+      <DefaultText>Améliore la défense Robustesse du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
