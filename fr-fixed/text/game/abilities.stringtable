@@ -1361,7 +1361,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>La cible est victime d'une explosion commotionnelle d'énergie psychique et le traumatisme qui en résulte lui inflige des dégâts pénétrants. Les personnages situés dans une zone conique derrière une cible qui manque un test de courage sont renversés par le souffle.</DefaultText>
+      <DefaultText>La cible est victime d'une explosion commotionnelle d'énergie psychique et le traumatisme qui en résulte lui inflige des dégâts bruts. Les personnages situés dans une zone conique derrière une cible qui manque un test de courage sont renversés par le souffle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2126,7 +2126,7 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Génère un nuage empoisonné qui inflige des dégâts pénétrants à intervalles réguliers à tous les personnages touchés par le nuage.</DefaultText>
+      <DefaultText>Génère un nuage empoisonné qui inflige à intervalles réguliers des dégâts bruts à quiconque enveloppé par le nuage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Des hordes d'asticots s'attaquent aux ennemis présents dans la zone d'effet et leur infligent des dégâts pénétrants progressifs. Plus la cible est blessée, plus les dégâts sont importants.</DefaultText>
+      <DefaultText>Des hordes d'asticots s'attaquent aux ennemis présents dans la zone d'effet et leur infligent des dégâts bruts progressifs. Plus la cible est blessée, plus les dégâts sont importants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,7 +2686,7 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Déclenche une énorme invasion d'insectes venimeux qui inflige des dégâts pénétrants progressifs, réduit la concentration et intoxique les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Déclenche une énorme invasion d'insectes venimeux qui infligent des dégâts bruts progressifs, réduisant la concentration et intoxiquant quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2861,7 +2861,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Produit un hurlement psychique dans la zone visée, ce qui assomme la cible et inflige des dégâts pénétrants à tous les ennemis présents dans la zone. Peut également entraîner une interruption.</DefaultText>
+      <DefaultText>Produit un hurlement psychique dans la zone visée, ce qui assomme la cible et inflige des dégâts bruts à tous les ennemis présents dans la zone. Peut également entraîner une interruption.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,7 +2891,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts pénétrants. Les cibles dont l'endurance est faible explosent, infligeant au passage des dégâts d'écrasement à tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts bruts. Les cibles dont l'endurance est faible explosent, infligeant au passage des dégâts contondant à quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Dévore la force impalpable qui unit l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts pénétrants. Les cibles dont l'endurance est nulle se désintègrent.</DefaultText>
+      <DefaultText>Dévore la force impalpable qui unit l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts bruts. Les cibles dont l'endurance est nulle se désintègrent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4041,12 +4041,12 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts pénétrants progressifs et réduisent la concentration des personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts bruts progressifs et réduisent la concentration de quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts pénétrants continus sont ajoutés à l'attaque de celui-ci et son endurance est régénérée.</DefaultText>
+      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts bruts continus sont ajoutés son attaque, régénérant son endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4111,7 +4111,7 @@
     </Entry>
     <Entry>
       <ID>839</ID>
-      <DefaultText>Fait pousser un champ de magnifiques fleurs toxiques génératrices de panique qui effraient, affaiblissent et infligent des dégâts pénétrants progressifs aux personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait pousser un champ de magnifiques fleurs toxiques génératrices de panique qui provoquent effroi, affaiblissement et infligent des dégâts bruts progressifs à quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4441,7 +4441,7 @@
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Comme il le ferait en poursuivant une proie en fuite, le chasseur vise un point pour ralentir la cible ennemie, ce qui l'entrave et lui inflige des dégâts pénétrants progressifs.</DefaultText>
+      <DefaultText>Comme il le ferait en poursuivant une proie en fuite, le chasseur vise un point qui ralentira la progression de l'ennemi, l'entravant et lui infligeant des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4551,7 +4551,7 @@
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Grâce à son savoir-faire en matière de douleur, le bandit peut ajouter à ses dégâts d'entaille, de perforation et d'écrasement des dégâts pénétrants progressifs.</DefaultText>
+      <DefaultText>Son savoir-faire dans l'art de la douleur permet au bandit d'ajouter des dégâts bruts progressifs à ses dégâts tranchants, perforants et contondants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4651,7 +4651,7 @@
     </Entry>
     <Entry>
       <ID>947</ID>
-      <DefaultText>Le Contrecoup psychique du clairvoyant devient particulièrement traumatisant, ce qui inflige quelques dégâts pénétrants à la cible au moment de l'impact.</DefaultText>
+      <DefaultText>Le Contrecoup psychique du clairvoyant devient particulièrement traumatisant, ce qui inflige une petite quantité de dégâts bruts à la cible à chaque coup.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5245,7 +5245,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1061</ID>
-      <DefaultText>Un mélange de venins animaux et végétaux est appliqué sur l'arme du personnage pour lui permettre de lancer une frappe empoisonnée qui inflige des dégâts pénétrants progressifs.</DefaultText>
+      <DefaultText>Grâce à un mélange de toxines animales et végétales appliqué sur son arme, le personnage peut asséner une frappe empoisonnée qui inflige des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5350,7 +5350,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Le moine s'inflige immédiatement des dégâts pénétrants qui le blessent.</DefaultText>
+      <DefaultText>Le moine s'inflige suffisamment de dégâts bruts pour obtenir une blessure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5360,7 +5360,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>Accroît les dégâts infligés par les instruments (baguettes, sceptres et bourdons), mais l'utilisateur subit quelques dégâts pénétrants à chaque attaque.</DefaultText>
+      <DefaultText>Accroît les dégâts infligés par les équipements (baguettes, sceptres et bourdons), mais chaque attaque inflige une petite quantité de dégâts bruts au manipulateur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6540,7 +6540,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Libère de l'énergie magique à partir du grimoire pour infliger des dégâts pénétrants et étourdir les cibles présentes dans la zone.</DefaultText>
+      <DefaultText>Libère de l'énergie magique à partir du grimoire pour infliger des dégâts bruts et étourdir les cibles présentes dans la zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

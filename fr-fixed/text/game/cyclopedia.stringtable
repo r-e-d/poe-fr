@@ -1055,9 +1055,9 @@ Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) 
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Pillars of Eternity utilise huit types de dégâts : entaille, perforation, écrasement, brûlure, choc, corrosion, gel et pénétrants. Les types de dégâts permettent de déterminer la facilité avec laquelle une cible résiste aux dégâts d'un certain type en fonction de sa Réduction de dégâts. Une créature ou une armure peut être très résistante à un type de dégâts et vulnérable à un autre. 
+      <DefaultText>Pillars of Eternity utilise huit types de dégâts : tranchant, perforant, contondant, de feu, d'électricité, d'acide, de froid et bruts. Les types de dégâts permettent de déterminer la facilité avec laquelle une cible résiste aux dégâts d'un certain type en fonction de sa réduction de dégâts (RD). Une créature ou une armure peut être très résistante à un type de dégâts et vulnérable à un autre. 
 
-Certaines armes ou attaques peuvent infliger des dégâts de différents types ou intégrer une condition "ou" entre les types de dégâts. En présence d'une condition "ou", l'attaque inflige toujours le type de dégâts auquel la cible est la plus vulnérable. Les dégâts pénétrants sont les seuls dégâts qui ignorent toute la Réduction de dégâts et ils sont généralement associés aux poisons et effets similaires.</DefaultText>
+Certaines armes ou attaques peuvent infliger des dégâts de plusieurs types ou intégrer une condition "ou" entre les types de dégâts. En présence d'une condition "ou", l'attaque inflige toujours le type de dégâts auquel la cible est la plus vulnérable. Les dégâts bruts sont les seuls dégâts qui ignorent toute réduction de dégâts et sont généralement associés aux poisons et effets similaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
