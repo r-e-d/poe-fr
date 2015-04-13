@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Les quatre propriétés défensives suivantes permettent de résister à toutes les attaques : Déviation, Courage, Réflexes ou Volonté. Si un ennemi résiste bien à un type de dégâts, essayez d'utiliser une attaque visant une autre propriété défensive.</DefaultText>
+      <DefaultText>Les quatre propriétés défensives suivantes permettent de résister à toutes les attaques : déviation, robustesse, réflexes ou volonté. Si un ennemi résiste bien à un type de dégâts, essayez d'utiliser une attaque visant une autre propriété défensive.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Le type Dégâts pénétrants ignore toujours les valeurs de réduction de dégâts de la cible. Seules quelques attaques, comme les poisons ou les pouvoirs psychiques, infligent des dégâts pénétrants.</DefaultText>
+      <DefaultText>Le type dégât brut ignore toujours les valeurs de réduction de dégâts de la cible. Seules quelques attaques, comme les poisons ou les pouvoirs psychiques, infligent des dégâts bruts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Si l'endurance d'un personnage est épuisée (0), celui-ci est renversé, mais son endurance peut être totalement régénérée si son camp remporte le combat. Seul le repos permet généralement de régénérer les dégâts de santé. Si la santé est épuisée (0), le personnage est mutilé ou tué.</DefaultText>
+      <DefaultText>Si l'endurance d'un personnage est épuisée (0), celui-ci est renversé, mais son endurance peut être totalement régénérée si son camp remporte le combat. Seul le repos permet généralement de régénérer les dégâts de santé. Si la santé est épuisée (0), le personnage est meurtri ou tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Lors d'un engagement de mêlée, les personnages ont du mal à s'éloigner des défenseurs. Cependant, certains supplices comme le Renversement, l'Assommement, la Paralysie et la Pétrification peuvent rompre l'engagement.</DefaultText>
+      <DefaultText>Lors d'un engagement de mêlée, les personnages ont du mal à s'éloigner des défenseurs. Cependant, certaines afflictions comme renversement, assommement, paralysie et pétrification peuvent rompre l'engagement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>La puissance détermine l'ensemble des dégâts et soins dont le personnage est à l'origine ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des conversations et interactions scriptées pour tester la force et la puissance.</DefaultText>
+      <DefaultText>La puissance détermine l'ensemble des dégâts et soins dont le personnage est à l'origine ainsi que sa propriété défensive robustesse. Elle peut également être utilisée lors des conversations et interactions scriptées pour tester la force et la puissance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>La constitution détermine l'endurance et la santé du personnage ainsi que sa propriété défensive Courage. Elle peut également être utilisée lors des interactions scriptées pour supporter les situations physiquement épuisantes.</DefaultText>
+      <DefaultText>La constitution détermine l'endurance et la santé du personnage ainsi que sa propriété défensive robustesse. Elle peut également être utilisée lors des interactions scriptées pour supporter les situations physiquement épuisantes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Grâce à leur capacité Attaque furtive, les bandits infligent les dégâts armés les plus lourds, toutes classes confondues. Lorsque les bandits frappent des ennemis victimes de supplices qui permettent de lancer une Attaque furtive, ils leur infligent automatiquement des dégâts supplémentaires.</DefaultText>
+      <DefaultText>Grâce à leur capacité Attaque furtive, les bandits infligent les dégâts armés les plus lourds, toutes classes confondues. Lorsque les bandits frappent des ennemis victimes d'afflictions qui permettent de lancer une Attaque furtive, ils leur infligent automatiquement des dégâts supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Frappe mutilante</DefaultText>
+      <DefaultText>Frappe handicapante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Coup mutilant</DefaultText>
+      <DefaultText>Tir handicapant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Fin du supplice</DefaultText>
+      <DefaultText>Suppression des afflictions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Robuste et courageux</DefaultText>
+      <DefaultText>Robuste et vigoureux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +941,7 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Mutilé</DefaultText>
+      <DefaultText>Meurtri</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1156,7 +1156,7 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Punit une cible pour les péchés qu'elle a commis, réduisant sa déviation, son courage, ses réflexes et sa volonté.</DefaultText>
+      <DefaultText>Punit une cible pour les péchés qu'elle a commis, réduisant sa déviation, sa robustesse, ses réflexes et sa volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1361,7 +1361,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>La cible est victime d'une explosion commotionnelle d'énergie psychique et le traumatisme qui en résulte lui inflige des dégâts pénétrants. Les personnages situés dans une zone conique derrière une cible qui manque un test de courage sont renversés par le souffle.</DefaultText>
+      <DefaultText>La cible est victime d'une explosion commotionnelle d'énergie psychique et le traumatisme qui en résulte lui inflige des dégâts bruts. Les personnages situés dans une zone conique derrière la cible et qui manque un test de robustesse sont renversés par le souffle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1831,7 +1831,7 @@
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>Garde mutilante</DefaultText>
+      <DefaultText>Garde handicapante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2126,7 +2126,7 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Génère un nuage empoisonné qui inflige des dégâts pénétrants à intervalles réguliers à tous les personnages touchés par le nuage.</DefaultText>
+      <DefaultText>Génère un nuage empoisonné qui inflige à intervalles réguliers des dégâts bruts à quiconque enveloppé par le nuage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2226,7 +2226,7 @@
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>Neutralise toutes les peurs extérieures des alliés présents dans la zone d'effet, ce qui leur confère un bonus de résistance contre les attaques basées sur la peur ou la terreur et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Neutralise toutes les peurs extérieures des alliés présents dans la zone d'effet, ce qui leur confère un bonus de résistance contre les afflictions effroi et terreur et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2246,7 +2246,7 @@
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Renforce la santé des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les attaques basées sur la maladie et l'affaiblissement et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Renforce la santé des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions intoxication et affaiblissement et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2276,7 +2276,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Libère les alliés présents dans la zone d'effet des contraintes perçues, ce qui leur confère un bonus contre les attaques basées sur l'entrave ou l'immobilisation et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Libère les alliés présents dans la zone d'effet des contraintes perçues, ce qui leur confère un bonus contre les afflictions entrave et immobilisation et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2316,7 +2316,7 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Stimule l'empressement des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les attaques basées sur la confusion et l'étourdissement et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Stimule l'empressement des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions confusion et étourdissement et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2371,7 +2371,7 @@
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>Insuffle un esprit de libération aux alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les attaques basées sur la paralysie ou la pétrification et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Insuffle un esprit de libération aux alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions paralysie et pétrification et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,7 +2446,7 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>Renforce le dévouement du groupe, ce qui confère des bonus contre les attaques basées sur les charmes ou la domination et abrège les effets de ces supplices sur la cible.</DefaultText>
+      <DefaultText>Galvanise le dévouement du groupe, ce qui confère des bonus contre les afflictions charme ou domination et abrège les effets de ces afflictions sur la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Des hordes d'asticots s'attaquent aux ennemis présents dans la zone d'effet et leur infligent des dégâts pénétrants progressifs. Plus la cible est blessée, plus les dégâts sont importants.</DefaultText>
+      <DefaultText>Des hordes d'asticots s'attaquent aux ennemis présents dans la zone d'effet et leur infligent des dégâts bruts progressifs. Plus la cible est blessée, plus les dégâts sont importants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2631,7 +2631,7 @@
     </Entry>
     <Entry>
       <ID>543</ID>
-      <DefaultText>Déclenche une vague déferlante qui emporte tout sur son passage et inflige des dégâts d'écrasement et d'assommement.</DefaultText>
+      <DefaultText>Déclenche une vague déferlante qui emporte tout sur son passage, ce qui inflige des dégâts contondant et l'affliction assommement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,7 +2686,7 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Déclenche une énorme invasion d'insectes venimeux qui inflige des dégâts pénétrants progressifs, réduit la concentration et intoxique les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Déclenche une énorme invasion d'insectes venimeux qui infligent des dégâts bruts progressifs, réduisant la concentration et intoxiquant quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2861,7 +2861,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Produit un hurlement psychique dans la zone visée, ce qui assomme la cible et inflige des dégâts pénétrants à tous les ennemis présents dans la zone. Peut également entraîner une interruption.</DefaultText>
+      <DefaultText>Produit un hurlement psychique dans la zone visée, ce qui assomme la cible et inflige des dégâts bruts à tous les ennemis présents dans la zone. Peut également entraîner une interruption.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,7 +2891,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts pénétrants. Les cibles dont l'endurance est faible explosent, infligeant au passage des dégâts d'écrasement à tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts bruts. Les cibles dont l'endurance est faible explosent, infligeant au passage des dégâts contondant à quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Dévore la force impalpable qui unit l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts pénétrants. Les cibles dont l'endurance est nulle se désintègrent.</DefaultText>
+      <DefaultText>Dévore la force impalpable qui unit l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts bruts. Les cibles dont l'endurance est nulle se désintègrent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3341,7 +3341,7 @@
     </Entry>
     <Entry>
       <ID>685</ID>
-      <DefaultText>Parchemin de courage</DefaultText>
+      <DefaultText>Parchemin de bravoure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3656,12 +3656,12 @@
     </Entry>
     <Entry>
       <ID>748</ID>
-      <DefaultText>Résistance aux supplices</DefaultText>
+      <DefaultText>Résistance aux afflictions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Abrège les effets des renversements et des entraves.</DefaultText>
+      <DefaultText>Abrège la durée des afflictions renversement et entrave.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3951,7 +3951,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Les alliés présents dans la zone d'effet reçoivent un bonus pour leurs valeurs de réduction de dégâts de gel et de choc, ainsi qu'un bonus de défense contre le renversement.</DefaultText>
+      <DefaultText>Les alliés présents dans la zone d'effet reçoivent un bonus de réduction de dégâts de gel et de choc, ainsi qu'un bonus contre l'affliction renversement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3966,7 +3966,7 @@
     </Entry>
     <Entry>
       <ID>810</ID>
-      <DefaultText>Enhardit les alliés présents dans la zone d'effet en leur conférant des bonus de courage et de volonté.</DefaultText>
+      <DefaultText>Enhardit les alliés présents dans la zone d'effet, ce qui leur confère des bonus de robustesse et de volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4041,12 +4041,12 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts pénétrants progressifs et réduisent la concentration des personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts bruts progressifs et réduisent la concentration de quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts pénétrants continus sont ajoutés à l'attaque de celui-ci et son endurance est régénérée.</DefaultText>
+      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts bruts continus sont ajoutés son attaque, régénérant son endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4096,7 +4096,7 @@
     </Entry>
     <Entry>
       <ID>836</ID>
-      <DefaultText>Érige un épais mur d'épines noueuses qui infligent des dégâts de perforation. Son effet d'empoisonnement affaiblit également la cible et l'empêche de réussir le test de courage.</DefaultText>
+      <DefaultText>Érige un épais mur d'épines noueuses qui infligent des dégâts perforants. En cas d'échec d'un test de robustesse, les toxines des épines infligent l'affliction affaiblissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4111,7 +4111,7 @@
     </Entry>
     <Entry>
       <ID>839</ID>
-      <DefaultText>Fait pousser un champ de magnifiques fleurs toxiques génératrices de panique qui effraient, affaiblissent et infligent des dégâts pénétrants progressifs aux personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait pousser un champ de magnifiques fleurs toxiques génératrices de panique qui provoquent effroi, affaiblissement et infligent des dégâts bruts progressifs à quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4261,7 +4261,7 @@
     </Entry>
     <Entry>
       <ID>869</ID>
-      <DefaultText>Le barbare frappe si fort que les moyens de défense ordinaires sont facilement ignorés. Lors des attaques qui visent normalement la déviation, le barbare préférera attaquer le courage si cette défense est la plus faible.</DefaultText>
+      <DefaultText>Le barbare frappe si fort que les moyens de défense ordinaires ne sont plus d'aucune utilité. Lors des attaques qui visent normalement la déviation, le barbare s'attaquera plutôt à la robustesse si cette défense est plus faible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4391,7 +4391,7 @@
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>Le moine bénéficie d'une perspicacité momentanée grâce à l'endurance, ce qui lui confère un bonus temporaire de courage, de réflexes et de volonté lorsqu'un effet hostile expire.</DefaultText>
+      <DefaultText>Le moine acquiert un nouveau degré de connaissance temporaire de par son endurance, ce qui lui confère un bonus momentané de robustesse, de réflexes et de volonté lorsqu'un effet hostile expire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4411,7 +4411,7 @@
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Le moine se concentre pleinement sur le monde spirituel, ce qui lui confère un bonus de courage, de réflexes et de volonté.</DefaultText>
+      <DefaultText>Le moine se concentre pleinement sur le monde spirituel, ce qui lui confère un bonus de robustesse, de réflexes et de volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4441,7 +4441,7 @@
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Comme il le ferait en poursuivant une proie en fuite, le chasseur vise un point pour ralentir la cible ennemie, ce qui l'entrave et lui inflige des dégâts pénétrants progressifs.</DefaultText>
+      <DefaultText>Comme il le ferait en poursuivant une proie en fuite, le chasseur vise un point qui ralentira la progression de l'ennemi, l'entravant et lui infligeant des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4551,7 +4551,7 @@
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Grâce à son savoir-faire en matière de douleur, le bandit peut ajouter à ses dégâts d'entaille, de perforation et d'écrasement des dégâts pénétrants progressifs.</DefaultText>
+      <DefaultText>Son savoir-faire dans l'art de la douleur permet au bandit d'ajouter des dégâts bruts progressifs à ses dégâts tranchants, perforants et contondants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4651,7 +4651,7 @@
     </Entry>
     <Entry>
       <ID>947</ID>
-      <DefaultText>Le Contrecoup psychique du clairvoyant devient particulièrement traumatisant, ce qui inflige quelques dégâts pénétrants à la cible au moment de l'impact.</DefaultText>
+      <DefaultText>Le Contrecoup psychique du clairvoyant devient particulièrement traumatisant, ce qui inflige une petite quantité de dégâts bruts à la cible à chaque coup.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4971,7 +4971,7 @@
     </Entry>
     <Entry>
       <ID>1011</ID>
-      <DefaultText>Lorsqu'un druide est transformé en cerf, un bonus s'applique à toutes ses défenses (déviation, courage, réflexes et volonté).</DefaultText>
+      <DefaultText>Lors de sa transformation en cerf, le druide reçoit un bonus à toutes ses défenses (déviation, robustesse, réflexes et volonté).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4996,7 +4996,7 @@
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>Les antilopes de compagnie bénéficient de défenses naturellement supérieures (déviation, courage, réflexes et volonté). 
+      <DefaultText>Les antilopes de compagnie bénéficient de défenses naturellement supérieures (déviation, robustesse, réflexes et volonté). 
 
 Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
 
@@ -5095,7 +5095,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>Courage de l'ours</DefaultText>
+      <DefaultText>Robustesse de l'ours</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5115,7 +5115,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Améliore la défense Courage du personnage.</DefaultText>
+      <DefaultText>Améliore la défense Robustesse du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5175,12 +5175,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText>Les prêtres peuvent canaliser leur fureur grâce à leur capacité Interdiction. Leur attaque inflige alors un douloureux supplice d'affaiblissement.</DefaultText>
+      <DefaultText>Les prêtres peuvent canaliser leur fureur grâce à leur capacité Interdiction, ce qui ajoute une douloureuse affliction affaiblissement à leur attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Améliore les défenses du personnage contre les supplices Charme, Confusion, Domination, Effroi et Terreur.</DefaultText>
+      <DefaultText>Renforce les défenses du personnage contre les afflictions charme, confusion, domination, effroi et terreur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5190,7 +5190,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText>Améliore les défenses du personnage contre les supplices Paralysie, Pétrification, Intoxication, Assommement et Affaiblissement.</DefaultText>
+      <DefaultText>Renforce les défenses du personnage contre les afflictions paralysie, pétrification, Intoxication, assommement et affaiblissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5200,7 +5200,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Améliore les défenses du personnage contre les supplices Aveuglement, Étourdissement, Entrave, Renversement et Immobilisation.</DefaultText>
+      <DefaultText>Renforce les défenses du personnage contre les afflictions aveuglement, étourdissement, entrave, renversement et immobilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5230,7 +5230,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une défense accrue contre les supplices Charme, Confusion et Domination.</DefaultText>
+      <DefaultText>Le compagnon animal du rôdeur bénéficie d'une défense accrue contre les afflictions charme, confusion et domination.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5245,7 +5245,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1061</ID>
-      <DefaultText>Un mélange de venins animaux et végétaux est appliqué sur l'arme du personnage pour lui permettre de lancer une frappe empoisonnée qui inflige des dégâts pénétrants progressifs.</DefaultText>
+      <DefaultText>Grâce à un mélange de toxines animales et végétales appliqué sur son arme, le personnage peut asséner une frappe empoisonnée qui inflige des dégâts bruts progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5350,7 +5350,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Le moine s'inflige immédiatement des dégâts pénétrants qui le blessent.</DefaultText>
+      <DefaultText>Le moine s'inflige suffisamment de dégâts bruts pour obtenir une blessure.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5360,7 +5360,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>Accroît les dégâts infligés par les instruments (baguettes, sceptres et bourdons), mais l'utilisateur subit quelques dégâts pénétrants à chaque attaque.</DefaultText>
+      <DefaultText>Accroît les dégâts infligés par les équipements (baguettes, sceptres et bourdons), mais chaque attaque inflige une petite quantité de dégâts bruts au manipulateur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6540,7 +6540,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Libère de l'énergie magique à partir du grimoire pour infliger des dégâts pénétrants et étourdir les cibles présentes dans la zone.</DefaultText>
+      <DefaultText>Libère de l'énergie magique à partir du grimoire pour infliger des dégâts bruts et étourdir les cibles présentes dans la zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6550,7 +6550,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>Le supplice Immobilisation frappe la cible et devient le point d'ancrage d'un rayon énergétique glacial du magicien qui inflige des dégâts de gel aux ennemis présents sur son passage.</DefaultText>
+      <DefaultText>La cible est frappée par l'affliction immobilisation et devient le point d'ancrage d'un rayon énergétique glacial du magicien qui inflige des dégâts de gel aux ennemis présents sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

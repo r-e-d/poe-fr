@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Courage</DefaultText>
+      <DefaultText>Robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>La première fois que la santé d'un personnage atteint zéro, celui-ci est simplement mutilé au lieu de mourir.</DefaultText>
+      <DefaultText>La première fois que la santé d'un personnage atteint zéro, celui-ci est simplement meurtri au lieu de mourir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Mutiler les compagnons avant la mort</DefaultText>
+      <DefaultText>Meurtrir les compagnons avant la mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,12 +1826,12 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>{0} % de dégâts et soins, {1} de courage</DefaultText>
+      <DefaultText>{0} % de dégâts et soins, {1} de robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>{0} % d'endurance et santé, {1} de courage</DefaultText>
+      <DefaultText>{0} % d'endurance et santé, {1} de robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2341,7 +2341,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>La puissance représente la force physique et psychique d'un personnage, sa force brute ainsi que sa capacité à canaliser de puissants pouvoirs magiques. Lors des interactions, elle améliore les capacités d'intimidation et agit sur la force brute. Au combat, elle renforce les dégâts, la capacité de guérison et la propriété défensive Courage.</DefaultText>
+      <DefaultText>La puissance représente la force physique et psychique d'un personnage, sa force brute ainsi que sa capacité à canaliser de puissants pouvoirs magiques. Lors des interactions, elle améliore les capacités d'intimidation et agit sur la force brute. Au combat, elle renforce les dégâts, la capacité de guérison et la propriété défensive robustesse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2356,7 +2356,7 @@
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>La constitution combine la santé globale et l'endurance d'un personnage. Bien que peu utilisée lors des interactions, elle permet de résister à la douleur ou d'endurer une terrible épreuve physique. Au combat, elle agit sur la santé et l'endroit maximum ainsi que sur la propriété défensive Courage.</DefaultText>
+      <DefaultText>La constitution combine la santé globale et l'endurance d'un personnage. Bien que peu utilisée lors des interactions, elle permet de résister à la douleur ou d'endurer une terrible épreuve physique. Au combat, elle agit sur la santé maximale et l'endurance ainsi que sur la propriété défensive robustesse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2433,7 +2433,7 @@ Endurance élémentaire - Tous les elfes pâles possèdent une réduction accrue
       <ID>486</ID>
       <DefaultText>Les nains des montagnes (ou Aptapos), originaires du continent situé à l'est de Dyrwood, ont connu plusieurs vagues de migrations dans la région. Contrairement aux orlans, également de petite taille et fréquemment assujettis, les Aptapos ont toujours combattu les êtres civilisés hostiles plus grands qu'eux et choisi de fortifier leurs maisons plutôt que de s'installer ailleurs. Les nains des montagnes sont nombreux dans les Républiques de Vailia, mais plus rares à Dyrwood et Readceras. 
 
-Robuste et courageux - Les nains des montagnes ont un bonus de protection contre le poison et la maladie.</DefaultText>
+Robuste et vigoureux - Les nains des montagnes ont un bonus de protection contre le poison et la maladie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2513,7 +2513,7 @@ Récupération constante - Les combattants régénèrent continuellement leur en
       <DefaultText>Les bandits sont de redoutables tueurs, dont la brutalité inspire la crainte. On les rencontre généralement dans les sombres ruelles et au cœur des escarmouches sur le champ de bataille. Imprévisibles et indisciplinés, les bandits interviennent souvent comme troupes de choc ou dans le cadre d'assauts surprises. Leurs violentes attaques sont dévastatrices et démoralisantes pour l'ennemi. Les bandits sont très nombreux dans les villes, où ils sont employés en tant que mercenaires ou gardes du corps.
 
 Capacité de départ : 
-Attaque furtive - Applique un bonus de dégâts aux attaques armées à distance et en mêlée lorsque la cible est victime d'un des supplices suivants : Aveuglement, Prise à revers, Entrave, Paralysie, Pétrification, Renversement, Immobilisation, Assommement ou Affaiblissement. S'applique également à toutes les cibles frappées avec une arme au cours des 2 premières secondes du combat.</DefaultText>
+Attaque furtive - Applique un bonus de dégâts aux attaques armées à distance et en mêlée lorsque la cible est victime d'une des afflictions suivantes : aveuglement, prise à revers, entrave, paralysie, pétrification, renversement, immobilisation, assommement ou affaiblissement. S'applique également à toutes les cibles frappées avec une arme au cours des 2 premières secondes du combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2530,7 +2530,7 @@ Sorts - Les prêtres ont accès à un éventail de sorts offensifs et de soutien
       <DefaultText>Maîtres de la magie académique, les magiciens étudient les traditions ésotériques ancestrales. Ils constituent un groupe hautement organisé et sont souvent regroupés au sein d'académies ou de guildes qui mènent des recherches sur la magie. Ils apprécient les environnements qui encouragent la recherche, l'expérimentation, le débat et le partage des connaissances. Bon nombre de magiciens accomplis se distinguent par leur excentricité, leur ego et leur insatiable curiosité pour tout ce qui a trait à l'ésotérisme et à l'occulte.
 
 Capacités de départ : 
-Assaut ésotérique - Attaque à moyenne portée qui inflige des dégâts pénétrants sur une zone réduite et peut étourdir les cibles. 
+Assaut ésotérique - Attaque à moyenne portée qui inflige des dégâts bruts sur une zone réduite et peut étourdir les cibles. 
 Sorts - Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, ils apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, ils ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText />
     </Entry>
@@ -5575,7 +5575,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1109</ID>
-      <DefaultText>{0} de courage</DefaultText>
+      <DefaultText>{0} de robustesse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5720,7 +5720,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>{0} de mutiler au moment de l'impact</DefaultText>
+      <DefaultText>{0} de chance d'entraver par coup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5910,7 +5910,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (Courage ou Volonté)</DefaultText>
+      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (robustesse ou volonté)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7025,7 +7025,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Les pièges et les verrous peuvent poser des problèmes à tous les aventuriers, y compris aux plus aguerris, car ils épuisent leurs ressources et mutilent ou tuent ceux qui ont la malchance de déclencher un mécanisme caché. La compétence Mécanique facilite l'ouverture des verrous ainsi que la découverte et la neutralisation de pièges. En outre, n'importe quel personnage peut utiliser la compétence Mécanique pour poser ses propres pièges. Plus la compétence Mécanique est élevée, plus le piège est précis. Lors des conversations et des interactions scriptées, la compétence Mécanique peut être utilisée pour activer ou désactiver différentes machines.</DefaultText>
+      <DefaultText>Les pièges et les verrous peuvent poser des problèmes à tous les aventuriers, y compris aux plus aguerris, car ils épuisent leurs ressources et meurtrient ou tuent ceux qui ont la malchance de déclencher un mécanisme caché. La compétence Mécanique facilite l'ouverture des verrous ainsi que la découverte et la neutralisation de pièges. En outre, n'importe quel personnage peut utiliser la compétence Mécanique pour poser ses propres pièges. Plus la compétence Mécanique est élevée, plus le piège est précis. Lors des conversations et des interactions scriptées, la compétence Mécanique peut être utilisée pour activer ou désactiver différentes machines.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7744,8 +7744,8 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1544</ID>
-      <DefaultText>{0} a été mutilé.</DefaultText>
-      <FemaleText>{0} a été mutilée.</FemaleText>
+      <DefaultText>{0} a été meurtri.</DefaultText>
+      <FemaleText>{0} a été meurtrie.</FemaleText>
     </Entry>
     <Entry>
       <ID>1545</ID>
@@ -8614,7 +8614,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1719</ID>
-      <DefaultText>Supplices et blessures</DefaultText>
+      <DefaultText>Afflictions et blessures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9006,7 +9006,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1798</ID>
-      <DefaultText>Les capacités du moine couvrent un ensemble d'effets qui renforcent ses attaques de mêlée, le protègent des supplices ou renversent la situation au détriment des ennemis. La plupart des capacités du moine reposent sur les blessures, et certaines sur une utilisation Par rencontre ou Par repos.</DefaultText>
+      <DefaultText>Les capacités du moine couvrent un ensemble d'effets qui renforcent ses attaques de mêlée, le protègent des afflictions ou renversent la situation au détriment des ennemis. La plupart des capacités du moine reposent sur les blessures, et certaines sur une utilisation Par rencontre ou Par repos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9026,7 +9026,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1802</ID>
-      <DefaultText>Les capacités du bandit mettent l'accent sur les frappes offensives à l'aide d'armes de mêlée et d'armes à distance. Certaines provoquent des supplices qui permettent au bandit de lancer une Attaque furtive. D'autres renforcent son Attaque furtive ou lui confèrent des capacités de positionnement tactique.</DefaultText>
+      <DefaultText>Les capacités du bandit mettent l'accent sur les frappes offensives à l'aide d'armes de mêlée et d'armes à distance. Certaines provoquent des afflictions qui permettent au bandit de lancer une Attaque furtive. D'autres renforcent son Attaque furtive ou lui confèrent des capacités de positionnement tactique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

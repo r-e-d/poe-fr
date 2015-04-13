@@ -1,13 +1,13 @@
-# Pillars of Eternity: French localization patch
+# Pillars of Eternity: Patch de traduction française
 
 ## Installation:
 
-Unpack and move the fr-fixed directory to:  
+Décompresser le fichier .zip et placer le répertoire fr-fixed dans le dossier approprié :
 
-For Steam-Users:  
- * Windows: [steam]\steamapps\common\Pillars of Eternity\PillarsOfEternity_Data\data\localized  
- * Linux: [steam]/SteamApps/common/Pillars of Eternity/PillarsOfEternity_Data/data/localized  
+ * Windows : [dossier_PoE]\PillarsOfEternity_Data\data\localized\
+ * Linux : [dossier_Poe]/PillarsOfEternity_Data/data/localized/
+ 
+Ensuite dans les options du jeu, choississez la nouvelle langue :
 
-For Gog-Users:  
- * Windows: [PoE]\PillarsOfEternity_Data\data\localized  
- * Linux: [Poe]/PillarsOfEternity_Data/data/localized  
+<a href='http://pix.toile-libre.org/?img=1428774262.jpg'><img src='http://pix.toile-libre.org/upload/img/1428774262.jpg' /></a>
+
