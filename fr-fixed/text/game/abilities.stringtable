@@ -1221,12 +1221,12 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Face à une foi inébranlable, le doute persistant consume les ennemis présents dans la zone d'effet, ce qui réduit leur précision en mêlée ainsi que la portée de leurs coups critiques.</DefaultText>
+      <DefaultText>Face à une foi inébranlable, un doute persistant consume les ennemis présents dans la zone d'effet, ce qui réduit leur Précision en mêlée et leur plage de Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Renforce la détermination des alliés au combat, ce qui accroît leurs chances de porter un coup critique.</DefaultText>
+      <DefaultText>Renforce la Détermination des alliés au combat, ce qui accroît leurs chances de porter un Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,7 +1291,7 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Le jeteur de sorts voit les points faibles et les vulnérabilités d'un ennemi comme s'ils étaient physiquement tangibles, ce qui accroît ses chances de porter un coup critique.</DefaultText>
+      <DefaultText>Le jeteur de sorts voit les points faibles et les vulnérabilités d'un ennemi comme s'ils étaient physiquement tangibles, ce qui accroît ses chances de porter un Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1411,7 +1411,7 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Raffermit le bras du combattant, ce qui transforme en coups un certain pourcentage de ses écorchures et augmente les dégâts minimum des armes de mêlée.</DefaultText>
+      <DefaultText>Raffermit le bras du combattant, ce qui convertit un certain pourcentage de ses Éraflures en Coups et augmente les dégâts minimum des armes de mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Le combattant déploie des efforts supplémentaires pour repousser les coups les plus violents, ce qui transforme un certain pourcentage de tous les coups critiques subis en coups, et les coups en écorchures.</DefaultText>
+      <DefaultText>Le combattant déploie des efforts supplémentaires pour repousser les coups les plus violents, ce qui convertit un certain pourcentage des Critiques reçus en Coups, et des Coups en Éraflures.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4331,7 @@
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Le combattant profite du moment où les ennemis tentent de rompre l'engagement pour viser leurs jambes. Lors des attaques de désengagement, les cibles des coups ou des coups critiques sont entravées.</DefaultText>
+      <DefaultText>Le combattant profite du moment où les ennemis tentent de rompre l'engagement pour viser leurs jambes. Lors des attaques de désengagement, les cibles des Coups ou des Critiques sont entravées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4401,7 +4401,7 @@
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>En visant certains points d'un ennemi, le moine peut physiquement l'affaiblir. Les coups critiques de mêlée affaiblissent la cible.</DefaultText>
+      <DefaultText>En visant certains points d'un ennemi, le moine peut physiquement l'affaiblir. Les Critiques de mêlée cause un Affaiblissement la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4501,7 +4501,7 @@
     </Entry>
     <Entry>
       <ID>917</ID>
-      <DefaultText>Profite d'un moment d'inattention d'un l'ennemi engagé par le compagnon animal du rôdeur, ce qui assomme l'ennemi (attaque secondaire) lorsque le rôdeur réussit un coup ou un coup critique.</DefaultText>
+      <DefaultText>Profite d'un moment d'inattention pendant que l'ennemi est engagé par le compagnon animal du rôdeur, ce qui Assomme l'ennemi (attaque secondaire) lorsque le rôdeur réussit un Coup ou un Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4516,7 +4516,7 @@
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Le bandit emploie diverses tactiques sournoises qui transforment une partie de ses coups en coups critiques.</DefaultText>
+      <DefaultText>Le bandit emploie diverses tactiques sournoises qui transforment une partie de ses Coups en Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4546,7 +4546,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui transforme de nombreuses écorchures réflexes en échecs.</DefaultText>
+      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui convertit de nombreuses Éraflures sur Réflexes en Échecs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4696,7 +4696,7 @@
     </Entry>
     <Entry>
       <ID>956</ID>
-      <DefaultText>Les alliés perçoivent le zèle du paladin et sont profondément inspirés par lui. Les alliés touchés par la Concentration zélée transforment 5 % des coups ordinaires en coup critiques.</DefaultText>
+      <DefaultText>Les alliés ressentent le zèle du paladin et sont profondément inspirés par lui. Les alliés touchés par la Concentration zélée transforment 5 % des Coups en Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4741,7 +4741,7 @@
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Améliore les compétences du bandit en matière de manœuvres sournoises, ce qui accroît le pourcentage de coups qu'il peut transformer en coups critiques lors de l'utilisation du Combat déloyal.</DefaultText>
+      <DefaultText>Améliore les compétences du bandit en matière de manœuvres sournoises, ce qui accroît le pourcentage de Coups convertis en Critiques lors de l'utilisation du Combat déloyal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5470,7 +5470,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Le barbare délivre une puissante frappe qui inflige des coups critiques supplémentaires ainsi que des dégâts de coups critiques pour la frappe et les coups résultant du Carnage. Le Carnage s'étend également à une plus large zone.</DefaultText>
+      <DefaultText>Le barbare délivre une puissante frappe qui inflige des Critiques et Dégâts Critiques supplémentaires pour la frappe et les coups résultant du Carnage. Le Carnage touche également une plus large zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5515,7 +5515,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Lorsque l'attaquant utilise une arme de mêlée à une main, une partie de ses écorchures sont transformées en coups.</DefaultText>
+      <DefaultText>Lorsque l'attaquant utilise une arme de mêlée à une main, une partie de ses Éraflures sont converties en Coups.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5845,7 +5845,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1181</ID>
-      <DefaultText>Votre entraînement auprès des Doemenel vous permet d'infliger des coups critiques plus puissants.</DefaultText>
+      <DefaultText>Votre entraînement auprès des Doemenel vous permet d'infliger des Critiques plus puissants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5980,7 +5980,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Toutes les attaques lancées contre des ennemis à une faible endurance transforment certains coups en coups critiques, et tous les coups critiques infligent des dégâts supplémentaires.</DefaultText>
+      <DefaultText>Toutes les attaques lancées contre des ennemis avec une faible endurance convertissent certains Coups en Critiques, et ces Critiques infligent des dégâts supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6480,7 +6480,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1312</ID>
-      <DefaultText>Lorsque des orlans du foyer attaquent une cible également visée par un coéquipier, certains de leurs coups sont transformés en coups critiques.</DefaultText>
+      <DefaultText>Lorsque des orlans du foyer attaquent une cible également visée par un coéquipier, certains de leurs Coups sont convertis en Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

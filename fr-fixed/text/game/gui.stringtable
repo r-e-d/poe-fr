@@ -281,12 +281,12 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Écorchure</DefaultText>
+      <DefaultText>Éraflure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Coup critique</DefaultText>
+      <DefaultText>Critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2474,9 +2474,9 @@ Marée argentée - À chaque rencontre, lorsque l'endurance est inférieure à 7
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Les orlans du foyer sont souvent réduits à l'esclavage à Readceras et dans les Républiques de Vailia. Le traité conclu entre Dyrwood et le peuple d'Eir Glanfath prévoyait la libération des esclaves orlans mais, bien que cette clause ait été respectée, bon nombre d'orlans du foyer occupent encore des fonctions subalternes à Dyrwood. 
+      <DefaultText>Les orlans du foyer sont souvent réduits en esclavage à Readceras et dans les Républiques de Vailia. Le traité conclu entre Dyrwood et le peuple d'Eir Glanfath prévoyait la libération des esclaves orlans mais, bien que cette clause ait été respectée, bon nombre d'orlans du foyer occupent encore des fonctions subalternes à Dyrwood.
 
-Menace insignifiante - Lors de l'attaque d'une cible également visée par un coéquipier, une partie de leurs coups se transforment en coups critiques.</DefaultText>
+Menace insignifiante - Lors de l'attaque d'une cible également visée par un coéquipier, une partie de leurs Coups se transforment en Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3620,17 +3620,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Coups les plus critiques</DefaultText>
+      <DefaultText>Le plus de Critiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>717</ID>
-      <DefaultText>Pires coups</DefaultText>
+      <DefaultText>Le plus de Coups</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>718</ID>
-      <DefaultText>Pires dégâts subis</DefaultText>
+      <DefaultText>Le plus de dégâts reçus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3865,7 +3865,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>765</ID>
-      <DefaultText>Coups critiques</DefaultText>
+      <DefaultText>Critiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3875,7 +3875,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>Dégâts subis</DefaultText>
+      <DefaultText>Dégâts reçus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4100,7 +4100,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>812</ID>
-      <DefaultText>écorchures</DefaultText>
+      <DefaultText>éraflures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4110,7 +4110,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText>coups critiques</DefaultText>
+      <DefaultText>critiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5885,7 +5885,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>{0} de coups convertis en coups critiques en cas d'attaque de la même cible qu'un allié</DefaultText>
+      <DefaultText>{0} des Coups convertis en Critiques en cas d'attaque de la même cible qu'un allié</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5895,7 +5895,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>{0} de coups critiques des ennemis attaquant convertis en coups</DefaultText>
+      <DefaultText>{0} des Critiques reçus convertis en Coups</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5905,12 +5905,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1175</ID>
-      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (Déviation ou Réflexes)</DefaultText>
+      <DefaultText>{0} des Coups reçus convertis en Éraflures (Déviation ou Réflexes seuls)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>{0} de coups des ennemis attaquant convertis en écorchures (robustesse ou volonté)</DefaultText>
+      <DefaultText>{0} de Coups reçus convertis en Éraflures (Robustesse ou Volonté seuls)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6030,42 +6030,42 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1200</ID>
-      <DefaultText>{0} de multiplicateur de dégâts critiques</DefaultText>
+      <DefaultText>{0} au multiplicateur de Dégâts Critiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>{0} d'écorchures converties en coups</DefaultText>
+      <DefaultText>{0} des Éraflures converties en Coups</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Les coups critiques peuvent assommer</DefaultText>
+      <DefaultText>Les Critiques peuvent Assommer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>{0} d'écorchures converties en échecs</DefaultText>
+      <DefaultText>{0} des Éraflures converties en Échecs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>{0} de coups critiques convertis en coups</DefaultText>
+      <DefaultText>{0} des Critiques convertis en Coups</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>{0} d'échecs convertis en écorchures</DefaultText>
+      <DefaultText>{0} des Échecs convertis en Éraflures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} de coups convertis en coups critiques</DefaultText>
+      <DefaultText>{0} des Coups convertis en Critiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>{0} d'échecs convertis en écorchures</DefaultText>
+      <DefaultText>{0} des Coups convertis en Éraflures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6100,7 +6100,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>{0} d'écorchures des ennemis attaquant converties en échecs (Réflexes)</DefaultText>
+      <DefaultText>{0} des Éraflures reçues converties en Échecs (Réflexes seuls)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6195,7 +6195,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1233</ID>
-      <DefaultText>Les coups critiques peuvent renverser</DefaultText>
+      <DefaultText>Les Critiques peuvent Renverser</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6220,12 +6220,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1238</ID>
-      <DefaultText>Écorchures à distance renvoyées à l'attaquant</DefaultText>
+      <DefaultText>Éraflures à distance renvoyées à l'attaquant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>{0} de coups convertis en écorchures</DefaultText>
+      <DefaultText>{0} des Coups reçus convertis en Éraflures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6375,7 +6375,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>{0} de dégâts de coups critiques subis</DefaultText>
+      <DefaultText>{0} de Dégâts Critiques reçus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8394,7 +8394,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>{0} d'écorchures transformées en coups (arme en mêlée à une main)</DefaultText>
+      <DefaultText>{0} des Éraflures converties en Coups (arme en mêlée à une main)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8484,7 +8484,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1693</ID>
-      <DefaultText>{0} de coups convertis en coups critiques contre des cibles de faible endurance</DefaultText>
+      <DefaultText>{0} des Coups convertis en Critiques contre les cibles avec une faible Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9116,17 +9116,17 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1820</ID>
-      <DefaultText>Déclenchement en cas d'évanouissement</DefaultText>
+      <DefaultText>Se déclenche en cas d'évanouissement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1821</ID>
-      <DefaultText>Déclenchement en cas de coup critique.</DefaultText>
+      <DefaultText>Se déclenche sur un Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1822</ID>
-      <DefaultText>Déclenchement en cas de coup critique subi.</DefaultText>
+      <DefaultText>Se déclenche sur un Critique reçu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9721,7 +9721,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>{0} de multiplicateur de dégâts critiques contre les ennemis dotés d'une faible endurance</DefaultText>
+      <DefaultText>{0} au multiplicateur de Dégâts Critiques contre les cibles avec une faible Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
