@@ -366,22 +366,22 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>de Feu</DefaultText>
+      <DefaultText>Feu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>de Froid</DefaultText>
+      <DefaultText>Froid</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>d'Electricité</DefaultText>
+      <DefaultText>Electrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>d'Acide</DefaultText>
+      <DefaultText>Acide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,7 +2426,7 @@ Avantage de distance - Contre un ennemi situé à plus de 4 mètres, les elfes 
       <ID>485</ID>
       <DefaultText>On ne sait pas précisément à quand remonte l'arrivée des elfes pâles (ou Glamfellens) dans les régions polaires méridionales, mais ils y vivent depuis au moins 12 000 ans grâce aux relations qu'ils ont tissées avec les marchands aumauas. Ils constituent l'un des groupes ethniques les plus sédentaires du monde connu. Ils limitent leurs déplacements à la région polaire et ne s'aventurent que rarement vers l'extrême nord. Ils sont très peu représentés dans les territoires du nord où la plupart des gens les considèrent comme un peuple exotique (s'ils en ont déjà seulement vu un). 
 
-Endurance élémentaire - Tous les elfes pâles possèdent une réduction accrue pour les dégâts de brûlure et de gel.</DefaultText>
+Endurance élémentaire - Tous les elfes pâles possèdent une résistance accrue aux dégâts de feu et de froid.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,7 +2521,7 @@ Attaque furtive - Applique un bonus de dégâts aux attaques armées à distance
       <DefaultText>Les prêtres sont des adeptes des divinités d'Eora et pratiquent la magie religieuse. Bien que tous les prêtres se consacrent à des dieux spécifiques, ils puisent leur force dans leurs croyances personnelles. Contrairement à la plupart des paladins, les prêtres ont tendance à se concentrer sur la philosophie, sur l'enseignement et sur les relations des organisations religieuses avec le peuple. L'accueil réservé aux prêtres dépend principalement de la manière dont le dieu qu'ils vénèrent est perçu par les habitants de la région.
 
 Capacités de départ : 
-Rayonnement sacré - Renforce légèrement l'endurance des alliés qui entourent le prêtre. Tout vaisseau ennemi présent dans la zone subit des dégâts de brûlure et peut être frappé d'effroi. Au fil du jeu, le pouvoir de cette capacité peut évoluer en fonction des réputations du prêtre par rapport aux comportements privilégiés par sa divinité.
+Rayonnement sacré - Renforce légèrement l'endurance des alliés qui entourent le prêtre. Tout vaisseau ennemi présent dans la zone reçoit des dégâts de feu et peut être frappé d'effroi. Au fil du jeu, le pouvoir de cette capacité peut évoluer en fonction des réputations du prêtre par rapport aux comportements privilégiés par sa divinité.
 Sorts - Les prêtres ont accès à un éventail de sorts offensifs et de soutien. Tous les deux niveaux, ils ont automatiquement accès à un ensemble de sorts supplémentaires. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des prêtres augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText />
     </Entry>
@@ -4130,22 +4130,22 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>de Feu</DefaultText>
+      <DefaultText>de feu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>de Froid</DefaultText>
+      <DefaultText>de froid</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>d'Electricité</DefaultText>
+      <DefaultText>d'électricité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>d'Acide</DefaultText>
+      <DefaultText>d'acide</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7350,8 +7350,8 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Les druides sélectionnent un type de dégâts (Entaille, Perforation, Écrasement, Brûlure, Corrosion, Gel ou Choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</DefaultText>
-      <FemaleText>Les druidesses sélectionnent un type de dégâts (Entaille, Perforation, Écrasement, Brûlure, Corrosion, Gel ou Choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</FemaleText>
+      <DefaultText>Les druides sélectionnent un type de dégâts (tranchant, perforant, contondant, feu, corrosion, froid ou choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</DefaultText>
+      <FemaleText>Les druidesses sélectionnent un type de dégâts (tranchant, perforant, contondant, feu, corrosion, froid ou choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</FemaleText>
     </Entry>
     <Entry>
       <ID>1467</ID>
