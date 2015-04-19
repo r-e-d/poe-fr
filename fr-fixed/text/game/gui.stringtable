@@ -6775,17 +6775,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Camping impossible pendant le combat.</DefaultText>
+      <DefaultText>Impossible de camper pendant un combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1350</ID>
-      <DefaultText>Vous n'avez pas de matériel de camping.</DefaultText>
+      <DefaultText>Vous n'avez pas de matériel de campement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1351</ID>
-      <DefaultText>Le camping n'est pas autorisé dans cette zone.</DefaultText>
+      <DefaultText>Camper n'est pas autorisé dans cette zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7055,7 +7055,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1405</ID>
-      <DefaultText>Matériel de camping</DefaultText>
+      <DefaultText>Matériel de campement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7939,7 +7939,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1583</ID>
-      <DefaultText>Matériel de camping : {0}/{1}</DefaultText>
+      <DefaultText>Matériel de campement : {0}/{1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9051,7 +9051,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1807</ID>
-      <DefaultText>Matériel de camping acquis et ajouté au reste de votre équipement.</DefaultText>
+      <DefaultText>Matériel de campement acquis et ajouté au reste de votre équipement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
