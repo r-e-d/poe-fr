@@ -1186,7 +1186,7 @@
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Désigne une cible pour lui infliger des dégâts de brûlure et réduire sa déviation.</DefaultText>
+      <DefaultText>Désigne une cible en représailles pour lui infliger des dégâts de feu et réduire sa déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,7 +1196,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Crée une projection énergétique de la foi du prêtre qui se déplace lentement et régénère l'endurance des alliés tout en infligeant des dégâts de gel aux ennemis.</DefaultText>
+      <DefaultText>Crée une projection énergétique de la foi du prêtre qui se déplace lentement et régénère l'endurance des alliés tout en infligeant des dégâts de froid aux ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,12 +1221,12 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Face à une foi inébranlable, le doute persistant consume les ennemis présents dans la zone d'effet, ce qui réduit leur précision en mêlée ainsi que la portée de leurs coups critiques.</DefaultText>
+      <DefaultText>Face à une foi inébranlable, un doute persistant consume les ennemis présents dans la zone d'effet, ce qui réduit leur Précision en mêlée et leur plage de Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Renforce la détermination des alliés au combat, ce qui accroît leurs chances de porter un coup critique.</DefaultText>
+      <DefaultText>Renforce la Détermination des alliés au combat, ce qui accroît leurs chances de porter un Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Forme un cône de feu devant le jeteur de sorts et inflige des dégâts de brûlure à tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Forme un cône de flammes devant le jeteur de sorts et inflige des dégâts de feu à tous les personnages présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,7 +1291,7 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Le jeteur de sorts voit les points faibles et les vulnérabilités d'un ennemi comme s'ils étaient physiquement tangibles, ce qui accroît ses chances de porter un coup critique.</DefaultText>
+      <DefaultText>Le jeteur de sorts voit les points faibles et les vulnérabilités d'un ennemi comme s'ils étaient physiquement tangibles, ce qui accroît ses chances de porter un Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1301,7 +1301,7 @@
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>Crée un rayon de flammes ardentes entre le jeteur de sorts et la cible, infligeant des dégâts de brûlure continus à la cible et à tous les personnages pris dans le rayon.</DefaultText>
+      <DefaultText>Crée un rayon de flammes ardentes entre le jeteur de sorts et la cible, infligeant des dégâts de feu continus à la cible et à quiconque pris dans le rayon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Fait apparaître une boule ardente de lave en fusion qui explose à l'emplacement visé et inflige des dégâts de brûlure à tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait apparaître une boule ardente de lave en fusion qui explose à l'emplacement visé et inflige des dégâts de feu à ceux présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Provoque une « fuite » d'énergie dans l'âme d'un ennemi, ce qui enflamme l'air qui l'entoure et lui inflige des dégâts de brûlure progressifs.</DefaultText>
+      <DefaultText>Provoque une « fuite » d'énergie dans l'âme d'un ennemi, ce qui enflamme l'air qui l'entoure et lui inflige des dégâts de feu progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1411,7 +1411,7 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Raffermit le bras du combattant, ce qui transforme en coups un certain pourcentage de ses écorchures et augmente les dégâts minimum des armes de mêlée.</DefaultText>
+      <DefaultText>Raffermit le bras du combattant, ce qui convertit un certain pourcentage de ses Éraflures en Coups et augmente les dégâts minimum des armes de mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Le combattant déploie des efforts supplémentaires pour repousser les coups les plus violents, ce qui transforme un certain pourcentage de tous les coups critiques subis en coups, et les coups en écorchures.</DefaultText>
+      <DefaultText>Le combattant déploie des efforts supplémentaires pour repousser les coups les plus violents, ce qui convertit un certain pourcentage des Critiques reçus en Coups, et des Coups en Éraflures.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,7 +1536,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Invoque le feu intérieur du paladin, ce qui enflamme les armes dont il est équipé et ajoute 100 % de dégâts de brûlure à ses attaques suivantes.</DefaultText>
+      <DefaultText>Invoque le feu intérieur du paladin, ce qui enflamme les armes dont il est équipé et ajoute des dégâts de feu à ses prochaines attaques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1696,7 +1696,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Grâce à sa connaissance des bêtes, le druide peut automatiquement infliger des dégâts de brûlure supplémentaires lors d'une transformation.</DefaultText>
+      <DefaultText>Grâce à sa connaissance des bêtes, le druide peut automatiquement infliger des dégâts de feu supplémentaires lors d'une transformation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,7 +1716,7 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>Grâce à sa connaissance des bêtes, le druide peut automatiquement infliger des dégâts de gel supplémentaires lors d'une transformation.</DefaultText>
+      <DefaultText>Grâce à sa connaissance des bêtes, le druide peut automatiquement infliger des dégâts de froid supplémentaires lors d'une transformation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,7 +1911,7 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Fait apparaître un brouillard givrant qui frappe de cécité tous les personnages présents dans la zone d'effet et leur inflige des dégâts de gel progressifs.</DefaultText>
+      <DefaultText>Fait apparaître un brouillard givrant qui frappe de cécité quiconque y entre et inflige des dégâts de froid progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1931,12 +1931,12 @@
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>Les mains du jeteur de sorts deviennent si froides qu'elles gèlent tout ce qu'elles touchent. Inflige des dégâts de gel à la cible et réduit sa précision.</DefaultText>
+      <DefaultText>Les mains du jeteur de sorts deviennent si froides qu'elles gèlent tout ce qu'elles touchent. Inflige des dégâts de froid à la cible et réduit sa précision.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>Les mains du jeteur de sorts deviennent si froides qu'elles gèlent tout ce qu'elles touchent. Inflige des dégâts de gel à la cible et réduit sa précision.</DefaultText>
+      <DefaultText>Les mains du jeteur de sorts deviennent si froides qu'elles gèlent tout ce qu'elles touchent. Inflige des dégâts de froid à la cible et réduit sa précision.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1981,7 +1981,7 @@
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Forme autour du jeteur de sorts un bouclier mystique qui lui confère des bonus de réduction de dégâts de brûlure, de gel, de corrosion et de choc.</DefaultText>
+      <DefaultText>Forme autour du jeteur de sorts un bouclier mystique qui lui confère des bonus de réduction de dégâts de feu, de froid, de corrosion et de choc.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1991,7 +1991,7 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Les blessures des ennemis présents dans la zone d'effet s'enflamment en leur infligeant des dégâts de brûlure progressifs.</DefaultText>
+      <DefaultText>Les blessures des ennemis présents dans la zone d'effet s'enflamment, leur infligeant des dégâts de feu progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2051,7 +2051,7 @@
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Fait apparaître une boule de feu bondissante qui inflige des dégâts de brûlure à tous les personnages présents sur son passage.</DefaultText>
+      <DefaultText>Fait apparaître une boule de feu bondissante qui inflige des dégâts de feu à quiconque sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Fait apparaître dans la main du jeteur de sorts une boule d'énergie qui peut être lancée sur un ennemi et infliger des dégâts de brûlure, de gel, de corrosion ou de choc à tous les personnages présents dans la zone d'effet. Les fléaux se régénèrent continuellement jusqu'à ce que le sort prenne fin.</DefaultText>
+      <DefaultText>Fait apparaître dans la main du jeteur de sorts une boule d'énergie qui peut être lancée sur un ennemi et infliger des dégâts de feu, de froid, de corrosion ou de choc à quiconque dans la zone d'effet. Les fléaux se régénèrent continuellement jusqu'à ce que le sort prenne fin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2106,7 +2106,7 @@
     </Entry>
     <Entry>
       <ID>435</ID>
-      <DefaultText>Libère un souffle cinglant de glace et d'air froid qui inflige des dégâts de gel à tous les personnages pris dans la zone d'effet conique.</DefaultText>
+      <DefaultText>Libère un souffle cinglant de givre et d'air glacial qui inflige des dégâts de froid à quiconque pris dans le cône d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>Forme autour du jeteur de sorts un terrifiant cercle de flammes qui inflige des dégâts de brûlure à tous les personnages alentour.</DefaultText>
+      <DefaultText>Forme autour du jeteur de sorts un brasier infernal qui inflige des dégâts de feu à tous ceux alentour.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2306,7 +2306,7 @@
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>Fait apparaître une balise émettant une lumière intense, ce qui inflige une pénalité à toutes les défenses des ennemis présents dans la zone d'effet et accroît les dégâts de brûlure progressifs.</DefaultText>
+      <DefaultText>Fait apparaître une balise émettant une lumière intense, ce qui inflige une pénalité à toutes les défenses des ennemis présents dans la zone d'effet et accroît les dégâts de feu progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2331,7 +2331,7 @@
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>Place sur le sol un sceau magique qui s'enflamme lorsqu'un ennemi entre en contact avec lui, ce qui l'aveugle et lui inflige des dégâts de brûlure.</DefaultText>
+      <DefaultText>Place sur le sol un sceau magique qui s'enflamme lorsqu'un ennemi entre en contact avec lui, ce qui l'aveugle et lui inflige des dégâts de feu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2361,7 +2361,7 @@
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText>Fait apparaître un pilier enflammé de colère juste qui embrase tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait apparaître un pilier enflammé par la colère du juste qui embrase tous ceux présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2416,7 +2416,7 @@
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Le prêtre lance sur l'ennemi une boule de feu sacré qui neutralise ses protections et accélère sa fin. Inflige des dégâts de brûlure pendant cinq secondes et accélère le chronomètre de tous les effets bénéfiques sur la cible (à l'exception des guérisons), ainsi que celui des éventuels dégâts continus. Peut rebondir sur deux ennemis supplémentaires.</DefaultText>
+      <DefaultText>Le prêtre lance sur l'ennemi une boule de feu sacré qui neutralise ses protections et précipite son destin funeste. Inflige des dégâts de feu pendant cinq secondes et accélère le chronomètre de tous les effets bénéfiques sur la cible (à l'exception des guérisons), ainsi que celui des éventuels dégâts continus. Peut rebondir sur deux ennemis proches.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2516,7 +2516,7 @@
     </Entry>
     <Entry>
       <ID>519</ID>
-      <DefaultText>Déclenche un vent glacial d'une incroyable puissance qui repousse tous les personnages présents dans la zone d'effet en leur infligeant des dégâts de gel.</DefaultText>
+      <DefaultText>Déclenche un vent glacial d'une incroyable puissance qui repousse tous ceux présents dans la zone d'effet et leur inflige des dégâts de froid.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2591,7 +2591,7 @@
     </Entry>
     <Entry>
       <ID>534</ID>
-      <DefaultText>Tous les personnages présents dans la zone d'effet conique subissent des dégâts de brûlure et sont repoussés.</DefaultText>
+      <DefaultText>Tous ceux présents dans le cône d'effet reçoivent des dégâts de feu et sont repoussés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2616,7 +2616,7 @@
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>Déclenche une violente tempête de grêle qui inflige des dégâts d'écrasement et de gel à tous les personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Déclenche une violente tempête de grêle qui inflige des dégâts contondants et de froid à quiconque dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,7 +2666,7 @@
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>Une redoutable boule de feu rebondit jusqu'à huit fois d'un ennemi sur l'autre en leur infligeant des dégâts de brûlure.</DefaultText>
+      <DefaultText>Une redoutable boule de feu rebondit jusqu'à huit fois d'un ennemi sur l'autre en leur infligeant des dégâts de feu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2716,7 +2716,7 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Invoque une puissante lance solaire qui inflige des dégâts de perforation et de brûlure à une seule cible.</DefaultText>
+      <DefaultText>Invoque une puissante lance solaire qui inflige des dégâts perforant et de feu à une seule cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Dévore la force impalpable qui unit l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts bruts. Les cibles dont l'endurance est nulle se désintègrent.</DefaultText>
+      <DefaultText>Dévore le nerf éthéré qui maintient ensemble l'esprit, le corps et l'âme de la cible ennemie, ce qui lui inflige rapidement des dégâts bruts. Les cibles dont l'endurance devient nulle se désintègrent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3951,12 +3951,12 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Les alliés présents dans la zone d'effet reçoivent un bonus de réduction de dégâts de gel et de choc, ainsi qu'un bonus contre l'affliction renversement.</DefaultText>
+      <DefaultText>Les alliés présents dans la zone d'effet reçoivent un bonus de réduction de dégâts de froid et de choc, ainsi qu'un bonus contre l'affliction renversement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>808</ID>
-      <DefaultText>Génère un champ dangereux qui inflige des dégâts de brûlure et d'entaille aux ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Génère un dangereux champ qui inflige des dégâts de feu et tranchants aux ennemis présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4021,12 +4021,12 @@
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Déclenche une violente tempête de glace et de neige qui inflige lentement des dégâts de gel aux personnages présents dans la zone d'effet et réduit leur vitesse d'attaque.</DefaultText>
+      <DefaultText>Déclenche une violente tempête de glace et de neige qui inflige lentement des dégâts de froid à quiconque dans la zone d'effet et réduit sa vitesse d'attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>822</ID>
-      <DefaultText>Génère rapidement un éclair de flammes explosives qui infligent des dégâts de brûlure aux personnages présents dans la zone d'effet. Bref délai d'utilisation.</DefaultText>
+      <DefaultText>Génère rapidement un éclair de flammes explosives qui infligent des dégâts de feu à quiconque dans la zone d'effet. Temps d'incantation court.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4036,7 +4036,7 @@
     </Entry>
     <Entry>
       <ID>824</ID>
-      <DefaultText>Invoque une puissante épée à la lame enflammée dans les mains du jeteur de sorts qui inflige des dégâts de brûlure. Le sort prend fin lorsque son utilisateur change d'arme.</DefaultText>
+      <DefaultText>Invoque une puissante épée à la lame enflammée dans les mains du jeteur de sorts qui inflige des dégâts de feu. Le sort prend fin lorsque son utilisateur change d'arme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4051,7 +4051,7 @@
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Enveloppe les alliés présents dans la zone d'effet d'une épaisse écorce qui procure un bonus à leur valeur de réduction de dégâts de perforation, de brûlure et de choc.</DefaultText>
+      <DefaultText>Enveloppe d'une épaisse écorce les alliés dans la zone d'effet, ce qui procure un bonus à leur réduction de dégâts perforants, de feu et de choc.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4151,7 +4151,7 @@
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Engloutit le jeteur de sorts dans le feu, ce qui accroît sa valeur de réduction de dégâts de gel et inflige des dégâts de brûlure aux personnages qui lui font subir des dégâts lors d'une attaque de mêlée.</DefaultText>
+      <DefaultText>Enveloppe le jeteur de sorts dans les flammes, ce qui accroît sa réduction de dégâts de froid et inflige des dégâts de feu à quiconque lui cause des dégâts avec une attaque de mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4181,7 +4181,7 @@
     </Entry>
     <Entry>
       <ID>853</ID>
-      <DefaultText>Génère un redoutable mur de flammes vertical qui inflige des dégâts de brûlure aux personnages qui le traversent.</DefaultText>
+      <DefaultText>Génère un redoutable mur de flammes vertical qui inflige des dégâts de feu à quiconque le traverse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4221,7 +4221,7 @@
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Invoque une énorme pointe de glace qui inflige des dégâts de gel aux personnages présents dans la zone d'effet et crée un cercle de gel instable qui peut entraver tous ceux qu'il touche.</DefaultText>
+      <DefaultText>Invoque une énorme pointe de glace qui inflige des dégâts de froid à quiconque dans la zone d'effet et crée un cercle de gel instable qui peut entraver tous ceux qu'il touche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4331,7 @@
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Le combattant profite du moment où les ennemis tentent de rompre l'engagement pour viser leurs jambes. Lors des attaques de désengagement, les cibles des coups ou des coups critiques sont entravées.</DefaultText>
+      <DefaultText>Le combattant profite du moment où les ennemis tentent de rompre l'engagement pour viser leurs jambes. Lors des attaques de désengagement, les cibles des Coups ou des Critiques sont entravées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4401,7 +4401,7 @@
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>En visant certains points d'un ennemi, le moine peut physiquement l'affaiblir. Les coups critiques de mêlée affaiblissent la cible.</DefaultText>
+      <DefaultText>En visant certains points d'un ennemi, le moine peut physiquement l'affaiblir. Les Critiques de mêlée cause un Affaiblissement la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4501,7 +4501,7 @@
     </Entry>
     <Entry>
       <ID>917</ID>
-      <DefaultText>Profite d'un moment d'inattention d'un l'ennemi engagé par le compagnon animal du rôdeur, ce qui assomme l'ennemi (attaque secondaire) lorsque le rôdeur réussit un coup ou un coup critique.</DefaultText>
+      <DefaultText>Profite d'un moment d'inattention pendant que l'ennemi est engagé par le compagnon animal du rôdeur, ce qui Assomme l'ennemi (attaque secondaire) lorsque le rôdeur réussit un Coup ou un Critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4516,7 +4516,7 @@
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Le bandit emploie diverses tactiques sournoises qui transforment une partie de ses coups en coups critiques.</DefaultText>
+      <DefaultText>Le bandit emploie diverses tactiques sournoises qui transforment une partie de ses Coups en Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4546,7 +4546,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui transforme de nombreuses écorchures réflexes en échecs.</DefaultText>
+      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui convertit de nombreuses Éraflures sur Réflexes en Échecs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4696,7 +4696,7 @@
     </Entry>
     <Entry>
       <ID>956</ID>
-      <DefaultText>Les alliés perçoivent le zèle du paladin et sont profondément inspirés par lui. Les alliés touchés par la Concentration zélée transforment 5 % des coups ordinaires en coup critiques.</DefaultText>
+      <DefaultText>Les alliés ressentent le zèle du paladin et sont profondément inspirés par lui. Les alliés touchés par la Concentration zélée transforment 5 % des Coups en Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4741,7 +4741,7 @@
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Améliore les compétences du bandit en matière de manœuvres sournoises, ce qui accroît le pourcentage de coups qu'il peut transformer en coups critiques lors de l'utilisation du Combat déloyal.</DefaultText>
+      <DefaultText>Améliore les compétences du bandit en matière de manœuvres sournoises, ce qui accroît le pourcentage de Coups convertis en Critiques lors de l'utilisation du Combat déloyal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5430,7 +5430,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1098</ID>
-      <DefaultText>Les Flammes de dévotion du paladin infligent des dégâts de brûlure progressifs.</DefaultText>
+      <DefaultText>Les Flammes de dévotion du paladin infligent des dégâts de feu progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5440,7 +5440,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>Le Rayonnement sacré du prêtre inflige des dégâts de brûlure aux ennemis (les vaisseaux subissent davantage de dégâts de brûlure).</DefaultText>
+      <DefaultText>Le Rayonnement sacré du prêtre inflige des dégâts de feu aux ennemis (les vaisseaux subissent davantage de dégâts de feu).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5470,7 +5470,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Le barbare délivre une puissante frappe qui inflige des coups critiques supplémentaires ainsi que des dégâts de coups critiques pour la frappe et les coups résultant du Carnage. Le Carnage s'étend également à une plus large zone.</DefaultText>
+      <DefaultText>Le barbare délivre une puissante frappe qui inflige des Critiques et Dégâts Critiques supplémentaires pour la frappe et les coups résultant du Carnage. Le Carnage touche également une plus large zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5515,7 +5515,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Lorsque l'attaquant utilise une arme de mêlée à une main, une partie de ses écorchures sont transformées en coups.</DefaultText>
+      <DefaultText>Lorsque l'attaquant utilise une arme de mêlée à une main, une partie de ses Éraflures sont converties en Coups.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5595,7 +5595,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>Accroît les dégâts de brûlure et la réduction de dégâts.</DefaultText>
+      <DefaultText>Accroît les dégâts et la réduction de dégâts de feu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5605,7 +5605,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>Accroît les dégâts de choc et la réduction de dégâts.</DefaultText>
+      <DefaultText>Accroît les dégâts et la réduction de dégâts de choc.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5615,7 +5615,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1135</ID>
-      <DefaultText>Accroît les dégâts de corrosion et la réduction de dégâts.</DefaultText>
+      <DefaultText>Accroît les dégâts et la réduction de dégâts de corrosion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5625,7 +5625,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Accroît les dégâts de gel et la réduction de dégâts.</DefaultText>
+      <DefaultText>Accroît les dégâts et la réduction de dégâts de froid.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5845,7 +5845,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1181</ID>
-      <DefaultText>Votre entraînement auprès des Doemenel vous permet d'infliger des coups critiques plus puissants.</DefaultText>
+      <DefaultText>Votre entraînement auprès des Doemenel vous permet d'infliger des Critiques plus puissants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5980,7 +5980,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Toutes les attaques lancées contre des ennemis à une faible endurance transforment certains coups en coups critiques, et tous les coups critiques infligent des dégâts supplémentaires.</DefaultText>
+      <DefaultText>Toutes les attaques lancées contre des ennemis avec une faible endurance convertissent certains Coups en Critiques, et ces Critiques infligent des dégâts supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6325,7 +6325,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Habitués aux climats inhospitaliers, les elfes pâles résistent très bien aux dégâts de brûlure et de gel.</DefaultText>
+      <DefaultText>Habitués aux climats inhospitaliers, les elfes pâles ont acquis une résitance innée aux dégâts de feu et de froid.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6455,7 +6455,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Lorsque l'endurance des divins du feu est faible, leur corps s'endurcit, ce qui améliore leur réduction de dégâts, et leur âme se déchaîne sur les assaillants en infligeant des dégâts de brûlure à tous ceux qui les frappent en mêlée.</DefaultText>
+      <DefaultText>Lorsque l'endurance des divins du feu est faible, leur corps s'endurcit, ce qui améliore leur réduction de dégâts, et leur âme se déchaîne sur les assaillants en infligeant des dégâts de feu à tous ceux qui les frappent en mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6480,7 +6480,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1312</ID>
-      <DefaultText>Lorsque des orlans du foyer attaquent une cible également visée par un coéquipier, certains de leurs coups sont transformés en coups critiques.</DefaultText>
+      <DefaultText>Lorsque des orlans du foyer attaquent une cible également visée par un coéquipier, certains de leurs Coups sont convertis en Critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6550,7 +6550,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>La cible est frappée par l'affliction immobilisation et devient le point d'ancrage d'un rayon énergétique glacial du magicien qui inflige des dégâts de gel aux ennemis présents sur son passage.</DefaultText>
+      <DefaultText>La cible est frappée par l'affliction immobilisation et devient le point d'ancrage d'un rayon énergétique glacial en provenance du magicien et qui inflige des dégâts de froid aux ennemis sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -482,8 +482,8 @@ Les xaurips vénèrent les dragons et établissent leurs communautés autour des
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>La précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par les talents et autres effets actifs, tels que les sorts ou les objets. En cas d'attaque, la précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un coup ou un coup critique et moins de chances de se traduire par une écorchure ou un échec.
-Toute compétence ou talent qui n'utilise pas d'arme dans l'attaque gagne un petit bonus de précision basé sur le niveau du personnage.</DefaultText>
+      <DefaultText>La Précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par les talents et autres effets actifs, tels que les sorts ou les objets. En cas d'attaque, la Précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la Précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un Coup ou un Critique et moins de chances de se traduire par une Éraflure ou un Échec.
+Toute compétence ou talent qui n'utilise pas d'arme dans l'attaque gagne un petit bonus de Précision basé sur le niveau du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -759,22 +759,22 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Coup critique</DefaultText>
+      <DefaultText>Critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Un coup critique est un jet d'attaque supérieur à 100. Un coup critique qui inflige des dégâts augmente le total des dégâts de 50 %. Lorsqu'un coup critique est porté à des effets durables (afflictions intoxication ou paralysie, par exemple), cette durée augmente de 50 %.</DefaultText>
+      <DefaultText>Un Critique est un jet d'attaque supérieur à 100. Un Critique qui inflige des dégâts augmente le total des dégâts de 50 %. Lorsqu'un Critique est porté à des effets durables (des Afflictions comme Intoxication ou Paralysie, par exemple), cette durée augmente de 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Écorchure</DefaultText>
+      <DefaultText>Éraflure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Une écorchure correspond à un jet d'attaque compris entre 16 et 50. Une écorchure réduit les dégâts et la durée de 50 %.</DefaultText>
+      <DefaultText>Une Éraflure correspond à un jet d'attaque compris entre 16 et 50. Une Éraflure réduit les dégâts et la durée de 50 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -844,11 +844,11 @@ Certaines créatures peuvent être invulnérables à une ou plusieurs affliction
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de précision de l'attaquant est comparée à l'une des quatre propriétés défensives suivantes : déviation (attaques de mêlée et attaques à distance directes), robustesse (attaques visant l'organisme, comme le poison et la maladie), réflexes (attaques dévastatrices à effet de zone) et volonté (attaques psychiques). 
+      <DefaultText>Pour toutes les attaques dans Pillars of Eternity, la valeur de Précision de l'attaquant est comparée à l'une des quatre propriétés défensives suivantes : Déviation (attaques de mêlée et attaques à distance directes), Robustesse (attaques visant l'organisme, comme le poison et la maladie), Réflexes (attaques dévastatrices à effet de zone) et Volonté (attaques psychiques).
 
-Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la précision et la défense pour déterminer les résultats de l'attaque. Nombre inférieur ou égal à 15 = échec. Nombre compris entre 16 et 50 = écorchure. Nombre compris entre 51 et 100 = coup. Nombre supérieur à 100 = coup critique. 
+Un nombre compris entre 1 et 100 est généré et ajouté à la différence entre la Précision et la défense pour déterminer les résultats de l'attaque. Nombre inférieur ou égal à 15 = Échec. Nombre compris entre 16 et 50 = Éraflure. Nombre compris entre 51 et 100 = Coup. Nombre supérieur à 100 = Critique.
 
-En cas d'équilibre entre l'attaque et la défense, la majorité des attaques se soldent par des coups ou des écorchures. Lorsque la précision est supérieure à la défense, les coups critiques sont plus probables. Lorsque la défense est supérieure à la précision, les échecs sont plus probables.</DefaultText>
+En cas d'équilibre entre l'attaque et la défense, la majorité des attaques se soldent par des Coups ou des Éraflures. Lorsque la Précision est supérieure à la défense, les Critiques sont plus probables. Lorsque la défense est supérieure à la Précision, les Échecs sont plus probables.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
