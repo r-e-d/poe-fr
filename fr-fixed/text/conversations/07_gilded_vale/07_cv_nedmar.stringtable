@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Vous êtes revenu. Faites attention, en vous déplaçant dans le donjon. Votre interférence ici pourrait avoir de graves répercussions pour nous tous."</DefaultText>
-      <FemaleText>"Vous êtes revenue. Faites attention, en vous déplaçant dans le donjon. Votre interférence ici pourrait avoir de graves répercussions pour nous tous."</FemaleText>
+      <DefaultText>"Vous êtes revenu. Faites attention, en vous déplaçant dans le donjon. Votre intrusion ici pourrait avoir de graves répercussions pour nous tous."</DefaultText>
+      <FemaleText>"Vous êtes revenue. Faites attention, en vous déplaçant dans le donjon. Votre intrusion ici pourrait avoir de graves répercussions pour nous tous."</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Les sourcils de Nedmar tricotent en une expression de regret triste. "Je ne sais pas si je le peux. J'ai essayé d'alerter Kolsc et son peuple des dangers. J'ai, en vérité, essayé souvent de les faire dévier de leur voie. Mes efforts n'ont fait aucune différence."</DefaultText>
+      <DefaultText>Les sourcils de Nedmar se rejoignent en une expression de regret triste. "Je ne sais pas si je le peux. J'ai essayé d'alerter Kolsc et ses compagnons du danger. J'ai, en vérité, essayé souvent de les faire dévier de leur voie. Mes efforts semblent n'avoir eu aucun effet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Raedric est pris dans la douleur, et ne sera pas influencé. Il rejettera sa colère sur ces pauvres prisonniers." Il secoue la tête. "Et je ne peux supporter cette culpabilité. Je ne peux pas la supporter."</DefaultText>
+      <DefaultText>"Raedric est enfermé dans sa douleur, et ne pourra être infléchi. Il rejettera sa colère sur ces pauvres prisonniers." Il secoue la tête. "Et je ne peux supporter cette culpabilité. Je ne peux pas la supporter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Kolsc est dans l'impossibilité d'accepter certaines vérités. Et il ne comprend pas non plus ce qui maintient Raedric au pouvoir. Il aura besoin d'une meilleure orientation pour prendre la place de Raedric. Je... ne peux qu'espérer qu'il écoute."</DefaultText>
+      <DefaultText>"Kolsc est dans l'impossibilité d'accepter certaines vérités. Et il ne comprend pas non plus ce qui maintient Raedric au pouvoir. Il aura besoin de meilleurs conseillers pour prendre la place de Raedric. Je... ne peux qu'espérer qu'il écoute."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"On ne peut pas savoir que je vous aide. Pas tant que Giacco sera entre les griffes d'Osrya. Si quelque chose lui arrivait..."</DefaultText>
+      <DefaultText>"On ne doit pas savoir que je vous aide. Pas tant que Giacco sera entre les griffes d'Osrya. Si quelque chose lui arrivait..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Mais assurément vous n'avez pas l'intention de-" Nedmar se déplace de manière malaisée, en surveillant le couloir. "... Très bien. Je ne peux pas vous demander d'affronter les donjons si vous n'êtes pas à votre meilleur. Reposez-vous quelques heures et je m'assurerai que personne n'entre."</DefaultText>
+      <DefaultText>"Mais assurément vous n'avez pas l'intention de-" Nedmar se déplace de manière malaisée, en surveillant le couloir. "... Très bien. Je ne peux pas vous demander d'affronter les donjons si vous n'êtes pas dans votre meilleure forme physique. Reposez-vous quelques heures et je m'assurerai que personne n'entre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Avant que vous ne partiez, sachez que, malgré ses défauts, le seigneur raedric suit les dieux avec obéissance, et il essaye de servir au mieux les intérêts de Val-Doré. Il se peut, qu'avec le temps, il obtienne ce qu'il désire. Essayez de garder cela à l'esprit avant de céder à la violence."</DefaultText>
+      <DefaultText>"Avant que vous ne partiez, sachez que, malgré ses défauts, le seigneur Raedric suit les dieux avec obéissance, et il essaye de servir au mieux les intérêts de Val-Doré. Il se peut, qu'avec le temps, il obtienne ce qu'il désire. Essayez de garder cela à l'esprit avant de céder à la violence."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Oh... cela vous fera plus de bien qu'un déguisement. Nous avons une phrase secrète. C'est 'De chaque fin, s'amorce un début'. Dites-la et les gardes vous laisseront tranquille. Ici uniquement, j'en ai bien peur. Les mercenaires de Raedric ont très peu de patience pour ces choses-là."</DefaultText>
+      <DefaultText>"Oh... cela vous fera plus de bien qu'un déguisement. Nous avons une phrase secrète. C'est « De chaque fin, s'amorce un début ». Dites-la et les gardes vous laisseront tranquille. Ici uniquement, j'en ai bien peur. Les mercenaires de Raedric ont très peu de patience pour ces choses-là."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,12 +401,12 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"« Être gentil avec ce type qui veut vous tuer vous et vos amis » ? Je ne peux imaginer que l'on veuillent écouter un tel conseil."</DefaultText>
+      <DefaultText>"« Être gentil avec ce type qui veut vous tuer, vous et vos amis » ? Je ne peux imaginer que l'on veuille écouter un tel conseil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Alors, c'est une bonne chose que son prédécesseur ait fixer ses attentes assez bas."</DefaultText>
+      <DefaultText>"Alors, c'est une bonne chose que son prédécesseur ait fixé ses attentes assez bas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
