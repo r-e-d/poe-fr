@@ -417,7 +417,7 @@
     <Entry>
       <ID>82</ID>
       <DefaultText>Humain</DefaultText>
-      <FemaleText>Humaine</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
@@ -427,7 +427,7 @@
     <Entry>
       <ID>84</ID>
       <DefaultText>Nain</DefaultText>
-      <FemaleText>Naine</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -437,17 +437,17 @@
     <Entry>
       <ID>86</ID>
       <DefaultText>Orlan</DefaultText>
-      <FemaleText>Orlane</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Divin</DefaultText>
-      <FemaleText>Divine</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>Humains</DefaultText>
-      <FemaleText>Humaines</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -457,7 +457,7 @@
     <Entry>
       <ID>90</ID>
       <DefaultText>Nains</DefaultText>
-      <FemaleText>Naines</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -467,12 +467,12 @@
     <Entry>
       <ID>92</ID>
       <DefaultText>Orlans</DefaultText>
-      <FemaleText>Orlanes</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>Divins</DefaultText>
-      <FemaleText>Divines</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -1202,42 +1202,42 @@
     <Entry>
       <ID>239</ID>
       <DefaultText>Nain des montagnes</DefaultText>
-      <FemaleText>Naine des montagnes</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
       <DefaultText>Nain austral</DefaultText>
-      <FemaleText>Naine australe</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
       <DefaultText>Divin de la mort</DefaultText>
-      <FemaleText>Divine de la mort</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
       <DefaultText>Divin du feu</DefaultText>
-      <FemaleText>Divine du feu</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
       <DefaultText>Divin de la lune</DefaultText>
-      <FemaleText>Divine de la lune</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
       <DefaultText>Orlan du foyer</DefaultText>
-      <FemaleText>Orlane du foyer</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
       <DefaultText>Orlan sauvage</DefaultText>
-      <FemaleText>Orlane sauvage</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
       <DefaultText>Aumaua côtier</DefaultText>
-      <FemaleText>Aumaua côtière</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
@@ -1252,7 +1252,7 @@
     <Entry>
       <ID>249</ID>
       <DefaultText>Combattant</DefaultText>
-      <FemaleText>Combattante</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
@@ -1262,12 +1262,12 @@
     <Entry>
       <ID>251</ID>
       <DefaultText>Prêtre</DefaultText>
-      <FemaleText>Prêtresse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
       <DefaultText>Magicien</DefaultText>
-      <FemaleText>Magicienne</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
@@ -1277,12 +1277,12 @@
     <Entry>
       <ID>254</ID>
       <DefaultText>Rôdeur</DefaultText>
-      <FemaleText>Rôdeuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
       <DefaultText>Druide</DefaultText>
-      <FemaleText>Druidesse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
@@ -1292,22 +1292,22 @@
     <Entry>
       <ID>257</ID>
       <DefaultText>Moine</DefaultText>
-      <FemaleText>Moniale</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
       <DefaultText>Clairvoyant</DefaultText>
-      <FemaleText>Clairvoyante</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
       <DefaultText>Chanteur</DefaultText>
-      <FemaleText>Chanteuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
       <DefaultText>Divin de la nature</DefaultText>
-      <FemaleText>Divine de la nature</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
@@ -2985,7 +2985,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Terminé</DefaultText>
+      <DefaultText>Terminer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9191,8 +9191,8 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1835</ID>
-      <DefaultText>Créer nouveau...</DefaultText>
-      <FemaleText>Créer nouvelle...</FemaleText>
+      <DefaultText>Créer nouvelle...</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1836</ID>
