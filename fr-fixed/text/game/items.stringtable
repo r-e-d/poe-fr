@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Composée d'un rembourrage en laine ou en lin, l'armure matelassée offre une protection limitée contre les attaques par écrasement. Bien qu'elle ne protège pas des attaques lourdes, elle ne ralentit quasiment pas celui qui la porte.</DefaultText>
+      <DefaultText>Composée d'un rembourrage en laine ou en lin, l'armure matelassée offre une protection limitée contre les attaques contondantes. Bien qu'elle ne protège pas des attaques lourdes, elle ne ralentit quasiment pas celui qui la porte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>L'armure de mailles est très appréciée pour la protection qu'elle confère, notamment contre les attaques par entaille. Elle est constituée de milliers de petits anneaux en acier qui forment un maillage relativement souple. Généralement portée par-dessus une veste matelassée, elle offre une bonne protection mais restreint les mouvements de celui qui la porte au combat.</DefaultText>
+      <DefaultText>L'armure de mailles est très appréciée pour la protection qu'elle confère, notamment contre les attaques tranchante. Elle est constituée de milliers de petits anneaux en acier qui forment un maillage relativement souple. Généralement portée par-dessus une veste matelassée, elle offre une bonne protection mais restreint les mouvements de celui qui la porte au combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -898,7 +898,7 @@ La première page contient une note adressée à un certain Dunstan.</DefaultTex
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>Pierre ardente</DefaultText>
+      <DefaultText>Pierre brûlante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1322,7 +1322,7 @@ Les pages suivantes sont principalement couvertes de mauvais poèmes et de griff
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>Malgré leur apparente simplicité, les bâtons peuvent être des armes redoutables lorsqu'ils sont maniés par des mains expertes. Le combattant peut utiliser la longue portée du bâton pour asséner des coups par écrasement à des ennemis depuis la sécurité de sa première ligne d'alliés.</DefaultText>
+      <DefaultText>Malgré leur apparente simplicité, les bâtons peuvent être des armes redoutables lorsqu'ils sont maniés par des mains expertes. Le combattant peut utiliser la longue portée du bâton pour asséner des coups contondants à des ennemis depuis la sécurité de sa première ligne d'alliés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6729,7 +6729,7 @@ Ce bâton noir semble puiser la lumière et l'énergie de l'air ambiant.</Defaul
     </Entry>
     <Entry>
       <ID>1345</ID>
-      <DefaultText>Fléau mineur de Kalakoth - Feu</DefaultText>
+      <DefaultText>Fléau mineur de Kalakoth - Brûlant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6746,7 +6746,7 @@ Presque chaud au toucher, cette baguette projette des boules de feu. Elle est no
     </Entry>
     <Entry>
       <ID>1348</ID>
-      <DefaultText>Fléau mineur de Kalakoth - Corrosion</DefaultText>
+      <DefaultText>Fléau mineur de Kalakoth - Corrosif</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6758,7 +6758,7 @@ Une légère brume vert pâle se dégage de l'extrémité de cette baguette et l
     </Entry>
     <Entry>
       <ID>1350</ID>
-      <DefaultText>Fléau mineur de Kalakoth - Froid</DefaultText>
+      <DefaultText>Fléau mineur de Kalakoth - Givrant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6770,7 +6770,7 @@ Entrelacée de cristaux de glace, cette baguette émet une froide lueur bleue et
     </Entry>
     <Entry>
       <ID>1352</ID>
-      <DefaultText>Fléau mineur de Kalakoth - Choc</DefaultText>
+      <DefaultText>Fléau mineur de Kalakoth - Électrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10076,7 +10076,7 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1746</ID>
-      <DefaultText>Crée un bouclier spirituel autour du lanceur, ce qui lui apporte un bonus de réductions de dégâts de feu, de froid, de corrosion et de choc.</DefaultText>
+      <DefaultText>Crée un bouclier spirituel autour du lanceur, ce qui lui apporte un bonus de réductions de dégâts brûlants, givrants, corrosifs et électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10196,12 +10196,12 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1770</ID>
-      <DefaultText>Crée un cône de feu devant le lanceur qui cause des dégâts de feu à quiconque dans la zone d'effet.</DefaultText>
+      <DefaultText>Crée un cône de feu devant le lanceur qui cause des dégâts brûlants à quiconque dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1771</ID>
-      <DefaultText>Invoque une boule de roche en fusion qui explose sur la cible désignée, causant des dégâts de feu à tous ceux dans la zone d'effet.</DefaultText>
+      <DefaultText>Invoque une boule de roche en fusion qui explose sur la cible désignée, causant des dégâts brûlants à tous ceux dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10211,12 +10211,12 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1773</ID>
-      <DefaultText>Invoque trois missiles magiques qui s'abattent sur la cible en créant des dégâts d'Écrasement.</DefaultText>
+      <DefaultText>Invoque trois missiles magiques qui s'abattent sur la cible infligeant des dégâts contondants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1774</ID>
-      <DefaultText>Invoque trois missiles magiques qui s'abattent sur la cible en créant des dégâts d'Écrasement.</DefaultText>
+      <DefaultText>Invoque trois missiles magiques qui s'abattent sur la cible infligeant des dégâts contondants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10226,12 +10226,12 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1776</ID>
-      <DefaultText>Crée une boule de feu rebondissante qui inflige des dégâts de feu à quiconque se trouve sur son passage.</DefaultText>
+      <DefaultText>Crée une boule de feu rebondissante qui inflige des dégâts brûlants à quiconque se trouve sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1777</ID>
-      <DefaultText>Génère un terrifiant mur de feu, qui inflige des dégâts de feu à quiconque le traverse.</DefaultText>
+      <DefaultText>Génère un terrifiant mur de feu, qui inflige des dégâts brûlants à quiconque le traverse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10316,12 +10316,12 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1794</ID>
-      <DefaultText>Tous ceux présents dans le cône d'effet reçoivent des dégâts de feu et sont repoussés.</DefaultText>
+      <DefaultText>Tous ceux présents dans le cône d'effet reçoivent des dégâts brûlants et sont repoussés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1795</ID>
-      <DefaultText>Génère rapidement un éclair de flammes explosives qui infligent des dégâts de feu à quiconque dans la zone d'effet. Temps d'incantation court.</DefaultText>
+      <DefaultText>Génère rapidement un éclair de flammes explosives qui infligent des dégâts brûlants à quiconque dans la zone d'effet. Temps d'incantation court.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10381,7 +10381,7 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1807</ID>
-      <DefaultText>Invoque un énorme bois de cerf qui attaque la cible, causant des dégâts de Perforation et infligeant un malus de Déviation et de Réflexes.</DefaultText>
+      <DefaultText>Invoque un énorme bois de cerf qui attaque la cible, causant des dégâts Perforants et infligeant un malus de Déviation et de Réflexes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10391,7 +10391,7 @@ Yngmar se prononce "Y-NG-mar".
     </Entry>
     <Entry>
       <ID>1809</ID>
-      <DefaultText>Deux rochers sortent de terre autour du druide et sont propulsés dans les airs. Toute personne se trouvant sur leur chemin subit des dégâts d'Écrasement. Les rochers explosent quand ils rencontrent une surface solide, envoyant voler des fragments qui provoquent des dégâts de Perforation à quiconque se trouve à proximité.</DefaultText>
+      <DefaultText>Deux rochers sortent de terre autour du druide et sont propulsés dans les airs. Toute personne se trouvant sur leur chemin subit des dégâts contondants. Les rochers explosent quand ils rencontrent une surface solide, envoyant voler des fragments qui provoquent des dégâts Perforants à quiconque se trouve à proximité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

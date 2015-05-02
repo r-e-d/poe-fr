@@ -328,7 +328,7 @@ Effectuer des expériences avec des créatures du fléau a contribué à ternir 
       <ID>57</ID>
       <DefaultText>Une delempŵgra ("feuille pourrie"), plus généralement appelée pŵgra ("pourrie"), est une délemgane corrompue par la destruction de l'arbre ou la pierre d'adra qui lui sert d'habitat. Grêles et émaciées, elles sont aussi laides que les délemganes sont belles, et leur peau arbore des tons froids. Elles ont les cheveux foncés et visqueux, les traits du visage déformés, et les dents longues et acérées. Contrairement aux délemganes, elles ne sont pas enveloppées de particules lumineuses et prêtes à sortir leurs griffes contre les malheureux voyageurs qu'elles rencontrent. Les pŵgras se parent du crâne, de la peau et des plumes de leurs victimes.
 
-Contrairement aux délemganes soucieuses de préserver les forêts, les pŵgras cherchent à leur nuire, ce qui en fait des ennemies jurées. La pourriture qui les infecte confère à leurs attaques un redoutable poison, mais fragilise également leur corps, les rendant vulnérables aux attaques par perforation et par écrasement. 
+Contrairement aux délemganes soucieuses de préserver les forêts, les pŵgras cherchent à leur nuire, ce qui en fait des ennemies jurées. La pourriture qui les infecte confère à leurs attaques un redoutable poison, mais fragilise également leur corps, les rendant vulnérables aux attaques perforante et contondante. 
 
 Ne pouvant plus puiser l'essence d'une forêt saine, elles subsistent en extrayant l'essence des plantes, des animaux et des êtres civilisés. Cela en fait les alliées naturelles des ombres qui se nourrissent de la même manière et avec qui elles chassent. 
 
@@ -1055,7 +1055,7 @@ Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) 
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Pillars of Eternity utilise huit types de dégâts : tranchant, perforant, contondant, de feu, d'électricité, d'acide, de froid et bruts. Les types de dégâts permettent de déterminer la facilité avec laquelle une cible résiste aux dégâts d'un certain type en fonction de sa réduction de dégâts (RD). Une créature ou une armure peut être très résistante à un type de dégâts et vulnérable à un autre. 
+      <DefaultText>Pillars of Eternity utilise huit types de dégâts : Tranchant, Perforant, Contondant, Brûlant, Électrique, Corrosif, Givrant et Brut. Les types de dégâts permettent de déterminer la facilité avec laquelle une cible résiste aux dégâts d'un certain type en fonction de sa réduction de dégâts (RD). Une créature ou une armure peut être très résistante à un type de dégâts et vulnérable à un autre. 
 
 Certaines armes ou attaques peuvent infliger des dégâts de plusieurs types ou intégrer une condition "ou" entre les types de dégâts. En présence d'une condition "ou", l'attaque inflige toujours le type de dégâts auquel la cible est la plus vulnérable. Les dégâts bruts sont les seuls dégâts qui ignorent toute réduction de dégâts et sont généralement associés aux poisons et effets similaires.</DefaultText>
       <FemaleText />

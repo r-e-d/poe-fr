@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0} touche {2} pour {3} dégâts {4} ({1}). {5}</DefaultText>
+      <DefaultText>{0} touche {2} pour {3} dégâts {4}s ({1}). {5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>{0} touche {2} pour {3} dégâts {4} en désengagement ({1}).</DefaultText>
+      <DefaultText>{0} touche {2} pour {3} dégâts {4}s en désengagement ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,22 +366,22 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Feu</DefaultText>
+      <DefaultText>Brûlant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Froid</DefaultText>
+      <DefaultText>Givrant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Electrique</DefaultText>
+      <DefaultText>Électrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Acide</DefaultText>
+      <DefaultText>Corrosif</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,12 +616,12 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>{0} subit {1} de dégâts.</DefaultText>
+      <DefaultText>{0} subit {1} dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>{2} inflige {1} de dégâts à {0}.</DefaultText>
+      <DefaultText>{2} inflige {1} dégâts à {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,7 +2426,7 @@ Avantage de distance - Contre un ennemi situé à plus de 4 mètres, les elfes 
       <ID>485</ID>
       <DefaultText>On ne sait pas précisément à quand remonte l'arrivée des elfes pâles (ou Glamfellens) dans les régions polaires méridionales, mais ils y vivent depuis au moins 12 000 ans grâce aux relations qu'ils ont tissées avec les marchands aumauas. Ils constituent l'un des groupes ethniques les plus sédentaires du monde connu. Ils limitent leurs déplacements à la région polaire et ne s'aventurent que rarement vers l'extrême nord. Ils sont très peu représentés dans les territoires du nord où la plupart des gens les considèrent comme un peuple exotique (s'ils en ont déjà seulement vu un). 
 
-Endurance élémentaire - Tous les elfes pâles possèdent une résistance accrue aux dégâts de feu et de froid.</DefaultText>
+Endurance élémentaire - Tous les elfes pâles possèdent une résistance accrue aux dégâts Brûlant et Givrant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,7 +2521,7 @@ Attaque furtive - Applique un bonus de dégâts aux attaques armées à distance
       <DefaultText>Les prêtres sont des adeptes des divinités d'Eora et pratiquent la magie religieuse. Bien que tous les prêtres se consacrent à des dieux spécifiques, ils puisent leur force dans leurs croyances personnelles. Contrairement à la plupart des paladins, les prêtres ont tendance à se concentrer sur la philosophie, sur l'enseignement et sur les relations des organisations religieuses avec le peuple. L'accueil réservé aux prêtres dépend principalement de la manière dont le dieu qu'ils vénèrent est perçu par les habitants de la région.
 
 Capacités de départ : 
-Rayonnement sacré - Renforce légèrement l'endurance des alliés qui entourent le prêtre. Tout vaisseau ennemi présent dans la zone reçoit des dégâts de feu et peut être frappé d'effroi. Au fil du jeu, le pouvoir de cette capacité peut évoluer en fonction des réputations du prêtre par rapport aux comportements privilégiés par sa divinité.
+Rayonnement sacré - Renforce légèrement l'endurance des alliés qui entourent le prêtre. Tout vaisseau ennemi présent dans la zone reçoit des dégâts Brûlant et peut être frappé d'effroi. Au fil du jeu, le pouvoir de cette capacité peut évoluer en fonction des réputations du prêtre par rapport aux comportements privilégiés par sa divinité.
 Sorts - Les prêtres ont accès à un éventail de sorts offensifs et de soutien. Tous les deux niveaux, ils ont automatiquement accès à un ensemble de sorts supplémentaires. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des prêtres augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText />
     </Entry>
@@ -4115,37 +4115,37 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>tranchants</DefaultText>
+      <DefaultText>tranchant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>contondants</DefaultText>
+      <DefaultText>contondant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>perforants</DefaultText>
+      <DefaultText>perforant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>de feu</DefaultText>
+      <DefaultText>brûlant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>de froid</DefaultText>
+      <DefaultText>givrant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>d'électricité</DefaultText>
+      <DefaultText>électrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>d'acide</DefaultText>
+      <DefaultText>corrosif</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5605,12 +5605,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>{0} de dégâts {1}</DefaultText>
+      <DefaultText>{0} dégâts {1}s</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>{0} de réduction de dégâts ({1})</DefaultText>
+      <DefaultText>{0} réduction de dégâts ({1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5655,7 +5655,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1125</ID>
-      <DefaultText>{0} de dégâts contre les ennemis qui se retirent</DefaultText>
+      <DefaultText>{0} dégâts contre les ennemis qui se retirent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5665,7 +5665,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} de dégâts {1}</DefaultText>
+      <DefaultText>{0} dégâts {1}s</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5695,7 +5695,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>{0} de dégâts {1} par blessure</DefaultText>
+      <DefaultText>{0} dégâts {1}s par blessure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6070,7 +6070,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>{0} de dégâts de {1}</DefaultText>
+      <DefaultText>{0} dégâts {1}s</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6120,7 +6120,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>{0} de dégâts progressifs {1} en cas d'impact</DefaultText>
+      <DefaultText>{0} de dégâts progressifs {1}s en cas d'impact</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6355,12 +6355,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1265</ID>
-      <DefaultText>{0} de dégâts de liaison du chasseur</DefaultText>
+      <DefaultText>{0} dégâts de liaison du chasseur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>{0} de dégâts de {1} convertis en endurance</DefaultText>
+      <DefaultText>{0} dégâts {1}s convertis en endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6675,17 +6675,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>de dégâts {0}</DefaultText>
+      <DefaultText>dégâts {0}s</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>{0} absorbe {1} de dégâts.</DefaultText>
+      <DefaultText>{0} absorbe {1} dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>{0} absorbe {1} de dégâts et expire.</DefaultText>
+      <DefaultText>{0} absorbe {1} dégâts et expire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7350,8 +7350,8 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Les druides sélectionnent un type de dégâts (tranchant, perforant, contondant, feu, corrosion, froid ou choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</DefaultText>
-      <FemaleText>Les druidesses sélectionnent un type de dégâts (tranchant, perforant, contondant, feu, corrosion, froid ou choc) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</FemaleText>
+      <DefaultText>Les druides sélectionnent un type de dégâts (Tranchant, Perforant, Contondant, Brûlant, Corrosif, Givrant ou Électrique) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</DefaultText>
+      <FemaleText>Les druidesses sélectionnent un type de dégâts (Tranchant, Perforant, Contondant, Brûlant, Corrosif, Givrant ou Électrique) et celui-ci s'applique à toute attaque infligeant des dégâts d'un de ces types à une cible.</FemaleText>
     </Entry>
     <Entry>
       <ID>1467</ID>
@@ -7684,7 +7684,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Draine {0} dégâts de {1} et restaure de l'endurance</DefaultText>
+      <DefaultText>Draine {0} dégâts {1}s et restaure de l'endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8384,7 +8384,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>{0} de dégâts {1} contre soi en cas d'attaque avec des armes magiques</DefaultText>
+      <DefaultText>{0} dégâts {1}s contre soi en cas d'attaque avec des armes magiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
