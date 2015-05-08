@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>289</EntryCount>
+  <EntryCount>296</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -623,8 +623,8 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>112</ID>
-      <DefaultText>L'âme d'un personnage pétrifié transforme momentanément son corps en pierre immobile et friable. Il subit les mêmes effets qu'en cas de paralysie, mais les attaques altèrent directement sa santé plutôt que son endurance. Annule les effets d'une paralysie, d'un assommement, d'une immobilisation et d'un renversement.</DefaultText>
+      <ID>112</ID>     
+      <DefaultText>L'âme d'un personnage pétrifié transforme momentanément son corps en pierre immobile et friable. Il subit les mêmes effets qu'en cas de paralysie, mais les attaques infligent beaucoup plus de dégâts. Annule les effets d'une paralysie, d'un assommement, d'une immobilisation et d'un renversement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1589,5 +1589,40 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
       <DefaultText>Supprimé</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Spellbind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>An item with the spellbind property allows an ability or spell to be cast while the item is equipped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Spell Holding</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Items with the spell holding property will automatically trigger the listed ability or spell when the user of the item is Crit in combat. Spell holding will trigger no more than 2/encounter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Spell Striking</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Weapons with the spell striking property will trigger the listed or ability or spell when the weapon's wielder scores a Crit against an enemy. Spell striking may only trigger 1/encounter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Stags have been an integral part of Aedyran and Glanfathan cultures for centuries. They are hunted for their horns, hide, and meat, revered for their power and speed. Does and fawns typically pose no problems for hunters and travelers, but the great stags of the Dyrwood are known for being particularly aggressive.</DefaultText>
+      <FemaleText />
+    </Entry>    
   </Entries>
 </StringTableFile>

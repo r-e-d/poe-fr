@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Le jeteur de sorts semble visuellement décalé, ce qui accroît sa déviation et ses réflexes pendant un certain temps.</DefaultText>
+      <DefaultText>Le jeteur de sorts semble visuellement décalé, ce qui accroît sa déviation et ses réflexes pendant un certain temps. De plus, une partie des attaques contre la déviation et les réflexes résultant en Coups sont converties en Éraflures.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1346,7 +1346,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>Projette un nuage d'impuretés rances qui intoxique tous les personnages qui y sont pris et inflige de modestes dégâts corrosifs.</DefaultText>
+      <DefaultText>Projette un nuage empoisonné d'impureté qui inflige des dégâts corrosifs et intoxique les victimes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Le combattant refuse de s'avouer vaincu. Lorsque son endurance est nulle, le combattant se relève et reçoit 50 % de son endurance maximale ainsi qu'une augmentation temporaire de ses défenses et de sa réduction de dégâts.</DefaultText>
+      <DefaultText>Le combattant refuse de s'avouer vaincu. Après avoir été assommé, le combattant se relève avec une partie de son endurance ainsi qu'une augmentation temporaire de ses défenses et de sa réduction de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5470,7 +5470,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Le barbare délivre une puissante frappe qui inflige des Critiques et Dégâts Critiques supplémentaires pour la frappe et les coups résultant du Carnage. Le Carnage touche également une plus large zone.</DefaultText>
+      <DefaultText>Le barbare délivre une puissante frappe qui inflige des Critiques et Dégâts Critiques supplémentaires. Le Carnage n'est pas affecté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5525,7 +5525,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Confère un bonus de dégâts lorsqu'une arme à deux mains est utilisée.</DefaultText>
+      <DefaultText>Confère un bonus de dégâts lorsqu'une arme de mêlée à deux mains est utilisée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

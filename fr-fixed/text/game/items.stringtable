@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1823</EntryCount>
+  <EntryCount>1821</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7496,6 +7496,7 @@ Vous avez trouvé ce manteau dans le phare de la Faveur d'Ondra. La tour est dé
     <Entry>
       <ID>1474</ID>
       <DefaultText>Les eotens apparaissent dans les contes traditionnels les plus grotesques. Alors qu'ils n'étaient, il y a bien longtemps, que les plus agressifs et instables des ogres, ils sont depuis devenus de véritables monstruosités, à la fois plus gros et bien moins intelligents que leurs cousins. Les eotens ont deux têtes, dont une est notablement plus petite que l'autre. Quand la plus grosse des deux têtes est neutralisée, la plus petite conserve juste ce qu'il faut d'intelligence brute pour que l'eoten continue de se battre.
+
 Nommée d'après ces monstruosités, cette ceinture possède un charme qui confère à son porteur une persévérance qui rappelle celle des eotens.</DefaultText>
       <FemaleText />
     </Entry>
@@ -10819,18 +10820,8 @@ Lorsque Aedwyn mourut dans l'ignorance, la lame passa dans les mains d'une jeune
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1890</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1891</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1892</ID>
-      <DefaultText />
+      <ID>1948</ID>
+      <DefaultText>Sceau des Arcanes</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

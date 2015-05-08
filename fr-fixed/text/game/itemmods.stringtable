@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>248</EntryCount>
+  <EntryCount>253</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1244,5 +1244,30 @@
       <DefaultText>Dégâts Critiques réduits</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Bonus Ranged Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Wary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Major Spellbind: Deleterious Alacrity of Motion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Loyal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Spell Holding: Frenzy</DefaultText>
+      <FemaleText />
+    </Entry>    
   </Entries>
 </StringTableFile>

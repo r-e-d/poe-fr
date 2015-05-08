@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1951</EntryCount>
+  <EntryCount>1964</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -4865,7 +4865,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Restaurer Brighthollow vous permettra de recevoir des bonus de repos lorsque vous passez la nuit à Brighthollow.</DefaultText>
+      <DefaultText>Restaurer Brighthollow vous permettra de passer la nuit ici. D'autres améliorations peuvent débloquer des bonus de repos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9111,7 +9111,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1819</ID>
-      <DefaultText>Les changements de niveau de difficulté prennent effet lors du chargement de carte suivant.</DefaultText>
+      <DefaultText>Les changements de niveau de difficulté prennent effet sur toutes les cartes pas encore visités.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9421,12 +9421,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1881</ID>
-      <DefaultText>Désactivez l'arrêt du mouvement d'engagement du groupe</DefaultText>
+      <DefaultText>Poursuivre les mouvements lors des engagements</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1882</ID>
-      <DefaultText>Désactive l'arrêt du mouvement automatique quand un membre du group est la cible d'engagement. Les membres du groupe seront ciblés par des attaques de désengagement.</DefaultText>
+      <DefaultText>Si cette option est activée, les membres du groupe vont continuer de se déplacer lors d'un engagement par un enemie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9765,74 +9765,139 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1965</ID>
-      <DefaultText>Lac</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1966</ID>
-      <DefaultText>Armurerie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1967</ID>
-      <DefaultText>Mine</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1968</ID>
-      <DefaultText>Chambre de Clairvoyance</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1969</ID>
-      <DefaultText>Chute de Glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1970</ID>
-      <DefaultText>Dortoirs</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1971</ID>
-      <DefaultText>Salle à Manger</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1972</ID>
-      <DefaultText>Vers l'extérieur occidentale</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1973</ID>
-      <DefaultText>Vers la grotte inférieure</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1974</ID>
-      <DefaultText>Lac gelé</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1975</ID>
-      <DefaultText>Camp Forestier</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1976</ID>
-      <DefaultText>Camp du Chasseur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1977</ID>
-      <DefaultText />
+      <DefaultText>News</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1978</ID>
+      <DefaultText>Show News</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1979</ID>
+      <DefaultText>Stealing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1980</ID>
+      <DefaultText>?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1981</ID>
+      <DefaultText>If enabled, show the latest news on the Main Menu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1982</ID>
+      <DefaultText>{0} consumes {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1983</ID>
+      <DefaultText>Voice Frequency</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1984</ID>
+      <DefaultText>Determines how frequently companions and player characters will play their voice cues. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1985</ID>
       <DefaultText />
       <FemaleText />
-    </Entry>    
+    </Entry>
+    <Entry>
+      <ID>1987</ID>
+      <DefaultText>Enchantment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1988</ID>
+      <DefaultText>{0} chance to reflect Ranged attacks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1989</ID>
+      <DefaultText>Item Type</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1990</ID>
+      <DefaultText>Name (High to Low)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1991</ID>
+      <DefaultText>Sell Value (Low to High)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1992</ID>
+      <DefaultText>Sell Value (High to Low)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1993</ID>
+      <DefaultText>Enchanments (Low to High)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1994</ID>
+      <DefaultText>Enchantments (High to Low)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1995</ID>
+      <DefaultText>Apply</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1997</ID>
+      <DefaultText>Frame Rate Max</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1998</ID>
+      <DefaultText>This will set a maximum frame rate the game will run at. Use this setting to set a maximum frame rate the game can run at to assist with overheating. This may also be limited by your monitor's refresh rate if vsync is enabled. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1999</ID>
+      <DefaultText>Auto Level Companions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2000</ID>
+      <DefaultText>If enabled, this option will auto-level companions to the player's current level following a standard level progression. If disabled, the player may choose their level progression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2015</ID>
+      <DefaultText>Examine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2016</ID>
+      <DefaultText>Adjusts the area that allows to loot multiple bodies with a single click. If set to 0m only the selected body will be looted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2018</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2019</ID>
+      <DefaultText>Attackers: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2020</ID>
+      <DefaultText>Defenders: {0}</DefaultText>
+      <FemaleText />
+    </Entry>   
   </Entries>
 </StringTableFile>
