@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>[Attacking Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>[Attacking Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,32 +51,35 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>[Death Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>[Death Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>[Death Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>[Knocked out Effort]
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>[Knocked out Effort]
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>[Knocked out Effort]
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +94,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>[Big Attacking Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,17 +124,17 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>[Damaged Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>[Damaged Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>[Damaged Effort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,12 +169,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>"Found something."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>"Worth a look."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@ Au moment opportun, le brouillard devant vous se dissipe pour vous permettre d'a
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 48</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@ Vous vous retournez vers la paroi du canyon. Le soleil suit sa trajectoire et ce
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText />
+      <DefaultText>{DEBUG: this is the list of rep conditionals that would be attached to the node above. Instead, This set of conditionals and those attached to the other nodes in this layer should control whether or not the Wael encounter spawns}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
