@@ -156,8 +156,8 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Verrouillé !</DefaultText>
-      <FemaleText>Verrouillée !</FemaleText>
+      <DefaultText>Verrouillé !</DefaultText>
+      <FemaleText>Verrouillée !</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Requiert {0} {1}.</DefaultText>
+      <DefaultText>Requiert {0} en {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,17 +481,17 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>{0} ajoutée : '{1}'</DefaultText>
+      <DefaultText>{0} ajoutée : '{1}'</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>{0} mise à jour : '{1}'</DefaultText>
+      <DefaultText>{0} mise à jour : '{1}'</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>{0} terminée : '{1}'</DefaultText>
+      <DefaultText>{0} terminée : '{1}'</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1061,7 +1061,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>{0} sec</DefaultText>
+      <DefaultText>{0} sec</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1071,7 +1071,7 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>Enregistrer les modifications ?</DefaultText>
+      <DefaultText>Enregistrer les modifications ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1311,7 +1311,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Échec de {0} : '{1}'</DefaultText>
+      <DefaultText>Échec de {0} : '{1}'</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>{0}%</DefaultText>
+      <DefaultText>{0} %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,12 +1416,12 @@
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Utilisé : {0}</DefaultText>
+      <DefaultText>Utilisé : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Déverrouillé avec des mécanismes.</DefaultText>
+      <DefaultText>Déverrouillé grâce à Mécanique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,12 +1431,12 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Crochets requis : {0}.</DefaultText>
+      <DefaultText>Crochets requis : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Mécanismes requis : {0}.</DefaultText>
+      <DefaultText>Mécanique requis : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1456,7 +1456,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Difficile</DefaultText>
+      <DefaultText>Ardu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Crochets requis : {0} / {1}. Voulez-vous crocheter la serrure ?</DefaultText>
+      <DefaultText>Crochets requis : {0} / {1}. Voulez-vous crocheter la serrure ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1486,22 +1486,22 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Le groupe a gagné un objet : {0}.</DefaultText>
+      <DefaultText>Le groupe a gagné un objet : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Le groupe a perdu un objet : {0}.</DefaultText>
+      <DefaultText>Le groupe a perdu un objet : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Le groupe a gagné un objet : {1}x {0}</DefaultText>
+      <DefaultText>Le groupe a gagné un objet : {1}x {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Le groupe a perdu un objet : {1}x {0}</DefaultText>
+      <DefaultText>Le groupe a perdu un objet : {1}x {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1766,7 +1766,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Succès ! Le piège a été neutralisé.</DefaultText>
+      <DefaultText>Succès ! Le piège a été neutralisé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1786,7 +1786,7 @@
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>Voulez-vous vous reposer {0} heures ?</DefaultText>
+      <DefaultText>Voulez-vous vous reposer {0} heures ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,12 +1826,12 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>{0} % de dégâts et soins, {1} de robustesse</DefaultText>
+      <DefaultText>Dégâts et Soins {0} %, Robustesse {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>{0} % d'endurance et santé, {1} de robustesse</DefaultText>
+      <DefaultText>Endurance et Santé {0} %, Robustesse {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,17 +1841,17 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>{0} d'interruption, {1} de déviation et {2} de réflexes</DefaultText>
+      <DefaultText>Interruption {0}, Déviation {1} et Réflexes {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>{0} % de zone d'effet, {1} % de durée et {2} de volonté</DefaultText>
+      <DefaultText>Zone d'effet {0} %, Durée {1} % et Volonté {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>{0} de concentration, {1} de déviation, et {2} de volonté</DefaultText>
+      <DefaultText>Concentration {0}, Déviation {1}, et Volonté {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1861,7 +1861,7 @@
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>{0} niveau {1}</DefaultText>
+      <DefaultText>{1} de {0} niveau</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1881,7 +1881,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>Vous ne pouvez pas neutraliser le piège ! Voulez-vous le déclencher ?</DefaultText>
+      <DefaultText>Vous ne pouvez pas neutraliser le piège ! Voulez-vous le déclencher ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1936,7 +1936,7 @@
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>Réputations : {0}</DefaultText>
+      <DefaultText>Réputations : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2041,7 +2041,7 @@
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>Niveau {0}</DefaultText>
+      <DefaultText>{0} Niveau</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2066,12 +2066,12 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>Concentration</DefaultText>
+      <DefaultText>Focus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>Supprimer le sort ?</DefaultText>
+      <DefaultText>Supprimer le sort ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2231,7 +2231,7 @@
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>Utilise : {0}</DefaultText>
+      <DefaultText>Utilise : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2301,7 +2301,7 @@
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>Concentration insuffisante</DefaultText>
+      <DefaultText>Focus insuffisant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2336,7 +2336,7 @@
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>La détermination reflète la force intérieure et le courage d'un personnage ainsi que l'intensité émotionnelle qu'il insuffle aux autres. Elle améliore les capacités d'intimidation, de commandement et de persuasion. Au combat, elle améliore aussi la concentration des personnages et renforce leurs propriétés défensives Volonté et Déviation.</DefaultText>
+      <DefaultText>La détermination reflète la force intérieure et le courage d'un personnage ainsi que l'intensité émotionnelle qu'il insuffle aux autres. Elle améliore les capacités d'intimidation, de commandement et de persuasion. Au combat, elle améliore aussi la concentration des personnages et renforce leurs propriétés défensives volonté et déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,7 +2426,7 @@ Avantage de distance - Contre un ennemi situé à plus de 4 mètres, les elfes 
       <ID>485</ID>
       <DefaultText>On ne sait pas précisément à quand remonte l'arrivée des elfes pâles (ou Glamfellens) dans les régions polaires méridionales, mais ils y vivent depuis au moins 12 000 ans grâce aux relations qu'ils ont tissées avec les marchands aumauas. Ils constituent l'un des groupes ethniques les plus sédentaires du monde connu. Ils limitent leurs déplacements à la région polaire et ne s'aventurent que rarement vers l'extrême nord. Ils sont très peu représentés dans les territoires du nord où la plupart des gens les considèrent comme un peuple exotique (s'ils en ont déjà seulement vu un). 
 
-Endurance élémentaire - Tous les elfes pâles possèdent une résistance accrue aux dégâts Brûlant et Givrant.</DefaultText>
+Résistance élémentale - Tous les elfes pâles possèdent une résistance accrue aux dégâts Brûlant et Givrant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2439,7 +2439,6 @@ Robuste et vigoureux - Les nains des montagnes ont un bonus de protection contre
     <Entry>
       <ID>487</ID>
       <DefaultText>La plupart des nains australs (ou Enutaniks) vivent sur une île lointaine du sud de Naasitaq où ils se partagent la toundra rocailleuse et les forêts enneigées avec les elfes pâles qui y ont migré et les vaisseaux côtiers des aumauas. Comme leurs cousins du nord, les Enutaniks sont des explorateurs nés. Les nains australs sont nombreux dans les Républiques de Vailia, mais plus rares à Dyrwood. 
-
 
 Instincts de chasseur - Les nains australs bénéficient de 15 points de précision supplémentaires contre toute créature sauvage ou primordiale.</DefaultText>
       <FemaleText />
@@ -2595,7 +2594,7 @@ Blessures - Lorsque les moines subissent des dégâts, leur douleur génère des
 
 Capacité de départ :
 
-Pouvoirs - Les clairvoyants peuvent directement viser des alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en concentration, qu'ils acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
+Pouvoirs - Les clairvoyants peuvent directement viser des alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en focus, qu'ils acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2886,7 +2885,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Camper requiert un jeu de fournitures correspondant. Voulez-vous camper ici ?</DefaultText>
+      <DefaultText>Camper requiert un jeu de fournitures correspondant. Voulez-vous camper ici ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3026,12 +3025,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>Requiert :</DefaultText>
+      <DefaultText>Requiert :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Statistiques :</DefaultText>
+      <DefaultText>Statistiques :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3381,7 +3380,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>Tour : {0}</DefaultText>
+      <DefaultText>Tour : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3596,7 +3595,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>708</ID>
-      <DefaultText>Dette : {0}</DefaultText>
+      <DefaultText>Dette : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3831,7 +3830,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>755</ID>
-      <DefaultText>Chambre choisie : {0}. Voulez-vous vous reposer pour {1} ?</DefaultText>
+      <DefaultText>Chambre choisie : {0}. Voulez-vous vous reposer pour {1} ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3906,7 +3905,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>770</ID>
-      <DefaultText>Enlèvement ! Rançon : {0}</DefaultText>
+      <DefaultText>Enlèvement ! Rançon : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4106,7 +4105,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>810</ID>
-      <DefaultText>Se reposer dans {0} ?</DefaultText>
+      <DefaultText>Se reposer dans {0} ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4191,7 +4190,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Les bandits de Bleakhollow, en provenance des terres sauvages septentrionales, auraient été vus en train de traverser les plaines situées à l'est de Caed Nua. Ils seront à vos portes d'un jour à l'autre !</DefaultText>
+      <DefaultText>Les bandits de Bleakhollow, en provenance des terres sauvages septentrionales, auraient été vus en train de traverser les plaines situées à l'est de Caed Nua. Ils seront à vos portes d'un jour à l'autre !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4216,12 +4215,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>832</ID>
-      <DefaultText>Des trolls et des vases ont quitté Od Nua et seront bientôt dans la grande salle !</DefaultText>
+      <DefaultText>Des trolls et des vases ont quitté Od Nua et seront bientôt dans la grande salle !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>Des xaurips and wurms se dirigent vers Od Nua et seront bientôt dans la grande salle !</DefaultText>
+      <DefaultText>Des xaurips et des wurms se dirigent vers Od Nua et seront bientôt dans la grande salle !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4486,7 +4485,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>886</ID>
-      <DefaultText>Des dizaines de mercenaires ont traversé les Plaines dégagées et font route vers Caed Nua !</DefaultText>
+      <DefaultText>Des dizaines de mercenaires ont traversé les Plaines dégagées et font route vers Caed Nua !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4496,7 +4495,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>888</ID>
-      <DefaultText>Se reposer dans {0} ?</DefaultText>
+      <DefaultText>Se reposer dans {0} ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4621,7 +4620,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>913</ID>
-      <DefaultText>Points restants :</DefaultText>
+      <DefaultText>Points restants :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4676,7 +4675,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Des brutes de Doemenel ont infiltré la forteresse et ne vont pas tarder à attaquer la grande salle !</DefaultText>
+      <DefaultText>Des brutes de Doemenel ont infiltré la forteresse et ne vont pas tarder à attaquer la grande salle !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4731,7 +4730,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>935</ID>
-      <DefaultText>Des Chevaliers du Creuset font route vers Caed Nua et seront à nos portes d'un moment à l'autre !</DefaultText>
+      <DefaultText>Des Chevaliers du Creuset font route vers Caed Nua et seront à nos portes d'un moment à l'autre !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4741,7 +4740,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>937</ID>
-      <DefaultText>Des morts-vivants de Raedric ont traversé la rivière en direction de l'ouest et seront bientôt à nos portes !</DefaultText>
+      <DefaultText>Des morts-vivants de Raedric ont traversé la rivière en direction de l'ouest et seront bientôt à nos portes !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4991,7 +4990,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>987</ID>
-      <DefaultText>Des agents de la Clé plombée ont infiltré la forteresse et vont bientôt attaquer !</DefaultText>
+      <DefaultText>Des agents de la Clé plombée ont infiltré la forteresse et vont bientôt attaquer !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5026,7 +5025,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>994</ID>
-      <DefaultText>Appuyé par :</DefaultText>
+      <DefaultText>Appuyé par :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5066,7 +5065,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1004</ID>
-      <DefaultText>Uniquement utilisable par :</DefaultText>
+      <DefaultText>Uniquement utilisable par :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5121,12 +5120,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1015</ID>
-      <DefaultText>{0} a lancé une attaque furtive !</DefaultText>
+      <DefaultText>{0} a lancé une attaque furtive !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>Points d'expérience gagnés : {0}</DefaultText>
+      <DefaultText>Points d'expérience gagnés : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5166,7 +5165,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1024</ID>
-      <DefaultText>Lors d'une attaque : {0}</DefaultText>
+      <DefaultText>Lors d'une attaque : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5556,87 +5555,87 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>{0} de santé max</DefaultText>
+      <DefaultText>Santé max {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1103</ID>
-      <DefaultText>{0} d'endurance max</DefaultText>
+      <DefaultText>Endurance max {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>{0} de santé</DefaultText>
+      <DefaultText>Santé {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>{0} d'endurance</DefaultText>
+      <DefaultText>Endurance {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>{0} de précision de mêlée</DefaultText>
+      <DefaultText>Précision {0} en mêlée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1107</ID>
-      <DefaultText>{0} de précision à distance</DefaultText>
+      <DefaultText>Précision {0} à distance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1108</ID>
-      <DefaultText>{0} de déviation</DefaultText>
+      <DefaultText>Déviation {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1109</ID>
-      <DefaultText>{0} de robustesse</DefaultText>
+      <DefaultText>Robustesse {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1110</ID>
-      <DefaultText>{0} de réflexes</DefaultText>
+      <DefaultText>Réflexes {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>{0} de volonté</DefaultText>
+      <DefaultText>Volonté {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>{0} d'endurance par seconde</DefaultText>
+      <DefaultText>Endurance {0} par seconde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>{0} de vitesse d'attaque</DefaultText>
+      <DefaultText>Vitesse d'attaque {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1114</ID>
-      <DefaultText>{0} de furtivité</DefaultText>
+      <DefaultText>Furtivité {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>{0} dégâts {1}s</DefaultText>
+      <DefaultText>Dégâts {1} {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>{0} réduction de dégâts ({1})</DefaultText>
+      <DefaultText>Réduction Dégâts {1} {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>{0} de dégâts min</DefaultText>
+      <DefaultText>Dégâts min {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1118</ID>
-      <DefaultText>{0} de vitesse de déplacement</DefaultText>
+      <DefaultText>Vitesse de déplacement {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5656,22 +5655,22 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>{0} d'ennemis attaqués</DefaultText>
+      <DefaultText>Ennemis engagés {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1123</ID>
-      <DefaultText>{0} de portée d'engagement</DefaultText>
+      <DefaultText>Portée d'engagement {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1124</ID>
-      <DefaultText>{0} de précision contre les ennemis qui se retirent</DefaultText>
+      <DefaultText>Précision {0} contre les ennemis se désengageant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1125</ID>
-      <DefaultText>{0} dégâts contre les ennemis qui se retirent</DefaultText>
+      <DefaultText>Dégâts {0} contre les ennemis se désengageant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5681,7 +5680,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} dégâts {1}s</DefaultText>
+      <DefaultText>{0} {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5691,17 +5690,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>{0} de dégâts sans arme</DefaultText>
+      <DefaultText>Dégâts sans arme {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>{0} de portée de mêlée</DefaultText>
+      <DefaultText>Portée en mêlée {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>{0} de distance</DefaultText>
+      <DefaultText>Portée à distance {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5711,32 +5710,32 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>{0} dégâts {1}s par blessure</DefaultText>
+      <DefaultText>Dégâts {1} {0} par blessure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1134</ID>
-      <DefaultText>{0} de réduction de dégâts d'armure</DefaultText>
+      <DefaultText>Réduction de dégâts d'armure {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1135</ID>
-      <DefaultText>{0} de dégâts à distance garantis</DefaultText>
+      <DefaultText>Dégâts à distance garantis {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1136</ID>
-      <DefaultText>{0} de chance d'assommer au moment de l'impact</DefaultText>
+      <DefaultText>Chance d'infliger Assommement par coup {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Attaques furtives sur les ennemis de moins de {0} de santé</DefaultText>
+      <DefaultText>Attaques furtives sur les ennemis ayant moins de {0} en Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>{0} de chance d'entraver par coup</DefaultText>
+      <DefaultText>Chance d'infliger Entrave par coup {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5751,17 +5750,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1141</ID>
-      <DefaultText>{0} de dégâts de mêlée</DefaultText>
+      <DefaultText>Dégâts de mêlée {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Ininterrompu en cas d'engagement</DefaultText>
+      <DefaultText>Non interrompu en cas d'engagement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>{0} de perte de santé</DefaultText>
+      <DefaultText>Perte de Santé {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5771,7 +5770,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1145</ID>
-      <DefaultText>{0} de concentration au moment de l'impact</DefaultText>
+      <DefaultText>Focus {0} par coup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5781,7 +5780,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1147</ID>
-      <DefaultText>Utilise {0} de détermination pour {1} de déviation</DefaultText>
+      <DefaultText>Draine {0} Détermination pour {1} Déviation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5791,17 +5790,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1149</ID>
-      <DefaultText>{0} de tous les dégâts réappliqués aux ennemis alentour</DefaultText>
+      <DefaultText>{0} de tous les dégâts réappliqués aux ennemis proches</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1150</ID>
-      <DefaultText>{0} de vitesse de rechargement</DefaultText>
+      <DefaultText>Vitesse de rechargement {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Piège : {0}</DefaultText>
+      <DefaultText>Piège : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5816,87 +5815,87 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1154</ID>
-      <DefaultText>{0} de dégâts par pourcentage de santé perdu</DefaultText>
+      <DefaultText>Dégâts {0} par pourcentage de santé perdu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1155</ID>
-      <DefaultText>{0} de détermination</DefaultText>
+      <DefaultText>Détermination {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1156</ID>
-      <DefaultText>{0} de puissance</DefaultText>
+      <DefaultText>Puissance {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1157</ID>
-      <DefaultText>{0} de dextérité</DefaultText>
+      <DefaultText>Dextérité {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1158</ID>
-      <DefaultText>{0} d'intelligence</DefaultText>
+      <DefaultText>Intelligence {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1159</ID>
-      <DefaultText>Invoquer une arme : {0}</DefaultText>
+      <DefaultText>Invoquer une arme, {0},</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>{0} d'endurance puisée</DefaultText>
+      <DefaultText>Endurance drainée {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1161</ID>
-      <DefaultText>{0} de régénération d'endurance</DefaultText>
+      <DefaultText>Endurance régénérée {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1162</ID>
-      <DefaultText>{0} de précision contre les vaisseaux</DefaultText>
+      <DefaultText>Précision {0} contre les Vaisseaux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1163</ID>
-      <DefaultText>{0} de précision contre les créatures</DefaultText>
+      <DefaultText>Précision {0} contre les Créatures</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1164</ID>
-      <DefaultText>{0} de précision contre les sauvages</DefaultText>
+      <DefaultText>Précision {0} contre les Sauvages</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>{0} de défense contre les attaques par assommement</DefaultText>
+      <DefaultText>Défense {0} contre l'Assommement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1166</ID>
-      <DefaultText>{0} de défense contre les attaques par renversement</DefaultText>
+      <DefaultText>Défense {0} contre le Renversement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1167</ID>
-      <DefaultText>{0} de défense contre les attaques par empoisonnement</DefaultText>
+      <DefaultText>Défense {0} contre le Poison</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1168</ID>
-      <DefaultText>{0} de défense contre les attaques par maladie</DefaultText>
+      <DefaultText>Défense {0} contre la Maladie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1169</ID>
-      <DefaultText>{0} de précision, déviation et réflexes contre les ennemis distants</DefaultText>
+      <DefaultText>Précision, Déviation et Réflexes {0} contre les ennemis distants</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>{0} de dégâts contre les ennemis dotés d'une faible endurance</DefaultText>
+      <DefaultText>Dégâts {0} contre les ennemis avec une Endurance faible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5906,7 +5905,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1172</ID>
-      <DefaultText>{0} de précision accordée à un allié attaquant la même cible</DefaultText>
+      <DefaultText>Précision {0} accordée à un allié attaquant la même cible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5916,7 +5915,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1174</ID>
-      <DefaultText>{0} de durée des effets hostiles</DefaultText>
+      <DefaultText>Durée des effets hostiles {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5931,37 +5930,37 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1177</ID>
-      <DefaultText>Les attaques à distance rebondissent {0} fois</DefaultText>
+      <DefaultText>Les attaques à distance rebondissent {0} fois</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1178</ID>
-      <DefaultText>{0} de dégâts subis convertis en dégâts progressifs</DefaultText>
+      <DefaultText>{0} des dégâts reçus convertis en dégâts progressifs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1179</ID>
-      <DefaultText>{0} de dégâts contre les cibles affectées par des dégâts progressifs</DefaultText>
+      <DefaultText>Dégâts {0} contre les cibles affectées par des dégâts progressifs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1180</ID>
-      <DefaultText>Attaques de mêlée hostiles redirigées vers une autre cible alentour</DefaultText>
+      <DefaultText>Attaques de mêlée hostiles redirigées vers une autre cible proche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1181</ID>
-      <DefaultText>{0} de dégâts à effet de zone subis</DefaultText>
+      <DefaultText>Dégâts de zone reçus {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1182</ID>
-      <DefaultText>Prise de flanc améliorée</DefaultText>
+      <DefaultText>Prise à revers améliorée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1183</ID>
-      <DefaultText>RD contournée : {0}</DefaultText>
+      <DefaultText>{0} RD contournée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5986,62 +5985,62 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1188</ID>
-      <DefaultText>{0} d'athlétisme</DefaultText>
+      <DefaultText>Athlétisme {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1189</ID>
-      <DefaultText>{0} de connaissance</DefaultText>
+      <DefaultText>Connaissance {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1190</ID>
-      <DefaultText>{0} de mécanique</DefaultText>
+      <DefaultText>Mécanique {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1191</ID>
-      <DefaultText>{0} de survie</DefaultText>
+      <DefaultText>Survie {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1192</ID>
-      <DefaultText>{0} d'artisanat</DefaultText>
+      <DefaultText>Artisanat {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1193</ID>
-      <DefaultText>{0} de défense contre les attaques par poussée</DefaultText>
+      <DefaultText>Défense {0} contre les attaques par poussée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>{0} de défense pendant un assommement</DefaultText>
+      <DefaultText>Défense {0} lors d'un Assommement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>{0} de défense pendant un renversement</DefaultText>
+      <DefaultText>Défense {0} lors d'un Renversement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1196</ID>
-      <DefaultText>{0} de précision en cas d'attaque de la même cible qu'un allié</DefaultText>
+      <DefaultText>Précision {0} en attaquant la même cible qu'un allié</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>{0} de dégâts en cas d'attaque de la même cible qu'un allié</DefaultText>
+      <DefaultText>Dégâts {0} en attaquant la même cible qu'un allié</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>{0} de constitution</DefaultText>
+      <DefaultText>Constitution {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1199</ID>
-      <DefaultText>{0} de perception</DefaultText>
+      <DefaultText>Perception {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6056,7 +6055,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Les Critiques peuvent Assommer</DefaultText>
+      <DefaultText>Les Critiques peuvent infliger Assommement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6086,7 +6085,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>{0} dégâts {1}s</DefaultText>
+      <DefaultText>Dégâts {1} {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6096,17 +6095,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>{0} de dégâts de mêlée</DefaultText>
+      <DefaultText>Dégâts en mêlée {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1211</ID>
-      <DefaultText>{0} de dégâts à distance</DefaultText>
+      <DefaultText>Dégâts à distance {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1212</ID>
-      <DefaultText>{0} cadence de tir</DefaultText>
+      <DefaultText>Cadence de tir {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6121,22 +6120,22 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1215</ID>
-      <DefaultText>{0} d'endurance</DefaultText>
+      <DefaultText>Endurance {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1216</ID>
-      <DefaultText>{0} d'ennemis à flanquer</DefaultText>
+      <DefaultText>{0} ennemis nécessaires pour une Prise à revers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1217</ID>
-      <DefaultText>{0} de concentration</DefaultText>
+      <DefaultText>Concentration {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>{0} de dégâts progressifs {1}s en cas d'impact</DefaultText>
+      <DefaultText>Dégâts {1} progressifs {0} par coup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6151,42 +6150,42 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1221</ID>
-      <DefaultText>{0} de défense contre les attaques {1}</DefaultText>
+      <DefaultText>Défense {0} contre {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1222</ID>
-      <DefaultText>Empêcher la mort</DefaultText>
+      <DefaultText>Empêche la mort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1223</ID>
-      <DefaultText>{0} de durée des effets bénéfiques actifs</DefaultText>
+      <DefaultText>Durée {0} sur les effets bénéfiques actifs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>{0} de taux de dégâts progressifs</DefaultText>
+      <DefaultText>Taux de dégâts progressifs {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1225</ID>
-      <DefaultText>{0} de durée des effets hostiles actifs</DefaultText>
+      <DefaultText>Durée {0} sur les effets hostiles actifs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1226</ID>
-      <DefaultText>{0} de défense contre les attaques {1}</DefaultText>
+      <DefaultText>Défense {0} contre les attaques {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1227</ID>
-      <DefaultText>{0} de réduction de dégâts ({1}) volés</DefaultText>
+      <DefaultText>{0} Réduction de dégâts ({1}) volés</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>{0} de points volés à un attribut aléatoire</DefaultText>
+      <DefaultText>{0} points volés à un attribut aléatoire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6196,7 +6195,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1230</ID>
-      <DefaultText>{0} de précision en cas d'attaque du même ennemi que {1}</DefaultText>
+      <DefaultText>Précision {0} en attaquant le même ennemi que {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6206,32 +6205,32 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>{0} de dégâts régénérés sous forme d'endurance</DefaultText>
+      <DefaultText>{0} des dégâts convertis en Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1233</ID>
-      <DefaultText>Les Critiques peuvent Renverser</DefaultText>
+      <DefaultText>Les Critiques peuvent infliger Renversement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>{0} de précision lorsque l'endurance est inférieure à {1}</DefaultText>
+      <DefaultText>Précision {0} si Endurance inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>{0} de dégâts lorsque l'endurance est inférieure à {1}</DefaultText>
+      <DefaultText>Dégâts {0} si Endurance inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>{0} de dégâts contre des ennemis renversés, assommés et pris de flanc</DefaultText>
+      <DefaultText>Dégâts {0} contre les ennemis subissant Renversement, Assommement ou Prise à revers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>{0} de dégâts progressifs</DefaultText>
+      <DefaultText>Dégâts progressifs {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6246,42 +6245,42 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1240</ID>
-      <DefaultText>{0} de durée d'assommement</DefaultText>
+      <DefaultText>Durée d'Assommement {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>{0} de durée de renversement</DefaultText>
+      <DefaultText>Durée de Renversement {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1242</ID>
-      <DefaultText>{0} de réduction de dégâts d'armure en cas de santé inférieure à 25 %</DefaultText>
+      <DefaultText>Réduction de dégâts d'armure {0} si Santé inférieure à 25 %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>{0} de précision contre {1}</DefaultText>
+      <DefaultText>Précision {0} contre {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1244</ID>
-      <DefaultText>{0} de dégâts contre {1}</DefaultText>
+      <DefaultText>{0} de dégâts contre {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>{0} de fatigue</DefaultText>
+      <DefaultText>Fatigue {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1246</ID>
-      <DefaultText>{0} de portée des armes</DefaultText>
+      <DefaultText>Portée d'arme {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1247</ID>
-      <DefaultText>{0} de précision contre les primordiaux</DefaultText>
+      <DefaultText>Précision {0} contre les primordiaux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6301,22 +6300,22 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1251</ID>
-      <DefaultText>{0} de délai de blessure</DefaultText>
+      <DefaultText>Délai de blessure {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1252</ID>
-      <DefaultText>{0} de dégâts de sort</DefaultText>
+      <DefaultText>Dégâts des sorts {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1253</ID>
-      <DefaultText>{0} de dégâts de coup de grâce</DefaultText>
+      <DefaultText>Dégâts de coup de grâce {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1254</ID>
-      <DefaultText>{0} de zone d'effet d'aura zélée</DefaultText>
+      <DefaultText>Zone d'effet d'aura zélée {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6331,107 +6330,107 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1257</ID>
-      <DefaultText>{0} de dégâts contre les cibles prises de flanc</DefaultText>
+      <DefaultText>Dégâts {0} contre une cible Prise à revers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1258</ID>
-      <DefaultText>{0} de concentration en plus</DefaultText>
+      <DefaultText>{0} de focus en plus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>{0} de défense en désengagement</DefaultText>
+      <DefaultText>Défense {0} en désengagement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1260</ID>
-      <DefaultText>{0} de défense contre les sorts</DefaultText>
+      <DefaultText>Défense {0} contre les sorts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>{0} de déviation contre les attaques à distance</DefaultText>
+      <DefaultText>Déviation {0} contre les attaques à distance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1262</ID>
-      <DefaultText>{0} d'utilisation de capacités par repos avec 4 charges ou plus</DefaultText>
+      <DefaultText>{0} utilisations des capacités Par Repos avec 4 charges ou plus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1263</ID>
-      <DefaultText>{0} de taux d'effet d'empoisonnement</DefaultText>
+      <DefaultText>{0} vitesse de poison</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>{0} de taux d'effet de maladie</DefaultText>
+      <DefaultText>{0} vitesse de maladie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1265</ID>
-      <DefaultText>{0} dégâts de liaison du chasseur</DefaultText>
+      <DefaultText>Dégâts du lien du chasseur {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>{0} dégâts {1}s convertis en endurance</DefaultText>
+      <DefaultText>Dégâts {1} convertis en Endurance {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>{0} d'effet de zone d'incantation</DefaultText>
+      <DefaultText>Zone d'incantation {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>{0} de guérison</DefaultText>
+      <DefaultText>Guérison {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>{0} de Dégâts Critiques reçus</DefaultText>
+      <DefaultText>Dégâts Critiques reçus {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1270</ID>
-      <DefaultText>{0} d'utilisation de sorts de niveau {1}</DefaultText>
+      <DefaultText>Utilisation de sorts de {1} niveau {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1271</ID>
-      <DefaultText>{0} d'effet de zone de capacité</DefaultText>
+      <DefaultText>Zone d'effet des capacités {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1272</ID>
-      <DefaultText>{0} de durée de frénésie</DefaultText>
+      <DefaultText>Durée de Frénésie {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>{0} de durée de renversement</DefaultText>
+      <DefaultText>Durée de Renversement {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1274</ID>
-      <DefaultText>{0} de dégâts de frappe sauvage</DefaultText>
+      <DefaultText>Dégâts de Frappe sauvage {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Ranimation avec {0} d'endurance</DefaultText>
+      <DefaultText>Réanimation avec {0} en Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1276</ID>
-      <DefaultText>{0} de dégâts subis convertis en guérison progressive</DefaultText>
+      <DefaultText>{0} des dégâts reçus convertis en guérison progressive</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>{0}%</DefaultText>
+      <DefaultText>{0} %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6621,17 +6620,17 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>{0} bénéficie d'une expérience suffisante pour accéder au niveau supérieur !</DefaultText>
+      <DefaultText>{0} bénéficie d'une expérience suffisante pour accéder au niveau supérieur !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1316</ID>
-      <DefaultText>{0} de toutes les défenses</DefaultText>
+      <DefaultText>{0} sur toutes les Défenses</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>{0} d'endurance maximale</DefaultText>
+      <DefaultText>Endurance maximale {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6656,12 +6655,12 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>... mais avec effet supplémentaire : {1}.</DefaultText>
+      <DefaultText>... mais avec effet supplémentaire : {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>... et avec effet supplémentaire : {1}.</DefaultText>
+      <DefaultText>... et avec effet supplémentaire : {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6691,7 +6690,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>dégâts {0}s</DefaultText>
+      <DefaultText>de dégâts {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6746,7 +6745,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>{0} dispose déjà d'un enchantement de qualité.</DefaultText>
+      <DefaultText>{0} dispose déjà de l'enchantement raffiné.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7066,7 +7065,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1404</ID>
-      <DefaultText>{0} de précision</DefaultText>
+      <DefaultText>Précision {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7141,7 +7140,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1421</ID>
-      <DefaultText>Bouclier : {0}</DefaultText>
+      <DefaultText>Bouclier : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7311,7 +7310,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1455</ID>
-      <DefaultText>Concentration inférieure au maximum</DefaultText>
+      <DefaultText>Focus inférieur au maximum</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7356,8 +7355,8 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>1464</ID>
-      <DefaultText>Les clairvoyants peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de concentration, que les clairvoyants acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
-      <FemaleText>Les clairvoyantes peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de concentration, que les clairvoyantes acquièrent en utilisant leur Fouet de l'âme.</FemaleText>
+      <DefaultText>Les clairvoyants peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de focus, que les clairvoyants acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
+      <FemaleText>Les clairvoyantes peuvent directement viser alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en termes de focus, que les clairvoyantes acquièrent en utilisant leur Fouet de l'âme.</FemaleText>
     </Entry>
     <Entry>
       <ID>1465</ID>
@@ -7423,10 +7422,10 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
       <ID>1477</ID>
       <DefaultText>Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la Précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
       <FemaleText>Toutes les rôdeuses ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet à la rôdeuse et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que la rôdeuse attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeuses dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si une rôdeuse ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la Précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si une rôdeuse est tuée, le compagnon animal meurt immédiatement de douleur.</FemaleText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeuses dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si une rôdeuse ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si une rôdeuse est tuée, le compagnon animal meurt immédiatement de douleur.</FemaleText>
     </Entry>
     <Entry>
       <ID>1478</ID>
@@ -7455,12 +7454,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1483</ID>
-      <DefaultText>Réduction de dégâts : {0}</DefaultText>
+      <DefaultText>Réduction de dégâts : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1484</ID>
-      <DefaultText>Réduction de dégâts volés : {0}</DefaultText>
+      <DefaultText>Réduction de dégâts volés : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7700,12 +7699,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Draine {0} dégâts {1}s et restaure de l'endurance</DefaultText>
+      <DefaultText>Draine {0} Dégâts {1} en Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1533</ID>
-      <DefaultText>{0} m</DefaultText>
+      <DefaultText>{0} m</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7715,12 +7714,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>AoE: {0}</DefaultText>
+      <DefaultText>ZdE : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>Cône de {0}°</DefaultText>
+      <DefaultText>Cône {0}°</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7770,7 +7769,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1546</ID>
-      <DefaultText>{0} lorsque l'endurance est inférieure à {1}</DefaultText>
+      <DefaultText>{0} si Endurance inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7800,12 +7799,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1552</ID>
-      <DefaultText>{0} lorsque l'endurance est supérieure à {1}</DefaultText>
+      <DefaultText>{0} si Endurance supérieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1553</ID>
-      <DefaultText>{0} lorsque l'endurance est inférieure à {1}</DefaultText>
+      <DefaultText>{0} si Endurance inférieure à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7815,7 +7814,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1555</ID>
-      <DefaultText>base {0}</DefaultText>
+      <DefaultText>base {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7840,7 +7839,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1560</ID>
-      <DefaultText>{0} : annuler le passage au niveau {1} ?</DefaultText>
+      <DefaultText>{0} : annuler le passage au niveau {1} ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7950,7 +7949,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1582</ID>
-      <DefaultText>{0} % de vitesse d'action et {1} de réflexes</DefaultText>
+      <DefaultText>Vitesse d'action {0} % et Réflexes {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7985,7 +7984,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1589</ID>
-      <DefaultText>Zone d'effet du danger</DefaultText>
+      <DefaultText>Zone à risque</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8000,17 +7999,17 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1592</ID>
-      <DefaultText>{0} du jeteur de sorts</DefaultText>
+      <DefaultText>{0} autour du jeteur de sorts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1593</ID>
-      <DefaultText>Rayon {0}</DefaultText>
+      <DefaultText>{0} de Rayon </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1594</ID>
-      <DefaultText>Danger {0}</DefaultText>
+      <DefaultText>{0} à risque</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8025,37 +8024,37 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1597</ID>
-      <DefaultText>Allié</DefaultText>
+      <DefaultText>alliés</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1598</ID>
-      <DefaultText>Ennemi</DefaultText>
+      <DefaultText>ennemis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1599</ID>
-      <DefaultText>Amical</DefaultText>
+      <DefaultText>amis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1600</ID>
-      <DefaultText>Cible {0}</DefaultText>
+      <DefaultText>Cible ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1601</ID>
-      <DefaultText>Cible de saut : {0} {1}</DefaultText>
+      <DefaultText>Cible de saut ({0} {1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1602</ID>
-      <DefaultText>Cibles de saut : {0} {1}</DefaultText>
+      <DefaultText>Cibles de saut ({0} {1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>Zone d'effet : {0}</DefaultText>
+      <DefaultText>ZdE ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8070,17 +8069,17 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1606</ID>
-      <DefaultText>ZE</DefaultText>
+      <DefaultText>ZdE</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1607</ID>
-      <DefaultText>Cible saut : {0}</DefaultText>
+      <DefaultText>Cible de saut ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1608</ID>
-      <DefaultText>Cibles saut : {0}</DefaultText>
+      <DefaultText>Cibles de saut ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8125,7 +8124,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1617</ID>
-      <DefaultText>Aura : {0}</DefaultText>
+      <DefaultText>Aura : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8235,7 +8234,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1639</ID>
-      <DefaultText>Rayon : {0}</DefaultText>
+      <DefaultText>Rayon : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8310,27 +8309,27 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1655</ID>
-      <DefaultText>{0} de furtivité</DefaultText>
+      <DefaultText>Furtivité {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>{0} % de fatigue max, {1} % de gain de fatigue au combat</DefaultText>
+      <DefaultText>Fatigue max {0} %, gain de Fatigue au combat {1} %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1657</ID>
-      <DefaultText>Utilisation des parchemins de niveau {0}</DefaultText>
+      <DefaultText>Utilisation de parchemins de niveau {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1658</ID>
-      <DefaultText>Désamorçage des pièges de difficulté {0}, crochetage des serrures de difficulté {1}, précision de piège {2}</DefaultText>
+      <DefaultText>Désamorçage des pièges de difficulté {0}, Crochetage des serrures de difficulté {1}, Précision de piège {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1659</ID>
-      <DefaultText>{0} % de durée de consommable</DefaultText>
+      <DefaultText>Durée de consommable {0} %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8360,7 +8359,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1665</ID>
-      <DefaultText>{0} pour {1}</DefaultText>
+      <DefaultText>{0} pendant {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8395,7 +8394,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1672</ID>
-      <DefaultText>Dégâts avec des armes magiques : {0}</DefaultText>
+      <DefaultText>Dégâts avec des armes magiques : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8415,12 +8414,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1676</ID>
-      <DefaultText>{0} de déviation lorsqu'une arme à deux mains est utilisée</DefaultText>
+      <DefaultText>Déviation {0} si maniement arme à deux mains</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1677</ID>
-      <DefaultText>{0} de dégâts contre {1}</DefaultText>
+      <DefaultText>Dégâts {0} contre {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8465,12 +8464,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1686</ID>
-      <DefaultText>Contournement RD Mêlée : {0}</DefaultText>
+      <DefaultText>Contournement RD Mêlée : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1687</ID>
-      <DefaultText>Contournement RD Distance : {0}</DefaultText>
+      <DefaultText>Contournement RD Distance : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8490,7 +8489,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1691</ID>
-      <DefaultText>Concentration max : {0}</DefaultText>
+      <DefaultText>Focus max : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8500,17 +8499,17 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1693</ID>
-      <DefaultText>{0} des Coups convertis en Critiques contre les cibles avec une faible Endurance</DefaultText>
+      <DefaultText>{0} des Coups convertis en Critiques contre les cibles avec une Endurance faible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1694</ID>
-      <DefaultText>Précision contre les ennemis à distance : {0}</DefaultText>
+      <DefaultText>Précision {0} contre les ennemis à distance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1695</ID>
-      <DefaultText>Dégâts à distance contre les ennemis rapprochés : {0}</DefaultText>
+      <DefaultText>Dégâts à distance {0} contre les ennemis proches</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8535,12 +8534,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1700</ID>
-      <DefaultText>{0} de mécanique</DefaultText>
+      <DefaultText>{0} en mécanique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1701</ID>
-      <DefaultText>{0} de mécanique + {1} crochets</DefaultText>
+      <DefaultText>{0} en mécanique + {1} crochets</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8555,7 +8554,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1704</ID>
-      <DefaultText>Échec du crochetage. Requiert {0} de mécanique ou {1} de mécanique et {2} crochets.</DefaultText>
+      <DefaultText>Échec du crochetage. Requiert {0} en mécanique ou {1} en mécanique et {2} crochets.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8610,7 +8609,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1715</ID>
-      <DefaultText>Votre connaissance n'est pas assez élevée pour utiliser ce parchemin (Requiert : {0} de connaissance, Connaissance {1} : {2}).</DefaultText>
+      <DefaultText>Votre connaissance n'est pas assez élevée pour utiliser ce parchemin (Requiert : {0} en connaissance, Connaissance {1} : {2}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8675,7 +8674,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1728</ID>
-      <DefaultText>Ajout à la réserve : {0}</DefaultText>
+      <DefaultText>Ajout à la réserve : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8725,7 +8724,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1739</ID>
-      <DefaultText>Toutes les propriétés défensives à l'exception de la déviation : {0}</DefaultText>
+      <DefaultText>{0} sur toutes les défenses à l'exception de Déviation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8802,7 +8801,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1754</ID>
-      <DefaultText>{0} est déjà associé à {1}. Supprimer ?</DefaultText>
+      <DefaultText>{0} est déjà associé à {1}. Supprimer ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8837,7 +8836,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1761</ID>
-      <DefaultText>{0} avant de recevoir des dommages</DefaultText>
+      <DefaultText>{0} jusqu'à ce que touché</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9297,7 +9296,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1853</ID>
-      <DefaultText>Les sorts de niveau {0} peuvent maintenant être utilisés Par Affrontement.</DefaultText>
+      <DefaultText>Les sorts de {0} niveau peuvent maintenant être utilisés par rencontre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9827,7 +9826,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1987</ID>
-      <DefaultText>Enchantment</DefaultText>
+      <DefaultText>Enchantement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
