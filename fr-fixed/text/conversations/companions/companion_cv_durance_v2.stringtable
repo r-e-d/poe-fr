@@ -32,8 +32,12 @@ Son visage se crispe. Son sourire vous fait à nouveau penser à un piège à ou
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Vous voyagez seul.", dit-il sur un ton approbateur. "Je préfère vous parler seul à seul. Et déposez vos armes, ésotériques et métalliques."   Son visage se détend. "De toute façon, c'est avec vous que je veux parler."</DefaultText>
-      <FemaleText>"Vous voyagez seule.", dit-il sur un ton approbateur. "Je préfère vous parler seul à seule. Et déposez vos armes, ésotériques et métalliques."   Son visage se détend. "De toute façon, c'est avec vous que je veux parler."</FemaleText>
+      <DefaultText>"Vous voyagez seul.", dit-il sur un ton approbateur. "Je préfère vous parler seul à seul. Et déposez vos armes, ésotériques et métalliques."
+
+Son visage se détend. "De toute façon, c'est avec vous que je veux parler."</DefaultText>
+      <FemaleText>"Vous voyagez seule.", dit-il sur un ton approbateur. "Je préfère vous parler seul à seule. Et déposez vos armes, ésotériques et métalliques."
+
+Son visage se détend. "De toute façon, c'est avec vous que je veux parler."</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -593,8 +597,10 @@ Son visage s'assombrit. "Woedica... doit faire respecter sa propre justice."</De
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Durance se détourne de vous un moment. Tandis qu'il réfléchit, son visage se crispe. Des émotions contradictoires déforment ses traits.</DefaultText>
-      <FemaleText>Durance se détourne de vous un moment. Tandis qu'il réfléchit, son visage se crispe. Des émotions contradictoires déforment ses traits.</FemaleText>
+      <DefaultText>Durance se détourne de vous un moment. Tandis qu'il réfléchit, son visage se crispe. Des émotions contradictoires déforment ses traits.
+
+Enfin, il se tourne vers vous, le visage ferme.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>

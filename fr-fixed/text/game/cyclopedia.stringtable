@@ -955,7 +955,9 @@ Notez que pour la plupart des armures et des créatures, les valeurs de réducti
     <Entry>
       <ID>174</ID>
       <DefaultText>L'interruption détermine la probabilité de neutralisation de l'action de l'adversaire et dépend de la concentration de l'autre personnage.
-Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) pour la comparer à la concentration de la cible (dépend de la détermination). Le jet peut être compris entre 1 et 100. Ce nombre est ajouté à l'interruption et soustrait de la concentration. Si le résultat est supérieur ou égal à 51, la cible subit un coup et son action en cours est retardée. La durée du délai est déterminé par la force de l'interruption, basée sur l'arme ou l'attaque. Une interruption appliquée à un personnage déjà sous le coup d'une interruption dont la durée est plus longue n'aura aucun effet.</DefaultText>
+Le jet utilise la valeur d'interruption de l'attaque (dépend de la Perception) pour la comparer à la concentration de la cible (dépend de la détermination). Le jet peut être compris entre 1 et 100. Ce nombre est ajouté à l'interruption et soustrait de la concentration. Si le résultat est supérieur ou égal à 51, la cible subit un coup et son action en cours est retardée.
+
+La durée du délai est déterminé par la force de l'interruption, basée sur l'arme ou l'attaque. Une interruption appliquée à un personnage déjà sous le coup d'une interruption dont la durée est plus longue n'aura aucun effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

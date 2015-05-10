@@ -2504,7 +2504,8 @@ Armé jusqu'aux dents - Tous les aumauas insulaires bénéficient d'un jeu d'arm
       <ID>496</ID>
       <DefaultText>Les combattants constituent la ligne de front des armées disciplinées des Contrées orientales. Bien que plus répandus dans les cultures dotées d'une structure martiale organisée, les combattants peuvent aussi être mercenaires, gardes du corps ou occuper des postes similaires. L'endurance et la défense de mêlée des combattants sont excellentes.
 
-Capacité de départ : 
+Capacité de départ :
+
 Récupération constante - Les combattants régénèrent continuellement leur endurance à un rythme modeste pendant le combat.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2512,7 +2513,8 @@ Récupération constante - Les combattants régénèrent continuellement leur en
       <ID>497</ID>
       <DefaultText>Les bandits sont de redoutables tueurs, dont la brutalité inspire la crainte. On les rencontre généralement dans les sombres ruelles et au cœur des escarmouches sur le champ de bataille. Imprévisibles et indisciplinés, les bandits interviennent souvent comme troupes de choc ou dans le cadre d'assauts surprises. Leurs violentes attaques sont dévastatrices et démoralisantes pour l'ennemi. Les bandits sont très nombreux dans les villes, où ils sont employés en tant que mercenaires ou gardes du corps.
 
-Capacité de départ : 
+Capacité de départ :
+
 Attaque furtive - Applique un bonus de dégâts aux attaques armées à distance et en mêlée lorsque la cible est victime d'une des afflictions suivantes : aveuglement, prise à revers, entrave, paralysie, pétrification, renversement, immobilisation, assommement ou affaiblissement. S'applique également à toutes les cibles frappées avec une arme au cours des 2 premières secondes du combat.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2520,8 +2522,10 @@ Attaque furtive - Applique un bonus de dégâts aux attaques armées à distance
       <ID>498</ID>
       <DefaultText>Les prêtres sont des adeptes des divinités d'Eora et pratiquent la magie religieuse. Bien que tous les prêtres se consacrent à des dieux spécifiques, ils puisent leur force dans leurs croyances personnelles. Contrairement à la plupart des paladins, les prêtres ont tendance à se concentrer sur la philosophie, sur l'enseignement et sur les relations des organisations religieuses avec le peuple. L'accueil réservé aux prêtres dépend principalement de la manière dont le dieu qu'ils vénèrent est perçu par les habitants de la région.
 
-Capacités de départ : 
+Capacités de départ :
+
 Rayonnement sacré - Renforce légèrement l'endurance des alliés qui entourent le prêtre. Tout vaisseau ennemi présent dans la zone reçoit des dégâts Brûlant et peut être frappé d'effroi. Au fil du jeu, le pouvoir de cette capacité peut évoluer en fonction des réputations du prêtre par rapport aux comportements privilégiés par sa divinité.
+
 Sorts - Les prêtres ont accès à un éventail de sorts offensifs et de soutien. Tous les deux niveaux, ils ont automatiquement accès à un ensemble de sorts supplémentaires. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des prêtres augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2529,8 +2533,10 @@ Sorts - Les prêtres ont accès à un éventail de sorts offensifs et de soutien
       <ID>499</ID>
       <DefaultText>Maîtres de la magie académique, les magiciens étudient les traditions ésotériques ancestrales. Ils constituent un groupe hautement organisé et sont souvent regroupés au sein d'académies ou de guildes qui mènent des recherches sur la magie. Ils apprécient les environnements qui encouragent la recherche, l'expérimentation, le débat et le partage des connaissances. Bon nombre de magiciens accomplis se distinguent par leur excentricité, leur ego et leur insatiable curiosité pour tout ce qui a trait à l'ésotérisme et à l'occulte.
 
-Capacités de départ : 
-Assaut ésotérique - Attaque à moyenne portée qui inflige des dégâts bruts sur une zone réduite et peut étourdir les cibles. 
+Capacités de départ :
+
+Assaut ésotérique - Attaque à moyenne portée qui inflige des dégâts bruts sur une zone réduite et peut étourdir les cibles.
+
 Sorts - Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, ils apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, ils ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2538,7 +2544,8 @@ Sorts - Les magiciens ont accès à un éventail de sorts offensifs et défensif
       <ID>500</ID>
       <DefaultText>Brutes. Fous. Berserkers. Bien que les habitants des villes utilisent souvent le terme "barbare" de manière péjorative, ces guerriers ruraux forcent le respect de leurs communautés pour leur férocité et leur redoutable présence sur le champ de bataille. Les barbares jouent un rôle presque religieux dans certaines cultures, mais dans beaucoup d'endroits, leur nature indisciplinée et intrépide représente l'essence même de ces guerriers.
 
-Capacité de départ : 
+Capacité de départ :
+
 Carnage - Lorsque des barbares frappent avec des attaques de mêlée, ils infligent automatiquement des dégâts réduits à tous les autres ennemis situés à proximité de la cible.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2546,7 +2553,8 @@ Carnage - Lorsque des barbares frappent avec des attaques de mêlée, ils inflig
       <ID>501</ID>
       <DefaultText>Les rôdeurs sont des guerriers des bois particulièrement doués pour la chasse. Toujours accompagnés d'animaux, ils vivent dans les contrées sauvages du monde entier. Indépendants et solitaires, il est rare que les rôdeurs intègrent les rangs de larges formations de combat, mais ils sont souvent employés en tant qu'éclaireurs ou guides.
 
-Capacité de départ : 
+Capacité de départ :
+
 Compagnon animal - Tous les rôdeurs entretiennent une relation étroite avec un compagnon animal. Le compagnon obéit aux ordres de combat du rôdeur et constitue un précieux atout grâce à sa capacité à intervenir. Les compagnons animaux infligent peu de dégâts, mais leur réduction de dégâts est élevée. Le lien qui unit le rôdeur et son compagnon est puissant. Si l'un des deux tombe au combat, l'autre souffre également.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2554,8 +2562,10 @@ Compagnon animal - Tous les rôdeurs entretiennent une relation étroite avec un
       <ID>502</ID>
       <DefaultText>Fondamentalement animistes, les druides exploitent la puissance spirituelle de tous les organismes vivants d'Eora, à savoir les plantes, les animaux et parfois les pierres vivantes. Sans nécessairement adhérer à une religion, les druides sont passionnés par la nature et ses mystères. Dans la plupart des cultures, les druides passent pour être des magiciens, mais chez les Glanfathans, les Naasitaqi et dans bon nombre de cultures rurales, ils peuvent occuper des fonctions alliant influence et autorité.
 
-Capacités de départ : 
-Transformation spirituelle - Tous les druides maîtrisent une forme animale. Cette forme lui confère de puissantes capacités de mêlée ainsi qu'un pouvoir supplémentaire lorsqu'il est transformé. 
+Capacités de départ :
+
+Transformation spirituelle - Tous les druides maîtrisent une forme animale. Cette forme lui confère de puissantes capacités de mêlée ainsi qu'un pouvoir supplémentaire lorsqu'il est transformé.
+
 Sorts - Les druides ont accès à un éventail de sorts offensifs et de soutien. Tous les deux niveaux, ils ont automatiquement accès à un ensemble de sorts supplémentaires. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des druides augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2563,7 +2573,8 @@ Sorts - Les druides ont accès à un éventail de sorts offensifs et de soutien.
       <ID>503</ID>
       <DefaultText>Les paladins sont des zélotes martiaux dévoués à un dieu, à un dirigeant, voire à un mode de vie. Ils sont présents dans toutes les cultures où un groupe fanatique d'individus partageant des idées similaires s'est constitué en société guerrière afin de faire avancer sa cause. Parmi tous ceux qui partagent leur vision du monde, les paladins suscitent le respect, l'admiration, voire une once de peur. Au sein des armées et des compagnies de mercenaires, les paladins occupent souvent des positions de commandement, mais dans le feu de l'action, leur fanatisme tend à occulter la chaîne de commandement et le sens commun.
 
-Capacité de départ : 
+Capacité de départ :
+
 Foi et conviction - Les paladins reçoivent un bonus intrinsèque pour toutes leurs propriétés défensives. Au fil du jeu, la valeur de ce bonus peut évoluer en fonction des réputations du paladin par rapport aux comportements privilégiés par son ordre.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2571,8 +2582,10 @@ Foi et conviction - Les paladins reçoivent un bonus intrinsèque pour toutes le
       <ID>504</ID>
       <DefaultText>Les moines appartiennent aux divers ordres de combat formés à Ixamitl et dans les Contrées orientales au cours des siècles passés. De nombreux ordres monastiques tiennent leurs enseignements du Fondateur tenace, Tletac, mais les centres d'intérêt, la moralité et l'éthique varient considérablement d'une organisation à l'autre. Les gens respectent l'incroyable discipline des moines, qu'ils considèrent cependant comme étranges, imprévisibles, voire complètement fous. Les mercenaires et autres aventuriers ont eux-mêmes du mal à les cerner.
 
-Capacité de départ : 
-Souffrance transcendante - Lorsque les moines ne sont équipés d'aucune arme, leurs attaques sont exceptionnellement puissantes et les dégâts qu'elles infligent augmentent au fil des niveaux. 
+Capacité de départ :
+
+Souffrance transcendante - Lorsque les moines ne sont équipés d'aucune arme, leurs attaques sont exceptionnellement puissantes et les dégâts qu'elles infligent augmentent au fil des niveaux.
+
 Blessures - Lorsque les moines subissent des dégâts, leur douleur génère des blessures. Celles-ci peuvent être utilisées pour renforcer la plupart des capacités spéciales du moine.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2580,7 +2593,8 @@ Blessures - Lorsque les moines subissent des dégâts, leur douleur génère des
       <ID>505</ID>
       <DefaultText>Récemment découverts dans les Contrées orientales, les clairvoyants étaient autrefois appelés "brîshalgwin" ("chasseurs spirituels") par les Glanfathans. Ils sont capables d'entrer en contact avec l'âme d'une personne et de la manipuler en utilisant l'essence de leurs alliés ou ennemis pour canaliser leur magie. Bien que la plupart des clairvoyants continuent de vivre dans les Contrées orientales, ils sont également présents partout dans le monde connu. Avec le temps, ils finissent par se faire accepter, mais continuent de susciter la méfiance, notamment chez les personnes les moins éduquées.
 
-Capacité de départ : 
+Capacité de départ :
+
 Pouvoirs - Les clairvoyants peuvent directement viser des alliés et ennemis avec de puissants effets spirituels. Ces pouvoirs ont un coût en concentration, qu'ils acquièrent en utilisant leur Fouet de l'âme.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2588,8 +2602,10 @@ Pouvoirs - Les clairvoyants peuvent directement viser des alliés et ennemis ave
       <ID>506</ID>
       <DefaultText>Les incantateurs sont présents dans toutes les cultures d'Eora. Bon nombre d'historiens considèrent les incantateurs comme les plus anciens magiciens. Les phrases qu'ils prononcent touchent la mémoire collective des âmes qui les entourent en les obligeant à produire des effets magiques en guise de "reconstitutions". Dans certaines sociétés, les incantateurs forment des groupes organisés de conteurs et de chercheurs, mais généralement, ils sont juste les vénérables vecteurs des traditions populaires locales.
 
-Capacités de départ : 
-Phrases/Incantations - Tous les incantateurs peuvent prononcer en continu des incantations composées de phrases magiques. Celles-ci produisent des effets passifs et permettent à l'incantateur de générer un pouvoir jusqu'à ce qu'il utilise une invocation. 
+Capacités de départ :
+
+Phrases/Incantations - Tous les incantateurs peuvent prononcer en continu des incantations composées de phrases magiques. Celles-ci produisent des effets passifs et permettent à l'incantateur de générer un pouvoir jusqu'à ce qu'il utilise une invocation.
+
 Invocations - Puissants effets magiques que les incantateurs peuvent générer après avoir prononcé le nombre de phrases requis.</DefaultText>
       <FemaleText />
     </Entry>
