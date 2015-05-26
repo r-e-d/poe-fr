@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>En mode de difficulté Voie des damnés, un bonus de 50 % s'applique à la plupart des statistiques des ennemis et les rencontres comptent bien plus d'adversaires. Cette option ne peut pas être modifiée en cours de jeu.</DefaultText>
+      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis et les rencontres comptent bien plus d'adversaires. Attention : cette option ne peut pas être modifiée en cours de jeu !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2447,7 +2447,7 @@ Instincts de chasseur - Les nains australs bénéficient de 15 points de préci
       <ID>488</ID>
       <DefaultText>Les divins de la mort inspirent plus de méfiance que les autres divins. Les étranges excroissances qui couvrent leurs yeux, et parfois même leur visage, leur donnent un air menaçant. Transparentes pour les divins, ces excroissances masquent leurs traits pour les autres. Les divins de la mort sont souvent tués à la naissance car de nombreuses cultures considèrent qu'ils portent malheur. 
 
-Vecteur de mort - Lorsque les divins de la mort attaquent un ennemi dont l'endurance est inférieure ou égale à 15 %, les dégâts infligés sont accrus.</DefaultText>
+Vecteur de mort - Lorsque les divins de la mort attaquent un ennemi dont l'endurance est inférieure ou égale à 25 %, les dégâts infligés sont accrus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3755,7 +3755,7 @@ Invocations - Puissants effets magiques que les incantateurs peuvent générer a
     </Entry>
     <Entry>
       <ID>740</ID>
-      <DefaultText>Plus ancien ordre paladin au monde, les Darcozzi Paladini ont vu le jour en tant que gardes du palais Darcozzi de la Grande Vailia il y a plus de 2 000 ans. Depuis le déclin de la Grande Vailia, les Darcozzi Paladini sont devenus les protecteurs et les ambassadeurs de l'immense famille Darcozzi ainsi que de la culture ancestrale de Vailia. Dispersés, il arrive que les Darcozzi Paladini s'affrontent suite aux machinations de la famille Darcozzi. Les paladins de l'ordre sont réputés pour leur bon sens et leur amour de la vie.</DefaultText>
+      <DefaultText>Plus ancien ordre paladin au monde, les Darcozzi Paladini ont vu le jour en tant que gardes du palais Darcozzi de la Grande Vailia il y a plus de 2000 ans. Depuis le déclin de la Grande Vailia, les Darcozzi Paladini sont devenus les protecteurs et les ambassadeurs de l'immense famille Darcozzi ainsi que de la culture ancestrale de Vailia. Dispersés, il arrive que les Darcozzi Paladini s'affrontent suite aux machinations de la famille Darcozzi. Les paladins de l'ordre sont réputés pour leur bon sens et leur amour de la vie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7739,7 +7739,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1540</ID>
-      <DefaultText>Invoquer 1 de : {0}</DefaultText>
+      <DefaultText>Invoquer un de : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

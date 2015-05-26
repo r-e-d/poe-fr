@@ -4426,7 +4426,7 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>Propulse le moine vers la cible à la vitesse de l'éclair en frappant tous les ennemis présents dans un rayon de 2 mètres, en ignorant les attaques d'engagement et de désengagement et en conférant un bonus à toutes les défenses pendant le déplacement. Une frappe réussie réduit toutes les défenses de l'ennemi concerné.</DefaultText>
+      <DefaultText>Propulse le moine vers la cible à la vitesse de l'éclair en frappant tous les ennemis présents sur son chemin, infligeant d'important dégâts contondants. Une frappe réussie réduit toutes les défenses de l'ennemi concerné.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4476,7 +4476,7 @@
     </Entry>
     <Entry>
       <ID>912</ID>
-      <DefaultText>Chaque attaque à distance lancée par le rôdeur est d'une force telle qu'elle atteint directement la première cible et frappe une seconde derrière elle (selon un arc de 20 degrés) en infligeant moins de dégâts à cette dernière.</DefaultText>
+      <DefaultText>Chaque attaque à distance lancée par le rôdeur est d'une force telle qu'elle atteint directement la première cible et frappe une seconde derrière elle en infligeant moins de dégâts à cette dernière.</DefaultText>     
       <FemaleText />
     </Entry>
     <Entry>
