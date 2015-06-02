@@ -417,7 +417,7 @@
     <Entry>
       <ID>82</ID>
       <DefaultText>Humain</DefaultText>
-      <FemaleText />
+      <FemaleText>Humaine</FemaleText>
     </Entry>
     <Entry>
       <ID>83</ID>
@@ -427,7 +427,7 @@
     <Entry>
       <ID>84</ID>
       <DefaultText>Nain</DefaultText>
-      <FemaleText />
+      <FemaleText>Naine</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -437,17 +437,17 @@
     <Entry>
       <ID>86</ID>
       <DefaultText>Orlan</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlane</FemaleText>
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>Divin</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>Humains</DefaultText>
-      <FemaleText />
+      <FemaleText>Humaines</FemaleText>
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -457,7 +457,7 @@
     <Entry>
       <ID>90</ID>
       <DefaultText>Nains</DefaultText>
-      <FemaleText />
+      <FemaleText>Naines</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -467,12 +467,12 @@
     <Entry>
       <ID>92</ID>
       <DefaultText>Orlans</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlanes</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>Divins</DefaultText>
-      <FemaleText />
+      <FemaleText>Divines</FemaleText>
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -1202,42 +1202,42 @@
     <Entry>
       <ID>239</ID>
       <DefaultText>Nain des montagnes</DefaultText>
-      <FemaleText />
+      <FemaleText>Naine des montagnes</FemaleText>
     </Entry>
     <Entry>
       <ID>240</ID>
       <DefaultText>Nain austral</DefaultText>
-      <FemaleText />
+      <FemaleText>Naine australe</FemaleText>
     </Entry>
     <Entry>
       <ID>241</ID>
       <DefaultText>Divin de la mort</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine de la mort</FemaleText>
     </Entry>
     <Entry>
       <ID>242</ID>
       <DefaultText>Divin du feu</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine du feu</FemaleText>
     </Entry>
     <Entry>
       <ID>243</ID>
       <DefaultText>Divin de la lune</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine de la lune</FemaleText>
     </Entry>
     <Entry>
       <ID>244</ID>
       <DefaultText>Orlan du foyer</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlane du foyer</FemaleText>
     </Entry>
     <Entry>
       <ID>245</ID>
       <DefaultText>Orlan sauvage</DefaultText>
-      <FemaleText />
+      <FemaleText>Orlane sauvage</FemaleText>
     </Entry>
     <Entry>
       <ID>246</ID>
       <DefaultText>Aumaua côtier</DefaultText>
-      <FemaleText />
+      <FemaleText>Aumaua côtière</FemaleText>
     </Entry>
     <Entry>
       <ID>247</ID>
@@ -1252,7 +1252,7 @@
     <Entry>
       <ID>249</ID>
       <DefaultText>Combattant</DefaultText>
-      <FemaleText />
+      <FemaleText>Combattante</FemaleText>
     </Entry>
     <Entry>
       <ID>250</ID>
@@ -1262,12 +1262,12 @@
     <Entry>
       <ID>251</ID>
       <DefaultText>Prêtre</DefaultText>
-      <FemaleText />
+      <FemaleText>Prêtresse</FemaleText>
     </Entry>
     <Entry>
       <ID>252</ID>
       <DefaultText>Magicien</DefaultText>
-      <FemaleText />
+      <FemaleText>Magicienne</FemaleText>
     </Entry>
     <Entry>
       <ID>253</ID>
@@ -1277,12 +1277,12 @@
     <Entry>
       <ID>254</ID>
       <DefaultText>Rôdeur</DefaultText>
-      <FemaleText />
+      <FemaleText>Rôdeuse</FemaleText>
     </Entry>
     <Entry>
       <ID>255</ID>
       <DefaultText>Druide</DefaultText>
-      <FemaleText />
+      <FemaleText>Druidesse</FemaleText>
     </Entry>
     <Entry>
       <ID>256</ID>
@@ -1292,22 +1292,22 @@
     <Entry>
       <ID>257</ID>
       <DefaultText>Moine</DefaultText>
-      <FemaleText />
+      <FemaleText>Moniale</FemaleText>
     </Entry>
     <Entry>
       <ID>258</ID>
       <DefaultText>Clairvoyant</DefaultText>
-      <FemaleText />
+      <FemaleText>Clairvoyante</FemaleText>
     </Entry>
     <Entry>
       <ID>259</ID>
       <DefaultText>Chanteur</DefaultText>
-      <FemaleText />
+      <FemaleText>Chanteuse</FemaleText>
     </Entry>
     <Entry>
       <ID>260</ID>
       <DefaultText>Divin de la nature</DefaultText>
-      <FemaleText />
+      <FemaleText>Divine de la nature</FemaleText>
     </Entry>
     <Entry>
       <ID>261</ID>
@@ -7504,7 +7504,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1493</ID>
-      <DefaultText>Décalage infobulles</DefaultText>
+      <DefaultText>Délai infobulles</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9786,7 +9786,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1978</ID>
-      <DefaultText>Show News</DefaultText>
+      <DefaultText>Montrer News</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9801,7 +9801,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1981</ID>
-      <DefaultText>If enabled, show the latest news on the Main Menu.</DefaultText>
+      <DefaultText>Si cette option est activée, les dernières nouvelles seront affichées dans le menu principal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9811,12 +9811,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1983</ID>
-      <DefaultText>Voice Frequency</DefaultText>
+      <DefaultText>Fréquence des voix</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1984</ID>
-      <DefaultText>Determines how frequently companions and player characters will play their voice cues. </DefaultText>
+      <DefaultText>Permet de déterminer la fréquence avec laquelle les compagnons et le joueur vont utiliser leurs répliques audios.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9861,7 +9861,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1995</ID>
-      <DefaultText>Apply</DefaultText>
+      <DefaultText>Appliquer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9876,12 +9876,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1999</ID>
-      <DefaultText>Auto Level Companions</DefaultText>
+      <DefaultText>Passage automatique des niveaux des compagnons</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2000</ID>
-      <DefaultText>If enabled, this option will auto-level companions to the player's current level following a standard level progression. If disabled, the player may choose their level progression.</DefaultText>
+      <DefaultText>Si cette option est activée, les compagnons rejoindront le groupe avec le même niveau que le joueur en suivant une progression de niveau classique. Sinon, le joueur pourra choisir la progression des niveaux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9891,7 +9891,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2016</ID>
-      <DefaultText>Adjusts the area that allows to loot multiple bodies with a single click. If set to 0m only the selected body will be looted.</DefaultText>
+      <DefaultText>Défini le rayon de la zone permettant de récupérer le butin de plusieurs corps avec un simple clic. Si la valeur est de 0m, seul le butin du corps séléctionné sera obtenu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
