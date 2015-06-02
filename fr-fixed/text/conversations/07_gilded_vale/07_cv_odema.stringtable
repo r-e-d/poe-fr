@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\07_gilded_vale\07_cv_odema</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>39</EntryCount>
+  <EntryCount>38</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -224,11 +224,6 @@ Il ajoute avec un clin d'œil : "Enfin, c'est ce que j'ai entendu dire."</Defaul
     <Entry>
       <ID>49</ID>
       <DefaultText>"Et par les dieux, restez avec Calisca. Je ne l'ai pas envoyée avec vous pour que vous vous échappiez à la première occasion."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>50</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

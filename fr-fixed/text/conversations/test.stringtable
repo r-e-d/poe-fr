@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\test</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>64</EntryCount>
+  <EntryCount>62</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -288,42 +288,32 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText />
+      <DefaultText>Test Bank Node</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 81</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText />
+      <DefaultText>Child 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText />
+      <DefaultText>Child 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText />
+      <DefaultText>Child 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>86</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>87</ID>
-      <DefaultText />
+      <DefaultText>End Bank Test</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\poi\poi_bs_blood_pool</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
+  <EntryCount>8</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -37,6 +37,11 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>"Il y a des esprits ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

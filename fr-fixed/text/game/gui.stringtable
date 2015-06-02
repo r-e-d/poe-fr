@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1964</EntryCount>
+  <EntryCount>1968</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -9820,11 +9820,6 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1985</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1987</ID>
       <DefaultText>Enchantement</DefaultText>
       <FemaleText />
@@ -9901,7 +9896,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2018</ID>
-      <DefaultText />
+      <DefaultText>Usused points will carry to the next level</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9913,6 +9908,31 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <ID>2020</ID>
       <DefaultText>Defenders: {0}</DefaultText>
       <FemaleText />
-    </Entry>   
+    </Entry>
+    <Entry>
+      <ID>2025</ID>
+      <DefaultText>Requires at least {0} in combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2036</ID>
+      <DefaultText>, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2049</ID>
+      <DefaultText>{0} cannot be unequipped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2059</ID>
+      <DefaultText>Trapper</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2104</ID>
+      <DefaultText>Animal Companion</DefaultText>
+      <FemaleText />
+    </Entry> 
   </Entries>
 </StringTableFile>

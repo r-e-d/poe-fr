@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\test</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>15</EntryCount>
+  <EntryCount>19</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12,6 +12,16 @@
     <Entry>
       <ID>1</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>End State Node 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>End State Node 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,6 +87,16 @@
     <Entry>
       <ID>30004</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Test Alternate Description 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Test Alternate Description 2</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
