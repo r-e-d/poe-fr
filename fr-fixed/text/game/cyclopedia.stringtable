@@ -1561,7 +1561,7 @@ Cela signifie que toutes les statistiques des armes s'appliquent encore, y compr
     <Entry>
       <ID>289</ID>
       <DefaultText>Pillars of Eternity a été rendu possible par la générosité de milliers de contributeurs, et nombreux sont ceux qui ont contribué au contenu du jeu définitif.
-	  
+
 Les PNJ avec des noms sur plaques dorés ont été conçus par nos contributeurs. Interagir avec eux vous permettra de vivre l'histoire de chacun.
 
 Les icones en forme de pierres tombales indiquent un memorial. Ce sont des messages personnalisés écrits par nos contributeurs. Beaucoup de ces messages « briseront le quatrième mur », ainsi les joueurs désirant une immersion totale souhaiteront éviter de cliquer dessus.</DefaultText>
@@ -1580,7 +1580,7 @@ Les icones en forme de pierres tombales indiquent un memorial. Ce sont des messa
     <Entry>
       <ID>292</ID>
       <DefaultText>Énormément de sorts et de capacités de zone peuvent blesser les ennemis comme les alliés.
-		  
+
 Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera tout le monde dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
 
 Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affectera pas si ceux-ci sont dans le cercle externe engendré par une forte intelligence. Vous pouvez utiliser ce cercle externe pour frapper les ennemis sans blesser vos alliés.</DefaultText>
@@ -1593,32 +1593,32 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Spellbind</DefaultText>
+      <DefaultText>Ensorcellement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>An item with the spellbind property allows an ability or spell to be cast while the item is equipped.</DefaultText>
+      <DefaultText>Un objet avec la propriété ensorcellement permet d'utiliser une capacité ou un sort pendant que l'objet est équipé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Spell Holding</DefaultText>
+      <DefaultText>Sort associé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Items with the spell holding property will automatically trigger the listed ability or spell when the user of the item is Crit in combat. Spell holding will trigger no more than 2/encounter.</DefaultText>
+      <DefaultText>Les objets avec la propriété sort associé vont automatiquement activer la capacité ou le sort indiqué lorsque le porteur de l'objet subit un critique en combat. Sort associé ne peut se déclencher plus de 2 fois par rencontre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Spell Striking</DefaultText>
+      <DefaultText>Frappe magique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Weapons with the spell striking property will trigger the listed or ability or spell when the weapon's wielder scores a Crit against an enemy. Spell striking may only trigger 1/encounter.</DefaultText>
+      <DefaultText>Les armes avec la propriété frappe magique vont activer la capacité ou le sort indiqué lorsque le porteur de l'arme inflige un critique à un enemie. Frappe magique ne peut se déclencher qu'1 fois par rencontre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
