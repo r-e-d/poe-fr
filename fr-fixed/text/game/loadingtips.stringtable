@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Le bestiaire contient l'ensemble des informations que vous avez déverrouillées sur tous les types de créatures que vous avez combattus. Plus vous battez de créatures, plus le nombre d'informations déverrouillées augmente dans chaque entrée.</DefaultText>
+      <DefaultText>Le bestiaire contient l'ensemble des informations que vous avez déverrouillées sur tous les types de créatures que vous avez combattus. Plus vous éliminez de créatures, plus le nombre d'informations déverrouillées augmente dans chaque entrée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,12 +436,12 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Cliquer sur un objet dans un conteneur en appuyant sur "shift" le placera directement dans votre réserve.</DefaultText>
+      <DefaultText>Cliquez sur un objet situé dans un conteneur en maintenant la touche Maj enfoncée pour le déplacer directement vers votre réserve.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Pour créer un raccourci sur un talent, pointez-le avec la souris et appuyer la touche choisie.</DefaultText>
+      <DefaultText>Pour associer un raccourci clavier à une capacité, positionnez le curseur de la souris sur le bouton de celle-ci et appuyez sur la touche de raccourci de votre choix.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

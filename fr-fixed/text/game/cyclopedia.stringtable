@@ -482,8 +482,11 @@ Les xaurips vénèrent les dragons et établissent leurs communautés autour des
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>La Précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par les talents et autres effets actifs, tels que les sorts ou les objets. En cas d'attaque, la Précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la Précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un Coup ou un Critique et moins de chances de se traduire par une Éraflure ou un Échec.
-Toute compétence ou talent qui n'utilise pas d'arme dans l'attaque gagne un petit bonus de Précision basé sur le niveau du personnage.</DefaultText>
+      <DefaultText>La précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par les talents et autres effets actifs, tels que les sorts ou les objets. En cas d'attaque, la précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un Coup ou un Critique et moins de chances de se traduire par une Éraflure ou un Échec.
+Toute compétence ou talent qui n'utilise pas d'arme lors de l'attaque gagne un petit bonus de précision basé sur le niveau du personnage.</DefaultText>
+
+      <DefaultText>Accuracy is part of almost every attack. It influences how likely the attack is to affect the target. Accuracy is defined primarily by a character's class and level but it is also influenced by Talents and other active effects, such as spells or items. When an attack is made, the Accuracy is compared to the appropriate defense on a target to determine how the attack roll will be modified. If Accuracy is above the target's defense, it will be more likely to result in a Hit or Crit, less likely to result in a Graze or Miss.
+
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +496,7 @@ Toute compétence ou talent qui n'utilise pas d'arme dans l'attaque gagne un pet
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>La déviation correspond à la défense utilisée pour résister à des attaques de mêlée et des attaques à distance directe contre le personnage situé en dehors de la zone d'effet (ZE). Elle dépend de la classe, du niveau, de la perception et la résolution du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
+      <DefaultText>La déviation correspond à la défense utilisée pour résister aux attaques de mêlée et aux attaques à distance directe contre le personnage situé en dehors de la zone d'effet. Elle dépend de la classe, du niveau, de la perception et la résolution du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -954,10 +957,10 @@ Notez que pour la plupart des armures et des créatures, les valeurs de réducti
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>L'interruption détermine la probabilité qu'une attaque a de retarder la prochaine action de l'adversaire.
-Le jet utilise la valeur d'interruption de l'attaquant (dépend de la Perception) pour la comparer à la concentration de la cible (dépend de la détermination). Un jet entre 1 et 100 est effectué, auquel est ajouté l'interruption. Si le résultat est supérieur ou égal à la concentration, la cible subit un coup et son action en cours est retardée.
+      <DefaultText>L'interruption détermine la probabilité selon laquelle une attaque peut retarder l'action actuelle ou suivante de l'adversaire.
+Le jet utilise la valeur d'interruption de l'attaquant (dérivée de la perception) pour la comparer à la concentration de la cible (dérivée de la détermination). Un jet entre 1 et 100 est effectué, auquel est ajouté l'interruption. Si le résultat est supérieur ou égal à la concentration, la cible subit un coup et son action en cours est retardée.
 
-La durée du délai est déterminé par la force de l'interruption, basée sur l'arme ou l'attaque. Une interruption appliquée à un personnage déjà sous le coup d'une interruption dont la durée est plus longue n'aura aucun effet.</DefaultText>
+La durée de ce retardement dépend de la force de l'interruption, comme indiqué sur l'arme ou l'attaque. Une interruption appliquée à un personnage déjà sous le coup d'une interruption de plus longue durée n'aura aucun effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1520,7 +1523,7 @@ Cela signifie que toutes les statistiques des armes s'appliquent encore, y compr
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>Savoir</DefaultText>
+      <DefaultText>Connaissance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1535,7 +1538,7 @@ Cela signifie que toutes les statistiques des armes s'appliquent encore, y compr
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Raccourcis</DefaultText>
+      <DefaultText>Raccourcis clavier</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1550,26 +1553,26 @@ Cela signifie que toutes les statistiques des armes s'appliquent encore, y compr
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Cliquer sur un objet d'un conteneur en appuyant sur la touche majuscule le déplacera directement dans votre réserve.</DefaultText>
+      <DefaultText>Cliquez sur un objet situé dans un conteneur en maintenant la touche Maj enfoncée pour le déplacer directement vers votre réserve.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>Vous pouvez créer un raccourci de n'importe quelle capacité en plaçant le curseur par dessus son bouton et en appuyant sur la touche de raccourci désirée.</DefaultText>
+      <DefaultText>Pour associer un raccourci clavier à une capacité, positionnez le curseur de la souris sur le bouton de celle-ci et appuyez sur la touche de raccourci de votre choix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Pillars of Eternity a été rendu possible par la générosité de milliers de contributeurs, et nombreux sont ceux qui ont contribué au contenu du jeu définitif.
+      <DefaultText>Pillars of Eternity a pu voir le jour grâce à la générosité de milliers de contributeurs, dont beaucoup ont participé à l'élaboration du contenu du jeu.  
 
-Les PNJ avec des noms sur plaques dorés ont été conçus par nos contributeurs. Interagir avec eux vous permettra de vivre l'histoire de chacun.
+Les PNJ avec des noms sur plaques dorés ont été conçus par nos contributeurs. L'interaction avec ces personnages vous permettra de découvrir leur histoire.
 
 Les icones en forme de pierres tombales indiquent un memorial. Ce sont des messages personnalisés écrits par nos contributeurs. Beaucoup de ces messages « briseront le quatrième mur », ainsi les joueurs désirant une immersion totale souhaiteront éviter de cliquer dessus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Cliquer en maintenant la touche majuscule enfoncée ajoute une série d'action ou de points de passage en file d'attente. Ceux-ci seront effectués dans l'ordre.</DefaultText>
+      <DefaultText>Cliquer en maintenant la touche Maj enfoncée ajoute une série d'action ou de points de passage en file d'attente. Ceux-ci seront effectués dans l'ordre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1578,7 +1581,7 @@ Les icones en forme de pierres tombales indiquent un memorial. Ce sont des messa
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>292</ID>
+      <ID>292</ID>    
       <DefaultText>Énormément de sorts et de capacités de zone peuvent blesser les ennemis comme les alliés.
 
 Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera tout le monde dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
@@ -1623,7 +1626,7 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Stags have been an integral part of Aedyran and Glanfathan cultures for centuries. They are hunted for their horns, hide, and meat, revered for their power and speed. Does and fawns typically pose no problems for hunters and travelers, but the great stags of the Dyrwood are known for being particularly aggressive.</DefaultText>
+      <DefaultText>Les cerfs font partie intégrante des cultures ancestrales aedyrane et glanfathane. Ils sont chassés pour leurs bois, leur peau et leur viande, et vénérés pour leur puissance et leur rapidité. Les biches et les faons ne posent généralement aucun problème aux chasseurs et aux voyageurs, mais les grands cerfs de Dyrwood sont réputés pour être particulièrement agressifs.</DefaultText>
       <FemaleText />
     </Entry>    
   </Entries>

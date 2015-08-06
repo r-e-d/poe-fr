@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis et les rencontres comptent bien plus d'adversaires. Attention : cette option ne peut pas être modifiée en cours de jeu !</DefaultText>
+      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis et les rencontres comptent bien plus d'adversaires. Attention : cette option ne peut pas être modifiée en cours de jeu ! Elle est prévue uniquement pour les joueurs qui souhaitent se lancer dans les rencontres les plus difficiles !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,12 +816,12 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Le niveau « Facile » requiert un minimum de microgestion et pardonne facilement les erreurs de combat.</DefaultText>
+      <DefaultText>Le niveau « Facile » ne requiert qu'un minimum de microgestion et pardonne facilement les erreurs de combat. Il est VIVEMENT CONSEILLÉ aux joueurs débutants ou à ceux qui n'ont pas participé à des jeux de rôles en groupe et en temps réel depuis longtemps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Le niveau « Normal » requiert stratégie et efficacité, mais pardonne quelques erreurs de combat.</DefaultText>
+      <DefaultText>Le niveau « Normal » requiert stratégie et efficacité, mais pardonne quelques erreurs de combat. Il N'est PAS conseillé aux personnes qui n'ont jamais participé à des jeux de rôles en groupe et en temps réel !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3220,7 +3220,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>La bibliothèque de Caed Nua abrite d'innombrables ouvrages de légendes anciennes. Renforcer la bibliothèque confère un bonus de légende en cas de repos à Brighthollow.</DefaultText>
+      <DefaultText>La bibliothèque de Caed Nua abrite d'innombrables ouvrages de légendes anciennes. Renforcer la bibliothèque confère un bonus de connaissance en cas de repos à Brighthollow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3230,7 +3230,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>La salle des métiers fournit à la forteresse les armes dont elle a besoin pour se défendre. Renforcer cette salle confère un bonus de dextérité en cas de repos à Brighthollow.</DefaultText>
+      <DefaultText>La restauration de la salle des métiers vous permet d'armer votre forteresse en vous conférant un marchand d'armes et d'armures ainsi qu'un bonus de dextérité en cas de repos à Brighthollow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3240,7 +3240,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>La salle de l'artificier renferme les nouveaux dispositifs de Caed Nua. Réparer cette salle confère un bonus à la compétence de mécanique en cas de repos à Brighthollow.</DefaultText>
+      <DefaultText>La salle de l'artificier renferme les nouveaux dispositifs. Sa restauration vous permet d'acheter des pièges et confère un bonus à votre compétence de mécanique en cas de repos à Brighthollow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3260,7 +3260,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Acheter des étals permet à un marchand de vendre divers articles dans votre grande salle.</DefaultText>
+      <DefaultText>L'achat d'étals permet à un marchand de vendre divers articles dans votre grande salle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3270,7 +3270,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>La boutique de curiosités vend différents objets et créatures aussi curieux qu'exotiques. Renforcer cette boutique génère une partie de créature aléatoire à chaque tour.</DefaultText>
+      <DefaultText>Comme son nom l'indique, la boutique de curiosités vend toutes sortes de curiosités. Elle vous permet d'acheter des parties de créatures exotiques et génère une partie de créature aléatoire à chaque tour au sein du trésor de la forteresse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3290,7 +3290,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>643</ID>
-      <DefaultText>La chapelle est le centre religieux de la forteresse. Renforcer la chapelle confère un bonus de détermination en cas de repos à Brighthollow.</DefaultText>
+      <DefaultText>La chapelle est le centre religieux de la forteresse. Elle vous permet d'acheter des parchemins et vous confère un bonus de détermination en cas de repos à Brighthollow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3310,7 +3310,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Renforcer le jardin botanique permet à votre forteresse de générer une plante aléatoire à chaque tour.</DefaultText>
+      <DefaultText>Le renforcement du jardin botanique permet à votre forteresse de générer une plante aléatoire à chaque tour au sein du trésor de la forteresse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4880,7 +4880,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Restaurer Brighthollow vous permettra de passer la nuit ici. D'autres améliorations peuvent débloquer des bonus de repos.</DefaultText>
+      <DefaultText>La restauration de Brighthollow vous permettra de vous y reposer. D'autres améliorations peuvent déverrouiller des bonus de repos sur place.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7420,12 +7420,12 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1477</ID>
-      <DefaultText>Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
+      <DefaultText>Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
-      <FemaleText>Toutes les rôdeuses ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet à la rôdeuse et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que la rôdeuse attaque à distance.
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Lorsqu'un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
+      <FemaleText>Toutes les rôdeuses ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet à la rôdeuse et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que la rôdeuse attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeuses dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si une rôdeuse ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si une rôdeuse est tuée, le compagnon animal meurt immédiatement de douleur.</FemaleText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeuses dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si une rôdeuse ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Si une rôdeuse est tuée, son compagnon animal meurt immédiatement de chagrin.</FemaleText>
     </Entry>
     <Entry>
       <ID>1478</ID>
@@ -7669,8 +7669,8 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1526</ID>
-      <DefaultText>Le Gardien est mort.</DefaultText>
-      <FemaleText>La Gardienne est morte.</FemaleText>
+      <DefaultText>Vous êtes mort.</DefaultText>
+      <FemaleText>Vous êtes morte.</FemaleText>
     </Entry>
     <Entry>
       <ID>1527</ID>
@@ -9681,7 +9681,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1938</ID>
-      <DefaultText>Savoir</DefaultText>
+      <DefaultText>Connaissance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9701,7 +9701,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1944</ID>
-      <DefaultText>Number of Enemies for Auto-Slow:</DefaultText>
+      <DefaultText>Nombre d'ennemis pour le mode Lent-auto :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9721,7 +9721,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1948</ID>
-      <DefaultText>Rayon de la zone de butin (mètres)</DefaultText>
+      <DefaultText>Rayon de pillage de la zone (mètres)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9761,7 +9761,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1961</ID>
-      <DefaultText>Ajuste la qualité des graphismes du jeu. Abaisser ce paramètre si votre jeu est ralenti.</DefaultText>
+      <DefaultText>Ajuste la qualité des graphismes du jeu. Abaisser ce paramètre si votre jeu est lent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9776,22 +9776,22 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText>Augmente automatiquement le niveau des compagnons quand ils rejoignent le groupe pour la première fois. Désactiver cette option afin d'augmenter manuellement vos compagnons à partir du 1er niveau.</DefaultText>
+      <DefaultText>Permet d'adapter automatiquement le niveau des compagnons lorsqu'ils rejoignent le groupe. Désactivez cette option pour faire évoluer les compagnons depuis le 1er niveau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1977</ID>
-      <DefaultText>News</DefaultText>
+      <DefaultText>Actualités</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1978</ID>
-      <DefaultText>Montrer News</DefaultText>
+      <DefaultText>Afficher les actualités</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1979</ID>
-      <DefaultText>Stealing</DefaultText>
+      <DefaultText>Vol</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9806,7 +9806,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1982</ID>
-      <DefaultText>{0} consumes {1}.</DefaultText>
+      <DefaultText>{0} consume {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9826,7 +9826,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1988</ID>
-      <DefaultText>{0} chance to reflect Ranged attacks</DefaultText>
+      <DefaultText>{0} de chance de renvoyer les attaques à distance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9836,27 +9836,27 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1990</ID>
-      <DefaultText>Nom</DefaultText>
+      <DefaultText>Nom (ordre décroissant)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1991</ID>
-      <DefaultText>Prix (croissant)</DefaultText>
+      <DefaultText>Prix (ordre croissant)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1992</ID>
-      <DefaultText>Prix (décroissant)</DefaultText>
+      <DefaultText>Prix (ordre décroissant)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1993</ID>
-      <DefaultText>Enchantements (croissant)</DefaultText>
+      <DefaultText>Enchantements (ordre croissant)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1994</ID>
-      <DefaultText>Enchantements (décroissant)</DefaultText>
+      <DefaultText>Enchantements (ordre décroissant)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9866,12 +9866,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1997</ID>
-      <DefaultText>Frame Rate Max</DefaultText>
+      <DefaultText>Fréquence d'images max</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1998</ID>
-      <DefaultText>This will set a maximum frame rate the game will run at. Use this setting to set a maximum frame rate the game can run at to assist with overheating. This may also be limited by your monitor's refresh rate if vsync is enabled. </DefaultText>
+      <DefaultText>Permet de définir la fréquence d'images maximum à utiliser pour exécuter le jeu. Utilisez ce paramètre pour définir la fréquence d'images maximum du jeu afin d'éviter une surchauffe. Ce paramètre peut également être limité par la fréquence de rafraîchissement de votre moniteur si la synchronisation verticale est activée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9886,17 +9886,17 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2015</ID>
-      <DefaultText>Examine</DefaultText>
+      <DefaultText>Examiner</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2016</ID>
-      <DefaultText>Défini le rayon de la zone permettant de récupérer le butin de plusieurs corps avec un simple clic. Si la valeur est de 0m, seul le butin du corps séléctionné sera obtenu.</DefaultText>
+      <DefaultText>Permet de délimiter la zone où plusieurs corps peuvent être fouillés en un seul clic. Si ce paramètre est défini sur 0 m, seul le corps sélectionné sera fouillé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2018</ID>
-      <DefaultText>Usused points will carry to the next level</DefaultText>
+      <DefaultText>Les points inutilisés seront disponibles au niveau suivant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9911,7 +9911,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2025</ID>
-      <DefaultText>Requires at least {0} in combat</DefaultText>
+      <DefaultText>Requiert au moins {0} au combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9921,17 +9921,17 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2049</ID>
-      <DefaultText>{0} cannot be unequipped.</DefaultText>
+      <DefaultText>Impossible d'annuler l'équipement de : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2059</ID>
-      <DefaultText>Trapper</DefaultText>
+      <DefaultText>Trappeur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2104</ID>
-      <DefaultText>Animal Companion</DefaultText>
+      <DefaultText>Compagnon animal</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

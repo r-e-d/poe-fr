@@ -1276,7 +1276,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Fait apparaître trois missiles ensorceleurs qui infligent des dégâts contondants à la cible.</DefaultText>
+      <DefaultText>Fait apparaître trois projectiles magiques qui infligent des dégâts contondants à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Le combattant refuse de s'avouer vaincu. Après avoir été assommé, le combattant se relève avec une partie de son endurance ainsi qu'une augmentation temporaire de ses défenses et de sa réduction de dégâts.</DefaultText>
+      <DefaultText>Le combattant refuse de s'avouer vaincu. Après avoir été renversé, le combattant se relève avec une partie de son endurance ainsi qu'une augmentation temporaire de ses défenses et de sa réduction de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4016,7 +4016,7 @@
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>De la pourriture émane des mains du druide, ce qui inflige des dégâts corrosifs immédiats, puis des dégâts progressifs aux personnages présents dans la zone d'effet.</DefaultText>
+      <DefaultText>De la pourriture émane des mains du jeteur de sorts, ce qui inflige des dégâts corrosifs immédiats, puis des dégâts progressifs aux personnages présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4416,7 +4416,7 @@
     </Entry>
     <Entry>
       <ID>900</ID>
-      <DefaultText>Invoque le pouvoir de la psyché du moine, ce qui renvoie la moitié des missiles à distance dirigés contre le moine vers leur point de départ.</DefaultText>
+      <DefaultText>Invoque le pouvoir de la psyché du moine, ce qui renvoie la moitié des missiles à distance dirigés contre le moine vers leur point de départ. Seules les attaques manquées peuvent être renvoyées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4426,7 +4426,7 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>Propulse le moine vers la cible à la vitesse de l'éclair en frappant tous les ennemis présents sur son chemin, infligeant d'important dégâts contondants. Une frappe réussie réduit toutes les défenses de l'ennemi concerné.</DefaultText>
+      <DefaultText>En un clin d'œil, le moine ou la moniale se précipite vers une cible éloignée et inflige de redoutables dégâts contondants et pénalités à toutes les défenses aux personnages présents sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4996,29 +4996,29 @@
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>Les antilopes de compagnie bénéficient de défenses naturellement supérieures (déviation, robustesse, réflexes et volonté). 
+      <DefaultText>Les antilopes de compagnie bénéficient de défenses naturellement supérieures (déviation, robustesse, réflexes et volonté).
 
-Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
+Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Lorsqu'un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1017</ID>
-      <DefaultText>Les ours de compagnie bénéficient d'une réduction de dégâts exceptionnellement élevée, ce qui les protège efficacement de tous types de dégâts. 
+      <DefaultText>Les ours de compagnie bénéficient d'une réduction de dégâts exceptionnellement élevée, ce qui les protège efficacement de tous types de dégâts.
 
-Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
+Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Lorsqu'un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1018</ID>
       <DefaultText>Lorsque l'endurance des sangliers de compagnie est inférieure à 50 %, ceux-ci bénéficient d'un bonus de dégâts.
 
-Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
+Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Lorsqu'un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5033,29 +5033,29 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1021</ID>
-      <DefaultText>L'impressionnant rugissement des lions de compagnie peut frapper les ennemis de terreur. 
+      <DefaultText>L'impressionnant rugissement des lions de compagnie peut frapper les ennemis de terreur.
 
-Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la ciblependant que le rôdeur attaque à distance. 
+Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Lorsqu'un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1022</ID>
-      <DefaultText>Les cerfs peuvent déclencher une attaque de mêlée qui inflige des dégâts à tous les ennemis présents dans une zone réduite autour de la cible principale. 
+      <DefaultText>Les cerfs peuvent déclencher une attaque de mêlée qui inflige des dégâts à tous les ennemis présents dans une zone réduite autour de la cible principale.
 
-Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance. 
+Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Lorsqu'un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1023</ID>
       <DefaultText>Les loups de compagnie infligent de lourds dégâts et peuvent plus facilement éviter les attaques de désengagement.
 
-Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon gêne la cible pendant que le rôdeur attaque à distance.
+Tous les rôdeurs ont un lien spirituel fort avec une créature, leur compagnon animal. Ce lien permet au rôdeur et à son compagnon de coordonner leurs attaques et de fondre efficacement sur leur proie. Généralement, le compagnon intervient sur le terrain pendant que le rôdeur attaque à distance.
 
-Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent également une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, le partenaire souffre de Douleur liée, affectant la précision et autres statistiques, jusqu'à ce que l'allié à terre soit ramenée à la vie. Si un rôdeur est tué, le compagnon animal meurt immédiatement de douleur.</DefaultText>
+Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs dépend de leur compagnon animal. Lorsque l'un des deux est blessé, l'autre ressent une intense douleur émotionnelle. Si un rôdeur ou un compagnon animal perd connaissance, son partenaire souffre de Chagrin lié, ce qui affecte différentes statistiques, comme la précision, jusqu'à ce que l'allié à terre soit ramené à la vie. Lorsqu'un rôdeur est tué, son compagnon animal meurt immédiatement de chagrin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5470,7 +5470,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Le barbare délivre une puissante frappe qui inflige des critiques et dégâts critiques supplémentaires. Le carnage n'est pas affecté.</DefaultText>
+      <DefaultText>Le barbare délivre une puissante frappe qui inflige des critiques et dégâts critiques supplémentaires. La capacité Carnage n'est pas concernée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
