@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Si l'endurance d'un personnage est épuisée (0), celui-ci est renversé, mais son endurance peut être totalement régénérée si son camp remporte le combat. Seul le repos permet généralement de régénérer les dégâts de santé. Si la santé est épuisée (0), le personnage est meurtri ou tué.</DefaultText>
+      <DefaultText>Si l'endurance d'un personnage est réduite à 0, celui-ci est renversé, mais son endurance sera totalement régénérée si son camp remporte le combat. Seul le repos permet généralement de régénérer les dégâts de santé. Si la santé est réduite à 0, le personnage est meurtri ou tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
