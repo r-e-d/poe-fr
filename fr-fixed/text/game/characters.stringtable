@@ -2302,7 +2302,7 @@
     <Entry>
       <ID>510</ID>
       <DefaultText>Guerrier</DefaultText>
-      <FemaleText>Guerrière</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>511</ID>
@@ -2822,7 +2822,7 @@
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>Piège Mur de force</DefaultText>
+      <DefaultText>Mur de force</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3757,7 +3757,7 @@
     </Entry>
     <Entry>
       <ID>808</ID>
-      <DefaultText>Brute de Doemenel</DefaultText>
+      <DefaultText>Voyou de Doemenel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3847,7 +3847,7 @@
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>Malfrat de Doemenel</DefaultText>
+      <DefaultText>Voyou de Doemenel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6277,7 +6277,7 @@
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>Piège Mur d'épines</DefaultText>
+      <DefaultText>Mur d'épines</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6417,8 +6417,8 @@
     </Entry>
     <Entry>
       <ID>1345</ID>
-      <DefaultText>Chef des malfrats</DefaultText>
-      <FemaleText>Cheffe des malfrats</FemaleText>
+      <DefaultText>Chef des bandits</DefaultText>
+      <FemaleText>Cheffe des bandits</FemaleText>
     </Entry>
     <Entry>
       <ID>1346</ID>
