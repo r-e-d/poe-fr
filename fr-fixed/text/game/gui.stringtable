@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0} touche {2} pour {3} dégâts {4}s ({1}). {5}</DefaultText>
+      <DefaultText>{0} touche {2} pour {3} dégâts {4}s ({1}){5}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8689,7 +8689,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1731</ID>
-      <DefaultText>({0})</DefaultText>
+      <DefaultText> ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
