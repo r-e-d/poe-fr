@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\maps</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>155</EntryCount>
+  <EntryCount>153</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -766,17 +766,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>168</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>169</ID>
-      <DefaultText />
+      <DefaultText>Flames-That-Whisper Cave 02</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

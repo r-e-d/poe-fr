@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1337</EntryCount>
+  <EntryCount>1333</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Llines « Deux-lèvres »</DefaultText>
+      <DefaultText>Llines « Deux-lèvres »</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Llines « Deux-lèvres »</DefaultText>
+      <DefaultText>Llines « Deux-lèvres »</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,7 +2576,7 @@
     </Entry>
     <Entry>
       <ID>568</ID>
-      <DefaultText>Ellitherion « Galoches-miteuses »</DefaultText>
+      <DefaultText>Ellitherion « Galoches-miteuses »</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3373,7 +3373,7 @@
     <Entry>
       <ID>729</ID>
       <DefaultText>Bottes d'homme mort</DefaultText>
-      <FemaleText>Bottes de femme morte</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>730</ID>
@@ -3383,7 +3383,7 @@
     <Entry>
       <ID>731</ID>
       <DefaultText>Bottes de rôdeur glanfathan</DefaultText>
-      <FemaleText>Bottes de rôdeuse glanfathane</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>732</ID>
@@ -3423,7 +3423,7 @@
     <Entry>
       <ID>741</ID>
       <DefaultText>Manteau de l'infatigable défenseur</DefaultText>
-      <FemaleText>Manteau de l'infatigable défenseuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>742</ID>
@@ -3478,7 +3478,7 @@
     <Entry>
       <ID>752</ID>
       <DefaultText>Torque du chasseur</DefaultText>
-      <FemaleText>Torque de la chasseuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>753</ID>
@@ -3513,7 +3513,7 @@
     <Entry>
       <ID>759</ID>
       <DefaultText>Ceinture du fou</DefaultText>
-      <FemaleText>Ceinture de la folle</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>760</ID>
@@ -3797,7 +3797,7 @@
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>Byne « l'agile »</DefaultText>
+      <DefaultText>Byne « l'agile »</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4382,7 +4382,7 @@
     </Entry>
     <Entry>
       <ID>933</ID>
-      <DefaultText>Shane « le Trembleur » Mulrian</DefaultText>
+      <DefaultText>Shane « le Trembleur » Mulrian</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4617,7 +4617,7 @@
     </Entry>
     <Entry>
       <ID>980</ID>
-      <DefaultText>Maggie Tiller « Douze-Charmes »</DefaultText>
+      <DefaultText>Maggie Tiller « Douze-Charmes »</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4978,7 +4978,7 @@
     <Entry>
       <ID>1052</ID>
       <DefaultText>Manteau du renard et du chasseur</DefaultText>
-      <FemaleText>Manteau de la renarde et de la chasseuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1053</ID>
@@ -5722,7 +5722,7 @@
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Urblat « l'Éventreur »</DefaultText>
+      <DefaultText>Urblat « l'Éventreur »</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5828,7 +5828,7 @@
     <Entry>
       <ID>1227</ID>
       <DefaultText>Manteau d'un prêtre éothasian</DefaultText>
-      <FemaleText>Manteau d'une prêtresse éothasiane</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1228</ID>
@@ -6202,7 +6202,7 @@
     </Entry>
     <Entry>
       <ID>1302</ID>
-      <DefaultText>Thyrsc</DefaultText>
+      <DefaultText>Berolt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6663,26 +6663,6 @@
     <Entry>
       <ID>1425</ID>
       <DefaultText>Assassin</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1436</ID>
-      <DefaultText>Uldric</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1438</ID>
-      <DefaultText>Dehengen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1439</ID>
-      <DefaultText>Garodh</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1440</ID>
-      <DefaultText>Ardhem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

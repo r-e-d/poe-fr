@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1968</EntryCount>
+  <EntryCount>2041</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -157,7 +157,7 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>Verrouillé !</DefaultText>
-      <FemaleText>Verrouillée !</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Cou</DefaultText>
+      <DefaultText>Rob</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,17 +816,17 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Le niveau « Facile » ne requiert qu'un minimum de microgestion et pardonne facilement les erreurs de combat. Il est VIVEMENT CONSEILLÉ aux joueurs débutants ou à ceux qui n'ont pas participé à des jeux de rôles en groupe et en temps réel depuis longtemps.</DefaultText>
+      <DefaultText>Le niveau « Facile » ne requiert qu'un minimum de microgestion et pardonne facilement les erreurs de combat. Il est VIVEMENT CONSEILLÉ aux joueurs débutants ou à ceux qui n'ont pas participé à des jeux de rôles en groupe et en temps réel depuis longtemps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Le niveau « Normal » requiert stratégie et efficacité, mais pardonne quelques erreurs de combat. Il N'est PAS conseillé aux personnes qui n'ont jamais participé à des jeux de rôles en groupe et en temps réel !</DefaultText>
+      <DefaultText>Le niveau « Normal » requiert stratégie et efficacité, mais pardonne quelques erreurs de combat. Il N'est PAS conseillé aux personnes qui n'ont jamais participé à des jeux de rôles en groupe et en temps réel !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Le niveau « Difficile » est adapté aux vétérans du Infinity Engine en quête d'un défi. Survivre requiert une microgestion et une optimisation des statistiques à l'aide des objets, sorts et aptitudes.</DefaultText>
+      <DefaultText>Le niveau « Difficile » est adapté aux vétérans du Infinity Engine en quête d'un défi. Survivre requiert une microgestion et une optimisation des statistiques à l'aide des objets, sorts et aptitudes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,12 +996,12 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Le mode Pause automatique est activé lorsque l'endurance d'un membre du groupe est inférieure à 25 %.</DefaultText>
+      <DefaultText>Pause automatique lorsque l'endurance d'un membre du groupe est inférieure à 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Le mode Pause automatique est activé lorsque la santé d'un membre du groupe est inférieure à 25 %.</DefaultText>
+      <DefaultText>Pause automatique lorsque la santé d'un membre du groupe est inférieure à 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1026,12 +1026,12 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Le jeu est automatiquement mis en pause si l'attaque d'un membre du groupe est inefficace en raison de la valeur de réduction de dégâts de la cible.</DefaultText>
+      <DefaultText>Pause automatique lorsque l'attaque d'un membre du groupe est inéfficace en raison de la valeur de réduction de dégâts de la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Le mode Pause automatique est activé lorsqu'un membre du groupe attaque un ennemi dont la défense dépasse sa précision d'au moins 50 points.</DefaultText>
+      <DefaultText>Pause automatique lorsqu'un membre du groupe attaque un ennemi dont la défense dépasse sa précision d'au moins 50 points.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Jour(s) {7}, Heure(s) {2}</DefaultText>
+      <DefaultText>Jour {7}, Heure {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1476,32 +1476,32 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Le groupe a récupéré {0} de cuivre.</DefaultText>
+      <DefaultText>Vous avez gagné {0} de cuivre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Le groupe a perdu {0} de cuivre.</DefaultText>
+      <DefaultText>Vous avez perdu {0} de cuivre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Le groupe a gagné un objet : {0}.</DefaultText>
+      <DefaultText>Vous avez gagné un objet : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Le groupe a perdu un objet : {0}.</DefaultText>
+      <DefaultText>Vous avez perdu un objet : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Le groupe a gagné un objet : {1}x {0}</DefaultText>
+      <DefaultText>Vous avez gagné un objet ({1}) : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Le groupe a perdu un objet : {1}x {0}</DefaultText>
+      <DefaultText>Vous avez perdu un objet ({1}) : {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1631,7 +1631,7 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>En mode grosses têtes, la tête des personnages est ridiculement disproportionnée par rapport à leur corps. Merci, Josh.</DefaultText>
+      <DefaultText>En mode Grosses têtes, la tête des personnages est ridiculement disproportionnée par rapport à leur corps. Merci, Josh.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>Si cette option est activée, les cercles de sélection seront visibles uniquement en mode pause ou lors du survol du pointeur.</DefaultText>
+      <DefaultText>Si cette option est activée, les cercles de sélection seront visibles uniquement en mode pause pendant un combat ou lors du survol du pointeur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>Interruption {0}, Déviation {1} et Réflexes {2}</DefaultText>
+      <DefaultText>Interruption {0}, Précision{1} et Réflexes {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1896,12 +1896,12 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Durée du voyage</DefaultText>
+      <DefaultText>Temps en voyage</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>Durée du combat</DefaultText>
+      <DefaultText>Temps en combat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,7 +1911,7 @@
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>Ennemi vaincu le plus puissant</DefaultText>
+      <DefaultText>Plus puissant ennemi vaincu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1931,7 +1931,7 @@
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>Dégâts infligés à une même cible le plus important</DefaultText>
+      <DefaultText>Plus grand nombre de dégâts infligés à une même cible</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2050,16 +2050,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>412</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>413</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>414</ID>
       <DefaultText>Déverrouiller cela nécessite la bonne clé.</DefaultText>
       <FemaleText />
@@ -2091,7 +2081,7 @@
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>Cela coûtera {0} pour {1} pour apprendre {2}.</DefaultText>
+      <DefaultText>Cela coûtera {0} pour que {1} apprenne {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2321,7 +2311,7 @@
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>{0}cp</DefaultText>
+      <DefaultText>{0} pc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2361,12 +2351,12 @@
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>La perception représente les sens d'un personnage ainsi que sa capacité instinctive à remarquer des détails. Lors des interactions, elle permet de détecter les mensonges, de formuler un commentaire sur l'apparence d'un observateur ou de remarquer un évènement qui se déroule en arrière-plan. Au combat, elle agit sur les propriétés défensives Déviation et Réflexes et confère un bonus d'interruption.</DefaultText>
+      <DefaultText>La perception représente les sens d'un personnage ainsi que sa capacité instinctive à remarquer des détails. Lors des interactions, elle permet de détecter les mensonges, de formuler un commentaire sur l'apparence d'un observateur ou de remarquer un évènement qui se déroule en arrière-plan. Au combat, elle agit sur la précision, les propriétés défensives déviation et réflexes et confère un bonus d'interruption.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>475</ID>
-      <DefaultText>Les humains (couramment appelés les « gens ») constituent la race principale de Dyrwood, de l'Empire d'Aedyr, de Vailia l'Ancienne et des Républiques de Vailia. Bien que moins imposants que les aumauas, les humains sont réputés pour leur force et leur force de volonté.</DefaultText>
+      <DefaultText>Les humains (couramment appelés les « gens ») constituent la race principale de Dyrwood, de l'Empire d'Aedyr, de Vailia l'Ancienne et des Républiques de Vailia. Bien que moins imposants que les aumauas, les humains sont réputés pour leur force et leur force de volonté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2410,7 +2400,7 @@ Esprit combatif - Une fois par rencontre, 5 secondes après que leur endurance 
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Le Peuple de la savane (ou Natlans) est originaire du sud de l'Équateur et, à l'exception de quelques groupes qui ont migré vers le nord, il n'en a pas bougé pendant plus de dix mille ans. Le terme Natlan signifie littéralement « originaire ». Bien représentés à Readceras, les membres du Peuple de la savane sont rares à Dyrwood et dans les Républiques de Vailia.
+      <DefaultText>Le Peuple de la savane (ou Natlans) est originaire du sud de l'Équateur et, à l'exception de quelques groupes qui ont migré vers le nord, il n'en a pas bougé pendant plus de dix mille ans. Le terme Natlan signifie littéralement « originaire ». Bien représentés à Readceras, les membres du Peuple de la savane sont rares à Dyrwood et dans les Républiques de Vailia.
 
 Esprit combatif - Une fois par rencontre, 5 secondes après que leur endurance passe en-dessous de la barre des 50 %, les représentants de ce peuple reçoivent momentanément des bonus de précision et de dégâts.</DefaultText>
       <FemaleText />
@@ -2480,7 +2470,7 @@ Menace insignifiante - Lors de l'attaque d'une cible également visée par un co
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Les orlans sauvages sont les orlans « primitifs » qui vivaient jadis entre les tropiques, dans les forêts et les jungles les plus denses. Coupés des orlans du foyer pendant un millier d'années, quelques différences génétiques sont rapidement apparues, notamment l'absence de poils sur le visage des orlans du foyer. Les orlans sauvages sont nombreux dans les contrées reculées d'Eir Glanfath. Contrairement aux orlans du foyer, ils sont rares à Dyrwood, Readceras et dans les Républiques de Vailia.
+      <DefaultText>Les orlans sauvages sont les orlans « primitifs » qui vivaient jadis entre les tropiques, dans les forêts et les jungles les plus denses. Coupés des orlans du foyer pendant un millier d'années, quelques différences génétiques sont rapidement apparues, notamment l'absence de poils sur le visage des orlans du foyer. Les orlans sauvages sont nombreux dans les contrées reculées d'Eir Glanfath. Contrairement aux orlans du foyer, ils sont rares à Dyrwood, Readceras et dans les Républiques de Vailia.
 
 Détermination provocatrice - Après avoir été victimes d'une attaque de volonté, les orlans sauvages reçoivent momentanément un bonus pour toutes leurs défenses.</DefaultText>
       <FemaleText />
@@ -2880,7 +2870,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Si cette option est activée, le jeu n'affiche jamais les pointeurs des personnages hors écran.</DefaultText>
+      <DefaultText>Si cette option est activée, le jeu n'affichera jamais les pointeurs des personnages hors écran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2946,11 +2936,6 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     <Entry>
       <ID>574</ID>
       <DefaultText>Phare</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>575</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -3260,7 +3245,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>L'achat d'étals permet à un marchand de vendre divers articles dans votre grande salle.</DefaultText>
+      <DefaultText>Acheter des étals permet à un marchand de vendre divers articles dans votre grande salle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3270,7 +3255,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>Comme son nom l'indique, la boutique de curiosités vend toutes sortes de curiosités. Elle vous permet d'acheter des parties de créatures exotiques et génère une partie de créature aléatoire à chaque tour au sein du trésor de la forteresse.</DefaultText>
+      <DefaultText>Comme son nom l'indique, la boutique de curiosités vend toutes sortes de curiosités. Elle vous permet d'acheter des parties de créatures exotiques et génère une partie de créature aléatoire à chaque tour dans la trésorerie de la forteresse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3310,7 +3295,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Le renforcement du jardin botanique permet à votre forteresse de générer une plante aléatoire à chaque tour au sein du trésor de la forteresse.</DefaultText>
+      <DefaultText>Le renforcement du jardin botanique permet à votre forteresse de générer une plante aléatoire à chaque tour dans la trésorerie de la forteresse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3476,11 +3461,6 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     <Entry>
       <ID>680</ID>
       <DefaultText>Résolution automatique</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>681</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -3650,7 +3630,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>Le plus de Renversement</DefaultText>
+      <DefaultText>Le plus de fois KO</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3670,7 +3650,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>723</ID>
-      <DefaultText>Appelé « Berath » à Aedyr et « Cirono » à Vailia, il s'agit du dieu des cycles, des portes, de la vie et de la mort. Les gens ont coutume de placer ou de graver une effigie de Berath dans l'encadrement des portes, des fenêtres et autres « portails » permettant de passer d'un endroit à un autre  Berath ne dispose que d'un petit clergé, notamment en raison du fait qu'il ne leur parle pas beaucoup. Cependant, Berath a de très nombreux requérants et d'occasionnels fidèles.</DefaultText>
+      <DefaultText>Appelé « Berath » à Aedyr et « Cirono » à Vailia, il s'agit du dieu des cycles, des portes, de la vie et de la mort. Les gens ont coutume de placer ou de graver une effigie de Berath dans l'encadrement des portes, des fenêtres et autres « portails » permettant de passer d'un endroit à un autre  Berath ne dispose que d'un petit clergé, notamment en raison du fait qu'il ne leur parle pas beaucoup. Cependant, Berath a de très nombreux requérants et d'occasionnels fidèles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3760,7 +3740,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>741</ID>
-      <DefaultText>Les Chevaliers du Pacte d'or constituent un ordre de paladins mercenaires prêts à accepter toutes sortes de missions défensives et offensives. Apparus sur la Côte perlée il y a une centaine d'années, ils ont réussi à survivre à la destruction de la nation des nains qui les avaient créés. Les Chevaliers du Pacte d'or ne sont pas particulièrement violents et s'adaptent aux exigences de leurs employeurs. Comme leur nom de suggère, les Chevaliers du Pacte d'or estiment que le paiement relève d'une forme de contrat exécutoire. Ils sont réputés pour leur capacité à ne pas porter de jugements d'ordre moral, leur professionnalisme et leur absence de gaieté.</DefaultText>
+      <DefaultText>Les Chevaliers du Pacte d'or constituent un ordre de paladins mercenaires prêts à accepter toutes sortes de missions défensives et offensives. Apparus sur la Côte perlée il y a une centaine d'années, ils ont réussi à survivre à la destruction de la nation des nains qui les avaient créés. Les Chevaliers du Pacte d'or ne sont pas particulièrement violents et s'adaptent aux exigences de leurs employeurs. Comme leur nom le suggère, les Chevaliers du Pacte d'or estiment que le paiement relève d'une forme de contrat exécutoire. Ils sont réputés pour leur capacité à ne pas porter de jugements d'ordre moral, leur professionnalisme et leur absence de gaieté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3895,7 +3875,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>768</ID>
-      <DefaultText>Nombre de renversement</DefaultText>
+      <DefaultText>Nombre de fois KO</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4320,12 +4300,12 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>853</ID>
-      <DefaultText>Mode reconnaissance activée</DefaultText>
+      <DefaultText>Mode reconnaissance activé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Mode reconnaissance désactivée</DefaultText>
+      <DefaultText>Mode reconnaissance désactivé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4340,7 +4320,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>857</ID>
-      <DefaultText>Activer/désactiver interactions</DefaultText>
+      <DefaultText>Activer/Désactiver interactions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4370,7 +4350,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>Activer/désactiver l'ATH</DefaultText>
+      <DefaultText>Activer/Désactiver l'ATH</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4880,7 +4860,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>La restauration de Brighthollow vous permettra de vous y reposer. D'autres améliorations peuvent déverrouiller des bonus de repos sur place.</DefaultText>
+      <DefaultText>Restaurer Brighthollow vous permettra de passer la nuit ici. D'autres améliorations peuvent débloquer des bonus de repos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4945,7 +4925,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>978</ID>
-      <DefaultText>Si cette option est activée, les commentaires audio des développeurs sont disponibles à certains stades du jeu.</DefaultText>
+      <DefaultText>Si cette option est activée, vous entendrez les commentaires audio des développeurs à certains stades du jeu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4960,7 +4940,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>981</ID>
-      <DefaultText>Mises à jour d'une quête</DefaultText>
+      <DefaultText>Mises à jour des quêtes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5680,7 +5660,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} {1}</DefaultText>
+      <DefaultText>Dégâts {0} {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5840,7 +5820,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1159</ID>
-      <DefaultText>Invoquer une arme, {0},</DefaultText>
+      <DefaultText>Invoquer une arme : {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6045,7 +6025,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1200</ID>
-      <DefaultText>{0} au multiplicateur de Dégâts Critiques</DefaultText>
+      <DefaultText>{0} au multiplicateur de dégâts Critiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6265,7 +6245,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1244</ID>
-      <DefaultText>{0} de dégâts contre {1}</DefaultText>
+      <DefaultText>Dégâts {0} contre {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7025,7 +7005,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>La furtivité permet aux personnages de toutes classes de passer inaperçu. Elle est automatiquement utilisée lorsque le personnage est en mode reconnaissance. Plus la compétence du personnage est élevée, plus il peut s'approcher de ses ennemis avant d'être détecté.</DefaultText>
+      <DefaultText>La furtivité permet aux personnages de toutes classes de passer inaperçu. Elle est automatiquement utilisée lorsque le personnage est en mode Reconnaissance. Plus la compétence du personnage est élevée, plus il peut s'approcher de ses ennemis avant d'être détecté.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7494,12 +7474,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText>VSync</DefaultText>
+      <DefaultText>Synchronisation verticale</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1492</ID>
-      <DefaultText>Si cette option est activé, le taux de rafraîchissement du jeu sera synchronisé avec celui de l'écran.</DefaultText>
+      <DefaultText>Si cette option est activée, le taux de rafraîchissement du jeu sera synchronisé avec celui de l'écran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8144,7 +8124,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1621</ID>
-      <DefaultText>Si cette option est activée, les mouvement du pointeur de la souris sont limités à la fenêtre de jeu.</DefaultText>
+      <DefaultText>Si cette option est activée, les mouvements du pointeur de la souris sont limités à la fenêtre de jeu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8674,7 +8654,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1728</ID>
-      <DefaultText>Ajout à la réserve : {0}</DefaultText>
+      <DefaultText>{0} ajouté à la Réserve</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8786,7 +8766,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1751</ID>
-      <DefaultText>Non</DefaultText>
+      <DefaultText>Non {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9121,7 +9101,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1818</ID>
-      <DefaultText>Si cette option est activée, le jeu se lance exclusivement en mode Plein écran. Sinon, il sera lancé en mode fenêtré.</DefaultText>
+      <DefaultText>Lorsque cette option est activée, le jeu sera lancé exclusivement en mode Plein écran. Sinon, le jeu sera lancé en mode fenêtré.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9131,17 +9111,17 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1820</ID>
-      <DefaultText>Se déclenche en cas d'évanouissement</DefaultText>
+      <DefaultText>{0} en cas d'évanouissement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1821</ID>
-      <DefaultText>Se déclenche sur un Critique.</DefaultText>
+      <DefaultText>{0} en cas de critique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1822</ID>
-      <DefaultText>Se déclenche sur un Critique reçu.</DefaultText>
+      <DefaultText>{0} en cas de critique reçu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9361,12 +9341,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1866</ID>
-      <DefaultText>Durée : {0} repos</DefaultText>
+      <DefaultText>Dure {0} repos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1867</ID>
-      <DefaultText>Durée : {0} repos</DefaultText>
+      <DefaultText>Dure {0} repos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9396,17 +9376,17 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1873</ID>
-      <DefaultText>Ajuste le volume des voix des personnages dans le jeu.</DefaultText>
+      <DefaultText>Ajuste le volume des voix des personnages du jeu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1874</ID>
-      <DefaultText>Afficher l'endurance sur les portraits</DefaultText>
+      <DefaultText>Afficher les valeurs d'endurance sur les portraits</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1875</ID>
-      <DefaultText>Permet d'afficher l'endurance sur les portraits des membres du groupe sous forme de chiffre.</DefaultText>
+      <DefaultText>Affiche les valeurs numériques d'endurance sur les portraits des membres du groupe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9441,7 +9421,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1882</ID>
-      <DefaultText>Si cette option est activée, les membres du groupe vont continuer de se déplacer lors d'un engagement par un enemie.</DefaultText>
+      <DefaultText>Si cette option est activée, les membres du groupe continueront de se déplacer lors d'un engagement par un ennemi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9511,12 +9491,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1896</ID>
-      <DefaultText>Sauvegardez toujours les options sans confirmer.</DefaultText>
+      <DefaultText>Toujours sauvegarder les options sans confirmer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1897</ID>
-      <DefaultText>Si les options sont activées, le jeu sauvegardera automatiquement toutes les modifications lorsque vous fermerez la fenêtre.</DefaultText>
+      <DefaultText>Si cette option est activée, le jeu sauvegardera automatiquement toutes les modifications lorsque vous fermerez la fenêtre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9621,12 +9601,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Afficher les valeurs d'endurance</DefaultText>
+      <DefaultText>Afficher les valeurs d'endurance du groupe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1927</ID>
-      <DefaultText>Affiche les valeurs numériques d'endurance, actuelle et maximum, sur le portait des membres du groupe.</DefaultText>
+      <DefaultText>Affiche les valeurs numériques d'endurance actuelle et maximum des membres du groupe sur leurs portraits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9721,7 +9701,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1948</ID>
-      <DefaultText>Rayon de pillage de la zone (mètres)</DefaultText>
+      <DefaultText>Rayon de la zone de pillage (mètres)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9750,18 +9730,13 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1955</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1960</ID>
       <DefaultText>Qualité des graphismes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1961</ID>
-      <DefaultText>Ajuste la qualité des graphismes du jeu. Abaisser ce paramètre si votre jeu est lent.</DefaultText>
+      <DefaultText>Permet de régler la qualité graphique du jeu. Abaissez ce paramètre si votre jeu est ralenti.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9776,7 +9751,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText>Permet d'adapter automatiquement le niveau des compagnons lorsqu'ils rejoignent le groupe. Désactivez cette option pour faire évoluer les compagnons depuis le 1er niveau.</DefaultText>
+      <DefaultText>Augmente automatiquement le niveau des compagnons quand ils rejoignent le groupe pour la première fois. Désactiver cette option afin d'augmenter manuellement vos compagnons à partir du 1er niveau.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9801,12 +9776,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1981</ID>
-      <DefaultText>Si cette option est activée, les dernières nouvelles seront affichées dans le menu principal.</DefaultText>
+      <DefaultText>Si cette option est activée, les actualités les plus récentes seront affichées dans le menu principal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1982</ID>
-      <DefaultText>{0} consume {1}.</DefaultText>
+      <DefaultText>{0} consomme {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9816,7 +9791,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1984</ID>
-      <DefaultText>Permet de déterminer la fréquence avec laquelle les compagnons et le joueur vont utiliser leurs répliques audios.</DefaultText>
+      <DefaultText>Détermine la fréquence d'intervention vocale des compagnons et des personnages joueurs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9871,7 +9846,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1998</ID>
-      <DefaultText>Permet de définir la fréquence d'images maximum à utiliser pour exécuter le jeu. Utilisez ce paramètre pour définir la fréquence d'images maximum du jeu afin d'éviter une surchauffe. Ce paramètre peut également être limité par la fréquence de rafraîchissement de votre moniteur si la synchronisation verticale est activée.</DefaultText>
+      <DefaultText>Permet de définir la fréquence d'images maximum à utiliser pour exécuter le jeu. Utilisez ce paramètre pour définir la fréquence d'images maximum du jeu afin d'éviter une surchauffe. Ce paramètre peut également être limité par la fréquence de rafraîchissement de votre écran si la synchronisation verticale est activée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9881,7 +9856,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2000</ID>
-      <DefaultText>Si cette option est activée, les compagnons rejoindront le groupe avec le même niveau que le joueur en suivant une progression de niveau classique. Sinon, le joueur pourra choisir la progression des niveaux.</DefaultText>
+      <DefaultText>Si cette option est activée, les compagnons monteront automatiquement de niveau jusqu'à obtenir le même niveau que le joueur, en suivant une progression de niveau standard. Si elle est désactivée, le joueur pourra choisir la progression des niveaux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9891,22 +9866,12 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2016</ID>
-      <DefaultText>Permet de délimiter la zone où plusieurs corps peuvent être fouillés en un seul clic. Si ce paramètre est défini sur 0 m, seul le corps sélectionné sera fouillé.</DefaultText>
+      <DefaultText>Défini le rayon de la zone permettant de récupérer le butin de plusieurs corps avec un simple clic. Si la valeur est de 0 m, seul le butin du corps séléctionné sera obtenu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2018</ID>
-      <DefaultText>Les points inutilisés seront disponibles au niveau suivant.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2019</ID>
-      <DefaultText>Attackers: {0}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2020</ID>
-      <DefaultText>Defenders: {0}</DefaultText>
+      <DefaultText>Les points non utilisés seront disponibles au niveau suivant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9920,8 +9885,59 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2039</ID>
+      <DefaultText>Universel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2043</ID>
+      <DefaultText>Destruction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2049</ID>
-      <DefaultText>Impossible d'annuler l'équipement de : {0}.</DefaultText>
+      <DefaultText>{0} ne peut être déséquipé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2050</ID>
+      <DefaultText>Le niveau de votre groupe est jugé élevé pour le contenu : {0}.
+
+Si vous le souhaitez, le niveau du chemin critique peut être accru pour accentuer la difficulté.
+
+Quelle que soit l'option choisie, les récompenses que vous recevrez seront identiques.
+
+Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2053</ID>
+      <DefaultText>Suivi sélectionné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2054</ID>
+      <DefaultText>Seulement {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2055</ID>
+      <DefaultText>{0} de niveau {1} minimum</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2056</ID>
+      <DefaultText>ennemis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2057</ID>
+      <DefaultText>rien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2058</ID>
+      <DefaultText>alliés</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9932,6 +9948,361 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     <Entry>
       <ID>2104</ID>
       <DefaultText>Compagnon animal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2109</ID>
+      <DefaultText>Le script d'IA {0} est actif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2110</ID>
+      <DefaultText>Le script d'IA {0} est inactif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2111</ID>
+      <DefaultText>Utiliser les capacités Par repos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2112</ID>
+      <DefaultText>Comportement de la classe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2113</ID>
+      <DefaultText>Aucun script d'IA sélectionné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2117</ID>
+      <DefaultText>Attaque auto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2118</ID>
+      <DefaultText>Passif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2119</ID>
+      <DefaultText>Autodéfense</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2120</ID>
+      <DefaultText>Défense</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2121</ID>
+      <DefaultText>Attaque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2122</ID>
+      <DefaultText>Vous disposez déjà de la quantité maximum de matériel de campement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2124</ID>
+      <DefaultText>Attaque auto du compagnon animal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2125</ID>
+      <DefaultText>Utiliser les capacités Par repos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2126</ID>
+      <DefaultText>{0} de chances de jeter le sort {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2127</ID>
+      <DefaultText>{0} en cas de Transformation spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2128</ID>
+      <DefaultText>{0} en cas de coup ou de critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2143</ID>
+      <DefaultText>Description</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2148</ID>
+      <DefaultText>Invoque {0} de : {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2150</ID>
+      <DefaultText>Repli !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2151</ID>
+      <DefaultText>ne peut pas être engagé par des ennemis avec plus de 1 niveau sous le vôtre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2152</ID>
+      <DefaultText>ne peut pas être engagé par des ennemis avec plus de {0} niveaux sous le vôtre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2153</ID>
+      <DefaultText>Apparence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2154</ID>
+      <DefaultText>Comportement IA</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2158</ID>
+      <DefaultText>Ne peut pas être déséquipé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2159</ID>
+      <DefaultText>{0}-pt Bouclier dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2160</ID>
+      <DefaultText>Le personnage ne bougera pas pour attaquer à moins d'être engagé par un ennemi. Une fois cet ennemi vaincu, il cherchera de nouveaux ennemis à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2161</ID>
+      <DefaultText>Le personnage ne bougera pas pour attaquer automatiquement sous aucune circonstance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2162</ID>
+      <DefaultText>Le personnage cherchera activement des ennemis proches à combattre, qu'il soit ou non attaqué directement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2163</ID>
+      <DefaultText>Le personnage cherchera activement des ennemis à combattre, qu'il soit ou non attaqué directement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2164</ID>
+      <DefaultText>Échec du crochetage. Difficulté serrure : {0}. {1} Mécanique : {2}. Crochets requis : {3}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2165</ID>
+      <DefaultText>Échec du crochetage. Difficulté serrure : {0}. {1} Mécanique : {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2171</ID>
+      <DefaultText>{0} ajouté dans l'inventaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2176</ID>
+      <DefaultText>Ré-entraîner les personnages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2177</ID>
+      <DefaultText>Voulez-vous réinitialiser {0} au niveau 1 et assigner de nouvelles compétences, talents et capacités jusqu'au niveau {1} ? Cela coûtera {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2178</ID>
+      <DefaultText>Voulez-vous réinitialiser {0} au niveau 1 et assigner de nouveaux attributs, compétences, talents et capacités jusqu'au niveau {1} ? Cela coûtera {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2179</ID>
+      <DefaultText>Cela coûtera {0} pour ré-entraîner {1}. Vous disposez de seulement {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2180</ID>
+      <DefaultText>{0} contre {1} ennemis et dans les premières {2} de combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2181</ID>
+      <DefaultText>{0} - Niveau {1} {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2187</ID>
+      <DefaultText>Imm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2188</ID>
+      <DefaultText>Immunisé !</DefaultText>
+      <FemaleText>Immunisée !</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2190</ID>
+      <DefaultText>{0} des attaques à distance renvoyées vers l'attaquant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2191</ID>
+      <DefaultText>Pillars of Eternity - Installé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2192</ID>
+      <DefaultText>La Marche blanche : Partie 1 - Installé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2193</ID>
+      <DefaultText>La Marche blanche : Partie 1 - Non installé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2194</ID>
+      <DefaultText>{0} une arme, pénalité de Vitesse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2198</ID>
+      <DefaultText>{0} Réduction des dégâts par blessure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2199</ID>
+      <DefaultText>Vole pendant {0} chaque effet bénéfique sur la cible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2200</ID>
+      <DefaultText>{0} Précision en utilisant {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2201</ID>
+      <DefaultText>{0} Projectiles en utilisant {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2202</ID>
+      <DefaultText>Invoquer jusqu'à {0} {1} dans Objets rapides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2203</ID>
+      <DefaultText>Remplir Objets rapides avec {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2204</ID>
+      <DefaultText>{0} des dégâts subis redirigés vers le jeteur du sort comme {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2205</ID>
+      <DefaultText>Vole {0} de Vitesse d'attaque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2206</ID>
+      <DefaultText>Attaque additionnelle avec {0} Précision et {1} dégâts par coup</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2207</ID>
+      <DefaultText>Nécessite une Endurance supérieure à {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2217</ID>
+      <DefaultText>{0} lors d'un coup ou lors d'un critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2218</ID>
+      <DefaultText>{0} avant coup ou critique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2219</ID>
+      <DefaultText>Acte {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2221</ID>
+      <DefaultText>Homme - Impudent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2222</ID>
+      <DefaultText>Homme - Mielleux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2223</ID>
+      <DefaultText>Homme - Bienveillant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2224</ID>
+      <DefaultText>Femme - Impudente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2225</ID>
+      <DefaultText>Femme - Mielleuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2226</ID>
+      <DefaultText>Femme - Bienveillante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2227</ID>
+      <DefaultText>Invulnérabilité contre : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2228</ID>
+      <DefaultText>Ne peut consommer d'aliments, de boissons ou de drogues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2229</ID>
+      <DefaultText>Automate sophistiquée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2230</ID>
+      <DefaultText>{0} ne peut consommer d'aliments, de boissons ou de drogues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2235</ID>
+      <DefaultText>{1} destroyed {0}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2236</ID>
+      <DefaultText>Number of Autosaves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2237</ID>
+      <DefaultText>Sets the maximum number of rolling autosaves the game will keep for each playthrough.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

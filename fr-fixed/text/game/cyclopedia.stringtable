@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>296</EntryCount>
+  <EntryCount>302</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -482,8 +482,8 @@ Les xaurips vénèrent les dragons et établissent leurs communautés autour des
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>La précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par les talents et autres effets actifs, tels que les sorts ou les objets. En cas d'attaque, la précision est comparée à la défense appropriée de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un Coup ou un Critique et moins de chances de se traduire par une Éraflure ou un Échec.
-Toute compétence ou talent qui n'utilise pas d'arme lors de l'attaque gagne un petit bonus de précision basé sur le niveau du personnage.</DefaultText>
+      <DefaultText>La précision est indissociable de la plupart des attaques. Elle influence leurs chances d'affecter la cible. Elle dépend essentiellement de la classe et du niveau du personnage, mais est aussi influencée par la perception, les talents et autres effets actifs, tels que les sorts ou les objets. En cas d'attaque, la précision est comparée à la défense de la cible pour déterminer la manière dont le jet d'attaque sera modifié. Si la précision est supérieure à la défense de la cible, elle a plus de chances de se traduire par un Coup ou un Critique et moins de chances de se traduire par une Éraflure ou un Échec.
+Toute compétence ou tout talent qui n'utilise pas d'arme lors de l'attaque gagne un petit bonus de précision basé sur le niveau du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +493,7 @@ Toute compétence ou talent qui n'utilise pas d'arme lors de l'attaque gagne un 
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>La déviation correspond à la défense utilisée pour résister aux attaques de mêlée et aux attaques à distance directe contre le personnage situé en dehors de la zone d'effet. Elle dépend de la classe, du niveau, de la perception et la résolution du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
+      <DefaultText>La déviation correspond à la défense utilisée pour résister aux attaques de mêlée et aux attaques à distance directe contre le personnage situé en dehors de la zone d'effet. Elle dépend de la classe, du niveau et de la détermination du personnage, mais peut aussi être influencée par les boucliers, par certaines armes, par les talents et par d'autres effets, tels que les sorts ou les objets.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -623,7 +623,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>112</ID>     
+      <ID>112</ID>
       <DefaultText>L'âme d'un personnage pétrifié transforme momentanément son corps en pierre immobile et friable. Il subit les mêmes effets qu'en cas de paralysie, mais les attaques infligent beaucoup plus de dégâts. Annule les effets d'une paralysie, d'un assommement, d'une immobilisation et d'un renversement.</DefaultText>
       <FemaleText />
     </Entry>
@@ -684,7 +684,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Les personnages affaiblis voient leur puissance et leur constitution réduites de 2 points. Le déplacement est réduit de 1 points. La robustesse et la volonté sont réduits de 20 points.</DefaultText>
+      <DefaultText>Les personnages affaiblis voient leur puissance et leur constitution réduites de 2 points. Le déplacement est réduit de 1 point. La robustesse et la volonté sont réduits de 20 points.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -794,9 +794,9 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Pillars of Eternity utilise les quatre propriétés défensives suivantes : déviation, robustesse, réflexes et volonté. Chaque propriété défensive permet de résister à une catégorie d'attaques différente grâce au jet d'attaque. La déviation permet de résister aux attaques armées directes ou similaires. La robustesse permet de s'opposer aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La volonté permet de résister à presque toutes les attaques psychiques.
+      <DefaultText>Pillars of Eternity utilise les quatre propriétés défensives suivantes : Déviation, Robustesse, Réflexes et Volonté. Chaque propriété défensive permet de résister à une catégorie d'attaques différente grâce au jet d'attaque. La déviation permet de résister aux attaques armées directes ou similaires. La robustesse permet de s'opposer aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La volonté permet de résister à presque toutes les attaques psychiques.
 
-La robustesse, les réflexes et la volonté reposent tous sur un couple d'attributs. La robustesse repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la perception et de la détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les afflictions et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
+La robustesse, les réflexes et la volonté reposent tous sur un couple d'attributs. La robustesse repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la classe et de la détermination du personnage. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les afflictions et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1578,7 +1578,7 @@ Les icones en forme de pierres tombales indiquent un memorial. Ce sont des messa
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>292</ID>    
+      <ID>292</ID>
       <DefaultText>Énormément de sorts et de capacités de zone peuvent blesser les ennemis comme les alliés.
 
 Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera tout le monde dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
@@ -1598,7 +1598,7 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Un objet avec la propriété ensorcellement permet d'utiliser une capacité ou un sort pendant que l'objet est équipé</DefaultText>
+      <DefaultText>Un objet avec la propriété ensorcellement permet d'utiliser une capacité ou un sort pendant que l'objet est équipé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1618,13 +1618,45 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Les armes avec la propriété frappe magique vont activer la capacité ou le sort indiqué lorsque le porteur de l'arme inflige un critique à un enemie. Frappe magique ne peut se déclencher qu'1 fois par rencontre.</DefaultText>
+      <DefaultText>Les armes avec la propriété Frappe magique vont activer la capacité ou le sort indiqué lorsque le porteur de l'arme inflige un critique à un enemie. Frappe magique ne peut se déclencher qu'1 fois par rencontre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
       <DefaultText>Les cerfs font partie intégrante des cultures ancestrales aedyrane et glanfathane. Ils sont chassés pour leurs bois, leur peau et leur viande, et vénérés pour leur puissance et leur rapidité. Les biches et les faons ne posent généralement aucun problème aux chasseurs et aux voyageurs, mais les grands cerfs de Dyrwood sont réputés pour être particulièrement agressifs.</DefaultText>
       <FemaleText />
-    </Entry>    
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Immunisé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Un sous-ensemble d'ennemis peut être immunisé contre un ou plusieurs types de dégâts. Dans ces cas, le défenseur ne subira jamais de dégâts de ce type. Cependant, les effets secondaires qui sont appliqués séparément des dégâts peuvent tout de même affecter la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Marche blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Une série de territoires Pargruns déchus qui furent peuplés par des nains durant les premières années coloniales des Contrées orientales. La colonie la plus remarquable, la Batterie de Durgan, était bien connue pour ses objets en bronze de grande qualité et ses armes, boucliers et armures en acier sans égaux. Au cours des décennies, plusieurs colonies de la Marche blanche ont été soit envahies par d'innombrables pillards, soit se sont effondrées à cause de craintes croissantes d'instabilité. La forteresse de la Batterie de Durgan a été apparemment abandonnée et scellée il y a presque deux siècles, marquant la fin non officielle de la Marche blanche.
+
+Les armoiries de la Marche blanche peuvent toujours être vues sur certains objets raffinés en bronze et en acier qui circulent dans les Contrées orientales. Le symbolisme des montagnes est évident, mais les cercles liés à son sommet étaient communs dans les colonies de Pargruns, et représentaient le lien de parenté qui les unissaient. La partie jaune, peu courante sur des objets métalliques représentait les bronzes pour lesquels la Marche blanche était initialement connue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Chance d'ensorcellement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Les armes avec la propriété Chance d'ensorcellement ont une chance de déclencher la compétence ou le sort listé, en général lors d'un coup ou un critique.</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>

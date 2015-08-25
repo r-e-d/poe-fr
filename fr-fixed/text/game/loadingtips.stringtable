@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\loadingtips</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>88</EntryCount>
+  <EntryCount>95</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>La perception détermine la chance d'un personnage de provoquer l'interruption d'attaques, ainsi que de la valeur des propriétés défensives Déviation et Réflexes. Elle peut également être utilisée lors des conversations et interactions scriptées pour remarquer des détails infimes ou cachés.</DefaultText>
+      <DefaultText>La perception détermine les chances d'interrompre des attaques ainsi que la valeur des propriétés défensives Précision et Réflexes d'un personnage. Elle peut également être utilisée lors des conversations et interactions scriptées pour remarquer des détails infimes ou cachés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Les armes, les boucliers et les armures dotés des propriétés raffiné, exceptionnel ou superbe confèrent des bonus aux propriétés de base de l'objet, comme la précision, les dégâts, la déviation et toutes les valeurs de réduction de dégâts.</DefaultText>
+      <DefaultText>Les armes, les boucliers et les armures dotés des propriétés Raffiné, Exceptionnel ou Superbe confèrent des bonus aux propriétés de base de l'objet, comme la précision, les dégâts, la déviation et toutes les valeurs de réduction de dégâts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Un personnage équipé d'un bouclier bénéficie d'une déviation accrue mais sa récupération est plus lente. En outre, les boucliers les plus grands peuvent nuire à la précision du personnage.</DefaultText>
+      <DefaultText>Un personnage équipé d'un bouclier bénéficie d'une déviation accrue. Les boucliers les plus grands peuvent nuire à la précision du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Utilisez la touche Tabulation pour sélectionner les objets interactifs dans l'environnement.</DefaultText>
+      <DefaultText>Utilisez la touche Tabulation pour voir les objets interactifs de l'environnement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,6 +442,41 @@
     <Entry>
       <ID>93</ID>
       <DefaultText>Pour associer un raccourci clavier à une capacité, positionnez le curseur de la souris sur le bouton de celle-ci et appuyez sur la touche de raccourci de votre choix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Vous pouvez automatiser les actions des membres de votre équipe avec les paramètres IA accessibles depuis les fiches de personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous pouvez changer le portrait de votre personnage principal et celui des aventuriers depuis leur portrait actuel dans leur fiche de personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Les personnages individuels peuvent entrer en mode Reconnaissance séparément du reste de l'équipe. Un cercle de sélection en pointillé indique que les personnages sont en reconnaissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Vous pouvez ré-entrainer un personnage depuis le premier niveau depuis l'interface d'auberge. Le coût pour ré-entrainer le personnage augmente avec les niveaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Les armes liées gagnent des pouvoirs additionnels lorsque le porteur remplit certaines conditions spécifiques. La description de l'arme liste toujours la prochaine condition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>En ciblant des attaques, des sorts et d'autres compétences, le cercle en pointillé autour du personnage indique sa portée maximale pour cette action. Sélectionner une cible en dehors de ce cercle obligera le personnage à se déplacer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>En ciblant une attaque, le pourcentage listé à côté des cibles potentielles indique votre chance de toucher ou de porter un critique. Si ce pourcentage est faible, considérez attaquer une défense différente ou l'utilisation d'afflictions pour augmenter vos chances.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

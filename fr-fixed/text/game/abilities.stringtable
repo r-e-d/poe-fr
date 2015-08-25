@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1377</EntryCount>
+  <EntryCount>1424</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1276,7 +1276,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Fait apparaître trois projectiles magiques qui infligent des dégâts contondants à la cible.</DefaultText>
+      <DefaultText>Fait apparaître trois projectiles magiques qui infligent des dégâts contondants ou corrosif à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Génère une vague bondissante d'écho psychique entre le clairvoyant et un allié, infligeant des dégâts contondants à tous les personnages pris entre les deux.</DefaultText>
+      <DefaultText>Génère une vague bondissante d'écho psychique entre le clairvoyant et un allié, infligeant des dégâts contondants aux ennemis pris entre les deux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Provoque une « fuite » d'énergie dans l'âme d'un ennemi, ce qui enflamme l'air qui l'entoure et lui inflige des dégâts brûlants progressifs.</DefaultText>
+      <DefaultText>Provoque une « fuite » d'énergie dans l'âme d'un ennemi, ce qui enflamme l'air qui l'entoure et lui inflige des dégâts brûlants progressifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1426,7 +1426,7 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Le combattant adopte une stratégie de combat plus prudente en se concentrant sur la défense. Le combattant reçoit un bonus de déviation et peut attaquer trois cibles, mais au détriment de sa vitesse d'attaque.</DefaultText>
+      <DefaultText>Le combattant adopte une stratégie de combat plus prudente en se concentrant sur les enemies trop proches. Le combattant peut attaquer trois cibles, mais au détriment de sa déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Ordonne à un allié inconscient de se relever, ce qui lui confère un bonus d'endurance important mais temporaire puisque une partie disparaît rapidement.</DefaultText>
+      <DefaultText>Ordonne à un allié inconscient de se relever, ce qui lui confère un bonus d'endurance important mais temporaire puisqu'une partie disparaît rapidement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1546,7 +1546,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Uniquement motivé par la foi, le paladin peut guérir par imposition des mains. Le paladin ou un allié situé à sa portée peut ainsi récupérer un degré de endurance important.</DefaultText>
+      <DefaultText>Uniquement motivé par la foi, le paladin peut guérir par imposition des mains. Le paladin ou un allié situé à sa portée peut ainsi récupérer un degré d'endurance important.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,8 +1911,8 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Fait apparaître un brouillard givrant qui frappe de cécité quiconque y entre et inflige des dégâts givrants progressifs.</DefaultText>
-      <FemaleText />
+      <DefaultText>Fait apparaître un brouillard glacial qui frappe de cécité et inflige des dégâts givrant progressifs à tous les personnages présents dans la zone d'effet.</DefaultText>
+     <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
@@ -1961,7 +1961,7 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Fait apparaître un double du jeteur de sorts pour détourner l'attention des ennemis, ce qui confère au jeteur de sorts un bonus de déviation important utilisable contre une seule attaque.</DefaultText>
+      <DefaultText>Fait apparaître un double du jeteur de sorts pour détourner l'attention des ennemis, ce qui lui confère un bonus de déviation important jusqu'à ce qu'il soit victime d'un coup ou d'un critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2021,7 +2021,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Insuffle de la vitalité au jeteur de sorts qui bénéficie d'une augmentation temporaire de sa endurance actuelle et maximale.</DefaultText>
+      <DefaultText>Insuffle de la vitalité au jeteur de sorts qui bénéficie d'une augmentation temporaire de son endurance et de sa santé maximales.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2071,7 +2071,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>La main du jeteur de sorts se transforme en parasite toxique qui inflige des dégâts corrosifs à la cible, l'affaiblit et réduit une partie de son endurance.</DefaultText>
+      <DefaultText>La main du jeteur de sorts se transforme en parasite toxique qui inflige des dégâts corrosifs à la cible, l'affaiblit et convertit sa force vitale en endurance pour le jeteur de sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Des hordes d'asticots s'attaquent aux ennemis présents dans la zone d'effet et leur infligent des dégâts bruts progressifs. Plus la cible est blessée, plus les dégâts sont importants.</DefaultText>
+      <DefaultText>Des hordes d'asticots s'attaquent aux ennemis présents dans la zone d'effet et leur infligent des dégâts bruts progressifs. Plus la cible est blessée, plus les dégâts sont importants. Le sort n'inflige aucun dégât à une cible dont l'endurance est maximale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4006,7 +4006,7 @@
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>Invoque un puits de lumière intense qui brûle et peut aveugler les ennemis présents dans la zone d'effet.</DefaultText>
+      <DefaultText>Invoque un puits de lumière intense qui brûle et peut aveugler les personnages présents dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4041,7 +4041,7 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts bruts progressifs et réduisent la concentration de quiconque présent dans la zone d'effet.</DefaultText>
+      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts perforant progressifs et réduisent la concentration de quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4066,7 +4066,7 @@
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Déclenche un puissant orage qui s'abat régulièrement sur les ennemis présents dans la zone d'effet. Ses éclairs les assomment et leur infligent des dégâts électriques.</DefaultText>
+      <DefaultText>Déclenche un puissant orage qui s'abat régulièrement sur un ennemi aléatoire de la zone d'effet. Ses éclairs l'assomment et lui infligent des dégâts électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4171,7 +4171,7 @@
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>Tire cinq missiles de pure force sur la cible, ce qui déclenche une onde de choc infligeant des dégâts contondants aux personnages proches de l'impact.</DefaultText>
+      <DefaultText>Tire cinq projectiles de pure force sur la cible, ce qui déclenche une onde de choc infligeant des dégâts contondants aux ennemis proches de l'impact.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4216,12 +4216,12 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Fait apparaître un anneau noir d'énergie nécrotique qui se déploie dans toutes les directions pour infliger des dégâts corrosifs à tout ce qu'il touche. Il peut également détruire les personnages dont l'endurance est faible.</DefaultText>
+      <DefaultText>Fait apparaître un anneau noir d'énergie nécrotique qui se déploie dans toutes les directions pour infliger des dégâts corrosifs à tous les ennemis qu'il touche. Il peut également détruire ceux dont l'endurance est faible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Invoque une énorme pointe de glace qui inflige des dégâts givrants à quiconque dans la zone d'effet et crée un cercle de gel instable qui peut entraver tous ceux qu'il touche.</DefaultText>
+      <DefaultText>Invoque une énorme pointe de glace qui inflige des dégâts givrants aux ennemis présents dans la zone d'effet et forme un intense cercle de gel qui peut entraver les ennemis qu'il touche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4416,7 +4416,7 @@
     </Entry>
     <Entry>
       <ID>900</ID>
-      <DefaultText>Invoque le pouvoir de la psyché du moine, ce qui renvoie la moitié des missiles à distance dirigés contre le moine vers leur point de départ. Seules les attaques manquées peuvent être renvoyées.</DefaultText>
+      <DefaultText>Invoque le pouvoir de la psyché du moine, ce qui renvoie la moitié des projectiles à distance dirigés contre le moine vers leur point de départ. Seules les attaques manquées peuvent être renvoyées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4476,7 +4476,7 @@
     </Entry>
     <Entry>
       <ID>912</ID>
-      <DefaultText>Chaque attaque à distance lancée par le rôdeur est d'une force telle qu'elle atteint directement la première cible et frappe une seconde derrière elle en infligeant moins de dégâts à cette dernière.</DefaultText>     
+      <DefaultText>Chaque attaque à distance lancée par le rôdeur est d'une force telle qu'elle atteint directement la première cible et frappe une seconde derrière elle en infligeant moins de dégâts à cette dernière.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4506,7 +4506,7 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Le bandit s'efforce d'achever un adversaire blessé en lui assénant un coup précis et fatal via un bonus de précision dont la puissance est plus importante lorsque l'endurance de la cible est faible.</DefaultText>
+      <DefaultText>Le bandit s'efforce d'achever un adversaire blessé en lui assénant un coup précis et fatal. Plus l'endurance de la cible est faible, plus le coup est dévastateur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4671,7 +4671,7 @@
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>Améliore la conscience du combattant en mode Défenseur, ce qui confère un bonus à toutes les défenses.</DefaultText>
+      <DefaultText>Améliore la conscience du combattant en mode Défenseur, ce qui confère un bonus à la robustesse, aux réflexes et à la volonté</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4716,7 +4716,7 @@
     </Entry>
     <Entry>
       <ID>960</ID>
-      <DefaultText>Forme le compagnon animal du rôdeur aux tactiques violentes, ce qui lui permet d'infliger davantage de dégâts à chaque coup.</DefaultText>
+      <DefaultText>Forme le compagnon animal du rôdeur aux tactiques violentes, ce qui lui permet d'infliger davantage de dégâts et de mieux pénétrer la réduction de dégâts à chaque coup.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6625,7 +6625,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>Les aumauas côtiers sont renommés pour leurs « pieds marin » naturels ainsi que pour leur constitution robuste. Que ces caractéristiques soient dues à leur long passé de marins ou qu'elles leur soient innées depuis des générations, tous les aumauas côtiers résistent aux assommements et aux renversements.</DefaultText>
+      <DefaultText>Les aumauas côtiers sont renommés pour leurs « pieds marin » naturels ainsi que pour leur constitution robuste. Que ces caractéristiques soient dues à leur long passé de marins ou qu'elles leur soient innées depuis des générations, tous les aumauas côtiers résistent aux assommements et aux renversements.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6911,6 +6911,241 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     <Entry>
       <ID>1399</ID>
       <DefaultText>DEBUG Petrify Spell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1497</ID>
+      <DefaultText>Agressivité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText>Tenir bon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText>Folie furieuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText>Dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText>Contrôle de la foule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText>Soutien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1506</ID>
+      <DefaultText>Disrupteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1507</ID>
+      <DefaultText>Prudence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1508</ID>
+      <DefaultText>Transformation spirituelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1509</ID>
+      <DefaultText>Sortlame</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1510</ID>
+      <DefaultText>Réduction RD Électrique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1511</ID>
+      <DefaultText>Invocateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1512</ID>
+      <DefaultText>Œil du cyclone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1513</ID>
+      <DefaultText>Débute le combat avec le sort Frénésie ou Hurlement barbare. Sous la barre des 50 % d'endurance, le sort Redoutable défi est utilisé. Le sort Cri barbare est utilisé si le paramètre Par repos est activé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1514</ID>
+      <DefaultText>Débute le combat avec le sort Sprint sauvage pour se diriger vers l'ennemi avec la déviation la plus faible. Utilise les sorts Frénésie et Hurlement barbare à volonté. Le sort Cœur de la fureur est utilisé si le paramètre Par repos est activé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1515</ID>
+      <DefaultText>Le chanteur met l'accent sur les invocations de soutien comme Ni terrassé par la hache, ni emporté par la tempête ou sur les conjurations comme Mais le fantôme de Reny Daret ne trouverait pas le repos et Nul ne savait si leurs ossements se trouvaient encore sous cette colline. Favorise les invocations de soutien d'équipe au détriment des conjurations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1516</ID>
+      <DefaultText>Le chanteur met l'accent sur les invocations offensives comme Et Hel-Hyraf se fracassa sur le bouclier, Le tonnerre roulait comme les vagues des mers noires, Trois fois elle fut trompée, trois fois elle se fit justice, et Des vers blancs grouillaient dans les entrailles des morts. Si celles-ci ne sont pas disponibles, les conjurations sont favorisées au détriment des invocations de soutien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1517</ID>
+      <DefaultText>Le chanteur met l'accent sur les convocations comme Mais le fantôme de Reny Daret ne trouverait pas le repos et Nul ne savait si leurs ossements se trouvaient encore sous cette colline. Si celles-ci ne sont pas disponibles, les invocations de soutien sont favorisées au détriment des invocations offensives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1518</ID>
+      <DefaultText>Le clairvoyant commence par une attaque physique, puis se concentre sur l'utilisation de pouvoirs qui mettent l'accent sur les dégâts, comme les sorts Vague mentale et Choc de l'âme. Il utilise ensuite les capacités de contrôle des foules comme Frappe oculaire, Étreinte ténue et Murmure de trahison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1519</ID>
+      <DefaultText>Le clairvoyant commence par une attaque physique, puis se concentre sur l'utilisation de pouvoirs qui mettent l'accent sur le contrôle des foules, comme Frappe oculaire, Étreinte ténue et Murmure de trahison. Il utilise ensuite des capacités qui infligent des dégâts comme Vague mentale et Choc de l'âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1520</ID>
+      <DefaultText>Le clairvoyant commence par une attaque physique, puis se concentre sur l'utilisation de pouvoirs qui mettent l'accent sur la défense personnelle ou sur la défense de soutien, comme Bouclier psychovampirique, Lien de douleur, Réglage, Antidouleur, Sangsue sauvage et Fusion tactique. Si ceux-ci ne sont pas disponibles, il se replie sur un mélange de sorts de dégâts et de contrôle des foules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1521</ID>
+      <DefaultText>Si le paramètre Par repos est activé, le druide jette les sorts Éclairs dansants, Marque de la nature, Coups de griffes, Nuée d'insectes, Invasion d'asticots, Retour de la tempête et Bois de cerf, selon leur disponibilité. Si le paramètre Par repos est désactivé, le druide se comporte normalement, sauf s'il est attaqué en mêlée et que son endurance passe sous la barre des 50 %, auquel cas il a recours à la Transformation spirituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1522</ID>
+      <DefaultText>Si le paramètre Par repos est activé, le druide jette les sorts Charme de la bête, Marque de la nature, Immobilisation des bêtes, Fléau, Propagation d'un fléau et Terreur de la nature, selon leur disponibilité. Si le paramètre Par repos est désactivé, le druide se comporte normalement, sauf s'il est attaqué en mêlée et que son endurance passe sous la barre des 50 %, auquel cas il a recours à la Transformation spirituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1523</ID>
+      <DefaultText>Si le paramètre Par repos est activé, le druide jette des sorts de soutien tels que Vigueur de la nature, Peau de bois, Baume de la nature, Carapace de scarabée, Purge de toxines et Puits de lune. Si le paramètre Par repos est désactivé, le druide se comporte normalement, sauf s'il est attaqué en mêlée et que son endurance passe sous la barre des 50 %, auquel cas il a recours à la Transformation spirituelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1524</ID>
+      <DefaultText>Ce comportement met l'accent sur la Transformation spirituelle dès que le druide est en mesure d'attaquer un ennemi en mêlée. Si le paramètre Par repos est activé, le druide utilise des sorts de dégâts et de contrôle des foules en se concentrant sur les options de niveau inférieur et visant uniquement les ennemis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1525</ID>
+      <DefaultText>Dès qu'il en a l'occasion, le combattant utilise les sorts Renversement et Barrage discipliné. Le sort Nettoyage est aussi automatiquement utilisé lorsque le combattant a trois ennemis à sa portée et que le paramètre Par repos est activé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1526</ID>
+      <DefaultText>Le combattant utilise le sort Défense vigoureuse lorsqu'il est attaqué par plus de deux adversaires. Utilise le sort Inflexible lorsque l'endurance est inférieure à 50 % et que le paramètre Par repos est activé. La Défense est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1527</ID>
+      <DefaultText>Dès que l'occasion se présente, le paladin utilise les sorts Flammes de dévotion et Ennemi juré (si le paramètre Par repos est activé). La Concentration zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1528</ID>
+      <DefaultText>Le paladin utilise le sort Imposition des mains lorsque l'endurance d'un allié est inférieure à 50 %. Utilise le sort Exhortation de libération lorsqu'un allié est soumis à un effet de statut hostile de plus de 5 secondes. Utilise le sort Exhortation de renforcement sur un allié qui est attaqué par plus de deux ennemis. Utilise le sort Exhortation de ranimation sur le premier allié qui perd connaissance au combat (s'il ne dispose pas des capacités Deuxième chance ou Indomptable). Utilise le sort Exhortation d'empressement une fois par rencontre sur les alliés dans l'ordre de préférence suivant : bandits, moines, barbares, rôdeurs, paladins, combattants et tous les autres (uniquement si le paramètre Par repos est activé). L'Endurance zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1529</ID>
+      <DefaultText>Le prêtre utilise le sort Rayonnement sacré lorsque l'endurance d'un membre du groupe est inférieure à 33 % ou si l'endurance d'au moins deux membres est inférieure à 50 %. Si le paramètre Par repos est activé, le prêtre met l'accent sur les sorts de guérison et de soutien comme Armure de la foi, Bénédiction, Méditation sacrée, Restauration d'endurance mineure, Retrait, etc. Les sorts «Prière contre» sont utilisés en réaction lorsque plusieurs membres du groupe souffrent d'un effet correspondant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1530</ID>
+      <DefaultText>Le prêtre utilise le sort Interdiction dès que le combat commence. Si le paramètre Par repos est activé, le prêtre met l'accent sur les sorts de dégâts et de contrôle des foules comme Barbes de la condamnation, Marque divine, Instillation de doute, Coups de découragement et Pilier de la foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1531</ID>
+      <DefaultText>Dès que l'occasion se présente, le moine utilise le sort Frappes rapides ou Bras du tourment. Utilise le sort Clarté de l'agonie lorsque soumis à un effet de statut hostile de plus de 5 secondes. Utilise le sort Coups assommants chaque fois que possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1532</ID>
+      <DefaultText>Le moine fait preuve d'Agressivité mais donne la priorité aux jeteurs de sorts et personnages dont la déviation est faible, et pour cela, il n'hésite pas à rompre l'engagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1533</ID>
+      <DefaultText>Le rôdeur reste en position et se concentre sur les ennemis attaqués par son compagnon animal. Utilise les sorts Coup blessant et Proie marquée contre les cibles attaquées par le compagnon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1534</ID>
+      <DefaultText>Le rôdeur utilise les sorts Coup blessant et Proie marquée contre les cibles attaquées par son compagnon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1535</ID>
+      <DefaultText>Le bandit préfère attaquer les cibles déjà attaquées par un allié. Utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. L'Assaut imprudent est désactivé par défaut. S'il est activé, il est désactivé au début de la rencontre suivante. Utilise le sort Coup de grâce contre les cibles dont la résistance est inférieure à 25 %. Utilise le sort Fuite pour rejoindre l'allié le plus éloigné lorsque la résistance est inférieure à 33 %.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1536</ID>
+      <DefaultText>Le bandit utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. L'Assaut imprudent est activé par défaut. S'il est désactivé, il est réactivé au début de la rencontre suivante. Utilise le sort Coup de grâce contre les cibles dont l'endurance est inférieure à 25 %.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1537</ID>
+      <DefaultText>Les magiciens utilisent le sort Assaut ésotérique dès le début du combat. Si le paramètre Par repos est activé, ils utilisent des sorts qui infligent des dégâts directs ou des sorts à zone d'effet réservés aux alliés, comme Projectiles mineurs de Minoletta, Tressautement, Toucher glacial de Kalakoth, Lance nécrotique, Lames spectrales, etc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1538</ID>
+      <DefaultText>Si le paramètre Par repos est activé, le magicien se concentre sur les sorts réservés aux ennemis qui infligent des supplices comme Lumières éblouissantes d'Arkemyr, Spectacle déroutant, Blessures inflammables, Malédiction de la cécité, Pénible ralentissement, Exposition des vulnérabilités, etc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1539</ID>
+      <DefaultText>Les magiciens utilisent le sort Voile ésotérique et/ou Charge de grimoire dès qu'ils sont engagés en mêlée. Si le paramètre Par repos est activé, le magicien utilise des sorts tels que Double du magicien, Bouclier spirituel, Reflet et Image décalée de Llengrath. Sinon, il reste à portée et utilise des attaques standard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1540</ID>
+      <DefaultText>Si le paramètre Par repos est activé, le magicien utilise des sorts tels que Double du magicien, Bouclier spirituel, Bâton parasite de Concelhaut, Image décalée de Llengrath, Bouclier de flammes et Lance spirituelle de Citzal pour se donner de la force avant de se lancer tête baissée dans le combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1541</ID>
+      <DefaultText>Le paladin utilise le sort Imposition des mains lorsque l'endurance d'un allié est inférieure à 50 %. Utilise le sort Exhortation de libération lorsqu'un allié est soumis à un effet de statut hostile de plus de 5 secondes. Utilise le sort Exhortation de renforcement sur un allié qui est attaqué par plus de deux ennemis. Utilise le sort Exhortation de ranimation sur le premier allié qui perd connaissance au combat. Utilise le sort Exhortation d'empressement sur les alliés (uniquement si le paramètre Par repos est activé). L'Endurance zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1542</ID>
+      <DefaultText>Défense</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1543</ID>
+      <DefaultText>Le jeteur de sorts fait apparaître un énorme éclair qui s'abat sur une cible avant de s'attaquer à un autre ennemi. Il peut frapper six ennemis. Les autres personnages présents dans la zone d'effet sont épargnés par la foudre ésotérique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1550</ID>
+      <DefaultText>Disrupteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1596</ID>
+      <DefaultText>Destruction d'esprits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1597</ID>
+      <DefaultText>Détruit entièrement tout esprit dont le niveau est inférieur à celui de l'attaquant.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
