@@ -5,11 +5,11 @@ Ce projet a pour but de corriger et d'améliorer la traduction française de Pil
 ## Installation:
 
 ### Sans utiliser l'outil 'git' (recommandé)
-Décompresser le fichier .zip et placer le répertoire fr-fixed dans le dossier approprié :
+Décompresser le fichier .zip et placer les répertoires data et data_expansion1 dans le dossier approprié :
 
- * Windows : [dossier_PoE]\PillarsOfEternity_Data\data\localized\
- * Linux : [dossier_Poe]/PillarsOfEternity_Data/data/localized/
- * OSX : [dossier_Poe]/PillarsOfEternity.app/Contents/Data/localized/
+ * Windows : [dossier_PoE]\PillarsOfEternity_Data\
+ * Linux : [dossier_Poe]/PillarsOfEternity_Data/
+ * OSX : [dossier_Poe]/PillarsOfEternity.app/Contents/
 
 Ensuite dans les options du jeu, choississez la nouvelle langue :
 
