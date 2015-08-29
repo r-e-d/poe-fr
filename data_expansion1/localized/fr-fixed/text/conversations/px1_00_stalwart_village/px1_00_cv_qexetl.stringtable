@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_qexetl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un jeune homme habillé de pièces de cuir solides vous fixe du regard. Les rides de son visage, tanné malgré le faible ensoleillement de la région, subissent un léger tressaillement à votre approche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>En sortant, la lourde porte de bois du temple claque derrière vous. Vous entendez quelqu'un la bloquer de l'autre côté. 
+
+Il semble que les prêtres se soient lancés dans une conversation agitée. Vous avez la sensation qu'ils discutent de vous, mais vous êtes également certain que la porte est trop épaisse pour que l'on puisse les espionner - bien qu'il doive y avoir d'autres endroits à proximité où vous auriez la possibilité de le faire.</DefaultText>
+      <FemaleText>En sortant, la lourde porte de bois du temple claque derrière vous. Vous entendez quelqu'un la bloquer de l'autre côté. 
+
+Il semble que les prêtres se soient lancés dans une conversation agitée. Vous avez la sensation qu'ils discutent de vous, mais vous êtes également certaine que la porte est trop épaisse pour que l'on puisse les espionner - bien qu'il doive y avoir d'autres endroits à proximité où vous auriez la possibilité de le faire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"...n'y crois pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"... Comment avez-vous pu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"...votre faute !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"...peux pas rester plus longtemps !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>En marchant vers l'étang gelé, une silhouette apparaît à travers la brume. S'agenouillant près d'un trou dans la glace, la silhouette lève un grand coffre et le jette dans l'eau sans aucune hésitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>La silhouette regarde aux alentours. Vous apercevez un visage que vous n'avez jamais encore vu. Qexetl, l'un des acolytes de Lafda, remonte un capuchon sur sa tête et lance un sac de cuir au-dessus de son épaule. 
+
+Sans regarder derrière, il s'éloigne en direction du village de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je n'ai rien pour vous. Parlez à Lafda si nécessaire." Il se retourne, son nez est ridé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Laissez-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Cah llah ! Cah lla !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

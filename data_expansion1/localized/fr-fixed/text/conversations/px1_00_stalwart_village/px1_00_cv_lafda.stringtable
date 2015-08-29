@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_lafda</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les veines courent sous la peau pâle de cette femme comme des fissures de glace et pourtant, lorsqu'elle parle, sa voix est chaude et apaisante.
+
+"Ondra vous accueille en son sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous revenez. En quoi la déesse peut vous aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je veux vous interroger sur l'héritage d'Okrun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Demandez ce que vous voulez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vouliez-vous m'entretenir d'un autre sujet ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je ne peux pas dire que c'est un plaisir de traiter avec ceux qui doutent de la volonté d'Ondra, mais je peux faire un effort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"L'héritage d'Okrun a été pris par Ixtli, le porteur d'offrandes choisi parmi nous, pour être emporté en offrande à Ondra. Lui seul sait où."
+
+Elle marque une pause et vous regarde attentivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"J'ai trouvé vos coffres. Ils étaient remplis de cailloux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Décontenancée, la prêtresse jette un coup d'œil des deux côtés. Un sourire timide traîne sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Lafda se raidit, le visage dur. En levant le bras, les plis de sa robe retombent pour révéler un pistolet armé pointé dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je me demande ce que les villageois penseront de cette « blague »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Que proposez-vous que je fasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"J'ai également le carnet de notes d'Ixtli, et je suis au courant à propos des lagufaeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Vous croyez que je me soucie de ces villageois ? Entendons-nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Okrun veut récupérer son médaillon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Laissez-moi vous interroger sur tout autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Nous ne sommes pas des meurtriers, et nous préfèrerions être aussi loin que possible de cet endroit maudit." Lafda fait un geste adressé à ses complices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je suis d'accord. Le bijou de famille, un petit quelque chose en plus, et vous êtes libre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Aucune chance. Je laisserai les villageois décider de votre sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Malin. La plupart des dons que reçoit la déesse n'ont que très peu de valeur, malheureusement, mais nous arrivons parfois à soutirer des offrandes un peu plus intéressantes de ses adorateurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je vois. Il est inutile de continuer cette petite charade, n'est-ce pas ?" Son groupe entre en action. Le son des lames dégainées emplit la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Parlez-moi d'Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je veux en savoir plus sur les porteurs d'offrandes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Parlez-moi de votre porteur d'offrandes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"La volonté des mortels ou des dieux ne m'a jamais arrêté auparavant."</DefaultText>
+      <FemaleText>"La volonté des mortels ou des dieux ne m'a jamais arrêtée auparavant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sa volonté jaillit par vagues. Peut-être Okrun a-t-il encore besoin du médaillon pour découvrir l'oubli."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Prouvez-le. Je ne laisse pas la superstition entraver la logique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je vois que vous n'êtes pas prêt à changer d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ah, Okrun. Combien de fois laissons-nous les ombres du passé devenir un fardeau même pour les autres..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ixtli avait à faire près de la Batterie de Durgan. Ces montagnes sont dangereuses..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ondra la déesse de la rédemption, aussi profonde qu'un océan et aussi douce qu'une mère. Elle est là pour soulager ses enfants de leurs fardeaux les plus sombres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Les porteurs d'offrandes effectuent le travail le plus apprécié d'Ondra. Ils portent les fardeaux matériels d'âmes infortunées en son sein pour que la déesse les aide à oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je ne veux rien de vous, mais je ne vous livrerai pas non plus à ces villageois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Elle redresse son dos. "Un esprit bienveillant. Nous n'attendrons pas que vous changiez d'avis." 
+
+Ses complices rangent leurs armes et commencent à rassembler leurs affaires. 
+
+Lafda désigne un grand coffre dans la pièce. "Qexetl a rapporté les possessions du nain, mais considérez-les comme un cadeau d'adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Il a changé d'avis. En tant que prêtre, vous devez écouter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Aucun droit de recours donc - c'est pratique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Il a tout perdu. Comment pouvez-vous lui prendre la seule chose qui lui reste de son passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ses possessions - son passé - demeurent à présent dans le royaume d'Ondra, dans l'oubli afin que les blessures de l'âme puissent se refermer. C'est la volonté de la déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ce n'est pas comme cela. Le regret qui consume Okrun est évident." La prêtresse vous étudie pendant un instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>L'expression de Lafda se rompt et elle fait un pas en arrière. Sa cohorte se jette sur leurs armes. Elle lève immédiatement la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Pendant un instant, la prêtresse sonde le sol devant elle à la recherche d'une réponse. Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vous aimez réfléchir, n'est-ce pas ? Je ne suis pas d'humeur à tenir une longue discussion." Un soupçon de couleur apparaît sur ses joues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ses traits s'adoucissent pour lui donner un air de compassion forcée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Ses traits se teintent de compassion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Nous sommes là pour soulager la douleur de votre passé, prêts à supporter votre fardeau." Elle acquiesce d'un fin sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Le nain a déjà posé la question. Nous lui avons donné le conseil qu'il recherchait." Une légère irritation accentue son ton.
+
+Elle semble s'en rendre compte et module sa voix en un timbre plus plaisant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"L'âme d'Okrun se nourrit du regret. L'affamer peut paraître sévère... cruel, mais à défaut elle continuera à se consumer jusqu'à ce qu'il n'y ait plus rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je l'ai écouté. Tant de sombres souvenirs, tant de regrets. Nous avons supporté ses fardeaux, pour son bien et pour le bien du village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Il n'y a aucune raison de se quereller sur les mystères de la volonté d'une déesse. Je vous dirai ce que vous voulez savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Il est difficile de croire que seul le porteur d'offrandes sait où les offrandes à Ondra sont emportées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ah oui ? Notre déesse nous libère de nos charges matérielles. Il est préférable qu'un seul d'entre nous sache où elles sont emportées sinon nous souffrirons tous sous leur poids."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Lafda semble contempler le sol un instant mais vous remarquez que ses yeux pointent vers l'un de ses acolytes, un jeune homme de sang Ixamitl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Si vous insistez pour effectuer la requête d'Okrun, alors c'est dans cette direction que je chercherais des réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Nous sommes venus ici pour assister les villageois, pour soigner les blessures du passé qui couvaient dans leurs âmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Mais nous ne devrions pas agir de manière aussi précipitée." Elle garde une main en l'air. Les bandits gardent leurs armes pointées sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nous avons fait semblant, oui, mais est-ce si différent que ce que font les prêtres d'Ondra ? Les villageois et les voyageurs nous donnent des choses qu'ils souhaitent oublier. Nous les faisons disparaître. N'est-ce pas la même chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Que proposez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Un accord simple. Gardez notre petit secret et nous partageons certaines de nos... offrandes avec vous avant que nous ne nous éclipsions. Qexetl a rapporté les possessions du nain. Vous pouvez aussi les prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Voici la première, d'une longue liste. Revenez une autre fois et nous veillerons à ce que vous soyez bien rétribué." Elle tire une sacoche de derrière l'autel à Ondra et vous la lance.</DefaultText>
+      <FemaleText>"Voici la première, d'une longue liste. Revenez une autre fois et nous veillerons à ce que vous soyez bien rétribuée." Elle tire une sacoche de derrière l'autel à Ondra et vous la lance.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Pourquoi en faire toute une histoire ? Je suis prête à vous aider à fermer les yeux là-dessus." Elle vous fixe du regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je ne veux rien de vous, à l'exception de vous voir quitter Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Les voleurs, près pour le voyage, forment une seule ligne comme des prêtres en pèlerinage. Lafda entrouvre la porte et jette un coup d'œil dehors. Elle donne le signal aux voleurs de fuir et vous lance un dernier regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"En voilà une." Lafda tire une sacoche de derrière l'autel à Ondra et vous la lance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je pensais qu'Ondra était la déesse de la perte et du deuil, pas de la rédemption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"C'est une..." La prêtresse croise les bras et transfère son poids. "...notion répandue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Les autres le croient peut-être, mais les mystères de la déesse sont profonds. Son véritable pouvoir consiste à racheter votre perte et votre regret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"N'est-ce pas à lui de décider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Il l'a fait. Il a compris le réconfort que la déesse peut offrir aux gens comme lui."
+
+"On lui a expliqué que nombreux sont ceux qui y réfléchissent à deux fois, mais on ne reprend pas ce que l'on a offert à une déesse."
+
+"Avec le temps, les souvenirs s'estompent, et ils finissent par voir la sagesse de leur serment originel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ce médaillon, il pèse sur l'esprit d'Okrun. Vous êtes assez aimable pour apporter de l'aide, mais il a surtout besoin de chasser ces souvenirs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Supposons qu'Okrun soit passé à autre chose. Dites-moi où se trouve son bijou de famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Je me demande ce que le chef du village dirait de cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Il ne l'a pas fait, c'est bien le problème." Lafda croise les bras. "D'ailleurs, vous n'avez aucune autorité ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous pensez que nous n'agissons pas en accord avec les coutumes locales ? Le village sait que nous sommes ici pour aider les malheureux, comme Okrun. Ils nous font confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>La peau pâle de la prêtresse se colore alors qu'elle se tend brièvement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>L'irritation de Lafda semble se calmer aussi vite qu'elle est venue, mais vous remarquez un sentiment persistant d'alarme dans les regards que les acolytes s'échangent après son emportement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Non. Et j'espère que vous... réalisez qu'il vaut mieux laisser les choses là où elles en sont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Alors, vous vous inquiétez du sort de votre porteur d'offrandes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Comment est-ce que-" La prêtresse tourne brusquement la tête sur le côté. Une veine bleue bat contre sa tempe blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Oui, c'est vrai. Nous craignons que notre porteur coure un danger. Les bandits guettent les voyageurs sur les routes et les passages autour de la Batterie de Durgan. Et..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Je déteste l'admettre, mais Ixtli est parti avec des offrandes pour la déesse et seuls les porteurs d'offrandes savent où les emporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Les bandits avaient ce carnet de notes. Il appartenait à un porteur d'offrandes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Lafda tient le carnet ouvert. Les pages tremblent dans ses mains agitées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"La vie d'un porteur d'offrandes est dangereuse. Nous savions que les bandits tendaient des embuscades sur les routes de ces montagnes mais je ne..." 
+
+La prêtresse serre ses mains autour du carnet de note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ceci." Elle indique le carnet de notes.
+
+"Je voudrais donner ceci au frère d'Ixtli." Ses yeux scintillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je comprends. Faites comme vous le devez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Bien sûr. Et mes condoléances, également."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Je l'ai trouvée, et je la garde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je pense qu'Ondra souhaiterait que vous laissiez ce passé derrière vous. Je le garderai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Lafda emporte rapidement le livre et s'adresse à nouveau à vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"... Et vous l'aurez ensuite." Les traits de la prêtresse se durcissent et elle vous jette le carnet de notes sans un regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"J'ai également vu Qexetl rejeter les coffres dans l'eau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"C'est une blague, ou bien vous essayez de nous discréditer devant tout le village ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Si vous laissez la déesse vous aider dans vos épreuves, évidemment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Et, naturellement, nous ferons également tout notre possible pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Elle joint ses mains et acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Je peux encore demander longtemps..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je vois qu'il est vain de vous dissuader. Et vous semblez..." Elle vous considère. "...être déterminé."
+
+"Très bien."</DefaultText>
+      <FemaleText>"Je vois qu'il est vain de vous dissuader. Et vous semblez..." Elle vous considère. "...être déterminée."
+
+"Très bien."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Non ! Nous n'avons rien à... craindre." Les ondulations de sa voix se calment rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vous êtes bien initié dans les méandres de notre foi. Il est inutile de cacher quoi que ce soit à quelqu'un comme vous."</DefaultText>
+      <FemaleText>"Vous êtes bien initiée dans les méandres de notre foi. Il est inutile de cacher quoi que ce soit à quelqu'un comme vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vous pourriez tout aussi bien lui demander mais il est parti dans les montagnes de la Batterie de Durgan. Si vous rencontrez Ixtli, dites-lui qu'il a des obligations urgentes qui l'attendent ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Peu importe. Tôt ou tard, le village l'aurait su." Lafda se retourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Merci. Autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Telle est la volonté d'Ondra. Maintenant, y a-t-il autre chose ou bien puis-je retourner à mes obligations en paix ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Quoi ? Que voulez-vous dire ? Mais de quoi parlez-vous ?"
+
+Son sourire s'efface à chaque question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Le reste se trouve dans le grand coffre." Elle se tourne vers ses complices et acquiesce. Ils rangent leurs armes et commencent à rassembler leurs affaires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Cette fois-ci, nous passons à autre chose." La porte se referme derrière elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ixtli... Notre cher ami ne chemine plus à nos côtés." Elle referme le carnet de notes mais reste fixée sur sa couverture.
+
+Ses compagnons partagent leur surprise en échangeant des regards rapides. L'un après l'autre, ils baissent la tête de consternation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"J'ai appris que les adorateurs de Berath vous ont récemment rendu visite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Peu de choses se déroulant par ici échappent aux villageois... Mais nous sommes obligés d'assister chacun, quelle que soit sa foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Un groupe de femmes est venu, oui. Leur chef voulait en savoir plus sur la Batterie de Durgan. Je leur ai simplement pointé la route à suivre pour l'atteindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Elles sont parties aussi calmement qu'elles sont arrivées, ce qui ne nous a pas plus rassurés sur leurs véritables intentions. Cet endroit est déjà assez dangereux."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

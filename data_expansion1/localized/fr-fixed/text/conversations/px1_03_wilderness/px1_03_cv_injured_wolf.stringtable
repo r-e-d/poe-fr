@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_injured_wolf</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce loup est étendu dans la neige, haletant sous le coup de la douleur et de la fatigue. Une flèche lui a transpercé la patte avant et fait une terrible saillie dans le flanc de l'animal.
+
+Le loup, la queue entre les jambes, émet un petit grognementen vous voyant approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examinez la blessure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Utilisez vos connaissances médicales pour soigner sa blessure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Essayez d'enlever la flèche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Calmez le loup.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le loup a dû croiser le chemin d'un chasseur. Une flèche d'argent dépasse de sa patte avant droite. Elle ne semble pas plantée trop profondément.
+
+Et pourtant, vous avez peur que sans les connaissances appropriées, vous pourriez aggraver la blessure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Le loup a dû croiser le chemin d'un chasseur. Une de ses pattes avant est traversée d'une flèche en argent. Son empennage est déchiqueté ; l'animal a dû tenter de la retirer avec les dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Votre tentative de calmer le loup semble porter ses fruits et, à l'exception de gémissements occasionnels, l'animal reste immobile pendant que vous travaillez.
+
+Vous retirez délicatement la flèche et pansez la blessure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Laissez-le tranquille.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous vous approchez du loup en parlant d'une voix apaisante. Petit à petit, il se calme, mais continue de vous lancer des regards craintifs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Abrégez les souffrances du loup.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous attrapez fermement le loup par la peau du coup. Gagné par la panique, il commence de se débattre, mais vous n'avez pas de mal à le maîtriser.
+
+Vous n'avez maintenant plus qu'à faire glisser votre lame sur le cou de l'animal et, quelques instants plus tard, il ne réagit plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>D'abord calme, le loup s'agite et se met à paniquer dès que vous posez les mains sur sa patte blessée. Il pousse un jappement de douleur et essaye de vous mordre les mains, puis se jette sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous attrapez le loup par la peau du coup et tentez de l'immobiliser, mais l'animal panique. Il se débat avec l'énergie du désespoir. Dans un mouvement brusque, il vous échappe et se jette sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Chantez une chanson pour calmer le loup.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Lancez Charme de la bête sur le loup.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous vous approchez doucement du loup en chantonnant une douce mélodie. L'animal couche les oreilles, mais arrête de grogner.
+
+Petit à petit, le loup se calme, mais continue de vous lancer des regards craintifs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Votre sort agit rapidement. Le loup arrête de grogner et s'étend mollement dans la neige en remuant doucement la queue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 0] approche pour aider l'animal. Votre tentative de le calmer semble avoir porté ses fruits. Il reste immobile à l'exception de quelques gémissements.
+
+[Slot 0] retire délicatement la flèche et panse la blessure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous avez à peine terminé que le loup se remet précipitamment sur ses pattes.
+
+Il vous regarde un long moment avant de partir d'un trot boitillant et s'éloigne entre les arbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Votre tentative de calmer le loup semble porter ses fruits et, à l'exception de gémissements occasionnels, l'animal reste immobile pendant que vous travaillez.
+
+Vous retirez délicatement la flèche et pansez la blessure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0] a à peine terminé que le loup se remet précipitamment sur ses pattes.
+
+Il vous regarde un long moment avant de partir d'un trot boitillant et s'éloigne entre les arbres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Le loup est immobile, mais alors que vous posez les mains sur sa patte blessée, pris de panique, il se débat.
+
+Edér s'approche de vous d'un air grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Allez. Laissez-moi."
+
+Il s'agenouille derrière la créature et croise lentement les bras sur sa poitrine et son torse. Il calme le loup comme on calme un enfant qui pleure et le caresse de la main.
+
+Il vous fait un signe de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Essayez maintenant."
+
+Le loup se débat et grogne, mais Edér ne lâche pas prise et maintient fermement la bête pour vous permettre d'intervenir. L'animal lui mort la main jusqu'au sang, mais il ignore la douleur et continue pour tenter de le calmer.
+
+Vous retirez délicatement la flèche et pansez la blessure.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

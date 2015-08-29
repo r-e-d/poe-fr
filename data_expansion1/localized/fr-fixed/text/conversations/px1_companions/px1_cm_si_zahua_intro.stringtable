@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px1_cm_si_zahua_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Des têtes jetées de la prise du jour, nageant au milieu d'ailerons et de viscères, une dizaine de paires d'yeux globuleux lancent un regard fixe et piteux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Fouillez les déchets de poisson.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Votre main rencontre quelque chose de rond et de charnu, de la taille d'un melon. C'est lisse et sans écailles, et une partie semble être couverte de poils, une tête coupée, peut-être, mais pas celle d'un poisson...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Donnez un petit coup sur la tête.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Tirez la tête.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Les mains sur chaque côté de la tête, vous commencez à l'extirper, avant qu'elle ne vous échappe et jaillisse hors du baril dans une éruption de morceaux de poissons s'écoulant sur l'étal de marché.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>La tête s'enfonce encore plus dans les recoins visqueux du baril.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

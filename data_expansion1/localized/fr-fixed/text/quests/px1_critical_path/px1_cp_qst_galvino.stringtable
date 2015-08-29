@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_galvino</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le reclus de la Marche blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez la cabane de Galvino, près de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouvez un villageois de Stalwart dont l'âme descend d'un nain de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Éveillez l'âme d'un nain de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Galvino vit dans l'ombre de la Batterie de Durgan. Il sait peut-être quelque chose d'intéressant sur le donjon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Renengild m'a dit que je trouverais Galvino, un forgeron et animancien excentrique, à l'est de la Batterie de Durgan. Uldric pense qu'il pourrait me fournir des renseignements utiles sur le donjon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>D'après Galvino, pour entrer dans la Batterie de Durgan, il me faut son cantec, un poème que les nains récitaient à l'époque où le donjon était encore en activité. Malheureusement, tous ceux qui auraient pu connaître ce cantec sont morts.  
+
+Mais Galvino pense que les âmes de certains habitants de Stalwart descendent peut-être de ces nains. Et compte tenu de mes capacités, je n'aurai aucun mal à les trouver. Je pourrais apprendre le cantec en Éveillant une de ces âmes. Cela dit, cela pourrait aussi condamner quelqu'un à un sort semblable au mien... ou à celui de Maerwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai trouvé quelqu'un dont l'âme descend directement d'un nain de la Batterie de Durgan. Je peux Éveiller cette personne dès maintenant ou continuer à chercher d'autres candidats à Stalwart.  
+
+D'une façon ou d'une autre, je vais devoir Éveiller une personne capable de me révéler le cantec de la Batterie de Durgan. Pour Éveiller une âme ancienne, je dois m'adresser directement à elle.   
+
+Cela semble facile, mais les conséquences sur l'hôte de cette âme sont imprévisibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Galvino m'a donné un outil qui pourrait m'être utile. Si je l'utilise en présence des villageois, il devrait me désigner tous ceux qui possèdent une âme âgée de plusieurs siècles. Ce n'est pas parfait, mais cela devrait faciliter mes recherches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Owynna, une femme de chambre au Refuge du gréf, partage son âme avec un nain appelé Gregur. Il est corrompu et fourbe, donc l'Éveiller pourrait rendre les choses... intéressantes pour la femme de ménage timide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Taena, la vieille contremaître de la mine, est l'âme descendante d'une femme au tempérament colérique appelée Zenove. Aussi violente que soient les derniers souvenirs de Zenove, l'Éveiller pourrait être une proposition risquée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Il y a peut-être quelqu'un d'autre en ville que je pourrais Éveiller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai trouvé la cabane de Galvino, mais il ne s'y trouve pas. Il serait peut-être intéressant de jeter un coup d'œil aux alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Gregur, un capitaine corrompu de la garde de la Batterie de Durgan dont l'âme vit en Owynna, m'a enseigné le cantec. L'Éveil semble avoir déjà opéré un changement sur elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Zenove, une naine qui a vécu et péri à la Batterie de Durgan, m'a enseigné le cantec. J'ai réussi à maîtriser l'intensité de Zenove sans que cela n'affecte Taena. En fait, l'ancienne contremaître de la mine semble avoir retrouvé de l'énergie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Zenove, une naine qui a vécu et péri à la Batterie de Durgan, m'a enseigné le cantec. Malheureusement, Zenove a pris le contrôle du corps de Taena et m'a attaqué. J'ai dû la tuer.</DefaultText>
+      <FemaleText>Zenove, une naine qui a vécu et péri à la Batterie de Durgan, m'a enseigné le cantec. Malheureusement, Zenove a pris le contrôle du corps de Taena et m'a attaquée. J'ai dû la tuer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>La femme que je cherchais était déjà morte, mais son âme errante m'a enseigné le cantec.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

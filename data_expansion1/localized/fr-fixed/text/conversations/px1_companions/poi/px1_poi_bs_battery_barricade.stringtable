@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\poi\px1_poi_bs_battery_barricade</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Les traces sont recouvertes d'ossements, de poussière et d'autres traces. Mais il y a bel et bien eu un massacre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pas mal. Ça aère bien la pièce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Leur rage et leur combativité sont intactes, Gardien ! Soyons prudents."</DefaultText>
+      <FemaleText>"Leur rage et leur combativité sont intactes, Gardienne ! Soyons prudents."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qui a bien pu faire des dégâts pareils ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"La barricade n'a pas dû servir à grand-chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Cette barricade a dû se révéler tout aussi inefficace que les nains qu'elle était censée protéger. Ce n'est pas en se cachant qu'on gagne une guerre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ouah ! Ceux qui ont réussi à démolir un mur aussi épais ont bien mérité de massacrer ceux qui se cachaient derrière."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_bs_wounded_hunters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ces loups ont envahi notre camp. Cette créature nous a entraînés jusqu'ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'ai bien cru que nous étions finis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Soyez béni, étranger. Nous allons retourner vers le village."</DefaultText>
+      <FemaleText>"Soyez béni, étrangère. Nous allons retourner vers le village."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

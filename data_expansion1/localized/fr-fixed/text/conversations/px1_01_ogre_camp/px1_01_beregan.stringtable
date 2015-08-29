@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_01_ogre_camp\px1_01_beregan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>108</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vous vous approchez du clan des Flammes-Qui-Murmurent et vous empestez la puanteur de Stalwart. Vous souillez nos murs de rêves de batailles et d'effusions de sang."
+
+La matrone se fend d'une grimace menaçante. Tout en serrant les poings, elle vous regarde attentivement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je suis ici au nom de Stalwart. J'essaie simplement de protéger le village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Mentez.] "Je ne suis pas allé à Stalwart."</DefaultText>
+      <FemaleText>[Mentez.] "Je ne suis pas allée à Stalwart."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Attaquez.] "En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Alors, vous n'avez rien à voir avec le massacre des ogres de la matrone Forgash." Elle continue de vous observer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Le sang des ogres s'accroche à vous comme la puanteur d'une pique en putréfaction. Mentez-moi encore une fois et je vous arrache la langue."
+
+Elle grince des dents d'un air menaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Comme une crevasse dans la glace, ils se sont enfoncés sur nos terres à chaque lune décroissante. Mais nous leur répondrons, coup pour coup." Elle ponctue ses mots et frappe ses poings l'un contre l'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Pourquoi vous attaquerais-je ? C'est le clan du Loup-Aux-Nombreuses-Gueules qui a attaqué Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Son regard féroce s'adoucit. "Le clan de la matrone Forgash. Mais il est rare que les gens de votre espèce fassent la différence. Et Stalwart..." 
+
+Elle montre les dents avec hargne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vos ogres ont ouvert une brèche dans la palissade du village et..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Les villageois cherchent la Forge blanche. Ils ne sont pas là pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vous feriez mieux de les laisser tranquilles ou vous devrez me rendre des comptes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Elle frotte une de ses mains calleuses. "Assez parlé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ne me menacez pas dans mon propre camp, [Player Race]." Difficile de dire si son expression s'apparente à un sourire ou à une grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ils faiblissent. Et vous chargent d'ouvrir une voie dans le donjon." Un frisson parcourt sa peau épaisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"La Batterie de Durgan vous perturbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ce n'est pas vrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Les éclaireurs de la matrone Forgash ont repéré vos traces dans la neige et senti votre odeur dans le vent." Son front se plisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>La matrone renifle. "Pas encore. Mais cet endroit suscite la convoitise des êtres civilisés. Vous vous en approchez et tentez de rassembler vos forces contre ses murs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Oui, et veillez à ne pas vous approcher de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ne me menacez pas sur mes propres terres, [Player Race]. Je ne l'ai pas toléré des précédents êtres civilisés venus ici et je ne le tolérerai pas davantage de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Mes rêves m'ont poussée à fonder ce clan. Et maintenant, mes rêves me disent que l'ambition de Stalwart nous conduira à notre perte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Stalwart a bien du mal à survivre. Et ses habitants ne veulent surtout pas d'ennuis avec vous... Ni avec personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Les rêves sont souvent porteurs de vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Cela ne vous concerne pas. Stalwart veut la Batterie de Durgan pour des raisons commerciales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"J'ai plus confiance en vous qu'en ces villageois... Ou les imbéciles qu'ils appellent à la rescousse." Elle se gratte la tête dans un bruit métallique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Beregan secoue la tête. "Allez en paix. Mais renoncez définitivement à la Batterie de Durgan." Elle baisse le menton pour vous regarder droit dans les yeux. La grotte est silencieuse et seule la respiration bruyante des autres ogres se fait entendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"C'est d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Tant que vous ne saurez pas ce qu'abrite la Batterie de Durgan, votre clan vivra dans la crainte d'un mystère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je ne peux pas accepter cela." Mais je vous promets que vous n'aurez rien à craindre de la Batterie ou de Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Attaquez Beregan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"J'en ai assez de vos vaines paroles, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Mentez-moi encore une fois et je vous arrache la langue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Beregan grogne. "Dans mes rêves, j'ai vu des décombres en haut de leur village. Mais pourquoi vous ont-ils demandé de venir ?" Elle plisse les yeux, se grattant le cou de ses ongles épais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je n'accorde que peu d'importance aux rêves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Attaquez.] "Alors, je vais devoir mettre fin à tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Beregan grogne. "Les rêves ne mentent pas, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Nous le pensons aussi. Les visions d'une matrone lui confèrent toute sa puissance." Elle serre les poings et fait bruyamment craquer ses articulations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Stalwart entend peut-être vous chasser grâce aux armes de la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Elle acquiesce doucement. "Les rêves sont parfois chargés de symboles. Mais oui, c'est ce que je crains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Vous pouvez vous promener librement dans notre camp, [Player Race]. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Morug vous donnera des provisions et vous indiquera un endroit où vous reposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Laissez-moi. Je dois me reposer et écouter ce que les vents nocturnes ont à me dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"J'ai entendu dire que d'autres aventuriers, des membres de la Clé plombée, avaient croisé votre chemin. Je cherche des indices sur ce qu'ils ont bien pu trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Ses yeux se plissent. "Les vents nocturnes ont chuchoté ce nom à mes oreilles. Ils nous ont trouvés, les armes à la main. En ce qui concerne ce que nous avons trouvé..."
+
+Elle soupire. De puissantes volutes s'échappent de ses narines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Alors, prenez le butin de vos imbéciles de prédécesseurs. J'espère qu'il vous sera utile." Sa bouche se crispe. 
+
+Un des ogres situés près de Beregan lui murmure quelque chose à l'oreille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Trêve de mensonges et de menaces si vous voulez partir d'ici en vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Mentez.] "Je ne peux pas accepter cela. Mais je vous promets que vous n'aurez rien à craindre de la Batterie ou de Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Les villageois épient nos camps et perturbent nos chasses. Ils nous harcèlent avant de battre en retraite derrière leurs murs." Sa voix trahit sa profonde colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Des rêves. Des grêlons qui tombent tels des boulets de canon des remparts. Un vent glacial souffle bruyamment à travers la porte de la tour." Ses ongles grattent sa tignasse noueuse et mettent en évidence une partie cramoisie de son cuir chevelu. 
+
+Ses grognements faiblissent et sa respiration ralentit. Elle vous regarde, les yeux injectés de sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"En dehors des contrebandiers et des esclavagistes, rares sont les êtres civilisés à venir ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je ne cherchais pas d'ennuis aux habitants de Stalwart. Mais ils n'ont qu'une idée en tête : brûler nos camps et disperser nos clans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Morug vous indiquera un lieu où vous reposer et vous donnera des provisions. Vous le trouverez à l'entrée de la grotte." Elle lève un bras balafré et musclé, et désigne l'endroit d'où vous êtes venu.</DefaultText>
+      <FemaleText>"Morug vous indiquera un lieu où vous reposer et vous donnera des provisions. Vous le trouverez à l'entrée de la grotte." Elle lève un bras balafré et musclé, et désigne l'endroit d'où vous êtes venue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"J'espère que vous savez joindre les actes à la parole, [Player Race]. Il est rare qu'une matrone trahisse ses rêves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Mais vous devez veiller à ce que les habitants de Stalwart cessent de nous harceler." Elle lève ses épais sourcils pour vous regarder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Du poisson. De la sueur. Du soufre."
+
+L'ogresse renifle l'air et révèle de grosses narines sombres comme deux canons de pistolet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Mais ils arrivent armes à la main et font couler le sang de mes congénères sur leur passage." De longs poils noirs se hérissent sur ses bras et son cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Bien sûr !" Son souffle chaud siffle entre ses dents.
+
+Les autres ogres grognent et vous regardent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Attaquez] "Je suis ici pour vous détruire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Et maintenant, vous allez me dire pourquoi vous êtes ici." Sa voix est calme, mais menaçante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Elle renifle. "Pourquoi protéger des lâches et des agitateurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Son hurlement de rage est repris en cœur par ses congénères. La pièce gronde jusqu'à ce que Beregan lève la voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Et maintenant, vous répandez des mensonges ! Ils appartenaient au clan du Loup-Aux-Nombreuses-Gueules ! Mon clan était ici, avec moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"C'est la carcasse moribonde d'une civilisation décadente ! Elle suppure d'esprits agités et de sorts putrides. Je vois..."
+
+Elle gronde et tient sa tête de ses grosses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Pendant quelques secondes, personne ne pipe mot. Beregan vous scrute alors que les autres ogres la regardent, les mains sur leurs gourdins et les lèvres grimaçantes.
+
+Enfin, ses épaules se détendent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Elle hoche la tête. "Vous êtes désormais en paix avec les Flammes-Qui-Murmurent. Et je vous remercie pour avoir évité à mon clan d'inutiles violences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Je suis venu de mon plein gré. J'aimerais percer les secrets de la Batterie."</DefaultText>
+      <FemaleText>"Je suis venue de mon plein gré. J'aimerais percer les secrets de la Batterie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"La Batterie de Durgan renferme de rares et précieuses armes. Je veux les trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Stalwart a sollicité mon aide. Je dois aider ses habitants à trouver la Forge blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Ses narines s'élargissent. "Alors, vous m'avez menti. Si vous vous contredisez en quelques minutes, comment voulez-vous que je vous fasse confiance ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Je ne faisais qu'explorer les lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"En fait, je suis ici pour la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Les autres ogres reprennent en cœur son hurlement furieux. Beregan et ses congénères poussent des cris de colère et tapent des pieds au point de faire trembler le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Elle renifle. "« Vous exploriez ». Seuls les contrebandiers, les esclavagistes et les imbéciles viennent explorer l'ancienne forteresse des nains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Oui, elle manie la langue doucereuse des poètes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Veillons à ne pas la mettre à l'épreuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Oui, elle manie la langue doucereuse des poètes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Veillons à ne pas la mettre à l'épreuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Alors, vous êtes à moitié aveugle. Les visions d'une matrone lui confèrent toute sa puissance." Elle serre les poings et fait bruyamment craquer ses articulations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"À ce qu'on raconte, les nains Pargruns se sont entretués à la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Leurs esprits sont toujours présents dans les rêves qui les ont infectés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Mentez.] "Très bien, je vais définitivement renoncer à la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Pendant quelques secondes, personne ne pipe mot. Beregan vous scrute alors que les autres ogres la regardent, les mains sur leurs gourdins et les lèvres grimaçantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Vous mentez particulièrement bien, [Player Race]. Contrairement à vos congénères."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Je vais vous accorder une faveur. Et vous donner les effets des derniers imbéciles qui sont venus ici... Peut-être vous seront-ils utiles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Vous êtes désormais en paix avec les Flammes-Qui-Murmurent. Même si je regrette que vous ayez fait autant de victimes dans nos grottes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Elle fronce les sourcils. "Compte tenu des circonstances, je vais passer outre le triste sort que vous avez réservé à mon clan. Vous êtes désormais en paix avec les Flammes-Qui-Murmurent. Pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ne me regardez pas. J'ai pris un bain lors de notre dernier bivouac."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Attention. Elle se met facilement en colère."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Je me sens étrangement offensé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ah. Son odorat est comparable à ma vue. Mais je crois quand même que je suis mieux lotie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Tout sent parfaitement bon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Je ne crois pas que cela soit dit dans le bon sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Elle a peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Je crois que vous avez toute leur attention, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Dire que les matrones sont moins agressives que les mâles est très relatif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Une réaction plutôt familière, je dois dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Les villageois ne sont pas les seuls à avoir des superstitions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"On dirait Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Je suis flatté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ah, bien. L'odeur est toujours présente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Nos rêves sont pour la plupart la manifestation de nos peurs. Mais ce n'est pas pour autant que ces peurs ne sont pas fondées."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

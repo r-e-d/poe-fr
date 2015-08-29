@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_forge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La Forge blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Descendez au sous-sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Continuez au-delà des mines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouvez la Forge blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Éveillez la Forge blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Je suis entré dans la Batterie de Durgan. La Forge blanche doit se trouver au sous-sol.</DefaultText>
+      <FemaleText>Je suis entrée dans la Batterie de Durgan. La Forge blanche doit se trouver au sous-sol.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le rez-de-chaussée de la Batterie de Durgan semble avoir été déserté depuis longtemps. J'ignore où sont passés les nains, mais ils ont laissé une vraie pagaille derrière eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé un niveau qui semble être un ancien carrefour minier. Comme le reste de la Batterie de Durgan, il est désert. Je vais devoir poursuivre mes recherches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai atteint le niveau inférieur de la Batterie de Durgan. Il y fait étrangement chaud.  
+
+C'est ici que les nains ont mené leur dernier combat. Et la Forge blanche se trouve quelque part à ce niveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai trouvé la légendaire Forge blanche. Je dois découvrir comment elle fonctionne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>L'accès au niveau supérieur est bloqué par des décombres. Je vais devoir me contenter d'explorer un autre endroit pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai eu une vision des nains de la Batterie. Ils débattaient de la stratégie à adopter pour se défendre d'un ennemi. Apparemment, beaucoup d'entre eux ont fui vers les niveaux inférieurs de la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>La porte qui mène vers le bas semble être scellée, mais il y a une sorte de cavité en pierre à côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé un cadran solaire en pierre. Je ne sais pas très bien à quoi il sert, mais c'est un travail artisanal soigné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Le cadran nécessaire pour ouvrir la voie est bloqué dans l'atelier - j'ai trouvé les restes du vieux nain qui l'a laissé là-bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai trouvé le cadran en pierre qui ouvre la porte vers les niveaux inférieurs de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai trouvé une sphère étrange, taillée dans l'adra et ressemblant à un œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé une autre sphère en adra, elle aussi taillée dans une forme d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai pris un disque en adra sur une machine étrange. Il semblerait que sa fonction était de canaliser de l'essence dans la Forge blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai trouvé une étrange sphère, sculptée dans de l'adra et ressemblant à un œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai trouvé une autre sphère d'adra, elle aussi ressemblant à un œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai récupéré un disque d'adra sur une étrange machine. Visiblement, il permettait de canaliser l'essence vers la Forge blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai libéré les âmes de la Batterie de Durgan pour qu'elles rejoignent le cycle de la vie et de la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai lié les âmes de la Batterie de Durgan aux canons pour qu'elles défendent la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai lié les âmes de la Batterie de Durgan à la Forge blanche pour qu'elles puissent guider les futurs forgerons.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

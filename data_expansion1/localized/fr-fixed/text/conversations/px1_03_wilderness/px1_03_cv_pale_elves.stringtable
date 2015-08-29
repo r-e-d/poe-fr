@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_pale_elves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Cesse de résister, stupide animal ! Ton entêtement ne mène à rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>" Hé, Vamrel..."
+
+Un des elfes s'est tourné et regarde dans votre direction. Il fait un geste à l'homme qui s'occupe de l'ogre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Les elfes se tournent vers vous, prêt à dégainer. Vamrel tire sèchement sur la corde une dernière fois avant de se tourner lui aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Tirez une flèche sur la corde.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que faites-vous à cet ogre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous êtes loin de chez vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Cette créature va nous accompagner à Waestrand. Nous avons eu des soucis sur la route, mais ça n'arrivera plus maintenant que nous avons un ogre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Un groupe d'elfes encercle un ogre. Ils ne semblent pas être en train de se battre.
+
+L'ogre est entravé par des liens et un elfe tire sèchement sur la corde qui lui entoure le cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>L'ogre grogne d'énervement et résiste à la traction de la corde.
+
+Deux autres elfes le poussent timidement du bout de leurs haches de guerre. L'ogre ne bouge pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Avant que quiconque puisse réagir, vous avez encoché et laissé voler une flèche.
+
+Elle siffle dans l'air et atteint la corde reliant les mains de l'ogre à son cou. Les nœuds lâchent dans un craquement sec.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Arrêtez cet ogre – mais ne l'endommagez pas ! Et amenez moi la tête de cet imbécile !"</DefaultText>
+      <FemaleText>"Arrêtez cet ogre – mais ne l'endommagez pas ! Et amenez moi la tête de cette imbécile !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Un autre elfe murmure quelque chose à l'oreille de Vamrel.
+
+Les yeux de Vamrel s'illuminent.
+
+"Eh, pas si vite. Du calme, l'animal... Voyons ce que tu sais faire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ahh ! L'ogre s'est libéré !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Donnez un coup de poing à l'elfe le plus proche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Un bien triste spécimen, pour un ogre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous avancez d'un pas décidé et étendez l'elfe d'un robuste direct en pleine mâchoire.
+
+Les autres elfes se tournent, ahuris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous tentez d'envoyer un robuste direct sur le visage de l'elfe, mais le coup ne la fait reculer que de quelques pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Alors qu'ils tirent leurs armes, l'ogre profite de l'agitation pour tirer la corde vers lui et l'arracher des mains de son  ravisseur.
+
+Avec un rugissement de triomphe, il se débarrasse des cordes qui lui entravaient les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Partez] "Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>L'ogre pousse un long meuglement et se jette soudain en arrière, arrachant la corde des mains de son ravisseur.
+
+Avec un rugissement de triomphe, il se débarrasse des cordes qui lui entravaient les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oh, nous serons loin demain. Nous prenons seulement un peu d'aide supplémentaire au passage."
+
+Il regarde en direction de l'ogre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Les ogres des Chemins Infinis étaient de solides gaillards. Leurs cousins des montagnes sont peut-être plus délicats."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Besoin d'aide ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Voilà une offre bienveillante, mais nous maîtrisons la situation. Cette bête nous a suivis docilement jusqu'ici. Ce sera bientôt de nouveau le cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Et voilà ! Il devait seulement évacuer un trop plein d'agressivité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous tentez d'envoyer un robuste direct sur le visage de l'elfe, mais vu la force de votre coup, elle est plus surprise que blessée et elle ne tarde pas à s'en remettre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Avec un rugissement de triomphe, l'ogre se débarrasse de ses dernières entraves et se jette sur ses ravisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Il n'était pas cher. Nous avons besoin de muscles et les dieux savent qu'ils ne sont pas bons à grand-chose d'autre." Vamrel tire une nouvelle fois sur la corde.
+
+Le regard chargé de haine de l'ogre s'assombrit encore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je l'ai acheté à des chasseurs d'esclaves, pas loin d'ici. Ils devaient chercher à rentrer dans leurs frais, j'imagine."
+
+Il grogne. "Je ne suis pas sûr qu'il vaille son pesant de pands, cela dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"C'est aussi bien que Korgrak ne soit pas là. Je pense qu'il trouverait la situation un brin embarrassante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tout comme vous, étranger. Les climats plus rudes vous manquaient à ce point ?"
+
+Vamrel glousse. "Nous serons loin demain. Nous prenons seulement un peu d'aide supplémentaire au passage."</DefaultText>
+      <FemaleText>"Tout comme vous, étrangère. Les climats plus rudes vous manquaient à ce point ?"
+
+Vamrel glousse. "Nous serons loin demain. Nous prenons seulement un peu d'aide supplémentaire au passage."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Les elfes devraient avoir honte. C'est de l'esclavage... Même s'il s'agit d'un monstre violent !"
+
+Hiravias serre les poings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh là. Je crois que ça a un peu trop bien marché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Nous sommes attaqués !" Elle dégaine son arme et les autres elfes se tournent vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vamrel vous fixe du regard. "Regardez ce que vous avez fait !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

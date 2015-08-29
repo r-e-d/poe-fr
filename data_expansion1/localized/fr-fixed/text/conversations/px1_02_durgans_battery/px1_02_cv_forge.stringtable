@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_forge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous avez utilisé la Forge blanche pour lier vos âmes à la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Libérez-les de la Batterie de Durgan] "Vous êtes libres. Retournez à la Roue et cherchez de nouvelles vies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Liez-les aux canons.] "Défendez la forge d'Abydon et la forteresse que vous avez bâtie autour d'elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Liez-les à la Forge blanche.] "Veillez sur votre héritage. Restez ici et mettez vos talents au service des autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Vous percevez les liens ténus qui unissent les âmes à la Batterie. Au moment où vous rompez ces liens, les âmes se mettent à crier, certaines de soulagement et d'autres de rage.   
+
+Une sorte de pression riche en essence et en énergie se forme dans l'éther. Vous vous couvrez les oreilles et serrez les dents pour supporter le bourdonnement dévastateur qui assaille le cœur de votre âme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Les âmes remontent et traversent les briques, quittant la Forge blanche comme si elles fuyaient un cœur battant en feu. Les murs grincent et craquent sous la soudaine poussée d'énergie.  
+
+Finalement, vous les sentez s'éloigner au-dessus de vous, à l'extérieur du donjon. Leur énergie et leur détermination sont palpables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Une sorte de vertige vous gagne tandis que l'énergie de dizaines d'âmes se rue vers la Forge blanche. Elle vous fait vaciller comme un vent tempétueux, mais vous tenez bon.  
+
+Finalement, l'éther s'apaise et vous sentez un nouveau pouvoir irradier de la Forge blanche. Il en émane une chaleur qui atteint votre âme, mais vous savez que vous pourriez vous en approcher sans craindre la chaleur de ses flammes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Halte, maraudeur ! Nos corps ne sont plus que poussière... Faut-il vraiment que vous profaniez ce sol sacré en y déchaînant à nouveau la violence ?"  
+
+Des flammes rugissent et jaillissent de la Forge. En s'élevant, elles illuminent la pièce d'un éclat rouge sang.</DefaultText>
+      <FemaleText>"Halte, maraudeuse ! Nos corps ne sont plus que poussière... Faut-il vraiment que vous profaniez ce sol sacré en y déchaînant à nouveau la violence ?"  
+
+Des flammes rugissent et jaillissent de la Forge. En s'élevant, elles illuminent la pièce d'un éclat rouge sang.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"La hauteur de nos murs vous a-t-elle dérangé ? Avons-nous franchi vos frontières ? Avons-nous vendu de l'acier de mauvaise qualité ?"</DefaultText>
+      <FemaleText>"La hauteur de nos murs vous a-t-elle dérangée ? Avons-nous franchi vos frontières ? Vendez-vous de l'acier de mauvaise qualité ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Dites-nous... Pourquoi avez-vous envahi notre forteresse ?"  
+
+Au-delà de la colère et des flammes rugissantes, vous entendez la voix d'un vieil homme fatigué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"La Batterie de Durgan a été déserte pendant plus de deux cents ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Envahi ? Il n'y a ici que des esprits et des squelettes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Eh bien, la porte d'entrée était ouverte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"C'est un malentendu. Cet endroit est abandonné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Votre forteresse est en ruines et votre peuple a été réduit en poussière. Qui aurait pu m'arrêter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Non, c'est impossible. Abydon ne l'aurait pas permis."  
+
+Les flammes vacillent et la pierre devient subitement froide sous vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Éveillez-vous, Exandru ! C'est pour ça qu'Abydon a tenu à nous confier la Forge blanche. Pour qu'on prenne les armes et qu'on s'occupe de ce genre de scélérats !"  
+
+La chaleur qui surgit à nouveau de la forge vous picote la peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"C'est de la faute de Zoltun ! Il a pratiquement invité ces étrangers à nous dérober notre meilleur acier."  
+
+La chaleur qui surgit à nouveau de la forge vous picote la peau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"N'importe quoi ! Si nous avons des étrangers armés à notre porte, c'est parce qu'elle les a menacés d'envahir leur territoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Elle ne voit dans ce magnifique dispositif qu'un instrument de guerre. Elle déshonore nos aïeuls, eux qui ont parcouru ce continent..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Silence, tous les deux ! Vous ne sentez donc pas ? Ce froid, ce... silence."  
+
+Le feu crépite et craque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Mais vous... Vous vous êtes introduit dans notre donjon et l'avez trouvé abandonné. En ruines."  
+
+"Que nous est-il arrivé ?"  
+
+La question jaillit de la gueule de la Forge blanche et vous enveloppe comme un nuage de fumée.</DefaultText>
+      <FemaleText>"Mais vous... Vous vous êtes introduite dans notre donjon et l'avez trouvé abandonné. En ruines."  
+
+"Que nous est-il arrivé ?"  
+
+La question jaillit de la gueule de la Forge blanche et vous enveloppe comme un nuage de fumée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"J'espérais que vous me le diriez. De quoi vous souvenez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"On raconte que vous vous êtes entretués."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Officiellement, on raconte que vous vous êtes entretués. Mais apparemment, quelqu'un (ou quelque chose) a envahi la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Nous nous combattions, c'est vrai, mais seulement par la parole. Par les idées."  
+
+"Cela suffisait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Nos divisions nous ont empêchés de nous préparer à ce qui nous attendait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je n'avais jamais rien de vu de tel ! Ils étaient deux fois plus grands que des ogres et particulièrement déterminés. Ils étaient..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ils n'avaient pas d'yeux. Quoi que nous fassions et où que nous allions, ils étaient là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"C'est étrange. Ils sont arrivés si soudainement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Qu'est-ce que c'était ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Pourquoi vous ont-ils attaqués ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Des sortes de maegfolcs, mais plus gros que ceux que nous connaissions. Tous ceux qui les ont approchés sont morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ils étaient implacables. Étrangement implacables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ils ne nous l'ont pas dit. Mais je me suis demandée quels monstres pourraient survivre dans un tel endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Et s'ils venaient de l'est ? Des terres que Marunn convoitait tant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"C'était un châtiment. Parce que nous avons gâché ce don d'Abydon, la Forge blanche, avec notre avidité et notre vanité."  
+
+Les autres voix restent silencieuses, mais vous percevez leurs doutes et leurs désaccords dans la chaleur étouffante de la forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Nous aurions dû prendre notre acier et partir vers l'est."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Nous avons battu en retraite jusqu'à ce qu'il ne nous reste nulle part où aller. Jusqu'à ce que les survivants arrivent ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ici, avec la planche de salut qu'Abydon nous avait laissée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Quelle planche de salut ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"La Forge blanche. Grâce à elle, nos forgerons ont extrait nos âmes de nos corps et les ont mises à l'abri dans les pierres de la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Oui. En utilisant les méthodes qui nous permettaient jadis de fabriquer de l'acier froid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Abydon nous a fait ce cadeau. Maintenant, nous résidons dans l'édifice que notre peuple a bâti pour protéger la Forge blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ce fut une véritable agonie de sentir notre âme arrachée à notre chair, de nous sentir écartelés..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Mais cela nous a sauvés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Emprisonnés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Quel rapport avec Abydon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Comment fonctionne la Forge blanche ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ses feux ont été bénis par Abydon. Ils sont alimentés par le battement de cœur fondu d'Eora et par l'adra qui descend jusqu'au centre du monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ce qui explique son pouvoir conducteur. Voyez-vous, ces veines d'adra nous ont permis d'imprégner l'acier d'essence afin de le façonner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Et ce sont cette essence, la chaleur extraordinaire de la forge et les talents de nos forgerons qui rendaient l'acier de Durgan aussi exceptionnel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"La Forge blanche appartient à Abydon. C'est là qu'il a façonné son propre corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Quoi qu'il en soit, qu'il ait trouvé cet endroit ou qu'il l'ait créé, c'est un remarquable forgeron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Les Pargruns étaient des vagabonds, mais l'appel d'Abydon a conduit nos ancêtres ici après des générations passées le long de la Côte perlée et à Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"C'est ce que racontent les anciens récits. Une fois de plus, je ne vois pas pour quelle autre raison nos aïeuls seraient restés ici alors que des terres plus hospitalières les attendaient à l'est."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Je vois. Et maintenant, vous êtes là, dans la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Si nous avions su ce qui nous attendait, nous aurions peut-être choisi une mort rapide plutôt que cette lente agonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Blasphème ! Il n'y a pas de plus grand honneur que de rester ici à veiller sur la Forge blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ou faire quelque chose. N'importe quoi. Nous faisions jadis partie des plus grands forgerons du monde connu ! Dites-moi, les êtres civilisés parlent-ils encore de nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Oui, et en bien. Vous êtes toujours considérés comme de grands forgerons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Le monde est passé à autre chose. Vous n'êtes plus qu'un point de détail dans les livres d'histoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Quelle importance ? Votre réputation vous obsède inutilement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Tant mieux. Mais quel dommage que cet héritage ne soit plus qu'un souvenir !"  
+
+Une douce chaleur s'échappe de la Forge blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Quand j'étais apprenti forgeron, mon maître ne parlait que de ça."</DefaultText>
+      <FemaleText>"Quand j'étais apprentie forgeronne, mon maître ne parlait que de ça."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Un confrère ! Dommage que nous ne puissions échanger que des mots."  
+
+Une douce chaleur s'échappe de la Forge blanche.</DefaultText>
+      <FemaleText>"Une consœur ! Dommage que nous ne puissions échanger que des mots."  
+
+Une douce chaleur s'échappe de la Forge blanche.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Quel dommage que la fierté et le labeur de tout un peuple aient disparu si vite !"  
+
+Un courant d'air froid traverse la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Il ne s'agit pas de notre réputation, mais de notre héritage. À quoi ont servi nos efforts et nos sacrifices s'ils ont été oubliés aussi vite ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Est-ce la raison pour laquelle vous avez bravé les âmes tourmentées de la Batterie de Durgan ? Pour connaître le secret de l'acier de Durgan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Mais si nos vies et notre labeur ont été si vite oubliés, qu'est-ce qui vous a amené ici ?"</DefaultText>
+      <FemaleText>"Mais si nos vies et notre labeur ont été si vite oubliés, qu'est-ce qui vous a amenée ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Je voulais apprendre à fabriquer de l'acier de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Les habitants d'un village appelé Stalwart ont des problèmes. Ils m'ont demandé de trouver la Forge blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Personne ne s'était aventuré à l'intérieur de la Batterie de Durgan depuis deux cents ans. C'est une raison suffisante pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Je suis à la recherche d'un groupe appelé la Clé plombée qui cherchait à accéder à la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"J'ai entendu dire qu'il y avait des armes de grande valeur ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Sur ces paroles, vous sentez l'essence des Pargruns se radoucir.   
+
+L'espace d'un instant, chaque âme vous apparaît bien distinctement, et l'instant suivant, elles forment un hôte indifférencié. Elles vous font penser à un ban de poisson ballotté par la marée, à une bourrasque de flocons de neige emportés par le vent ou à un garde-manger rempli d'épices odorantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Dans ce cas, j'espère que ce que vous avez trouvé ici vous satisfait, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Au moins, vous allez pouvoir quitter cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Mais ça nous a fait du bien qu'on se souvienne de nous, même brièvement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Pendant que les âmes de la Batterie de Durgan vous parlent, leur essence collective prend forme, un peu comme Maerwald. Elles sont nombreuses, toutes déchirées par des objectifs contradictoires et piégées dans le souvenir de leur combat perdu.  
+
+Vous sentez l'amertume que leur fait éprouver cette existence incertaine et la douleur que leur inflige le poids des siècles.
+
+La lenteur de leur existence est insoutenable, mais vous savez que vous avez le pouvoir de leur en offrir une autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Coincés ici, vous voulez dire. Avec tous ceux qui ont essayé d'échapper aux monstres sans yeux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Est-ce une mauvaise chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"À observer le passage des siècles dans la paix et la solitude. La perfection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Vous êtes piégés ici, sans jamais rien connaître de nouveau ? Il y a de quoi devenir fou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Je ne pourrais pas rester dans un tel endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"À ressasser les souvenirs d'un combat perdu et à assister à l'effondrement progressif de ces pierres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"C'est ce que vous croyez vraiment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Quel ennui !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Très divertissant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Si seulement nous pouvions mieux protéger cet humble édifice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Pas si je devais écouter vos interminables babillages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"C'est une façon de voir les choses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Passionnant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Je prierais volontiers de cette façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Je préfère pratiquer ma foi d'une façon plus active."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"La longue veille est une mission tranquille, mais noble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Des flammes surgissent de la Forge blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Alors les nains ne meurent jamais. Enfin, pas vraiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"C'est tout ce qu'il reste des Pargruns."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

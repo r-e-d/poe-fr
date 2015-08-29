@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_feara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>92</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Quand je suis tombée sur ce village, je me suis dit que j'allais pouvoir y trouver refuge. Comme vous, je suppose ?"
+
+Feara lève sa chope givrée vers vous. Malgré la chaleur de l'âtre, elle est restée couverte ; ses mains sont emmaillotées dans de la laine et un chapeau recouvre ses oreilles. Son visage est tendu et brûlé par le vent, preuve qu'elle vient de faire un long voyage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous avez trouvé quelque chose ? J'espère que ces sales bâtards n'ont pas emporté mon butin."
+
+Elle regarde sa chope en grimaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ooh... Je ne sens toujours pas mes doigts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Feara lève sa chope. "Vous êtes allé là-bas, n'est-ce pas ? Avez-vous vu mon chariot ?"</DefaultText>
+      <FemaleText>Feara lève sa chope. "Vous êtes allée là-bas, n'est-ce pas ? Avez-vous vu mon chariot ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Avec tout ce sang répandu dans les rues, c'est une chance qu'il y ait encore de la bière."
+
+Elle boit une gorgée et penche la tête en arrière. Vous remarquez alors des contusions sur sa mâchoire et des éraflures sur ses articulations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qu'est-ce qui vous est arrivé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"J'ai trouvé vos marchandises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je sais que vous faites du trafic de svef, Feara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je faisais partie d'une expédition. On cherchait des reliques de la Batterie de Durgan. Et on avait récupéré un beau butin."
+
+Elle avale une longue gorgée de bière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Qu'est-ce que vous allez faire maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Elle se frotte les mains. "Vous m'avez sauvé la mise, [Player Name]. Merci infiniment. Je vous en prie, acceptez ceci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Chut ! Pas si fort !" Elle lance des coups d'œil furtifs autour d'elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"D'accord. Mais je veux ma part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Si vous ne voulez pas que je vous dénonce à Renengild, je vous conseille de me verser un petit extra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Je refuse de vous aider à refourguer ce poison. Cessez ce trafic, Feara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Bien. Je prends ma récompense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Elle cligne des yeux. "Eh bien... D'accord. Vous avez fait vos preuves. Prenez les parts de Lynam et Francesca. Je parlerai de vous au chef."
+
+Elle vous sourit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Elle en reste bouche bée. "Vous... Très bien. Dans ce cas, je suis coincée ici. Pas question de retourner voir mon fournisseur les mains vides."  
+
+"Vous êtes content ?" Elle engloutit le reste de sa chope.</DefaultText>
+      <FemaleText>Elle en reste bouche bée. "Vous... Très bien. Dans ce cas, je suis coincée ici. Pas question de retourner voir mon fournisseur les mains vides."  
+
+"Vous êtes contente ?" Elle engloutit le reste de sa chope.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"D'accord, d'accord. Tenez, je garde le svef et vous prenez les parts de Lynam et Francesca."
+
+"Je veux juste éviter les ennuis et m'en aller, d'accord ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Merci encore. Avec un peu de chance, je serai bientôt loin de ces blizzards et je profiterai d'une douce brise marine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Tenez. Comme promis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je finis juste ma chope. À moins que vous vouliez aussi votre part là-dessus ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Merci encore. Je m'en irai dès que le temps sera plus clément."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Attaquez] "À mort, maudite trafiquante !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous avez perdu la tête ? Arrêtez !" Elle lâche sa chope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Soyez prudent si vous vous rendez à la Batterie. Il n'y a pas que les ogres qui sont dangereux."  
+
+Elle porte sa chope à ses lèvres et avale une longue gorgée.</DefaultText>
+      <FemaleText>"Soyez prudente si vous vous rendez à la Batterie. Il n'y a pas que les ogres qui sont dangereux."  
+
+Elle porte sa chope à ses lèvres et avale une longue gorgée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Laissez-moi tranquille. Je vais rester ici et me lancer dans la PÊCHE. Ou dans l'EXPLOITATION MINIÈRE. Amusant, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Sondez son âme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Devant vous, vous voyez les mains emmaillotées de Feara empaqueter rapidement quelque chose. Vous êtes en compagnie d'un homme et d'une autre femme, tous deux également occupés.
+
+Vous vous trouvez tous les trois dans une petite cabane. Hormis une table bancale et trois lits de camp de fortune sur lesquels sont empilées des fourrures, la cabane est vide.
+
+L'homme soulève délicatement son paquet, comme s'il s'agissait d'un bien rare et précieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"C'est le dernier. Occupez-vous du reste pendant que je charge ça". Il ouvre la porte et disparaît dans la tempête. La porte se referme en claquant bruyamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"On n'a pas vraiment le choix. La neige a recouvert les autres cols. Le trafic est encore suffisant pour que celui-là reste ouvert". Vous sentez les mots résonner dans votre gorge. 
+
+Cette pensée ne réconforte aucune de vous. Vous n'évoquez pas la vraie question : Lynam a pris sa décision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Feara se tient devant vous, distraite par le contenu de sa chope. Elle ne semble pas avoir remarqué votre absence passagère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Francesca vous regarde longuement ; apparemment, elle pense la même chose que vous. Son expression ne vous apparaît pas assez clairement pour que vous puissiez déterminer si elle est résignée ou non.
+
+Elle pousse la porte sans dire un mot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Mais le vent s'est levé et il s'est mis à neiger. On ne voyait plus la route."
+
+"Et tout à coup, ils nous sont tombés dessus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Lynam est tombé avant même qu'on se rende compte qu'on était cernés. Puis on a vu ces petits sauvages à quatre bras surgir de la neige... Des lagufaeth."
+
+Elle secoue la tête en fixant les braises dans l'âtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Et ces petits bâtards sont très rapides. Avec Francesca, on les a repoussés aussi longtemps qu'on a pu, mais ils ont fini par la cribler de flèches et je me suis enfuie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je me suis frayée un chemin jusqu'ici en remerciant le ciel de m'avoir permis d'échapper aux lagufaeth. C'est alors que j'ai découvert que les ogres avaient attaqué ce village."
+
+Elle rit, amère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je dois absolument retrouver ces reliques. Mais je n'ai pas la force d'y retourner moi-même. Pourtant, je ne peux pas me permettre de revenir à la Baie du défi les mains vides."
+
+Son expression trahit son appréhension. Elle regarde sa chope en faisant tournoyer son contenu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Vous êtes saine et sauve, c'est déjà ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous ne pouvez pas abandonner ces reliques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je suis désolé pour vos amis."</DefaultText>
+      <FemaleText>"Je suis désolée pour vos amis."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Cessez de vous apitoyer sur votre sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Mais vous, vous pourrez peut-être contourner les lagufaeth. Vous avez le pied léger."
+
+Elle lève les yeux de sa chope, confiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Mais vous savez vous repérer en pleine nature. Je suis sûre que vous pouvez retrouver votre chemin sans problème."
+
+Elle lève les yeux de sa chope, confiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Le commerce, c'est votre domaine. Vous savez ce que c'est que de perdre l'équivalent d'un mois de travail."
+
+Elle lève les yeux de sa chope, confiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Mais vous comptez partir en expédition à la Batterie, n'est-ce pas ? Une fois sur place, vous pourrez peut-être chercher mes marchandises. Du moins ce qu'il en restera."
+
+Elle lève les yeux de sa chope, confiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Vous aurez votre part sur ce que vous me rapporterez, bien sûr. Je ne demande pas la charité. C'est juste que je ne peux pas rentrer chez moi les mains vides."
+
+Elle frotte ses ongles sur sa chope, le regard inquiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Dites-moi ce que vous cherchez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Je vais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Je ne peux rien vous promettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Écoutez, je suis désolée de vous avoir caché la vérité. Mais comprenez-moi, ce n'est pas si facile à avouer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Mettez-vous à ma place. Je ne pouvais quand même pas vous révéler la nature de mes activités de but en blanc. Vous pouvez comprendre ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vous êtes quelqu'un de raisonnable. L'important, c'est que je vous paie, non ? Qu'est-ce que ça peut faire si j'ai... omis quelques détails ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Elle lève un sourcil. "Pour être franche, je n'ai pas jugé nécessaire de vous révéler la vérité. Il m'a semblé plus judicieux d'omettre quelques détails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Écoutez, j'essaie juste de m'en sortir. Ayez un peu de compassion, même si vous n'approuvez pas mes activités. Si je ne livre pas ces marchandises à mon fournisseur, j'aurai de gros ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je comprends. Faites attention à vous près de la Batterie. Ces lagufaeth rôdent toujours dans les parages."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Merci beaucoup. Rapportez-moi tout ce que vous trouverez et je vous dédommagerai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Comme je vous l'ai dit, on était en pleine chasse au trésor près de la Batterie de Durgan quand on a été pris en embuscade. Que voulez-vous savoir d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Renengild m'a dit qu'une autre expédition était passée par là avant mon arrivée. C'était vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Pourquoi ces reliques sont-elles si importantes pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Rappelez-moi où se trouve votre caravane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Elle semble momentanément gênée. "Qui... ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Non, ce n'était pas nous. On n'a rencontré personne... Ni Renengild, ni aucun autre villageois. On était seuls."
+
+Elle avale une autre gorgée en regardant le feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"On a emprunté de l'argent à plusieurs personnes pour financer notre voyage jusqu'ici. Je risque d'avoir des ennuis si je ne les rembourse pas". Elle se gratte le cou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ce qu'il en reste doit se trouver près de la Batterie de Durgan. Si vous voyez des lagufaeth, vous saurez que vous n'en êtes pas loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Elle secoue la tête. "J'aimerais pouvoir en dire autant de Francesca et Lynam. Et j'aurais aimé pouvoir emporter notre butin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Je le sais bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Elle hoche la tête. "C'est gentil. Je les pleurerai à mon retour. Mais avant cela, je dois récupérer notre butin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Désolée de vous avoir embêté avec mes problèmes". Elle détourne le regard.</DefaultText>
+      <FemaleText>"Désolée de vous avoir embêtée avec mes problèmes". Elle détourne le regard.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Je veux juste quitter le village avant qu'un ogre, un homme-poisson ou un chasseur perdu et affamé me plante un couteau dans le ventre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"D'autre part, j'ai un contrat à honorer, et mon fournisseur n'est pas du genre compréhensif". Elle tire sur son col.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Examinez ses dents.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Pendant que Feara parle, vous remarquez des taches noires sur ses dents et ses gencives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous, vous avez un secret". Ses doigts froids vous maintiennent le bras. Ses yeux noirs tentent de lire en vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Que savez-vous sur la Batterie de Durgan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Pendant que Feara parle, vous remarquez des taches noires sur ses dents et ses gencives.
+
+Cela prouve qu'elle a consommé du svef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Juste qu'elle est restée fermée pendant deux cents ans à cause du conflit qui opposait ces nains". Elle hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ce qui signifie que tout ce qu'il y a à l'intérieur a de la valeur. Désolée, je suis une femme d'affaires, pas une historienne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Je pensais que tous les rumeurs au sujet de la Batterie de Durgan sortaient de l'imagination des villageois. Ce qui est peut-être effectivement le cas, mais si je les avais écoutées, j'aurais été sur mes gardes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Vous pensez que c'est la bonne route ?"
+
+L'autre femme, Francesca, vous regarde. Elle a le visage partiellement recouvert d'un chapeau en fourrure et d'épais fichus, mais sa voix n'en reste pas moins claire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Attention ! Elle vous regarde de la même manière qu'Itumaak a regardé votre cochon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Attention ! Elle vous regarde de la même manière qu'Itumaak a regardé votre chat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Les questions se bousculent dans son esprit... Les calculs..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Oh là là, mais il fait chaud ici !" Il rit d'un air gêné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ça suffit." Pallegina pose une main emplumée sur l'épaule de la Démone, telle une mère qui tente d'éloigner un enfant trop envahissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Je n'appellerais pas cela un secret. C'est plus comme une chose mystérieuse dont il n'aime pas parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Heureux de ne pas être le seul qui sait ne pas faire confiance à vos semblables, Gardien. Vous feriez bien de ne pas faire confiance aux siens."</DefaultText>
+      <FemaleText>"Heureux de ne pas être le seul qui sait ne pas faire confiance à vos semblables, Gardienne. Vous feriez bien de ne pas faire confiance aux siens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Elle vous regarde comme le font les lionnes attirantes à mon égard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Oui, eh bien, si nous pouvions en rester là..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_door_ground</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>En vous approchant de la porte, vous percevez une vague d'essence. La pierre craque et gronde autour de vous, puis une voix de femme retentit dans la pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pas un pas de plus, Aptapo. Vous n'êtes pas un Pargrun. Je suppose que vous êtes un marchand, et que vous êtes venu parler à Zoltun."  
+
+La voix marque une pause et l'essence courroucée de la femme s'accumule de l'autre côté de la porte, tel un nuage orageux. Toute la pièce craque sous la pression de sa présence.</DefaultText>
+      <FemaleText>"Pas un pas de plus, Aptapa. Vous n'êtes pas une Pargrun. Je suppose que vous êtes une marchande, et que vous êtes venue parler à Zoltun."  
+
+La voix marque une pause et l'essence courroucée de la femme s'accumule de l'autre côté de la porte, tel un nuage orageux. Toute la pièce craque sous la pression de sa présence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pas un pas de plus, [Player Race]. Je suppose que vous êtes un marchand, et que vous êtes venu parler à Zoltun."  
+
+La voix marque une pause et l'essence courroucée de la femme s'accumule de l'autre côté de la porte, tel un nuage orageux. Toute la pièce craque sous la pression de sa présence.</DefaultText>
+      <FemaleText>"Pas un pas de plus, [Player Race]. Je suppose que vous êtes une marchande, et que vous êtes venue parler à Zoltun."  
+
+La voix marque une pause et l'essence courroucée de la femme s'accumule de l'autre côté de la porte, tel un nuage orageux. Toute la pièce craque sous la pression de sa présence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je ne fais que passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je suis ici pour vos célèbres armes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Notre illustre grand argentier vous laisserait peut-être piller notre armurerie, mais moi j'ai d'autres projets pour vous."  
+
+Sa voix est forte et aussi tranchante qu'une porte qui claque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je suis là pour découvrir les secrets de la Forge blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Un groupe connu sous le nom de la Clé plombée cherche quelque chose ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Une secousse ébranle l'édifice. Les débris qui vous entourent s'entrechoquent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Les fantômes lancent quelques coups d'œil alentour en frissonnant. Leurs yeux s'écarquillent et se mettent à briller en se posant sur vous, comme s'ils vous voyaient pour la première fois.   
+
+Tout aussi rapidement, ils se détournent de vous et semblent oublier votre présence. Mais ils donnent maintenant l'impression d'être en alerte, sur leurs gardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Notre illustre grand argentier vous laisserait peut-être piller notre armurerie, mais moi j'ai d'autres projets pour vous."  
+
+Sa voix est forte et aussi tranchante qu'une porte qui claque. En entendant ces mots résonner dans la pièce, les fantômes sursautent et jettent des coups d'œil inquiets autour d'eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je veillerai à ce que notre meilleur acier transperce votre cadavre. Est-ce que cela vous satisfait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Mentez] "Zoltun m'a invité. Je dois le retrouver en bas."</DefaultText>
+      <FemaleText>[Mentez] "Zoltun m'a invitée. Je dois le retrouver en bas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Mentez] "Exandru m'a invité. Je dois le retrouver en bas."</DefaultText>
+      <FemaleText>[Mentez] "Exandru m'a invitée. Je dois le retrouver en bas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Les fantômes tournent la tête et braquent leurs yeux sur vous en hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Les fantômes lancent quelques coups d'œil alentour en frissonnant. Leurs yeux s'écarquillent et se mettent à briller en se posant sur vous, comme s'ils vous voyaient pour la première fois.   
+
+Tout aussi rapidement, ils se détournent de vous et semblent oublier votre présence. Mais ils donnent maintenant l'impression d'être en alerte, sur leurs gardes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Une secousse ébranle la pièce. Le grondement de la pierre résonne tout autour de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Et pourquoi vous a-t-il invité ?"</DefaultText>
+      <FemaleText>"Et pourquoi vous a-t-il invitée ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Mentez] "Pour affaires. Il m'a proposé des armes et je les lui ai achetées à bon prix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Mentez] "Pour prier Abydon avec lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Mentez] "Pour étudier. Je voudrais apprendre les secrets de l'acier de Durgan pour le transmettre à mon peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dans ce cas, transmettez mes hommages à Zoltun. Mais sachez que je vous surveille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vos piètres mensonges ne dupent personne. Mais votre cadavre permettra au moins à Zoltun et Exandru de prendre conscience de leur bêtise."  
+
+Vous entendez un sifflement, un grincement, puis un déclic indiquant que quelque chose s'enclenche de l'autre côté de la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Dans ce cas, allez-y. Mais sachez que je vous surveille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Avec Zoltun ? L'homme ne prendrait jamais le risque de salir sa belle robe en s'agenouillant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Mentez] "Pour me rendre. Je viens de l'est et mon peuple tremble désormais devant votre toute-puissance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Seul un espion peut parler ainsi. Nul ne viendrait lui demander une trêve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Personne ne permettrait cela, même pas lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Qui que vous cherchiez, je ne les ai pas vus. Et personne n'entre sans mon accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Allez-vous-en d'ici. Rentrez chez vous."  
+
+Un courant d'air siffle sous la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Très bien, je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Non. Vous allez me laisser passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Cet endroit est jonché de cadavres. J'ai besoin de savoir comment vous avez trouvé la mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Mentez] "Les membres de la Clé plombée achètent des armes à Zoltun. Il les a fait entrer en douce en pensant que vous n'en sauriez rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Que se passe-il ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Les querelles des Pargruns ne vous regardent pas, étranger ". Le ton de sa voix est aussi glacial que les murs qui vous entourent.</DefaultText>
+      <FemaleText>"Les querelles des Pargruns ne vous regardent pas, étrangère". Le ton de sa voix est aussi glacial que les murs qui vous entourent.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ça ne m'étonne pas de ce sale hypocrite ! Alors vous dites que vous voulez arrêter cette Clé plombée, c'est bien ça ?"  
+
+Un courant d'air siffle à vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je vous laisse passer, mais faites en sorte que je ne le regrette pas. Je vous surveille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vos fondations ont reçu la bénédiction d'Abydon en personne. En quoi pourrais-je vous nuire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"On croirait entendre Exandru. Au moins, vous n'êtes pas de mèche avec Zoltun."  
+
+Un courant d'air siffle à vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je vous aurai à l'œil."  
+
+Vous entendez un sifflement, un grincement, puis un déclic indiquant que quelque chose s'enclenche de l'autre côté de la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Les fantômes reprennent leurs allées et venues, mais continuent à surveiller la porte, méfiants et vigilants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Je suis Marunn, fière Pargrun et gardienne des armes de la Batterie de Durgan. Et maintenant, c'est vous qui allez répondre à mes questions". La force de sa voix fait trembler la pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Inutile de perdre votre temps à proférer des menaces."  
+
+Vous entendez un sifflement, un grincement, puis un déclic indiquant que quelque chose s'enclenche de l'autre côté de la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je vais vous faire tailler en pièces à coups d'acier de Durgan, scélérat. Ensuite, on verra ce qu'en pensent les autres komendants."  
+
+Les fantômes tournent la tête et braquent leurs yeux sur vous en hurlant.</DefaultText>
+      <FemaleText>"Je vais vous faire tailler en pièces à coups d'acier de Durgan, scélérate. Ensuite, on verra ce qu'en pensent les autres komendants."
+
+Les fantômes tournent la tête et braquent leurs yeux sur vous en hurlant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Faites demi-tour et partez avant que je vous montre quel sort les gardiens des armes réservent aux intrus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Bon, il est temps que notre grand argentier et notre vicaire en chef voient à quoi sert vraiment l'acier de Durgan."  
+
+Vous entendez un sifflement, un grincement, puis un déclic indiquant que quelque chose s'enclenche de l'autre côté de la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Dans ce cas, je vais veiller à ce que votre cadavre lui permette de voir à quoi sert vraiment l'acier de Durgan."  
+
+Vous entendez un sifflement, un grincement, puis un déclic indiquant que quelque chose s'enclenche de l'autre côté de la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"J'aurais préféré continuer à croire que ces histoires de fantômes sortaient de l'imagination des villageois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"C'est à Zoltun qu'elle en veut... Mais si l'occasion se présente, elle retournera sa colère contre vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Comme si les esprits en colère ne suffisaient pas ! Il faut en plus qu'on parle à une porte paranoïaque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Qui est Zoltun ? Une autre porte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ne me regardez pas, Gardien. La manipulation est votre arme, pas la mienne."</DefaultText>
+      <FemaleText>"Ne me regardez pas, Gardienne. La manipulation est votre arme, pas la mienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"On n'est pas vraiment des marchands. On est plutôt des pilleurs. Des brigands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Hm. Je doute que le donjon hanté souhaite nous acheter quoi que soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Je peux vous donner quelques conseils si vous voulez. Ce n'est pas la première fois que je tombe sur une porte qui parle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Je crochèterais bien la serrure, mais elle risque de s'en apercevoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

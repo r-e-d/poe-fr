@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Siège de Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez à Crägholdt et enquêtez sur le conflit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Entrez dans Crägholdt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Entrez dans Crägholdt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Trouvez Concelhaut dans Crägholdt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Confrontez Concelhaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Éliminez Concelhaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'intendante de Caed Nua m'a informé d'un récent conflit sur une falaise éloignée à Dyrwood. La Bannière déchirée, une bande de mercenaires redoutée, a assiégé le manoir d'une légende locale, l'archimage Concelhaut. Le conflit est à propos d'un mystérieux artefact magique. L'intendant pense que je devrais enquêter sur le problème pour m'assurer de la sécurité de Caed Nua.</DefaultText>
+      <FemaleText>L'intendante de Caed Nua m'a informée d'un récent conflit sur une falaise éloignée à Dyrwood. La Bannière déchirée, une bande de mercenaires redoutée, a assiégé le manoir d'une légende locale, l'archimage Concelhaut. Le conflit est à propos d'un mystérieux artefact magique. L'intendant pense que je devrais enquêter sur le problème pour m'assurer de la sécurité de Caed Nua.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le manoir de Concelhaut est situé au nord-est de Caed Nua. Il se dresse au sommet d'une falaise isolée, appelée Crägholdt. Je devrais me rendre à Crägholdt et jauger la situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Le commandant Baelorin a fait la lumière sur le conflit avec Concelhaut. Crägholdt est envahi par de puissants morts-vivants. Le destin qui s'est abattu sur Concelhaut demeure incertain. Je devrais explorer les ruines du manoir pour trouver des réponses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai tendu une embuscade au chef de la Bannière déchirée, le commandant Baelorin, et je l'ai laissé mourir dans la boue. Je devrais trouver Concelhaut et l'informer de cette tournure des événements. Peut-être me récompensera-t-il.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Je suis entré dans Crägholdt. Concelhaut est là, quelque part.</DefaultText>
+      <FemaleText>Je suis entrée dans Crägholdt. Concelhaut est là, quelque part.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>J'ai appris comment gagner une audience avec Concelhaut. Il est temps de rencontrer le grand archimage en personne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Concelhaut a besoin d'une âme de Gardien pour compléter son nouveau sort, et il insiste beaucoup pour utiliser la mienne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Après mon arrivée à Crägholdt, j'ai été approché par des membres de la Bannière déchirée. Je n'étais pas le bienvenu ici. Je devrais procéder avec prudence.</DefaultText>
+      <FemaleText>Après mon arrivée à Crägholdt, j'ai été approché par des membres de la Bannière déchirée. Je n'étais pas la bienvenue ici. Je devrais procéder avec prudence.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Les membres de la Bannière déchirée n'ont pas apprécié ma présence près de leur camp. J'ai été obligé de me défendre contre leur attaque.</DefaultText>
+      <FemaleText>Les membres de la Bannière déchirée n'ont pas apprécié ma présence près de leur camp. J'ai été obligée de me défendre contre leur attaque.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai découvert le nom du chef de la Bannière déchirée. Il s'agit du commandant Baelorin. J'ai aussi appris que les mercenaires sont à la recherche d'un artefact appelé Phylactère engwithan. Je réussirai peut-être à obtenir plus de réponses en m'adressant à cet homme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>J'ai été accueilli par un serviteur de Tanoss. Son maître veut me rencontrer.</DefaultText>
+      <FemaleText>J'ai été accueillie par un serviteur de Tanoss. Son maître veut me rencontrer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Tanoss m'a dit que seulement quelqu'un avec les quatre morceaux d'une clé peut entrer pour voir Concelhaut. Chaque partie de la clé est portée par un apprenti différent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Tanoss a proposé de me donner son morceau de la clé si j'élimine les trois autres apprentis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Uariki m'a fait une contre-offre - si je tue Tanoss plutôt qu'elle, elle me donnera son morceau de la clé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai lu une note de l'un des apprentis de Concelhaut contenant quelques informations nécessaires pour l'atteindre, mais il semble que l'information est divisée entre tous les apprentis. Je vais devoir me débrouiller pour acquérir leurs notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vaincu Concelhaut, l'un des plus grands sorciers d'Eora.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_si_bookcase_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Fouillez la bibliothèque.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Près du fond d'une étagère, vous trouvez un tome recouvert de symboles étranges. Cela ne ressemble pas à grand-chose de prime abord, mais vous finissez par comprendre que les symboles sont des incantations et le livre un grimoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous trouvez une pile de parchemins. Ils sont pour la plupart détrempés et en bien piteux état, mais l'un d'entre eux reste exploitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous trouvez un livre ancien sur l'une des étagères supérieures. Recouvert de poussière, vous l'avez presque manqué. En l'essuyant et en consultant les pages, vous reconnaissez un des premiers exemplaires du « Calendrier iroccian ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'un des livres est particulièrement lourd. En le tirant, vous voyez qu'il s'agit d'un livre sur la numismatique doté d'un assortiment de véritables pièces collées aux pages.
+
+Vous décollez les pièces et les prenez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous trouvez une boîte dorée. Elle se brise lorsque vous l'ouvrez, laissant apparaître une poignée de perles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Alors que vous poussez une pile de livres sur le côté, quelque chose tombe par terre. Vous récupérez un anneau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>En fouillant les étagères, vous récupérez quelque chose qui ressemble à une pile de parchemins.
+
+En y regardant de plus près, vous comprenez qu'il s'agit de peaux de trolls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Des heures de recherches ont laissé votre dos et vos yeux endoloris.
+
+Vous ne trouvez rien d'autre de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Les étagères de cette bibliothèque débordent d'ouvrages, de pages orphelines et d'articles divers. Nombre de dos que vous pouvez voir sont griffonnés de glyphes indéchiffrables alors que d'autres sont complètement vierges.
+
+Une recherche appropriée prendrait probablement des heures.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

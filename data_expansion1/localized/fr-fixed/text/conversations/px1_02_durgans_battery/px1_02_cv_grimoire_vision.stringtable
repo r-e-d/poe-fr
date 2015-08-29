@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_grimoire_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce bâton en bois fissuré est à demi enfoui sous le verglas et la neige. Mais vos sens perçoivent son essence comme s'il s'agissait d'une balise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Un bâton en bois fissuré est à demi enfoui sous la neige. Vous sentez l'essence qui l'entoure encore, comme si elle y était attachée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Touchez le bâton cassé.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Grâce à vos sens de Gardien, vous sentez cette âme flottante en surgir, comme si elle avait besoin de se faire entendre.  
+
+Un sentiment de peur et d'urgence vous envahit. Vous êtes hors du temps...</DefaultText>
+      <FemaleText>Grâce à vos sens de Gardienne, vous sentez cette âme flottante en surgir, comme si elle avait besoin de se faire entendre.  
+
+Un sentiment de peur et d'urgence vous envahit. Vous êtes hors du temps...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Examinez la zone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ce camp est abandonné depuis longtemps et ce qu'il en reste est enfoui sous une épaisse couche de glace et de neige. Le bâton semble être le seul objet digne d'intérêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Pensiez-vous pouvoir m'échapper en montant dans la montagne ? Je vous aurais traqué par-delà les mers, voleur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Attendez ! Non !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je vous en prie, maître, ayez pitié ! J-J'ai mis le grimoire à l'abri et je peux vous y conduire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ce livre n'est rien. Si vous aviez étudié un peu plus longtemps, vous l'auriez su. Mais jamais aucun de mes apprentis ne me volera sans le payer de sa vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ninagauth ! Maître, je..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_lagufaeth_nests</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous regardez dans ce bassin. Son eau est limpide, mais vous n'y voyez rien d'intéressant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous dissipez la vapeur qui s'en échappe. Vous avez l'impression de voir...
+
+Mais non. Ce n'est qu'une bulle qui remonte des profondeurs. Ce bassin est vide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Au fond du troisième bassin, vous remarquez quelque chose de rond et d'irisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous avez l'impression que quelqu'un vous pousse le bas du dos.
+
+Vous vous retournez. Il n'y a personne, mais vous ressentez à nouveau cette impression.
+
+Quelque chose bouge dans votre sac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous ouvrez votre sac et entendez un léger murmure. Alors que vous fouillez dans vos affaires, quelque chose de lisse effleure votre main.
+
+Un bébé lagufaeth ! Il vous regarde d'un air curieux, toujours recouvert de quelques morceaux de coquille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous êtes la première personne qu'il a vue. Il va vous prendre pour son père maintenant. Ce bébé poisson à quatre bras est votre fils.
+
+Edér sourit. "Je suis ravi pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Prenez-le.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Laissez-le.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous vous approchez, votre chair pique sous l'effet de l'eau chaude, et vous retirez la sphère. Elle est plus lourde qu'il n'y paraît, et sa surface lisse et nacrée brille lorsque vous la retournez.
+
+Vous la mettez dans votre sac.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

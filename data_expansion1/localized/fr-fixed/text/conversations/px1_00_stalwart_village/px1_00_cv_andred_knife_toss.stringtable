@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_andred_knife_toss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"C'est cinquante pands la mise. Vous êtes partant ?"</DefaultText>
+      <FemaleText>"C'est cinquante pands la mise. Vous êtes partante ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Misez 50 p] "Jouons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.] "Finalement, j'ai changé d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Andred vise prudemment et lance sa lame...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Visez les oreilles.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Visez le nez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ça fait [OrlansHeadGame_PlayerTotalScore] points pour vous et [OrlansHeadGame_OpponentTotalScore] points pour moi. Pas mal, étranger. Visiblement, vous avez gagné."</DefaultText>
+      <FemaleText>"Ça fait [OrlansHeadGame_PlayerTotalScore] points pour vous et [OrlansHeadGame_OpponentTotalScore] points pour moi. Pas mal, étrangère. Visiblement, vous avez gagné."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ça fait [OrlansHeadGame_PlayerTotalScore] points pour vous et [OrlansHeadGame_OpponentTotalScore] points pour moi. J'ai gagné !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ça fait [OrlansHeadGame_PlayerTotalScore] points pour vous et [OrlansHeadGame_OpponentTotalScore] points pour moi. Nous sommes au coude à coude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Andred retire un couteau de sa ceinture et le fait tourner entre ses mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Départageons-nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Arrêtez de parler et lancez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Partez.] "J'abandonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Quoi, sérieusement ? Eh bien, comme vous voudrez. Je serai ici si vous voulez essayer de regagner votre argent !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je vous ai fait peur, n'est-ce pas ? Eh bien, revenez si vous changez d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tenez, votre récompense. On dirait qu'il faut que je m'entraîne..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"L'argent, aussi." Andred hennit doucement. "Revenez si vous voulez réessayer !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Parfait ! Je vais commencer pour vous montrer comment on s'y prend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_PlayerLastResult], marquant [OrlansHeadGame_PlayerLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Le couteau touche [OrlansHeadGame_OpponentLastResult], marquant [OrlansHeadGame_OpponentLastScore].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Andred s'approche pour récupérer le couteau. "C'est à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

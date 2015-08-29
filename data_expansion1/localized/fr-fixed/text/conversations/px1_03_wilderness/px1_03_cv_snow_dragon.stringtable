@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_snow_dragon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le dragon tourne la tête pour vous regarder. Ses yeux rouges sont troubles et il respire avec difficulté.
+
+Des plumes givrées ressortent entre ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Partez. Immédiatement." Le dragon émet un grognement sourd qui vous semble suffisamment explicite.
+
+La bête montre les dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je veux juste jeter un coup d'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous avez l'air malade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Attaquez.] "À mort, sale dragon !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Il renifle. "Je n'ai que peu de patience avec les intrus. Allez-vous-en ou je vous dévore."
+
+Il relève les babines d'un air menaçant. Vous remarquez ce qui ressemble à un fémur entre ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous avez dévoré Ygadr. Le jeune homme près de la route ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Quel est le problème, exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous avez du mal à tenir debout. Je pense que vous êtes trop faible pour m'affronter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Si vous aviez voulu me tuer, vous auriez déjà essayé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Était-ce ainsi que s'appelait cette vermine ? Je sais juste qu'il était farineux et maigre." De sa langue, le dragon sonde l'os de la jambe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Il était à la recherche de son jumeau d'âme. En quoi cela vous concernait-il ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mais alors, pourquoi semblez-vous mal en point ? Il n'avait pas vraiment l'air d'un adversaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Le dragon grince des dents. "J'ai plusieurs siècles. Et je refuse de partager mon âme avec un jeunot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je l'ai tué d'un coup de griffe alors même qu'il me regardait de ses yeux innocents." Il enfonce ses griffes dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Attendez, vous êtes son jumeau d'âme ? Pourquoi l'avez-vous tué ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Il pensait que vous pouviez apaiser sa souffrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"J'en déduis que cela vous est familier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vraiment ?" Vous notez sur la gueule du dragon quelque chose que vous interprétez comme un sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Tant qu'il vivait, sa souffrance était aussi la mienne. Et plus il s'approchait, plus sa faiblesse infectait mon essence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Le dragon secoue la queue. "Je ne serai jamais fort tant qu'un de mes jumeaux d'âme vivra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Quand j'étais wurm... de soudains accès d'agonie et de terreur me paralysaient. J'étais prisonnier d'expériences qui m'étaient étrangères." La queue du dragon s'enroule et se déroule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"J'ai tué le plus de petits que j'ai pu. Je ressentais leur douleur, mais j'avais aussi l'impression qu'une partie de leur âme devenait mienne."
+
+Ses pupilles fendues s'élargissent en se remémorant ce souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je comprends. Vous vous efforcez de survivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"N'auriez-vous pas pu vous renforcer en vous unissant avec vos jumeaux d'âme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Tuer vos jumeaux d'âme n'était pas bien. Quelles que soient vos raisons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Un de vos jumeaux d'âme en a peut-être fait de même. Un jour, peut-être serez-vous à la merci d'un être plus puissant que vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Encore vous ?" Le dragon grogne et se déplace lourdement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Restez ou partez, je vous laisserai tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je pourrais vous mettre en pièces."
+
+Le dragon tousse, maculant la glace de postillons écarlates. Vous remarquez ce qui ressemble à un fémur entre ses dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Attendez, vous étiez son jumeau d'âme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Mais son âme était liée à la mienne. Et elle m'a mis à rude épreuve. Brièvement." Il pose ses pupilles fendues sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Quelque temps après, j'ai remarqué quelque chose de similaire chez les autres petits. J'ai eu l'impression que leurs pleurs et leurs cris étaient les miens alors qu'ils se chamaillaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Comment est-ce que votre âme a été liée à celle de vos frères et sœurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Il renifle. "Je n'ai que faire des mystères des âmes... De ce qui les divise et de la manière dont la Roue les répartit."
+
+"Seule la puissance m'importe. La survie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Quelque chose se fait bruyamment entendre dans l'estomac du dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Cette conversation est intéressante, mais j'en ai assez."
+
+S'aidant d'une de ses griffes, le dragon se cure les dents et finit par en déloger l'os de jambe qui y était coincé. Il le mastique, les yeux rivés sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Inutile de vous lancer dans un combat que vous ne pouvez pas gagner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous êtes toujours faible. Ménagez vos forces et laissez-moi tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Du calme. Les amis sont plus utiles que les ennemis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Attaquez] "Essayez un peu de m'attaquer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"J'ai tué, j'ai dévoré et l'odeur du sang déchaînait mes frères et sœurs. Notre nid était devenu un véritable champ de bataille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Et seule une poignée d'entre nous avons survécu. Nous étions affaiblis par tout ce que nous avions enduré." La crête du dragon fait pâle figure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"J'ai fini par traquer plusieurs de mes frères et sœurs disparus. D'autres sont revenus à moi sous d'autres formes. Et c'est le cas de ce garçon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Qu'est-il arrivé aux petits qui ont survécu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Je ne pensais pas qu'il était possible de se nourrir d'une autre âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"J'ai entendu dire qu'à de rares occasions les âmes pouvaient absorber l'essence de leurs jumeaux d'âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Il est généralement impossible de ressentir avec autant d'intensité les expériences d'une autre âme, mais cela a toujours été le cas avec mes jumeaux d'âme. Notre essence reste en quelque sorte liée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Alors, vous comprenez mon choix. La victoire ou la mort." Ses yeux clignent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Attention ! J'ai tué la dernière personne qui errait sur ces terres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Alors que le dragon succombe, de l'essence jaillit de son cadavre. Il semble que de nombreuses vies, voire des fragments de ces vies, reviennent soudain à la Roue.
+
+La plus récente d'entre elles vous donne la brève impression d'un jeune homme arpentant les montagnes en quête de...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Dites-vous que c'est une indigestion. Et dites-vous que vous avez de la chance que je sois repu." Le dragon rote bruyamment, ce qui se réverbère sur la glace située sous vos pieds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>L'essence se dissipe avant même que vous réussissiez à approfondir ce souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je pourrais vous tuer pour m'avoir dérangé." Ses quatre yeux rouges vous suivent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Il vous regarde, tout en continuant de mâcher l'os qu'il tient entre ses dents.
+
+Puis, il finit par l'avaler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"La prudence est l'apanage des faibles. Attaquer le premier se révèle payant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Quelle prudence ! Qu'avez-vous dit à propos d'attaquer le premier ?" Il hurle, toutes dents et toutes griffes dehors, et se prépare à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vous avez peut-être raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Mon âme ne vous apportera rien. Pourquoi ne pas vous concentrer sur vos jumeaux d'âme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Il vous regarde, tout en continuant de mâcher l'os qu'il tient entre ses dents.
+
+Puis, il finit par l'avaler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Quel revirement... ll y a quelques instants, vous condamniez mon insatiable faim."
+
+"Plus je vous écoute, moins je vous fais confiance." Il hurle, toutes dents et toutes griffes dehors, et se prépare à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Il vous regarde, tout en continuant de mâcher l'os qu'il tient entre ses dents.
+
+Puis, il finit par l'avaler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous avez peut-être raison. Si un autre jumeau d'âme comme moi..."
+
+Le dragon renifle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je vais prendre le risque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Partez.] "Je vais y aller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Trop tard." Le dragon fond sur vous et son hurlement résonne dans la grotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Enchaînés à eux pour toujours ? Espérant qu'ils ne se retourneraient pas contre moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Il vous regarde, tout en continuant de mâcher l'os qu'il tient entre ses dents.
+
+Puis, il finit par l'avaler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Partez, alors. Ou restez. Mais laissez-moi tranquille." Le dragon garde un œil sur vous, tout en creusant un large trou dans la neige molle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>L'essence se dissipe avant même que vous réussissiez à approfondir ce souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Zahua fronce les sourcils d'un air songeur. "J'ai toujours pensé que si j'avais un jumeau d'âme, nous serions amis." 
+
+"Je n'avais jamais réfléchi aux avantages que je pourrais tirer en les martelant de coups."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Que m'offrirez-vous si je vous laisse partir ?" Il baisse la tête pour vous regarder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous aurez la vie sauve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"En tant que Gardien, je pourrais rompre les liens qui vous unissent à vos jumeaux d'âme."</DefaultText>
+      <FemaleText>"En tant que Gardienne, je pourrais rompre les liens qui vous unissent à vos jumeaux d'âme."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"J'ai accumulé des tas de trésors au cours de mes voyages. Je vous en donnerai une partie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Il renifle. "À quoi me serviraient ces babioles si chères aux êtres civilisés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"J'en ai assez de votre bravade, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"À défaut d'avoir rien de mieux à m'offrir, vous satisferez ma faim." Il grogne, toutes dents et toutes griffes dehors alors qu'il se prépare à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Mensonges ! Vous me rendriez vulnérable. J'ai bien failli tomber dans un de vos pièges !" Le dragon siffle et recule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vous manquez de force. Laissez-moi vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je ne vous veux aucun mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Écoutez ma voix et vous comprendrez que je dis la vérité. Je vais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Qu'avez-vous à perdre en me faisant confiance ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Le dragon grogne, toutes dents et toutes griffes dehors, et se prépare à attaquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Sa crête se détend et il baisse ses ailes déployées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Très bien. Mais je vous préviens..." Le dragon plisse les yeux pour vous regarder approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>En vous approchant, vous avez l'impression de distinguer les contours de l'âme de la créature. Quelque chose semble y être cassé et laisse échapper de l'essence tel du sang.
+
+Rassemblant l'énergie de votre propre essence, vous étirez votre âme jusqu'à celle du dragon pour la cautériser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>La bête grogne et vous craignez qu'elle ne provoque l'effondrement de la grotte sur vous... Si elle ne vous dévore pas à avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Mais vous tenez bon et alors que la blessure à l'origine de la perte d'essence du dragon se referme, ses cris aigus faiblissent. 
+
+Enfin, vous vous retirez et le monde physique reprend vie autour de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Je le sens... Une partie de moi me fait mal et l'autre est guérie. Je ne sens plus le poids de tous ces autres."
+
+Il dresse la tête et contemple les parois de glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Vous avez fait ce que vous aviez dit. Et maintenant, prenez ceci et nous serons quittes." Il retire quelque chose du tas d'os et de débris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Vos compagnons et vous n'avez rien à craindre, mais je ne promets rien en ce qui concerne les autres."
+
+Il bâille. "Et maintenant, laissez-moi tranquille, s'il vous plaît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Au voleur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

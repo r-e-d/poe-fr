@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_si_bookcase_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les étagères de cette bibliothèque débordent d'ouvrages, de pages orphelines et d'articles divers. Nombre de dos que vous pouvez voir sont griffonnés de glyphes indéchiffrables alors que d'autres sont complètement vierges.
+
+Une recherche appropriée prendrait probablement des heures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Fouillez la bibliothèque.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Près du fond d'une étagère, vous trouvez un tome recouvert de symboles étranges. Cela ne ressemble pas à grand-chose de prime abord, mais vous finissez par comprendre que les symboles sont des incantations et le livre un grimoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous feuilletez les pages d'un livre d'un format particulièrement grand et trouvez plusieurs parchemins calés à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous trouvez un livre ancien sur l'une des étagères supérieures. Recouvert de poussière, vous l'avez presque manqué. En l'essuyant et en consultant les pages, vous reconnaissez un des premiers exemplaires du « Calendrier iroccian ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Des heures de recherches ont laissé votre dos et vos yeux endoloris.
+
+Vous ne trouvez rien d'autre de valeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>L'un des livres est particulièrement lourd. En le tirant, vous voyez qu'il s'agit d'un livre sur la numismatique doté d'un assortiment de véritables pièces collées aux pages.
+
+Vous décollez les pièces et les prenez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous découvrez un tome avec une couverture incrustée d'une améthyste. Les pages sont illisibles, mais vous arrivez à extraire les gemmes hors de leur emplacement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Des ressorts, des fils et d'autres composants sont éparpillés à travers une étagère. Vous comprenez qu'ils font partie d'un piège. Vous l'assemblez et l'emportez avec vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous fouillez plusieurs jarres d'herbes et de champignons séchés. Vous en découvrez une remplie de Carow Golan.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

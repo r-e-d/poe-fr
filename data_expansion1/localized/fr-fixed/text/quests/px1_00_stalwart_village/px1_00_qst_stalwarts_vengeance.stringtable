@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_stalwarts_vengeance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une bonne prise</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez dans la montagne en direction de la Batterie de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Recherchez les lagufaeth et les objets de Feara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez auprès de Feara au Refuge du gréf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Feara, une scalde nomade et en expédition, a été attaquée par des lagufaeth près de la Batterie de Durgan. Elle a perdu ses compagnons et leur butin. Elle voudrait venger les premiers et récupérer ce dernier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Feara m'a dit que son groupe a été pris en embuscade près de la Batterie de Durgan, où ils collectaient des artefacts. Je vais devoir me rendre dans cette direction pour commencer à chercher les restes de son expédition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Selon Feara, elle a perdu ses artefacts, et ses compagnons, lorsqu'elle a été attaquée par des lagufaeth. Lorsque je trouverai ces créatures, je saurai que ses marchandises seront à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé le butin de Feara. Elle m'a promis une récompense si je les lui rapportais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>En l'examinant plus attentivement, j'ai découvert que le "butin" de Feara n'est autre que du svef. Je pourrais voir ce qu'elle a à dire là-dessus. Ou je pourrais la livrer à Renengild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Échec de la quête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai rapporté les paquets de Feara, et nous avons conclu notre affaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai rapporté le svef à Feara en échange d'une part de son butin. Elle a dit qu'elle parlerai de moi à son fournisseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai retourné le svef à Feara, en échange d'argent supplémentaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai convaincu Feara d'abandonner le commerce du svef. Elle est coincé à présent à Stalwart, et elle n'en pas contente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>J'ai tué Feara après avoir découvert qu'elle trafiquait du svef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai livré Feara à Renengild. Elle s'est montrée reconnaissante de mon effort pour juguler le trafic dans les montagnes.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

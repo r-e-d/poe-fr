@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_an_unwelcome_guest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Abus d'hospitalité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Parlez à l'orlan dans le Refuge du gréf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pistez le chasseur d'esclaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Amener Ailef à quitter Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez auprès d'Ailef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez auprès de Defala dans les Bois de Russet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retournez voir Defala dans les Bois de Russet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Haeferic, l'aubergiste du Refuge du gréf, pense que l'un de ses hôtes cache quelque chose. Selon lui, l'orlan séjournant dans l'une des chambres a eu un comportement étrange, et il cherche quelqu'un pour en avoir le cœur net.0</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Haeferic est convaincu que cet orlan a de mauvaises intentions. L'orlan est arrivé il y a quelques jours et se terre depuis dans l'une des chambres.
+
+Haeferic voudrait se débarrasser de lui, mais il ne veut pas que je lui fasse du mal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ailef se cache de Defala, une chasseuse d'esclaves qui l'a suivi depuis Readceras. Il ne peut quitter la ville avant qu'on ne se soit occupé d'elle.
+
+Il paraît qu'un groupe de readcerans a établi son camp quelque part à l'ouest de la ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Defala a donné quelques détails omis par Ailef, en l'occurrence, le fait qu'il a signé lui-même un contrat de servitude et qu'il a tué le jeune fils de son maître au cours de sa fuite.
+
+Elle m'a demandé de l'attirer sur les routes. Elle m'a promis une part de sa prime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>La chasseuse d'esclaves est morte. Ailef sera soulagé de l'apprendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai convaincu Ailef de quitter la ville. Les chasseurs d'esclaves devraient ne pas avoir trop de mal à l'appréhender. Defala m'attendra avec ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ailef est mort, mais peut-être que Defala sera satisfaite de ce résultat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ailef a été tué. La chasseuse d'esclaves ne sera pas payée, tout comme moi, probablement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Defala était à cran lorsque je lui ai parlé à nouveau après notre accord. Si je ne m'attelle pas à la tâche, elle va penser que je la trahis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Échec de la quête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Échec de la quête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Je me suis chargé de la chasseuse d'esclaves pour Ailef, qui m'a montré sa gratitude.</DefaultText>
+      <FemaleText>Je me suis chargée de la chasseuse d'esclaves pour Ailef, qui m'a montré sa gratitude.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai attiré Ailef directement dans les mains des chasseurs d'esclaves. Defala est restée à l'écart pour me payer avant de retourner à Readceras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai sorti Ailef de la chambre et me suis occupé de lui et de la chasseuse d'esclaves dans la nature. Haeferic devrait au moins être satisfait de leur départ.</DefaultText>
+      <FemaleText>J'ai sorti Ailef de la chambre et me suis occupée de lui et de la chasseuse d'esclaves dans la nature. Haeferic devrait au moins être satisfait de leur départ.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Defala n'était pas ravie que j'aie pris les choses en main. Elle m'a attaqué.</DefaultText>
+      <FemaleText>Defala n'était pas ravie que j'aie pris les choses en main. Elle m'a attaquée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ailef ne mérite pas forcément d'être réduit en esclavage, mais c'est un meurtrier, j'ai décidé de le faire prisonnier. Cela le fera au moins sortir de l'auberge d'Haeferic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Ailef, un esclave en fuite, se cache au Refuge du gréf de Stalwart. Il a besoin d'aide pour échapper à ses poursuivants.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

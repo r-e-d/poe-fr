@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_sacred_instruments</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Instruments sacrés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Utilisez l'appareil d'Ista pour pister les métaux précieux à l'extérieur de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Récupérez le minerai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez auprès d'Ista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une femme nommée Ista essaye de récréer les instruments alchimiques par lesquels les nains de la Batterie ont à l'origine localisé le lieu sur lequel ils ont bâti leur forteresse. Elle a un prototype qu'elle souhaite tester, si quelqu'un est prêt à affronter les contrées sauvages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ista est certaine que son dispositif fonctionne comme ceux utilisés par les nains de la Batterie de Durgan et permettra de détecter l'emplacement de métaux précieux. Elle m'a demandé de tester le dispositif sur la montagne qui entoure la Batterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>L'appareil semble répondre à quelque chose à l'intérieur de la caverne à la base de l'approche de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>L'appareil d'Ista n'a pas désigné de minerai, mais il a détecté un petit groupe de joyaux d'adra blanc. Elle sera certainement intéressée d'apprendre ces résultats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Depuis le sommet de la tour externe, à l'est du donjon, l'appareil pointe vers le sud-ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Depuis le pont en pierre, l'appareil pointe vers l'ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Depuis la plateforme élevée le long du mur externe du donjon, l'appareil pointe vers le sud-ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Au carrefour, l'appareil d'Ista pointe vers l'ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quelqu'un d'une importance critique dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>"L'outil de divination d'emplacement de minerai" d'Ista ne m'a pas désigné de dépôt de minerai, mais il a indiqué l'emplacement d'une cachette de gemmes d'adra. Je les ai données à Ista comme la preuve que son appareil fonctionne, et elle était ravie de savoir que ses recherches sont sur la bonne voie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>"L'outil de divination d'emplacement de minerai" d'Ista ne m'a pas désigné de dépôt de minerai, mais il a indiqué l'emplacement d'une cachette de gemmes d'adra précieuses. J'ai gardé cette information pour moi, et laissé croire à Ista que son appareil ne fonctionne pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>"L'outil de divination d'emplacement de minerai" d'Ista ne m'a pas désigné de dépôt de minerai, mais il a indiqué l'emplacement d'une cachette de gemmes d'adra précieuses. J'ai parlé du succès de son appareil, mais j'ai décidé de garder les gemmes pour moi, ce qui la laisse sans la moindre preuve.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

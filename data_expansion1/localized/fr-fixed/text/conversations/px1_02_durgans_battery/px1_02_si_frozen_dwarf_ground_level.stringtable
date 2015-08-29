@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_frozen_dwarf_ground_level</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Prisonnier d'une épaisse couche de glace, ce cadavre de nain est remarquablement bien conservé, même si ses traits sont dissimulés par le givre. Dans ses mains, il tient un paquet enveloppé dans du tissu, peut-être une sacoche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le nain a le regard figé vers le bas, tel qu'il était au moment de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Levez une torche au-dessus de la glace.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Utilisez votre pioche pour libérer la sacoche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous approchez votre torche de la silhouette congelée. Lentement, la glace qui entoure les mains du nain commence à fondre, mais l'eau manque régulièrement d'éteindre votre torche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Tirez dessus pour l'ouvrir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous prenez votre élan, plantez le pic dans la glace et entendez un craquement prometteur. La glace s'émiette lentement, de même que les morceaux de tissu et de chair congelée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Regardez à l'intérieur.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le contenu de la sacoche est quasiment intact. Vous trouvez quelques pièces de monnaie estampées, des papiers, un parchemin ainsi qu'une lourde clé métallique. Vous continuez à fouiller mais ne trouvez rien d'autre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Essayez de retirer la sacoche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous grattez la glace à mains nues, sans grand succès. La sacoche est bien encastrée, de même que le nain qui la tient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Une fois la glace partiellement fondue, vous parvenez à atteindre la sacoche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Finalement, la sacoche cède dans un craquement inquiétant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Utilisez votre marteau et votre ciseau pour libérer la sacoche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous taillez patiemment dans la glace. Vous progressez lentement mais finalement de gros morceaux de glace commencent à céder, de même que des morceaux de tissu et de chair congelée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Jetez le sort Éventail de flammes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Utilisez le sort Frappes rapides pour traverser la glace.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Jetez le sort Lueur de feu.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Jetez le sort Flammes estivales.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Frappez la glace avec le sort Frappe barbare.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Les flammes gagnent la surface de la glace qui se met à fondre rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Le bras endolori par votre premier coup, vous continuez. Des morceaux de glace volent en éclats alors que vos coups pleuvent sur la silhouette gelée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous frappez la glace en hurlant et entendez un craquement prometteur alors qu'elle se fissure.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_steward_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mon seigneur, vous avez reçu une missive. Urgente, visiblement. J'ai bien cru que le messager allait s'évanouir, le pauvre."</DefaultText>
+      <FemaleText>"Madame, vous avez reçu une missive. Urgente, visiblement. J'ai bien cru que le messager allait s'évanouir, le pauvre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Elle vient de Stalwart. Apparemment, la maire, Renengild, a entendu parler de vos prouesses ici, à Caed Nua, et espère que vous serez en mesure de venir en aide à ses administrés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que veut Renengild ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Où se trouve Stalwart ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Cette missive vient de loin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Stalwart est une ancienne ville minière qui jouissait autrefois d'une grande influence. Renengild espère lui redonner sa gloire d'antan, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Elle entend accéder à la Batterie de Durgan et promet de généreusement récompenser la personne qui parviendra à s'y introduire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Une récompense, a-t-elle dit ! Pour s'introduire dans la Batterie ? N'est-ce pas déjà là une récompense ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Enfin, espérons qu'il n'y a aucun Gardien fou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Comment dois-je m'y prendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Qu'est-ce que la Batterie de Durgan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"La Batterie de Durgan ? Vous voulez dire, la source de l'acier de Durgan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je ne sais pas, mon seigneur. D'après Renengild, celui qui s'introduira dans la Batterie risque de rencontrer des esprits similaires à ceux rencontrés ici, dans la forteresse."</DefaultText>
+      <FemaleText>"Je ne sais pas, ma dame. D'après Renengild, celui qui s'introduira dans la Batterie risque de rencontrer des esprits similaires à ceux rencontrés ici, dans la forteresse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Les nains de la Batterie travaillaient l'acier de Durgan pour en faire les meilleures armes et armures de tout Dyrwood."
+
+"Mais les lieux ont été abandonnés depuis des siècles et les secrets qu'ils renferment sont tombés dans l'oubli."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Il existe bien des légendes concernant la Batterie. Comme l'a dit le comte, les nains se sont entretués, chacun tentant d'utiliser la Batterie pour ses propres intérêts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Pas le genre gentil que vous seul pouvez voir, mais le genre sournois qui aime se glisser derrière nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"J'irai peut-être à Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"C'est le problème de Stalwart, pas le mien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"J'aime m'enrichir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"C'est à vous de voir, mon seigneur. Il fait très froid là-haut, vous savez. Mais ce n'est pas tout."</DefaultText>
+      <FemaleText>"C'est à vous de voir, madame. Il fait très froid là-haut, vous savez. Mais ce n'est pas tout."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'ai entendu dire que parmi ceux qui avaient répondu à l'appel de Renengild se trouvait un groupe susceptible de vous intéresser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je suis sûre que les merveilles de la Batterie sont un ravissement pour les yeux, mais la réouverture des cols de la Marche blanche serait une bénédiction pour les marchands des Républiques... Et de Dyrwood, bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Imaginez un peu ce que représenterait l'exploration de la plus grande forteresse de nains !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"J'ai connu un type qui prétendait posséder une hache en acier de Durgan. Nous l'avons subtilisée et remplacée par une hache rouillée, et il a accusé sa femme de la lui avoir volée.
+
+"Elle a fini par utiliser cette hache rouillée pour lui couper les testicules, mais à y réfléchir, il aurait plutôt trouvé ça marrant."
+
+"Je dois probablement une hache à ce type."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"J'adorerais voir ce que les nains du nord ont construit. Et avoir du beau temps pour changer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"J'ignore ce qui s'est passé, mais personne n'a plus jamais accédé à la Batterie. Quel dommage ! Je suis certain que ces murs renferment toujours de fabuleux trésors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Oui, bien sûr nous... Attendez, quoi ? Mais... C'est la Batterie de Durgan ! En dehors des mines, pensez aux artefacts que nous pourrions y trouver !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Des disciples de Woedica, bien décidés à rejoindre Stalwart et la Batterie. Je ne sais pas ce qu'ils cherchent, mais j'ai pensé qu'il fallait que je vous le dise compte tenu de l'intérêt que vous portez aux ruines de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Exactement ! Depuis des années, toutes sortes de gens tentent de pénétrer dans le donjon. Notre comte s'est lui-même intéressé de près au déclin de la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Stalwart se trouve sur la chaîne de montagnes appelée la Marche blanche, à plusieurs jours de marche au nord-est d'ici. Il faudra vous habiller chaudement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Les gens comme vous sont peu nombreux et viennent de loin. Et dans le cas présent, je suppose que Renengild a raison de penser que votre expérience vous confère un certain avantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Maintenant que je vous ai fait part du message de Renengild, j'aimerais vous parler de quelque chose, mon seigneur."</DefaultText>
+      <FemaleText>"Maintenant que je vous ai fait part du message de Renengild, j'aimerais vous parler de quelque chose, ma dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Les membres de la Bannière déchirée constituent une redoutable force de combat et Concelhaut est lui-même responsable de la mort de bien des voyageurs. Je ne saurais que trop vous conseiller d'éviter cette région si vous décidez de rejoindre la Marche blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Si les membres de la Bannière déchirée réussissent à revendiquer les terres de Concelhaut, ils risquent de finir par s'en prendre à Caed Nua. Je crains qu'il vous faille vous en occuper, d'une manière ou d'une autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Qui est Concelhaut ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Que savez-vous sur ces mercenaires ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Bon voyage, mon seigneur."</DefaultText>
+      <FemaleText>"Bon voyage, ma dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Le déclin de la Batterie est l'œuvre d'êtres aussi cupides que cruels et maintenant, les esprits de ces mêmes nains hantent les lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Des mercenaires ont été repérés au nord-est. Je suppose qu'ils entendent s'emparer de la tour de Concelhaut et je doute que l'archimage les laisse faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Si les membres de la Bannière déchirée réussissent, je crains qu'ils ne jettent ensuite leur dévolu sur Caed Nua. Je vous tiendrai au courant de la situation, mon seigneur."</DefaultText>
+      <FemaleText>"Si les membres de la Bannière déchirée réussissent, je crains qu'ils ne jettent ensuite leur dévolu sur Caed Nua. Je vous tiendrai au courant de la situation, madame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Un célèbre archimage. À ce que je sais, le sanatorium de Brackenbury accorde beaucoup d'importance à son travail concernant la manipulation de l'âme. Ses sorts sont très répandus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Mais il est loin de faire l'unanimité. Certains pensent qu'il est fou, d'autres cruel et barbare." 
+
+L'intendante marque une pause. "Il doit être très vieux maintenant. C'est peut-être la raison pour laquelle les membres de la Bannière déchirée pensent pouvoir le vaincre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Concelhaut est un des plus grands magiciens de sa génération !" Aloth devient nerveux, oscillant entre inquiétude et excitation. Il semble ne pas trouver ses mots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Très peu de choses, je le crains. Les membres de la Bannière déchirée sont aussi bien équipés qu'organisés et on dit qu'ils bénéficient du soutien d'un mystérieux bienfaiteur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ils ont fait preuve d'une remarquable efficacité par le passé et constituent désormais une réelle menace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je ne doute pas de votre courage, mon seigneur, mais Concelhaut à lui seul est bien plus puissant que tous les ennemis que vous avez affrontés jusqu'ici. Avec un peu plus de temps, peut-être réussiriez-vous à rivaliser avec lui."</DefaultText>
+      <FemaleText>"Je ne doute pas de votre courage, ma dame, mais Concelhaut à lui seul est bien plus puissant que tous les ennemis que vous avez affrontés jusqu'ici. Avec un peu plus de temps, peut-être réussiriez-vous à rivaliser avec lui."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

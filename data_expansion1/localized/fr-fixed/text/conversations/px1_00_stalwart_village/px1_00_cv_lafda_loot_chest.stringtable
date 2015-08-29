@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_lafda_loot_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les gravures dédiées à Ondra ornent chaque parcelle de ce grand coffre en bois. Son couvercle semble être solidement fermé sans aucun loquet ni mécanisme de verrouillage en vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le coffre semble ancien, son bois craquelé et blanchi par le passage du temps, mais les bords de son couvercle sont moins effacés - il semble avoir été manipulé récemment et souvent. Avant de pouvoir mieux l'examiner, un acolyte surgit pour vous faire face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Inspectez le coffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Essayez d'ouvrir le coffre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous arrivez à ouvrir le coffre. Un acolyte réagit immédiatement. "Ne touchez pas à cela !" Sa voix claque comme un fouet. Les autres acolytes le regardent comme pour l'exhorter à plus de sang-froid. Il fronce les sourcils. "Je veux dire que c'est sacré pour Ondra. Je vous en prie, laissez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ne touchez pas à cela !" Sa voix claque comme un fouet. Les autres acolytes le regardent comme pour l'exhorter à plus de sang-froid. Il fronce les sourcils. "Je veux dire que c'est sacré pour Ondra. Je vous en prie, laissez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous arrivez à ouvrir le coffre. L'acolyte réagit immédiatement. "Comme j'ai dit, seul un fidèle de la déesse peut le toucher. La volonté d'Ondra le protège."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous vous approchez du coffre. L'acolyte réagit immédiatement. "Comme j'ai dit, seul un fidèle de la déesse peut le toucher. La volonté d'Ondra le protège."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Le coffre semble ancien, son bois craquelé et blanchi par le passage du temps. Avant de pouvoir mieux l'examiner, un acolyte surgit pour vous faire face.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

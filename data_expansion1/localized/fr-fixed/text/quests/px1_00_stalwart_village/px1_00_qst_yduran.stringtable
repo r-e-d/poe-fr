@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_yduran</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Chant de Garodh</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez les autres pièces du casque de Garodh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai récupéré une pièce d'un casque et revécu une partie de l'enfance de quelqu'un appelé Garodh. Pour certaines raisons, son âme est incapable de retourner à la Roue pour renaître, et il pense qu'en récupérant le reste de son casque et en se remémorant le reste du conte, il sera libéré de son existence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai pour l'instant localisé une partie du casque de Garodh. Les autres sont quelque part dans la région.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Une des parties du casque de Garodh est quelque part dans le village de Stalwart. Je devrais demander aux alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Une partie du casque de Garodh se trouve quelque part dans les parties inférieures de la caverne habitée par le clan d'ogres Flammes-Qui-Murmurent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Je devrais fouiller la grande salle de la Batterie de Durgan afin d'y trouver une partie du casque de Garodh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai récupéré deux parties du Chant de Garodh. Il ne reste qu'une partie à trouver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Yduran au village de Stalwart a l'une des cornes du casque de Garodh à vendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai récupéré toutes les parties du Chant de Garodh et reforgé le casque.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

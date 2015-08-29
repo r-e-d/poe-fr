@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_si_cursed_weapon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>68</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Derrière un rideau d'eau glaciale se trouve une alcôve dont les murs sont tachetés de glace. Au milieu, vous remarquez un grossier piédestal en pierre, émaillé de glace.
+
+Une poignée cruciforme et une lame effilée ressortent du piédestal. À en juger par la taille de la poignée et la longueur visible de la lame, vous pensez qu'il s'agit d'un estoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Saisissez l'arme et retirez-la.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Dites à [Slot 0] de saisir l'arme et de la retirer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Dites à [Slot 1] de saisir l'arme et de la retirer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Dites à [Slot 2] de saisir l'arme et de la retirer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Dites à [Slot 3] de se saisir de l'arme et de l'extraire.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Dites à [Slot 4] de se saisir de l'arme et de l'extraire.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Dites à [Slot 5] de se saisir de l'arme et de l'extraire.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Approchez-vous pour retirer l'arme de la pierre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Qui va y aller ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Examinez la zone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'alcôve et le piédestal en pierre sont en bien piteux état. De la glace suinte de la pierre et recouvre le sol glissant.
+
+L'estoc, du moins sa partie visible, semble en meilleur état. Vous vous étonnez que personne n'ait tenté de s'en emparer.
+
+Mais en vous approchant, vous entendez des bruits qui s'apparentent aux cris et aux hurlements d'âmes tourmentées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>L'alcôve et le piédestal en pierre sont en bien piteux état. De la glace suinte de la pierre et recouvre le sol glissant.
+
+L'estoc, du moins sa partie visible, semble en meilleur état.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Specified 0] se faufile sous les chutes, haletant sous l'eau glaciale. Des grelottements résonnent dans la petite pièce. 
+
+Des gouttes d'eau ondulent sur la lame alors que [Specified 0] s'en approche.
+
+[Specified 0] se saisit de la poignée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>La haine, la peur et la violence d'une dizaine de voix discordantes assaillent l'esprit de [Specified 0]. 
+
+En proie à la souffrance mentale, [Specified 0] lutte pour repousser ces voix. Des cris d'agonie emplissent le minuscule espace.
+
+Mais [Specified 0] tient fermement la poignée et parvient à se reconcentrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>La haine, la peur et la violence d'une dizaine de voix discordantes assaillent l'esprit de [Specified 0]. 
+
+En proie à la souffrance mentale, [Specified 0] lutte pour repousser ces voix. Des cris d'agonie emplissent le minuscule espace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous vous faufilez sous les chutes, haletant alors que l'eau vous arrose. Votre respiration résonne dans la petite pièce. 
+
+Alors que vous vous approchez du piédestal, vous voyez le reflet de gouttes d'eau le long de la lame.
+
+Vous saisissez la poignée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>La haine, la peur et la violence d'une dizaine de voix discordantes assaillent votre esprit. 
+
+En proie à la souffrance mentale, vous luttez pour repousser ces voix. Des cris d'agonie emplissent le minuscule espace.
+
+Mais vous tenez fermement la poignée et parvenez à vous reconcentrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>La haine, la peur et la violence d'une dizaine de voix discordantes assaillent votre esprit. 
+
+En proie à la souffrance mentale, vous luttez pour repousser ces voix. Des cris d'agonie emplissent le minuscule espace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Tenez bon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Lâchez l'estoc.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous tentez de lâcher la poignée, mais pendant quelques secondes, vos doigts semblent incapables de s'en défaire. 
+
+Vous luttez et parvenez à vous en libérer, avant de tomber à la renverse et de vous retrouver dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vous tenez fermement la poignée, les bras tremblants sous l'effort.
+
+Finalement, vous réussissez à vous concentrer malgré les voix qui vous assaillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Alors que vous reprenez votre souffle et que la cacophonie ambiante se calme, quelque chose vous tire les bras vers l'avant.
+
+Vous avez soudain l'impression de porter un lourd et douloureux fardeau.
+
+Vous devriez pouvoir libérer l'estoc, mais cela pourrait s'avérer douloureux si vous ne dosez pas vos efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Retirez l'estoc de la pierre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lâchez l'arme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous vous relevez et secouez la neige, tremblant de fatigue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Vous tentez de vous en défaire, mais quelque chose maintient vos doigts sur la poignée. 
+
+Vous luttez, mais ne parvenez pas à lâcher l'estoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous retirez l'estoc de la pierre avec une puissance incroyable. La lame résonne sous la force des efforts déployés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Après une lutte acharnée, vous parvenez à libérer l'estoc. La sueur recouvre votre visage et vos membres sont endoloris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Mais alors que vous tentez de libérer l'estoc, celui-ci reste accroché à votre main. Vous avez l'impression que quelque chose assaille votre âme.
+
+Vous regardez la lame et remarquez qu'une nouvelle inscription brille sur le métal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Tenez bon.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Mais alors que [Specified 0] reprend son souffle et que la cacophonie ambiante se calme, quelque chose tire les bras de [Specified 0] vers l'avant.
+
+[Specified 0] a soudain l'impression de porter un lourd et douloureux fardeau.
+
+[Specified 0] devrait pouvoir libérer l'estoc, mais cela pourrait s'avérer douloureux si ça se fait sans aucun dosage d'énergie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Retirez l'estoc de la pierre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0] retire l'estoc de la pierre avec une puissance incroyable. La lame résonne sous la force des efforts déployés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Après une lutte acharnée, [Specified 0] parvient à libérer l'estoc. La sueur recouvre le visage de [Specified 0] et ses membres sont endoloris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Mais alors que [Specified 0] tente de libérer l'arme, celle-ci semble fixée à ses doigts. [Specified 0] a l'impression que quelque chose assaille son âme.
+
+Une inscription brille sur la lame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Specified 0] tient fermement la poignée, les bras tremblants sous l'effort.
+
+Finalement, [Specified 0] réussit à se concentrer malgré les voix qui l'assaillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Specified 0] tente de lâcher la poignée, mais pendant quelques secondes, ses doigts semblent incapables de s'en défaire. 
+
+Il lutte et parvient à s'en libérer, avant de tomber à la renverse et de se retrouver dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] tente de lâcher la poignée, mais pendant quelques secondes, ses doigts semblent incapables de s'en défaire. 
+
+Elle lutte et parvient à s'en libérer, avant de tomber à la renverse et de se retrouver dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Specified 0] se relève et secoue la neige, tremblant de fatigue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Prenez appui sur le piédestal pour retirer l'estoc.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Lâchez l'estoc.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Lâchez l'estoc.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Prenez appui sur le piédestal pour retirer l'estoc.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vous montez sur le piédestal et adoptez une position pour mieux faire levier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Vous tentez de lâcher la poignée, mais pendant quelques secondes, vos doigts semblent incapables de s'en défaire. 
+
+Vous luttez et parvenez à vous en libérer, avant de tomber à la renverse et de vous retrouver dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Après quelques tentatives, l'estoc cède et vous parvenez à la retirer sans grande difficulté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Après quelques tentatives, l'estoc cède et [Specified 0] parvient à la retirer sans grande difficulté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Specified 0] tente de lâcher la poignée, mais pendant quelques secondes, ses doigts semblent incapables de s'en défaire. 
+
+Il lutte et parvient à s'en libérer, avant de tomber à la renverse et de se retrouver dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Specified 0] tente de s'en défaire, mais quelque chose maintient ses doits sur la poignée. 
+
+Malgré sa lutte, [Specified 0] ne parvient pas à se libérer de l'estoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Specified 0] tente de lâcher la poignée, mais pendant quelques secondes, ses doigts semblent incapables de s'en défaire. 
+
+Elle lutte et parvient à s'en libérer, avant de tomber à la renverse et de se retrouver dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Specified 0] monte sur le piédestal et adopte une position pour mieux faire levier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Inspectez la lame.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>La lame est faite d'un acier raffiné et solide. En regardant de plus près, [Specified 0] voit une partie d'un poème écrit le long de la lame :
+
+"C'est le destin d'un traître de dormir sans jamais trouver le repos
+Tandis que la vérité de ses actions reste logée en lui.
+Mais une sincère pénitence apaise l'homme anéanti
+Et les actions louables sont celles de la main du bourreau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>La lame est faite d'un acier raffiné et solide. Il semble étrange que quelqu'un l'ait laissée dans cette pierre, mais [Specified 0] n'y voit rien de particulier, si ce n'est sa grande qualité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Inspectez la lame.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>La lame est faite d'un acier raffiné et solide. En regardant de plus près, vous voyez une partie d'un poème écrit le long de la lame :
+
+"C'est le destin d'un traître de dormir sans jamais trouver le repos
+Tandis que la vérité de ses actions reste logée en lui.
+Mais une sincère pénitence apaise l'homme anéanti
+Et les actions louables sont celles de la main du bourreau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>La lame est faite d'un acier raffiné et solide. Il semble étrange que quelqu'un l'ait laissée dans cette pierre, mais vous n'y voyez rien de particulier, si ce n'est sa grande qualité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Jetez le sort Éventail de flammes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Faites bouger l'estoc pour le libérer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>La chaleur irradie des mains de [Specified 0], faisant fondre la glace sur la lame.
+
+Cela semble libérer légèrement l'estoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Avec quelques mouvements habiles et précis, [Specified 0] arrive à faire bouger la lame.
+
+La poignée apparaît sur quelques centimètres, mais l'estoc est encore sérieusement calé dans la pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Jetez le sort Éventail de flammes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>La chaleur irradie de vos mains, faisant fondre la glace sur la lame.
+
+Cela semble libérer légèrement l'estoc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Faites bouger l'estoc pour le libérer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Avec quelques mouvements habiles et précis, vous arrivez à faire bouger la lame. 
+
+La poignée apparaît sur quelques centimètres, mais l'estoc est encore sérieusement calé dans la pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

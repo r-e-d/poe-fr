@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_battery_bandits_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un homme se tient debout au milieu de la route. Sans baisser l'épée située sur son épaule, il fait deux pas en avant comme pour parler au nom du groupe qui se trouve derrière lui. "J'espérais un autre porteur d'offrandes. Ils ont toujours des surprises et on adore les surprises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quand je dis « on », je veux bien sûr parler de moi et de ceci." L'homme tapote le manche de son épée. "Ce sera rapide. Essayez de ne pas bouger."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

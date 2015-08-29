@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Vous pouvez automatiser les actions des membres de votre équipe avec les paramètres IA accessibles depuis les fiches de personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous pouvez changer le portrait de votre personnage principal et celui des aventuriers depuis leur portrait actuel dans leur fiche de personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Les personnages individuels peuvent entrer en mode Reconnaissance séparément du reste de l'équipe. Un cercle de sélection en pointillé indique que les personnages sont en reconnaissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Vous pouvez ré-entrainer un personnage depuis le premier niveau depuis l'interface d'auberge. Le coût pour ré-entrainer le personnage augmente avec les niveaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Les armes liées gagnent des pouvoirs additionnels lorsque le porteur remplit certaines conditions spécifiques. La description de l'arme liste toujours la prochaine condition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>En ciblant des attaques, des sorts et d'autres compétences, le cercle en pointillé autour du personnage indique sa portée maximale pour cette action. Sélectionner une cible en dehors de ce cercle obligera le personnage à se déplacer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>En ciblant une attaque, le pourcentage listé à côté des cibles potentielles indique votre chance de toucher ou de porter un critique. Si ce pourcentage est faible, considérez attaquer une défense différente ou l'utilisation d'afflictions pour augmenter vos chances.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

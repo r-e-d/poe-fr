@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_bs_mountain_bandits</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bien, bien. Vous n'avez pas l'air d'un marchand."</DefaultText>
+      <FemaleText>"Bien, bien. Vous n'avez pas l'air d'une marchande."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Attrapez-le !"</DefaultText>
+      <FemaleText>"Attrapez-la !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Mais votre équipement nous rapportera peut-être quelques pands. Qu'on l'attrape !"</DefaultText>
+      <FemaleText>"Je ne voulais pas causer d'ennuis à Stalwart. Mais ils sont prêts à tout pour réduire nos camps en cendres et démanteler nos clans."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Les voilà. À l'attaque !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

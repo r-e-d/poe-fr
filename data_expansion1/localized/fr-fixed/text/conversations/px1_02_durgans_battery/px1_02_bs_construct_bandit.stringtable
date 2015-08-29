@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_bs_construct_bandit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ha ! La bourse ou la vie, l'ami !"
+
+Une petite voix s'élève de la poitrine de cette machine sans tête. De temps à autre, quelques étincelles accompagnent le cliquetis de ses entrailles.</DefaultText>
+      <FemaleText>"Ha ! La bourse ou la vie, l'amie !"
+
+Une petite voix s'élève de la poitrine de cette machine sans tête. De temps à autre, quelques étincelles accompagnent le cliquetis de ses entrailles.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Levez les mains.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pardon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous me faites marcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pas facile de trouver son chemin, hein ? Ces routes sont soumises à un péage. Cinq cent pièces de cuivre ou vous allez passer un sale quart d'heure !" 
+
+Les bras de la créature se balancent de manière irrégulière sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ce n'est pas une plaisanterie ! Ces routes sont soumises à un péage, l'ami. Cinq cent pièces de cuivre ou vous allez passer un sale quart d'heure !"
+
+Les mains de la créature se balancent de manière irrégulière.</DefaultText>
+      <FemaleText>"Ce n'est pas une plaisanterie ! Ces routes sont soumises à un péage, l'amie. Cinq cent pièces de cuivre ou vous allez passer un sale quart d'heure !"
+
+Les mains de la créature se balancent de manière irrégulière.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"On n'est pas sur la route."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Qu'est-ce que vous allez faire ? Me rouer de coups ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je n'ai pas tout cette somme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous êtes perdu ! Proposez-moi un peu d'argent et je vous indiquerai comment rejoindre Loghome. Une offre raisonnable, qu'en dites-vous ?"</DefaultText>
+      <FemaleText>"Vous êtes perdue ! Proposez-moi un peu d'argent et je vous indiquerai comment rejoindre Loghome. Une offre raisonnable, qu'en dites-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Donnez 500 p à la créature] "Je vous en prie, ne nous faites pas de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vous êtes dans une cellule. Regardez autour de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Un philosophe, hein ? Nous sommes pris au piège de notre propre iniquité ? Je refuse de l'accepter !" 
+
+La voix est désormais teintée de folie et la créature laisse échapper un gémissement métallique.</DefaultText>
+      <FemaleText>"Une philosophe, hein ? Nous sommes pris au piège de notre propre iniquité ? Je refuse de l'accepter !" 
+
+La voix est désormais teintée de folie et la créature laisse échapper un gémissement métallique.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je suis ici pour vous aider. Vous êtes libre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Mais vous êtes une machine !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Comment ? Est-ce là une insulte ? Je vais vous montrer ce qu'une « machine » sait faire si vous refusez de me donner votre argent !"
+
+Le châssis de la créature émet une lueur menaçante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Libre ? De quoi parlez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vraiment ? Oh, bien sûr. Je savais que vous finiriez par entendre raison. Donnez-moi ce que vous avez et vous pourrez poursuivre votre route !" 
+
+La créature lève un bras usé en direction de sa récompense avant que les pièces ne s'éparpillent par terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Dites à tous ceux que vous rencontrerez qu'Alryn aux Doigts acérés tient parole !"
+
+La créature rit joyeusement et bruyamment, tout en titubant vers la cellule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"La porte se trouve juste là. Vous êtes libre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Attaquez.] "Je n'ai pas le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ahh ! Pas le visage !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Je suis libre ! Aucune cellule ne peut me retenir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je peux m'acheter tout ce que je veux !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Hé, mais... Vous avez raison ! Elle est ouverte !" 
+
+La créature fait un pas en avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Eh bien, dommage pour vous ! Hors de question que je passe pour laxiste en vous laissant continuer sans contrepartie."
+
+La créature se penche soudain sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Huh. C'est étrange. J'aurais juré avoir mon couteau. J'ai toujours été... très habile avec les couteaux." Sa voix trahit une certaine panique. 
+
+"Où sont mes... mains ? Je..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Où suis-je ? Qu'est-ce qui se passe ?!" 
+
+S'ensuit un grincement métallique et la créature émet une lueur menaçante tout en s'approchant de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Une inquiétante lueur s'échappe de la carcasse de la créature.
+
+"Ha ! Au revoir, étranger ! Je suis libre !"</DefaultText>
+      <FemaleText>Une inquiétante lueur s'échappe de la carcasse de la créature.
+
+"Ha ! Au revoir, étrangère ! Je suis libre !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Pour commencer ! Vous regretterez vos plaisanteries lorsque vous serez à terre !" 
+
+La créature se penche soudain sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Regardez-vous. Vous n'êtes qu'une machine cassée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vos... Vos insultes sont plutôt curieuses !"
+
+"Mais vous allez regretter ce que vous avez dit ! Hors de question que je passe pour laxiste !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>La créature se penche soudain sur le côté, les bras sur les hanches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Cinq cents pands !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

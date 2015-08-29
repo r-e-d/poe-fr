@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_ixamitl_stout</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Une délicieuse goutte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fouillez la cave du Refuge du gréf à la recherche de la liqueur de Fennlan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Interrogez Haeferic à propos d'un remède.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trouvez les ingrédients nécessaires au remède de Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez auprès d'Haeferic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Donnez l'antidote à Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Reyfald a désespérément besoin de la liqueur de Fennlan et la seule source disponible provient de la réserve personnelle, jalousement gardée, d'Haeferic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Reyfald, commis dans la pêcherie locale de Stalwart, prétend que Haeferic garde dans son auberge un stock de spiritueux onéreux, caché quelque part dans la cave. Reyfald m'a proposé une récompense en échange d'une bouteille que je lui rapporterai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai trouvé la bouteille de liqueur de Fennlan sur une étagère au centre d'un nid de pièges. Reyfald sera ravi de la voir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>La bouteille de liqueur de Fennlan était en fait un genre de piège - Reyfald a perdu toute sensation sur son visage, ce qui le met dans un état de grande panique. L'aubergiste du Refuge du gréf pourrait avoir une idée sur ce que contient la décoction, et s'il existe un moyen d'en contrer les effets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Haeferic m'a dit qu'il peut préparer un antidote pour la condition misérable de Reyfald si je lui apporte des roseaux de rivière et un cœur de troll de glace. Il a suggéré que ces deux ingrédients peuvent se trouver dans les Bois de Russet, vers l'ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai les deux ingrédients réclamés par Haeferic. Si je les rapporte à l'auberge, il devrait pouvoir préparer cet antidote pour Reyfald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Haeferic a tenu parole et m'a donné une mixture à administrer à Reyfald qui devrait résoudre ses problèmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai tué un troll de glace et récupéré son cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai réussi à trouver quelques roseaux de rivière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Échec de la quête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai parlé à Haeferic du plan de Reyfald pour voler sa liqueur readcerane. Il n'a pas eu l'air particulièrement surpris, mais il m'a remercié pour mon honnêteté, et m'a donné de l'argent pour mes efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Il est clair que la liqueur de Fennlan était un piège, visant une cible spécifique. J'ai considéré que Reyfald a mérité ses malheurs, et je l'ai laissé régler ses propre problèmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai le remède d'Haeferic, et Reyfald a retrouvé son état normal, pour le meilleur ou le pire. Il était soulagé, et m'a offert une paire de gants qu'il a fabriqués en récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Haeferic m'a récompensé avec une bouteille de liqueur de Fennlan après que j'ai descellé la porte de la Batterie de Durgan. J'ai décidé de la donner à Reyfald, qui était très reconnaissant de ma gentillesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

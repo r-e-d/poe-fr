@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_galvino_critpath</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>144</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bien sûr. Un imbécile pour remplacer les imbéciles précédents. Qu'est-ce que vous faites dans mon atelier ?", lâche-t-il en vous examinant de la tête aux pieds. Un rictus se dessine sur son visage.</DefaultText>
+      <FemaleText>"Bien sûr. Une imbécile pour remplacer les imbéciles précédents. Qu'est-ce que vous faites dans mon atelier ?", lâche-t-il en vous examinant de la tête aux pieds. Un rictus se dessine sur son visage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'aimerais vous poser quelques questions sur la Batterie de Durgan et sur la Forge blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eh bien, vous n'y allez pas par quatre chemins, vous ! Mais ce n'est pas pour nous déplaire, n'est-ce pas ?" Il lance un regard par-dessus son épaule en direction de la femme golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du moment que ça vous fasse taire". La voix vient de la femme golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Surveillez vos paroles, vieil homme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je crois que vous le savez déjà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je vends des fausses dents. On m'a dit que vous pourriez être intéressé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Un gloussement lui échappe. "Quelle audace !" Toujours hilare, il lance un regard par-dessus son épaule en direction de la femme golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Qu'en pensez-vous, très chère ? Une âme sœur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Si ce sont de nouvelles dents que vous voulez, je vous aiderai volontiers à faire de la place pour les accueillir". La voix vient de la femme golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Il éclate de rire. "Je vous manquerais si je devais partir, aimora. Qui supporterait vos piques et vos insultes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Il se retourne vers vous. "Mais vous êtes à la recherche de la Forge blanche. Comme tout le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Comme tous ces garçons imberbes aux rêves fous. Comme toutes ces filles aux beaux rubans accrochés à leur fourreau". Sa voix est moqueuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Et comme tous ces hommes et femmes plus âgés qui cherchent un dernier moment de gloire avant de repartir pour un nouveau tour de Roue. Ça ne vous rappelle rien ?" Il vous regarde fixement, avec un sourire figé, et le coin de son œil tressaille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous avez souvent dû avoir ce genre de conversation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"J'ai en effet ce genre de conversation avec tous les aventuriers obstinés que ces postenagos de Stalwart envoient ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Allez voir Galvino, qu'ils disent ! Il pourra sûrement vous aider !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ces imbéciles ont dû oublier combien vous êtes occupé et important."  
+
+Dans le silence qui s'ensuit, la température de la pièce semble chuter. Galvino lui lance un regard noir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"J'aurais dû les laisser vous lapider. Cela vous aurait fait taire pour de bon". La peau qui pend de son cou tremble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Concentrez-vous, s'il vous plaît. Uldric m'a dit que vous pourriez m'aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oui, le seul qui soit suffisamment jeune pour être raisonnable. Et comme sa mère dirige maintenant le village, qui suis-je pour discuter ?" Il rit, amer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Les villageois et leurs aventuriers s'attaquent à la Batterie comme s'ils assiégeaient le donjon d'un seigneur en décomposition". Il agite les mains devant son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Elles ne céderont pas aux caprices de quelconques êtres civilisés. Quant à la porte, elle est imprégnée d'essence vivante". Il lève la main devant lui, les yeux écarquillés d'émerveillement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Alors, comment entre-t-on dans la forteresse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Grâce aux secrets des nains Pargruns, cela va de soi". Il frappe sa tête à la chevelure clairsemée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Mais la porte du donjon, celle que les Pargruns ont imprégnée d'essence, elle est faite pour écouter. Pour reconnaître ses maîtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Les cultures traditionnelles des Aptapos reposaient sur le langage : les mots révélaient qui ils étaient et d'où ils venaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Qu'est-ce qu'un cantec ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Certains le comparent à un poème. D'autres à un hymne. En réalité, c'est bien plus que cela". Il lève une main et la balance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Un cantec est une affirmation, une déclaration d'identité, propre à la forteresse à laquelle il se rapporte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Donc, pour entrer dans une forteresse comme la Batterie de Durgan, vous devez vous poster devant la porte et réciter son cantec."  
+
+Il ouvre les bras, le visage radieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Très bien. Où puis-je apprendre ce cantec ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Pour apprendre le cantec, vous devez vous adresser à l'un des nains de la Batterie de Durgan ! Malheureusement, ils sont tous morts." Il se frotte les mains en faisant les cent pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Mais leurs âmes ont dû se perpétuer dans le corps d'un ou deux villageois de Stalwart. Comme du bon vin versé dans une chope de piètre qualité". De la dérision se lit sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Il pointe un doigt en direction du plafond. "Mais comment les identifier ? Là est tout le problème. Vous allez avoir besoin des talents d'un animancien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Et vous en êtes un."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>La tête de la femme golem se tourne en décrivant un mouvement lent et huilé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oui, Galvino, pourquoi ne retourneriez-vous pas à Stalwart ? Je serais prête à laisser rouiller mes articulations pour voir ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ça suffit !" Il s'empare d'un encrier posé sur le bureau et le lance sur la femme golem. L'encre éclabousse les murs. Sans bouger, la femme golem le fixe de ses yeux de verre noirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je ne veux plus jamais entendre parler de ce maudit village". La bouche et le front de Galvino sont figés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je suis un Gardien."</DefaultText>
+      <FemaleText>"Je suis une Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>La femme golem tourne brusquement la tête vers vous. Le masque qui lui sert de visage ainsi que les yeux en verre qui se cachent derrière ne trahissent aucune émotion, mais vous avez l'impression qu'elle vous regarde prudemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Un Gardien ? Di verus ?"  
+
+"Si vous dites vrai, vous trouverez certainement une âme qui descend de la Batterie de Durgan, mais il vous reste un obstacle de taille."  
+
+Galvino frotte ses joues émaciées et barbues.</DefaultText>
+      <FemaleText>"Une Gardienne ? Di verus ?"  
+
+"Si vous dites vrai, vous trouverez certainement une âme qui descend de la Batterie de Durgan, mais il vous reste un obstacle de taille."  
+
+Galvino frotte ses joues émaciées et barbues.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Il vous reste à apprendre le cantec auprès d'une âme en sommeil. Et pour cela, vous allez devoir l'Éveiller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Éveiller quelqu'un ? Comment dois-je m'y prendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Un Éveil consiste simplement à faire reprendre conscience à une âme en sommeil". Ses mains miment une explosion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Donc, pour Éveiller un des anciens nains de la Batterie de Durgan, vous allez devoir vous adresser à cette âme. De préférence en l'appelant par son nom". Il croise les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mais attention. Lorsque vous examinerez ces âmes, à la façon des Gardiens, vous verrez peut-être des images. Des souvenirs."  
+
+Il se penche en avant, le dos voûté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ces moments sont très importants. Ce que vous verrez vous en dira beaucoup sur la personne. Et peut-être sur l'état dans lequel elle sera Éveillée". Il lève ses sourcils grisonnants et penche la tête en arrière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Alors, je n'ai besoin que du cantec ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Qui sait ? Personne n'a encore jamais ouvert la Batterie de Durgan". Galvino lève les mains, paumes vers le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Mais je crois que vos prédécesseurs ont failli y arriver. Vous pouvez toujours essayer de les retrouver pour savoir ce qu'ils ont découvert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je ne les ai pas revus depuis qu'ils m'ont rendu visite il y a quelques semaines. Mais j'ai entendu dire qu'ils avaient croisé une ogresse". Un sourire ironique se dessine sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Mais cet Éveil serait permanent, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Oh, oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Toute âme Éveillée vivra avec les souvenirs et la personnalité de son existence passée. Peut-être en paix, peut-être pas". Il hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je vois. Merci de votre aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Il rejette l'idée d'un revers de la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"C'est agréable de recevoir quelqu'un d'aussi poli que vous. Je n'ai pas l'habitude. Dommage que vous deviez aller vous salir les bottes à Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je l'accompagne". La femme golem se tourne vers vous en faisant pivoter son articulation huilée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous ? Vous voulez aller à Stalwart ? Est-ce votre macabre sens de l'humour qui parle, ou cette magnifique tête que j'ai fabriquée est-elle en train de rouiller ?" Galvino la regarde, bouche bée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Si je l'accompagne, personne n'osera s'en prendre à moi. Et puis, je pourrai l'aider à trouver les gens à Stalwart."  
+
+Le visage de la femme golem est étrangement impassible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous... Vous n'avez pas mis les pieds à Stalwart depuis treize ans ! Et le Gardien voit les âmes ! En quoi pourriez-vous lui être utile ?"</DefaultText>
+      <FemaleText>"Vous... Vous n'avez pas mis les pieds à Stalwart depuis treize ans ! Et la Gardienne voit les âmes ! En quoi pourriez-vous lui être utile ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Et puis, j'ai besoin de vous ici. Vous devez me consacrer ce qu'il reste de votre misérable vie". Ses lèvres se plissent tandis qu'il se plante un doigt crochu dans la poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Galvino ricane. "Oui. Maintenant, allez harceler quelqu'un d'autre et laissez-moi reprendre mon travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Vous avez du pain sur la planche. Tout comme moi."  
+
+Il hoche la tête et retourne à son bureau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Bâillement] "Fascinant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Mol igniaro". Il vous congédie d'un revers de la main.</DefaultText>
+      <FemaleText>"Mol igniara". Il vous congédie d'un revers de la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Quelle incroyable tradition !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Verus ! Quel dommage que les postenagos d'ici ne soient pas capables d'apprécier une telle élégance ! En tout cas, ça fait plaisir de partager ça avec un homme de lettres". Il hoche la tête en souriant.</DefaultText>
+      <FemaleText>"Verus ! Quel dommage que les postenagos d'ici ne soient pas capables d'apprécier une telle élégance ! En tout cas, ça fait plaisir de partager ça avec une femme de lettres". Il hoche la tête en souriant.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Verus ! Quel dommage que les postenagos d'ici ne soient pas capables d'apprécier une telle élégance !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Merci. Très intéressant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"L'histoire ne m'intéresse pas. Je veux juste savoir comment entrer dans la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Il se moque. "Je pensais qu'un homme de lettres respecterait cette tradition". Il vous congédie d'un revers de la main.</DefaultText>
+      <FemaleText>Il se moque. "Je pensais qu'une femme de lettres respecterait cette tradition". Il vous congédie d'un revers de la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ah, oui ! Il doit s'agir de sortes d'hymnes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Il acquiesce. "Oui, c'est l'explication la plus simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"J'en ai déjà entendu parler. Il s'agit de poèmes, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Dans ce cas, il faut que cette porte me « reconnaisse » ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je commence à comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Les nains avaient bien un moyen d'y pénétrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Belfetto ! Voilà le nœud du problème". Il claque des mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Expliquez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Il se renfrogne et ses joues se rident comme du papier crépon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Mestre Galvino, j'ai besoin de votre aide. S'il vous plaît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Bien sûr ! Qu'est-ce qu'ils feraient tous sans moi ? Je..." Il s'interrompt, apparemment surpris.   
+
+Galvino marque une pause et inspire profondément. Il replie les mains et penche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Sientere. Cela faisait bien longtemps qu'on ne s'était pas adressé à moi ainsi ". Il s'éclaircit la voix avant de poursuivre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous êtes contrarié. Vous avez un vieux contentieux avec Stalwart ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Il rit, amer. "Ces imbéciles rancuniers ont détruit ma carrière ! Gâché des années de travail !"  
+
+Il se racle la gorge. "Mais concentrons-nous sur le motif de votre visite, voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vous êtes pitoyable. Je savais bien que je ne pouvais rien attendre de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Calloste !" Dans un claquement sonore, il frappe du poing sur son autre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Dois-je vous expliquer pourquoi vous êtes condamné à l'échec ? Je m'en ferai une joie."</DefaultText>
+      <FemaleText>"Dois-je vous expliquer pourquoi vous êtes condamnée à l'échec ? Je m'en ferai une joie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je préférerais viser la grandeur plutôt que de dépérir dans l'ombre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Bazzo ! Vous êtes bien effronté pour quelqu'un qui vient me demander de l'aide !" Son visage ridé se tord de rage.</DefaultText>
+      <FemaleText>"Bazzo ! Vous êtes bien effrontée pour quelqu'un qui vient me demander de l'aide !" Son visage ridé se tord de rage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Vous êtes bien amer. Je pourrais vous poser la même question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Économisez votre salive". Il se racle la gorge et crache dans un coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ce n'est qu'un travail de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Verus, ce n'est qu'un travail de plus de trouver le trésor d'une civilisation dans les profondeurs d'un donjon impénétrable ?! Gellarde, vous devez avoir une sacrée vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"À votre place, cela me ferait peur". La voix vient de la femme golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous n'auriez alors que ces consanguins pour compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Alors, c'est pour ça que les nains ont disparu. Ils ont été chassés de leur propre forteresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Sciòderie ! Je suis très sérieux". Il secoue la tête, mais l'amusement se lit au coin de ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"C'est la raison pour laquelle il vous faut un cantec". Il lève un doigt tremblant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ouais, je l'ai déjà à la bonne, celle-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Il éclate de rire. "Vous avez entendu ça, aimora ? Voilà quelqu'un qui supporterait vos piques et vos insultes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Cela se produit généralement lorsque quelque chose ravive chez le sujet les souvenirs d'une vie passée. Un choc le plus souvent."
+
+Il frappe son établi avec une surprenante vigueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Aloth sursaute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"[Player Name], vous ne devez pas faire ça. Condamner quelqu'un à un destin semblable à celui de Maerwald..." Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oui, et qui sait ? Il y aura peut-être un bon coup de fouet à donner à une âme ou deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vous connaissez les conséquences d'un Éveil mieux que personne, [Player Name]. Mais il y a peut-être aussi des avantages à en tirer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Où puis-je les trouver ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"J'ai trouvé ce qu'il reste d'eux : un journal et un carreau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Très intéressant". Il ajuste ses lunettes pour examiner le carreau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ils sont restés plusieurs jours devant la porte de la Batterie. Ceci vient probablement de là-bas". Il tapote le carreau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"On... n'impose pas ça à quelqu'un à la légère, mais ce sont ces villageois qui veulent redécouvrir la Forge blanche, verus ?" Il ôte ses lunettes et en essuie les verres sales avec le revers de sa tunique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Qui sait ce qui peut arriver si vous Éveillez une âme avec un souvenir traumatisant ? Elle sera peut-être assoiffée de sang. Ou peut-être que vous Éveillerez quelqu'un d'autre". Il glousse à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"C'est bien pour cela que vous devez veiller à ne pas Éveiller n'importe quelle âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Bref..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Éclaircissez-vous la voix.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Bon. Je ne suis pas venu jusqu'ici pour entendre vos chamailleries."</DefaultText>
+      <FemaleText>"Bon. Je ne suis pas venue jusqu'ici pour entendre vos chamailleries."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Attendez sans rien dire.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Oui, oui ! Je ne vous ai pas oublié. Vous êtes là pour la Forge blanche, comme tous les autres". Il agite impatiemment la main.</DefaultText>
+      <FemaleText>"Oui, oui ! Je ne vous ai pas oubliée. Vous êtes là pour la Forge blanche, comme tous les autres". Il agite impatiemment la main.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Dans ce cas, il ne vous reste peut-être plus qu'à trouver le cantec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Voilà un accent que je n'entends que trop rarement dans ces montagnes. Et en plus, vous allez droit au but, ce qui n'est pas pour nous déplaire, n'est-ce pas ?" Il lance un regard par-dessus son épaule en direction de la femme golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Mais ces pierres ont été posées par les meilleurs bâtisseurs de tous les temps. Des disciples d'Abydon, au vrai sens du terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Les Pargruns de la Batterie de Durgan ont péri à l'intérieur de leur donjon. À cause du violent désaccord qui opposait leurs komendants". Un sourire malicieux se dessine sur sa bouche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Vous avez dû entendre des histoires au village, non ? Des histoires de caravanes qui disparaissent. De traces dans la neige. De cris venant des hautes tours". Il marque une pause en contemplant votre expression avec la jubilation d'un conteur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Il s'agit de l'œuvre des esprits encore piégés à l'intérieur de la Batterie, dans ces murs impénétrables". Il tape sur la pierre de mortier de sa demeure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Je suppose que c'est ce à quoi cela ressemblerait si Aloth et Iselmyr étaient deux êtres distincts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"N'importe quoi, je n'ai rien à voir avec eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Intéressante, cette tradition ! Je pourrais me mettre à parler en vers..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Continuez. Cette histoire me plaît bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Hah ! Fermez votre porte avec une clé de mots et n'importe quel menteur pourra la franchir."
+
+"Aucune combinaison de mots ne résiste à la pression, aussi minime soit-elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ce gars a un goût prononcé pour l'euphémisme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Tenez, ce dispositif a été fabriqué à la grande époque de la Batterie de Durgan. Utilisez-le près des villageois. Il devrait vous indiquer si une âme est assez ancienne pour être issue de la Batterie". Il fouille dans ses affaires et vous tend un étrange dispositif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Qu'étaient toutes ces choses ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Mes travaux. Et compte tenu du vacarme que j'ai entendu, j'en déduis que vous avez tout détruit". Il vous lance un regard menaçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Oh, Galvino, ce n'était pas vos meilleures créations". La voix vient de la femme golem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Il éclate de rire.  "Vous vous croyez supérieure ? Je devrais vous refondre, aimora."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

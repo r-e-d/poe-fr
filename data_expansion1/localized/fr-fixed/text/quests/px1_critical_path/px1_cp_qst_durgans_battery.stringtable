@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_durgans_battery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Batterie de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rendez-vous à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tuez Darzir dans le village de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Allez chez Renengild pour lui parler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trouvez un moyen d'ouvrir la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ouvrez la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Parlez à l'intendante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une lettre est arrivée à Caed Nua, à l'attention de son nouveau dirigeant. L'intendante pense qu'il peut s'agir d'une opportunité intéressante.</DefaultText>
+      <FemaleText>Une lettre est arrivée à Caed Nua, à l'attention de sa nouvelle dirigeante. L'intendante pense qu'il peut s'agir d'une opportunité intéressante.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les habitants de Stalwart m'ont demandé d'ouvrir la Batterie de Durgan, une forteresse désertée par des nains, et de trouver la Forge blanche. Leur maire, Renengild, pourra probablement me renseigner.    
+
+Il me faudra plusieurs jours pour rejoindre le village de Stalwart, dans la région de la Marche blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai rallié le village pour le découvrir empris dans une bataille désespérée contre des ogres. Si je tue l'ogre qui mène le raid, Darzir, cela devrait casser le moral des ogres et les forcer à battre en retraite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai été convoqué chez Renengild, la maire de Stalwart. Je pense qu'elle va me renseigner sur la Batterie de Durgan et m'indiquer comment pénétrer dans le donjon.</DefaultText>
+      <FemaleText>J'ai été convoquée chez Renengild, la maire de Stalwart. Je pense qu'elle va me renseigner sur la Batterie de Durgan et m'indiquer comment pénétrer dans le donjon.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Renengild m'a dit que la Batterie de Durgan est fermée depuis la disparition de ses anciens propriétaires il y a plus de deux cents ans. Stalwart a envoyé de nombreux aventuriers sur place, mais aucun n'a jamais réussi à s'introduire dans la forteresse.  
+
+Ma mission est plus compliquée que prévu, mais Renengild et son fils m'ont donné quelques pistes. Ils m'ont conseillé d'aller parler à Galvino, un animancien et forgeron, et d'affronter la matrone Beregan, qui dirige un clan d'ogres locaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Je suis prêt à entrer dans la Batterie de Durgan. J'ai le fragment de bas-relief trouvé par l'expédition de la Clé plombée ainsi que le cantec que j'ai appris à Stalwart :  
+
+"Marteaux de Durgan, sonnez haut et fort ! Puisse le son grave de l'enclume résonner."  
+
+"Les murs de la Batterie nous protègent des maraudeurs et des voyous."  
+
+"Les disciples d'Abydon s'échinent à la forge et près des feux qui illuminent le minerai."</DefaultText>
+      <FemaleText>Je suis prête à entrer dans la Batterie de Durgan. J'ai le fragment de bas-relief trouvé par l'expédition de la Clé plombée ainsi que le cantec que j'ai appris à Stalwart :  
+
+"Marteaux de Durgan, sonnez haut et fort ! Puisse le son grave de l'enclume résonner."  
+
+"Les murs de la Batterie nous protègent des maraudeurs et des voyous."  
+
+"Les disciples d'Abydon s'échinent à la forge et près des feux qui illuminent le minerai."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>L'intendante a réclamé ma présence à Caed Nua car elle a quelque chose d'important à me dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>En plein milieu du combat, j'ai eu des visions de nains livrant bataille à mes côtés. Mais le temps qu'on en finisse avec les ogres, ils avaient disparu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Le clan de la matrone Beregan a établi un campement dans les grottes de glace voisines du village. Renengild pense que Beregan a tué les membres de la précédente expédition, le groupe de la Clé plombée. Si ceux-ci ont trouvé quelque chose d'intéressant, Beregan a dû s'en emparer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Galvino habite près de la Batterie de Durgan. Uldric pense qu'il pourrait m'en dire quelque chose... si j'arrive à le convaincre de m'aider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai trouvé un carreau en forme d'enclume parmi les restes de l'expédition de la Clé plombée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai rencontré Galvino, qui pense que la Batterie de Durgan abrite les âmes de ses anciens propriétaires. Il m'a dit que j'allais devoir apprendre le cantec de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Renengild m'a conseillé de parler aux patrons du Refuge du gréf. L'aubergiste là-bas pourra peut-être me fournir des informations, ainsi qu'un repas chaud et un endroit pour se reposer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai rencontré Taena, la vieille contremaître de la mine. Elle est un peu sénile, mais son expérience sera importante si Stalwart devait à nouveau s'établir comme une ville minière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai rencontré Taena, la vieille contremaître de la mine. Elle est un peu sénile, mais son expérience sera importante si Stalwart devait à nouveau s'établir comme une ville minière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai ouvert la porte de la Batterie de Durgan. Je vais enfin pouvoir chercher la Forge blanche et essayer de percer les mystères de cette forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai été appelé à la Marche blanche pour trouver la Forge blanche, qui serait cachée à l'intérieur de la Batterie de Durgan, une forteresse désertée par les nains.   
+
+La Forge blanche produisait jadis les légendaires armes en acier de Durgan, et les villageois de Stalwart aimeraient découvrir le secret de leur fabrication. En outre, quelque chose a attiré la Clé plombée à la Batterie de Durgan.</DefaultText>
+      <FemaleText>J'ai été appelée à la Marche blanche pour trouver la Forge blanche, qui serait cachée à l'intérieur de la Batterie de Durgan, une forteresse désertée par les nains.   
+
+La Forge blanche produisait jadis les légendaires armes en acier de Durgan, et les villageois de Stalwart aimeraient découvrir le secret de leur fabrication. En outre, quelque chose a attiré la Clé plombée à la Batterie de Durgan.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

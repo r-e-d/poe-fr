@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_cv_sleeping_merc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un orlan endormi est allongé sur un tapis de couchage crasseux à quelques pas de vous et ronfle bruyamment. Vous remarquez sur sa poitrine une grosse clé accrochée à un lien en cuir autour de son cou. Il tient une chope dans sa main gauche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Examinez l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Approchez-vous discrètement de l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>La poitrine balafrée de l'orlan se soulève, puis se baisse au gré de ronflements sonores et irréguliers. Il marmonne tout en dormant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous vous approchez de l'orlan endormi, évitant les brindilles et les feuilles sèches qui jonchent le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous vous approchez de l'orlan endormi. 
+
+Soudain, vous sentez une brindille se rompre sous vos pieds. S'ensuit un bruit sec.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'orlan se redresse et ses yeux regardent autour de lui, sous ses paupières mi-closes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Qui s'approchera ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Vous vous approcherez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Envoyez [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Envoyez [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Envoyez [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Envoyez [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Envoyez [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Envoyez [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Trouvez une autre solution.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Specified 0] s'approche de l'orlan endormi. 
+
+Soudain, [Specified 0] marche sur une brindille. Un bruit sec résonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Specified 0] s'approche de l'orlan endormi, évitant les brindilles et les feuilles sèches qui jonchent le sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"La jolie petite... Combien elle va me coûter ? ... Et qu'est-ce que je peux avoir avec ça ?"
+
+La voix de l'orlan se fait murmure et il se remet à ronfler. Soudain, il bouge, les paupières toujours fermées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Non ! Pas l'aumaua ! Non !"
+
+L'orlan se recroqueville et se balance, mais ne se réveille pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Son regard se pose sur votre sombre silhouette, accroupie sous la lune décroissante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Encore une tournée avec l'aumaua, s'il vous plaît."
+
+L'orlan fait claquer ses lèvres comme s'il goûtait quelque chose de nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>S'allongeant à nouveau sur son tapis de couchage, il se tourne sur le côté, tenant délicatement sa chope vide comme une poupée. 
+
+Quelques instants plus tard, il se remet à ronfler, à un rythme régulier qui vous rappelle les ronronnements d'un chat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Son regard se pose sur vous, curieusement accroupie en plein jour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ses yeux félins s'écarquillent et il prend une profonde inspiration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Lancez votre poignard sur l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Utilisez votre arbalète contre l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Utilisez votre arc contre l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Ne faites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Lancez votre lance sur l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Prenez la clé.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Tuez l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vous retirez délicatement le lien en cuir du cou de l'orlan, en prenant soin d'éviter ses grandes oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Alors que vous commencez à en retirer la clé, le lien en cuir accroche une des nombreuses boucles d'oreille de l'orlan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>L'orlan pousse un cri et ouvre les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Prenez la clé.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Tuez l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Specified 0] retire délicatement le lien en cuir du cou de l'orlan, en prenant soin d'éviter ses grandes oreilles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Alors que [Specified 0] commence à en retirer la clé, le lien en cuir accroche une des nombreuses boucles d'oreille de l'orlan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Vous vous débarrassez discrètement du mercenaire endormi en lui assénant un coup précis et mortel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous frappez l'orlan, mais le coup le réveille. Il secoue la tête, sonné mais vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Specified 0] se débarrasse discrètement du mercenaire endormi en lui assénant un coup précis et mortel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Specified 0] frappe l'orlan, mais le coup le réveille. Il secoue la tête, sonné mais vivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Jetez le sort Appel du sommeil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Jetez le sort Maître marionnettiste.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Attaquez l'orlan avec le sort Vitesse sauvage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Vous fondez sur l'orlan et lui assénez un coup précis avant qu'il ne crie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Avant même que l'orlan ne prononce un mot, il est encerclé de la douce lueur magique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Attaquez l'orlan avec le sort Longue foulée.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Attaquez l'orlan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Paniqué, l'orlan pousse un cri à vous tourner le sang qui résonne dans le canyon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vous fondez sur l'orlan dans l'espoir de le faire taire avant qu'il ne réagisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Hélas, vous n'êtes pas assez rapide pour l'arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Vous frappez l'orlan sous le menton et le tuez instantanément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Vous le frappez, mais pas mortellement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>L'orlan se redresse et ses yeux regardent autour de lui, sous ses paupières mi-closes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Son regard se pose sur la sombre silhouette de [Specified 0], accroupie sous la lune décroissante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Son regard se pose sur [Specified 0], curieusement accroupi en plein jour.</DefaultText>
+      <FemaleText>Son regard se pose sur [Specified 0], curieusement accroupie en plein jour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] fond sur l'orlan et lui assène un coup précis avant qu'il ne crie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Specified 0] fond sur l'orlan dans l'espoir de le faire taire.
+
+Hélas, [Specified 0] n'est pas assez rapide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Vous frappez l'orlan sous le menton et le tuez instantanément.
+
+Hiravias vous lance un regard accusateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"J'espère que vous n'avez pas appris ça où je crois que vous l'avez appris."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

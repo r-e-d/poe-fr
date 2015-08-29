@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_companions\px1_companion_qst_devil_of_caroc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Celui qui s'en est tiré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Retrouvez Harmke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gardez un œil sur la Démone de Caroc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai rencontré un nouvel allié étrange dans la Marche blanche - un golem avec l'âme d'une meurtrière. Elle m'a demandé de l'accompagner peu après que je l'ai rencontrée, elle et son « maître ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La Démone de Caroc veut retrouver et tuer un bûcheron nommé Harmke. Elle pense qu'il était directement responsable de la mort de sa famille, mais elle veut en être sûre.
+
+Elle pense qu'en tant que Gardien, je pourrais le savoir.
+
+Nous devons d'abord le retrouver. Quelqu'un à Stalwart pourrait probablement nous dire où il se trouve.</DefaultText>
+      <FemaleText>La Démone de Caroc veut retrouver et tuer un bûcheron nommé Harmke. Elle pense qu'il était directement responsable de la mort de sa famille, mais elle veut en être sûre.
+
+Elle pense qu'en tant que Gardienne, je pourrais le savoir.
+
+Nous devons d'abord le retrouver. Quelqu'un à Stalwart pourrait probablement nous dire où il se trouve.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>La Démone de Caroc m'a demandé à m'accompagner... après lui avoir dit que je suis Gardien et que je retourne dans le village où elle a été capturée.
+
+Je ne sais pas trop ce qu'elle veut, mais je vais garder un œil sur elle.</DefaultText>
+      <FemaleText>La Démone de Caroc m'a demandé à m'accompagner... après lui avoir dit que je suis Gardienne et que je retourne dans le village où elle a été capturée.
+
+Je ne sais pas trop ce qu'elle veut, mais je vais garder un œil sur elle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai refusé de l'aider pour le moment. Mais si nous le croisons, elle pourrait ne pas attendre mon assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai dit à la Démone que je l'aiderai à retrouver Harmke. Pour autant, je n'ai fait aucune promesse sur ce que nous ferons lorsque nous le trouverons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Elle a nié avoir tué quelqu'un à Stalwart, mais je ne sais pas si je peux la croire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Quelqu'un m'a dit qu'Harmke travaille dans une clairière dans les Bois de Russet, à l'ouest de la ville.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quelqu'un d'une importance critique dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai examiné l'âme d'Harmke et je l'ai vu brûler la maison de la Démone de Caroc. Je le lui ai dit et nous l'avons tué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Harmke est mort avant que je puisse lire son âme. La Démone de Caroc ne saura jamais s'il était responsable du sort de sa famille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai examiné l'âme d'Harmke et j'ai vu sa répugnance à brûler la maison de la Démone de Caroc. J'ai décidé qu'il n'était finalement pas responsable et le lui ai dit. Elle l'a laissé partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>La Démone de Caroc veut se venger de l'un des hommes qui ont détruit son village. Elle pense qu'il est quelque part près de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

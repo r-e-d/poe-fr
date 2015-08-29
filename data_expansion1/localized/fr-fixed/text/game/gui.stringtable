@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>176</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1903</ID>
+      <DefaultText>Temple d'Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Le Refuge du gréf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1905</ID>
+      <DefaultText>Pêcherie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
+      <DefaultText>Maison de Renengild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1907</ID>
+      <DefaultText>Maison de Thyrsc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1908</ID>
+      <DefaultText>Maison de Taena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1909</ID>
+      <DefaultText>Chariot d'Yduran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1912</ID>
+      <DefaultText>La Démone de Caroc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1940</ID>
+      <DefaultText>Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1941</ID>
+      <DefaultText>Cavernes des Flammes-Qui-Murmurent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1951</ID>
+      <DefaultText>Batterie de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1956</ID>
+      <DefaultText>Réserve glaciale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1957</ID>
+      <DefaultText>Quartiers des gardes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1958</ID>
+      <DefaultText>Salle de guerre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1959</ID>
+      <DefaultText>Hall des banquets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1965</ID>
+      <DefaultText>Lac</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1966</ID>
+      <DefaultText>Armurerie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1967</ID>
+      <DefaultText>Mine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1968</ID>
+      <DefaultText>Chambre de divination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1969</ID>
+      <DefaultText>Glissière de glace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1970</ID>
+      <DefaultText>Dortoirs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1971</ID>
+      <DefaultText>Salle à manger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1972</ID>
+      <DefaultText>Vers les Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1973</ID>
+      <DefaultText>Vers la Caverne inférieure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1974</ID>
+      <DefaultText>Étang des Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1975</ID>
+      <DefaultText>Bosquet des bûcherons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1976</ID>
+      <DefaultText>Campement des chasseurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1986</ID>
+      <DefaultText>Glissement de terrain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1996</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2001</ID>
+      <DefaultText>Salle du souvenir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2002</ID>
+      <DefaultText>Atelier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2003</ID>
+      <DefaultText>Tunnels empruntés par les wagonnets de mine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2004</ID>
+      <DefaultText>La fonderie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2005</ID>
+      <DefaultText>Grande salle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2006</ID>
+      <DefaultText>Salle de combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2007</ID>
+      <DefaultText>Les mines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2008</ID>
+      <DefaultText>Porte de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2009</ID>
+      <DefaultText>Salle des frères</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2010</ID>
+      <DefaultText>Armurerie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2011</ID>
+      <DefaultText>Forge blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2012</ID>
+      <DefaultText>Salle de la Fierté de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2013</ID>
+      <DefaultText>Tour de guet de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2014</ID>
+      <DefaultText>La Marche blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2017</ID>
+      <DefaultText>Grotte des loups</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2021</ID>
+      <DefaultText>Caverne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2022</ID>
+      <DefaultText>Batterie de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2023</ID>
+      <DefaultText>Cabane de Galvino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2024</ID>
+      <DefaultText>Caravane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2026</ID>
+      <DefaultText>Vers la Caverne supérieure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2027</ID>
+      <DefaultText>Sanctuaire de Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2028</ID>
+      <DefaultText>Cratère des Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2029</ID>
+      <DefaultText>Campement abandonné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2030</ID>
+      <DefaultText>Liaison d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2031</ID>
+      <DefaultText>Annuler la liaison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2032</ID>
+      <DefaultText>Voulez-vous vraiment définir une liaison d'âme entre {0} et {1} ? Une fois la liaison établie, cette arme ne pourra pas être utilisée par un autre personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2033</ID>
+      <DefaultText>Voulez-vous vraiment annuler la liaison entre {0} et {1} ? Toutes les capacités réveillées sur {1} seront perdues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2034</ID>
+      <DefaultText>Liaison à : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2035</ID>
+      <DefaultText>Cette arme peut uniquement être liée aux personnages appartenant aux classes suivantes : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2037</ID>
+      <DefaultText>Liaison à : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2038</ID>
+      <DefaultText>Une liaison d'âme a été établie entre {0} et {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2040</ID>
+      <DefaultText>Croisement de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2041</ID>
+      <DefaultText>Tour de guet de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2042</ID>
+      <DefaultText>Campement de Taragaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2044</ID>
+      <DefaultText>Lié à l'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2045</ID>
+      <DefaultText>{0} pour déverrouiller le niveau suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2046</ID>
+      <DefaultText>Tuer {0} {1} avec {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2047</ID>
+      <DefaultText>Infliger des dégâts {0} à {1} avec {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2048</ID>
+      <DefaultText>Lier cette arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2051</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2052</ID>
+      <DefaultText>Niveau élevé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2060</ID>
+      <DefaultText>Combattants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2061</ID>
+      <DefaultText>Bandits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2062</ID>
+      <DefaultText>Prêtres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2063</ID>
+      <DefaultText>Magiciens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2064</ID>
+      <DefaultText>Barbares</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2065</ID>
+      <DefaultText>Rôdeurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2066</ID>
+      <DefaultText>Druides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2067</ID>
+      <DefaultText>Paladins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2068</ID>
+      <DefaultText>Moines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2069</ID>
+      <DefaultText>Clairvoyants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2070</ID>
+      <DefaultText>Incantateurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2071</ID>
+      <DefaultText>Trolls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2072</ID>
+      <DefaultText>Ogres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2073</ID>
+      <DefaultText>Loups</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2074</ID>
+      <DefaultText>Araignées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2075</ID>
+      <DefaultText>Vases</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2076</ID>
+      <DefaultText>Staelgars</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2077</ID>
+      <DefaultText>Diablotins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2078</ID>
+      <DefaultText>Spores humides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2079</ID>
+      <DefaultText>Rôdeurs des marécages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2080</ID>
+      <DefaultText>Eotens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2081</ID>
+      <DefaultText>Xaurips</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2082</ID>
+      <DefaultText>Vithracks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2083</ID>
+      <DefaultText>Feux follets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2084</ID>
+      <DefaultText>Délemgans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2085</ID>
+      <DefaultText>Pŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2086</ID>
+      <DefaultText>Wurms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2087</ID>
+      <DefaultText>Skuldrs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2088</ID>
+      <DefaultText>Drakes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2089</ID>
+      <DefaultText>Dragons célestes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2090</ID>
+      <DefaultText>Dragons d'adra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2091</ID>
+      <DefaultText>Fléaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2092</ID>
+      <DefaultText>Animats</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2093</ID>
+      <DefaultText>Automates en chair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2094</ID>
+      <DefaultText>Ombres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2095</ID>
+      <DefaultText>Fantômes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2096</ID>
+      <DefaultText>Cean Gŵlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2097</ID>
+      <DefaultText>Squelettes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2098</ID>
+      <DefaultText>Revenants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2099</ID>
+      <DefaultText>Goules</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2100</ID>
+      <DefaultText>Darguls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2101</ID>
+      <DefaultText>Fampyrs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2102</ID>
+      <DefaultText>Wichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2103</ID>
+      <DefaultText>Scarabées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2105</ID>
+      <DefaultText>Ennemis faibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2106</ID>
+      <DefaultText>Hérauts de Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2107</ID>
+      <DefaultText>Prêtres de Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2108</ID>
+      <DefaultText>Lagufaeth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2114</ID>
+      <DefaultText>La Marche blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2115</ID>
+      <DefaultText>L'intendante de Caed Nua a reçu une lettre pour vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2116</ID>
+      <DefaultText>Toutes les améliorations de liaison d'âme ont été effectuées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2129</ID>
+      <DefaultText>Groupe de bavards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2130</ID>
+      <DefaultText>Sainte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2131</ID>
+      <DefaultText>Paire de témoins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2132</ID>
+      <DefaultText>Tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2133</ID>
+      <DefaultText>Batte divine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2134</ID>
+      <DefaultText>Douzaine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2135</ID>
+      <DefaultText>rien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2136</ID>
+      <DefaultText>la fourrure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2137</ID>
+      <DefaultText>la peau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2138</ID>
+      <DefaultText>l'oreille</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2139</ID>
+      <DefaultText>la bouche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2140</ID>
+      <DefaultText>l'œil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2141</ID>
+      <DefaultText>le nez</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2142</ID>
+      <DefaultText>{0}, valeur {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2144</ID>
+      <DefaultText>Chambre de Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2145</ID>
+      <DefaultText>Laboratoire de Tanoss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2146</ID>
+      <DefaultText>Laboratoire de Pelden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2147</ID>
+      <DefaultText>Laboratoire de Sabel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2155</ID>
+      <DefaultText>Laboratoire d'Uariki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2156</ID>
+      <DefaultText>Vers les falaises de Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2157</ID>
+      <DefaultText>Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2166</ID>
+      <DefaultText>Atelier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2167</ID>
+      <DefaultText>Laboratoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2168</ID>
+      <DefaultText>Terrain de test</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2169</ID>
+      <DefaultText>Bureau de Galvino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2170</ID>
+      <DefaultText>Sources chaudes de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2172</ID>
+      <DefaultText>Cause l'affliction {1} {0} fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2173</ID>
+      <DefaultText>Être ressuscité pendant le combat {0} fois</DefaultText>
+      <FemaleText>Être ressuscitée pendant le combat {0} fois</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2174</ID>
+      <DefaultText>Inflige {0} {2} dégâts à {1} avec {3}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2175</ID>
+      <DefaultText>{0} avec critiques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2182</ID>
+      <DefaultText>Paquet déchiré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2183</ID>
+      <DefaultText>Sources chaudes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2184</ID>
+      <DefaultText>Ruines naines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2185</ID>
+      <DefaultText>Tour de guet naine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2186</ID>
+      <DefaultText>être civilisé {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2195</ID>
+      <DefaultText>Grand hall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2196</ID>
+      <DefaultText>Arme liée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2197</ID>
+      <DefaultText>Liaison d'âme établie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2208</ID>
+      <DefaultText>Maudit</DefaultText>
+      <FemaleText>Maudite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2209</ID>
+      <DefaultText>Tente de commandement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2210</ID>
+      <DefaultText>Cave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2211</ID>
+      <DefaultText>Infirmerie de campagne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2212</ID>
+      <DefaultText>Terrain d’entraînement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2213</ID>
+      <DefaultText>Terrain de test</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2214</ID>
+      <DefaultText>Laboratoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2215</ID>
+      <DefaultText>Atelier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2216</ID>
+      <DefaultText>Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2220</ID>
+      <DefaultText>Chutes de Longue-vue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2231</ID>
+      <DefaultText>Échelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2233</ID>
+      <DefaultText>Reconnaissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2234</ID>
+      <DefaultText>Invisible</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

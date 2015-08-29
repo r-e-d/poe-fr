@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_bs_rescued_hunters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Merci. On vous doit la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Soyez assuré que le village saura ce que vous avez fait pour nous."</DefaultText>
+      <FemaleText>"Soyez assurée que le village saura ce que vous avez fait pour nous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je n'aurais pas épargné Suldrun. Il a bien fait de ne pas s'approcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Pauvre Thyrsc. Avoir un fils comme ça..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bonne chance pour vos voyages, l'ami."</DefaultText>
+      <FemaleText>"Bonne chance pour vos voyages, l'amie."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

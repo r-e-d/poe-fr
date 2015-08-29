@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_teanlecg_dice_game</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Parfait, allons-y. Alignez votre argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Misez 50 p.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.] "En fait, j'ai changé d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"À vous l'honneur, puisque c'est la première fois." Teanleycg glousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Lancez les dés.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous lancez les dés... 
+[DozensGame_LastPlayerRollNums]
+[DozensGame_LastPlayerRollDesc] !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous lancez les dés...
+[DozensGame_LastPlayerRollNums]
+[DozensGame_LastPlayerRollDesc] !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"C'est à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Teanleycg lance les dés...
+[DozensGame_LastOpponentRollNums]
+[DozensGame_LastOpponentRollDesc].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Teanleycg lance les dés...
+[DozensGame_LastOpponentRollNums]
+[DozensGame_LastOpponentRollDesc].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bon sang ! Votre [DozensGame_PlayerFinalDesc] a battu ma [DozensGame_OpponentFinalDesc]. Vous avez gagné la manche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hah ! Ma [DozensGame_OpponentFinalDesc] a battu votre [DozensGame_PlayerFinalDesc]. On dirait bien que j'ai gagné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Visiblement, on est à égalité. Recommençons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Prêt ?"</DefaultText>
+      <FemaleText>"Prête ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Allez... À vous l'honneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Égalité pour l'instant... C'est à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Teanleycg se penche pour récupérer ses dés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Partez.] "J'abandonne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Teanleycg hausse les épaules et sourit. 
+
+"Dommage. Revenez si vous avez froid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"J'ai perdu tout mon argent, alors." 
+
+Teanleycg fait une grimace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'aurais dû le savoir... Vous êtes du genre à avoir de la chance. Eh bien, prenez votre pactole, et partez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Teanleycg grogne et récupère ses dés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"J'ai gagné ! Ne le prenez pas mal, l'ami. Vous pourrez toujours retenter votre chance." 
+
+Teanleycg se penche pour récupérer ses gains.</DefaultText>
+      <FemaleText>"J'ai gagné ! Ne le prenez pas mal, l'amie. Vous pourrez toujours retenter votre chance." 
+
+Teanleycg se penche pour récupérer ses gains.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ah. Eh bien, je serai ici si vous changez d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ha ! Bien joué. Vous avez gagné. Et remporté la mise. Tenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Trêve de suffisance. Je vous battrai la prochaine fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

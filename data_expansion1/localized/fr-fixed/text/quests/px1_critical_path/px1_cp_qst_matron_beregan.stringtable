@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_critical_path\px1_cp_qst_matron_beregan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'ogresse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez Beregan dans les grottes de glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez les effets de la précédente expédition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Occupez-vous de la matrone Beregan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Les grottes de glace situées à proximité de Stalwart abritent un camp d'ogres. Ce clan est dirigé par une matrone du nom de Beregan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La matrone Beregan et son clan se trouvent quelque part dans les grottes de glace. Renengild veut que je tue Beregan et ses fidèles pour neutraliser la menace qui pèse sur Stalwart.
+
+Beregan serait également en possession des effets de la précédente expédition. Ces objets pourraient m'aider à accéder à la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La matrone Beregan est morte. Les effets de la dernière expédition doivent se trouver dans les parages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>En explorant la Marche blanche, j'ai fait la rencontre d'une ogresse dans son repaire. Bien qu'inquiète, elle n'a pas immédiatement ouvert les hostilités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Uldric m'a déconseillé d'affronter Beregan pour privilégier le dialogue et ne pas créer plus de problèmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Galvino a confirmé que la dernière expédition avait arraché un bas-relief de la porte de la Batterie de Durgan. Je vais peut-être devoir le trouver pour accéder à la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Beregan a exprimé une étrange peur au sujet de la Batterie de Durgan. Elle dit faire des cauchemars sur cet endroit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Renengild a indiqué que les membres d'une précédente expédition avaient été décimés par Beregan. Elle m'a conseillé de fouiller le corps de la matrone pour tenter de trouver les effets de cet autre groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai tué Beregan et trouvé sur elle un carreau en forme d'enclume ainsi qu'un journal appartenant à la précédente expédition. Le carreau semblait provenir de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai conclu une trêve avec Beregan. Elle a promis de m'aider, de me protéger et m'a donné les effets de la précédente expédition, parmi lesquels un carreau en forme d'enclume.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_chasm_rescue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du bord de ce gouffre glacé, vous scrutez l'horizon et apercevez un peu plus bas un visage effrayé. Un homme se tient debout sur un étroit affleurement de glace. Il agite désespérément les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"À l'aide ! S'il vous plaît, je suis là, en bas !"   
+
+Debout sur un affleurement étroit, à bonne distance du bord du gouffre, un villageois agite désespérément les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"S'il vous plaît, aidez-moi ! Je suis prise au piège !"   
+
+De là où vous êtes, vous ne pouvez pas l'atteindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Lancez-lui une corde.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous accrochez votre grappin à un gros rocher et lancez la corde en direction du villageois.   
+
+Après plusieurs tentatives, il parvient à attraper la corde, s'y s'agrippe et commence à grimper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Ne faites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Avec une impressionnante rapidité, vous vous jetez en avant et rattrapez de justesse le bras de l'homme.  
+
+Vous le hissez jusqu'au bord du gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous vous précipitez en avant, mais il est trop tard. Vos doigts ne font qu'effleurer son armure et l'homme tombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>L'homme s'éloigne prudemment du bord, secoué mais indemne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Le cri de l'homme résonne dans le gouffre tandis qu'il tombe dans l'obscurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Penchez-vous pour l'aider.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Jetez le sort Vent hivernal]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Le villageois se hisse lentement le long de la corde, manifestement épuisé.   
+
+Mais juste avant d'atteindre le bord, il glisse. Le choc lui fait lâcher la corde et il tombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous rassemblez rapidement vos énergies et sentez un froid familier se former autour de vous pendant que vous jetez le sort.   
+
+Une puissante bourrasque jaillit du fond du gouffre et, pendant quelques instants, le villageois semble planer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Demandez-lui d'enrouler la corde autour de sa taille.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Remontez-le.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Laissez-le remonter tout seul.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Vos compagnons et vous empoignez la corde et tirez. Avec une impressionnante rapidité, vous hissez le villageois jusqu'au sommet du gouffre et il est bientôt debout devant vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Vous empoignez fermement la corde et tirez. En dépit de vos efforts, vous n'êtes pas d'une grande aide au villageois. Mais il parvient à se hisser jusqu'au bord du gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Attendez ! Ne me laissez pas ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Random Node 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"À l'aide ! Ici, en bas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Eh oh ? S'il vous plaît, aidez-moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"J'ai si froid..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>L'homme acquiesce et noud solidement la corde.  
+
+Vos précautions se révèlent judicieuses car en s'approchant du bord du gouffre le villageois perd l'équilibre, glisse et tombe de quelques mètres avant de parvenir à se raccrocher à la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Jetez le sort Vent purificateur]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Chantez "En voyant leurs camarades, ils reprirent courage".]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Pendant que le villageois grimpe, vous entonnez un chant dont chaque mot est imprégné de magie. D'abord fatigué, l'homme retrouve soudain de l'énergie et progresse rapidement le long de la paroi du gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Avec vos compagnons, vous vous précipitez sur le villageois, l'attrapez par les bras et le hissez jusqu'au bord du gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Il se maintient juste assez longtemps pour vous permettre de lui attraper le bras et de le hisser jusqu'au bord du gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Il reprend son ascension et atteint rapidement le bord du gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous empoignez solidement l'extrémité de la corde et tirez. Vous parvenez à remonter l'homme jusqu'au bord du gouffre et il rejoint lui-même la terre ferme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Au secours ! J'ai besoin d'aide !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

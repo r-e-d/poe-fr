@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_fampyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Attention aux doigts ! C'est le meilleur. Je ne veux pas..." En vous voyant approcher, un sourire se dessine sur son visage.
+
+Les autres hommes et femmes se retournent vers vous, la bouche pleine de sang et de morceaux de chair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ce fut une rude bataille. Nous devons notre salut à la grâce de Berath." Elle sourit. "Je n'ai jamais mangé de chair d'ogre. Merci de m'en donner l'occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nous ne resterons pas longtemps. D'autres ogres finiront certainement par se pointer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Pourriez-vous vous occuper des ogres qui se mettent en travers de mon chemin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Avez-vous quelque chose à vendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Excusez-moi de dévisager, mais je n'ai jamais rencontré un élu de Berath."
+
+Ses compagnons se regardent et baissent les yeux en signe de respect.</DefaultText>
+      <FemaleText>"Excusez-moi de dévisager, mais je n'ai jamais rencontré une élue de Berath."
+
+Ses compagnons se regardent et baissent les yeux en signe de respect.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes un fidèle de Berath, si je ne m'abuse."
+
+Ses compagnons se regardent et baissent les yeux en signe de respect.</DefaultText>
+      <FemaleText>"Vous êtes une fidèle de Berath, si je ne m'abuse."
+
+Ses compagnons se regardent et baissent les yeux en signe de respect.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Attaquez-les.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Partez.] "Je reviendrai, si besoin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Parfait ! On vous tuera rapidement. Vous ne sentirez rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je n'ai jamais mangé de chair d'orlan. Je me demande si vous faire bouillir nous permettra de vous ôter toute cette fourrure." Elle passe la langue sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Un aumaua." Elle vous regarde de haut en bas. "Je me demande si votre chair ressemble à celle de l'espadon ou à celle du dos-moucheté. Voire à toute autre chose." Elle passe la langue sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Un nain. Vous devez être un peu difficile à mâcher, mais quelques heures de cuisson devraient y remédier. Il serait peut-être bon de commencer par vous arroser de bière brune." Elle passe la langue sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"De la chair d'elfe... Un délice. Je n'en ai pas mangée depuis des lustres." Elle passe la langue sur ses lèvres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oh là là... Vous avez l'air absolument délicieux." Elle passe la langue sur ses lèvres.</DefaultText>
+      <FemaleText>"Oh là là... Vous avez l'air absolument délicieuse." Elle passe la langue sur ses lèvres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Nous avons récupéré quelques petites choses susceptibles de vous intéresser, mais notre stock est limité. Nous ne sommes pas marchands, après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Nous ne vous décevrons pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous refuseriez notre aide ? Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Bonjour, mon joli. Qu'est-ce qui vous amène dans cette partie des Bois de Russet ?"</DefaultText>
+      <FemaleText>"Bonjour, ma jolie. Qu'est-ce qui vous amène dans cette partie des Bois de Russet ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je cherche une ogresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je ne fais qu'explorer les lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Qu'est-ce que ça peut bien vous faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Oh, parfait." Elle vous regarde avec insistance, mais ne semble pas avoir entendu votre réponse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Tuer et piller, principalement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Pourriez-vous éliminer quelques esclavagistes des Bois de Russet pour moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Des esclavagistes ? Vous voulez dire le groupe de Defala."
+
+"Nous avons passé un accord avec eux. Un accord qui date. Et je ne vais pas pouvoir vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"En quoi pouvons-nous vous être utiles ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Faisons affaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ceux qui se trouvent devant la grotte au nord d'ici ?" Elle pince les lèvres. "Les ogres ne sont pas une mince affaire, mais si c'est volonté de Berath..." Elle vous regarde d'un air interrogateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"C'est la volonté de Berath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Cela me serait d'une grande aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Parlons d'autre chose, maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous n'avez rien à craindre de nous. En fait, nous sommes à votre service. Pouvons-nous faire quelque chose pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Attaquez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Je ne veux pas me battre contre vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Levez les yeux au ciel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Elle et ses amis se jettent sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Pourquoi vénérez-vous Berath ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Pour ça." Elle ouvre sa robe pour dévoiler une blessure au niveau du cœur. "Nous portons tous des blessures identiques. Nous devrions être morts, mais nous sommes toujours vivants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"De quoi peut-il s'agir si ce n'est d'une bénédiction de Berath ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous avez perdu la tête ? Si vous me faites bouillir, vous perdrez tout le goût. Vous devez plutôt dépouiller la peau avec un..."
+
+Hiravias bouge les yeux dans tous les sens. "Je devrais réfléchir à deux fois avant de parler. Rappelez-le-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Après tout ce temps à Dyrwood ? De la feuille blanche et de la bière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vous vous trompez, je vous assure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je suis partante pour la bière, mais restons-en là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Pourquoi ne me dites-vous pas ce qui vous amène ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Le dieu de la mort souhaite que nous restions ici pour servir la Chevalière blême. C'est le chemin qui mène à la Roue, mais certains s'en écartent. Les mécènes de l'animancie. Les vieillards. Les chanceux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Nous les remettons sur le droit chemin et Berath nous autorise à les dévorer pour nous permettre de poursuivre son œuvre jusqu'à ce que nous devenions, nous aussi, indésirables."
+
+"Mais en attendant, nous profitons du voyage."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

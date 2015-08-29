@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_suldrun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>La créature est bien plus grande que les loups qui habitent cette caverne. Alors que vous avancez, elle se tourne vers vous. Sa fourrure est parsemée de blessures et de cicatrices et un de ses yeux, couvert d'un voile blanc, lance un regard aveugle dans le lointain. Elle grogne d'un air menaçant en vous voyant approcher – un grondement que ses congénères reprennent en chœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"À l'aide ! Aidez-nous, s'il vous plaît !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous ressentez une étrange aura émanant de la bête au moment où elle tourne la tête vers le chasseur.
+
+C'est comme si une tempête spirituelle faisait rage sous sa peau, déchaînée et torride comme un foyer ardent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Touchez l'âme de la bête.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Lancez la torche pour créer une diversion.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Pouvez-vous me comprendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Stop ! Je sais ce que vous êtes. Pouvez-vous me comprendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>La créature claque des dents et gronde, elle ne comprend manifestement pas ce que vous dites. Elle se dirige vers le chasseur le plus proche, son œil unique et plein de malveillance tourné vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous lancez la torche sur la bête, qui glapit quand la torche rebondit contre son flanc dans un déluge de braises.
+
+La bête paniquée s'éloigne des chasseurs en bondissant maladroitement. Mais les loups s'avancent en grondant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>C'est assez facile, jusqu'à ce que l'âme de la bête menace de vous submerger par son intensité.
+
+Vous êtes balloté entre des vagues de colère et de faim, puis vous arrivez à traverser la tempête et atteindre un éclat lumineux, petit et étouffé... qui vous aspire dans un souvenir...</DefaultText>
+      <FemaleText>C'est assez facile, jusqu'à ce que l'âme de la bête menace de vous submerger par son intensité.
+
+Vous êtes ballotée entre des vagues de colère et de faim, puis vous arrivez à traverser la tempête et atteindre un éclat lumineux, petit et étouffé... qui vous aspire dans un souvenir...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Le souvenir vous échappe et, quand vous revenez à vous, la bête secoue la tête et se gratte les oreilles, comme si elle essayait de se débarrasser d'une démangeaison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Reculez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Attendez ! Ne nous abandonnez pas. S'il vous plaît !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Suldrun ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Précipitez-vous pour aller aider les chasseurs.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ce jeune homme disparaît presque entièrement sous une fourrure en lambeaux. L'homme et son vêtement de fortune sont tous deux couverts de crasse et de sang séché.
+
+Alors que vous entrez, il redresse brusquement la tête et vous lance un regard borgne et apeuré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Thyrsc est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"J'ai ramené le totem à Galawain. Vous êtes guéri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Que... que s'est-il passé ? Qui êtes-vous ?"
+
+Il lève une main et touche délicatement la peau qui entoure son œil aveugle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Votre père m'a envoyé vous tuer. J'ai trouvé une alternative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Vous ne vous rappelez pas ? Comme par hasard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Où sont les autres loups ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>La bête se détourne de sa proie blessée et vous fait face. Elle se jette sur vous, toutes griffes dehors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mon... mon père ? Est-il blessé ? Je ne me souviens que de quelques bribes... je me rappelle avoir été emprisonné, hurlant, à l'intérieur de moi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Galawain... Le totem ! Je l'ai pris pour en faire cadeau à mon père... Puis l'ogre m'a attaqué. Je me suis transformé... et c'est comme si je me trouvais enchaîné à quelqu'un d'autre. Et il voulait seulement chasser, pour l'éternité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je ne me souviens que de bribes. De l'obscurité, surtout, mais parfois je pouvais voir clair. Je crois que j'ai blessé quelqu'un. Attendez... mon père ! Thyrsc... est-il vivant ? Où est-il ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ils sont partis. Je pensais qu'ils allaient m'attaquer, mais ils se sont enfuis de la grotte. Comme s'ils avaient entendu quelque chose...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Le froid mordant vous engourdit les joues et vos poumons brûlent après votre course. Vous regardez la  petite sculpture de bois au creux de votre main et faites courir un pouce le long de l'échine de l'ours sculpté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Suldrun." La voix de votre père vous arrache à vos pensées et vous vous dépêchez de le rejoindre près du feu de camp.
+
+Vous brandissez les lièvres et apercevez un rare sourire sous sa barbe grisonnante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Mais une ombre passe au-dessus de vous deux et le sourire disparaît aussitôt.
+
+Vous sentez le déplacement d'air un instant avant que la bûche ne s'abatte et vous vous jetez sur le côté juste à temps. Votre père pousse un cri de douleur à côté de vous. Vous laissez tomber les lièvres et le totem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Le totem vous a déjà porté chance. Vous avez trouvé deux lièvres dans autant de pièges, un exploit bien trop rare ces temps-ci.
+
+Vous êtes maintenant convaincu que c'est un cadeau de Galawain, que vous étiez destiné à trouver cet autel abandonné et à prendre le totem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Vous sentez la puissance affluer en vous. Votre cœur bat la chamade, mais votre instinct reprend le dessus et vous retrouvez la sensation familière de vos membres qui s'étirent et le brusque et étourdissant changement de taille.
+
+Mais quelque chose ne va pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Au lieu de s'affiner, vos sens s'émoussent. Vous entendez un long hurlement dans votre tête, une véritable clameur, et tout en vous réclame à grands cris de mordre, déchiqueter, manger...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Il se trouve sûrement parmi ces corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Il est blessé mais vivant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Mentez.] "Vous ne vous rappelez donc pas l'avoir tué ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Oh, miséricorde. Je ne sais pas quoi dire. L'état dans lequel vous m'avez vu... " Il regarde les os épars sur le sol de la caverne et frémit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"N... non ! Ce... ce n'est pas possible. Pas après tout ça." Il regarde les os épars sur le sol de la caverne et frémit, puis a un mouvement de recul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Q... quoi ? Ce n'est pas... Non ! Non, ce n'est pas possible ! Pas après tout ça. Pas maintenant alors que je suis enfin libre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Je... j'aurais dû rester un monstre ! J'aurais dû mourir comme un monstre, transpercé par la lance d'un chasseur !" Il se tourne vers vous. "Vous ! Vous allez regretter de m'avoir réveillé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je me rappelle du goût." Ses épaules s'affaissent. "Comment puis-je rentrer chez moi après cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"J'ai commis de telles horreurs. Comment puis-je espérer rentrer chez moi après cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vous avez tué des innocents. Vous ne méritez pas de rentrer chez vous comme si de rien n'était."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vous n'étiez pas vous-même. Vous n'êtes pas responsable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Il n'y a rien que vous puissiez faire qui pardonne vos actions ici. Vous devriez aider Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Il a essayé de vous tuer pendant tout ce temps. Je ne pense pas qu'il vous accueillera à bras ouverts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"C'est à vous de voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Votre père vous aurait aidé s'il l'avait pu. Il sera content de vous voir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Merci. Je vous suis reconnaissant de dire cela. J'espère que ça a aidé. En tout cas, je peux peut-être essayer de me racheter. Si je rentre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je vais rentrez chez moi et supplier mon père de me pardonner. Je vous offre ceci, ma plus précieuse possession."
+
+Il ôte l'amulette qu'il a autour du coup et vous la donne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous avez raison. Je ne peux pas échapper à ce que j'ai fait, aux familles que j'ai détruites. Je vais rentrer chez moi et je ferai ce que je pourrais pour les aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Vous avez raison. Je ne peux rien faire pour compenser la perte de ces familles. Je ne peux pas ramener tous ces gens à la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Prenez ceci. C'est mon dernier lien avec ma vie à Stalwart et je ne mérite pas de le garder. Si vous revoyez mon père... s'il vous plaît, dites-lui que je suis désolé. Je n'ai jamais voulu ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vous pensez ? Je crains qu'il ne m'accueille encore comme un monstre." Il soupire. "Mais si telle est ma sentence, je l'accepterai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Pendant un long moment, Suldrun regarde fixement l'entrée de la caverne avec une expression languissante et plaintive. Puis il détourne le regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je ne peux pas. Je ne peux pas le regarder en face. Lui ou les familles que j'ai brisées. Je partirai dans les montagnes. Je trouverai un autre endroit où vivre. Mon père sera débarrassé de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Aux pieds de la créature se trouvent deux villageois. L'un d'entre eux est gravement blessé et l'autre, un bras en travers de son estomac, vous lance un regard implorant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous savez que ce demi-loup est la forme transformée d'un druide. Pourtant, vous ne voyez pas la traditionnelle lueur d'intelligence dans son regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Galawain est un terrible donneur, si vous voulez mon avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ce sera encore plus dur si vous lui donnez un nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"J'ai déjà vu ça. Je doute que vous obteniez des réponses en dehors de grognements et de traînées de bave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Quoi que nous ayons découvert, Wael a encore bien des choses à révéler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Lorsque je les regarde, ces chasseurs sont déjà morts. Difficile de dire s'il s'agit d'une prémonition ou d'un avertissement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Nous pouvons revenir dans une demi-heure pour leur faire les poches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Attaquez] "Meurs, créature !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Les chasseurs ont fui, eux aussi, une fois que les loups sont partis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Alors que vous reculez, l'un des loups polaires bondit soudain devant les chasseurs et adopte une posture défensive.
+
+À la manière dont il évite de s'appuyer sur une de ses pattes, vous reconnaissez le loup que vous avez aidé dans la forêt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Je raconterai à mon père le service que vous m'avez rendu. Si vous repassez par Stalwart, vous m'y rencontrerez peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Zahua frappe Suldrun au visage, qui le regarde les yeux écarquillés, abasourdi.
+
+Zahua hausse les épaules. "En principe, ça marche."
+
+Il regarde les autres. "Quoi ?"
+
+Suldrun semble récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

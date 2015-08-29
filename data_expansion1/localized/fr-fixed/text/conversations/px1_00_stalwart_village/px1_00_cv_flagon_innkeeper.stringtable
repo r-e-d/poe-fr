@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_flagon_innkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>125</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mais vous devez avoir besoin d'un bon rafraîchissement, vous aussi, après ce que vous avez infligé aux ogres. Ou peut-être même d'une chambre ? Vous n'avez qu'un seul mot à dire pour que je flanque ce sale petit orlan dehors."
+
+Il vous fait un signe de tête, d'un air complice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"C'est vous qui avez tué Renengild ! Je ne veux pas d'ennuis, compris ? C'est un établissement honnête ici."
+
+Il s'éloigne du bar, en vous regardant prudemment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quel orlan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mais j'ai entendu dire que vous aviez contribué à repousser les ogres. J'ignorais que les gens de votre espèce étaient capables de tels exploits."
+
+Il se gratte la barbe en fronçant les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Un autre orlan ? Je n'ai pas de cousin ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Montrez-moi ce que vous avez comme rafraîchissements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous êtes revenu vous réchauffer les mains ? Que puis-je pour vous ?"</DefaultText>
+      <FemaleText>"Vous êtes revenue vous réchauffer les mains ? Que puis-je pour vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Dites-moi, vous avez parlé d'un orlan, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je ne veux pas d'ennuis, compris ? C'est un établissement sans histoires ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dites-moi, vous avez parlé d'un orlan, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Parfait. Mais si vous voulez une chambre, il faudra la partager avec cet orlan. Et attention, je ne veux pas de bain de sang ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Allez-y, jetez un coup d'œil. Mais ne vous approchez pas de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Il est arrivé il y a quelques jours. Il ne sort pas de sa chambre, sauf pour aller vider son pot de chambre."
+
+Il plisse les yeux en direction du hall, comme s'il défiait l'orlan de se montrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je pourrais lui parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Qu'est-ce qui vous fait croire qu'il peut vous causer des ennuis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je vois. Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Peu importe. Montrez-moi ce que vous vendez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sa façon d'être... Les honnêtes gens ne se cachent pas comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je vous en serais reconnaissant. Mais gardez votre sang froid. Je ne veux pas d'ennuis ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Rien de tel qu'une bonne pinte pour se réchauffer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Owynna vient de passer la serpillère ! Si vous voulez vous battre, faites-le dehors, compris ?"
+
+Il vous regarde d'un air renfrogné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Pardon. J'avais un compte à régler avec une contrebandière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"D'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"C'est votre sang qu'elle va devoir nettoyer si vous ne changez pas de ton."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Il grogne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je voulais que vous chassiez ce type, pas que vous lui fassiez la peau dans une de mes chambres. Je croyais pourtant avoir été clair."
+
+Il vous fusille du regard, les bras croisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ça ne s'est pas passé comme prévu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Dans ce cas, il fallait vous en occuper vous-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Du calme. Il est parti, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Il marmonne entre ses dents. "Je ne veux plus le moindre ennui. Qu'est-ce que vous voulez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous m'avez débarrassé de ce type ? Prenez ceci en guise de remerciement. Je ne voulais pas de lui ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Au fait, pourquoi êtes-vous là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je voudrais une chambre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Chaque lit est recouvert de peaux d'ours de première qualité. Vous ne serez pas déçu."</DefaultText>
+      <FemaleText>"Chaque lit est recouvert de peaux d'ours de première qualité. Vous ne serez pas déçue."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Sondez son âme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous voyez une pièce sombre et humide... une cave. Il semble qu'il s'agisse d'une partie de l'auberge, et non d'une vieille forteresse. À travers les yeux d'Haeferic, vous admirez des rangées de bouteilles étincelantes récemment époussetées et nettoyées.
+
+En vous éloignant des étagères, vous remarquez avec satisfaction une plaque de pression dissimulée sur le sol en pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ça va ? Je vous préviens, je ne vous sers pas si vous êtes déjà ivre."
+
+Il vous lance un regard en coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vous êtes le bienvenu ici si vous avez besoin de vous réchauffer. J'ai des plats chauds et des lits confortables, mais un de vos cousins s'est terré dans l'une de mes chambres."
+
+Il fait un signe de tête en direction des chambres.</DefaultText>
+      <FemaleText>"Vous êtes la bienvenue ici si vous avez besoin de vous réchauffer. J'ai des plats chauds et des lits confortables, mais un de vos cousins s'est terré dans l'une de mes chambres."
+
+Il fait un signe de tête en direction des chambres.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Bref..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Comment le sauriez-vous ? Je ne vous ai pas vu vous battre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"La prochaine fois, je les laisserai incendier votre établissement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous ne manquez pas d'air. C'est comme ça que vous remercier les gens ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Levez les yeux au ciel sans rien dire.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Il grogne. "Je ne voulais pas vous manquer de respect. Vos congénères et vous êtes vraiment susceptibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Depuis le départ du clan de Beregan, j'ai apporté quelques améliorations. Vous vous reposerez mieux, j'en suis sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Vous m'en voyez soulagé ! Apparemment, vous n'avez rien en commun avec ce fainéant."
+
+Il vous fait un signe de tête en guise d'approbation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Owynna ! Allez surveiller cet orlan. Assurez-vous qu'il ne vole rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"On a notre lot de voyous dans le coin. Des contrebandiers. Des fugitifs. Des personnes qui cherchent à contourner la loi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Trop tard. C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je ne voulais pas lui faire de mal ! C'est lui qui m'a forcé la main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ne lui faites pas de mal. Je veux juste qu'il s'en aille sans faire d'histoires. Compte tenu de votre passé, je préfère être clair sur ce point."
+
+Il vous regarde d'un air entendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Je vous en serais reconnaissant. Mais j'insiste pour que vous ne lui fassiez pas de mal. Je suis sûr que vous trouverez un moyen plus... discret de régler ce problème."
+
+Il vous regarde d'un air entendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je vous en serais reconnaissant. Et je suis sûr qu'un être sensible comme vous ne ferait pas de mal à un type comme lui. Cela dit, au cas où, je préfère vous demander de vous... retenir. Chassez-le sans faire d'histoires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ce n'est qu'un bon à rien, croyez-moi. Je voudrais bien qu'il déguerpisse, mais ça risque de faire des histoires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Reyfald a un problème à cause d'une bouteille d'alcool..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Alors ça y est, ce petit bâtard a enfin eu le cran de la voler ? Très bien. Il réfléchira peut-être à deux fois avant de retourner chaparder dans ma cave maintenant qu'il se bave dessus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je pense qu'il a compris la leçon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Vous comptez le laisser comme ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Vous avez raison. C'est marrant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ouais, ouais". Haeferic agite la main d'un air dédaigneux. "Je parie qu'il braille. Écoutez, je m'amuse à concocter des potions, mais jamais sans m'assurer qu'il existe un antidote. Avec quelques ingrédients, il sera sur pied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Si vous voulez l'aider, il vous faut un roseau de rivière et le cœur d'un troll de glace. Vous les trouverez au bord d'un point d'eau. Rendez-vous près du ruisseau qui se trouve à l'ouest, par exemple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ravi que vous soyez de mon avis". Haeferic glousse. "Écoutez, de temps en temps, je m'amuse à concocter des potions, mais je m'assure toujours qu'il existe un remède. Il est tellement désespéré que je suis sûr qu'il trouvera quelqu'un pour aller lui chercher les ingrédients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Je les trouverai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Attendez, un cœur de quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Peu importe. Reyfald ira les chercher lui-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ha ! J'ai hâte de voir ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vous avez bien entendu : un cœur de troll. Reyfald s'en sort plutôt bien. Ces pièges me coûtent une fortune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Haeferic hausse les épaules. "Comme vous voudrez. Je persiste à dire que Reyfald a de la chance que quelqu'un s'intéresse à lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"De quoi avez-vous besoin pour soigner Reyfald ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"J'ai trouvé les ingrédients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Haeferic grogne. "Je persiste à dire que quelques épreuves ne feraient pas de mal à cet homme. Mais si vous voulez lui donner un coup de main, faites donc. Donnez-les-moi..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"... Voilà... Faites-lui avaler ça et il se portera à nouveau comme un charme. Et vous pourrez lui dire qu'il a une dette envers vous. Moi, je l'aurais laissé mijoter pendant au moins un an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Bah... Je n'aurais pas aimé voir ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Je me suis dit que vous aimeriez savoir que Reyfald m'a demandé de vous voler de l'alcool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"C'est vrai ? Il ne devait pas se douter que vous étiez quelqu'un d'honnête..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Je vais stocker tout ça en lieu sûr. Merci de m'avoir prévenu. Tenez... pour votre honnêteté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"C'est vrai ? Ce petit filou ne changera jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Les effets dureront combien de temps ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Haeferic grogne. "Vous croyez que je l'aurais empoisonné avec des baies cueillies dans les buissons ? J'ai concocté la potion moi-même ! L'effet durera jusqu'à ce que je prépare un antidote."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Qu'est-ce que vous croyez ? Reyfald est toujours en train de manigancer quelque chose. S'il est capable de demander à quelqu'un de voler pour lui..." Il marque une pause et vous regarde brièvement. "... Alors je vous laisse imaginer ce qu'il pourrait faire d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Quand même, j'aimerais l'aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Vous avez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"J'ai appris la bonne nouvelle. Ça a dû être fabuleux d'entrer dans cette forteresse. Je suppose qu'ils ne mentaient pas au sujet du seigneur de Caed Nua..."</DefaultText>
+      <FemaleText>"J'ai appris la bonne nouvelle. Ça a dû être fabuleux d'entrer dans cette forteresse. Je suppose qu'ils ne mentaient pas au sujet de la dame de Caed Nua..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Tenez... C'est ma tournée. Avec l'ouverture de la Batterie, les affaires devraient décoller. En tout cas, l'avenir semble plus prometteur qu'hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vous voilà. Je gardais ça pour une occasion spéciale, et je crois qu'il n'y en aura pas de meilleure. De la véritable liqueur de Fennlan. Elle vient de l'autre côté des montagnes. À votre santé, mon ami."</DefaultText>
+      <FemaleText>"Vous voilà. Je gardais ça pour une occasion spéciale, et je crois qu'il n'y en aura pas de meilleure. De la véritable liqueur de Fennlan. Elle vient de l'autre côté des montagnes. À votre santé, mon amie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Vous, vous avez un secret". Ses doigts froids vous maintiennent le bras. Ses yeux noirs tentent de lire en vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Connaissez-vous un certain Harmke ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Le bûcheron ? Oui, bien sûr. À la sortie du village, dirigez-vous vers l'ouest, puis vers le nord. Si vous voyez le ruisseau gelé, c'est que vous êtes allé trop loin."</DefaultText>
+      <FemaleText>"Le bûcheron ? Oui, bien sûr. À la sortie du village, dirigez-vous vers l'ouest, puis vers le nord. Si vous voyez le ruisseau gelé, c'est que vous êtes allée trop loin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"En ce moment, il travaille dans les Bois de Russet, mais il en sort de temps en temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je n'ai jamais vu un tel bain de sang. J'ai l'impression que la moitié des survivants du village sont venus boire ici pour essayer d'oublier". Le nain examine l'assistance d'un air sobre malgré la chope à moitié vide qu'il a dans la main.
+
+Il secoue la tête, vous regarde, puis semble se souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Attention ! Elle vous regarde de la même manière qu'Itumaak a regardé votre cochon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Attention ! Elle vous regarde de la même manière qu'Itumaak a regardé votre chat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Les questions se bousculent dans son esprit... Les calculs..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Oh là là, mais il fait chaud ici !" Il rit d'un air gêné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ça suffit." Pallegina pose une main emplumée sur l'épaule de la Démone, telle une mère qui tente d'éloigner un enfant trop envahissant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je n'appellerais pas cela un secret. C'est plus comme une chose mystérieuse dont il n'aime pas parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Heureux de ne pas être le seul qui sait ne pas faire confiance à vos semblables, Gardien. Vous feriez bien de ne pas faire confiance aux siens."</DefaultText>
+      <FemaleText>"Heureux de ne pas être le seul qui sait ne pas faire confiance à vos semblables, Gardienne. Vous feriez bien de ne pas faire confiance aux siens."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Elle vous regarde comme le font les lionnes attirantes à mon égard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Oui, eh bien, si nous pouvions en rester là..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Hiravias lance un regard noir à Haeferic.
+
+"C'est fou ce que vous pouvez accomplir lorsque vous n'avez pas toute une longue histoire de colonisation consanguine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Hiravias vous regarde en découvrant ses crocs.
+
+"Dites-le MOI et je flanquerai à ce crétin baveux une dérouillée si vigoureuse qu'il ne saura plus quel trou fait quoi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Entre le travail et le temps, je pourrais m'habituer à cet endroit. Je suppose que vous n'avez pas beaucoup affaire à la Clé plombée ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Aloth se penche en avant en murmurant. "Vraiment, [Player Name] ? Je crois avoir vu une tête de poisson flotter dans la cocotte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ce vieux radin garde ce qu'il a de meilleur à la cave. À ce qu'on dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Je vois un endroit près du feu où nous détendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Eh bien. Qu'attendez-vous, [Player Name] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"J'ai lu une histoire vailienne qui commençait comme ça. Et se terminait bien mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Vous aideriez cette femme à assouvir sa vengeance ? Qu'est-ce que cela apporterait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Nous n'allons pas le faire, n'est-ce pas ? Dites-moi que nous n'allons pas le faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Méfiez-vous si vous vous engagez sur la voie de la vengeance. Certes, elle en retirera une certaine satisfaction, mais je doute que cela nous soit bénéfique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ne vous en faites pas, nous n'avons pas l'intention de le tuer."
+
+Il vous fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"L'abomination de métal a profondément planté ses griffes dans votre chair. Il ne peut rien en sortir de bon, Gardien."</DefaultText>
+      <FemaleText>"L'abomination de métal a profondément planté ses griffes dans votre chair. Il ne peut rien en sortir de bon, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Harmke ? Oh parfait, le type que la Démone voulait..."
+
+La Démone de Caroc lance un regard en direction d'Hiravias et ce dernier porte sa main à sa bouche pour se taire. 
+
+Il regarde Haeferic et sourit d'un air innocent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Sommes-nous désormais l'instrument d'un acte de vengeance ? Cela ne se termine jamais bien..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Le seul moyen de se libérer de la vengeance est de ne jamais la poursuivre. Retournez-vous et ne regardez jamais en arrière."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Alors comme ça, vous avez vraiment trouvé la Forge blanche." Il secoue la tête avec émerveillement.
+
+"J'avais vraiment du mal à y croire d'abord, mais je n'ai jamais vu Renengild aussi excitée." Il lâche un rictus plein de sous-entendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Le moins que l'on puisse faire est de vous payer une autre tournée. Au sauveur de Stalwart !" 
+
+Il lève sa chope et une clameur se lève dans toute la salle. Les autres clients s'exclament et sifflent, faisant sonner leurs chopes contre les tables.
+
+Après quelques instants, tout le monde retourne à sa boisson et Haeferic se tourne à nouveau vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Je voudrais me procurer de l'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"La force par le nombre, c'est ça ? Que cherchez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_traveler_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Quelques affaires sont éparpillées par terre. De toute évidence, ces lieux ont été le théâtre d'un combat, mais les preuves sont partiellement recouvertes d'une fine pellicule de neige.
+
+Des filets d'essence flottent dans l'air frais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Approchez-vous de l'essence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Examinez la zone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous remarquez un sac vide dans la neige. Il a été lacéré de coups de couteau. À moins qu'il ne s'agisse de griffures.
+
+Il y a aussi des empreintes. Vous comptez plus d'une dizaine de ces empreintes à trois doigts palmés, toutes en direction du nord.
+
+Elles semblent récentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous remarquez un sac vide dans la neige. Il est presque déchiré en deux.
+
+Il y a aussi des empreintes. Difficile de distinguer clairement leur forme ou leur nombre, mais elles semblent toutes orientées vers le nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Le fragment d'âme vous plonge dans un souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous vous appelez Ygadr. Vous ne vous êtes jamais aventuré à plus d'une trentaine de kilomètres de chez vous, et encore moins à la Marche blanche, mais depuis une semaine maintenant, vous grimpez à un rythme régulier.
+
+L'air est trop raréfié, vos vêtements trop légers et vous avez des provisions pour trois jours seulement.
+
+Mais vous n'avez jamais éprouvé une telle sensation de bien-être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Depuis le début de votre voyage, vous n'avez connu que quelques syncopes, alors que vous en aviez plusieurs par jour auparavant. 
+
+Mais vos rêves sont extraordinaires. Malgré le froid glacial, le sol rocailleux et le vent hurlant, vos nuits sont douces et ponctuées de visions de majestueux sommets enneigés. Le froid endolorit légèrement vos articulations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Au fil de votre progression, vous sentez la douleur se répandre avec la certitude que vous vous approchez de lui. Ou d'elle.
+
+Votre jumeau d'âme.
+
+Cet être étranger dont l'âme est le reflet de la vôtre. En Eora, rares sont ceux à comprendre le tourment constant auquel est confrontée une âme divisée, et la seule personne capable de vous soulager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Quelque chose avance dans le linceul de neige. 
+
+Vous sentez une présence palpitante telle un battement de cœur et vous savez...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>La vision s'interrompt brutalement. Vous vous retrouvez en train d'observer les effets éparpillés d'Ygadr, en proie à son exaltation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>La vision s'interrompt brutalement. Vous vous retrouvez en train d'observer les effets éparpillés d'Ygadr, en proie à son exaltation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Alors que son essence s'éloigne de vous, vous sentez son impatience se transformer en déception jusqu'à ce que tout se réduise au vide d'une mort dénuée de sens.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

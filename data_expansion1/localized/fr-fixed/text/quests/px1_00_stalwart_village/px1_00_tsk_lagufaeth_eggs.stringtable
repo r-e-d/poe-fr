@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_tsk_lagufaeth_eggs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La perle thermale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez aux Chutes de Longue-vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez les sources chaudes près des Chutes de Longue-vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouvez une perle thermale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez voir Tealdor en dehors du Refuge du gréf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tealdor veut une perle thermale des sources chaudes près des Chutes de Longue-vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les sources chaudes dont m'a parlé Tealdor sont à l'est de la ville, près des Chutes de Longue-vue.
+
+C'est là qu'il a vu la perle thermale. Et une horde de lagufaeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai atteint les Chutes de Longue-vue. Les sources chaudes que Tealdor mentionnait devraient être proches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai trouvé les sources chaudes au nord-ouest de la route. Maintenant je vais devoir les fouiller pour trouver les perles thermales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>La dernière mare que j'ai fouillée contenait quelque chose qui ressemblait à la perle thermale décrite par Tealdor. 
+
+Il m'attend à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Thyrsc m'a prévenu que les lagufaeth sont rapides et résistants au froid. Il m'a aussi donné des potions qui pourraient aider pour le combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Je n'ai pas trouvé de perles thermales dans la première source que j'ai fouillée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Thyrsc m'a parlé des lagufaeth et m'a donné quelques potions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>La seconde source chaude n'avait pas de perles thermales non plus. Mais il en reste une à fouiller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>La « perle thermale » vient juste d'éclore et maintenant, j'ai un bébé lagufaeth dans mon sac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Tealdor m'a recommandé de rendre visite à Thyrsc, un chasseur expérimenté, avant de braver les Chutes de Longue-vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai parlé de l'œuf à Tealdor, mais il n'a pas semblé me croire. Si je lui montre le bébé lagufaeth, il le faudra bien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai vendu le lagufaeth à Tealdor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Tealdor m'a offert d'acheter le lagufaeth, mais j'ai décidé de le garder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai vendu le lagufaeth à un marchand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

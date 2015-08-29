@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_minecart_shenanigans_return</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un autre wagonnet de mine est immobilisé à l'entrée d'un tunnel ascendant. Vous ignorez où il mène, si ce n'est hors de cette pièce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Montez dedans.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Restez ici pour le moment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous montez dans le wagonnet et tirez sur le levier voisin. Les roues rouillées grincent et le wagonnet se met à rouler le long de la voie. Après une série de virages doux, le wagonnet s'approche d'une caverne familière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vos compagnons et vous grimpez dans le wagonnet de mine. Vous tirez sur le levier et entendez le grincement désormais familier des roues rouillées lorsque le wagonnet commence à rouler le long de la voie. Après une série de virages doux, le wagonnet s'approche d'une caverne familière.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

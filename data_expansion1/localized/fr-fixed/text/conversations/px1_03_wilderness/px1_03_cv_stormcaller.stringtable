@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_stormcaller</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous prenez l'arc et sentez une énergie aussi étrange que familière. En fouillant dans votre sac, vous trouvez la flèche d'argent que vous avez récupérée sur le corps du loup d'hiver blessé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>En tenant l'arc à proximité de la flèche, cette dernière s'enclenche toute seule. Vous entendez un crépitement et un pâle ruban lumineux commence à se former entre les extrémités de l'arc.  
+
+En tirant sur la flèche, vous sentez une forte résistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vous prenez la flèche et sentez une énergie aussi étrange que familière. En fouillant dans votre sac, vous trouvez l'arc que vous avez récupéré au sommet de la tour, près de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

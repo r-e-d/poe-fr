@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\px1_companion_cv_devil_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Le village était un petit peu plus animé la dernière fois que je l'ai vu. Cela ne veut pas dire grand-chose pour autant." Sa tête pivote alors qu'elle regarde aux alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quels souvenirs gardez-vous de Stalwart ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Un froid amer et une odeur de poisson persistante."
+
+"Et ça, c'est pour les habitants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Pourquoi vouliez-vous revenir, de toute façon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"N'importe où serait mieux que l'atelier de Galvino. Vous n'avez pas entendu la vieille buse chanter." 
+
+Elle se retourne encore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bon, et vous alors ? On a vu passer beaucoup de gens, essayant de percer la Batterie, mais pas de Gardiens."
+
+Elle vous regarde de nouveau, ses yeux noirs scintillants.</DefaultText>
+      <FemaleText>"Bon, et vous alors ? On a vu passer beaucoup de gens, essayant de percer la Batterie, mais pas de Gardiennes."
+
+Elle vous regarde de nouveau, ses yeux noirs scintillants.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Stalwart avait besoin de mon aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous avez une drôle de façon d'aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Elle ricane. "Le bon samaritain du Dyrwood. Vous ne courez pas les rues en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Stalwart a besoin de beaucoup de choses. Une énorme avalanche pour commencer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'ai l'intention de m'approprier les trésors de la Batterie de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Des trésors avec des bords coupants et des bouts pointus, n'est-ce pas ? Ils sont bien pratiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Il y a un autre groupe qui est passé avant moi ; je dois savoir ce qu'ils cherchaient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"À la recherche de quelqu'un. L'histoire habituelle." Elle acquiesce lentement, balançant la tête sur ses larges épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mais je ne veux pas vous empêcher de découvrir les attraits de Stalwart. Il est facile de les manquer." Elle repose les mains sur ses hanches et se tourne pour regarder aux alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je veux vous interroger sur quelque chose d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Poursuivons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je préfère ne pas en discuter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Très bien. Ce ne sont pas mes affaires." Elle lève les mains devant elle, feignant une posture défensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ils vous ont peut-être vue et sont partis se cacher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Du moment qu'ils ne reviennent pas avec des pierres dans les mains, ça me va."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"J'ai fait mon effet sur la population locale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Le reste du Dyrwood devrait vous remercier. Vous avez fait des merveilles pour le clampin moyen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ils traversent une période difficile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Elle rit. "Ils ne connaissent que les périodes difficiles par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je ne pensais pas trouver autre chose que des poux et des gelées blanches chez ces gens, mais vous avez eu un drôle de regard là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je me demandais ce que vous aviez raconté à Galvino. À propos de la vision des âmes. Toute cette histoire de Gardien est vraie ?" Elle tord son torse pour vous faire face.</DefaultText>
+      <FemaleText>"Je me demandais ce que vous aviez raconté à Galvino. À propos de la vision des âmes. Toute cette histoire de Gardienne est vraie ?" Elle tord son torse pour vous faire face.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Désapprouvez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Cela dépend. Qu'est-ce que vous en pensez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Cela fait presque quinze ans que je le recherche."
+
+Elle regarde droit devant elle à votre approche, les billes d'encre noire de ses yeux fixées sur un point à distance.
+
+Son essence déferle et tourbillonne, en proie à la contemplation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Tous ces tracas et ces interrogations, et l'acte est passé en moins de temps qu'il ne faut pour le dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Comment vous sentez-vous maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Certains hommes ne durent pas longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Harmke n'a eu que ce qu'il méritait, et c'est ce qui compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Maintenant je préfèrerais que nos chemins ne se croisent plus." Elle tremble, faisant claquer le métal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"On pourrait y retourner et le tuer. Ça pourrait peut-être vous soulager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je ne pensais pas que l'endroit me manquerait. J'avais au moins raison là-dessus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vous ne vous y habituez pas, au bout de trente ans ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Je rêve encore que je suis quelqu'un. Je me réveille quelques matins en me demandant pourquoi je ne ressens pas le sol sous moi. Pensant que j'ai dû tomber et être paralysée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Mais alors je lève la tête. Je vois un cadavre de bronze s'étirant devant moi."
+
+Elle baisse la tête. Elle tremble de partout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Je rêve également de ce que faisait Galvino ce soir-là. Ces moments... J'endurerais une autre Aube fraîche si je pouvais échapper à ce destin." Elle se frotte les mains, suivant les jointures homogènes avec le bout de ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Lorsque la foule est venue me chercher au cœur de la nuit, j'étais simplement surprise qu'ils aient autant tardé." Elle hésite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Simplement, ils ne m'ont pas menée à la potence. Non, ils m'ont glissée dans une autre maison à la périphérie de la ville, comme une cachette.
+
+"C'est là que j'ai rencontré Galvino." Elle lève la tête, ses yeux noirs brillants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Il bricolait sur une machine dans son atelier. Il était en bras de chemise même s'il faisait assez froid pour distinguer son propre souffle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"À cette époque, les hommes de main du maire m'avait ficelée comme un rôti. Galvino adorait aboyer des ordres à toute cette bande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Alors pendant que Galvino fixait ce casque sur ma tête et ces bandes de cuivre sur mes bras, j'ai commencé à regarder cet engin.
+
+"Et c'est là que l'ai vu."
+
+Ses yeux noirs sont fixés sur un point indéfinissable. Son essence s'estompe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"C'est ce costume de métal, sanglé dans la machine tout comme moi. Une chose froide et morte, toute décorée de jolies gravures."
+
+Elle frissonne, ses jointures tremblent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Je commence à questionner Galvino et les autres sur ce qu'il se passe, mais ils sont trop occupés pour me répondre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Galvino parle à la femme la plus proche de la machine pour qu'elle actionne la poignée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Et là... la douleur. Je me retrouve déchirée de toutes parts, ressentant mon âme comme arrachée de mon corps." Ses membres se tordent et frissonnent. Elle marque une pause, attendant que son corps retrouve le calme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Je pense que c'est là que j'ai su."
+
+Elle secoue la tête et se tait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Elle ne dit rien d'abord, puis vous n'entendez que le cliquètement de quelque chose dans sa poitrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"J'espère que la mort d'Harmke vous a apporté la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Et là, je tremble de penser au jugement que vous faites de moi." 
+
+Un ricanement sec et métallique résonne depuis sa gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Un ricanement sec et métallique résonne depuis sa gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"La « paix ». Voilà un drôle de mot pour la décrire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Votre corps a également des forces et des avantages uniques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Elle secoue la tête. "Je les échangerais tous si je pouvais seulement retrouver la sensation de la neige sur mes chevilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Allez, ce ne peut pas être aussi terrible que cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Que s'est-il passé exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Je raconterai cette histoire une autre fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Cela ne va nulle part." Elle hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Trigger Conv Node 123</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Au moins vous êtes en vie. C'est déjà ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Je suis désolé que vous deviez vivre cela."</DefaultText>
+      <FemaleText>"Je suis désolée que vous deviez vivre cela."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Je ne cherche pas la pitié. C'est un choix." Elle se retourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Si vous n'arrêtez pas de vous plaindre, je vais réfléchir à quelque chose de pire pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Et qu'en sauriez-vous ? D'avoir votre essence arrachée particule par particule ?"
+
+Ses yeux noirs fixes brillent froidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Qu'est-ce qu'il faisait là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"C'est lui qui a transféré votre âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Il n'y avait personne de plus prompt à me le rappeler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Galvino vivait-il à Stalwart à l'époque ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"C'est vrai. C'était avant que les locaux ne le chassent. Il n'était pas vraiment populaire, cependant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Je commence à comprendre où vous voulez en venir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Qu'est-ce que le maire a à voir avec cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Il a accepté de me livrer à Galvino pour une « expérience »." Elle agite les mains sur ce mot, alors que le métal brille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Le fait qu'ils aient entendu le fracas du cuivre n'a pas aidé dans cette affaire. À la fin, c'est ce qui a fait partir Galvino et le maire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Et c'est comme ça que vous avez fini ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Comment peut-on mettre quelqu'un dans une situation aussi atroce ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Je suppose que je ne suis pas la bonne personne pour poser cette question. Mais si cela vous donne meilleure conscience, Galvino n'est pas parti comme une fleur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Le reste de Stalwart n'a pas vraiment apprécié de découvrir un meurtrier parmi eux. Ni voir leur maire et le vailian rouspéteur conclure un marché secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Le vieux maire s'est enfui aussi. Et Stalwart a retrouvé son confort et sa gaité immuables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Assurément. Et comment Galvino a terminé dans cette petite cabane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Saviez-vous ce qu'ils manigançaient ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Vous auriez dû vous battre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Vous croyez que ce n'était pas le cas ?" Sa tête se tourne brusquement vers vous avec une terrible précision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"C'était le costume que vous habitez à présent, vous voulez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Celui-là." Sa voix bourdonne dans sa tête, froide et distante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"J'avais cette atroce sensation de froid dans mes entrailles, mais je ne comprenais toujours pas..." Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Bon, c'est fini maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je n'en ai pas vraiment l'impression."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Maintenant que nous nous sommes chargés d'Harmke, pourquoi rester ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Je veux découvrir la Forge Blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Alors il faut espérer que vous aurez plus de chance que les pauvres types qui vous ont précédés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Mon cousin a dit à peu près la même chose après sa nuit de noces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Il est mort à présent. C'est ce que vous vouliez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Mais vous avez plus de certitude à présent. C'est assurément mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"C'est vrai. Mais j'espérais profiter du moment un poil plus longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"J'ai tué beaucoup de gens à mon époque. J'ai goûté leur sang coulant sur mes mains, j'ai senti leur chair qui carbonisait." Elle lève les mains devant elle, qui se tordent par spasmes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Et j'ai toujours imaginé ce que cela me ferait d'avoir Harmke sous ma lame, ressentant son souffle se réchauffer et s'accélérer, ressentir la peur émanant de lui..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Et ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Il faut vous y faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Je n'ai rien ressenti. Son pouls s'estompant n'était rien d'autre pour moi que le bruit de la pluie." Elle hausse les épaules, laissant ses bras s'entrechoquer sur ses côtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Que voulez-vous dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Croyez-moi, il est définitivement mort..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Vous ne pouvez pas juste faire semblant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"C'est décevant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ce corps - il n'a pas été conçu pour les sensations. Plonger mes doigts dans la chair émaciée d'Harmke, ses cris qui sont juste un bourdonnement dans mon crâne..." Elle plie et déplie ses doigts en quelques mouvements très rapides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Je sais ! Mais je voulais le ressentir, vous comprenez ?" Elle s'avance vers vous avec une intensité aussi soudaine que désespérée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Tout cela n'a fait que me rappeler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"De quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Qu'il s'agit du rêve fébrile d'un détraqué. Comme une prison, non, car dans une prison, vous posez votre tête par terre et vous ressentez la paille sous vous, votre chair se contracter dans le froid, le pain noir s'émietter sur votre langue..."
+
+Elle tourne les bras devant elle, examinant les inscriptions sur le dos de ses mains avec horreur et étonnement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"C'est juste une manière empourprée de dire « plus pourri qu'un chariot rempli de merde »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Faire semblant pendant ces moments calmes où vous glissez vers le sommeil. Il y a des moments où vous avez besoin de plonger vos doigts dans quelque chose de réel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"La douleur et le plaisir sont des distractions. Vous avez la chance de les éviter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Vous avez raison. Cela semble horrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Elle fait un bruit déplaisant et retentissant comme un reniflement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"C'était après ma capture à Stalwart. Ils m'ont enfermée dans une petite maison près de l'auberge, le vieux maire et ses hommes de main." Sa tête s'abaisse alors qu'elle se souvient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Il ne m'a jamais vraiment regardée jusqu'à ce qu'il commence à adapter un casque en cuivre sur ma tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Il prétendait qu'il s'agissait d'un châtiment juste, mais les habitants n'ont pas apprécié de se voir confisquer leur lapidation." Elle croise les bras, acquiesçant de la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Puis, soudain, ils attendent, me regardant avec ces yeux fixes et horrifiés. Mais ils ne me regardaient pas, ils attendaient que quelque chose se passe." Ses yeux luisent, roulent et grattent derrière son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Le temps venu, je ne pouvais rien ressentir. Juste cette sorte de douleur terne et distante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ils ont chassé Galvino, détruit une fortune en machinerie et ont écrit une lettre à l'académie de Selona, ruinant le crédit qu'il lui restait encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Il a eu de la chance de ne pas finir écorché vif."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Je sais seulement que ce n'est pas lui qui a mis le feu à ma maison. Je ne sais pas si j'appellerais cela de la certitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Quelque chose entretenait ma faim. Cela me piquait la nuit et le jour, mais c'était au moins quelque chose." Elle regarde ses mains vides, les doigts étalés comme les pattes d'une araignée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"À présent, il n'y a rien. Même pas cette brûlure de vouloir quelque chose. Juste ce regard sur son visage." Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Quel regard ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Vous l'avez épargné. Vous devriez en tirer de la satisfaction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Sa tête se tourne brusquement vers vous. "De la satisfaction ? Je ne me sens pas bien, juste..." Elle trace des cercles futiles avec son poignet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Je me souviens. Il semblait effrayé, mais aussi révulsé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"De l'horreur. De la peur. Non, plus que cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Après Aube fraîche, les gens lorgnaient sur mes brûlures, remplis de dégoût. Ou alors, ils réalisaient qui j'étais et alors c'était de la terreur. Ou de la haine." Elle incline sa tête vers le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Mais ce... cette façon qu'avait Harmke de me regarder, comme tout le monde sauf vous et Galvino..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"J'apprécie le sentiment, mais ce n'est pas la même chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"C'est lui." Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"J'ai entendu le vieil homme caqueter et discuter. Lorsque je l'ai vu s'approcher de moi, me regarder avec des yeux affamés, j'ai essayé de crier. Essayé de lui mettre un coup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"C'est une étrange histoire. Nous en parlerons plus une autre fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Et je ne saurai jamais s'il l'a fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Pourquoi s'en soucier ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Il n'y avait rien à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Il est mort de toute façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Je voulais ressentir quelque chose ! Je me suis dit que s'il était responsable, je l'étranglerais de mes mains, pour sentir son pouls s'estomper et sa peau se refroidir..." Elle plie et déplie ses doigts en quelques mouvements très rapides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Mais le voir mort dans la neige, cela m'a simplement rappelé au souvenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

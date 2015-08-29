@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_odrun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>119</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un nain à l'air abattu contemple les ruines fumantes d'une maison. Son visage est couvert de suie qui retombe de sa barbe alors qu'il marmonne quelque chose pour lui-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'espère que vous aurez de bonnes nouvelles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous y allez ? Je n'ai pas la patience pour cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Que s'est-il passé ? Qu'avez-vous trouvé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Si je peux être utile, dites-le moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je sais où le porteur d'offrande emporte vos possessions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Quel est le rôle de Lafda dans tout cela ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je veux connaître votre passé, avant que vous veniez vous installer ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Elle dirige ce groupe de corbeaux. Ils ont pris le temple alors que les gens commençaient à partir. Ils sont venus décharger ceux qui cherchent à oublier leur misère ici, d'après ce qu'ils disent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Et à présent ils ne veulent pas me dire où il se trouve !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Les avez-vous trouvées ? Et le médaillon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"J'ai votre médaillon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Mentez] "Le porteur d'offrandes a emporté votre médaillon dans un lac. Il a disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Les coffres des offrandes à Ondra étaient vides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Okrun plonge ses mains dans sa barbe noircie. "... « Disparu ? » Ses genoux chancèlent et s'enfoncent dans la neige. Le nain se cache le visage, les poils hérissés de sa barbe tremblant entre ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Comment... Comment est-ce possible ?" Il gratte sa barbe hérissée, se murmurant à lui-même. Un éclair de compréhension traverse son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Les prêtres d'Ondra sont en fait des voleurs. Ils vous ont trompé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je suspecte Lafda de ne rien ignorer. Je vais aller lui parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Les prêtres ?" Okrun crache ses mots. "Je v-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Le voilà."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Il semble valoir son pesant d'argent. Montrez-moi ce qu'il vaut pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Okrun prend le médaillon avec précaution dans ses paumes, prenant soin de ne pas le souiller de ses doigts sales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tout..." Il maintient son regard sur vous. "Vous pouvez tout prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Les bâtards... Je vais leur montrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"N'essayez pas de m'arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mais je ne partirai pas avant d'avoir récupéré ce qui est à moi. Ils ne peuvent m'ignorer une deuxième fois, pas après ça !" Okrun fait des gestes vers les bâtiments en ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Quels prêtres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"La mémoire de votre passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"J'imagine que vous avez donné quelque chose à l'un des porteurs d'offrandes d'Ondra..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Les seuls ici. Ils ont occupé le temple il y a quelques temps, détroussant les gens désespérés comme des vautours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je me suis usé les mains jusqu'au sang ici. Et pour quoi ?" Il donne un coup de pied dans un tas de neige sale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Commencer avec rien et finir avec moins." Il étend ses bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je suis désolé pour votre perte."</DefaultText>
+      <FemaleText>"Je suis désolée pour votre perte."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"C'était il y a longtemps. Une vie différente. Je vous épargne le chapitre triste. En parler ne m'a aidé en rien. Ni le temps, ni la distance. Ni ces charlatans là-dedans." Il crache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Okrun détourne son regard du sol et vous regarde de côté. "Vous êtes rapide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ces prêtres. Les chiens d'Ondra. Ils disaient que la déesse pardonnerait, qu'il vaut mieux oublier certaines choses." Il hoche la tête vers le temple à proximité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"L'attaque des ogres a meurtri tout le monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vous avez l'air d'apprécier le goût de la misère, n'est-ce pas ? Reprenez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Fait mal..." Le nain voûte les épaules comme s'il supportait un fardeau. Il regarde autour de lui les villageois qui passent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Le nain incline sa tête sur le côté et lève un sourcil. D'un grognement, sa réaction se fixe en un sourire à l'ironie entendue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Pas la peine. Je ne mérite que cela." Le nain plisse le nez, ses narines frémissant comme celles d'un cheval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Bon débarras, je n'aurais jamais dû venir m'installer ici. Quelques fois vous emportez des choses que vous aviez prévu de laisser derrière vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je vous dirais si je trouve quoi que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ils réagiront mieux au tact qu'aux tirades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"N'ont-ils donc aucune compassion ? Je leur ferai part de votre détresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Pourquoi perdrais-je mon temps avec un nain sénile qui change d'avis à chaque instant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je dois admettre que ce n'est pas le genre de conversation auxquelles je suis habitué ces dernières années. Les prêtres peuvent prétendre le contraire, mais les gens par ici tendent à s'occuper uniquement d'eux-mêmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je serai surpris qu'ils le rendent d'eux-mêmes. Ils pensent qu'il s'agit d'un devoir sacré d'envoyer des offrandes à la déesse quelque part où elles seront oubliées. Je pense qu'il vaut mieux découvrir où ils les déposent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Le nain grogne. "Le métal aiguisé a toujours eu tendance à triompher de mes arguments, mais je comprends ce que vous voulez dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Le nain vous étudie un moment et vous fait un signe de tête approbateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J'ai peut-être l'air d'un simple villageois à présent, mais je sais encore me servir d'eux !" Il courbe ses poings et les fait s'entrechoquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Parlez-moi de ce médaillon que vous souhaitez récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Il appartenait à ma sœur. Ce n'était qu'un joli bibelot pour elle. Pour moi..." Le nain baisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Elle était ma dernière famille. Du moins qui agissait comme une famille pour moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je ne m'attends pas à ce que la chance me sourie mais si vous trouvez quoi que ce soit... Je serai là, comptez là-dessus." Il vous fait un signe de tête vigoureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Qu'avez-vous donné d'autre aux prêtres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Oui... C'est son médaillon." Il sourit, et parvient à fixer à nouveau son attention sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"J'ai également trouvé votre armure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"J'accepterai tout ce dont vous voudrez bien vous séparer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Je n'ai besoin de rien d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je n'en ai pas besoin. Je ne sais pas ce que j'en ferais." Il hoche la tête. "Gardez-la. Plus de chance pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Il se retourne et s'éloigne, regardant non pas le chemin devant lui mais son précieux patrimoine qu'il serre entre ses mains. Et pourtant, la foulée de ses courtes jambes semble mue par la confiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Oui, bien sûr." Il acquiesce et tire un petit sac d'une poche. Il le tend vers vous, son regard ne quittant jamais le bibelot dans son autre main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Votre réaction parvient à détourner son attention de sa possession.  Il vous étudie pendant un moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Le nain jette ses épaules en arrière, gonflant son buste et se dirige à grands pas vers le temple en se murmurant des jurons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Il se lève en vacillant et commence à s'éloigner avec une allure incertaine. Après quelques pas, il laisse tomber ses mains et regarde derrière lui. "Oubliez ce que vous avez vu de moi. Okrun, Haut Marcheur de Marrat, n'a jamais été là... juste un souvenir à oublier. Ondra y veillera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Un nain fait les cent pas la tête baissée et les bras croisés, ne s'arrêtant que pour lancer des regards vers le bâtiment derrière lui. Son visage est couvert de suie qui retombe de sa barbe alors qu'il marmonne quelque chose pour lui-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Je le trouverai ! Sans votre aide ! Je n'abandonne pas, vous m'entendez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Mais contre qui hurliez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Contre des idiots, voilà qui. Et j'en suis la moitié d'un pour les avoir cru." Le nain plisse le nez, ses narines frémissant comme celles d'un cheval.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous parlez des prêtres d'Ondra ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Pourquoi ne vous le disent-ils pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Que vouliez-vous oublier de votre passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Parce qu'ils pensent mieux savoir que moi, voilà pourquoi ! Ils disaient que c'était le meilleur moyen pour moi d'oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"C'était une toute autre vie. De meilleurs jours. Jusqu'à ce que..." Okrun ferme les yeux et secoue la tête. Des particules de suie retombent sur ses épaules voûtées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"C'est mon fardeau, pas le vôtre. J'ai pensé à m'en débarrasser, mais les souvenirs que j'ai perdus n'étaient pas les bons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je me suis déjà occupé d'eux."</DefaultText>
+      <FemaleText>"Je me suis déjà occupée d'eux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Arrêtez. Je vais m'en charger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Je vais vous aider à régler le problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Chiens ! Vous pensiez pouvoir me tromper ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Et... ? Et mon offrande ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Le nain retourne brusquement la tête. Une furie résolue déborde de ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"C'est un groupe de dangereux hors-la-loi. Vous perdriez l'occasion de les surprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"J'ai dit que je m'en occuperai. Reculez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Encore des pièges ! Non... Je me suis déjà assez caché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Par Abydon... Ridicule. Ce n'est pas comme si j'allais les tuer. Pas tout de suite, du moins..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Il soupire. "Allez-y, faites ce que vous voulez avec ces bandits. Mais faites-le de façon douloureuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Voilà..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Cela doit être là." Okrun fixe son attention sur un grand coffre. Il force son ouverture et regarde à l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Okrun s'élève lentement du grand container. Il appuie quelque chose contre sa poitrine. Entre ses mains, un médaillon en argent, incrusté de joyaux, étincelle dans la lumière blafarde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Je m'attendais à ce que vous mettiez plus de temps à comprendre mais vous ne nous laissez plus aucun autre choix à présent." Elle regarde rapidement des deux côtés. Ses compagnons entrent en action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Votre armure devrait également être dans le coffre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Il se dirige vers la porte, absorbé par le précieux héritage qu'il serre entre ses mains et sort. La foulée de ses courtes jambes semble mue par la confiance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je reviendrai avec."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"J'attendrai. Ne me faites pas attendre ici trop longtemps ici !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ne me prenez pas pour l'un d'entre eux. Je porte plus de choses que des pierres à feu et des fourrures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Vous en avez le droit, et celui que je fus approuve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ces prêtres aux belles paroles m'ont pris mes possessions. « Enterrez la mémoire de mon passé », qu'ils disaient... Je n'ai même plus cela aujourd'hui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Si seulement j'avais eu cette présence d'esprit quand ils parlaient de paix et de rédemption dans les yeux de la déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Leur chef, Lafda, j'ai cru ses paroles. Un autre parmi eux, un porteur d'offrandes, a pris mon médaillon." Il referme sa main trapue pour former un poing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je vois que le froid de ces montagnes n'a pas encore réprimé le feu qui brûle dans vos veines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Je récupérerai mon médaillon, même si je dois étriper ces prêtres pour obtenir des réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Je... Voyons cela !" Le nain arbore un large sourire sous sa barbe hérissée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je vous assure que vous avez bien agi ici aujourd'hui. Si seulement j'avais une récompense digne de ce nom à vous offrir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"J'étais comme cela autrefois. Peut-être... un jour, à nouveau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Quelqu'un l'a pris ! Qui ? Le savez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Le nain se relève et vous regarde. Il grogne et son air renfrogné se réduit en une moue boudeuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Lafda regarde le nain avec surprise puis verrouille immédiatement son regard sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"C'est..." Il commence à chercher son contenu, fouillant sans ménagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Voilà- c'est ça.. C'était à elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Et maintenant ils ne veulent pas me dire où c'est ! Ils peuvent garder l'armure et le reste. Je cèderai tout pour pouvoir tenir à nouveau mon médaillon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Qu'avez-vous donné d'autre aux prêtres ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Le nain vous lance un regard mesuré. Il détourne rapidement la tête et acquiesce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vous prendriez la mesure de sa valeur. Mon armure, un ensemble des plus raffinés."
+
+"Mais inutile pour un vieux nain. Je l'aurais échangé contre le médaillon, mais quelle folie d'avoir cédé les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Je peux peut-être faire quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Le problème, c'est que vous donnez du sens à des objets qui en sont dénués. Permettez-moi de vous montrer quelque chose. J'ai besoin d'une de vos bagues."
+
+Okrun écarte la main, mais Zahua lui fait un signe qui le met en confiance. Après un moment d'hésitation, Okrun accepte et laisse tomber un anneau orné de pierreries dans la main tendue de Zahua. 
+
+Sans plus attendre, Zahua le jette dans le lac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Vous voyez ? Vous n'êtes pas en pire situation qu'avant."
+
+Le visage d'Okrun, déjà rosi par le froid, prend une coloration écarlate et ses lèvres se plissent comme si sa tête allait exploser. 
+
+Après un moment de forte tension, sa respiration ralentit, ses poings se desserrent et il retrouve son air affligé.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_03_wildernesses\px1_03_qst_cursed_estoc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dormeur gris</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez un « agent tournoyant de cuivre, d'adra et de pierre. »</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reposez-vous dans les « collines où les morts sont assoupis » mentionnées dans le premier vers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Atteignez les « piliers » mentionnés dans le dernier vers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>J'ai trouvé un estoc dans un mystérieux piédestal en pierre près des Chutes de Longue-vue. En l'enlevant, j'ai réalisé que l'arme était maudite et liée à une âme - elle s'attache d'elle-même à son porteur.
+
+Il y a un poème écrit sur la lame. Il commence :
+
+« Voici le destin du traître, au sommeil sans repos
+Tandis que le savoir de ses actes reste logé dans ses os.
+Mais pénitence sérieuse guérit l'homme de ses maux
+Et actions méritantes retiennent la main du bourreau. »
+
+Les autres vers contiennent peut-être la clé pour lever la malédiction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Un nouveau vers est apparu après retirer l'épée. Il dit :
+
+« Cherchez l'agent tournoyant de cuivre, d'adra et de pierre
+Éveillez d'abord votre essence pour pouvoir expier. »
+
+Je pense que c'est la première étape pour lever la malédiction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>La machine engwithane a renforcé l'arme et révélé un autre vers dans la lame :
+
+"Trouvez les collines ensoleillées où les morts someillent.
+Reposez-vous près de cette chair flétrissante ; inspectez le fruit de vos rêves."
+
+Ce doit être un autre indice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai voyagé jusqu'à un cimetière comme mentionné dans le vers précédent, et le Dormeur Gris est devenue plus puissante encore.
+
+Pendant que j'étais là-bas, un autre vers est apparu sur la lame :
+
+« Sur les doigts du monde, adra forte et entière
+A genoux devant les piliers, réordonnez votre âme d'une prière. »
+
+Peut-être que ça brisera la malédiction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai levé la malédiction du Dormeur gris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Quelqu'un d'indispensable à cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

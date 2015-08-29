@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_cv_mines_trap_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une cavité circulaire a été creusée dans la pierre sous le bas-relief représentant un guerrier nain. Le personnage en armure charge un ennemi invisible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examinez la cavité.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Insérez le Sceau de l'épée dans la cavité.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trois trous ont été percés au fond de la cavité circulaire. Leurs bords sont érodés. Au-dessus de la cavité, un nain semble prêt à donner la charge. Le bras baissé tient un bouclier et la main levée une épée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Insérez le Sceau du bouclier dans la cavité.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Insérez le Sceau du casque dans la cavité.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous placez le symbole en faisant correspondre les parties saillantes avec les trous de la cavité circulaire. Ils s'emboîtent parfaitement. Une légère pression suffit pour faire glisser le symbole dans son réceptacle. Vous entendez un léger déclic derrière le mur en pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous placez le symbole en faisant délicatement correspondre les parties saillantes avec les trous de la cavité circulaire. Vous avez beau essayer, ça ne rentre pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous placez le symbole en faisant délicatement correspondre les parties saillantes avec les trous de la cavité circulaire. Vous avez beau essayer, ça ne rentre pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Le sceau est désormais solidement emboîté dans le mécanisme en pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

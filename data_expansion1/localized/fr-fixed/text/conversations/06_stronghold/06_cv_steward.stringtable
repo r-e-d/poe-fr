@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_steward</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Mon seigneur, j'ai une lettre pour vous. Elle était accompagnée d'une importante somme d'argent. Je suppose que vous vous êtes fait des amis lorsque vous étiez à l'étranger."</DefaultText>
+      <FemaleText>"Ma dame, j'ai une lettre pour vous. Elle était accompagnée d'une importante somme d'argent. Je suppose que vous vous êtes fait des amis lorsque vous étiez à l'étranger."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Eh bien, puis-je faire quelque chose pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

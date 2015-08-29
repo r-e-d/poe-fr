@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_si_hole</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'eau trouble est visible par un large trou taillé dans la glace épaisse. Il est plus grand qu'un trou destiné à la pêche, plus large qu'un aumaua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Plongez et fouillez le fond de l'étang.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Specified 0] plonge dans l'eau et disparaît dans l'obscurité tumultueuse. Le froid l'emporte sur la chaleur et chaque mouvement est un combat. 
+
+Mais, grâce à sa résilience et son endurance exceptionnelles, [Specified 0] parvient à rejoindre facilement le fond de l'étang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Demandez à [Slot 0] de plonger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Demandez à [Slot 1] de plonger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Demandez à [Slot 2] de plonger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Demandez à [Slot 3] de plonger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Demandez à [Slot 4] de plonger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Demandez à [Slot 5] de plonger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous plongez dans l'eau. L'obscurité tumultueuse vous engloutit dans une étreinte glaciale qui puise toute la chaleur de votre corps. 
+
+Vos membres s'engourdissent, mais votre vigueur naturelle vous permet de rejoindre facilement le fond de l'étang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous plongez dans l'eau. L'obscurité tumultueuse vous engloutit dans une étreinte glaciale qui puise toute la chaleur de votre corps. 
+
+Vos membres commencent à s'engourdir. Vos déplacements sont de plus en plus difficiles, presque impossibles. 
+
+Un spasme vous parcourt le dos, vous poussant à réagir. Vous nagez désespérément vers le haut pour regagner la surface, tremblant et à bout de force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous plongez dans l'eau. L'obscurité tumultueuse vous engloutit dans une étreinte glaciale qui puise toute la chaleur de votre corps. 
+
+Vos membres s'engourdissent, mais votre résistance naturelle aux températures extrêmes vous permet de rejoindre facilement le fond de l'étang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>L'effet de surprise passé, vous vous emparez d'un autre coffre. Vous l'ouvrez et découvrez qu'il renferme la même chose : des pierres et rien de valeur.
+
+Quelque chose cloche, c'est certain. En guise de preuve, vous emportez les coffres vides avec vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>D'après sa position, le trou semble situé à l'endroit indiqué sur la carte trouvée dans le calepin d'Ixtli.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>La surface de l'eau clapote contre la couche de glace. Vous vous approchez pour goûter l'eau. Chacune de ses ondulations vous pince les doigts et au bout de quelques secondes, votre main est engourdie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous vous approchez du trou découpé dans la surface gelée de l'étang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Qui plongera ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Vous plongez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Examinez la zone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Examinez l'eau jusqu'au fond de l'étang.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vous examinez minutieusement les alentours. Les traces d'animaux sont nombreuses, mais vous notez également la présence d'empreintes appartenant à des êtres civilisés aux abords du trou.
+
+En y regardant de plus près, vous remarquez un anneau de givre irrégulier sur ses parois. Peut-être a-t-il été redécoupé plusieurs fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>L'eau tourbillonne, limoneuse et quasiment opaque.
+
+En vous concentrant, vous réussissez à apercevoir le fond qui se dessine progressivement.
+
+Vous jureriez y distinguer plusieurs objets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>L'eau tourbillonne, limoneuse et quasiment opaque.
+
+Vous tentez de percer l'obscurité, mais ne distinguez rien de particulier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Réfléchissez aux possibilités qui s'offrent à vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Vous plongez dans l'eau. L'obscurité tumultueuse vous engloutit, mais son étreinte semble presque chaude et chaleureuse. De temps à autre, un frisson vous parcourt le corps, mais la protection conférée par le sort vous permet de nager facilement jusqu'au fond de l'étang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Jetez le sort Rempart contre les éléments avant de plonger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Qui jettera le sort Rempart contre les éléments ?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Vous jetez le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Demandez à  [Slot 0] de jeter le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Demandez à  [Slot 1] de jeter le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Demandez à  [Slot 2] de jeter le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Demandez à  [Slot 3] de jeter le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Demandez à  [Slot 4] de jeter le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Demandez à  [Slot 5] de jeter le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Qui jettera le sort Rempart contre les éléments ?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Vous commencez à puiser l'énergie de l'éther dans votre grimoire jusqu'à ressentir un puissant flot s'en échapper et vous envelopper d'une aura protectrice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Specified 0] commence à puiser l'énergie de l'éther dans un grimoire. Un éclair de lumière jaillit de la page ouverte et vous enveloppe d'une aura protectrice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Specified 0] plonge dans l'eau et disparaît dans l'obscurité tumultueuse. Mais son étreinte semble tiède et presque accueillante. 
+
+Sous la protection du sort, [Specified 0] réussit à rejoindre facilement le fond de l'étang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Specified 0] plonge dans l'eau et disparaît dans l'obscurité tumultueuse. Le froid l'emporte sur la chaleur et chaque mouvement est un combat. 
+
+Mais, grâce à sa résistance naturelle aux températures extrêmes, [Specified 0] parvient à rejoindre facilement le fond de l'étang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Specified 0] plonge dans l'eau et disparaît dans son obscurité tumultueuse. Le froid l'emporte sur la chaleur et chaque mouvement est un combat, un combat presque impossible. 
+
+Un spasme fait réagir votre compagnon. [Specified 0] nage désespérément vers le haut pour regagner la surface, tremblant et à bout de force.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous plongez la main dans l'eau. Vous la sentez onduler sur votre peau, mais ne constatez aucun changement de température, comme si l'eau avait tiédi.
+
+Le froid ne semble plus présenter de danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vous vous accordez quelques minutes pour vous remettre de l'épreuve et inspectez ce que vous avez trouvé. 
+
+Les coffres portent les symboles d'Ondra. Vous attrapez l'un d'entre eux et l'ouvrez pour voir ce qu'il renferme. Vous n'y voyez que des pierres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Après une tentative infructueuse, vous prenez quelques instants pour réfléchir aux possibilités qui s'offrent à vous. Seule une extrême résilience au froid vous permettra de disposer de suffisamment de temps pour aller chercher les objets au fond du lac.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Au droit du trou, tout au fond de l'étang, vos mains tombent sur de lourds objets en bois et en métal. 
+
+Ce sont des coffres, petits mais lourds. Vous commencez à les remonter à la surface, un à un, non sans difficulté. 
+
+Après un effort héroïque, vous sortez de l'étang gelé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Au droit du trou, tout au fond de l'étang, les mains de [Specified 0] tombent sur de lourds objets en bois et en métal. 
+
+Ce sont des coffres, petits mais lourds. [Specified 0] commence à les remonter à la surface, un à un, non sans difficulté. 
+
+Après un effort héroïque, [Specified 0] sort de l'étang gelé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Réfléchissant à la meilleure manière d'aborder la situation, vous reculez et regardez le trou sur l'étang gelé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Passé l'effet de surprise, vous vous emparez d'un autre coffre. En l'ouvrant, vous découvrez une superbe armure et trouvez, sous quelques vêtements, un médaillon en argent incrusté de pierres précieuses.
+
+Vous reconnaissez ces objets, qui appartiennent à Okrun. Mais les autres coffres, remplis de pierres, semblent indiquer qu'il se trame quelque chose d'étrange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Lisez les notes d'Ixtli.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Le calepin d'Ixtli contient des notes soulignées. On peut y lire :
+
+"Notoc Tlocotl, les formalités d'abord, bien sûr, et elle viendra."
+
+"Cualla Micha, c'est une bonne petite et elle aime bien l'entendre avant d'aller nager dans les profondeurs."
+
+"Xitlac Cualla, assure-toi juste qu'elle aime le poisson pour du travail bien fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Lisez le calepin d'Ixtli, "Cualla Micha."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Lisez le calepin d'Ixtli, "Xitlac Cualla."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Chassez le lagufaeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Menacez le lagufaeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Lisez le calepin d'Ixtli, "Notoc Tlocotl."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Quelques instants après avoir prononcé les mots, des bulles venues des profondeurs remontent à la surface. Un ombre apparaît, de plus en plus grande, suivi d'un grand éclaboussement à la surface de l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Le lagufaeth penche sa tête monstrueuse sur le côté et vous lance une œillade. Ses narines s'élargissent soudain. 
+
+La créature respire l'air froid et siffle avant de replonger et de disparaître sous l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Seules les bulles occasionnelles qui remontent à la surface indiquent que le lagufaeth continue de nager dans les profondeurs de l'étang gelé. Une longue minute s'écoule. L'eau trouble continue d'onduler et une forme sombre apparaît à nouveau sous le trou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Une forme imposante en sort et éclabousse la glace. C'est un coffre. Sous celui-ci, le hissant, le lagufaeth découvre ses dents et semble sourire.
+
+La créature pousse le coffre sur le côté et replonge. Le processus se répète jusqu'à ce que plusieurs coffres, tous identiques, apparaissent près du trou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Le lagufaeth respire bruyamment par ses larges narines. Il tourne la tête sur le côté pour vous regarder. 
+
+Un nouveau sourire se dessine, un sourire d'impatience. Puis, le lagufaeth ouvre la bouche dans votre direction.
+
+"Cah... llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Ses yeux sont exorbités par le plaisir. Gueule grande ouverte, la créature tente de répéter les mots tout en vous jetant de rapides regards.
+
+"Cah llah. Cah llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Donnez quelques poissons au lagufaeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Vous attrapez quelques poissons et les lancez en direction de la créature. Elle fait claquer ses mâchoires et les dévore immédiatement. Elle plisse les yeux de satisfaction et vous sentez son haleine rance.
+
+Le lagufaeth penche la tête sur le côté. Il découvre les dents, pleines de poisson, avant de replonger dans l'eau glacée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Vous portez votre attention sur les coffres situés à l'endroit où la glace a été découpée. Ils portent les symboles d'Ondra. Vous attrapez l'un d'entre eux et l'ouvrez pour voir ce qu'il renferme. Vous n'y voyez que des pierres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>D'un geste de la main, vous chassez le lagufaeth. Il s'en va, faisant claquer ses mâchoires, mais sans oser vous mordre. 
+
+La créature plisse les yeux et vous lance un regard plein de ressentiment avant de replonger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Vous criez et secouez le poing en direction du lagufaeth. Il s'en va, faisant claquer ses mâchoires, mais sans oser vous mordre.
+
+La créature plisse les yeux et vous lance un regard plein de haine avant de replonger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Vous prononcez les mots et attendez. Il ne se passe rien. Vous regardez à nouveau les notes du porteur d'offrandes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>La créature secoue la tête sur le côté, ses yeux exorbités par le plaisir.
+
+Gueule grande ouverte, la créature tente de répéter les mots.
+
+"Cah llah. Cah llah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Vous prononcez les mots et attendez. Il ne se passe rien. Vous regardez à nouveau les notes du porteur d'offrandes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Vous attrapez quelques poissons et les lancez en direction de la créature. Elle fait claquer ses mâchoires et les dévore immédiatement. Elle plisse les yeux de satisfaction et vous sentez son haleine rance.
+
+Le lagufaeth penche la tête sur le côté. Un petit hennissement se dessine sur les lèvres. Vous avez l'impression d'avoir perdu. La créature plonge à nouveau dans l'eau glacée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Alors que vous vous retournez pour partir, le lagufaeth fait claquer ses mâchoires et pousse un cri guttural. 
+
+Sa tête commence à s'enfoncer sous l'eau, les yeux plissés et fixés sur vous. Vous avez l'impression de ne pas répondre à ses attentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>D'un geste de la main, vous chassez le lagufaeth. Il s'en va, faisant claquer ses mâchoires, mais sans oser vous mordre. 
+
+La créature plisse les yeux et vous lance un regard plein de haine avant de replonger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Essayez de vous occuper du lagufaeth.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>La créature souffle par ses narines et vous lance un regard plein de ressentiment avant de replonger dans les profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Une créature écailleuse vous fixe à travers le trou, les yeux globuleux et la bouche énorme. Des mots se forment difficilement entre ses dents pointues.
+
+"Tah... caht."
+
+Le jeune lagufaeth, qui ne semble en rien effrayé par votre présence, penche la tête et continue de vous regarder comme s'il attendait quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

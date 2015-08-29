@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_lafda_henchmen_spied</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les volets de bois de la fenêtre du temple, bien fermés, laissent échapper des voix étouffées venant de l'intérieur du bâtiment. 
+
+Vous n'arrivez pas vraiment à déchiffrer ces murmures, mais entrouvrir un volet vous aiderait certainement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Un loquet de fer rouillé maintient les volets de la fenêtre clos. Avec soin, vous devriez pouvoir le détacher sans être remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Détachez le loquet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Écoutez en plaçant votre oreille contre les volets.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous commencez à tirer prudemment le loquet de son crochet de métal. À mi-chemin, le fer rouillé résiste dans un grincement. 
+
+Vous vous paralysez, écoutant les voix dans l'espoir que les prêtres ne vous auront pas entendu. Leur conversation se poursuit sans interruption.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Ouvrez le loquet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Qui tentera de détacher le loquet en silence ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Versez un peu d'huile sur le loquet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Faites-le vous-même.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Considérez d'autres options.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous attrapez le loquet et y appliquez la pression nécessaire pour pousser le métal jusqu'à ce que la rouille cède sans un son. 
+
+Doucement, vous ouvrez suffisamment les volets de la fenêtre pour laisser filtrer les voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous attrapez le loquet et y appliquez de la pression, essayant de pousser le métal hors du bloc de rouille qui le maintient au volet. Le fer commence à gémir. Il se libère au prix d'un bruit perçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Specified 0] attrape le loquet et y applique la pression nécessaire pour pousser le métal jusqu'à ce que la rouille cède sans un son.
+
+Doucement, [Specified 0] ouvre suffisamment les volets de la fenêtre pour laisser filtrer les voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Specified 0] attrape le loquet et y applique de la pression, essayant de pousser le métal hors du bloc de rouille qui le relie au volet. Le fer commence à gémir. Il se libère au prix d'un bruit perçant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Les voix derrière la fenêtre s'arrêtent au beau milieu d'une phrase et vous pouvez entendre quelqu'un faire taire les autres. Un silence suit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Vous entendez un homme parler d'un ton agité.
+
+"... vous faites ça ? Vous espérez que les montagnes le feront ? Et si Ix-"
+
+Sa phrase s'arrête, comme si l'homme s'adressait à tous les côtés de la pièce.
+
+"-ppose qu'il leur dise à la place. Et alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous reconnaissez la voix de Lafda qui répond.
+
+"Pourquoi le ferait-il ? Et avec tous les dangers près de la Batterie, notre porteur d'offrandes ne traînera pas. Je pense qu-"
+
+L'homme l'interrompt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vous pensez toujours ! Regardez là où cela nous a menés. Un village mourant. Les ogres aux murs ! Ixtli n'est pas encore de retour et je dois maintenant faire son-"
+
+Sa voix baisse et s'adoucit, étouffant ce qu'il a à dire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Après un moment, Lafda répond.
+
+"Vous pensez que j'ai voulu tout cela ? Que j'aurais pu savoir à l'avance ?"
+
+Un pause s'ensuit, sa tension montant jusqu'à ce que la voix de la prêtresse tranche dans le vif.
+
+"Nous ne pouvons pas l'attendre. Nous devons repêcher le dernier lot, et vite. Après cela, nous déciderons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>L'homme répond d'une voix cassée, à peine audible. Vous ne distinguez que les derniers mots.
+
+"... dans ce marais des Bois de Russet... J'irai."
+
+Leur échange semble se finir. Prudemment, vous vous écartez de la fenêtre du temple d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous attrapez le loquet et y appliquez l'huile nécessaire pour pousser le métal jusqu'à ce que la rouille cède sans un son. 
+
+Doucement, vous tirez suffisamment les volets de la fenêtre pour laisser filtrer les voix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous placez votre oreille contre le bois rugueux. Les voix étouffées s'élèvent et retombent dans le temple. 
+
+Il est bien trop difficile de clairement distinguer ce qu'ils disent, mais vous pensez qu'il est toujours possible d'apprendre quelque chose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Continuez à écouter à travers les volets clos.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vous vous concentrez pour interpréter le moindre son que vous pouvez saisir. Un flux de vibrations adoucies adoptent graduellement des formes cohérentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous vous forcez à écouter, mais vous ne captez rien d'intelligible. Votre seule option est d'ouvrir les volets de la fenêtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Il n'y a rien d'autre à glaner de la conversation entre Lafda et ses acolytes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Vous entendez un homme parler d'un ton agité.
+
+"... trop dangereux ! Qui d'autre pourr-"
+
+Sa phrase s'arrête, comme si l'homme s'adressait à tous les côtés de la pièce.
+
+"... -sur ce que l'on fait ici ? Et alors ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>L'homme répond d'une voix cassée, à peine audible. Vous ne distinguez que les derniers mots.
+
+"... J'irai."
+
+Leur échange semble se finir. Prudemment, vous vous écartez de la fenêtre du temple d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Un loquet de fer rouillé maintient les volets de la fenêtre clos. Avec soin, vous devriez pouvoir le détacher sans être remarqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_04_mercenary_camp\px1_04_cv_mercenary_commander</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Commandant Baelorin, chef des membres de la Bannière déchirée. Qui que vous soyez, vous êtes un sacré casse-couilles. Comment dois-je vous appeler ?"</DefaultText>
+      <FemaleText>"Commandant Baelorin, chef des membres de la Bannière déchirée. Qui que vous soyez, vous êtes une sacrée casse-couilles. Comment dois-je vous appeler ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Est-ce vraiment important ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Peu importe. Je n'en ai pas pour longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Enchanté, commandant. Je m'appelle [Player Name]."</DefaultText>
+      <FemaleText>"Enchantée, commandant. Je m'appelle [Player Name]."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"J'ai perdu beaucoup d'hommes. Concelhaut, c'est une chose, mais vous, pourquoi vous en prenez-vous à mes soldats ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je me demande comment vous avez pu franchir nos lignes aussi facilement. J'ai manifestement manqué de poigne avec mes hommes. Je pense qu'ils apprécient votre gentillesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Baelorin incline la tête poliment.
+
+"Bien, [Player Name]. Au nom des membres de la Bannière déchirée, je vous souhaite la bienvenue sur notre campement."
+
+Ses hommes échangent des coups d'œil en souriant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Seulement si vous voulez qu'on se souvienne de vous sous un autre nom que « l'imbécile qui traînait sur notre campement »."  
+
+"Mais ce n'est pas grave. Nous ne tarderons pas à vous faire parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Baelorin sourit timidement.
+
+"Pourquoi se compliquer la vie ? Quelques minutes semblent parfois durer une éternité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Hah ! Voilà quelqu'un de poli. Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je le devine. Mais je préfère l'entendre de votre bouche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"J'ai entendu dire que la tour renfermait un artefact très puissant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vos mercenaires m'ont attaqué sans raison."</DefaultText>
+      <FemaleText>"Vos mercenaires m'ont attaquée sans raison."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je suis ici pour combattre au nom de Concelhaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je ne laisserai pas l'œuvre de Concelhaut tomber entre les mains de mercenaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Baelorin hoche la tête lentement, comme s'il n'était pas surpris.
+
+"Vous, comme la moitié de Dyrwood. Cet artefact est très convoité, par les seigneurs comme par les bandits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Je suis à la recherche du Phylactère engwithan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Mais cet artefact nous appartient. Celui ou celle qui vous en a parlé ne vous a pas rendu service. Personne ne sort jamais vivant de notre campement."   
+
+Il fait signe aux gardes.  
+"Assez bavassé. Vous êtes prêt ? Ce ne sera pas long."</DefaultText>
+      <FemaleText>"Mais cet artefact nous appartient. Celui ou celle qui vous en a parlé ne vous a pas rendu service. Personne ne sort jamais vivant de notre campement."   
+
+Il fait signe aux gardes.  
+"Assez bavassé. Vous êtes prête ? Ce ne sera pas long."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Baelorin semble surpris.
+
+"Bordel de merde. En dehors de ce campement, je ne pensais pas qu'autant de gens étaient au courant de ce qu'on cherche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Baelorin prend un air renfrogné.
+
+"J'avais ordonné à mes hommes de chasser les intrus, sans bain de sang inutile. Et je sais qu'ils tiennent suffisamment à la vie pour suivre mes ordres à la lettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Non, je pense plutôt que vous êtes là pour la même raison que nous. Pour le puissant artefact caché dans le donjon... Il attise toutes les convoitises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ah. Vous vous lancez à la rescousse d'un vieil homme ?"
+
+Baelorin glousse. "Concelhaut ne manque pas de trésors dans sa tour. Mais il ne s'est jamais fait d'alliés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ah bon ? C'est très noble de votre part. Descendre jusqu'ici et risquer la mort pour combattre les membres de la Bannière déchirée... Et tout ça pour quoi ? Pour les livres de Concelhaut ? Pour ses alambics ? Pour un fichu mortier et son pilon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Attendez. J'ai quelques questions à poser avant qu'on se batte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je suis prêt."</DefaultText>
+      <FemaleText>"Je suis prête."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bälorin vous observe un long moment. Puis il hausse les épaules.   
+
+"Pourquoi pas, après tout ? Mais je ne vous promets rien."  
+
+Il vous fait signe de continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Pour qui travaillez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Rien ne nous oblige à être ennemis. Je pourrais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Que savez-vous sur le Phylactère engwithan ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Que savez-vous sur cet artefact ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Comment se passe le siège ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Tout ce que je sais, c'est que le Phylactère vaut une petite fortune. Plus que les autres reliques engwithanes, en tout cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je ne sais pas à quoi il sert. Et je m'en moque. Notre employeur nous a chargés de le lui rapporter. Et avec la récompense qu'il nous a promise, on aura les moyens de s'offrir une des républiques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous cherchez des conseils tactiques ?"   
+
+Bälorin grogne. "Au début, tout se passait bien. Mais au moment où on a réussi à ouvrir une brèche dans le mur extérieur, des marionnettes de Concelhaut sont sorties des ruines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Dès que les renforts arriveront, on se lancera à l'assaut du donjon. Ce n'est qu'une question de temps."   
+
+"Je ferai balancer votre cadavre là-haut. Il pourrait faire fuir les pillards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Comment osez-vous venir me supplier après avoir massacré mes hommes ? Ils m'arracheraient les tripes si je vous écoutais, et ils auraient raison."  
+
+"Puisque vous êtes venu ici pour vous battre, ce n'est pas le moment de perdre votre sang froid."</DefaultText>
+      <FemaleText>"Comment osez-vous venir me supplier après avoir massacré mes hommes ? Ils m'arracheraient les tripes si je vous écoutais, et ils auraient raison."  
+
+"Puisque vous êtes venue ici pour vous battre, ce n'est pas le moment de perdre votre sang froid."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Quel dommage ! Dans d'autres circonstances, j'aurais pu vous accueillir sous la bannière. Mais notre contrat est clair : pas d'éléments extérieurs. Je suis sûr que vous comprenez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bälorin laisse échapper un petit rire.  
+
+"Pour quelqu'un qui n'aime pas beaucoup Concelhaut. Disons simplement que cette personne a beaucoup d'argent et qu'elle est haut placée. Mais j'ai promis de rester discret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Parlez-moi de Concelhaut. Est-ce qu'il est vivant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bonne question. Personne ne le sait. On ne l'a jamais vu sur le champ de bataille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ce vieux débris s'est peut-être fait dévorer par les morts-vivants. Où peut-être qu'il les contrôle."  
+
+"À moins qu'il se soit fait écraser dès la première salve de pierres lancée contre son donjon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Bälorin hausse les épaules.  
+
+"On le découvrira nous-mêmes une fois à l'intérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Qui sont ces créatures ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Des morts qui marchent et combattent comme des vivants. Leur armure est trop épaisse pour nos flèches, et ils jettent des sorts capables de vous brûler vif."  
+
+Il se tourne vers la colline voisine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"La nuit, on les voit sur la falaise, comme une rangée de torches. Leurs yeux sont ardents..."   
+
+Bälorin se racle la gorge. "Ils ne descendent pas jusqu'à notre campement. Ils restent là, à attendre qu'on vienne à eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Bälorin lève son arme en faisant un rapide salut.   
+
+"Je transmettrai vos amitiés à Concelhaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vous allez le regretter, commandant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Attendez. Puisqu'il est là, laissez-moi au moins l'examiner."   
+
+L'homme qui se tient devant vous semble être le chef. En entendant son ordre, les gardes baissent immédiatement leurs armes, mais continuent à vous regarder prudemment.</DefaultText>
+      <FemaleText>"Attendez. Puisqu'elle est là, laissez-moi au moins l'examiner."   
+
+L'homme qui se tient devant vous semble être le chef. En entendant son ordre, les gardes baissent immédiatement leurs armes, mais continuent à vous regarder prudemment.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"La première vague s'est laissée surprendre et a été décimée. On les a repoussés vers le donjon, mais cela a retardé notre victoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vous allez devoir vous contenter de moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

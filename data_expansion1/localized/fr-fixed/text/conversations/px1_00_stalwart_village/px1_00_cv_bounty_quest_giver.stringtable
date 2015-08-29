@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_bounty_quest_giver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>94</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'homme est en sueur malgré le froid. Il ouvre la bouche pour parler, il n'en sort qu'une toux lourde et hachée.
+
+Il se penche en avant, posant ses mains sur les cuisses pendant qu'il halète et se soulève.
+
+Après un long moment, il lève un doigt, le souffle toujours court.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Au fait, si vous allez aux Chutes de Longue-vue, je me suis dit que vous pourriez me rapporter une perle thermale." Il détourne le regard et enfonce la pointe de sa botte dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous voulez que je vous trouve une perle thermale ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous avez dit quelque chose à propos d'êtres « dangereux » dans la nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je vais prendre l'air. Si vous trouvez quelque chose, je serai aux abords du Refuge du gréf." Il frisonne et s'en va tranquillement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"En fait... Je l'ai déjà trouvée ! J'ai juste besoin que quelqu'un aille la récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je me serais battu, mais je me suis ravisé en pensant à ce que Stalwart deviendrait sans moi. Alors, j'ai pris mes jambes à mon cou. Pour le bien du village, bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Au fait, qu'est-ce qu'une perle thermale ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Parlez-moi des Chutes de Longue-vue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Elles ont une drôle d'odeur, mais elles sont chargées de minéraux. Il faut juste les émietter dans un bol." Il sourit et vous remarquez que ses gencives saignent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Si vous envisagez de vous y rendre, je vous conseille de vous adresser à Thyrsc. Il aura peut-être quelque chose pour vous aider à affronter les lagufaeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Arrêtez-vous chez Thyrsc avant de partir. Il vit dans la maison située près des mines. En chasseur aguerri, il connaît la nature mieux que quiconque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Il acquiesce. "Je veille sur le village. Vous, euh... Vous avez trouvé quelque chose pour moi près de Longue-vue ?" Il porte sa main à sa bouche pour tousser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eh bien, je serai par ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Parlez-moi à nouveau de la perle thermale que vous convoitez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je l'ai aperçue dans les sources chaudes près des Chutes de Longue-vue. Prenez garde aux lagufaeth... Ils sont nombreux dans les environs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mais Renengild a promis de l'argent pour veiller à ce que ces fauteurs de troubles soient neutralisés. Apportez-moi la tête de leurs chefs et cet argent sera à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Parlez-moi des Disciples de la Vraie flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'aimerais en savoir plus sur la Société étincelante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Qu'est-ce que le Pavillon de chasse de l'Ancienne Dunryd ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Qui dirige la Communauté religieuse des Crânes satisfaits?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Il se gratte la nuque. "Je n'ai jamais vraiment su, mais à ce qu'on dit, il s'agit d'un groupe d'adeptes qui... vénèrent les dragons."
+
+Il lève les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"De dangereux radicaux qui entendent renverser le pouvoir et tuer les riches. Et donnent à la guerre du Défi des allures de bataille de nourriture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Il secoue la tête. "Des Aedyrans avec bien trop de temps et d'argent. Ils chassent les monstres pour le plaisir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Meztla. Tous les membres de la communauté vénèrent Berath. En renvoyant le plus de personnes possible à la Roue." Il frisonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Parlons d'autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je cherche toujours quelqu'un capable de s'occuper de ces dangereux individus qui rôdent dans les parages. Et vous en êtes capable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"La « perle thermale » que vous avez vue était un œuf de lagufaeth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Si vous le dites... Mais attention à vos doigts lorsqu'il grandira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"La Société étincelante n'existe plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Je vous ai apporté la tête de Firedorn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Je suis ici pour la prime du Pavillon de chasse de l'Ancienne Dunryd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Meztla de la Communauté religieuse des Crânes satisfaits est morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Beaucoup de gens seront ravis de l'apprendre. On doit à tout prix éviter une autre grande guerre. Tenez, c'est pour vous." Il vous donne une bourse remplie de pièces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous m'en voyez soulagé ! Bien que fou, ce type aurait pu causer des problèmes. Tenez, c'est pour vous." Il vous donne une bourse remplie d'argent sonnant et trébuchant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Béni soit Galawain. Et merci à vous, également. À vrai dire, j'avais peur que ces imbéciles déferlent sur le village et brûlent ce qu'il en reste." Il vous donne une bourse pleine à craquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Il sourit. "Quelle ironie, n'est-ce pas ? Elle a entrepris de tuer des gens pour Berath et au final, c'est... Enfin, peu importe. Prenez la prime." Il vous tend une bourse remplie de pièces sonnantes et trébuchantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je vous cherchais partout, [Player Name] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tout... est de la faute... d'Haeferic... C'est lui qui m'a envoyé... à l'autre bout de la ville... vous... chercher."
+
+Il se relève enfin. Il s'essuie le front ruisselant d'un revers de la main, puis vous la tend pour vous dire bonjour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Serrez-lui la main.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Bouchez-vous le nez, puis serrez-lui la main.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Gardez ça pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Je crois bien avoir attrapé quelque chose. C'est sûrement contagieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ravi de vous rencontrer. Je suis le capitaine de la milice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Enchanté."</DefaultText>
+      <FemaleText>"Enchantée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vraiment ? Je ne vous ai pas vu lors de l'attaque des ogres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Que voulez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Eh bien, je montais la garde au Refuge du gréf. Il fallait bien quelqu'un pour veiller à ce que les ogres ne le brûlent pas comme la maison de Keydy. Quelle tragédie !" 
+
+Il fronce les sourcils et secoue la tête d'un air solennel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Il retire sa main et se remet à tousser, les joues brillantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Il vous prend vigoureusement la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je voulais vous voir avant que vous ne partiez. Et vous mettre en garde contre de dangereux individus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je l'ai aperçue aux sources chaudes près des Chutes de Longue-vue. Je m'apprêtais à la récupérer quand j'ai vu des lagufaeth... Ils étaient une cinquantaine !"
+
+Il ouvre les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Elles se forment dans les sources chaudes. Cela doit avoir un rapport avec leur teneur en minéraux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Je vois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"De quoi parlez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Elles soignent le scorbut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Comme je vous l'ai dit, la perle se trouve dans un des bassins thermaux, près des Chutes de Longue-vue. Vous devriez facilement la trouver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Elles vous nettoient les intestins, vous comprenez ? Cette alimentation à base de poisson et de gibier est rude pour l'organisme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Elles se trouvent à l'est de Stalwart. La vue sur la vallée est magnifique, mais tout le monde l'évite en ce moment. Les créatures sauvages y sont légion et quelques centimètres de neige suffisent à bloquer le passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"On a notre lot d'illuminés dans le coin. Étrangers au village pour la plupart." Il éclate de rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"La Société étincelante et la Communauté religieuse des Crânes satisfaits sont les derniers groupes dont j'ai entendu parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Le duc Aevar et le régent de Readceras les ont interdits... Un des rares points sur lesquels ils sont d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Quoi qu'il en soit, allez jeter un coup d'œil aux Chutes de Longue-vue situées à l'est d'ici. C'est là qu'ils ont été aperçus pour la dernière fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Mais ils ne laissent dans leur sillage que désolation et cadavres... d'êtres civilisés. Ils ont été condamnés pour différents délits, de meurtre notamment, à la Baie du défi, la Nouvelle-Heomar et une dizaine d'autres villes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ils ont été aperçus en train de chasser dans les Bois de Russet et vous pourriez aller y jeter un coup d'œil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Je sais que ça semble bizarre. Moi-même, je n'y ai pas cru jusqu'à ce que j'apprenne qu'ils avaient incendié un avant-poste au nord des Chutes de la vierge. Pour éradiquer un nid de wurms, à ce qu'il paraît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"La dernière fois que j'en ai entendu parler, ils avaient établi un camp près des Chutes de Longue-vue. Vous ne devriez pas avoir de mal à les repérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ils traînent aux alentours de la Batterie de Durgan et seul Wael en connaît la raison. Mais vous comprendrez aisément pourquoi personne ici n'a été ravi de l'apprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Si vous les croisez, attention. Ils sont imprévisibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je crains de ne pas avoir plus de primes à offrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Il lève les yeux et voit la créature se dandiner dans la neige.
+
+Sa mâchoire claque en silence pendant quelques secondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>La petite créature redresse la tête et pose ses yeux bleus et globuleux sur Tealdor.
+
+Sa mâchoire claque en silence pendant quelques secondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Je n'en ai jamais vu de si petite taille. Mais la petite créature semble particulièrement docile."
+
+Il se gratte la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Et si je vous l'achetais ? Les troupes de passage en seraient ravies." Il se penche pour mieux observer le lagufaeth qui se tortille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Il est à vous pour cinq cents pands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Non. Je le garde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Cela me semble raisonnable." Il vous donne l'argent et s'empare du lagufaeth. Il se tortille et mordille ses doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Il vous lance un regard en coin. "Vous ne pensez quand même pas que je vais accepter ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Montrez-lui le lagufaeth.] "Il vient de la « perle thermale »."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ne le faites pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ils ont traversé la ville récemment. Ils ne sont pas restés longtemps, mais ils se sont arrêtés au temple d'Ondra. Allez voir Lafda, elle sait peut-être quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Bien sûr. Je vous dirai ce que je sais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"On m'a signalé des agissements de personnes dangereuses. Ils pourraient peut-être aussi vous intéresser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Les nouvelles primes que vous avez mentionnées m'intéressent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Il s'agit des Disciples de la Vraie flamme et du Pavillon de chasse de l'Ancienne-Dunryd." Il secoue la tête.
+
+"Tous les autres que vous avez affrontés ne sont que des agneaux en comparaison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous vous dirigez vers les contrées sauvages ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Bonjour. On m'a dit que je vous trouverais là." Un homme trapu et rougeaud vous offre un sourire plaisant, bien que bizarre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ou cela aurait pu être le cas, avant tous ces meurtres et ce chaos dans la Baie du défi." Il fronce les sourcils et se frotte la nuque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Partez.] "Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"En fait... Je l'ai déjà trouvée ! J'ai juste besoin que quelqu'un aille la récupérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

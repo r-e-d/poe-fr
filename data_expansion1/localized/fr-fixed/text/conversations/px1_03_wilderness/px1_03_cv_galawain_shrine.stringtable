@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_galawain_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ce simple sanctuaire est recouvert d'une épaisse couche de neige, de feuilles mortes et de plumes. Une paire d'ossements courbes flanquent l'autel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Placez le totem sur l'autel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examinez le sanctuaire plus attentivement.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Le sanctuaire ne semble pas être très fréquenté, bien que des traces de cire de bougie ancienne couvrent les bords de la pierre. 
+
+Sous une couche de givre, vous remarquez une section rectangulaire de la surface de l'autel, qui semble être plus nette que le reste, comme si quelque chose reposait là.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>L'autel ne semble pas avoir été touché depuis votre dernière visite. le vent siffle doucement dans les os courbés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Alors que vous replacez le totem sur le sanctuaire, le vent se lève soudainement, emportant la neige poudreuse et les feuilles dans les airs. 
+
+Au loin, vous entendez les cris des chiens portés par la brise, et l'atmosphère s'épaissit avec l'odeur et le goût du cuivre et de la poudre à canon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Les yeux gravés de l'ours semblent luire, des points cramoisis contre les ténèbres soudaines et grandissantes. 
+
+Des ombres légères rôdent dans l'arrière-plan de l'autel en pierre, et pendant un moment ou le temps semble se suspendre, vous avez la sensation d'être emporté par un courant de peur et de férocité, le frisson de la poursuite et la panique d'être poursuivi.</DefaultText>
+      <FemaleText>Les yeux gravés de l'ours semblent luire, des points cramoisis contre les ténèbres soudaines et grandissantes. 
+
+Des ombres légères rôdent dans l'arrière-plan de l'autel en pierre, et pendant un moment ou le temps semble se suspendre, vous avez la sensation d'être emportée par un courant de peur et de férocité, le frisson de la poursuite et la panique d'être poursuivi.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dans le lointain, vous entendez un hurlement funèbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Pendant un moment, les yeux gravés de l'ours semblent luire, jusqu'à disparaître, comme un feu mourant. Bientôt le sanctuaire a retrouvé son calme et le silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Touchez l'autel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>En posant vos doigts sur l'autel, vous ressentez un picotement dans votre bras. Dans les instants qui suivent, le vent semble s'amenuiser tout comme les sons de la nature qui deviennent de plus en plus imperceptibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Puis vous entendez soudainement un lent hurlement, rapidement rejoint par d'autres. Une vision vous frappe comme un souvenir immédiat, bien qu'il ne soit lié ni au temps ni à l'endroit. 
+
+Dans une mer de ténèbres, vous voyez une grande créature sans forme, à part ses griffes luisantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Elle grogne et craque avec un désespoir et une sauvagerie croissantes, et pendant un moment sa rage devient la vôtre, une fureur possessive qui s'arrache à vous. 
+
+Quelque chose a été pris, votre territoire est menacé et le sang en sera le prix...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>La vision s'efface aussi rapidement qu'elle est apparue. L'autel redevient silencieux et l'air se remplit à nouveau des pépiements occasionnels d'oiseaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Enfin, vous êtes libéré et les ombres se fondent sous le clair de lune.</DefaultText>
+      <FemaleText>Enfin, vous êtes libérée et les ombres se fondent sous le clair de lune.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Enfin, vous êtes libéré et les ombres se fondent sous la lumière du jour.</DefaultText>
+      <FemaleText>Enfin, vous êtes libérée et les ombres se fondent sous la lumière du jour.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>La vision disparaît aussi vite qu'elle est apparue. Seul le chant occasionnel d'un oiseau vient rompre le silence qui règne près de l'autel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

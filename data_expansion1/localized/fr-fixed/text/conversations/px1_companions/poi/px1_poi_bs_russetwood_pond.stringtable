@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\poi\px1_poi_bs_russetwood_pond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Apparemment, il n'y a pas de danger..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Attention, Itumaak. Ça glisse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"À vous l'honneur. Ce corps n'est pas idéal pour nager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quelqu'un a envie de se baigner ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je pense qu'on peut traverser sans crainte, sauf si je me transforme accidentellement en monstre géant. Pourvu que ça n'arrive pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ne craignez rien, Gardien. Je pèse mon poids, mais j'ai appris à avancer le pied léger en marchant sur des charbons ardents."</DefaultText>
+      <FemaleText>"Ne craignez rien, Gardienne. Je pèse mon poids, mais j'ai appris à avancer le pied léger en marchant sur des charbons ardents."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hm. On n'a pas l'habitude de la glace sur la côte sud. À vous l'honneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous devriez tester cette glace avec quelque chose de lourd pour en avoir le cœur net. Que diriez-vous d'un prêtre un peu gras qui ne sait pas se taire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Il paraît que c'est horrible de tomber dans la glace. Mais je peux revenir plus tard si le moment est mal choisi."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

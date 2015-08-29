@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_01_ogre_camp\px1_01_si_chute</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une large colonne serpente dans les profondeurs de la terre. Des débris et des carcasses à moitié rongées sont éparpillés sur le bord, mais en contrebas des lueurs sont visibles le long des parois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Accrochez un grappin.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Descendez le long de la corde.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bien qu'attiré par le trésor, vous continuez à descendre dans la glissière. La caverne ouverte se rétrécit encore pour former un tunnel incliné.   
+
+La lumière du dessous donne des nuances bleu-vert à la glace. Vous êtes proche de la sortie.</DefaultText>
+      <FemaleText>Bien qu'attirée par le trésor, vous continuez à descendre dans la glissière. La caverne ouverte se rétrécit encore pour former un tunnel incliné.   
+
+La lumière du dessous donne des nuances bleu-vert à la glace. Vous êtes proche de la sortie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Les parois de la glissière se referment sur vous à mesure que vous vous rapprochez de la sortie. La paroi devient glissante et vous avez du mal à trouver des points d'appui.  
+
+[Player Name], qui a du mal à s'agripper à la corde, se démet une épaule à la sortie du tunnel, juste avant d'accéder à la caverne ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous accrochez votre grappin à une stalagmite qui vous semble robuste et tirez sur la corde pour évaluer sa solidité.  
+
+Ça tient. Vous lancez donc l'autre extrémité dans le noir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Tentez une descente à mains nues.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous trouvez suffisamment de fissures dans la glace pour descendre à l'aide de votre pioche et atteignez le fond sans incident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous poursuivez votre descente. La caverne ouverte se rétrécit encore pour former un tunnel incliné.   
+
+La lumière du dessous donne des nuances bleu-vert à la glace. Vous êtes proche de la sortie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>La glissière disparaît dans l'obscurité. Dans les profondeurs, vous apercevez des ossements éparpillés et de la boue gelée coincée dans la glace.  
+
+Une odeur rance de viande pourrie flotte dans l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Examinez les environs.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>La glace qui tapisse les parois de la glissière semble glissante et lisse. Elle n'offrira aucun point d'appui. L'écho qui retentit des profondeurs indique que le fond est très loin.  
+
+Mais vous repérez une épaisse stalagmite non loin de vous. Elle semble suffisamment robuste pour soutenir une corde et un grappin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous vous agrippez à la corde et tentez de trouver un point d'appui sur la glace glissante. Vous vous laissez lentement descendre en cherchant des fissures dans la glace marbrée et sale.   
+
+Au bout de quelques minutes, l'entrée de la glissière disparaît au-dessus de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>La descente nécessite davantage de patience que de force car vous devez bien regarder où vous posez les pieds.  
+
+Tout à coup, la glissière se transforme en vaste caverne. Vous descendez prudemment en gardant vos doigts engourdis agrippés à la corde. Vous ne voyez toujours pas le fond.  
+
+Mais une lueur attire votre regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Remontez vers l'entrée de la glissière.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Balancez-vous avec la corde pour atteindre le rebord.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Descendez le long de la corde.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vous décidez de remonter le long de la corde.   
+
+La lumière qui vous surplombe guide votre ascension, et vous parvenez à trouver des points d'appui pour remonter.  
+
+Quelques minutes plus tard, vous êtes de retour dans la caverne. Le sol est ferme sous vos pieds et la glissière est derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous vous balancez d'un côté à l'autre en prenant de l'élan. La corde grince sous votre poids, mais le rebord n'est plus très loin.   
+
+Vous continuez à vous balancer.   
+
+Au moment où vos doigts frôlent l'affleurement, un terrible craquement résonne dans la glissière et la corde cède sous votre poids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous voyez un petit affleurement accroché à la paroi voisine. Des restes de squelettes sont agglutinés sur le bord, et entre les ossements, vous remarquez une faible lueur.  
+
+Le bord de l'affleurement est si proche que vous pensez être en mesure de l'atteindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Essayez à nouveau d'atteindre le rebord.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Pensant que la corde est solidement accrochée, vous vous balancez.   
+
+Vous prenez rapidement de la vitesse et l'affleurement semble bientôt à votre portée.   
+
+Vous finissez par attraper le rebord et parvenez à vous hisser près des squelettes enchevêtrés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Malgré le risque, vous décidez de faire une nouvelle tentative pour atteindre le rebord. Vous vous balancez avec la corde.   
+
+Lorsque la vitesse est suffisante, vous vous préparez à rejoindre l'affleurement.   
+
+Un bruit métallique résonne au-dessus de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Remontez prudemment à la corde pour la consolider.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous décidez d'ancrer le grappin à un autre support.   
+
+De là où vous êtes, vous ne voyez pas si la corde est encore fixée, mais vous savez qu'à la moindre maladresse, elle risque de lâcher et de vous faire chuter.  
+
+Qui allez-vous envoyer pour remonter à la corde et consolider le grappin ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Montez à la corde pour consolider le grappin vous-même.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Envoyez [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Envoyez [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Envoyez [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Envoyez [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Envoyez [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Envoyez [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Trouvez une autre solution.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vous commencez à monter à la corde. 
+
+Elle craque et grince à chaque traction, mais vos mains habiles et vos déplacements agiles la stabilisent. 
+
+Après un effort considérable, vous atteignez le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Le sommet de la stalagmite a cédé et votre grappin ne tient plus qu'à un fil.  
+
+Vous libérez le grappin et le plantez solidement dans la base épaisse de la stalagmite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous commencez à monter à la corde.   
+
+Elle craque et grince à chaque traction. Vous faites de votre mieux pour stabiliser la corde, mais elle se balance de plus en plus.  
+
+Soudain, elle glisse de son point d'ancrage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 0] commence à monter à la corde.   
+
+Elle craque et grince à chaque traction, mais les mains habiles et les déplacements agiles de [Slot 0] la stabilisent.   
+
+Après un effort considérable, [Slot 0] atteint le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Le sommet de la stalagmite a cédé et le grappin ne tient plus qu'à un fil.   
+
+[Slot 0] libère le grappin et le plante solidement dans la base épaisse de la stalagmite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Le grappin glisse de son point d'ancrage.   
+
+En prenant de la vitesse, vous entendez le vent siffler à vos oreilles et un cri déchirant s'échappe de votre gorge.  
+
+En tombant dans l'étroit tunnel, vous percutez la paroi rocheuse et glacée, tandis que le monde tourbillonne autour de vous. Vous finissez votre course folle dans une caverne ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous regardez [Slot 0] monter à la corde.   
+
+Elle craque et grince à chaque traction. [Slot 0] tente de stabiliser la corde, mais elle se balance dangereusement.   
+
+Soudain, la corde glisse. Vous entendez [Slot 0] pousser un juron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 1] commence à monter à la corde.   
+
+Elle craque et grince à chaque traction, mais les mains habiles et les déplacements agiles de [Slot 1] la stabilisent.   
+
+Après un effort considérable, [Slot 1] atteint le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Le sommet de la stalagmite a cédé et le grappin ne tient plus qu'à un fil.   
+
+[Slot 1] libère le grappin et le plante solidement dans la base épaisse de la stalagmite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Vous regardez [Slot 1] monter à la corde.   
+
+Elle craque et grince à chaque traction. [Slot 1] tente de stabiliser la corde, mais elle se balance dangereusement.   
+
+Soudain, la corde glisse. Vous entendez [Slot 1] pousser un juron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Slot 2] commence à monter à la corde.   
+
+Elle craque et grince à chaque traction, mais les mains habiles et les déplacements agiles de [Slot 2] la stabilisent.   
+
+Après un effort considérable, [Slot 2] atteint le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Le sommet de la stalagmite a cédé et le grappin ne tient plus qu'à un fil.   
+
+[Slot 2] libère le grappin et le plante solidement dans la base épaisse de la stalagmite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Vous regardez [Slot 2] monter à la corde.   
+
+Elle craque et grince à chaque traction. [Slot 2] tente de stabiliser la corde, mais elle se balance dangereusement.   
+
+Soudain, la corde glisse. Vous entendez [Slot 2] pousser un juron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 3] commence à monter à la corde.   
+
+Elle craque et grince à chaque traction, mais les mains habiles et les déplacements agiles de [Slot 3] la stabilisent.   
+
+Après un effort considérable, [Slot 3] atteint le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Le sommet de la stalagmite a cédé et le grappin ne tient plus qu'à un fil.   
+
+[Slot 3] libère le grappin et le plante solidement dans la base épaisse de la stalagmite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous regardez [Slot 3] monter à la corde.   
+
+Elle craque et grince à chaque traction. [Slot 3] tente de stabiliser la corde, mais elle se balance dangereusement.   
+
+Soudain, la corde glisse. Vous entendez [Slot 3] pousser un juron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 4] commence à monter à la corde.   
+
+Elle craque et grince à chaque traction, mais les mains habiles et les déplacements agiles de [Slot 4] la stabilisent.   
+
+Après un effort considérable, [Slot 4] atteint le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Le sommet de la stalagmite a cédé et le grappin ne tient plus qu'à un fil.   
+
+[Slot 4] libère le grappin et le plante solidement dans la base épaisse de la stalagmite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Vous regardez [Slot 4] monter à la corde.   
+
+Elle craque et grince à chaque traction. [Slot 4] tente de stabiliser la corde, mais elle se balance dangereusement.   
+
+Soudain, la corde glisse. Vous entendez [Slot 4] pousser un juron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Slot 5] commence à monter à la corde.   
+
+Elle craque et grince à chaque traction, mais les mains habiles et les déplacements agiles de [Slot 5] la stabilisent.   
+
+Après un effort considérable, [Slot 5] atteint le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Le sommet de la stalagmite a cédé et le grappin ne tient plus qu'à un fil.   
+
+[Slot 5] libère le grappin et le plante solidement dans la base épaisse de la stalagmite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Vous regardez [Slot 5] monter à la corde.   
+
+Elle craque et grince à chaque traction. [Slot 5] tente de stabiliser la corde, mais elle se balance dangereusement.   
+
+Soudain, la corde glisse. Vous entendez [Slot 5] pousser un juron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ne sachant pas combien de temps la corde tiendra, vous décidez de faire ressortir tout le monde.   
+
+La corde se balance et craque sous le poids de votre groupe. Soudain, vous sentez une secousse.  
+
+La corde descend de quelques centimètres. Elle tient encore, mais sûrement pas assez pour vous permettre de remonter tous en même temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ne sachant pas combien de temps la corde tiendra, vous décidez de remonter.   
+
+La corde se balance et grince sous votre poids. Soudain, vous sentez une secousse.  
+
+La corde descend de quelques centimètres. Elle tient encore, mais sûrement pas assez pour vous permettre de remonter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Montez prudemment pour sortir de la glissière.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous commencez à monter à la corde. 
+
+Elle craque et grince à chaque traction, mais vos mains habiles et vos déplacements agiles la stabilisent. 
+
+Après un effort considérable, vous atteignez le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Après une terrifiante chute libre de quelques instants, la corde se raccroche.  
+
+Bien que vous soyez trop loin pour le voir, vous supposez que votre grappin s'est accroché quelque part dans la paroi de glace.  
+
+Il tient. Du moins, pour le moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Compte tenu de la précarité de la situation, vous pensez qu'il est préférable de descendre au plus vite.   
+
+Vous vous laissez prudemment glisser le long de la corde tout en essayant de la stabiliser. Elle semble tenir. La caverne ouverte se rétrécit encore pour former un tunnel incliné.   
+
+La lumière du dessous donne des nuances bleu-vert à la glace. Vous êtes proche de la sortie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Les parois de la glissière se referment sur vous à mesure que vous vous rapprochez de la sortie. Vous avez du mal à trouver des points d'appui.
+
+[SkillCheck 0] glisse sur la glace. Ce mouvement soudain fait tressauter la corde. Elle crisse, et vous entendez un bruit métallique au-dessus de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Le grappin commence à lâcher.   
+
+Dans votre chute, vous entendez le vent siffler à vos oreilles et un cri déchirant s'échappe de votre gorge.  
+
+En tombant dans l'étroit tunnel, vous percutez la paroi rocheuse et glacée, tandis que le monde tourbillonne autour de vous. Vous finissez votre course folle dans une caverne ouverte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Vous vous approchez de la glissière, à l'extrémité de la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Vous vous approchez de la glissière, à l'extrémité de la caverne. La stalagmite est complètement déchiquetée et il n'y a aucun autre point d'ancrage en vue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Vous vous agrippez à la corde, qui continue à grincer au-dessus de vous, et réfléchissez aux solutions possibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Un sac en cuir est à moitié enfoui sous les ossements et quelque chose brille à l'intérieur.  
+
+Vous le ramassez.   
+
+Vous tirez ensuite doucement sur la corde et remontez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Votre grappin bien accroché, vous redescendez vers le point le plus large de la glissière, à l'endroit où vous avez vu l'affleurement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Le grappin bien accroché, [Slot 0] redescend pour vous rejoindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Le grappin bien accroché, [Slot 1] redescend pour vous rejoindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Le grappin bien accroché, [Slot 2] redescend pour vous rejoindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Le grappin bien accroché, [Slot 3] redescend pour vous rejoindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Le grappin bien accroché, [Slot 4] redescend pour vous rejoindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Le grappin bien accroché, [Slot 5] redescend pour vous rejoindre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Vous commencez à monter à la corde. 
+
+Elle craque sous votre poids, mais votre agilité et vos réflexes vous permettent de la stabiliser. 
+
+Après un effort considérable, vous atteignez le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Vous commencez à monter à la corde. 
+
+Elle craque et grince, mais votre faible poids et votre agilité vous permettent de la stabiliser. 
+
+Après une ascension rapide, vous atteignez le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Vous commencez à monter à la corde. 
+
+Elle craque et grince, mais votre faible poids et votre agilité vous permettent de la stabiliser. 
+
+Après une ascension rapide, vous atteignez le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Vous commencez à monter à la corde. 
+
+Elle craque vous votre poids, mais votre agilité et vos réflexes vous permettent de la stabiliser. 
+
+Après un effort considérable, vous atteignez le haut de la glissière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Sachant maintenant où poser les pieds, vous descendez rapidement pour rejoindre la caverne et son affleurement.  
+
+Une fois sur place, vous vous arrêtez pour réfléchir aux solutions qui s'offrent à vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Accrochez le grappin à la stalagmite cassée.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Le grappin tient à peine sur la stalagmite, dont le sommet a cédé sous votre poids. Vous le descendez le long de la colonne de la formation rocheuse et parvenez à le fixer solidement à sa base.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>En tombant, un éclair de lucidité vous traverse l'esprit.  
+
+Que devez-vous faire ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Jetez le sort Armure de la foi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Faites appel à [Slot 0] pour protéger le groupe avec le sort Armure de la foi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Faites appel à [Slot 1] pour protéger le groupe avec le sort Armure de la foi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Faites appel à [Slot 2] pour protéger le groupe avec le sort Armure de la foi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Faites appel à [Slot 3] pour protéger le groupe avec le sort Armure de la foi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Faites appel à [Slot 4] pour protéger le groupe avec le sort Armure de la foi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Faites appel à [Slot 5] pour protéger le groupe avec le sort Armure de la foi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Préparez-vous à l'impact.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>En tombant, vous faites appel à votre pouvoir divin pour jeter le sort Armure de la foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Pendant votre chute, [Slot 0] parvient à jeter le sort Armure de la foi sur le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Pendant votre chute, [Slot 1] parvient à jeter le sort Armure de la foi sur le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Pendant votre chute, [Slot 2] parvient à jeter le sort Armure de la foi sur le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Pendant votre chute, [Slot 3] parvient à jeter le sort Armure de la foi sur le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Pendant votre chute, [Slot 4] parvient à jeter le sort Armure de la foi sur le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Pendant votre chute, [Slot 5] parvient à jeter le sort Armure de la foi sur le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Le grappin glisse de son point d'ancrage.   
+
+En prenant de la vitesse, vous entendez le vent siffler à vos oreilles et un cri déchirant s'échappe de votre gorge.  
+
+En tombant dans l'étroit tunnel, vous percutez la paroi rocheuse et glacée, tandis que le monde tourbillonne autour de vous. Vous finissez votre course folle dans une caverne ouverte. Par chance, votre protection divine a absorbé le choc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Jetez le sort Saut de dragon pour vous protéger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Votre chute stimule votre circulation sanguine et vos muscles se tendent pour vous donner une force surnaturelle.   
+
+Vous vous préparez à l'impact en espérant parvenir à absorber le choc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Le grappin glisse de son point d'ancrage.   
+
+En prenant de la vitesse, vous entendez le vent siffler à vos oreilles et un cri déchirant s'échappe de votre gorge.  
+
+En tombant dans l'étroit tunnel, vous percutez la paroi rocheuse et glacée, tandis que le monde tourbillonne autour de vous. Vous finissez votre course folle dans une caverne ouverte. Par chance, votre pouvoir a absorbé le choc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Vous commencez à monter à la corde.   
+
+Elle grince et se balance dangereusement sous votre poids.  
+
+Soudain, elle glisse de son point d'ancrage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Vous rejoignez la grotte située en contrebas, sans encombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

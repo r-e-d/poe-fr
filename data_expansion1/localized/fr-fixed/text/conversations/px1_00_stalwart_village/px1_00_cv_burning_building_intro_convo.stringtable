@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_cv_burning_building_intro_convo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Par pitié, vous devez faire quelque chose ! Des gens sont toujours piégés à l'intérieur !" 
+
+L'homme met les mains sur la tête et regarde, horrifié, la maison en feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"À l'aide ! La maison s'écroule !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qui se trouve à l'intérieur ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Écartez-vous. Je vais aller les chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Écartez-vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"C'est Keydy, sire - le toit s'est écroulé sur elle ! Et le garde qui est allé la secourir est entouré par les flammes !"</DefaultText>
+      <FemaleText>"C'est Keydy, m'dame - le toit s'est écroulé sur elle ! Et le garde qui est allé la secourir est entouré par les flammes !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je n'ai pas la force pour la sortir ni aucun moyen de lutter contre ces flammes. Je vous en prie !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je vous l'ai dit, Keydy et Lurgolder !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ne restez pas là si vous comptez ne rien faire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je vous en prie, dépêchez-vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous voulez que j'entre dans cette maison en feu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Quelqu'un doit le faire !"
+
+Il s'éloigne de vous pour continuer à demander de l'aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"On doit faire quelque chose, [Player Name] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Que comptez-vous faire, [Player Name] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Pas de temps à perdre ! Je vais y aller moi-même si vous ne faites rien !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vous y êtes arrivé ! Vous les avez sauvés tous les deux !"</DefaultText>
+      <FemaleText>"Vous y êtes arrivée ! Vous les avez sauvés tous les deux !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Keydy ! Que les dieux soient loués, vous l'avez sauvée !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Lurgolder ! Grâce aux dieux, il est vivant !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ils sont partis ! Tous les deux !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"La maison de Keydy est en flammes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vite, ils sont tous les deux dedans !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tout va bien ? J'étais persuadé qu'elle allait s'écrouler et vous emporter avec." L'homme s'essuie le front et regarde la maison qui s'effondre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Par la grâce d'Ondra, heureusement que Keydy et Lurgolder s'en sont sortis." Ses yeux s'élargissent alors qu'une partie du toit s'effondre.
+
+Il se tourne vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Au moins vous avez pu sortir Keydy. Quant au pauvre Lurgolder..." Ses yeux s'élargissent alors qu'une partie du toit s'effondre.
+
+Il détourne le regard, secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Au moins vous avez pu sortir Lurgolder. Quant à la pauvre Keydy..." Ses yeux s'élargissent alors qu'une partie du toit s'effondre.
+
+Il détourne le regard, secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"C'est dommage pour Lurgolder et Keydy. Ils- " Ses yeux s'élargissent alors qu'une partie du toit s'effondre.
+
+Il détourne le regard, secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>J'étais persuadé qu'elle allait s'écrouler et emporter votre ami." L'homme s'essuie le front et regarde la maison qui s'effondre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Vous avez l'air d'avoir besoin d'un verre. Apportez cela à Haeferic et buvez à ma santé." Ils vous envoie quelques os plats et gravés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Nous sortirons le reste quand ces flammes se seront éteintes. Allez prendre un verre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Quelqu'un, à l'aide !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

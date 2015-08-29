@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\poi\px1_poi_bs_battery_entry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Calme-toi, Itumaak. Je le ressens, moi aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je les entends... se remémorer à voix basse des souvenirs lointains. Ils sont ici, Gardien."</DefaultText>
+      <FemaleText>"Je les entends... se remémorer à voix basse des souvenirs lointains. Ils sont ici, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Il fait encore plus froid ici. Ce n'est pas normal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"J'ai l'impression qu'on ne veut pas de nous ici. Comme un fermier dont la fille est trop belle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"L'atmosphère en est imprégnée, Gardien. La mort rôde encore."</DefaultText>
+      <FemaleText>"L'atmosphère en est imprégnée, Gardienne. La mort rôde encore."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Que Wael me pardonne, mais je n'ai pas très envie de percer les mystères de ce lieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Autrefois, nous dormions dans des endroits comme celui-là, pour vaincre notre peur de la mort. Et je n'ai pas très envie de revivre ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

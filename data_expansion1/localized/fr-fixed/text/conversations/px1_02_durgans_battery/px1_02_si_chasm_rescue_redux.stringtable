@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_02_durgans_battery\px1_02_si_chasm_rescue_redux</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>164</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Au secours ! S'il vous plaît, je suis là, en bas !" 
+
+Debout sur un affleurement étroit, à bonne distance du bord du gouffre, un villageois agite désespérément les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le villageois est hors d'atteinte et il serait difficile d'escalader à mains nues la paroi accidentée du gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Nouez une corde autour de votre taille et accrochez-la.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Nouez une corde autour de la taille de [Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nouez une corde autour de la taille de [Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nouez une corde autour de la taille de [Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Nouez une corde autour de la taille de [Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Nouez une corde autour de la taille de [Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Nouez une corde autour de la taille de [Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous enroulez la longueur de la corde autour de votre taille et faites un nœud bien serré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous enroulez la longueur de la corde autour de votre taille et la serrez. Vous avez bon espoir que le nœud tienne bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[SkillCheck 0] connaît les nœuds comme personne et s'avance pour accrocher la corde à votre taille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous enroulez la longueur de la corde autour de votre taille et la serrez de votre mieux. Vous ne savez pas vraiment si le nœud tiendra bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>En regardant vers le bas, vous voyez une autre corniche, plus petite celle-là, sur le côté du gouffre. Vous pourriez y sauter, mais vous ne savez pas si elle supportera votre poids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>L'homme piégé se colle contre la paroi du gouffre. "Je vous en prie, faites vite ! La glace commence à se fissurer !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Sautez sur la corniche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Descendez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Remontez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Dans un accès de courage, vous sautez dans le gouffre. Vous vous écrasez violemment et l'affleurement enneigé bouge dangereusement sous vos pieds, mais vous parvenez à vous stabiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Dans un accès de courage, vous sautez dans le gouffre. Vous sautez à la perfection et atterrissez gracieusement sur la corniche. L'affleurement grince sous vos pieds, mais ne cède pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Sur la corniche, vous avez quelques instants pour examiner ce qui vous entoure. Le villageois piégé se trouve presque directement sous vous et observe, l'air effrayé, votre progression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Dans un accès de courage, vous sautez dans le gouffre. Vous atterrissez violemment et la glace vous fait glisser. Les parois du gouffre se rapprochent alors que vous glissez et tombez à la renverse. 
+
+Votre nuque heurte violemment la glace. Une douleur soudaine vous étourdit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Vous vous accrochez fermement à la corde et descendez prudemment jusqu'à la corniche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous entendez un craquement inquiétant dans la glace située en contrebas. 
+
+L'homme piégé laisse échapper un cri. "Vite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sur la corniche, vous prenez quelques instants pour examiner ce qui vous entoure. Plusieurs pans de la falaise située en contrebas semblent composés de fines couches de glace, telles des fenêtres situées sur le côté du gouffre.
+
+La glace est ponctuée de bulles d'air et vous y déplacer trop rapidement pourrait la fissurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Examinez les environs.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Descendez en rappel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Continuez de descendre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vous prenez le temps de bien vous positionner. Plusieurs pans de la falaise située en contrebas semblent composés de fines couches de glace, telles des fenêtres sur les parois du gouffre.
+
+La glace est ponctuée de bulles d'air et vous y déplacer trop rapidement pourrait la fissurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vous vous accrochez fermement à la corde, la tirant à plusieurs reprises pour vous assurer qu'elle tient bon, puis sautez de la corniche. Vous vous trouvez à bonne distance lorsque vous remarquez que vous vous balancez, pieds vers l'avant, en direction de ce qui semble être une fine couche de glace.
+
+Vous ajustez votre prise et optez pour un pan de roche visiblement plus résistant, évitant la glace.
+
+Vous ajustez votre prise, vous vous contorsionnez et réussissez à atterrir à la surface sans l'ébranler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Prudemment, vous continuez à descendre la falaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je ne pense pas que cela tiendra bien longtemps !" 
+
+Vous entendez un petit bruit, suivi d'un cri aigu. En regardant vers le bas, vous constatez que l'homme a glissé avant de réussir à s'accrocher juste à temps à la paroi pour se stabiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous vous accrochez fermement à la corde, la tirant à plusieurs reprises pour vous assurer qu'elle tient bon, puis sautez de la corniche. Vous vous trouvez à bonne distance lorsque vous remarquez que vous vous balancez, pieds vers l'avant, en direction de ce qui semble être une fine couche de glace.
+
+Vous vous réceptionnez violemment et des morceaux de glace volent en éclats. Vous entendez le villageois crier alors qu'il tente de se protéger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Tout en franchissant le fragile pan de glace, vous notez que le vent commence à forcir. Des bourrasques glaciales s'engouffrent dans vos vêtements en hurlant. 
+
+Tout près, vous notez la présence d'une étroite brèche dans le mur de la caverne et pourriez vous y réfugier en attendant que le vent faiblisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Continuez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Cachez-vous dans la brèche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Vous vous accrochez fermement à la corde, la tirant à plusieurs reprises pour vous assurer qu'elle tient bon, puis sautez de la corniche. Vous vous trouvez à bonne distance au-dessus de ce qui semble être une fine couche de glace.
+
+Vous ajustez votre prise et optez pour un pan de roche visiblement plus résistant, évitant la glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Inquiet, le villageois vous appelle. "Je vous en prie, aidez-moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Alors que vous vous libérez de la petite cavité que vous avez creusée dans le mur de glace, vous avez l'impression que le vent forcit. Des bourrasques glaciales s'engouffrent dans vos vêtements en hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Le froid vous engourdit les doigts, mais vous continuez, avec détermination. Malgré le vent qui vous fouette, vous poursuivez votre lente descente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vous vous accrochez à la falaise, mais le froid vous engourdit les doigts, et une bourrasque plus violente que les autres vous déséquilibre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>La corde se tend et vous enserre douloureusement les flancs et après une embardée, vous vous immobilisez. Vous posez fermement les pieds sur la paroi du gouffre et descendez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>La corde se tend et vous enserre douloureusement les flancs et après une embardée, vous vous immobilisez. Le nœud de la corde se desserre et vous l'agrippez rapidement au point de vous démettre l'épaule. 
+
+Vous posez fermement les pieds sur la paroi du gouffre et descendez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vous vous réfugiez dans la cavité, offrant à vos bras un répit bien mérité. Après un long moment, le vent finit par faiblir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous profitez de cette accalmie pour continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Enfin, vous arrivez tout près du villageois piégé. Il vous tend la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Mais alors que celle-ci se trouve à quelques centimètres de vous, l'affleurement situé sous ses pieds cède et l'homme commence à tomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Vous l'agrippez et le hissez. Il vous enlace et s'accroche à vous. Des pans de la corniche commencent à tomber dans l'obscurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vous relâchez légèrement la corde, faites un mouvement rapide en direction de l'homme et réussissez à le retenir juste avant qu'il ne tombe. La corde située autour de votre taille vous retient tous les deux douloureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Vous relâchez légèrement la corde, faites un mouvement rapide en direction de l'homme et réussissez à le retenir juste avant qu'il ne tombe. La corde située autour de votre taille vous retient tous les deux douloureusement, mais le nœud se défait. 
+
+Dans un moment de panique, vous vous cramponnez à la corde pour ne pas tomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Précipitez-vous vers lui.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Regardez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Vous entendez les cris de l'homme bien après qu'il soit tombé dans l'obscurité. Au bout de quelques instants, un craquement sinistre retentit dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Vous relâchez légèrement la corde, faites un mouvement rapide en direction de l'homme et réussissez à le retenir juste avant qu'il ne tombe. La corde située autour de votre taille vous retient tous les deux, mais le nœud se défait. 
+
+De votre main libre, vous empoignez rapidement la corde, refusant de lâcher le villageois. En proie à de multiples pressions, votre épaule vous fait atrocement souffrir, mais vous tenez bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vous remontez et rejoignez la corniche pour vous mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Jetez le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Dans un effort de concentration, vous vous jetez un sort protecteur. Le vent glacial n'a aucun effet sur vous et vous poursuivez votre descente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Le villageois bien accroché à vous, vous commencez votre ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Votre épaule foulée gène votre montée. La douleur s'intensifie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>À chaque mouvement, l'homme que vous portez crie de douleur. Vous sentez qu'il commence à lâcher prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Enfin, vous atteignez le sommet et parvenez à vous mettre à l'abri sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Montez plus vite.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Appelez vos camarades à l'aide.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Continuez de le tenir d'une main.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Continuez de monter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Soudain, vous entendez un bruit sourd et constatez que le villageois a glissé. Il se cramponne désespérément à la glace, mais la corniche toute entière finit par vaciller et céder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous accélérez la cadence et grimpez rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers vous regardent et tentent de remonter la corde. 
+
+Vous tenez fermement la corde et parvenez à vous hisser pour vous mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Mais votre impressionnante force vous permet de continuer de monter à un rythme régulier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Tentant de dépasser votre fatigue, vous vous lancez vers le sommet. Mais dans la précipitation, vous trébuchez et votre pied glisse sur la paroi glacée de la falaise. Ce soudain mouvement déséquilibre l'homme qui commence à tomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Vous progressez de manière régulière vers le côté du gouffre, le villageois secouru bien accroché à vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers vous regardent et tentent de remonter la corde. 
+
+Mais malgré leurs efforts combinés, ils ont bien du mal à vous hisser. Vous avancez lentement et douloureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Vous relâchez légèrement la corde, faites un mouvement rapide en direction de l'homme et réussissez à le retenir juste avant qu'il ne tombe. La corde située autour de votre taille vous retient tous les deux douloureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Vous tentez de lui tendre la main, mais une douleur soudaine au niveau de votre épaule foulée vous en empêche. Le villageois tombe dans l'obscurité. Ses cris retentissent dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Vous accélérez la cadence et grimpez rapidement. La foulure de votre épaule ralentit votre progression, mais vous continuez en dépit de la douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Vous relâchez légèrement la corde, faites un mouvement rapide en direction de l'homme et réussissez à le retenir juste avant qu'il ne tombe. La corde située autour de votre taille vous retient tous les deux, mais le nœud se défait. 
+
+De votre main libre, vous empoignez rapidement la corde, refusant de lâcher le villageois. En proie à de multiples pressions, votre épaule vous fait atrocement souffrir, mais vous tenez bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Vous relâchez légèrement la corde, faites un mouvement rapide en direction de l'homme et réussissez à le retenir juste avant qu'il ne tombe. La corde située autour de votre taille vous retient tous les deux douloureusement, mais le nœud se défait. 
+
+Dans un moment de panique, vous vous cramponnez à la corde pour ne pas tomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Une fois de plus, vous hissez l'homme sur votre dos et montez pour vous mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Vous enroulez une longueur de corde autour de votre botte, puis empoignez le bras de l'homme. Vous aidant d'une seule main, vous continuez malgré tout votre progression régulière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Vous essayez de bien tenir l'homme, mais votre ascension ralentit et vous avancez très lentement. Malgré vos efforts, vous finissez par céder à la fatigue et le relâcher pour vous concentrer sur la montée.
+
+L'emprise de l'homme continue de faiblir. Alors que vous vous approchez du sommet, il glisse soudain de votre dos et plonge dans l'abysse situé en contrebas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>L'emprise de l'homme continue de faiblir. Alors que vous vous approchez du sommet, il glisse soudain de votre dos et plonge dans l'abysse situé en contrebas.
+
+Ses cris retentissent dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers vous regardent et tentent de remonter la corde. 
+
+Vous tenez fermement la corde et parvenez à vous hisser pour vous mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers vous regardent et tentent de remonter la corde. 
+
+Vous tenez fermement la corde et parvenez à vous hisser pour vous mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Vous tentez de lui tendre la main, mais une douleur soudaine au niveau de votre épaule foulée vous en empêche. Le villageois tombe dans l'obscurité. Ses cris retentissent dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Votre grande connaissance de la nature vous a conduit à maîtriser toutes sortes de nœuds. Vous faites un pas en avant pour nouer la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[SkillCheck 0] tient fermement les nœuds et s'avance pour accrocher la corde à l'aide d'un solide nœud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Vous enroulez la longueur de la corde autour de la taille de [Specified 0] et la nouez de votre mieux. Vous ne savez pas vraiment si le nœud tiendra bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>L'homme piégé se colle contre la paroi du gouffre. "Je vous en prie, faites vite ! La glace commence à se fissurer !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>En regardant vers le bas, [Specified 0] remarque une autre corniche, plus petite celle-là, sur le côté du gouffre. Il semble possible d'y sauter, mais reste à savoir si elle résistera à un tel poids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Sautez sur la corniche la plus proche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Descendez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Remontez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Attendez ! Où allez-vous ?!" En contrebas, vous entendez le villageois vous appeler d'une voix teintée de désespoir. "Je vous en prie, ne partez..." 
+
+Alors qu'il glisse, vous entendez un bruit sourd, puis un craquement de glace suivi d'un cri court et aigu au moment où l'homme plonge dans l'abysse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Attendez ! Où allez-vous ?!" En contrebas, vous entendez le villageois vous appeler d'une voix teintée de désespoir. "Je vous en prie, ne partez..." 
+
+Alors qu'il glisse, vous entendez un bruit sourd, puis un craquement de glace suivi d'un cri court et aigu au moment où l'homme plonge dans l'abysse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Specified 0] remonte et rejoint la corniche pour se mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Specified 0] tient fermement la corde et descend prudemment en direction de la corniche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Un inquiétant craquement se fait entendre dans la glace située en contrebas. 
+
+L'homme piégé laisse échapper un cri. "Vite !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Specified 0] saute dans le gouffre. [Specified 0] s'écrase violemment et l'affleurement enneigé bouge dangereusement sous ses pas, mais il tient bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Specified 0] saute dans le gouffre et se réceptionne gracieusement sur la corniche. L'affleurement grince sous ses pieds, mais ne cède pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Specified 0] saute dans le gouffre. [Specified 0] atterrit violemment et ses bottes glissent sur la glace. [Specified 0] tombe en arrière, en gigotant des bras. 
+
+La nuque de [Specified 0] heurte violemment la glace. Une douleur soudaine étourdit [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Sur la corniche, [Specified 0] prend quelques instants pour examiner ce qui l'entoure. Plusieurs pans de la falaise située en contrebas semblent composés de couches de glace, telles des fenêtres situées sur le côté du gouffre.
+
+La glace est ponctuée de bulles d'air et s'y déplacer trop rapidement pourrait la fissurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Sur la corniche, [Specified 0] prend quelques instants pour examiner ce qui l'entoure. Le villageois piégé se trouve presque juste en dessous et observe, l'air effrayé, la progression de [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Descendez en rappel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Continuez de descendre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Examinez la zone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Specified 0] s'accroche fermement à la corde, la tirant à plusieurs reprises pour s'assurer qu'elle tient bon, puis saute de la corniche. [Specified 0] parcourt une bonne distance avant d'arriver à la fine couche de glace qui recouvre la paroi du gouffre.
+
+[Specified 0] ajuste sa prise et opte pour un pan de roche visiblement plus résistant, évitant la glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Specified 0] s'accroche fermement à la corde, la tirant à plusieurs reprises pour s'assurer qu'elle tient bon, puis saute de la corniche. [Specified 0] parcourt une bonne distance avant d'arriver à la fine couche de glace qui recouvre la paroi du gouffre.
+
+[Specified 0] se tortille et parvient à se réceptionner à la surface sans la faire voler en éclats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Specified 0] s'accroche fermement à la corde, la tirant à plusieurs reprises pour s'assurer qu'elle tient bon, puis saute de la corniche. [Specified 0] se trouve à bonne distance pour finir, pieds vers l'avant, en direction de ce qui semble être une couche de glace le long de la paroi du gouffre. 
+
+[Specified 0] se réceptionne violemment et des morceaux de glace volent en éclats. Touché par les débris, le villageois gémit de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Specified 0] prend quelques instants pour regarder ce qui l'entoure. Plusieurs pans de la paroi située en contrebas semblent composés de couches de glace, telles des fenêtres situées sur le côté du gouffre.
+
+La glace est ponctuée de bulles d'air et vous y déplacer trop rapidement pourrait la fissurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Inquiet, le villageois appelle. "Je vous en prie, aidez-moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Specified 0] poursuit prudemment sa descente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Je ne pense pas que cela tiendra bien longtemps !" 
+
+Un petit bruit se fait entendre, suivi d'un cri aigu. En regardant vers le bas, [Specified 0] constate que l'homme a glissé mais a réussi à s'accrocher juste à temps à la paroi pour se stabiliser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Alors que [Specified 0] se libère de la cavité creusée dans la paroi du gouffre, le vent commence à forcir. Des bourrasques glaciales s'engouffrent dans les vêtements de [Specified 0] en hurlant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Tout en franchissant le fragile pan de glace, [Specified 0] note que le vent commence à forcir. Des bourrasques glaciales s'engouffrent dans les vêtements de [Specified 0] en hurlant.
+
+Tout près, une étroite brèche dans le mur de la caverne pourrait servir de refuge en attendant que le vent faiblisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Continuez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Jetez le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Réfugiez-vous dans la brèche.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Specified 0] se réfugie dans la crevasse. Après un long moment, le vent finit par faiblir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Profitant de l'accalmie, [Specified 0] continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Soudain, un bruit sourd se fait entendre et [Specified 0] constate que le villageois a glissé. Il se cramponne désespérément à la glace, mais la corniche toute entière finit par vaciller et céder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Dans un effort de concentration, [Specified 0] jette un sort protecteur. Le vent glacial n'a aucun effet et [Specified 0] poursuit sa descente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Protégé du vent glacial, [Specified 0] poursuit sa descente.</DefaultText>
+      <FemaleText>Protégée du vent glacial, [Specified 0] poursuit sa descente.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Specified 0] s'accroche désespérément à la glace, mais une bourrasque particulièrement violente le détache de la paroi.</DefaultText>
+      <FemaleText>[Specified 0] s'accroche désespérément à la glace, mais une bourrasque particulièrement violente la détache de la paroi.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>La corde se tend et enserre douloureusement les flancs de [Specified 0] et après une embardée, [Specified 0] s'immobilise.
+
+Le vent semble progressivement se calmer et [Specified 0] poursuit sa descente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>La corde se tend enserre douloureusement les flancs de [Specified 0] et après une embardée, [Specified 0] s'immobilise. Le nœud de la corde se desserre et [Specified 0] s'y agrippe rapidement au point de se démettre l'épaule. 
+
+Le vent semble progressivement se calmer et [Specified 0] poursuit sa descente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Enfin, [Specified 0] arrive tout près du villageois piégé et lui tend la main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Mais alors que celle-ci se trouve à quelques centimètres, l'affleurement situé sous les pieds de l'homme piégé cède et celui-ci commence à tomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Specified 0] l'agrippe et le hisse. Le villageois enserre son bienfaiteur. Des pans de l'affleurement commencent à tomber dans l'obscurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Le villageois bien accroché, [Specified 0] commence son ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>L'épaule foulée de [Specified 0] gène sa montée. La douleur s'intensifie au fil des secondes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>À chaque mouvement, l'homme que porte [Specified 0] crie de douleur. [Specified 0] commence à lâcher prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[Specified 0] progresse de manière régulière vers le côté du gouffre, le villageois secouru bien cramponné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Vous chancelez et votre cadence commence à ralentir. Le villageois pousse un cri et vous sentez qu'il commence à lâcher prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Précipitez-vous vers lui.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[Regardez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Les cris de l'homme se font entendre bien après qu'il est tombé dans l'obscurité. Au bout de quelques instants, un craquement sinistre retentit dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Specified 0] le rattrape, mais un soudain accès de douleur lui tétanise le bras.
+
+Le villageois tombe dans l'obscurité. Ses cris retentissent dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Specified 0] se précipite vers l'homme et réussit à le rattraper juste à temps. La corde située autour de la taille de [Specified 0] les retient tous les deux douloureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Specified 0] se précipite vers l'homme et réussit à le rattraper juste à temps. La corde située autour de la taille de [Specified 0] les retient tous les deux, mais le nœud se défait. 
+
+Rapidement, [Specified 0] attrape la corde d'une main et le villageois de l'autre. En proie à de multiples pressions, [Specified 0] ressent une douleur intense à l'épaule, mais tient bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Specified 0] se précipite vers l'homme et réussit à le rattraper juste à temps. La corde située autour de la taille de [Specified 0] les retient tous les deux, mais le nœud se défait. 
+
+Dans un moment de panique, [Specified 0] se cramponne des deux mains à la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Enfin, [Specified 0] atteint le sommet et parvient à se mettre à l'abri sur le côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Mais la force impressionnante de [Specified 0] lui permet de poursuivre son ascension à un rythme régulier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[Specified 0] chancelle et ralentit la cadence. Rapidement, le villageois pousse un cri et [Specified 0] sent qu'il commence à lâcher prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Accélérez la cadence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Appelez ceux qui se trouvent au-dessus à l'aide.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Aidez-vous d'une main pour le tenir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Continuez de monter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>L'emprise de l'homme continue de faiblir. Alors que [Specified 0] approche du sommet, il glisse soudain de votre dos et plonge dans l'abysse situé en contrebas.
+
+Ses cris retentissent dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[Specified 0] reprend le rythme et progresse rapidement dans le gouffre. L'épaule foulée de [Specified 0] ralentit sa progression, mais [Specified 0] continue en dépit de la douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Specified 0] reprend le rythme et progresse rapidement dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Tentant de dépasser sa fatigue, [Specified 0] se lance vers le sommet. Mais dans la précipitation, [Specified 0] trébuche et son pied glisse sur la paroi glacée de la falaise. Ce soudain mouvement déséquilibre le villageois qui commence à tomber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Specified 0] tente de le rattraper, mais un soudain accès de douleur lui tétanise le bras. 
+
+Le villageois tombe dans l'obscurité. Ses cris retentissent dans le gouffre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Specified 0] se précipite vers l'homme et réussit à le rattraper juste à temps. La corde située autour de la taille de [Specified 0] les retient tous les deux douloureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>[Specified 0] se précipite vers l'homme et réussit à le rattraper juste à temps. La corde située autour de la taille de [Specified 0] les retient tous les deux, mais le nœud se défait. 
+
+Rapidement, [Specified 0] attrape la corde d'une main et le villageois de l'autre. En proie à de multiples pressions, [Specified 0] ressent une douleur intense à l'épaule, mais tient bon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>[Specified 0] se précipite vers l'homme et réussit à le rattraper juste à temps. La corde située autour de la taille de [Specified 0] les retient tous les deux, mais le nœud se défait. 
+
+Dans un moment de panique, [Specified 0] se cramponne des deux mains à la corde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Specified 0] enroule une longueur de corde autour de sa botte, puis empoigne le bras de l'homme. S'aidant d'une seule main, [Specified 0] continue malgré tout sa progression régulière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Specified 0] essaie de bien tenir l'homme, mais son ascension ralentit sérieusement. Malgré ses efforts, [Specified 0] finit par céder à la fatigue et à relâcher le villageois pour se concentrer sur la montée.
+
+L'emprise de l'homme continue de faiblir. Alors que [Specified 0] approche du sommet, il glisse subitement du dos de [Specified 0] et plonge dans l'abysse en contrebas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers regardent et tentent de remonter la corde. 
+
+[Specified 0] tient fermement la corde et parvient à se hisser pour se mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers regardent et tentent de remonter la corde. 
+
+[Specified 0] tient fermement la corde et parvient à se hisser pour se mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers regardent et tentent de remonter la corde. 
+
+[Specified 0] tient fermement la corde et parvient à se hisser pour se mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Au bord du gouffre, des visages familiers regardent et tentent de remonter la corde. 
+
+Mais malgré leurs efforts combinés, ils ont bien du mal à hisser [Specified 0]. Sa progression est lente et douloureuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Une fois de plus, [Specified 0] hisse l'homme sur son dos et continue de monter pour se mettre à l'abri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Inquiet, le villageois appelle. "Je vous en prie, aidez-moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

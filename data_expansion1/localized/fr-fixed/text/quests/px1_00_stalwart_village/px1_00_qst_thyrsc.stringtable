@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_qst_thyrsc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La faveur du chasseur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pourchassez le loup d'hiver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Abattez votre proie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez auprès de Thyrsc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez auprès de Thyrsc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez auprès de Thyrsc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retournez auprès de Thyrsc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retournez dans la caverne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Affrontez la bête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Trouvez Thyrsc dans Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Trouvez Thyrsc dans Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Thyrsc, un des meilleurs chasseurs de Stalwart, a trouvé son égal en la personne d'un loup rusé qui a systématiquement ruiné ses efforts pour le piéger et le tuer. Tandis que ses blessures récentes l'empêchent de lancer lui-même une nouvelle tentative, Thyrsc espère que la créature pourra être éliminée avant qu'elle ne s'en prenne à d'autres villageois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Thyrsc a décrit sa chasse d'un loup dangereux et très grand qui s'en prend aux villageois dans les Bois de Russet. Selon Thyrsc, le loup a son repaire dans les environs, bien qu'il n'ait pu déterminer son emplacement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai pisté le loup jusque dans son repaire, et je dois à présent l'y affronter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Le loup que pourchassait Thyrsc était plus qu'une bête, c'était un druide, si imprégné de son esprit animal qu'il ne pouvait plus interagir rationnellement avec ses semblables. Il ne m'a pas laissé d'autre choix que de le tuer. Thyrsc serait heureux d'avoir un rapport sur la situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Le totem ayant été rapporté au sanctuaire de Galawain, Suldrun a pu retrouver sa forme de druide et son état normal. Il a été bouleversé par cette épreuve, et a décidé de retourner auprès de Thyrsc. Le vieux chasseur sera assurément surpris de le voir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Le totem ayant été rapporté au sanctuaire de Galawain, Suldrun a pu retrouver sa forme de druide et son état normal. Il avait honte de tous les méfaits commis sous l'emprise de la malédiction de Galawain, et a décidé de quitter Stalwart plutôt qu'affronter à nouveau son père. Thyrsc voudra sans aucun doute connaître le résultat de mes efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Suldrun est mort tout comme la 'créature' qui menaçait les chasseurs de Stalwart. Thyrsc pourrait être intéressé de connaître le produit de ma chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai rapporté le totem gravé au sanctuaire de Galawain dans les Bois de Russet et j'ai eu une vision. Il semble que quelque chose a changé dans ces bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>J'ai rencontré une étrange créature sauvage dans une caverne gelée des Bois de Russet. À en juger par le nombre d'ossements qui s'y trouvent, elle se nourrit d'être civilisés depuis quelque temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Une fois le totem restitué au sanctuaire de Galawain, Suldrun a réussi à retrouver son apparence druidique. Ébranlé par cette épreuve, il a décidé de retourner auprès de son père, Thyrsc. Ce dernier sera certainement surpris de l'apprendre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Une fois le totem restitué au sanctuaire de Galawain, Suldrun a réussi à retrouver son apparence druidique. Honteux de ses vils agissements commis alors qu'il était sous l'emprise de Galawain, il a décidé de quitter Stalwart plutôt que d'affronter une nouvelle fois son père, Thyrsc. Ce dernier voudra certainement en savoir plus sur le fruit de mes efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé la carcasse à moitié dévorée d'un cerf dans la nature, juste au sud du lac gelé. Il semble que cela soit l'œuvre d'un grand prédateur, et j'ai trouvé à proximité des empreintes menant vers le nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé une touffe de poils de loup accrochée à une ronce, juste à l'est du lac gelé. Le loup a dû récemment évoluer dans la zone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé une piste menant jusqu'à un groupe d'arbres courbés et une clairière recouverte d'ossements. Je pense avoir trouvé le repaire du loup.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Le 'loup' que j'y ai trouvé ressemble davantage à une personne capable d'une transformation animale, bien qu'il soit incapable de communiquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Mes capacités de Gardien m'ont donné une vision de ce qui semble avoir été le passé du druide. Dans la vision, un jeune homme a pris un totem dans un sanctuaire de Galawain. Toute tentative de retrouver sa forme humaine a échoué et il s'est retrouvé prisonnier de cette autre enveloppe. Peut-être le totem a-t-il un lien avec tout ceci ; il pourrait encore se trouver dans l'ancien site de campement où il a été abandonné.</DefaultText>
+      <FemaleText>Mes capacités de Gardienne m'ont donné une vision de ce qui semble avoir été le passé du druide. Dans la vision, un jeune homme a pris un totem dans un sanctuaire de Galawain. Toute tentative de retrouver sa forme humaine a échoué et il s'est retrouvé prisonnier de cette autre enveloppe. Peut-être le totem a-t-il un lien avec tout ceci ; il pourrait encore se trouver dans l'ancien site de campement où il a été abandonné.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Thyrsc a confirmé que le loup qu'il pourchassait n'est pas une créature commune, mais un druide, plus particulièrement son fils. Suldrun a pris la forme d'un loup pour combattre un ogre qui est tombé sur leur camp, et il a ensuite attaqué son propre père avant de s'enfuir dans la nature. Thyrsc a perdu l'espoir de revoir son fils, et m'a exhorté d'assurer la sécurité des habitants de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Il y a un sanctuaire de Galawain à l'intérieur des Bois de Russet. Il semblerait qu'un objet qui décorait le sanctuaire autrefois ait été retiré - un acte qui a généré une grande colère...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Il y a un sanctuaire de Galawain à l'intérieur des Bois de Russet. Il semblerait qu'un objet qui décorait le sanctuaire autrefois ait été retiré - un acte qui a généré une grande colère...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Le 'loup' que j'ai rencontré dans la caverne ressemble étrangement à une créature sous l'effet d'une transformation spirituelle, mais n'était pas en mesure de communiquer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Mes capacités de Gardien m'ont permis de percevoir chez cette créature un passé druidique. Dans cette vision, un jeune homme dérobait le totem d'un sanctuaire dédié à Galawain. Il a ensuite tenté de retrouver son apparence druidique, mais piégé dans sa nouvelle enveloppe, il n'y est parvenu. Le totem y est peut-être pour quelque chose... Et peut-être se trouve-t-il toujours à l'ancien campement où il a été abandonné.</DefaultText>
+      <FemaleText>Mes capacités de Gardienne m'ont permis de percevoir chez cette créature un passé druidique. Dans cette vision, un jeune homme dérobait le totem d'un sanctuaire dédié à Galawain. Il a ensuite tenté de retrouver son apparence druidique, mais piégé dans sa nouvelle enveloppe, il n'y est parvenu. Le totem y est peut-être pour quelque chose... Et peut-être se trouve-t-il toujours à l'ancien campement où il a été abandonné.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai trouvé un totem d'ours près d'un camp abandonné depuis longtemps. Il ressemble à celui de ma vision, celui dérobé d'un sanctuaire dédié à Galawain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quelqu'un d'une importance critique dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai tué la créature selon la volonté de Thyrsc. Il était reconnaissant de mes actions, même s'il pleure encore la perte de son fils. Peut-être la forêt occidentale sera-t-elle plus sûre à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai tué le druide capable de transformation animale, mettant un terme à ses prédations contre les chasseurs de Stalwart. Thyrsc était reconnaissant de mes actions, même s'il pleure encore la perte de son fils. Peut-être la forêt occidentale sera-t-elle plus sûre à présent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Le totem ayant été rapporté au sanctuaire de Galawain, Suldrun a pu retrouver son état normal. Il a rejoint son père à Stalwart. Cela pourra prendre du temps, mais peut-être trouveront-ils la paix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Le totem ayant été rapporté au sanctuaire de Galawain, Suldrun a pu retrouver son état normal. Se sentant honteux de ses méfaits, il a décidé de fuir Stalwart, et cherche à refaire sa vie loin de ses crimes. Pour le moment, la créature a disparu, et Thyrsc peut abandonner sa chasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Le totem ayant été rapporté au sanctuaire de Galawain, Suldrun a pu retrouver son état normal. Cependant, il a été bouleversé d'apprendre la mort de Thyrsc et m'a attaqué, me forçant à le tuer.</DefaultText>
+      <FemaleText>Le totem ayant été rapporté au sanctuaire de Galawain, Suldrun a pu retrouver son état normal. Cependant, il a été bouleversé d'apprendre la mort de Thyrsc et m'a attaquée, me forçant à le tuer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Le totem ayant été rapporté au sanctuaire de Galawain, Suldrun a pu retrouver son état normal. Je l'ai tué une fois qu'il avait recouvré sa forme originale, et j'ai mis un terme à la chasse de Thyrsc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Il y a un sanctuaire de Galawain à l'intérieur des Bois de Russet. Il semblerait qu'un objet qui décorait le sanctuaire autrefois ait été retiré - un acte qui a généré une grande colère...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Une créature en proie à la transformation spirituelle a élu domicile dans une caverne des Bois de Russet et menace les chasseurs des environs.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

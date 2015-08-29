@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_03_wilderness\px1_03_cv_cursed_estoc_progression</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'estoc émet un bruit sourd en s'approchant de la machine engwithane. Quelque chose décrit un arc entre la lame en acier et le cœur en adra de l'ancien dispositif.
+
+Les voix de l'estoc se calment et l'arme semble avoir gagné en puissance.
+
+Une nouvelle inscription apparaît sur sa lame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le sol se dérobe sous vos pieds et quelque chose d'invisible semble en sortir. 
+
+Une essence, à peine perceptible, s'échappe du cimetière. Le Dormeur gris semble s'en nourrir et les étranges voix se taisent.
+
+Un autre vers brille dans l'acier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Une impressionnante puissance émane des piliers d'adra. Elle résonne dans le Dormeur gris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Agenouillez-vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Alors que vous vous agenouillez, les voix du Dormeur gris se teintent d'une douce et paisible harmonie. La lame se charge d'une dernière dose d'énergie et les voix se taisent.
+
+Vous sentez la malédiction se rompre telle une corde élimée.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

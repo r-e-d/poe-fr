@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_00_stalwart_village\px1_00_tsk_galvino</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La pénitence du pêcheur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fouillez la pêcherie de nuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retournez auprès de Galvino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Galvino en veut à Grynde, le pêcheur en chef de Stalwart. Il souhaite que je rende publique l'addiction de Grynde à l'éponge ridée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Galvino pense que Grynde cache un stock d'éponges ridées quelque part dans la pêcherie.
+
+Il m'a prévenu qu'il fallait fouiller le bâtiment la nuit, quand tous les pêcheurs sont chez eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Je me suis occupé de Grynde. Galvino voudra savoir comment les choses se sont déroulées.</DefaultText>
+      <FemaleText>Je me suis occupée de Grynde. Galvino voudra savoir comment les choses se sont déroulées.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quelqu'un d'une importance critique dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai tué Grynde avant de découvrir quoi que ce soit d'incriminant. Galvino était déçu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Grynde m'a tendu une embuscade et je l'ai tué. Galvino était satisfait, bien qu'il aurait préféré voir Grynde complètement déshonoré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Galvino était heureux d'apprendre que Grynde allait quitter la ville en disgrâce. Il m'a bien récompensé.</DefaultText>
+      <FemaleText>Galvino était heureux d'apprendre que Grynde allait quitter la ville en disgrâce. Il m'a bien récompensée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Grynde m'a convaincu de ne pas le dénoncer. Galvino sera peut-être déçu, mais je pense avoir fait le bon choix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Grynde m'a remercié pour l'avoir informé du complot de Galvino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Grynde a acheté mon silence. Galvino sera déçu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai rencontré Grynde, le pêcheur en chef de Stalwart. Il est assez bourru, mais il semble très fier de son rôle.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
