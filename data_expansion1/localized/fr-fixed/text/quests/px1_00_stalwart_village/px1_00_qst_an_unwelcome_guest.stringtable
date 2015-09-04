@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px1_00_stalwart_village\px1_00_qst_an_unwelcome_guest</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>24</EntryCount>
+  <EntryCount>25</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -123,6 +123,11 @@ Elle m'a demandé de l'attirer sur les routes. Elle m'a promis une part de sa pr
     <Entry>
       <ID>30006</ID>
       <DefaultText>Ailef ne mérite pas forcément d'être réduit en esclavage, mais c'est un meurtrier, j'ai décidé de le faire prisonnier. Cela le fera au moins sortir de l'auberge d'Haeferic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Defala et Ailef sont morts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

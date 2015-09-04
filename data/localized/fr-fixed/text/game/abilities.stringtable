@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1424</EntryCount>
+  <EntryCount>1426</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Crée une manifestation physique toxique de l'antipathie mutuelle entre le clairvoyant et la cible ennemie. Tous les personnages qui se retrouvent pris entre les deux subissent des dégâts corrosifs.</DefaultText>
+      <DefaultText>Crée une manifestation physique toxique de l'antipathie mutuelle entre le clairvoyant et la cible ennemie. Tous les enemies qui se retrouvent pris entre les deux subissent des dégâts corrosifs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7146,6 +7146,17 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     <Entry>
       <ID>1597</ID>
       <DefaultText>Détruit entièrement tout esprit dont le niveau est inférieur à celui de l'attaquant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    </Entry>
+    <Entry>
+      <ID>1600</ID>
+      <DefaultText>Détruit entièrement tout esprit dont le niveau est inférieur à celui de l'attaquant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1601</ID>
+      <DefaultText>Destruction d'esprits</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
