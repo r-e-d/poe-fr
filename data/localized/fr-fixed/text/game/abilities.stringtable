@@ -6090,7 +6090,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1230</ID>
-      <DefaultText>Permet de jeter des sorts de niveau 1 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 1 supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6100,7 +6100,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>Permet de jeter des sorts de niveau 2 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 2 supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6110,7 +6110,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>Permet de jeter des sorts de niveau 3 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 3 supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6120,7 +6120,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Permet de jeter des sorts de niveau 4 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 4 supplémentaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7055,7 +7055,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1528</ID>
-      <DefaultText>Le paladin utilise le sort Imposition des mains lorsque l'endurance d'un allié est inférieure à 50 %. Utilise le sort Exhortation de libération lorsqu'un allié est soumis à un effet de statut hostile de plus de 5 secondes. Utilise le sort Exhortation de renforcement sur un allié qui est attaqué par plus de deux ennemis. Utilise le sort Exhortation de ranimation sur le premier allié qui perd connaissance au combat (s'il ne dispose pas des capacités Deuxième chance ou Indomptable). Utilise le sort Exhortation d'empressement une fois par rencontre sur les alliés dans l'ordre de préférence suivant : bandits, moines, barbares, rôdeurs, paladins, combattants et tous les autres (uniquement si le paramètre Par repos est activé). L'Endurance zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
+      <DefaultText>Le paladin utilise Imposition des mains lorsque l'endurance d'un allié est inférieure à 50 %. Utilise Exhortation de libération lorsqu'un allié est soumis à un statut hostile de plus de 5 sec. Utilise le sort Exhortation de renforcement sur un allié qui est attaqué par plus de 2 ennemis. Utilise le sort Exhortation de ranimation sur le premier allié qui perd connaissance (s'il ne dispose pas des capacités Deuxième chance ou Indomptable). Utilise Exhortation d'empressement une fois par rencontre sur les alliés dans l'ordre de préférence suivant : bandits, moines, barbares, rôdeurs, paladins, combattants et tous les autres (uniquement si le paramètre Par repos est activé). L'Endurance zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
