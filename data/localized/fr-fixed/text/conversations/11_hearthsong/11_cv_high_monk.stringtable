@@ -9,23 +9,19 @@
       <DefaultText>Le moine se masse les tempes, le visage caché dans ses mains. En vous entendant approcher, il lève les yeux. "Il faudrait installer une porte digne de ce nom dans cette pièce", marmonne-t-il. 
 
 "Mes frères et moi avons loué cette chambre pour avoir un peu d'intimité sur ce territoire étranger. Il y a sûrement une chambre de libre pour vous dans cette auberge..."</DefaultText>
-      <FemaleText>La moniale se masse les tempes, le visage caché dans ses mains. En vous entendant approcher, elle lève les yeux. "Il faudrait installer une porte digne de ce nom dans cette pièce", marmonne-t-elle. 
-
-"Mes frères et moi avons loué cette chambre pour avoir un peu d'intimité sur ce territoire étranger. Il y a sûrement une chambre de libre pour vous dans cette auberge..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Donnez-moi ça !", s'exclame le moine en vous arrachant la missive des mains. Presque aussitôt, son visage devient écarlate, "Je veux dire, s'il vous plaît, c'est très important !"</DefaultText>
-      <FemaleText>"Donnez-moi ça !", s'exclame la moniale en vous arrachant la missive des mains. Presque aussitôt, son visage devient écarlate, "Je veux dire, s'il vous plaît, c'est très important !"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Il retourne la missive et découvre le sceau rompu. Il vous lance un regard noir, le front plissé de colère. "Vous avez rompu le sceau ! Vous avez fait irruption dans la vie privée de notre ordre !" 
 
 Le moine jette la missive par terre et lève le poing en adoptant une posture de combat.</DefaultText>
-      <FemaleText>Elle retourne la missive et découvre le sceau rompu. Elle vous lance un regard noir, le front plissé de colère. "Vous avez rompu le sceau ! Vous avez fait irruption dans la vie privée de notre ordre !" 
-
-La moniale jette la missive par terre et lève le poing en adoptant une posture de combat.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -57,9 +53,7 @@ La moniale jette la missive par terre et lève le poing en adoptant une posture 
       <DefaultText>Les yeux du moine s'écarquillent et il serre les poings. "La même robe que nous, dites-vous ? Avait-il quelque chose sur lui ? Vous a-t-il dit ou remis quelque chose ? Je vous en prie, nous attendons un membre de notre ordre, alors si vous l'avez trouvé..." 
 
 Tous les moines baissent les yeux et se mettent à murmurer des incantations, à l'unisson, pour leur ami défunt.</DefaultText>
-      <FemaleText>Les yeux de la moniale s'écarquillent et elle serre les poings. "La même robe que nous, dites-vous ? Avait-il quelque chose sur lui ? Vous a-t-il dit ou remis quelque chose ? Je vous en prie, nous attendons un membre de notre ordre, alors si vous l'avez trouvé..." 
-
-Tous les moines baissent les yeux et se mettent à murmurer des incantations, à l'unisson, pour leur ami défunt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -74,16 +68,14 @@ Tous les moines baissent les yeux et se mettent à murmurer des incantations, à
     <Entry>
       <ID>13</ID>
       <DefaultText>"Nous allons là où nos enseignements nous conduisent", marmonne le moine d'une voix posée, "mais cela ne vous regarde pas."</DefaultText>
-      <FemaleText>"Nous allons là où nos enseignements nous conduisent", marmonne la moniale d'une voix posée, "mais cela ne vous regarde pas."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>En vous voyant approcher, le moine s'incline. Le ton de sa voix est grave et trahit son impatience. 
 
 "Si vous voulez quelque chose, parlez. Sinon, laissez-nous. Nous ne voulons pas d'ennuis, et nous avons le droit d'être ici."</DefaultText>
-      <FemaleText>En vous voyant approcher, la moniale s'incline. Le ton de sa voix est grave et trahit son impatience. 
-
-"Si vous voulez quelque chose, parlez. Sinon, laissez-nous. Nous ne voulons pas d'ennuis, et nous avons le droit d'être ici."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -105,9 +97,7 @@ Tous les moines baissent les yeux et se mettent à murmurer des incantations, à
       <DefaultText>Après avoir rompu le sceau, le moine déroule le manuscrit et lit le message en retenant son souffle. 
 
 Il se tourne vers ses frères, "Mes frères, l'Archimartyr s'est manifesté ! Nous avons enfin ce que nous cherchions."</DefaultText>
-      <FemaleText>Après avoir rompu le sceau, la moniale déroule le manuscrit et lit le message en retenant son souffle. 
-
-Elle se tourne vers ses frères, "Mes frères, l'Archimartyr s'est manifesté ! Nous avons enfin ce que nous cherchions."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -116,11 +106,7 @@ Elle se tourne vers ses frères, "Mes frères, l'Archimartyr s'est manifesté !
 Le moine rougit et sourit pour la première fois. "Je suis content de voir que la décence n'a pas disparu de ce monde." 
 
 Il sort quelque chose des plis de sa robe. "Tenez, votre honnêteté doit être récompensée."</DefaultText>
-      <FemaleText>"Merci, étrangère", dit le moine en joignant les mains devant lui tout en s'inclinant profondément. "Votre honnêteté est remarquable. Je dois admettre que j'ai été surpris... lorsque vous m'avez tendu le message, car je m'attendais à ce que le sceau soit rompu." 
-
-Le moine rougit et sourit pour la première fois. "Je suis content de voir que la décence n'a pas disparu de ce monde." 
-
-Il sort quelque chose des plis de sa robe. "Tenez, votre honnêteté doit être récompensée."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -155,7 +141,7 @@ Il sort quelque chose des plis de sa robe. "Tenez, votre honnêteté doit être 
     <Entry>
       <ID>30</ID>
       <DefaultText>Le moine vous lance un regard furieux en secouant la tête. Ses frères et lui se jettent sur vous.</DefaultText>
-      <FemaleText>La moniale vous lance un regard furieux en secouant la tête. Ses frères et elle se jettent sur vous.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -196,7 +182,7 @@ Elle croise les bras et vous lance un regard noir, un sourcil levé.</FemaleText
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Merci, étranger", dit le moine en joignant les mains devant lui tout en s'inclinant profondément. "Votre honnêteté est remarquable. Je dois admettre que j'ai été surpris lorsque vous m'avez tendu le message, car je m'attendais à ce que le sceau soit rompu." 
+      <DefaultText>"Merci, étranger", dit le moine en joignant les mains devant lui tout en s'inclinant profondément. "Votre honnêteté est remarquable. Je dois admettre que j'ai été surpris... lorsque vous m'avez tendu le message, car je m'attendais à ce que le sceau soit rompu." 
 
 Le moine rougit et sourit pour la première fois. "Je suis content de voir que la décence n'a pas disparu de ce monde." 
 
