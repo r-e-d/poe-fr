@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Il faut le faire. Mais je vous préviens, cette bête est redoutable. Son repaire doit se trouver quelque part à l'ouest. Si vous avez l'intention de vous y rendre, faites preuve d'une extrême prudence."</DefaultText>
+      <DefaultText>"Il faut s'en occuper. Mais je vous préviens, cette bête est redoutable. Son repaire doit se trouver quelque part à l'ouest. Si vous avez l'intention de vous y rendre, faites preuve d'une extrême prudence."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,8 +186,8 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"J'aurais aimé pouvoir l'accompagner."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Je suis désolé de ne pas avoir réussi à communiquer avec lui."</DefaultText>
+      <FemaleText>"Je suis désolée de ne pas avoir réussi à communiquer avec lui."</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -609,7 +609,7 @@ La chaleur réchauffe vos membres, le gel et la neige laissent place à l'intér
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Il n'était plus lui-même depuis longtemps. S'il avait été possible de lui faire voir la raison, je l'aurais déjà trouvé. "Thyrsc baisse le regard, les mâchoires serrées.</DefaultText>
+      <DefaultText>"Il n'était plus lui-même depuis longtemps. S'il avait été possible de lui faire voir la raison, je l'aurais déjà trouvé." Thyrsc baisse le regard, les mâchoires serrées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,7 +736,7 @@ Thyrsc grimace et porte une main à sa tempe.</DefaultText>
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>[Désapprouvez.]</DefaultText>
+      <DefaultText>[Haussez les épaules.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -998,7 +998,7 @@ Il regarde Thyrsc et sourit d'un air innocent.</DefaultText>
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"J'adore échanger des histoires. Quelqu'un aurait un tuyau ?"</DefaultText>
+      <DefaultText>"J'adore échanger des histoires. Quelqu'un aurait une pipe ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

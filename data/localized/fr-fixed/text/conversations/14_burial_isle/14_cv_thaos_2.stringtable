@@ -40,9 +40,7 @@ Thaos se tient devant la machine et vous êtes avec lui. Vous regardez la foule.
       <DefaultText>Vous vous tournez vers la machine, le souffle court sous le poids de connaissances dont vous vous seriez bien passé, vous préparant à entreprendre seul un interminable voyage. Vous fermez les yeux, puis les rouvrez... La machine est devant vous et vous appelle. 
 
 Vous vous placez devant elle, apposez les mains sur un grand disque mécanique situé au pied de l'immense colonne de cristal et prononcez un seul mot. De gigantesques anneaux s'animent en grinçant. Ils accélèrent, déploient d'immenses orifices incandescents et font trembler la plate-forme située sous vos pieds.</DefaultText>
-      <FemaleText>Vous vous tournez vers la machine, le souffle court sous le poids de connaissances dont vous vous seriez bien passée, vous préparant à entreprendre seule un interminable voyage. Vous fermez les yeux, puis les rouvrez... La machine est devant vous et vous appelle. 
-
-Vous vous placez devant elle, apposez les mains sur un grand disque mécanique situé au pied de l'immense colonne de cristal et prononcez un seul mot. De gigantesques anneaux s'animent en grinçant. Ils accélèrent, déploient d'immenses orifices incandescents et font trembler la plate-forme située sous vos pieds.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -63,15 +61,11 @@ Une par une, les vrilles se volatilisent laissant apparaître des effigies de ce
 Vous penchez la tête pour acquiescer et lorsque vous relevez les yeux, vous constatez qu'elle a fondu sur le pilier comme de la cire chaude. Le pilier émet un éclair de lumière aussi intense que le soleil, puis cet éclair se dissipe.
 
 La machine ralentit avant de s'arrêter brusquement. Lorsque le dernier écho de ses grinçants engrenages se tait, vous vous retrouvez seul dans la pièce.</DefaultText>
-      <FemaleText>Une fois le dernier arc disparu, la masse spectrale se fige quelques instants. Elle brille d'une telle intensité que vous vous cachez les yeux de votre main. Vous avez l'impression qu'elle vous regarde.
-
-Vous penchez la tête pour acquiescer et lorsque vous relevez les yeux, vous constatez qu'elle a fondu sur le pilier comme de la cire chaude. Le pilier émet un éclair de lumière aussi intense que le soleil, puis cet éclair se dissipe.
-
-La machine ralentit avant de s'arrêter brusquement. Lorsque le dernier écho de ses grinçants engrenages se tait, vous vous retrouvez seule dans la pièce.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>De tous les côtés, la réalité refait surface dans votre mémoire et vous retrouvez votre forme passée, regardant le corps sans vie de Thaos.</DefaultText>
+      <DefaultText>De tous les côtés, la réalité refait surface dans votre mémoire et vous retrouvez votre propre forme, regardant le corps sans vie de Thaos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +139,7 @@ Il frappe une nouvelle fois Thaos du pied. "Et avant que vous le proposiez, sach
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Renvoyez-la dans le cycle.] "Je me souviendrai de ceci, Thaos. Je me souviendrai qu'aucun homme ne peut éternellement cacher la vérité et que rien de ce que vous avez fait n'a servi. Votre mémoire sera votre châtiment."</DefaultText>
+      <DefaultText>[Renvoyez-la dans le cycle.] "Vous vous souviendrez de ceci, Thaos. Souvenez-vous qu'aucun homme ne peut éternellement cacher la vérité et que rien de ce que vous avez fait n'a servi. Votre mémoire sera votre châtiment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +161,7 @@ Il frappe une nouvelle fois Thaos du pied. "Et avant que vous le proposiez, sach
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Vous lui avez offert la possibilité de se racheter dans sa prochaine vie. Une clémence que Thaos ne mérite pas... mais peut-être que le mérite qui est en lui s'illustrera aux yeux du monde dans sa prochaine vie. Espérons que son ancienne nature disparaisse avec ses souvenirs"</DefaultText>
+      <DefaultText>"Vous lui avez offert la possibilité de se racheter dans sa prochaine vie. Une clémence que Thaos ne mérite pas... mais peut-être que le mérite qui est en lui s'illustrera aux yeux du monde dans sa prochaine vie. Espérons que son ancienne nature disparaisse avec ses souvenirs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
