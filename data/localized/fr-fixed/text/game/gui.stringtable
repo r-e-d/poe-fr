@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2041</EntryCount>
+  <EntryCount>2066</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10291,6 +10291,16 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2233</ID>
+      <DefaultText>Reconnaissance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2234</ID>
+      <DefaultText>Invisible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2235</ID>
       <DefaultText>{1} destroyed {0}!</DefaultText>
       <FemaleText />
@@ -10303,6 +10313,121 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2237</ID>
       <DefaultText>Sets the maximum number of rolling autosaves the game will keep for each playthrough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2238</ID>
+      <DefaultText>Immune to {0} damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2239</ID>
+      <DefaultText>Recover immediately</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2241</ID>
+      <DefaultText>{0} {1} Damage per {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2242</ID>
+      <DefaultText>remove all {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2243</ID>
+      <DefaultText>{0} when dealt at least {1} damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2244</ID>
+      <DefaultText>The White March: Part 2 - Installed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2245</ID>
+      <DefaultText>The White March: Part 2 - Not Installed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2246</ID>
+      <DefaultText>The White March: Part 2 - Installed (The White March: Part 1 - Required)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2247</ID>
+      <DefaultText>grant {0} of damage dealt as Focus to {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2248</ID>
+      <DefaultText>Story Time</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2249</ID>
+      <DefaultText> -[{0}]-&gt; </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2250</ID>
+      <DefaultText>Placeholder description of Story Time difficulty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2251</ID>
+      <DefaultText>Mastered {0} Spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2252</ID>
+      <DefaultText>Spell Mastery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2253</ID>
+      <DefaultText>Choose a Camping Bonus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2254</ID>
+      <DefaultText>Summoned Creature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2255</ID>
+      <DefaultText>{0} of incoming Grazes converted to Misses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2256</ID>
+      <DefaultText>{0} Healing received</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2257</ID>
+      <DefaultText>TEMP: Mastering a Spell allows an additional use of Once Per Encounter for that spell. For Wizards, Mastered Spells do not need to be in their grimoire in order to be cast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2260</ID>
+      <DefaultText>{0}-pt {1} Damage Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2261</ID>
+      <DefaultText>{0} when Endurance drops below {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2262</ID>
+      <DefaultText>Occlusion Opacity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2263</ID>
+      <DefaultText>Adjust the opacity of characters when they are occluded by the environment.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

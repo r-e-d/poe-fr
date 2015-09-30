@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_02_durgans_battery\px1_02_galvino</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>139</EntryCount>
+  <EntryCount>145</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -712,7 +712,37 @@ Ces mots et ce qu'ils évoquent pour lui le font ricaner. Il sourit à pleines d
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText />
+      <DefaultText>Script Node 247</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Gellarde. You have finally opened the Battery." He's holding a glass of wine and giving you a wry grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"I would toast your success if it didn't mean the whole of Stalwart at my doorstep." He tosses the rest of the glass back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Galvino holds an open bottle of wine by the neck. He wobbles on his feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"I heard a noise like the crashing of mountains. I ran up to look through the window..." He points unsteadily toward the far end of his workshop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Magnificent. The fires glowing from below..." He shakes his head, and tears spring from his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"And those village bazzos will be here any day now." He takes another swig from his bottle.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_renengild</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>196</EntryCount>
+  <EntryCount>197</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1008,6 +1008,13 @@ Ses yeux brillent et pendant un court instant, elle semble beaucoup plus jeune.<
     <Entry>
       <ID>253</ID>
       <DefaultText>Elle hoche la tête vers vous. "Après tout, il n'y pas grand-chose de mieux que l'acier de Durgan. Si vous pouvez en forger dans votre équipement actuel, vous posséderez un ensemble puissant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"And here - I've been saving these. Some of the last gems we recovered before we had to close the mines. With any luck, we'll have them open again soon." 
+
+She gives you a small pouch. Gemstones twinkle inside.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
