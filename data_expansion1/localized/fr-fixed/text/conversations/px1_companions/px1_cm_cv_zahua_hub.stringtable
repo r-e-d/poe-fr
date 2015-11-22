@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_companions\px1_cm_cv_zahua_hub</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>205</EntryCount>
+  <EntryCount>206</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1090,7 +1090,12 @@ Il soupire.</DefaultText>
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText />
+      <DefaultText>Trigger Conv Node 224</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[Partez.] "C'est tout."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

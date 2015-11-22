@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2066</EntryCount>
+  <EntryCount>2092</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10207,7 +10207,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2204</ID>
-      <DefaultText>{0} des dégâts subis redirigés vers le jeteur du sort comme {1}</DefaultText>
+      <DefaultText>{0} des dégâts subis redirigés vers le jeteur du sort comme des dégâts {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10342,17 +10342,17 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2244</ID>
-      <DefaultText>The White March: Part 2 - Installed</DefaultText>
+      <DefaultText>La Marche blanche : Partie 2 - Installé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2245</ID>
-      <DefaultText>The White March: Part 2 - Not Installed</DefaultText>
+      <DefaultText>La Marche blanche : Partie 2 - Non installé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2246</ID>
-      <DefaultText>The White March: Part 2 - Installed (The White March: Part 1 - Required)</DefaultText>
+      <DefaultText>La Marche blanche : Partie 2 - Installé (La Marche blanche : Partie 1 - Requis)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10402,12 +10402,22 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2256</ID>
-      <DefaultText>{0} Healing received</DefaultText>
+      <DefaultText>Soin reçus {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2257</ID>
-      <DefaultText>TEMP: Mastering a Spell allows an additional use of Once Per Encounter for that spell. For Wizards, Mastered Spells do not need to be in their grimoire in order to be cast. </DefaultText>
+      <DefaultText>Mastering a spell allows a free use of that spell once per encounter. Wizards' mastered spells do not need to be in their grimoire in order to gain the free use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2258</ID>
+      <DefaultText>Access level {0} Camping bonuses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2259</ID>
+      <DefaultText>Grants Second Wind level {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10428,6 +10438,126 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2263</ID>
       <DefaultText>Adjust the opacity of characters when they are occluded by the environment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2264</ID>
+      <DefaultText>Defended by:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2267</ID>
+      <DefaultText>The character's AI will not use any spells or abilities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2268</ID>
+      <DefaultText>Disable Tutorial Messages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2269</ID>
+      <DefaultText>Loading Error</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2270</ID>
+      <DefaultText>There was an error loading the next map. Returned to Main Menu to prevent save game corruption.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2273</ID>
+      <DefaultText>Steals {1} spells of Level {0} or lower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2274</ID>
+      <DefaultText>Stole {0} from {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2279</ID>
+      <DefaultText>Damage Shield</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2280</ID>
+      <DefaultText>Régler la vitesse de jeu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2281</ID>
+      <DefaultText>Parcourir les menus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2283</ID>
+      <DefaultText>Capacité suivante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2284</ID>
+      <DefaultText>Capacité précédente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2285</ID>
+      <DefaultText>Ligne de capacités suivante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2286</ID>
+      <DefaultText>Ligne de capacités précédente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2287</ID>
+      <DefaultText>Sélectionner une capacité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2288</ID>
+      <DefaultText>Sélection Haut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2289</ID>
+      <DefaultText>Sélection Bas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2290</ID>
+      <DefaultText>No Knockout Injuries</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2291</ID>
+      <DefaultText>If set, party members will not recieve knockout injuries when they are reduced to 0 Endurance in combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2294</ID>
+      <DefaultText>Previous Menu Screen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2302</ID>
+      <DefaultText>Camping allows your party members to restore lost health and recieve a Camping Bonus.  Camping will consume a Camping Supply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2303</ID>
+      <DefaultText>High level wizards, druids, and priests' low-level Per Encounter spells have been replaced with Spell Mastery. Level up your casters to select qualifying spells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2304</ID>
+      <DefaultText>{1} attackers get {0} Accuracy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2305</ID>
+      <DefaultText>Remove {0}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

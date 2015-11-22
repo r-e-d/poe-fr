@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_renengild</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>197</EntryCount>
+  <EntryCount>198</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1012,9 +1012,14 @@ Ses yeux brillent et pendant un court instant, elle semble beaucoup plus jeune.<
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"And here - I've been saving these. Some of the last gems we recovered before we had to close the mines. With any luck, we'll have them open again soon." 
+      <DefaultText>"Tenez, c'est tout ce qu'il me reste. Les dernières gemmes qu'on a pu récupérer avant la fermeture des mines. Avec un peu de chance, elles rouvriront bientôt".
 
-She gives you a small pouch. Gemstones twinkle inside.</DefaultText>
+Elle vous tend une petite bourse contenant des gemmes scintillantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"La nouvelle se répand comme une traînée de poudre en ville. Il paraît que vous avez réussi à franchir la porte de la Batterie". Elle hoche la tête, manifestement impressionnée.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

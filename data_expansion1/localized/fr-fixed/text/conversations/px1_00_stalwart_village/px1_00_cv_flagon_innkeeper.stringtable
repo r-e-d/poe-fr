@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_cv_flagon_innkeeper</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>125</EntryCount>
+  <EntryCount>126</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -671,6 +671,11 @@ Après quelques instants, tout le monde retourne à sa boisson et Haeferic se to
     <Entry>
       <ID>145</ID>
       <DefaultText>"La force par le nombre, c'est ça ? Que cherchez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"J'ai mis Ailef hors d'état de nuire."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

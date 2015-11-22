@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\07_gilded_vale\07_qst_lords_of_a_barren_land</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>27</EntryCount>
+  <EntryCount>28</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -122,6 +122,11 @@
     <Entry>
       <ID>20011</ID>
       <DefaultText>J'ai libéré Giacco de sa cellule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>J'ai mis Nedmar hors d'état de nuire. Osrya sera sûrement ravie de l'apprendre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

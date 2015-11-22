@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px1_00_stalwart_village\px1_00_qst_stalwarts_vengeance</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>16</EntryCount>
+  <EntryCount>17</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -82,6 +82,11 @@
     <Entry>
       <ID>30006</ID>
       <DefaultText>J'ai livré Feara à Renengild. Elle s'est montrée reconnaissante de mon effort pour juguler le trafic dans les montagnes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>I retrieved Feara's shipment, but decided to end her life before we resolved anything.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

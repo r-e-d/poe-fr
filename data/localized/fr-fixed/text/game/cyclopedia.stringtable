@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>302</EntryCount>
+  <EntryCount>304</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1656,6 +1656,16 @@ Les armoiries de la Marche blanche peuvent toujours être vues sur certains obje
     <Entry>
       <ID>321</ID>
       <DefaultText>Les armes avec la propriété Chance d'ensorcellement ont une chance de déclencher la compétence ou le sort listé, en général lors d'un coup ou un critique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Unconscious</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Unconscious characters can't take action. Dexterity is reduced to 0. Reflex and Deflection are reduced by 40.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

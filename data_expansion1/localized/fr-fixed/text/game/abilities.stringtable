@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>213</EntryCount>
+  <EntryCount>276</EntryCount>
   <Entries>
     <Entry>
       <ID>1400</ID>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>1487</ID>
-      <DefaultText>Le personnage acquiert une partie de l'exceptionnelle tolérance à la douleur et de la puissance spirituelle que possèdent les moines. Peu à peu, ses attaques sans arme infligent davantage de dégâts et gagnent en puissance.</DefaultText>
+      <DefaultText>Le personnage acquiert une partie de l'exceptionnelle tolérance à la douleur et de la puissance spirituelle que possèdent les moines. Peu à peu, ses attaques sans arme infligent davantage de dégâts et gagnent en puissance. Note : Souffrance du novice ne s'applique pas à la Transformation spirituelle du druide.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1056,7 +1056,7 @@
     </Entry>
     <Entry>
       <ID>1611</ID>
-      <DefaultText />
+      <DefaultText>Embrouiller</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1066,7 +1066,323 @@
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText />
+      <DefaultText>Forme entre le jeteur de sorts et la cible un faisceau qui inflige des dégâts d'écrasement continus aux adversaires qu'il touche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1614</ID>
+      <DefaultText>Barbaric Retaliation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1615</ID>
+      <DefaultText>Going Between</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1616</ID>
+      <DefaultText>Form of the Delemgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1617</ID>
+      <DefaultText>The Long Pain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1618</ID>
+      <DefaultText>Abjuration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1619</ID>
+      <DefaultText>Symbol of Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1620</ID>
+      <DefaultText>Symbol of Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1621</ID>
+      <DefaultText>Symbol of Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1622</ID>
+      <DefaultText>Symbol of Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1623</ID>
+      <DefaultText>Symbol of Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1624</ID>
+      <DefaultText>Symbol of Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1625</ID>
+      <DefaultText>Powder Burns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1626</ID>
+      <DefaultText>Watchful Guardian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1627</ID>
+      <DefaultText>Litany Against Major Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1628</ID>
+      <DefaultText>Litany Against Minor Afflictions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1629</ID>
+      <DefaultText>Feign Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1630</ID>
+      <DefaultText>Caedebalds Blackbow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1631</ID>
+      <DefaultText>Wilting Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1632</ID>
+      <DefaultText>Shoulder Charge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1633</ID>
+      <DefaultText>Her Embrace, The Walls of our Home</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1634</ID>
+      <DefaultText>Opportunist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1635</ID>
+      <DefaultText>Wall of Many Colors</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1636</ID>
+      <DefaultText>Kalakoth's Freezing Rake</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1637</ID>
+      <DefaultText>Mercy and Kindness Followed Where'er She Walked</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1638</ID>
+      <DefaultText>With All Your Strength Slay the Beast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1639</ID>
+      <DefaultText>Boil Their Flesh From Skin to Bone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1640</ID>
+      <DefaultText>Rejoice, My Comrades! Two Fingers of Daylight!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1641</ID>
+      <DefaultText>Called to His Bidding, the Ancient Instruments of Death</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1642</ID>
+      <DefaultText>Second Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1643</ID>
+      <DefaultText>Llengrath's Superior Elemental Bulwark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1644</ID>
+      <DefaultText>Wall of Many Colors - [FF0000]Red![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1645</ID>
+      <DefaultText>Wall of Many Colors - [FB8000]Orange![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1646</ID>
+      <DefaultText>Wall of Many Colors - [FFFF00]Yellow![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1647</ID>
+      <DefaultText>Wall of Many Colors - [00FF00]Green![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1648</ID>
+      <DefaultText>Wall of Many Colors - [26b4fc]Blue![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1649</ID>
+      <DefaultText>Wall of Many Colors - [0000FF]Indigo![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1650</ID>
+      <DefaultText>Wall of Many Colors - [9c439f]Violet![-]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1651</ID>
+      <DefaultText>Triggered Immunity</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1652</ID>
+      <DefaultText>Behold the Martyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1653</ID>
+      <DefaultText>Desiccating</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1654</ID>
+      <DefaultText>Zephyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1655</ID>
+      <DefaultText>The target cannot be affected by this Affliction, though other aspects of an attack may affect it.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1656</ID>
+      <DefaultText>Immunity: Blinded</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1657</ID>
+      <DefaultText>Immunity: Charmed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1658</ID>
+      <DefaultText>Immunity: Confused</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1659</ID>
+      <DefaultText>Immunity: Dazed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1660</ID>
+      <DefaultText>Immunity: Distracted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1661</ID>
+      <DefaultText>Immunity: Dominated</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1662</ID>
+      <DefaultText>Immunity: Flanked</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1663</ID>
+      <DefaultText>Immunity: Frightened</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1664</ID>
+      <DefaultText>Immunity: Hobbled</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1665</ID>
+      <DefaultText>Immunity: Paralyzed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1666</ID>
+      <DefaultText>Immunity: Petrified</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1667</ID>
+      <DefaultText>Immunity: Prone</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1668</ID>
+      <DefaultText>Immunity: Sickened</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1669</ID>
+      <DefaultText>Immunity: Stuck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1670</ID>
+      <DefaultText>Immunity: Stunned</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1671</ID>
+      <DefaultText>Immunity: Terrified</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1672</ID>
+      <DefaultText>Immunity: Weakened</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1673</ID>
+      <DefaultText>Immunity: Unconscious</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>The companion of Concelhaut's skull has the ability to call upon the archmage's shade for assistance. While summoned, Concelhaut's visage will cast spells, but the summoner suffers Raw damage for the duration as the undead wizard drains their lifeforce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1675</ID>
+      <DefaultText>Immunity: Poison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1676</ID>
+      <DefaultText>Immunity: Disease</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

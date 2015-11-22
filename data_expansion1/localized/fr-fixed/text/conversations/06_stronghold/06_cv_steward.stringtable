@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\06_stronghold\06_cv_steward</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>3</EntryCount>
+  <EntryCount>11</EntryCount>
   <Entries>
     <Entry>
       <ID>212</ID>
@@ -17,6 +17,48 @@
     <Entry>
       <ID>214</ID>
       <DefaultText>"Eh bien, puis-je faire quelque chose pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"J'ai des questions à propos de Concelhaut et des membres de la Bannière déchirée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Oui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Qui est Concelhaut ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Que savez-vous sur ces mercenaires ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Un célèbre archimage. À ce que je sais, le sanatorium de Brackenbury accorde beaucoup d'importance à son travail concernant la manipulation de l'âme. Ses sorts sont très répandus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Mais il est loin de faire l'unanimité. Certains pensent qu'il est fou, d'autres cruel et barbare." 
+
+L'intendante marque une pause. "Il doit être très vieux maintenant. C'est peut-être la raison pour laquelle les membres de la Bannière déchirée pensent pouvoir le vaincre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Très peu de choses, je le crains. Les membres de la Bannière déchirée sont aussi bien équipés qu'organisés et on dit qu'ils bénéficient du soutien d'un mystérieux bienfaiteur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Ils ont fait preuve d'une remarquable efficacité par le passé et constituent désormais une réelle menace."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

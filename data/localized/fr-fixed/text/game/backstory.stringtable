@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\backstory</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>404</EntryCount>
+  <EntryCount>407</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2022,6 +2022,21 @@
     <Entry>
       <ID>405</ID>
       <DefaultText>Vous avez convaincu Iovara que son emprisonnement n'était plus dans son intérêt. Vous avez désintégré son âme pour veiller à ce qu'elle ne soit plus soumise à la Roue de Berath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Avec le temps, la civilisation s'implanta sur vos terres, jusqu'à les dévaster et vous déraciner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Mais cette période se termina brutalement lorsque le feu vint tout ravager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Mais, à bout de patience, la population locale finit par vous chasser de vos propres terres.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

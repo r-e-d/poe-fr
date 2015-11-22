@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_00_stalwart_village\px1_00_cv_reyfald</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>197</EntryCount>
+  <EntryCount>199</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1007,6 +1007,18 @@ Il regarde Reyfald et sourit d'un air innocent.</DefaultText>
     <Entry>
       <ID>258</ID>
       <DefaultText>"Honte. Embarras. Désespoir. Affaiblissement physique. Je dois me renseigner sur cette recette."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Je crois qu'Haeferic avait raison. Mais je n'aurai pas l'occasion de le lui dire."
+
+"Dommage. On devrait pourtant fêter ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Je ne sais pas si vous êtes au courant, mais il a tout un stock de liqueur de Fennlan en bas ! J'aimerais bien lui en acheter, mais il ne veut rien entendre. Ce salopard la garde pour les occasions spéciales."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

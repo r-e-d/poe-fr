@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px1_03_wildernesses\px1_03_qst_soul_twin</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>11</EntryCount>
+  <EntryCount>13</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12,6 +12,11 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>Découvrez comment Ygadr est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouvez le jeune homme de la vision.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -27,6 +32,13 @@ Quiconque l'a tué n'a pas laissé grand-chose derrière.</DefaultText>
       <FemaleText>Je suis tombée sur les restes d'un jeune dyrwoodan qui voyageait dans la Marche blanche pour retrouver son jumeau d'âme.
 
 Quiconque l'a tué n'a pas laissé grand-chose derrière.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Lorsque j'ai tué le dragon, j'ai eu une brève vision. J'ai vu un jeune homme qui marchait dans les montagnes. 
+
+S'il est toujours là, il pourra peut-être m'expliquer ce que cela signifie.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
