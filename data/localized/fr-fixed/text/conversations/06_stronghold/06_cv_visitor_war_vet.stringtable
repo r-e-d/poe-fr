@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_war_vet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mon seigneur, excusez-moi de vous déranger, mais... j'aurais besoin de vous pour régler une affaire personnelle."</DefaultText>
+      <FemaleText>"Madame, excusez-moi de vous déranger, mais... j'aurais besoin de vous pour régler une affaire personnelle."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ce n'est... pas très facile à avouer. Je m'appelle Odeyna. J'ai combattu lors de la guerre du Saint, comme la plupart de mes compatriotes. Je n'ai fait qu'obéir aux ordres, mais je crois que je me suis forgé une réputation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Très bien. Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez] "Pas tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous appelez vos alliés et faites signe à la plaignante de s'approcher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Mais j'ai fait des choses... qui m'empêchent de dormir. Je ne mérite pas toutes ces attentions. Je voudrais qu'on me laisse tranquille. Je vous en prie, vous êtes le seul à qui je peux m'adresser."</DefaultText>
+      <FemaleText>"Mais j'ai fait des choses... qui m'empêchent de dormir. Je ne mérite pas toutes ces attentions. Je voudrais qu'on me laisse tranquille. Je vous en prie, vous êtes la seule à qui je peux m'adresser."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je crois que vous avez besoin de repos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous ne devriez pas fuir votre passé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Un de mes compagnons pourrait peut-être vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je ne peux rien pour vous pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vous me conseillez d'aller me réfugier dans les bois ? Je ne trouverai jamais aucun repos à la Baie du défi. J'ai l'impression que la moitié de mes voisins sont membres des Douzaines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ce n'est pas si simple. Cela ne dépend pas de moi. Tous les jours, les gens me rappellent ce que j'ai fait. Et je ne suis pas sûre d'avoir fait ce qui était juste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oui ? Et comment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Edér a connu la guerre. Il pourrait vous donner des conseils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Maneha sait écouter. Elle vous aidera à vous soulager de ce fardeau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Donnez-lui 5000 pc.] "En dehors du Dyrwood, personne ne vous reconnaîtra. Prenez cet argent et allez vivre ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je vais demander aux Douzaines de vous laisser tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Je vois. Dans ce cas, c'est autre chose qu'il vous faut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vraiment ? Ce serait formidable. J'ai juste besoin d'un peu de temps pour prendre du recul. Merci, mon seigneur !"</DefaultText>
+      <FemaleText>"Vraiment ? Ce serait formidable. J'ai juste besoin d'un peu de temps pour prendre du recul. Merci, madame !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"C'est... Ouah. Je ne sais pas quoi dire ! Merci infiniment. Je vais rassembler mes affaires et prendre le premier chariot qui m'emmènera loin d'ici. Merci, mon seigneur !"</DefaultText>
+      <FemaleText>"C'est... Ouah. Je ne sais pas quoi dire ! Merci infiniment. Je vais rassembler mes affaires et prendre le premier chariot qui m'emmènera loin d'ici. Merci, madame !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Oui, je... je pense que cela peut m'aider. Merci, mon seigneur. Merci infiniment."</DefaultText>
+      <FemaleText>"Oui, je... je pense que cela peut m'aider. Merci, madame. Merci infiniment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"À quoi pensez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Vous pouvez rester ici jusqu'à ce que vous soyez prête à y retourner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vous feriez cela ? Je ne sais comment vous remercier, mon seigneur ! Vous êtes quelqu'un de bien."  
+
+Odeyna s'incline, soulagée.</DefaultText>
+      <FemaleText>"Vous feriez cela ? Je ne sais comment vous remercier, madame ! Vous êtes quelqu'un de bien."  
+
+Odeyna s'incline, soulagée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Les compliments vous dérangent ? Vous n'êtes qu'une ingrate et une lâche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Peut-être bien, oui. Bon, merci quand même de m'avoir reçue, mon seigneur."   
+
+L'expression impassible d'Odeyna ne trahit ni colère ni rancune. Elle s'incline brusquement et s'en va.</DefaultText>
+      <FemaleText>"Peut-être bien, oui. Bon, merci quand même de m'avoir reçue, madame."   
+
+L'expression impassible d'Odeyna ne trahit ni colère ni rancune. Elle s'incline brusquement et s'en va.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Accrochez-vous. Vous n'êtes pas toute seule dans ce cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je..." Odeyna soupire. "Non, vous avez raison. Merci de m'avoir reçue, mon seigneur."  
+
+Elle s'incline et s'en va.</DefaultText>
+      <FemaleText>"Je..." Odeyna soupire. "Non, vous avez raison. Merci de m'avoir reçue, madame."  
+
+Elle s'incline et s'en va.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ils disent que je suis une héroïne. Où que j'aille, les gens viennent me serrer la main et me féliciter. J'ai l'impression que les Douzaines se servent de moi pour cautionner leurs actes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Auriez-vous un moment à m'accorder ? Je voudrais vous parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

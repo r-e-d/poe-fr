@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_dignitary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bonjour, mon seigneur. Je m'appelle Berolt. Si vous avez un moment à m'accorder, j'aimerais vous parler d'une affaire urgente."</DefaultText>
+      <FemaleText>"Bonjour, madame. Je m'appelle Berolt. Si vous avez un moment à m'accorder, j'aimerais vous parler d'une affaire urgente."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quoi qu'il en soit, je vous remercie." Berolt vous regarde, dans l'expectative.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Non pas que je doute de vos ressources, mais... comment comptez-vous vous y prendre, mon seigneur ?"</DefaultText>
+      <FemaleText>"Non pas que je doute de vos ressources, mais... comment comptez-vous vous y prendre, madame ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh ? Avec qui voyagerai-je ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Très bien. Je vous écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous appelez vos alliés et vous préparez à écouter la requête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"On m'a chargé de rencontrer des représentants de la tribu de la Grue pêcheuse, près du marécage de Thein. J'espère que nous trouverons un arrangement pacifique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'ai entendu dire que vous aviez vous-même déjà eu affaire aux Glanfathans. Seriez-vous disposé à m'aider ou à me donner quelques conseils ?"</DefaultText>
+      <FemaleText>"J'ai entendu dire que vous aviez vous-même déjà eu affaire aux Glanfathans. Seriez-vous disposée à m'aider ou à me donner quelques conseils ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je n'ai aucune ressource à vous proposer, mais je peux vous donner quelques conseils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je veillerai à ce que vous puissiez traverser Eir Glanfath en toute sécurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Je vais demander à quelqu'un de vous escorter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Donnez-lui 2000 pc.] "Cet argent vous permettra de vous payer des guides et de verser quelques pots-de-vin, si nécessaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je me suis fait un nom aux Ormes jumeaux. Je veillerai à ce que vous obteniez un laissez-passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"J'insisterai pour que vous obteniez un laissez-passer. Je doute qu'ils s'y opposent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Avec Hiravias. Il est glanfathan, il connaît très bien la région."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Avec Sagani. C'est une chasseuse émérite et une grande voyageuse. Son expérience vous sera très utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Empruntez les routes commerciales. Mieux vaut aller droit au but."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Mieux vaut éviter Eir Glanfath. Je vous conseille de passer par les Républiques de Vailia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Eh bien, si vous pensez que c'est suffisant, je m'en remets à votre jugement. Merci. Je suivrai votre conseil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Cela fait un très long détour... mais c'est sûrement plus prudent. Merci. Je suivrai votre conseil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"C'est très généreux de votre part, mon seigneur ! Merci. J'en ferai bon usage."</DefaultText>
+      <FemaleText>"C'est très généreux de votre part, madame ! Merci. J'en ferai bon usage."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Merci, mon seigneur ! Nous partons tout de suite."</DefaultText>
+      <FemaleText>"Merci, madame ! Nous partons tout de suite."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Avec mon gardien et des guides. Ils vous aideront à contourner les principaux villages glanfathans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je ne peux rien pour vous pour le moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Finalement, peut-être pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je vois... Pourriez-vous m'aider, d'une façon ou d'une autre, mon seigneur ? Ma mission est de la plus haute importance."</DefaultText>
+      <FemaleText>"Je vois... Pourriez-vous m'aider, d'une façon ou d'une autre, madame ? Ma mission est de la plus haute importance."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Malheureusement, je maîtrise mal la langue glanfathane et les membres de la Grue pêcheuse ne sont pas très ouverts. Je crains que les circonstances soient propices à un malentendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Bonjour, mon seigneur. Puis-je m'entretenir avec vous ?"</DefaultText>
+      <FemaleText>"Bonjour, madame. Puis-je m'entretenir avec vous ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

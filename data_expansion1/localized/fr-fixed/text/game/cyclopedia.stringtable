@@ -92,11 +92,11 @@ On a estimé que, pour chaque automate véritablement doué de raison, il y a de
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Les armes liées sont des objets uniques qui se lient magiquement avec l'âme d'une seule personne. Une fois liée, l'arme ne peut être utilisée que par cette personne, à moins que le lien ne soit rompu. Une arme liée augmentera en puissance si son porteur complète certaines des conditions détaillées dans la description de l'arme.
+      <DefaultText>Les objets liés sont des objets uniques qui se lient magiquement avec l'âme d'une seule personne. Une fois lié, l'objet ne peut être utilisée que par cette personne, à moins que le lien ne soit rompu. Un objet lié augmentera en puissance si son porteur complète certaines des conditions détaillées dans la description de l'objet.
 
-La plupart des armes liées ne peuvent s'associer qu'avec des personnages de certaines classes. Cependant, quel que soit le type d'arme, une arme liée est toujours admissible pour tous types de talents et de compétences comme la maîtrise d'armes et la spécialisation que peut avoir le personnage. Par exemple, si un guerrier a une maîtrise des armes et une spécialisation en Voyou, il ou elle pourra gagner des effets bénéfiques même lorsqu'il porte une grande épée ou une baguette liées. Les effets bénéfiques de talents ou compétences multiples de la même catégorie (par exemple Maitrise des armes Voyou et Paysan) ne se cumulent pas.
+La plupart des objets liés ne peuvent s'associer qu'avec des personnages de certaines classes. Cependant, quel que soit le type d'objet, un objet lié est toujours admissible pour tous types de talents et de compétences comme la maîtrise d'armes et la spécialisation que peut avoir le personnage. Par exemple, si un guerrier a une maîtrise des objets et une spécialisation en Voyou, il ou elle pourra gagner des effets bénéfiques même lorsqu'il porte une grande épée ou une baguette liées. Les effets bénéfiques de talents ou compétences multiples de la même catégorie (par exemple Maitrise des armes Voyou et Paysan) ne se cumulent pas.
 
-Si le lien avec une arme liée devait être rompu, l'arme perdrait toutes les compétences qu'elle avait acquises durant ce temps.</DefaultText>
+Si le lien avec un objet lié devait être rompu, l'objet perdrait toutes les compétences qu'elle avait acquises durant ce temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@ Si le lien avec une arme liée devait être rompu, l'arme perdrait toutes les co
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText />
+      <DefaultText>L'affliction Distrait affaiblit toutes les défenses de la cible de 6 et affaiblit leur nombre de cibles d'Engagement de 1. Pour la plupart des personnages, cela signifie qu'ils ne peuvent pas tenir d'ennemis Engagés lorsqu'ils sont affligés par Distrait.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

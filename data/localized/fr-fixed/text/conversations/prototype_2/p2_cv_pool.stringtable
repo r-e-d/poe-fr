@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\prototype_2\p2_cv_pool</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>136</EntryCount>
+  <EntryCount>140</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -750,6 +750,28 @@ La mare de sang est calme.</DefaultText>
     <Entry>
       <ID>211</ID>
       <DefaultText>La marre commence à onduler tandis qu'un chœur dissonant de rires diaboliques vous transperce les tympans. Le clapotis du sang fait bouger une grande cage métallique à demi submergée au centre de la marre, et elle grince bruyamment en se balançant d'avant en arrière sur une poulie rouillée, comme pour répondre à votre question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Wasn't me this time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I'd be lying if I said I didn't wanna learn how to do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"In all my years, I've never seen-" She swallows, hiding the hitch in her voice. "Don't make us stay any longer, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>You feel a jolt of power jump from you to Zahua. He blinks, his eyes turning to you for just a moment.
+
+He falls to his knees, choking and coughing. Blood gushes from his open mouth to the paving stones, running into the pool in a steady stream. Zahua tries to cry out, but the blood filling his throat strangles the sound.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>80</EntryCount>
+  <EntryCount>77</EntryCount>
   <Entries>
     <Entry>
       <ID>253</ID>
@@ -90,11 +90,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>270</ID>
-      <DefaultText>Simple d'esprit</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>271</ID>
       <DefaultText>Ensorcellement mineur : Rempart contre les éléments</DefaultText>
       <FemaleText />
@@ -177,11 +172,6 @@
     <Entry>
       <ID>287</ID>
       <DefaultText>Fléau de vaisseau</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>288</ID>
-      <DefaultText>Fléau spirituel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,11 +300,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>314</ID>
-      <DefaultText>Rapidité</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>315</ID>
       <DefaultText>Reflétant</DefaultText>
       <FemaleText />
@@ -351,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Ponction</DefaultText>
+      <DefaultText>Absorption</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

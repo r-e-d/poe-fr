@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1452</EntryCount>
+  <EntryCount>1475</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1286,7 +1286,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Tisse dans la zone d'effet une toile résistante et visqueuse qui réduit la vitesse de déplacement de tous les personnages touchés.</DefaultText>
+      <DefaultText>Tisse une toile visqueuse et résistante à travers la zone d'effet, laissant les victimes infortunées, Immobilisées à l'intérieur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Balaie l'arme de mêlée du combattant en formant un arc immense qui renverse les ennemis et inflige des dégâts contondants.</DefaultText>
+      <DefaultText>L'arme de mêlée du combattant balaie un large arc de cercle, renversant les ennemis face contre terre et causant des dégâts contondants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1436,12 +1436,12 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Le combattant plonge dans la bataille en attirant un ennemi au corps-à-corps, infligeant des dégâts contondants, et l'étourdissant.</DefaultText>
+      <DefaultText>Le combattant plonge dans la bataille, attirant immédiatement un ennemi à portée de mêlée, causant des dégâts contondants, et le laissant étourdi.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Renverse un ennemi avec une force colossale mais en lui infligeant des dégâts.</DefaultText>
+      <DefaultText>Pousse un ennemi avec une force énorme, le renversant face contre terre et causant des dégâts additionnels.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2226,7 +2226,7 @@
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>Neutralise toutes les peurs extérieures des alliés présents dans la zone d'effet, ce qui leur confère un bonus de résistance contre les afflictions effroi et terreur et abrège les effets de ces afflictions sur la cible.</DefaultText>
+      <DefaultText>Fortifie l'esprit des alliés dans la zone d'effet contre toutes les peurs extérieures, octroyant une immunité contre les afflictions Effroi et Terreur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2246,7 +2246,7 @@
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Renforce la santé des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions intoxication et affaiblissement et abrège les effets de ces afflictions sur la cible.</DefaultText>
+      <DefaultText>Fortifie la santé des alliés dans la zone d'effet, octroyant une immunité contre les afflictions Intoxication et Affaiblissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2276,7 +2276,7 @@
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Libère les alliés présents dans la zone d'effet des contraintes perçues, ce qui leur confère un bonus contre les afflictions entrave et immobilisation et abrège les effets de ces afflictions sur la cible.</DefaultText>
+      <DefaultText>Libère les alliés dans la zone d'effet des contraintes perçues, octroyant une immunité contre les afflictions Entrave et Immobilisation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2316,7 +2316,7 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Stimule l'empressement des alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions confusion et étourdissement et abrège les effets de ces afflictions sur la cible.</DefaultText>
+      <DefaultText>Confère de l'alacrité aux esprits des alliés dans la zone d'effet, octroyant une immunité contre les afflictions Confusion et Étourdissement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2371,7 +2371,7 @@
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>Insuffle un esprit de libération aux alliés présents dans la zone d'effet, ce qui leur confère un bonus contre les afflictions paralysie et pétrification et abrège les effets de ces afflictions sur la cible.</DefaultText>
+      <DefaultText>Instille un esprit de libération aux alliés dans la zone d'effet, octroyant une immunité contre les afflictions Paralysie et Pétrification.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,7 +2446,7 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>Galvanise le dévouement du groupe, ce qui confère des bonus contre les afflictions charme ou domination et abrège les effets de ces afflictions sur la cible.</DefaultText>
+      <DefaultText>Galvanise le dévouement de l'équipe, octroyant une immunité contre les afflictions Charme et Domination.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>530</ID>
-      <DefaultText>Purifie la cible des toxines présentes dans son organisme, ce qui lui confère un bonus et abrège les effets du poison et des maladies.</DefaultText>
+      <DefaultText>Purifie la cible des toxines présentes dans son organisme, en lui donnant l'immunité aux effets de Poison et Maladie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4051,7 +4051,7 @@
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Enveloppe d'une épaisse écorce les alliés dans la zone d'effet, ce qui procure un bonus à leur réduction de dégâts perforants, brûlants et électriques.</DefaultText>
+      <DefaultText>Crée une couche épaisse d'écorce sur les alliés dans la zone d'effet, leur octroyant un bonus de réduction des dégâts contre les coups Perforants, Tranchants, Brûlants, et Électriques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4166,7 +4166,7 @@
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Permet au jeteur de sorts d'accéder "gratuitement" à un sort (de magicien, de druide ou de prêtre) de niveau 3 ou moins qui ne figure pas dans son propre grimoire et de le jeter un nombre illimité de fois.</DefaultText>
+      <DefaultText>Le jeteur du sort peut lancer "gratuitement" jusqu'à trois sorts de 3e niveau ou inférieur de la liste de sort de la cible (magicien, druide ou prêtre). Le magicien peut ensuite jeter ces sorts autant de fois qu'il le souhaite pendant la durée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4186,7 +4186,7 @@
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Puise la détermination et l'intelligence de la cible en formant deux versions moins puissantes de l'effet qui s'attaquent aux ennemis voisins lorsque le premier effet prend fin.</DefaultText>
+      <DefaultText>Puise dans la Détermination, l'Intelligence et la Perception de la cible, créant deux versions moins puissantes de cet effet qui bondissent sur les ennemis proches lorsque le premier effet se termine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4331,7 @@
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Le combattant profite du moment où les ennemis tentent de rompre l'engagement pour viser leurs jambes. Lors des attaques de désengagement, les cibles des coups ou des critiques sont entravées.</DefaultText>
+      <DefaultText>Les attaques de désengagement du combattant ont une précision et des dégâts améliorés et renversent les ennemis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5400,7 +5400,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1092</ID>
-      <DefaultText>Les Flammes de dévotion du paladin infligent des dégâts corrosifs supplémentaires.</DefaultText>
+      <DefaultText>Son nom est une référence à une bataille tristement célèbre qui a coûté la vie de plus de deux mille Marcheurs austères et six mille de leurs ennemis. Les Flammes de dévotion du paladin occasionnent des dégâts Corrosifs additionnels.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6010,7 +6010,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>Lorsque le paladin utilise l'Exhortation de libération sur un allié, celui-ci reçoit un important bonus défensif contre les afflictions Charme, Confusion et Domination.</DefaultText>
+      <DefaultText>Lorsque le paladin utilise l'Exhortation de libération sur un allié, celui-ci gagne une immunité temporaire contre les afflictions Charme, Confusion, et Domination.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7160,132 +7160,247 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1642</ID>
-      <DefaultText>Second Wind</DefaultText>
+      <DefaultText>Second vent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1655</ID>
-      <DefaultText>The target cannot be affected by this Affliction, though other aspects of an attack may affect it.</DefaultText>
+      <DefaultText>La cible ne peut pas être affectée par cette Affliction, même si d'autres aspects de l'attaque peuvent l'affecter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>Immunity: Blinded</DefaultText>
+      <DefaultText>Immunité : Aveuglement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1657</ID>
-      <DefaultText>Immunity: Charmed</DefaultText>
+      <DefaultText>Immunité : Charme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1658</ID>
-      <DefaultText>Immunity: Confused</DefaultText>
+      <DefaultText>Immunité : Confusion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1659</ID>
-      <DefaultText>Immunity: Dazed</DefaultText>
+      <DefaultText>Immunité : Étourdissement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1660</ID>
-      <DefaultText>Immunity: Distracted</DefaultText>
+      <DefaultText>Immunité : Distraction</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1661</ID>
-      <DefaultText>Immunity: Dominated</DefaultText>
+      <DefaultText>Immunité : Domination</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1662</ID>
-      <DefaultText>Immunity: Flanked</DefaultText>
+      <DefaultText>Immunité : Prise à revers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1663</ID>
-      <DefaultText>Immunity: Frightened</DefaultText>
+      <DefaultText>Immunité : Effroi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1664</ID>
-      <DefaultText>Immunity: Hobbled</DefaultText>
+      <DefaultText>Immunité : Entrave</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1665</ID>
-      <DefaultText>Immunity: Paralyzed</DefaultText>
+      <DefaultText>Immunité : Paralysie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1666</ID>
-      <DefaultText>Immunity: Petrified</DefaultText>
+      <DefaultText>Immunité : Pétrification</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1667</ID>
-      <DefaultText>Immunity: Prone</DefaultText>
+      <DefaultText>Immunité : Renversement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1668</ID>
-      <DefaultText>Immunity: Sickened</DefaultText>
+      <DefaultText>Immunité : Intoxication</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1669</ID>
-      <DefaultText>Immunity: Stuck</DefaultText>
+      <DefaultText>Immunité : Immobilisation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1670</ID>
-      <DefaultText>Immunity: Stunned</DefaultText>
+      <DefaultText>Immunité : Assommement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1671</ID>
-      <DefaultText>Immunity: Terrified</DefaultText>
+      <DefaultText>Immunité : Terreur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1672</ID>
-      <DefaultText>Immunity: Weakened</DefaultText>
+      <DefaultText>Immunité : Affaiblissement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>Immunity: Unconscious</DefaultText>
+      <DefaultText>Immunité : Évanouissement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>Immunity: Poison</DefaultText>
+      <DefaultText>Immunité : Poison</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1676</ID>
-      <DefaultText>Immunity: Disease</DefaultText>
+      <DefaultText>Immunité : Maladie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1677</ID>
-      <DefaultText>Healing</DefaultText>
+      <DefaultText>Guérison</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1678</ID>
-      <DefaultText>The priest uses Holy Radiance whenever someone in the party is below 33% Endurance or if two or more people are below 50% Endurance. If Per Rest is enabled, the priest will use healing and revival spells.</DefaultText>
+      <DefaultText>Le prêtre utilise Rayonnement sacré dès qu'un membre du groupe passe sous 33 % d'Endurance ou si deux ou plus membres sont sous 50 % d'Endurance. Si Par repos est activé, le prêtre utilisera des sorts de guérison et de ranimation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1679</ID>
-      <DefaultText>Agile Retreat</DefaultText>
+      <DefaultText>Retraite agile</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1680</ID>
-      <DefaultText>Draining Touch</DefaultText>
+      <DefaultText>Toucher ponctionnant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Beuverie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Malédiction Mênpŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>Récitation vive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>Ressentiment d'Effigy : Zahua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
+      <DefaultText>Ressentiment d'Effigy : La Démone de Caroc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>Ressentiment d'Effigy : Maneha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>L'incantateur est capable de réciter les phrases plus rapidement, lui permettant d'utiliser les invocations plus tôt en combat tout en augmentant le chevauchement entre ses phrases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>Immunité : Sol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>La cible ne peut pas être affectée par des attaques ou des afflictions spécifiques avec ce mot-clé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>Immunité : Souffle de dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>Résistance : Renversement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>Défense augmenté contre les afflictions citées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>Transforme l'utilisateur en un mênpŵgra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Invocation de rôdeur du marais</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>Le rocher mousseux relâche l'âme magique captive qui se coagule pour prendre la forme physique d'un Rôdeur du marais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Conjure un Fléau de pluie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1800</ID>
+      <DefaultText>Venin du moine aveugle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1801</ID>
+      <DefaultText>Colère des cinq soleils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1802</ID>
+      <DefaultText>Dès lors que le paladin utilise Ennemi juré, cinq orbes de flamme bondissent de sa main et volent vers la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1803</ID>
+      <DefaultText>Vielo Vidòrio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1804</ID>
+      <DefaultText>"Vielo vidòrio !" est un cri de guerre signifiant "victoire rapide" utilisé parmi les Frermàs mes Canc Suolias. Quand le paladin utilise Flammes de dévotion, les alliés proches gagnent une amélioration de leur Vitesse d'attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1815</ID>
+      <DefaultText>Gréf's Authority</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1816</ID>
+      <DefaultText>Accurate melee attack that does Crash/Slash damage, bypasses some Damage Reduction, and can Stun the target.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

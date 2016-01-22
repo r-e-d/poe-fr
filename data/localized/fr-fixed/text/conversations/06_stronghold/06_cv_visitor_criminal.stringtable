@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_criminal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je m'appelle Nyry. Pardon pour le dérangement, mon seigneur, mais j'aimerais vous parler."</DefaultText>
+      <FemaleText>"Je m'appelle Nyry. Pardon pour le dérangement, madame, mais j'aimerais vous parler."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eh bien, il se trouve que j'ai fait quelques bêtises dans ma vie. Résultat : ma tête est mise à prix dans toute la Baie du défi ! Et comme vous pouvez vous en douter, cela ne me facilite pas la vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Alors, je crois qu'il est temps pour moi de voguer vers de nouveaux horizons. J'aimerais m'installer dans l'archipel du Feu éteint. Là-bas au moins, personne ne me reconnaîtra. Mais... pour m'y rendre, j'aurais besoin d'aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je peux vous aider à vous enfuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous devriez vous rendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Comment osez-vous vous montrer ici, dans mon donjon ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Euh, pardon, je ne voulais pas vous offenser ! C'est juste que j'ai entendu dire que vous rendiez des services."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Gardes, emmenez cette femme !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ici, nous pendons les criminels. Gardes, emmenez-la !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je le savais ! Merci, mon seigneur. Que me proposez-vous ?"</DefaultText>
+      <FemaleText>"Je le savais ! Merci, madame. Que me proposez-vous ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Donnez-lui 1000 pc] "Tenez. Cela paiera votre voyage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je vais en discuter avec mes contacts de la maison Doemenel. Ce sont des spécialistes de ce genre de problèmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Mentez.] "J'ai un contact au sein des Chevaliers du Creuset. Il vous aidera à échapper aux gardes et à rejoindre le port."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous plaisantez ? Si je me rends, ils me pendront !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je veillerai à ce que votre peine soit clémente. Cela vaut mieux qu'une vie de hors-la-loi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Mentez] "Je me porterai garant de vous. Je suis sûr que votre peine sera clémente. Cela vaut mieux qu'une vie de hors-la-loi."</DefaultText>
+      <FemaleText>[Mentez] "Je me porterai garante de vous. Je suis sûre que votre peine sera clémente. Cela vaut mieux qu'une vie de hors-la-loi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Alors, vous voulez que je me rende, en espérant qu'ils auront pitié de moi ? Je n'ai pas très envie de me retrouver derrière des barreaux, vous savez..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Par Hylea ! C'est très généreux de votre part. Je me rends de ce pas au port ! Vous me sauvez la mise. Je vous revaudrai ça !"  
+
+Nyry joint les mains, vous salue et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Rien ne vaut des amis bien placés, hein ? Vous ne le regretterez pas, mon seigneur. Je vous revaudrai ça !"</DefaultText>
+      <FemaleText>"Rien ne vaut des amis bien placés, hein ? Vous ne le regretterez pas, madame. Je vous revaudrai ça !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Très malin ! Encore mieux qu'un déguisement. Dites-lui que j'y serai ! Merci beaucoup. Vous me sauvez la vie !"  
+
+Nyry affiche un large sourire, tourne les talons et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Hé, attendez, je m'en vais ! Inutile de... AÏE ! Je m'en vais !"  
+
+Évitant quelques coups, Nyry quitte la salle à la hâte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Non, attendez ! Attendez ! C'est un malentendu ! Je suis innocente !"  
+
+Les gardes emmènent Nyry tandis qu'elle se débat en criant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Oui... Oui, vous avez raison. C'est dur de vivre caché. Ce serait l'occasion pour moi de repartir à zéro. Merci de me donner une chance de devenir honnête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Jamais de la vie ! Vous êtes malin, mais vous ne m'obligerez jamais à me rendre."  
+
+Nyry tourne les talons et quitte la salle à la hâte.</DefaultText>
+      <FemaleText>"Jamais de la vie ! Vous êtes maline, mais vous ne m'obligerez jamais à me rendre."  
+
+Nyry tourne les talons et quitte la salle à la hâte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bien sûr. Une autre idée peut-être ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Intendant, veillez à ce que les Chevaliers du Creuset soient là pour accueillir Nyry. Dites-leur de prévoir une corde pour la pendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je m'en charge, mon seigneur. Bien joué."</DefaultText>
+      <FemaleText>"Je m'en charge, madame. Bien joué."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je ferai jouer mes relations au sein des Chevaliers du Creuset. Si vous ne faites pas de vagues, je veillerai à ce qu'ils allègent votre peine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Faites-moi confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Désapprouvez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"[Player Name] ? J'aurais besoin de votre aide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

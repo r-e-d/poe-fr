@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>304</EntryCount>
+  <EntryCount>314</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -694,7 +694,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Les personnages souffrant de côtes meurtries subissent une pénalité de la propriété défensive robustesse et de constitution.</DefaultText>
+      <DefaultText>Les personnages avec des côtes meurtries subissent une pénalité de Constitution.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -704,7 +704,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Les commotions infligent une pénalité à l'intelligence du personnage ainsi qu'à sa propriété défensive Volonté.</DefaultText>
+      <DefaultText>Les commotions infligent une pénalité à la Détermination et l'Intelligence du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -714,7 +714,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>La blessure Poignet foulé inflige une pénalité à la déviation et à la précision du personnage.</DefaultText>
+      <DefaultText>La blessure Poignet foulé inflige une pénalité à la Déviation.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,7 +724,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Des pénalités sont infligées à la précision et à la perception des personnages à l'œil gonflé.</DefaultText>
+      <DefaultText>Les personnages avec un Œil gonflé souffrent de pénalités de Perception.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -734,7 +734,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>La blessure Entorse de la cheville réduit les réflexes et la dextérité.</DefaultText>
+      <DefaultText>Une Entorse à la cheville réduit les défenses de Réflexe du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -744,7 +744,7 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Une pénalité de vitesse de déplacement et de dextérité est infligée aux personnages souffrant d'une entorse au genou.</DefaultText>
+      <DefaultText>Les personnages avec une Entorse au genou subissent une pénalité de Déplacement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1152,11 +1152,11 @@ Les afflictions (ex : assommement ou renversement) sont généralement considé
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>La fatigue représente l'usure physique et psychologique liée à l'activité d'un personnage. Elle se régénère progressivement au fil des voyages et des explorations du personnage, notamment lorsqu'il combat. Certaines interactions scriptées épuisantes provoquent également de la fatigue. La compétence Athlétisme ralentit automatiquement la progression de la fatigue, quelle que soit la source.
+      <DefaultText>La fatigue représente l'usure physique et psychologique d'une activité exigeante pour un personnage. Elle est généralement considérée comme une blessure lorsqu'un personnage est mis hors de combat, mais quelques interactions scriptées produiront aussi de la Fatigue si elles sont particulièrement éreintantes.
 
-La fatigue passe par plusieurs étapes, en infligeant d'abord des pénalités mineures qui deviennent plus sévères au fil du temps.
+La Fatigue passe par plusieurs étapes, infligeant d'abord des pénalités mineures qui augmentent en sévérité au fil du temps.
 
-Le repos est le moyen le plus simple d'éliminer les effets de la fatigue, même si certains objets consommables peuvent également réduire la fatigue totale d'un personnage.</DefaultText>
+Se reposer est la manière la plus simple de supprimer les effets de la Fatigue, même si certains objets consommables peuvent aussi la faire disparaître.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1660,12 +1660,62 @@ Les armoiries de la Marche blanche peuvent toujours être vues sur certains obje
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Unconscious</DefaultText>
+      <DefaultText>Inconscient</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Unconscious characters can't take action. Dexterity is reduced to 0. Reflex and Deflection are reduced by 40.</DefaultText>
+      <DefaultText>Les personnages Inconscients ne peuvent pas réaliser d'action. La Dextérité est réduite à 0. Les Réflexes et la Déviation sont réduits de 40.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Gelure réduit la RD aux dégâts Givrants d'un personnage et sa défense de Robustesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Une Brûlure sévère réduit la RD aux dégâts Brûlants d'un personnage et sa Dextérité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Une Blessure sévère réduit les soins reçus par un personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Choc système réduit la RD d'un personnage aux dégâts Électriques et sa résistance contre Assommement et Renversement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Strange Illness</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>This is the illness you contracted near the ruins of Cilant Lîs. It is characterized by simultaneous chills and intense flashes of warmth as well as shortness of breath. The caravan master, Odema, identified it as a common illness, the Rumbling Rot, but there's something strange about it. In spite of the symptoms, it doesn't feel like any sickness you've ever had before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Ground</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Any attack marked as "Ground" is one that affects the ground itself or creates a hazard immediately above it. Spells like Slicken or Tanglefoot are both classified as Ground attacks. Some creatures, especially flying monsters or spirits, are immune to attacks classified as Ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Spellstamina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Items with the spellstamina property will automatically trigger the associated effect when the user hits the listed percentage of Endurance.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

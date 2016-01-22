@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2092</EntryCount>
+  <EntryCount>2155</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -4860,7 +4860,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Restaurer Brighthollow vous permettra de passer la nuit ici. D'autres améliorations peuvent débloquer des bonus de repos.</DefaultText>
+      <DefaultText>Restaurer Brighthollow vous permettra d'y passer la nuit. D'autres améliorations peuvent débloquer des bonus de repos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4960,7 +4960,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Cean Gŵlas et spectres.</DefaultText>
+      <DefaultText>Cean Gŵlas et spectres</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6670,7 +6670,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>de dégâts {0}</DefaultText>
+      <DefaultText>{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7010,7 +7010,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Le métier d'aventurier est épuisant. Voyager, combattre et escalader des statues renversées marquent à force. La compétence Athlétisme permet aux personnages de contrer les effets de l'accumulation de fatigue pour dépasser leurs limites et combattre plus longtemps avant de recevoir des pénalités. Lors des conversations et des interactions scriptées, la compétence Athlétisme permet de réaliser des prouesses physiques telles que l'escalade, la natation et le saut.</DefaultText>
+      <DefaultText>L'aventure est un travail épuisant. En plus des risques mortels pris au combat, les aventuriers doivent escalader des murs, traverser des rivières et sauter à travers de gigantesques fossés. Une fois par rencontre, les personnages avec Athlétisme peuvent utiliser la compétence Second souffle pour récupérer de l'Endurance perdue. Un score d'Athlétisme élevé augmente les effets de Second souffle. Dans les conversations et les interactions scriptées, Athlétisme est utilisé pour les exploits physiques comme grimper, nager et sauter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7025,7 +7025,18 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>La compétence Survie permet aux personnages de faire un meilleur usage de la nourriture et des potions qu'ils trouvent. Plus la compétence Survie du personnage est élevée, plus l'effet de celles-ci est long. La compétence Survie peut également être utilisée lors des conversations et des interactions scriptées impliquant des défis dans la nature ou des informations de spécialisation.</DefaultText>
+      <DefaultText>Survie permet aux personnages de choisir parmi un éventail de bonus à long terme à chaque fois qu'ils campent. Les six premiers rangs octroient les bonus suivants :
+
+1 - Réduction des dégâts
+2 - Multiplicateur des soins reçus
+3 - Bonus de déplacement
+4 - Bonus de précision contre le type Créature
+5 - Durée des consommables augmentée
+6 - Bonus de dégâts contre les ennemis Pris à revers
+
+Après le sixième rang, les bonus gagnés précédemment deviennent plus puissants dans le même ordre où ils ont été reçus.
+
+Survie peut également être utilisée dans les conversations et interactions scriptées qui impliquent des défis de la vie sauvage ou des informations spécialisées en rapport avec la nature.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7409,7 +7420,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1478</ID>
-      <DefaultText>Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciens apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciennes ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
+      <DefaultText>Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciens apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciens ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText>Les magiciennes ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciennes apprennent des sorts individuels qu'elles conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciennes à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciennes ont accès à un ensemble de sorts supplémentaires. Mais elles peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel elles ont accès chaque fois qu'elles progressent. Les magiciennes ont également la possibilité d'apprendre des sorts à partir des grimoires qu'elles trouvent ou qu'elles achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciennes augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</FemaleText>
     </Entry>
     <Entry>
@@ -7714,7 +7725,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Invoquer : {0}</DefaultText>
+      <DefaultText>Invoquer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8309,7 +8320,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1659</ID>
-      <DefaultText>Durée de consommable {0} %</DefaultText>
+      <DefaultText>Durée des consommables {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10037,7 +10048,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2148</ID>
-      <DefaultText>Invoque {0} de : {1}</DefaultText>
+      <DefaultText>Invoque {0} de :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10302,182 +10313,182 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2235</ID>
-      <DefaultText>{1} destroyed {0}!</DefaultText>
+      <DefaultText>{1} a détruit {0} !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2236</ID>
-      <DefaultText>Number of Autosaves</DefaultText>
+      <DefaultText>Nombre de sauvegardes automatiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2237</ID>
-      <DefaultText>Sets the maximum number of rolling autosaves the game will keep for each playthrough.</DefaultText>
+      <DefaultText>Détermine le nombre de sauvegardes automatiques cycliques gardées par le jeu pour chaque partie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2238</ID>
-      <DefaultText>Immune to {0} damage</DefaultText>
+      <DefaultText>Immunisé aux dégâts de {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2239</ID>
-      <DefaultText>Recover immediately</DefaultText>
+      <DefaultText>Récupérer immédiatement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2241</ID>
-      <DefaultText>{0} {1} Damage per {2}</DefaultText>
+      <DefaultText>{0} {1} Dégâts pour {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2242</ID>
-      <DefaultText>remove all {0}</DefaultText>
+      <DefaultText>suppression des {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2243</ID>
-      <DefaultText>{0} when dealt at least {1} damage</DefaultText>
+      <DefaultText>{0} quand au moins {1} dégâts subis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2244</ID>
-      <DefaultText>La Marche blanche : Partie 2 - Installé</DefaultText>
+      <DefaultText>La Marche blanche : Partie 2 - Installé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2245</ID>
-      <DefaultText>La Marche blanche : Partie 2 - Non installé</DefaultText>
+      <DefaultText>La Marche blanche : Partie 2 - Non installé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2246</ID>
-      <DefaultText>La Marche blanche : Partie 2 - Installé (La Marche blanche : Partie 1 - Requis)</DefaultText>
+      <DefaultText>La Marche blanche : Partie 2 - Installé (La Marche blanche : Partie 1 - Requis)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2247</ID>
-      <DefaultText>grant {0} of damage dealt as Focus to {1}</DefaultText>
+      <DefaultText>octroie {0} de dégâts infligés comme Maîtrise à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2248</ID>
-      <DefaultText>Story Time</DefaultText>
+      <DefaultText>Mode Histoire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2249</ID>
-      <DefaultText> -[{0}]-&gt; </DefaultText>
+      <DefaultText>-[{0}]-&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Placeholder description of Story Time difficulty.</DefaultText>
+      <DefaultText>Le mode Histoire s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Quand le mode Histoire est actif, la composition des batailles est la même qu'en difficulté Normale, mais les mécaniques de jeu sont biaisées en faveur du joueur. Le niveau des ennemis, leurs dégâts, leurs temps de récupération et la durée des effets hostiles sont tous pire que de coutume et il leur est beaucoup plus difficile de réaliser des Critiques. Les membres du groupe réalisent des Critiques plus facilement contre les ennemis de faible Endurance et le groupe peut transporter autant de matériel de Campement qu'il le souhaite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2251</ID>
-      <DefaultText>Mastered {0} Spells</DefaultText>
+      <DefaultText>Sorts maîtrisés - {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2252</ID>
-      <DefaultText>Spell Mastery</DefaultText>
+      <DefaultText>Maîtrise de sort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2253</ID>
-      <DefaultText>Choose a Camping Bonus</DefaultText>
+      <DefaultText>Choisir un bonus de campement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2254</ID>
-      <DefaultText>Summoned Creature</DefaultText>
+      <DefaultText>Créature invoquée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2255</ID>
-      <DefaultText>{0} of incoming Grazes converted to Misses</DefaultText>
+      <DefaultText>{0} des écorchures entrantes converties en coups ratés</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2256</ID>
-      <DefaultText>Soin reçus {0}</DefaultText>
+      <DefaultText>{0} guérisons reçues</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2257</ID>
-      <DefaultText>Mastering a spell allows a free use of that spell once per encounter. Wizards' mastered spells do not need to be in their grimoire in order to gain the free use.</DefaultText>
+      <DefaultText>Maîtriser un sort permet une utilisation libre par rencontre. Les sorts maîtrisés par le Magicien ne requièrent pas d'être présents dans son grimoire pour l'utilisation libre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2258</ID>
-      <DefaultText>Access level {0} Camping bonuses</DefaultText>
+      <DefaultText>Accède au bonus de Campement niveau {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2259</ID>
-      <DefaultText>Grants Second Wind level {0}</DefaultText>
+      <DefaultText>Octroie Second souffle niveau {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2260</ID>
-      <DefaultText>{0}-pt {1} Damage Shield</DefaultText>
+      <DefaultText>{0}-pt {1} Bouclier dégât</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2261</ID>
-      <DefaultText>{0} when Endurance drops below {1}</DefaultText>
+      <DefaultText>{0} quand Endurance en dessous de {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2262</ID>
-      <DefaultText>Occlusion Opacity</DefaultText>
+      <DefaultText>Opacité de l'occlusion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2263</ID>
-      <DefaultText>Adjust the opacity of characters when they are occluded by the environment.</DefaultText>
+      <DefaultText>Ajuste l'opacité des personnages lorsqu'ils sont obstrués par l'environnement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2264</ID>
-      <DefaultText>Defended by:</DefaultText>
+      <DefaultText>Défendu par :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2267</ID>
-      <DefaultText>The character's AI will not use any spells or abilities.</DefaultText>
+      <DefaultText>L'IA des personnages n'utilisera pas de sorts ou de compétences.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2268</ID>
-      <DefaultText>Disable Tutorial Messages</DefaultText>
+      <DefaultText>Désactiver les didacticiels</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2269</ID>
-      <DefaultText>Loading Error</DefaultText>
+      <DefaultText>Erreur de chargement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2270</ID>
-      <DefaultText>There was an error loading the next map. Returned to Main Menu to prevent save game corruption.</DefaultText>
+      <DefaultText>Une erreur s'est produite en chargeant la carte suivante. Retour au menu principal pour éviter la corruption de la sauvegarde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2273</ID>
-      <DefaultText>Steals {1} spells of Level {0} or lower</DefaultText>
+      <DefaultText>Vole {1} sorts de Niveau {0} ou moins</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2274</ID>
-      <DefaultText>Stole {0} from {1}</DefaultText>
+      <DefaultText>A volé {0} à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2279</ID>
-      <DefaultText>Damage Shield</DefaultText>
+      <DefaultText>Bouclier dégât</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10487,7 +10498,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2281</ID>
-      <DefaultText>Parcourir les menus</DefaultText>
+      <DefaultText>Écran du prochain menu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10527,37 +10538,352 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2290</ID>
-      <DefaultText>No Knockout Injuries</DefaultText>
+      <DefaultText>Sans blessures rendant Inconscient</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>If set, party members will not recieve knockout injuries when they are reduced to 0 Endurance in combat.</DefaultText>
+      <DefaultText>Si sélectionné, les membres de l'équipe ne recevront pas de blessures rendant inconscient lorsque leur endurance est réduite à 0 en combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2294</ID>
-      <DefaultText>Previous Menu Screen</DefaultText>
+      <DefaultText>Écran du menu précédent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2302</ID>
-      <DefaultText>Camping allows your party members to restore lost health and recieve a Camping Bonus.  Camping will consume a Camping Supply.</DefaultText>
+      <DefaultText>Camper permet aux membres de votre équipe de regagner la santé perdue et recevoir un Bonus de campement. Camper consommera une fourniture de Campement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2303</ID>
-      <DefaultText>High level wizards, druids, and priests' low-level Per Encounter spells have been replaced with Spell Mastery. Level up your casters to select qualifying spells.</DefaultText>
+      <DefaultText>Les sorts hauts niveaux des magiciens et druides, et bas niveaux des prêtres Par rencontre ont été remplacés par Maîtrise des sorts. Montez de niveau vos lanceurs de sorts pour sélectionner les sorts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2304</ID>
-      <DefaultText>{1} attackers get {0} Accuracy</DefaultText>
+      <DefaultText>Les attaquants {1} obtiennent {0} Précision</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2305</ID>
-      <DefaultText>Remove {0}</DefaultText>
+      <DefaultText>Retire {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2306</ID>
+      <DefaultText>Personnages {0} touchés par {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2307</ID>
+      <DefaultText>Personnages {0} touchant {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2308</ID>
+      <DefaultText>Personnages touchés par {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2309</ID>
+      <DefaultText>Personnages touchant {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2311</ID>
+      <DefaultText>{0} Temps de récitation de la Phrase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2313</ID>
+      <DefaultText>Souffle de dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2314</ID>
+      <DefaultText>dégâts minimum contre les personnages affectés par Confusion, Charme, Domination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2315</ID>
+      <DefaultText>Si réussi : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2316</ID>
+      <DefaultText>Applique le même effet que {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2319</ID>
+      <DefaultText>Subir {0} dégâts de {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2320</ID>
+      <DefaultText>Subir {0} {2} dégâts de {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2321</ID>
+      <DefaultText>Infliger {0} dégâts à {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2322</ID>
+      <DefaultText>Infliger {0} {2} dégâts à {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2323</ID>
+      <DefaultText>Durée effet drogue : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2324</ID>
+      <DefaultText>{0} sur la victime</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2325</ID>
+      <DefaultText>Personnage apparié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2326</ID>
+      <DefaultText>{0} d'Endurance transférée depuis le jeteur du sort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2327</ID>
+      <DefaultText>Voile perforant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2328</ID>
+      <DefaultText>{0} {1} volés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2329</ID>
+      <DefaultText>Avoir au moins {0} en {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2330</ID>
+      <DefaultText>homme {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2331</ID>
+      <DefaultText>femme {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2332</ID>
+      <DefaultText>Êtes-vous sûr de vouloir dupliquer {0} ? Cela consommera {1} de manière permanente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2333</ID>
+      <DefaultText>La duplication de {0} a été placée dans la réserve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2334</ID>
+      <DefaultText>Seul l'équipement peut être dupliqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2335</ID>
+      <DefaultText>{0} ne peut pas être dupliqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2336</ID>
+      <DefaultText>Les objets équipés ne peuvent pas être dupliqués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2361</ID>
+      <DefaultText>Efficacité de l'armure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2366</ID>
+      <DefaultText>Impossible d'entrer en mode Éclaireur pendant le combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2367</ID>
+      <DefaultText>Résistances : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2368</ID>
+      <DefaultText>Immunité contre {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2369</ID>
+      <DefaultText>Toile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2370</ID>
+      <DefaultText>{0} tous les {1} niveaux entre {2} et {3}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2371</ID>
+      <DefaultText>{0} tous les {1} niveaux après {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2372</ID>
+      <DefaultText>l'IA du groupe est active.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2373</ID>
+      <DefaultText>l'IA du groupe est inactive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2386</ID>
+      <DefaultText>réglé sur {0} par {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2388</ID>
+      <DefaultText>Sol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2389</ID>
+      <DefaultText>Champ de Yenwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2391</ID>
+      <DefaultText>Restaure {0} utilisation de {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2392</ID>
+      <DefaultText>Restaure {0} utilisations de {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2399</ID>
+      <DefaultText>Sanctuaire d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2400</ID>
+      <DefaultText>Forge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2401</ID>
+      <DefaultText>Casernes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2402</ID>
+      <DefaultText>Salle d'entraînement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2403</ID>
+      <DefaultText>Salle de guerre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2404</ID>
+      <DefaultText>Archives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2405</ID>
+      <DefaultText>{0} demande une audience avec vous à la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2406</ID>
+      <DefaultText>rebondit jusqu'à {0} fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2407</ID>
+      <DefaultText>Par rebond : {0} dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2415</ID>
+      <DefaultText>Icônes d'action sur les portraits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2416</ID>
+      <DefaultText>Si cette option est activée, l'action en cours de chaque membre de l'équipe sera affichée sur son portrait pendant le combat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2417</ID>
+      <DefaultText>Action en cours</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2418</ID>
+      <DefaultText>Salle des archives</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2419</ID>
+      <DefaultText>Sanctuaire de Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2420</ID>
+      <DefaultText>{0} sera occupé pendant {1}.</DefaultText>
+      <FemaleText>{0} sera occupée pendant {1}.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2423</ID>
+      <DefaultText>Eyeless</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2430</ID>
+      <DefaultText>{0} {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2432</ID>
+      <DefaultText>{0} with at least {1} Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2433</ID>
+      <DefaultText>{0} with less than {1} Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2434</ID>
+      <DefaultText>Prevent {1} ({0} times)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2435</ID>
+      <DefaultText>Lord Byrnwigar's forces have been spotted approaching the keep. They will arrive soon!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2436</ID>
+      <DefaultText>Byrnwigar's Forces</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

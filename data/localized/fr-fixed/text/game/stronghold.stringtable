@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\stronghold</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>88</EntryCount>
+  <EntryCount>281</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -442,6 +442,1207 @@
     <Entry>
       <ID>88</ID>
       <DefaultText>Divers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>À Stalwart, j'ai rencontré un domestique en esclavage qui en est venu à des mesures létales pour échapper à sa servitude. J'ai choisi de l'emprisonner à Caed Nua plutôt que de le laisser aux chasseurs d'esclaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>{0}, a hero of the Saint's War, has arrived at the stronghold. She has asked for an audience with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>{0} is speaking with {1} about their experiences in the war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>After spending some time together, {0} was able to help {1} reconcile with her past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Le Cor d'ivoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Les explorateurs dans Eir Glanfath ont découvert un Cor d'ivoire dont la provenance est contestée. La plupart des Glanfathans pensent qu'il a été volé dans des ruines engwithanes, mais les explorateurs affirment qu'il a été abandonné après une expédition naine.
+
+Les explorateurs attendaient un arbitrage dyrwoodan dans le refuge d'Eina quand des voleurs ont attaqué le groupe, tué plusieurs membres et volé le cor. On suspecte qu'il se trouve actuellement quelque part le long de la rivière Isce Îen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>{0} a traqué la position des voleurs du Cor d'ivoire dans la Vallée du croisement. Après une petite escarmouche, deux voleurs étaient morts. Plutôt que de mourir pour le cor, le voleur restant l'a abandonné et a pris la fuite. {0} l'a récupéré et l'a rapporté aux médiateurs du refuge d'Eina. Après un jugement en leur faveur, les survivants de l'expédition ont donné à {0} le Nautile d'Or-Grammon, un extraordinaire coquillage enchanté venu de l'archipel du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Le Cor d'ivoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Les explorateurs dans Eir Glanfath ont découvert un Cor d'ivoire dont la provenance est contestée. La plupart des Glanfathans pensent qu'il a été volé dans des ruines engwithanes, mais les explorateurs affirment qu'il a été abandonné après une expédition naine.
+
+Les explorateurs attendaient un arbitrage dyrwoodan dans le refuge d'Eina quand des voleurs ont attaqué le groupe, tué plusieurs membres et volé le cor. On suspecte qu'il se trouve actuellement quelque part le long de la rivière Isce Îen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>{0} a traqué la position des voleurs du Cor d'ivoire dans la Vallée du croisement. Après une petite escarmouche, deux voleurs étaient morts. Plutôt que de mourir pour le cor, le voleur restant l'a abandonné et a pris la fuite. {0} l'a récupéré et l'a rapporté aux médiateurs du refuge d'Eina. Après un jugement en leur faveur, les survivants de l'expédition ont donné à {0} le Nautile d'Or-Grammon, un extraordinaire coquillage enchanté venu de l'archipel du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Eaux noires, tombes brisées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>À la lisière sud-est d'Eir Glanfath, la ville isolée de Larmes d'Airana se situe sur le rivage nord du lac des Tombes englouties. 
+
+Dernièrement un phénomène étrange a complètement noirci les eaux du lac d'habitude limpides. Encore plus étrange, les tombes de pierre de la ville ont été éventrées de l'intérieur, leurs occupants squelettes marchant lentement vers le bord de l'eau puis dans les profondeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Après plusieurs nuit d'attente inutile, {0} a finalement découvert l'origine des eaux noires du lac : le cean gŵla d'une sorcière qui s'était installée à Larmes d'Airana, il y a plus d'un siècle. Des locaux ont accidentellement labouré son caveau funéraire. Sa dépouille a glissé dans le lac durant un violent orage. 
+
+L'esprit, auparavant content de hanter le champ, a commencé à convoquer ses anciens voisins au fond du lac avec elle. Avec l'aide des locaux, {0} a pu rendre le repos à l'esprit. 
+
+La plupart des corps ont pu être rendus à leurs tombes respectives, mais toutes n'ont pas pu être ré-assemblées. {0} a rapporté un morceau de l'une des tombes mystérieuses en souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Erreurs clériques</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Vers la fin de la guerre du Saint, la bataille du Val de la clémence a vu les Dyrwoodans essuyer une terrible défaite des mains de leurs voisins du nord, les Readcerans. De nombreuses reliques des Saints Magranites ont été perdues lorsque les envahisseurs ont mis à sac l'église de la Flamme Sinueuse. 
+
+Dans les années suivant la fin de la guerre, on pensait avoir compté toutes les reliques. Ce n'est que récemment que les fidèles de Magran ont réalisé que trois objets avaient été marqués comme récupérés par erreur : la main de Saint Igradh, une mèche de cheveux de Saint Dadwn, et les larmes de Saint Borragia. 
+
+Les Magranites mènent des enquêtes à travers le Dyrwood pour tenter de découvrir leurs locations respectives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>{0} a cherché à travers le Dyrwood et trouvé la main de Saint Igradh dans un magasin de curiosités de la Nouvelle-Heomar, la mèche de cheveux de Saint Dadwn sur la poupée d'une petite fille à Loghome, et les larmes de Saint Borragia autour du cou d'un mercenaire violent du Bout de la route. 
+
+L'église de la Flamme Sinueuse reconstruite était reconnaissante que les trois reliques aient été rapportées, mais durant les investigations de {0}, deux prêtres de Magran de haut rang ont émis des doutes sur le patriotisme de Saint Borragia. En utilisant des preuves tirées de la copie originale de sa vie, les prêtres ont généré assez de critiques pour que l'église finisse par accepter à contrecœur de se débarrasser des larmes de Saint Borragia. {0} en profita pour les récupérer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Peau sacrée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Des éclaireurs de la tribu des Flèches doubles affirment qu'une druidesse elfe dérangée a fait irruption dans l'une des petites ruines occidentales d'Eir Glanfath et s'est échappée avec la peau d'un ours énorme que la tribu avait chassé il y a cinq générations. 
+
+La tribu de proscrits a été dans l'impossibilité de localiser la druidesse et ils n'ont reçu aucune aide de la part des autres Glanfathans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Les Flèches doubles ont donné à {0} assez d'informations pour poursuivre la druidesse dérangée dans les forêts au nord de Dyrford. La conversation avec la druidesse a été difficile, ses émotions changeant rapidement, sans avertissement et souvent avec violence. 
+
+{0} a fini par comprendre que son âme avait été Réveillée alors qu'elle était en pleine transformation spirituelle. Son âme Réveillée était devenue obsédée par la récupération et l'appropriation de la peau d'ours qu'elle avait chassé des générations auparavant. Au final, la druidesse a attaqué {0} et certains locaux de Dyrford furent tués dans le combat qui s'ensuivit. 
+
+Les Flèches doubles étaient reconnaissantes d'avoir récupéré la peau d'ours et attristées de voir comment l'épreuve s'était terminée. Elles donnèrent une paire de bottes de chasses fabriquées avec soin à {0} en guise de cadeau de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Le briseur de ciel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Pendant des années, une sorcière vieillissante a été vue en train de voyager à travers toute la côte nord-ouest du Dyrwood, s'attelant à réaliser des expériences au beau milieu d'orages extrêmement violents. Quant à découvrir si la sorcière utilisait les éléments météo à son avantage ou si elle en était la cause, les locaux ne l'ont jamais su avec certitude. 
+
+Au cours des récents mois, la sorcière n'a pas a été aperçue, mais les fermiers ont raconté avoir vu passer un nuage sombre tourbillonnant à travers des cieux autrement dégagés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Durant l'expédition pour pister l'étrange orage, {0} a découvert que la vieille sorcière avait d'une certaine façon réussi à se transformer en une sorte unique de fléau magique. Dans sa forme orageuse, elle avait continué à flotter autour et au-dessus du Dyrwood, incapable de retourner dans son corps original d'elfe. 
+
+{0} fut péniblement capable de communiquer avec elle en observant une série déroutante de coups de tonnerre et d'éclairs. La sorcière a dirigé {0} vers son laboratoire dans la périphérie de Val-Doré. Après avoir réalisé une petite série d'opérations simples dans le laboratoire, {0} a finalement réussi à rendre sa forme naturelle à la sorcière qui s'est montrée reconnaissante. Pour montrer sa gratitude, elle a donné à {0} un bourdon capable de générer des orages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Un creux oublié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Il y a vingt ans, un bûcheron de Loghome avait demandé à un porteur d'offrandes d'Ondra d'enfouir les souvenirs douloureux de sa femme défunte quelque part dans la dense forêt de Blackwyr. 
+
+Peu après son décès, sa fille s'est mise à chercher des informations à propos de sa mère. Son père n'avait pas laissé d'indices et le porteur d'offrandes n'avait été aperçu que deux fois par les locaux au cours de la dernière décennie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>En retrouvant la piste du porteur d'offrandes, {0} a pu déduire que les biens de la mère reposaient dans un vieux chêne mort. Malheureusement, l'arbre majestueux était devenu l'hôte d'une importante colonie de dendroctones. 
+
+Après une prudente reconnaissance et quelques combats, {0} a retrouvé les biens et les a rapportés à la jeune fille. Cependant, celle-ci a réalisé qu'un curieux anneau de bois parmi les objets n'appartenait pas à sa mère. Elle l'a donné à {0} en guise de remerciements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Marche de la sorcière</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Un ordre de druides des abords des Contrées orientales se réunit à la croisée de Magran à quelques années d'intervalle et réalise une procession d'une semaine le long d'une ancienne piste qui selon eux était autrefois utilisée par les Engwithans. Ces dernières années, la piste a été très peu utilisée par les êtres civilisés mais est fort fréquentée par les bêtes et la vie sauvage. 
+
+En raison de la nature de la procession, les druides ne portent pas d'armes et font vœu de s'abstenir de toute violence. Ils recherchent des mercenaires dignes de confiance et des aventuriers pour les protéger pendant leurs cérémonies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Même si la procession fut longue et pleine de périls, la seule véritable menace à laquelle {0} dut faire face fut une attaque par une compagnie d'aventuriers espérant capturer les druides et exiger une rançon à leurs communautés respectives. 
+
+Avec l'aide des mercenaires embauchés par les druides, {0} a pu facilement se défaire des assaillants. Malheureusement l'un des druides les plus âgés est mort pendant l'attaque, probablement à cause du stress généré par la situation. En remerciement de ses braves services, {0} a reçu le chapeau du vieux druide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Le miroir nocturne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Une série de meurtres inquiétants et de suicides dans les frontières occidentales d'Eir Glanfath a été liée à des rumeurs concernant un artefact Engwithan récemment exhumé. Les victimes parlent d'un grand miroir en fer-blanc qui murmure des messages exaspérant à ceux qui se contemplent dedans les nuits de pleine lune. 
+
+Le Rang de Dunryd et le sanatorium de Brackenbury ont essayé d'interroger les survivants, mais la plupart sont trop déboussolés pour rendre compte de manière cohérente de ce qui a transpiré, ni où le miroir a pu être emmené.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Avec l'aide d'un mystérieux clairvoyant orlan, {0} a pu localiser le prétendu miroir nocturne dans un coin reculé au sud-ouest d'Eir Glanfath. Contre toute attente, le miroir nocturne avait asservi plusieurs Glanfathans, et tous étaient prêts à tuer pour protéger le miroir. 
+
+Dans une bataille de longue haleine, {0} et le clairvoyant ont pu briser le miroir et le sort qui les retenaient sous contrôle. 
+
+Une fois les choses tassées, certains des « associés » du clairvoyant arrivèrent, c'était apparemment des agents d'une organisation inconnue. L'évasif orlan a présenté ses excuses à {0}, mais a expliqué que les restes du miroir nocturne devaient être mis à l'écart en lieu sûr. Il était si fier de la façon dont les choses avaient tournées qu'il ne remarqua pas {0} cacher un morceau du miroir pendant la totalité de son discours. Naturellement, {0} le rapporta à Caed Nua en souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Le tribunal des esprits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Au sud-ouest de Val-Doré, les voyageurs ont rapporté la présence d'esprits en colère qui se rassemblaient près d'un cercle de piliers d'adra brisés. Ceux qui sont assez braves pour s'aventurer près des esprits ont raconté qu'ils semblaient débattre à propos de contentieux légaux depuis longtemps oubliés. 
+
+Même si les locaux ont vite appris à prendre une route qui évite totalement les piliers d'adra, un nombre conséquent de marchands étrangers qui débarquaient au Bout de la route ont été tués, victimes des ombres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>{0} avait fait les préparations nécessaires pour combattre une foule d'esprits en colère dans le cercle des piliers d'adra mais a rapidement découvert que les ombres voulaient simplement résoudre un certain nombre d'anciens conflits. Bien au fait des choses pour des esprits, les ombres ont présenté leurs cas durant de longues heures. {0} a agi en tant que médiateur du groupe, rendant les décisions pour permettre aux esprits de trouver le repos. 
+
+Une fois que la dernière paire d'esprit chamailleurs disparut dans l'au-delà, {0} a découvert les restes d'intrus précédents, et une ceinture de carillons méditatifs, finement ciselée, sur un moine infortuné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Une couronne de cendres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Dans la République Vailienne de Palminia, un cimetière militaire a été saccagé par des vandales qui ont brûlé les hommages laissés pour les défunts. Même si l'affaire est troublante pour la duchesse, elle n'a que peu de ressources locales pour gérer le problème. 
+
+Alors que la république célèbrera bientôt le 50e anniversaire de la bataille de Lagone Pirella, la duchesse aimerait voir le mystère résolu rapidement et en douceur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Avec la bénédiction de la duchesse de Palminia, {0} a commencé une enquête sérieuse sur les actes de vandalisme au cimetière militaire. Après avoir beaucoup creusé (parfois pour de vrai, parfois métaphoriquement), {0} a pu identifier l'unique coupable, le petit-fils d'un soldat qui avait été exécuté pour couardise lors de la bataille de Lagone Pirella. 
+
+Selon le jeune homme, son grand-père avait été calomnié et l'exécution était injuste. La duchesse et le songretta ducala de Palminia ont examiné les preuves du jeune homme et décidé de restaurer la dignité de son grand-père en inscrivant son nom sur le mémorial de Lagone Pirella. Cependant, le jeune homme restait coupable d'avoir violé une longue liste de lois et usages palminians. La duchesse l'exila de l'île à vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>La page non tournée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Une série de meurtres a choqué et terrorisé les scribes de l'île de Roc-blanc. Séquestrés dans leur monastère insulaire de la Botte d'Ondra, ils n'ont rencontré que peu de succès en cherchant à joindre le continent pour trouver de l'aide. 
+
+Bien que renommés pour leur intégrité et leurs talents artistiques, les scribes ont pu héberger à leur insu quelqu'un qui tenterait de saboter leurs travaux sur les livres « interdits ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Après avoir échoué à prévenir deux morts additionnelles, {0} et les moines ont pu retrouver la trace du meurtrier, un scribe mystérieux de l'ordre que les autres moines pensaient mort depuis des années. 
+
+En réalité, le scribe s'était caché dans les catacombes sous le monastère et avait progressivement détruit les travaux « hérétiques » qui selon lui diffusait des mensonges à propos de l'origine des dieux. Quand les moines commencèrent à s'en rendre compte, il tuait quiconque pouvait avoir des soupçons. 
+
+Plutôt que de faire face à sa punition, le scribe trouva la mort en sautant de la plus haute tour du monastère. Dans le laboratoire souterrain du scribe, {0} découvrit plusieurs fioles suspectes d'un fluide épais et marron. L'herboriste du monastère les identifia comme un puissant poison, le même que celui qui avait été utilisé pour tuer les moines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Ligne de flottaison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Un bateau marchand de Rauatai a été coulé par des pirates aedyrans sur la côte est de Readceras. Avant que le bateau ne s'évanouisse dans les vagues, les pirates se sont emparés de précieux trésors, comme des outils d'expérimentations d'animancie ou des appareils nautiques à destination de la Baie du défi et de Spirento. 
+
+Ceux qui étaient censés recevoir la marchandise se renseignent discrètement pour trouver une aide potentielle. Leur espoir est de récupérer les marchandises avant que les pirates n'apprennent la valeur de ce qu'ils ont pris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Après avoir voyagé au nord depuis la citadelle du Marteau divin, {0} arriva dans la cité portuaire readcerane de Benhaldt. Plusieurs des pirates avaient atterri ici et vendu la majorité de leur butin. 
+
+Des tuyaux et des rumeurs venus des marchands et des éléments criminels menèrent {0} vers les îles des Os, un petit archipel au nord-ouest de Readceras. Les pirates les plus téméraires livrèrent bataille, mais la plupart s'enfuirent avec de petits restes de la cargaison. 
+
+Finalement, {0} parvint à récupérer un peu plus de la moitié de ce qui avait été volé. Un objet, une petite et curieuse cloche de plongée, ne fut pas revendiqué par le conglomérat de marchands qui avait payé pour récupérer la marchandise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Immobiles comme la pierre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Les fermiers Apahuillo dans les Plaines d'Ixamitl ont découvert un grand cercle élaboré en petits piliers d'adra dans une vallée méridionale retirée. 
+
+Bien que l'on pense qu'ils sont connectés aux Engwithans d'une façon ou d'une autre, les piliers ne semblent pas être liés à de quelconques ruines. Cependant, depuis que le site a été découvert, des fermiers jusqu'à une cinquantaine de kilomètres à la ronde ont commencé à disparaître, pour être finalement retrouvés quelques jours ou semaines plus tard dans le cercle de pierres, pétrifiés à tout jamais. 
+
+Comme les Apahuillo n'ont que peu d'expérience avec les piliers d'adra, ils ont demandé de l'aide aux Readcerans, Dyrwoodans et Glanfathans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>La voyage jusqu'aux Plaines d'Ixamitl fut majoritairement sans surprise, mais {0} a découvert une vision d'horreur lors de son arrivée au cercle d'adra Apahuillo. Plus d'une cinquantaine de locaux avaient été à jamais pétrifiés aux côtés des pierres. 
+
+Cela prit quelques jours d'investigation, mais {0} apprit que les enlèvements s'étaient tous déroulés à des heures précises de la nuit et selon un schéma récurrent. Avec l'aide d'un mathématicien et philosophe Apahuillo, {0} a pu dévoiler l'identité de l'assassin, une adragan extrêmement puissante qui protégeait le cercle d'adra depuis des siècles. Quand les êtres civilisés découvrirent l'endroit secret, elle commença à suivre et pétrifier systématiquement quiconque vivait à distance de marche du site. 
+
+{0} mena un combat de longue haleine contre la créature avec l'aide des locaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Le Cercle des lamentations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Une société secrète d'animanciens a voyagé autour des Contrées orientales, en promettant de rendre la vie à des êtres chers perdus. Ils pratiquent leurs rituels lors de réunions clandestines dans plusieurs villes, ne restant jamais au même endroit plus de quelques jours. 
+
+Même si quelques étincelles de vie semblent être restaurées sur les corps qu'ils ravivent, les autorités suspectent que le groupe est derrière des enlèvements, des meurtres, des vivisections et d'autres pratiques épouvantables qui seraient requises par leurs méthodes. Pires encore, ceux à qui la vie a été restaurée se décomposent rapidement ou deviennent fous dans les jours qui suivent la résurrection. 
+
+Des animanciens préoccupés et plusieurs autorités civiles recherchent de l'aide pour identifier les responsables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>La société secrète connue comme le Cercle des lamentations, a réussi à échapper à {0} à maintes reprises. Au moment où {0} découvrait leur dernier repaire, ils commençaient à déménager vers une nouvelle ville. Apparemment, le Cercle des lamentations disposait d'un réseau d'espions étendu à sa disposition. 
+
+Finalement, {0} parvint à capturer une femme haut placée qui était encline à révéler des informations sur ses frères et sœurs. Dans un charnier du Bout de la route, {0} et quelques soldats de confiance de la famille Manhem ont confronté et tué la majorité des chefs du culte. 
+
+Bien que quelques membres du groupe se soient échappés, la comtesse d'Helsgate, Frya Manhem a confiance en le fait que leur puissance dans le Dyrwood a été brisée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Des crânes pour Mère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Au plus profond des ruines du puits d'Ibrel, une paire de pŵgras chasse les voyageurs et les offre en sacrifice pour leur « mère ».
+
+Dans le passé, les voyageurs savaient simplement qu'il fallait éviter toutes les pistes qui menaient près du puits, mais récemment, les pŵgras ont augmenté la portée de leurs chasses. Des voyageurs ont été enlevés ou tués sur les routes qui relient le val du Réconfort et Midwood. 
+
+Les Glanfathans sont réticents à entrer dans le puits d'Ibrel en raison de la signification religieuse des ruines qui y sont présentes, mais cela n'a pas stoppé les résidents des villes affectées à chercher de l'aide au Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>{0} a exploré les ruines du puits d'Ibrel en profondeur et a trouvé un vaste éventail de dangers dans les palais et les maisons en ruine de l'ancienne cité. 
+
+Bien que les pŵgras aient toujours été hostiles envers les étrangers, {0} a réussi à dialoguer avec eux pour se rendre compte que leurs esprits étaient contrôlés par quelqu'un d'autre. La raison de l'augmentation des attaques était une clairvoyante orlane qui avait été désavouée par son père puis bannie des Flèches doubles.
+
+Spécialement compétente en domination mentale, la clairvoyante utilisait les pŵgras (ses « enfants ») pour faire fortune sur les voyageurs malchanceux. Cependant, une fois démasquée par {0}, la clairvoyante présomptueuse fut rapidement défaite.
+
+Dans la tanière de la clairvoyante, proche du cœur du puits d'Ibrel, {0} a découvert un atroce trésor : un collier que les pŵgras avaient réalisé avec les dents du père assassiné de la clairvoyante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Liée et enterrée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Des gens superstitieux près du Bout de la route ont pris des mesures pour agir à propos d'une rumeur qui prétend que les cheveux d'une vierge morte qui a été liée et enterrée vivante pourraient guérir un sans-âme. Non seulement, cela a-t-il donné lieu à d'horribles attaques contre de jeunes filles, mais des marchands peu scrupuleux ont décidé de vendre des mèches de cheveux à ceux qui n'avaient pas l'estomac assez solide pour réaliser l'acte par eux-mêmes. 
+
+Les thayns locaux du Bout de la route ont assigné des agents pour découvrir la source du problème, mais ils n'ont rencontré que peu de succès.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Même si {0} n'a pas pu découvrir la source de l'épidémie de rumeurs au Bout de la route et dans le comté environnant de Helsgate, les autorités locales ont aidé à disperser des foules, à punir des probables meurtres et à éviter que d'autres jeunes filles ne finissent enterrées vivantes. Une foule particulièrement violente, réunie au cimetière de Kell Hill a forcé {0} et les soldats locaux à tuer les fauteurs de trouble. 
+
+Sur le corps de l'un des belligérants les plus massifs, {0} a trouvé une corde magique étrange qui était destinée à être utilisée sur une jeune fille locale. Un sorcier, conseiller de la comtesse de Helsgate, suspectait que la corde avait été créée par la même personne responsable d'avoir diffusé les rumeurs et incité les attaques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>La chanson de la Tisserande</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Les habits colorés de la tisserande Spirentane, Bonisetta, sont connus à travers toutes les Contrées orientales. Il y a plus d'un an, alors qu'elle voyageait vers la Baie du défi, son bateau a coulé dans un violent orage près de la Côté perlée. Par miracle, la majorité des passagers avaient survécu.
+
+Le corps de Bonisetta ne fut jamais retrouvé et elle fut considérée comme morte. Cependant, un marchant vailien de la Baie du défi a récemment reconnu le style caractéristique de Bonisetta dans une cargaison ordinaire de textiles. Il en a parlé avec d'autres et a fini par apprendre que plusieurs cargaisons livrées à différents marchands portaient les mêmes motifs révélateurs.
+
+Maintenant, beaucoup de marchands pensent que Bonisetta est retenue captive quelque part et qu'elle tente de communiquer à travers son travail. Quel que soit le message, personne n'a été capable de le déchiffrer, et encore moins de découvrir sa provenance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>{0} a trouvé surprenante la résistance opposée à ses questions concernant les agissements de Bonisetta. Celui ou celle qui la retenait captive voulait garder cet endroit absolument secret. 
+
+Sur ordre de la duchesse de Spirento, une équipe de cryptographes vailiens s'attela à déchiffrer les fragments des messages tissés de Bonisetta. Et en retour, ils livrèrent leurs indices à {0}. Après plusieurs combats brutaux contre des mercenaires bien entraînés, {0} atteignit la prison de Bonisetta, une maison de tissage proche de Girrara. La compagnie de textile vailienne qui l'avait enlevée fut immédiatement bannie des républiques vailiennes, petites et grandes. 
+
+Pour remercier {0} de l'avoir sauvée, Bonisetta tissa un manteau enchanté qu'elle lui offrit pour son voyage de retour vers Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Une malédiction d'argile froide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Tout autour des Contrées orientales, les gens sont enterrés dans des cimetières et reviennent d'entre les morts en fampyrs. Un examen réalisé par des locaux a révélé que des animanciens avaient violé plusieurs zones funéraires avant l'enterrement. 
+
+Les seigneurs locaux ont alors émis des récompenses pour la capture de quiconque en était responsable. Malheureusement, la rapide propagation des évènements a mené beaucoup de gens à penser qu'un groupe, plutôt qu'une seule personne, était derrière ces expériences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>{0} voyagea depuis l'Abbaye du Pendu jusqu'à la Baie des Couronnes pour enquêter sur plusieurs rapports faisant état d'apparition de fampyrs. À chaque fois, {0} découvrit que le site funéraire contenait du verre ouvragé, du cuivre et des appareils d'adra enterrés aux alentours. 
+
+La complexité distinctive des appareils fut vite reliée à un nain vailien qui avait été banni de Selona et Ancenze pour ses activités déplaisantes. Une fois capturé, le nain affirma qu'il ne souhaitait pas créer de fampyrs, mais cherchait plutôt à restaurer la vie. Les fampyrs étaient créés en raison de l'incapacité du nain à résoudre un problème fondamental dans sa machinerie. La fréquence incroyable des activités du nain n'était pas due à des co-conspirateurs, mais plutôt à un usage important de drogues qui le tenaient éveillé et dans un état frénétique des jours durant.
+
+Face à ses responsabilités, le nain ne chercha pas à combattre et accepta d'être envoyé en détention. Quand {0} le laissa à son sort, il attendait son procès à Telaneir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Le nœud de Saint Ifen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>La légende Ymyran raconte que Saint Ifen avait créé un nœud miraculeux que les infidèles ne pourraient pas dénouer. 
+
+Un cambrioleur audacieux a récemment dérobé la myriade de reliques précieuses que contenait le Hall du Forgeron de Ymyrgal. Là où se tenait auparavant chaque trésor, un cordon était noué, chacun menant vers un nœud complexe au centre du temple. Le cambrioleur avait laissé un indice attrayant qui prenait la forme d'une prière écrite pour Saint Ifen, mais l'énigme n'avait pas pu être résolue par les locaux. 
+
+Désespérés de retrouver leurs artefacts, les prêtres s'étaient adressés à des mercenaires et à des aventuriers pour demander de l'aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>À Ymyrgal, {0} avait rencontré les prêtres d'Abydon pour discuter du mystère de qui avait bien pu voler les artefacts du Hall du Forgeron, et pourquoi. 
+
+Pendant son investigation, un prêtre excentrique de Wael prêta au groupe son « aide » bizarre : d'autres énigmes pour répondre aux énigmes du voleur. Après avoir retrouvé chaque artefact volé grâce à une série d'indices additionnels, {0} et les prêtres d'Abydon se rendirent compte que le prêtre de Wael était en fait le voleur. 
+
+Très content de lui, il n'émit pas d'objections lors de sa capture et fut envoyé au comte d'Ymyr pour recevoir sa punition. Quand {0} laissa les prêtres d'Abydon, ils étaient toujours en train d'essayer de déterminer quelle était la signification du vol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Ce que le puits renferme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Un peu au nord de la Vallée embrasée se niche un petit village du nom de Blanche-couronne. Il est si petit qu'il est souvent omis sur les cartes et les dossiers fiscaux, le village n'a que peu de contacts avec le reste du Dyrwood. Malgré sa petite taille, le hameau a une longue histoire, qui remonte à l'époque où c'était un camp tribal Glanfathan, il y a plus de trois siècles. 
+
+L'une des caractéristiques les plus célèbres de la communauté est un puits profond, dont le sommet est fait d'adra engwithan. Bien que sans signification religieuse pour les Glanfathans, tous ceux qui le voient sont d'accord pour dire que le puits est vraiment très ancien. Ces dernières années, les locaux ont rapporté que d'étranges sons émanaient de l'intérieur du puits. Certains les décrivent comme des sons animaux, d'autres comme de bizarres sons provenant d'une langue étrangère. Personne n'a osé s'aventurer au fond du puits, mais les villageois commencent à devenir nerveux lorsqu'il s'agit d'y puiser de l'eau.
+
+Bien que la communauté dispose de modestes ressources à sa disposition, ils sont entrés en contact avec les seigneurs voisins pour demander leur assistance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>En s'aventurant dans les profondeurs du puits de Blanche-couronne, {0} a découvert que si les fondations du puits étaient faites d'adra vivante, les bruits émis provenaient de wichts qui avaient été lâchés dans le puits par leurs mères. 
+
+Au total, une douzaine de femmes de Blanche-couronne et des bois environnants avait lâché leurs enfants dans le puits après avoir appris qu'ils se transformeraient en wichts. Certains étaient morts, mais beaucoup avaient survécu à la chute, se nourrissant de petits rongeurs et d'autres bestioles qui vagabondaient dans les tunnels engwithans en ruines sous le puits. 
+
+{0} dût livrer bataille contre les wichts agressifs, mais finit par l'emporter et conta aux villageois ce qui s'était produit. Certaines des mères confessèrent leurs agissements immédiatement. D'autres s'enfuirent du village. Au final, personne ne désirait punir quiconque pour ce qui s'était passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>La célébration funèbre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Depuis la fin de la guerre du Saint, les Dyrwoodans se sont réunis au pont d'Evon Dewr pour commémorer le sacrifice de la douzaine de personnes qui avaient donné leurs vies pour vaincre Saint Waidwen. Il est devenu coutumier pour les prêtres de Magran qui menaient la procession de chanter une hymne funèbre pour terminer la cérémonie. 
+
+Cette année, alors que le prêtre essayait de chanter l'hymne, sa langue gonfla dans sa gorge et il mourra dans d'atroces souffrances sous les yeux de la foule rassemblée. Lorsqu'un autre prêtre s'essaya à chanter l'hymne un mois plus tard, il subit le même sort. Certains pensent que les dieux doivent être tenus responsables pour les morts de ces prêtres. D'autres suspectent des Readcerans vengeurs. 
+
+Quels que soient les responsables, la prêtrise de Magran et les soldats de la citadelle du Marteau divin veulent les traîner en justice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Les morts violentes de deux prêtres Magranites au pont d'Evon Dewr ont suscité chagrin et indignation dans la citadelle du Marteau divin. 
+
+Il ne fallut pas longtemps à {0} pour découvrir que des radicaux Readcerans étaient les coupables. Deux sorciers avaient placé des malédictions qui avaient tué les prêtres, mais ils étaient épaulés par des douzaines de vétérans Readcerans de la guerre du Saint. Alors que les sorciers ne désiraient aucunement négocier avec {0} ou les Magranites, une bataille surgit, et elle se déroula en majorité sur les mêmes champs qui avaient été le théâtre des combats pendant la guerre. 
+
+Finalement, les sorciers furent vaincus et les Readcerans restants mis en déroute. Les prêtres qui avaient péri lors de l'attaque initiale furent enterrés près du pont et les gants cérémonieux du prêtre le plus haut placé, donnés à {0} en remerciements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Un sifflement dans les roseaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Dans les plaines d'Ixamitl, le lac de Zochine est célèbre pour ses magnifiques fleurs qui poussent le long de ses berges durant plusieurs semaines à chaque printemps. Les fermiers locaux récoltent les fleurs pour un festival printanier dans tous les villages environnants. 
+
+Lors des trois dernières années, quatre personnes ont disparu pendant la récolte des fleurs. Personne n'a été témoin des enlèvements, mais des gens du coin ont rapporté avoir entendu un sifflement aigu émis depuis les hauts roseaux. Quand les personnes enlevées sont découvertes, des jours après sur le rivage du lac, elles semblent heureuses et souriantes, mais inconscientes du monde qui les entoure. Les victimes bienheureuses ne récupèrent jamais de leur état, et la plupart décèdent après quelques semaines.
+
+Les philosophes du monastère qui borde le lac Zochine ont conseillé aux dirigeants locaux de chercher de l'aide à l'extérieur pour résoudre le problème.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Après plusieurs autres enlèvements au lac Zochine, {0} a découvert qu'une bête jusqu'alors inconnue était la cause de ces attaques. Un étrange scarabée rouge-rubis s'agrippait aux locaux et se nourrissait de leurs pires souvenirs.
+
+Même si les victimes semblaient résister, elles entraient bien vite dans un état de béatitude et n'opposaient plus de résistance. Malheureusement, le scarabée finissait par dévorer tous leurs souvenirs, laissant leurs esprits vides et coupés du monde. {0} parvint à retrouver le nid du scarabée et l'élimina. 
+
+Les locaux furent soulagés d'entendre que le scarabée avait été tué, mais consternés d'apprendre que des œufs éclos avaient été découverts dans le nid. Un philosophe du Monastère de Zochine offrit à {0} une baguette réalisée à partir de l'un des magnifiques roseaux rouges qui poussent autour du lac, en guise de cadeau de départ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Le chemin non emprunté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Parmi les Aimables voyageurs, lorsque le décès d'un membre se produit de causes naturelles, il est coutumier pour le paladin de solliciter que l'inhumation se déroule dans un endroit dangereux et difficile d'accès. Pour répondre à la requête de leur défunt camarade, les autres Aimables voyageurs forgent de nouveaux chemins que les autres pourront suivre plus facilement. 
+
+Lorsque le paladin aîné Adrem Delfar mourut, ses frères et sœurs se mirent en marche pour le lac de Rougefleur, dans un endroit reculé à l'extrême est de Readceras, mais ils n'atteignirent jamais leur destination. Avec si peu d'Aimables voyageurs restants dans ces zones des Contrées orientales, l'ordre a demandé de l'assistance pour récupérer les camarades et les aider à parvenir au lieu de leur dernier repos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>La route vers le lac de Rougefleur s'est révélée bien plus dangereuse que les aînés des Aimables voyageurs ne l'avaient prévu. Ils crurent que l'attaque contre la procession funèbre d'Adrem Delfar avait été menée par des ogres. À la place, {0} et les initiés Aimables voyageurs découvrirent des ogres à deux têtes géants et difformes, d'une férocité et une force incroyables. 
+
+Récupérer les corps des paladins fut coûteux, et cinq initiés supplémentaires succombèrent au cours du sauvetage. Finalement, {0} et sept Aimables voyageurs finirent par atteindre le lac de Rougefleur. Là, ils célébrèrent un service pour Adrem Delfar et les autres qui étaient tombés lors de leur voyage vers le sommet. 
+
+Sur le chemin du retour, les initiés placèrent des monticules de pierres marquées le long de la piste pour indiquer le moment où elle avait été nettoyée par les Aimables voyageurs - et à quel prix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Bague au doigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Nîdhen était un assassin glanfathan tristement célèbre pour sa brutalité et sa capacité à éviter d'être capturé par les meilleurs chasseurs de toutes les tribus. Quand il fut finalement appréhendé et mis à mort, son corps fut enterré dans un endroit tenu secret près de Clîaban Rilag. Un rîow avait fait une recommandation inhabituelle en espérant que les ruines engwithanes captureraient l'âme du tueur et l'empêcheraient de retourner à la Roue.
+
+Lors d'une célébration de Purge récente, une enfant orlan a découvert la tombe de Nîdhen par hasard. Sans réaliser ce qu'elle venait de trouver, elle en a parlé à ses parents qui ont deviné ce dont il s'agissait et en ont informé d'autres membres de leur tribu. Au bout d'une journée, le site funéraire de Nîdhen avait été pillé par quelques Glanfathans téméraires, le corps emmené ailleurs pour quelque rituel. Il ne restait que l'annulaire de sa main droite.
+
+L'anamfatha s'oppose à l'utilisation du corps de Nîdhen pour la préparation d'objets sacrés et récompensera quiconque le lui retourne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>La chasse pour retrouver les restes de Nîdhen fut difficile, alors que les Glanfathans mentaient constamment pour couvrir ceux qui étaient responsables. Un brîshalgwin orlan vint en aide à {0} pour découvrir la vérité, recouvrant finalement tous les morceaux du corps de l'assassin. 
+
+Même si les Glanfathans étaient enclins à mentir à propos de ce qu'ils avaient fait, ils n'usèrent pas de violence quand {0} et le brîshalgwin les confrontèrent. Un anamfath ordonna au brîshalgwin d'enterrer le corps dans un nouvel endroit, beaucoup moins fréquenté que les chemins des alentours de Clîaban Rilag. 
+
+Une fois de retour à Caed Nua, {0} réalisa que l'anamfath n'avait jamais demandé à ce que l'annulaire de Nîdhen soit restitué...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Ceux qui réveillent les étoiles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Les astronomes Glanfathans qui avaient prédit la Vague d'amour responsable de la destruction de la Faveur d'Ondra avaient caché la plupart de leurs instruments et notes de peur qu'ils ne soient capturés par les Aedyrans. 
+
+Des décennies après la guerre, les tribus récupérèrent les travaux des astronomes. Malheureusement, tous les astronomes d'origine avaient péri et la majorité de leurs écrits étaient griffonnés dans un code crypté. 
+
+Deux ducs vailiens avaient offert une récompense pour quiconque pourrait aider à déchiffrer le code pour les Glanfathans. Les tribus rechignaient à laisser les gens regarder les notes, mais croyaient qu'il serait plus avisé de partager leurs connaissances plutôt que de les laisser secrètes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Même s'il avait le support financier et celui du réseau d'espion des deux ducs vailiens, {0} eut d'énormes difficultés à déchiffrer le code des astronomes Glanfathans. La plupart des Glanfathans qui avaient d'abord semblé serviables étaient en fait des saboteurs qui pensaient que l'on ne pouvait pas confier de secrets Glanfathans à des étrangers.
+
+Une série d'embuscades et de traques à travers Eir Glanfath menèrent finalement {0} à faire face à la petite-petite-petite-fille de l'un des astronomes orlans qui avait prédit la Vague d'amour. Elle menaça de détruire la clé qui permettait de traduire le code, mais {0} parvint à négocier une traduction limitée des informations astronomiques cruciales.
+
+Pour finir, les ducs vailiens furent un peu déçus puisqu'ils s'attendaient à apprendre des secrets additionnels sur l'astronomie glanfathane. Cependant, les informations recouvrées par {0} étaient suffisamment fascinantes pour les astronomes vailiens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>L'œil du conflit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Dans la Cour des cendres se tient une imposante statue d'adra entremêlée à des arbres vivants. Remontant aux Engwithans, on pense qu'elle représente un dirigeant orlan de cet empire disparu.
+
+Bien que le cours naturel du temps l'ait endommagée, les Glanfathans se souviennent d'un acte de vandalisme contre la statue au début de la période coloniale. Pendant le chaos de la guerre de la Pierre profanée, les explorateurs Aedyres s'étaient aventurés profondément dans Eir Glanfath, se frayant un chemin jusqu'à la Cour des cendres, et avaient escaladé la statue pour en déloger un œil, aussi large qu'une tête aumaua et fait d'adra pure. La plupart des membres de cette bande furent capturés et tués par les Glanfathans, mais l'œil ne fut jamais retrouvé.
+
+Des rumeurs se sont propagées ces dernières années dans les Contrées orientales, selon lesquelles un nouveau "propriétaire" de l'œil essayait de le vendre au marché noir. Les anamfathas de trois tribus au moins récompenseraient quiconque le recouvrirait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>{0} dut mener d'intenses recherches et enquêter à travers trois pays, mais parvint finalement à retrouver la piste de l'œil en adra volé. À la suite de la guerre de la Pierre profanée, le voleur aumaua avait voyagé au sud vers Abet puis jusqu'à Naasitaq. Parmi les nains boréaux, le voleur rencontra un acheteur fortuné, chef d'une tribu prospère. Une génération plus tard, la tribu traversa une mauvaise passe et fut attaquée par des pirates de l'archipel du Feu éteint et des elfes pâles des Blanches étendues. Les elfes pâles vendirent l'œil volé aux marchands de Vailia l'Ancienne, qui l'avaient emmené au nord pour le prince de Darcozzi. Il resta là-bas durant deux générations.
+
+Quand le palais de Darcozzi fut saccagé, l'un des soldats envahisseurs s'empara de l'œil en récompense, l'emmenant de l'autre côté de la mer, à Ozia dans les Républiques de Vailia. Il était toujours là quand {0} arriva. Même si le riche patriarche propriétaire de l'œil en demandait une somme conséquente, l'anamfatha glanfathan n'hésita pas à payer la somme requise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Lumière des amants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Au cours des deux dernières années, les marins de la Grâce de Ciamena ont vu un couple de lueurs danser au-dessus des vagues tard dans la nuit. Ceux qui se sont approchés ont raconté avoir entendu les voix de deux femmes chantant une chanson d'une beauté sans pareille. Certains pensent que les âmes d'Alessa et de Pellanne, des amantes au destin funeste, un siècle auparavant, avaient été bannies d'Ancenze par une foule en colère et poussées des falaises vers leur mort.
+
+La duchesse d'Ancenze avait condamné les actions de la foule, mais l'insensible songretta ducala n'avait pas puni sévèrement les coupables. Depuis que les rumeurs à propos de ces lueurs se sont propagées, les vailiens romantiques sont partis vers les falaises ou ont même conduit de petites barques à l'écart du rivage dans l'espoir d'apercevoir les esprits.
+
+Le nouveau duc d'Ancenze fait de son mieux pour maîtriser ces comportements, mais il pense que le seul remède véritable sera de donner le repos aux esprits - une tâche difficile, étant donné l'endroit et le moment des apparitions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Un prêtre d'Ondra et une équipe de marins cupides emmenèrent {0} en barque vers l'endroit où les fantômes d'Alessa et Pellane chantaient. Malheureusement, le chaos de l'orage renversa la frêle barque. {0}, le prêtre et les marins furent tous plongés vers la Grâce de Ciamena. Miraculeusement, la plupart d'entre eux émergèrent dans une grande caverne sous-marine près de Barda.
+
+L'entrée de la cave était dissimulée de la surface, mais l'intérieur contenait des merveilles qui n'avaient pas été vues depuis des générations : des navires de guerre coulés, des vaisseaux marchands, et les restes de voyageurs malchanceux, victimes de la Grâce dans le passé. {0} et le groupe hétéroclite découvrirent une tribu de survivants qui avaient survécu dans les caves par cannibalisme et grâce à des raids limités. Le temps interminable passé dans cette cave les avait rendus inintelligibles et sauvages. Même si certains attaquèrent l'équipage du bateau récemment coulé, {0} parvint à disperser les autres.
+
+Finalement le groupe retrouva son chemin vers une pile d'os qui contenait les restes d'Alessa et Pellanne. Le prêtre Ondrite enterra le couple ensemble et opéra un service funéraire pour les corps. Ainsi, les esprits battirent en retraite de ce monde vers l'au-delà.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Le faiseur de cire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Dans la province méridionale aedyre de Maghanon, le sorcier et inventeur Gaelef a passé des décennies à créer des appareils qui pouvaient imiter les effets et propriétés magiques. Ses confrères sorciers jugeaient les travaux de Gaelef avec dédain, mais une de ses zones de recherche intriguait tout de même les élitistes : un appareil qui pouvait dupliquer les objets magiques.
+
+La clé des recherches de Gaelef était un moule enchanté. Quand Gaelef mourut de vieillesse, son atelier isolé fut finalement saccagé par des barbares méridionaux qui pillaient la province depuis des années. Tout son travail fut considéré comme perdu.
+
+Récemment, un mécène anonyme a demandé de l'aide dans les Contrées orientales pour récupérer quelques-unes des notes de recherche de Gaelef, utilisant des indices qui avaient été découverts par des moyens inconnus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Le mécène demeurait silencieux quant à l'origine de ces pistes, mais les notes se montrèrent rapidement précieuses pour {0}. Une vente de grimoires dans le Cythwood et des notes d'un sorcier readceran mort indiquèrent la voie vers trois autres sorciers qui réalisaient sans le savoir des recherches basées sur les notes volées de Gaelef.
+
+Éparpillés dans les Contrées orientales, les sorciers furent assez aimables mais peu disposés à se séparer de leurs notes approfondies. Après avoir fait son rapport au serviteur de son mécène, {0} découvrit qu'aucun service additionnel n'était nécessaire. {0} apprit à son retour à Caed Nua que les trois sorciers sont morts dans d'atroces souffrances, toutes survenues dans d'étranges circonstances.
+
+Un peu plus tard, un paquet arriva par un messager escorté. Il était adressé à {0} et la note à l'intérieur disait simplement, « Un présent ». dans une écriture désuète.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Lavande et soude</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Sur une île isolée de l'archipel du Feu éteint, le célèbre apothicaire Tama Watua crée des potions et des onguents qui sont réputés des frontières méridionales de Naasitaq jusqu'aux Contrées orientales.
+
+Il se vante que le secret de son succès est sa position à l'intérieur de l'archipel, depuis laquelle il a accès non seulement à une énorme variété de créatures et plantes, mais aussi à des marchands voyageant depuis toutes les parties colonisées du monde.
+
+Dernièrement, la maison de Tama et son laboratoire ont essuyé des attaques de pirates qui l'ont forcé à fuir d'île en île de manière quasiment quotidienne. Les clients de l'apothicaire et les nombreux enfants de Tama ont supplié les pirates d'arrêter leur poursuite. Incapables de générer de la compassion chez les pirates et sans l'aide des dirigeants du continent d'Abet, ils se sont tournés vers des mercenaires des Contrées orientales pour recevoir de l'aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Rejoignant cinq autres mercenaires des Contrées orientales, {0} a embarqué comme passager sur un drakkar aumaua. Rapide et rempli de marins armés jusqu'aux dents, le navire s'est trouvé en conflit régulier avec des pirates durant la poursuite des kidnappeurs de Tama. 
+
+Finalement, {0} et l'équipage ont repéré la caravelle vailienne qui retenait Tama et sont parvenus à la dépasser avant qu'elle n'atteigne le large. Avec des grappins et un bon paquet d'acrobaties, les mercenaires et les marins aumauas ont abordé la caravelle avec {0} dans leur sillage. La fumée lors de bataille sur le pont du navire était si épaisse à cause des coups de feu qu'il était difficile de distinguer les alliés des ennemis.
+
+Dans la confusion de la mêlée, {0} se trouva face à face avec le capitaine des pirates. Dans la bagarre qui suivit, le drakkar heurta la caravelle et la fit basculer. Le capitaine glissa le long du pont et passa par-dessus bord à cause d'un canon mal fixé. Leur chef se noyant sous les vagues, les pirates restants se rendirent très vite ou plongèrent à leur tour espérant pouvoir s'échapper vers une île avoisinante.
+
+Pour fêter le retour de Tama, ses amis et sa famille organisèrent une grande fête pour l'honorer, tout comme {0} et tous ceux qui avaient participé à son sauvetage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>La zone du grand silence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Il y a cinq ans, douze moines seniors des Ixtlochi commencèrent un pèlerinage silencieux vers Tetlatectuan, des collines menaçantes, tourmentées par une météo exécrable, que les locaux pensent maudites par les dieux. Les moines étaient censés émerger de leur retraite cette année mais aucun d'eux n'est revenu.
+
+Une expédition de novices jusqu'à Tetlactetuan a découvert leur camp, mais ils ont été choqués de ne trouver que des carcasses de peaux, vides de leurs maîtres, disposées en cercle, gelées dans leurs poses de méditation. Le cercle intérieur des Ixtlochi a théorisé que les maîtres avaient transcendé leurs anciennes apparences physiques et vagabondaient probablement dans les Contrées orientales.
+
+Ils ont fait passer le message à plusieurs seigneurs dans Readceras et le Dyrwood, expliquant que les Ixtlochi aimeraient probablement être réunis avec leurs maîtres afin que leur savoir puisse être transmis à une nouvelle génération.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>{0} voyagea et enquêta dans toutes les Contrées orientales pour retrouver la piste des moines disparus. {0} croisa un par un les moines sous différentes formes - certains en être civilisés, d'autres en bêtes ou d'autres encore, sous une forme totalement unique.
+
+Ayant apparemment oublié pourquoi ils s'étaient embarqués dans leurs méditations, les moines ont engagé {0} dans des conversations philosophiques au long cours. Puis finalement, chaque moine a réalisé le voyage de retour à travers les labyrinthes mentaux qu'ils avaient créés, déclenchant une prise de conscience spontanée et entraînant une « mue » vers leurs formes originelles. 
+
+Après être tous rentrés à leur monastère, ils se sont présentés à {0} avec un carillon. Chacun des moines avait légué l'une des douze cloches du carillon pour l'instrument final.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>L'arbre de verre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Des légendes se sont répandues à propos d'une vallée cachée dans les Terres vivantes où de fantastiques créatures naissent directement de la terre et de nouvelles plantes germent et fleurissent quotidiennement. Certains affirment que l'endroit est sacré pour les dieux eux-mêmes, où ils ont créés tous les êtres civilisés et sauvages depuis les éléments primordiaux qui bouillonnent sous la surface. 
+
+Beaucoup de ces contes relatent la présence d'un énorme arbre de verre, à couper le souffle, dont les branches s'étendent à travers la vallée et jusqu'aux nuages. Ils prétendent que sa base est gardée par un guerrier portant un casque de mauvaise augure, paré des pieds à la tête d'une armure scintillante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Il fallut à {0} trois expéditions distinctes depuis la côte méridionale des Terres vivantes pour rallier la légendaire Vallée du verre. Et même si les légendes avaient été quelque peu exagérées, l'aspect de la vallée n'en restait pas moins époustouflant. Elle contenait une faune et une flore jamais vues ailleurs dans Eora, d'immenses bêtes et de terrifiantes créatures ailées qui volaient si haut qu'elles semblaient disparaître dans les nuages. Et en son cœur se trouvait l'immense arbre de « verre ».
+
+Quand {0} l'examina, il devint évident qu'il n'était pas fait de verre, mais d'un bois clair fascinant qui transportait de la sève transparente le long de son imposant tronc et de ses branches. Même si le guerrier au casque demeurait introuvable, {0} trouva une paire de gants en bois clair et scintillant au pied de l'arbre. Quant à savoir s'ils avaient été faits à partir du bois de cet arbre et pourquoi ils avaient été laissés là, cela demeure un mystère.
+
+Avec une route finalement cartographiée, d'autres explorateurs ne tardèrent pas à arriver dans la Vallée du verre, mais les visiteurs suivants racontèrent que la faune et la flore avaient commencé à s'affaiblir et disparaître. Certains ont spéculé que l'arrivée d'étrangers avait conduit la magie de la vallée à se retirer dans les profondeurs d'Eora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Une marque solitaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Depuis les Contrées orientales, en passant par Aedyr et Vailia l'Ancienne, des personnes de tout âge possèdent une marque étrange et distincte quelque part dans l'intérieur de leur cuisse gauche. Il ne semble pas y avoir de liens communs entre ces personnes, et aucun d'entre eux n'a jamais reporté aucune maladie à cause de ces marques, mais certains pensent que ces marques pourraient être un signe de bon augure. 
+
+Quelques vailiens habitués à voyager ont affirmé qu'une société pas si secrète s'est prise d'intérêt pour les gens qui possèdent cette marque et pourrait avoir quelque chose d'abominable en vue pour eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Retrouver la trace du culte qui avait montré son intérêt spécial pour les gens avec la marque a été difficile pour {0}, de par l'immensité de la zone à passer au peigne fin. Finalement, {0} a réussi à dérouter une petite cellule de ces adeptes et à découvrir une énorme quantité de documents à charge.
+
+Le groupe se faisait appeler la Flamme blanche et pensait que les individus marqués étaient destinés à être des vaisseaux pour la « réincarnation » d'Eothas. Le culte avait commencé à kidnapper les gens marqués pour les emmener et les retenir dans des endroits dédiés à les observer et à réaliser des expériences. Une carte découverte par {0} a mis en évidence plusieurs de ces cellules ainsi que de nouveaux emplacements qui allaient être pris pour cibles. 
+
+Avec l'aide des Porteurs de boucliers de Sainte Elcga, {0} parvint finalement à mener une attaque sur l'une de leurs forteresses dans le Cythwood. Même s'il est impossible de savoir avec certitude si la Flamme blanche est totalement détruite, les enlèvements ont cessé peu après le combat mené par {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Espaces imperceptibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Acetta, l'animancienne de Vailia connue pour ses travaux étendus à propos des propriétés de l'adra vivant, a fait sensation à Biageppe quand elle a affirmé à ses collègues qu'elle pensait que tout l'adra vivant était interconnecté dans le cœur d'Eora. L'affirmation en soi n'était pas scandaleuse, mais Accetta se vantait d'avoir créé un appareil qui lui permettait de voyager physiquement le long des chemins d'adra vivant pour remonter jusqu'à la source.
+
+Les choses qu'elle affirmait voir causèrent un tollé parmi certains des animanciens les plus religieux, beaucoup d'entre eux trouvant les déclarations blasphématoires. Quelques jours plus tard, Accetta était introuvable et sa maison avait été minutieusement mise à sac. 
+
+Certains craignirent qu'elle avait été tuée pour sa vantardise. D'autres avaient peur que ses affirmations ne soient totalement véridiques, et qu'Accetta avait échappé au courroux de ses collèges en utilisant son invention pour pénétrer de manière permanente dans l'Entre-deux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Poursuivre une animancienne à travers la roche solide d'Eora se révéla une tâche difficile pour {0}. Après s'être enquis auprès de nombreux cartographes et explorateurs vailiens, {0} put traverser un immense réseau de caves dans les montagnes au nord de Gualfi, dans lequel serpentaient plusieurs longs filons d'adra. 
+
+Il fallut l'aide de cinq animanciens confirmés pour contacter Accetta, qui avait communiqué avec eux via des flashs d'images qui voyageaient à travers l'adra. Malheureusement, le pouls de l'adra alerta une communauté de vithracks particulièrement hostiles, qui forcèrent temporairement {0} et les animanciens à battre en retraite dans une autre partie du réseau caverneux. 
+
+Même si Accetta affirmait qu'elle ne pourrait pas revenir, elle suggérait être dans un endroit nouveau et merveilleux. {0} et les animanciens virent des images d'espaces immenses et fantastiques, puis la communication s'interrompit. Les annimanciens essayèrent de renouer le contact, mais après plusieurs jours d'essais infructueux, ils décidèrent que ça n'en valait pas la peine.
+
+Le songretta ducala de Biageppe décida que la propriété d'Accetta devait être divisée entre les animanciens de la cité pour les aider dans leurs recherches. À {0}, ils donnèrent un étrange casque élaboré fait de laiton et d'adra. Un certain nombre d'animanciens étaient furieux de la décision prise par le songretta ducala, mais le duc ne put rien faire pour passer outre le jugement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Le mangeur de charbon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Quelque chose s'est réveillé dans les Collines Noires d'Abet, un immense et terrible titan qui s'élève depuis les profondeurs pour dévorer les mines de charbon et détruire les travailleurs qui croisent son passage. Même des marins qui s'approchent d'Abet depuis l'archipel du Feu éteint ont vu le béhémoth marcher le long des Falaises Hurlantes. 
+
+Personne ne sait d'où vient la créature ni de quand elle va enfin arrêter de terroriser les Collines Noires, mais les familles dirigeantes d'Abet ne montrent pas d'intérêt à intervenir directement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Quand {0} arriva dans les Collines Noires d'Abet, il ne fut pas difficile de localiser l'énorme monstre. Visible depuis des lieues, quiconque avec une paire d'yeux pouvait remarquer son passage en notant simplement le sillage de destruction qu'il laissait partout où il allait. Marchant debout sur deux jambes, sa peau était aussi noire que le charbon qu'il dévorait, perdant constamment d'énormes quantités de terre sombre. 
+
+Bien que les mineurs n'avaient initialement aucune idée de ce qui avait bien pu réveiller la créature, {0} apprit que la mine depuis laquelle le monstre avait émergé avait rejoint des ruines souterraines d'une ancienne civilisation pre-Abet. Un érudit aumaua d'Abet aida {0} à plonger dans les profondeurs des ruines et à traduire des inscriptions qui décrivaient le réveil du titan dans des temps anciens.
+
+En faisant résonner une série de cloches dans les ruines de la cité, {0} sonna le rappel de la bête à l'endroit où elle avait émergé. Malheureusement, son retour fit s'effondrer la plupart des ruines restantes. Malgré cela, les érudits d'Abet étaient très heureux de la découverte. Les mineurs de la zone, bien que mécontents de devoir retourner au travail, étaient au moins soulagés de savoir que l'énorme mangeur de charbon n'était désormais plus une menace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Au bord de toutes les choses connues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Amaia, fameuse et riche érudite rauatai, a passé sa longue vie à compiler un énorme codex regroupant diverses légendes d'Eora. Se basant sur des sources aumaua ainsi que d'Aedyr, de Vailia l'Ancienne, des Plaines d'Ixamitl et de Naasitaq, son ouvrage est véritablement gargantuesque, et s'étale sur des milliers de pages. 
+
+Alors qu'elle avait des scribes occupés à recopier le corps de son œuvre durant les deux dernières décennies, quelques contes populaires sont restés hors de sa portée. Elle a tenté de contacter l'ainé glamfellen des Blanches étendues, pour arranger une réunion spéciale avec l'Aedyre Ine Sycthrúa et s'asseoir parmi les rîowds d'Eir Glanfath les plus vénérés. Toutes ses tentatives se sont révélées infructueuses à cause de divers dangers qui se dressaient sur son chemin. 
+
+Ces derniers sujets seront les chapitres finaux du travail de sa vie, et elle recherche des aventuriers expérimentés pour l'y aider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Il fallut à {0} plus de trois tentatives pour contacter le glamfellen des Blanches étendues sans se faire attaquer. Quand Amaia put enfin parler avec les aînés, elle écrivit leurs histoires, d'où ils provenaient et comment ils étaient arrivés au fond du monde il y a si longtemps. 
+
+Gagner un accès à la sépulture d'adra sacrée des empereurs Aedyre, l'Ine Sycthrúa, nécessita plus que de la supercherie. Même si Amaia n'était capable de parler avec les esprits des empereurs défunts que durant quelques minutes, c'était suffisant pour terminer cette portion de sa recherche. 
+
+Les sages d'Eir Glanfath, les rîows, répondirent aux requêtes d'Amaia, mais ils la questionnèrent pendant des jours pour s'assurer qu'elle ne partagerait pas leurs secrets sacrés, ni ne se permettrait de dépeindre leur peuple sous un mauvais jour. Les rîows transmirent leurs histoires des premiers jours d'Eir Glanfath, comment ils étaient arrivés là et comment ils avaient reçu pour instruction de garder les ruines engwithanes à tout jamais. 
+
+Satisfaite d'avoir terminé sa recherche, Amaia retourna à Rauatai pour écrire les derniers chapitres et les faire copier par ses scribes. Même s'il faudra plusieurs années avant qu'une copie complète ne voit le jour, elle a offert à {0} un codex condensé de ses travaux essentiels, qui contient une grande quantité de sorts enchantés dans les dernières pages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>voir le rapport</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>{0} is escorting {1} to Thein Bog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>{1} successfully arrived at Thein Bog with the help of {0}. {1} sends his regards and promises to visit your keep again soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Un messager de la Baie du défi est arrivé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Un messager de la Baie du défi est arrivé à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Marshal Forwyn est arrivé à Caed Nua avec des nouvelles urgentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>{0}, an Aedyran dignitary, has arrived at the stronghold. He requests your aid with an upcoming meeting with representitives of the Fisher Crane tribe near the Thein Bog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>{0} has followed your advice and is taking a direct route to Thein Bog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>{0} encountered a few setbacks along the road, but was able to arrive at his meeting by the appointed day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>In keeping with your advice, {0} is traveling through the Vailian Republics to reach Thein Bog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>{0} arrived at the Thein Bog much later than anticipated, but was able to request a second audience with the Fisher Crane tribe. {0} sends his regards and promises to visit your keep again soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>{0} has hired on a handful of mercenaries to escort him to Thein Bog.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>With your support, {0} was able to make it to his meeting with the Fisher Crane tribe. {0} sends his regards and promises to visit your keep again soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>{0} appears to be having little trouble traveling to Thein Bog, thanks to your writ of passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>{0} is teaching {1} the ways of Ondra, and how best to unburden oneself of one's past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>{0} was able to help {1} overcome her turmoil. {1} appears to have found some peace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>A wealthy noble by the name of {0} has arrived at the stronghold. He seeks your aid in defending his keep from his rivals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>{0}, un idiot du coin, a vagabondé dans la forteresse en demandant de l'aide pour les dettes qu'il avait accumulées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>{1} departs from Caed Nua with your kind donation in hand, intent on paying back his debts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>{1} returned to Dyrford to much hostility, but was able to defuse the situation. Thanks to your help, he was able to pay off his debts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>{0} leaves with {1} to help him better understand and control his addiction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>{1} returned to Caed Nua a new man. While traveling the surrounding Dyrwood, {0} was able to instruct {1} on the usage of drugs to expand his conscioussness. {1} was unable to settle his debts, but he is now set on a different path, and plans to leave his old life behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>{0} leaves with {1} to escort him to the Vailian Republics.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>{0} was able to place {1} in the care of some respected animancers. They agreed to settle his debts in exchange for his work as a volunteer for several experiments. It is unclear whether or not {1} has since returned to Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>You drive {1} out of your keep and send word that the Dozens are to have him savagely beaten wherever he goes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>{1} endures a long and painful journey from Caed Nua to Defiance Bay, stopping shortly at his home in Dyrford before being driven out. Eventually he is placed on a ship to the Living Lands, far from the Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Retour à la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>{1} departs Caed Nua, intent on bolstering his keep's defenses according to your specifications.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>After several attempts, {1}'s rivals gave up on raiding his vaults. Having reclaimed his land, {1} sends you his regards and his gratitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>A missive is sent to the commander at Crucible Keep, informing them of the troops needed at {1}'s keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>{0}, un cruel dirigeant venu du nord, est arrivé à la forteresse et espère une audience avec vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>You were able to talk {1} from taking violent measures against the peasants. {1} left your keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Upon his return, {1} was able to quell the uprising. Trade has slowed in the area, but you are regarded as a local hero.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>{1} left your keep in a huff after deciding that your approach to dealing the peasant uprising was too soft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>{1} attempted to deal with the angry peasants on his land with force. This show of cruelty inflamed the residents, and {1} was overthrown and killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>{1} sets off home with your coin in hand, intent on hiring mercenaries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>{1} was able to successfully rout the rabble-rousers with the mercenaries you helped supply. The locals will not soon forget your name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>You send {0} to warn the rabble-rousers about {1}'s plan to end their lives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>{0} was able to successfully reach the rabble-rousers and warn them in time for their escape. {1}'s lands lie abandoned, but no blood has been shed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>You send {0} to ambush {1} on the road and dispose of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>{0} came upon {1}'s camp just on the border of your lands. {0} infiltrated the camp, eventually coming upon {1}'s tent. By morning, {0} was on her way home and {1} was nowhere to be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>You send {0} to discreetly handle {1}'s rival.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>With a few well-placed hexes and a final show of arcane power, {0} was able to convince {1}'s rivals to seek wealth elsewhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>You send {1} away, promising that the Doemenels will arrive at his keep shortly. After his departure, you send a letter to the Doemenels describing your true intentions for {1}'s treasures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>During the chaos of the raid, the Doemenels plundered treasure rooms and stockhouses. The thieves made their escape, but {1} and his guards were killed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>You send {0} to escort {1} back to his keep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>During the chaos of the raid on {1}'s lands, {0} slipped into the vaults and took what she could. She made her escape, but {1} and his guards were killed in the attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Une criminelle recherchée appelée {0} est arrivée à la forteresse, cherchant de l'aide pour fuir le Dyrford.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>{0}, a slaver from Readceras, has arrived at your keep, seeking your counsel on some business matters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>{0}, an animancer, has requested an audience with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>With your coin in hand, {1}  makes a beeline for the nearest port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>{1} has sent word from the Deadfire Archipelago, thanking you for your role in giving her a fresh start.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Traveling with a Doemenel escort, {1} heads to the closest port.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>You have convinced {1} to continue his journey without stopping to resupply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>It takes nearly two weeks to arrive, but {1} successfully transports his orlan slaves to Ixamitl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Informed that New Heomar will be a safer stop on his journey, {1} takes his leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>{1} has sent word from Ixamitl, thanking you for your role in ensuring his swift arrival.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>{1} leaves your keep with the company of your allies and travels onward to Ixamitl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>{1} has sent word from Ixamitl, thanking you for your role in his swift arrival in Ixamitl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>{1} begins his journey back to Girrara. You send {0} after him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>{0} arrived in Girrara and successfully freed many slaves. Word is {1} is quite furious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>{1} hires a small group of mercenaries to join her in rounding up vessels from Heritage Hill to experiment on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>{1} successfully rounded up her test subjects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>{1} heads out into Heritage Hill on her own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>You have received reports that an animancer named {1} was found dead in Heritage Hill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>{1} hires a small group of trappers to join her in rounding up animals in the wilds around Magran's Fork.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>{0} is aiding {1} on a hunt for test subjects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>{0} has been sent with {1} to help her with her research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>{0} has followed {1} to her lab, only to kill {1} and torch the place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>{0} is escorting {1} to Magran's Fork.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>{0} traveled to {1}'s lab, and promptly knocked her out. He then ransacked the laboratory, retrieving all of {1}'s research.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>{0} was executed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>{0}, an exotic wares merchant, has arrived at your keep, and requests an audience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>{0} has been sent to help {1} secure his trade routes against bandits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>With {0}'s help, {1} was able to secure his trade routes, and has convinced local merchants and suppliers to offer up their stock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>The erl collected {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Your stronghold has gained {0} Prestige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Your stronghold has gained {0} Security.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>{0} attempted to escape from the dungeon, but was thwarted by your guards.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_renengild_redux</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Donnez-lui la cargaison de svef.] "J'ai la preuve que Feara, une femme du Refuge du gréf, se livre au trafic de svef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que pouvez-vous me dire sur l'expédition de Feara ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Cela fait des décennies que nous connaissons des problèmes de contrebande. Les affaires légales disparaissent, et les rackets criminels envahissent les routes comme des ronces."
+
+Elle prend le paquet et le lève comme un trophée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Pas facile de faire le tri entre les escrocs et les marchands authentiques. Ou les voyageurs. Ou les aventuriers." Elle vous gratifie d'un demi-sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Mais vous avez fait du bon travail, et je vous en remercie. Prenez ceci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Cela ne veut pas dire que cette 'Feara' ne faisait pas partie d'une expédition, cependant. Parfois, on voit des groupes passer et tenter leur chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Qui ? Désolée, le nom ne me dit rien."
+
+Son front se plisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

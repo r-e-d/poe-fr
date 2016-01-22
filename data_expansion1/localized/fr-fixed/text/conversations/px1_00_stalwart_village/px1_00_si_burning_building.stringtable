@@ -626,9 +626,7 @@ Vous vous réveillez quelques instants plus tard et constatez la présence de [S
       <DefaultText>Sans alliés vers lesquels vous tourner, vous n'avez personne pour vous sauver des conséquences de votre tentative héroïque. Les habitants de Stalwart sont horrifiés et impuissants.
 
 La mort vous guette et vous succombez à la fumée avant même que les flammes ne vous gagnent. L'histoire du Gardien se termine ainsi.</DefaultText>
-      <FemaleText>Sans alliés vers lesquels vous tourner, vous n'avez personne pour vous sauver des conséquences de votre tentative héroïque. Les habitants de Stalwart sont horrifiés et impuissants.
-
-La mort vous guette et vous succombez à la fumée avant même que les flammes ne vous gagnent. L'histoire de la Gardienne se termine ainsi.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
@@ -747,12 +745,12 @@ Un homme, vêtu d'une armure de garde local, semble piégé d'un côté de la ma
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Jetez le sort Vent hivernal contre les flammes.</DefaultText>
+      <DefaultText>[Jetez le sort Vent hivernal contre les flammes.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Jetez le sort Brouillard givrant contre les flammes.</DefaultText>
+      <DefaultText>[Jetez le sort Brouillard givrant contre les flammes.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1060,17 +1058,17 @@ Il court devant vous, se précipitant vers la sortie.</DefaultText>
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>La femme est très légère et la porter s'avère plus facile que de la libérer des gravats. [Specified 0] la soulève soigneusement sur une épaule.</DefaultText>
+      <DefaultText>La femme est très légère, et la porter s'avère plus facile que de la libérer des gravats. [Specified 0] la soulève soigneusement sur une épaule.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>"Alors, vous n'êtes pas un simple pilleur !" Il vous lance un rire de soulagement.
+      <DefaultText>"Alors, vous n'êtes donc pas un simple pilleur !" Il rit avec soulagement.
 
-"Merci, quelles que soient vos raisons. Allez, nous ferions mieux de quitter cet endroit." Il commence à marcher devant [Specified 0], avide de liberté.</DefaultText>
-      <FemaleText>"Alors, vous n'êtes pas une simple pilleuse !" Il vous lance un rire de soulagement.
+"Merci, quelles que soient vos raisons. Venez, nous devons quitter cet endroit." Il devance [Specified 0], pressé de se libérer.</DefaultText>
+      <FemaleText>"Alors, vous n'êtes donc pas une simple pilleuse !" Il rit avec soulagement.
 
-"Merci, quelles que soient vos raisons. Allez, nous ferions mieux de quitter cet endroit." Il commence à marcher devant [Specified 0], avide de liberté.</FemaleText>
+"Merci, quelles que soient vos raisons. Venez, nous devons quitter cet endroit." Il devance [Slot 0], pressé de se libérer.</FemaleText>
     </Entry>
     <Entry>
       <ID>633</ID>
@@ -1088,16 +1086,16 @@ Il court devant [Specified 0], se précipitant vers la sortie.</DefaultText>
       <ID>635</ID>
       <DefaultText>"Alors, vous n'êtes donc pas un simple pilleur !" Il rit avec soulagement.
 
-"Merci, quelles que soient vos raisons. Venez, nous devons quitter cet endroit." Il devance [Slot 0], pressé de se libérer.</DefaultText>
+"Merci, quelles que soient vos raisons. Venez, nous devons quitter cet endroit." Il devance [Specified 0], pressé de se libérer.</DefaultText>
       <FemaleText>"Alors, vous n'êtes donc pas une simple pilleuse !" Il rit avec soulagement.
 
-"Merci, quelles que soient vos raisons. Venez, nous devons quitter cet endroit." Il devance [Slot 0], pressé de se libérer.</FemaleText>
+"Merci, quelles que soient vos raisons. Venez, nous devons quitter cet endroit." Il devance [Specified 0], pressé de se libérer.</FemaleText>
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>"Que les dieux vous gardent. J'ai bien cru que c'était la fin. Venez, il nous faut quitter cet endroit !" 
+      <DefaultText>"Que les dieux vous bénissent. J'ai bien cru que c'en était fini. Allez, nous ferions mieux de quitter cet endroit !" 
 
-Il devance [Slot 0] et se précipite vers la sortie.</DefaultText>
+Il court devant [Specified 0], se précipitant vers la sortie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,9 +1114,9 @@ Il devance [Slot 0] et se précipite vers la sortie.</DefaultText>
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>"Que les dieux vous gardent ! J'ai bien cru que c'était la fin. Venez, il nous faut quitter cet endroit !" 
+      <DefaultText>"Que les dieux vous bénissent. J'ai bien cru que c'en était fini. Allez, nous ferions mieux de quitter cet endroit !" 
 
-Il vous devance et se précipite vers la sortie.</DefaultText>
+Il court devant vous, se précipitant vers la sortie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

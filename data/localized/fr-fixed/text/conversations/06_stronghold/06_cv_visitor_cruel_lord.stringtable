@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_cruel_lord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"J'ai beaucoup entendu parler de vous, mon seigneur. Vous n'êtes pas du genre à reculer devant les difficultés. Si vous me le permettez, j'aimerais vous parler de quelque chose."</DefaultText>
+      <FemaleText>"J'ai beaucoup entendu parler de vous, madame. Vous n'êtes pas du genre à reculer devant les difficultés. Si vous me le permettez, j'aimerais vous parler de quelque chose."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"En tant que maître de Caed Nua, vous avez sûrement eu votre lot de trublions prêts à tout pour vous écraser."</DefaultText>
+      <FemaleText>"En tant que maîtresse de Caed Nua, vous avez sûrement eu votre lot de trublions prêts à tout pour vous écraser."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"J'ai peur que les choses... dégénèrent. J'ai préféré venir vous consulter avant de tenter quoi que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Accordez-leur votre miséricorde, seigneur Brynwigar. Soyez juste envers vos gens et ils vous le rendront bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Essayez de trouver un terrain d'entente. Accordez-leur quelques libertés et ils reprendront le travail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Accordez-moi une minute, j'aimerais m'entretenir avec mes compagnons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Oui, bien sûr."  
+
+Brynwigar s'éloigne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Démone, débarrassez-vous de cet homme. Discrètement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Vous osez me préconiser la miséricorde, vous qui régnez sur des terres infestées de brigands et de hors-la-loi ? Si vous étiez plus ferme, vous n'en seriez peut-être pas là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oh, comme d'habitude." Brynwigar croise les bras.
+
+"Qu'ils ne jouissent pas du fruit de leur labeur, qu'ils sont mal traités. Mais ce ne sont que des fainéants, mon seigneur."</DefaultText>
+      <FemaleText>"Oh, comme d'habitude." Brynwigar croise les bras.
+
+"Qu'ils ne jouissent pas du fruit de leur labeur, qu'ils sont mal traités. Mais ce ne sont que des fainéants, madame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"D'après mon intendant, vous avez la réputation d'être un homme cruel et sans pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Brynwigar se raidit.
+
+"J'ai le sens de l'efficacité. Est-ce un crime ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vous n'êtes qu'un homme mesquin et cruel qui ne mérite pas d'avoir un tel pouvoir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous allez être pendu, Brynwigar. Gardes, emmenez-le !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Donnez-lui 700 pc.] "Une démonstration de force leur fera entendre raison. Tenez, avec ça vous pourrez engager des mercenaires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Comment osez-vous m'insulter ? Vous qui n'êtes qu'un parvenu à la tête d'une vieille ruine ? Vous allez le regretter !"   
+
+Rouge de colère, Brynwigar quitte précipitamment la salle.</DefaultText>
+      <FemaleText>"Comment osez-vous m'insulter ? Vous qui n'êtes qu'une parvenue à la tête d'une vieille ruine ? Vous allez le regretter !"   
+
+Rouge de colère, Brynwigar quitte précipitamment la salle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"C'est très généreux de votre part ! Je vous promets d'en faire bon usage. Merci, mon seigneur ! Je savais que je pouvais compter sur vous."</DefaultText>
+      <FemaleText>"C'est très généreux de votre part ! Je vous promets d'en faire bon usage. Merci, madame ! Je savais que je pouvais compter sur vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Avez-vous pris une décision ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Mentez] "Je désapprouve vos méthodes, mais je veux bien fermer les yeux, du moins pour cette fois. Maintenant, partez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Mentez] "Vous avez tout mon soutien. Allez de ce pas mater ces trublions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Oui. J'envisage de vous tuer. Je vous laisse une avance de deux heures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Faites signe à votre invité de revenir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Interloqué, Brynwigar vous observe sans réagir, jusqu'à ce que les gardes s'avancent pour s'emparer de lui. Il jure et se débat tandis qu'ils l'emmènent hors de la salle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Cette approche me semble un peu laxiste." Brynwigar fronce le nez. "Ils auront le sentiment d'avoir gagné."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Que disent ces paysans exactement ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Chacun sait que vous êtes un négociateur hors pair, ce qui n'est pas mon cas." Brynwigar soupire.</DefaultText>
+      <FemaleText>"Chacun sait que vous êtes une négociatrice hors pair, ce qui n'est pas mon cas." Brynwigar soupire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Sans ces gens, vous ne seriez rien. Accordez-leur au moins un peu de respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Si vous êtes venu faire mon procès, vous feriez mieux de partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vous feriez mieux de parler avec vos paysans plutôt que d'avoir recours à la violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Brynwigar ouvre la bouche pour protester, mais se ravise. Il s'incline brusquement, puis tourne les talons en secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"J'espérais obtenir... des ressources, plutôt que votre permission. Mais j'apprécie votre soutien."   
+
+Brynwigar s'incline, manifestement satisfait, et quitte la salle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Aloth, je voudrais que vous vous rendiez au donjon de Brynwigar pour prévenir son peuple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Quoi ?" Brynwigar recule d'un pas. "Espèce... Espèce d'hypocrite ! Vous allez me le payer !"   
+
+Sans perdre un instant, Brynwigar tourne les talons et prend la fuite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Eh bien, ça a été rapide. Avez-vous pris une décision ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Essayons autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Oui ? Tous vos conseils seront les bienvenus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Puisque vous insistez. Mon seigneur."   
+
+Brynwiger s'incline à contrecœur et tourne les talons.</DefaultText>
+      <FemaleText>"Puisque vous insistez. Madame."   
+
+Brynwiger s'incline à contrecœur et tourne les talons.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Oui, bon, merci de m'avoir reçu, mon seigneur. J'y réfléchirai sur le chemin du retour."   
+
+Il s'incline, tourne les talons et quitte la salle.</DefaultText>
+      <FemaleText>"Oui, bon, merci de m'avoir reçu, madame. J'y réfléchirai sur le chemin du retour."   
+
+Il s'incline, tourne les talons et quitte la salle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"J'admets que cela mérite réflexion. Merci de m'avoir reçu, mon seigneur. J'y... réfléchirai sur le chemin du retour."</DefaultText>
+      <FemaleText>"J'admets que cela mérite réflexion. Merci de m'avoir reçu, madame. J'y... réfléchirai sur le chemin du retour."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Des incidents se sont produits sur mes terres. Des paysans se sont révoltés. Et malheureusement, ils sont devenus incontrôlables. Ils refusent de travailler, menacent mes gardes, se disent mal traités."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hum." Brynwigar ne semble pas convaincu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Brynwigar fronce les sourcils, l'air songeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Raison de plus pour tenir compte de votre conseil. Cela me semble raisonnable. Merci, mon seigneur."</DefaultText>
+      <FemaleText>"Raison de plus pour tenir compte de votre conseil. Cela me semble raisonnable. Merci, madame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Auriez-vous un moment à m'accorder ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ce n'est pas comme si je ne les payais pas ! Quoi qu'il en soit, ils ne veulent rien entendre. La situation ne fera qu'empirer si je n'y mets pas un terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je vous recommande la plus grande prudence, mon seigneur. Le seigneur Byrnwigar a la réputation d'être un homme violent, voire cruel."
+
+La voix douce de l'intendant résonne dans votre tête.</DefaultText>
+      <FemaleText>"Je vous recommande la plus grande prudence, madame. Le seigneur Byrnwigar a la réputation d'être un homme violent, voire cruel."
+
+La voix douce de l'intendant résonne dans votre tête.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

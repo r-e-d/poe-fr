@@ -2,8 +2,13 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>311</EntryCount>
+  <EntryCount>315</EntryCount>
   <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Grande arbalète</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>1890</ID>
       <DefaultText>Corne sectionnée</DefaultText>
@@ -1623,7 +1628,7 @@ Tanoss - je ne suis même pas sûr que tu saches lire, mais j'utiliserai tes sbi
     </Entry>
     <Entry>
       <ID>2171</ID>
-      <DefaultText>Le passage du temps n'a pas été tendre avec ce livre - la plupart des pages sont tellement décolorées qu'elles sont à peine lisibles. Cependant, c'est probablement la dernière copie restante au monde et elle est surement d'une valeur inestimable pour les collectionneurs de livres rares.</DefaultText>
+      <DefaultText>Le passage du temps n'a pas été tendre avec ce livre - la plupart des pages sont tellement décolorées qu'elles sont à peine lisibles. Cependant, c'est probablement la dernière copie restante au monde et elle est sûrement d'une valeur inestimable pour les collectionneurs de livres rares.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1633,7 +1638,7 @@ Tanoss - je ne suis même pas sûr que tu saches lire, mais j'utiliserai tes sbi
     </Entry>
     <Entry>
       <ID>2173</ID>
-      <DefaultText>Cette copie ancienne est surement l'un des plus vieux livres au monde et d'une valeur inestimable pour les collectionneurs de manuscrits anciens.
+      <DefaultText>Cette copie ancienne est sûrement l'un des plus vieux livres au monde et d'une valeur inestimable pour les collectionneurs de manuscrits anciens.
 
 "Anni Iroccio : La nouvelle année
 
@@ -1714,7 +1719,7 @@ Zénith de l'hiver - Majivèrno (mahzh-ih-VEHR-no)"</DefaultText>
     </Entry>
     <Entry>
       <ID>2178</ID>
-      <DefaultText>Les chasseurs ont depuis longtemps confectionné des vêtements grossiers avec les peaux de leurs gibiers, mais ce manteau est vraiment d'une qualité exceptionnelle. L'épaisse fourrure douce semble provenir de loups d'hiver, et elle offre une excellente protection contre le froid et le vent. Un tel manteau a surement été passé d'une génération de chasseurs à l'autre dans une famille.</DefaultText>
+      <DefaultText>Les chasseurs ont depuis longtemps confectionné des vêtements grossiers avec les peaux de leurs gibiers, mais ce manteau est vraiment d'une qualité exceptionnelle. L'épaisse fourrure douce semble provenir de loups d'hiver, et elle offre une excellente protection contre le froid et le vent. Un tel manteau a sûrement été passé d'une génération de chasseurs à l'autre dans une famille.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1740,7 +1745,7 @@ Le roi donnait cette cape à ses enfants lorsqu'ils voyageaient, et des années 
     </Entry>
     <Entry>
       <ID>2182</ID>
-      <DefaultText>Cet anneau est lourd et grossièrement taillé - on dirait qu'il a été confectionné à partir d'un bloc de fer brut. De petites impuretés luisent sur son pourtour, et bien que l'intérieur ait été lissé, l'extérieur est dentelé et irrégulier. Il ressemble à quelque chose qui a été fait par un joailler amateur et non par un professionnel, mais fait avec les meilleures intentions.</DefaultText>
+      <DefaultText>Cet anneau est lourd et grossièrement taillé. Il semble qu'il ait été moulé à partir d'un morceau d'argent mal raffiné. De petites impuretés scintillent autour de la bague. Si l'on se fie aux marques laissées par les outils, l'objet semble avoir été fait par un amateur plutôt que par un joailler professionnel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1965,6 +1970,21 @@ L'autre côté ressemble à un poème, mais il est obscurci par la saleté.</Def
     <Entry>
       <ID>2211</ID>
       <DefaultText>Galvino a créé cet étrange dispositif pour détecter les âmes ayant précédemment vécu à la Batterie de Durgan. Il émet une impulsion d'énergie générée par les souvenirs des fragments d'âmes récupérés par Galvino dans le morceau d'adra du dispositif. Les vies endormies de l'individu « résonnent » en amplifiant momentanément la conscience de leur existence précédente. Les sujets ne sont pas conscients de ce qui se passe, mais la gêne occasionnée peut être perçue à l'aide de lentilles spéciales ou par un Gardien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2246</ID>
+      <DefaultText>Casque de la crête blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2522</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2524</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

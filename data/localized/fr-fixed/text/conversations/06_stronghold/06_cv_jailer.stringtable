@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\06_stronghold\06_cv_jailer</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>52</EntryCount>
+  <EntryCount>43</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -50,11 +50,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>10</ID>
-      <DefaultText>"Je voudrais libérer Lücen."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>11</ID>
       <DefaultText>"Libérez Aefre."</DefaultText>
       <FemaleText />
@@ -85,29 +80,9 @@
       <FemaleText>"Ma dame, cette... créature que vous avez capturée, Kestorik... elle crée des problèmes. Que voudriez-vous que je fasse à son propos ?"</FemaleText>
     </Entry>
     <Entry>
-      <ID>17</ID>
-      <DefaultText>"Eorn."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>18</ID>
       <DefaultText>"Montrez-lui ce qui arrive lorsque vous doublez le seigneur de Caed Nua."</DefaultText>
       <FemaleText>"Montrez-lui ce qui arrive lorsque vous doublez la dame de Caed Nua."</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>"Lucen."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>"Aefre."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>21</ID>
-      <DefaultText>"Gramrfel."</DefaultText>
-      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -150,24 +125,9 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>32</ID>
-      <DefaultText>"Il y a beaucoup de prisonniers épuisés, mon seigneur. Que voulez-vous que je fasse ?"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>33</ID>
       <DefaultText>"Trois coups de fouet."</DefaultText>
       <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>"Cela suffit."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>"Le prisonnier a été gravement blessé. Est-ce suffisant mon seigneur ?"</DefaultText>
-      <FemaleText>"Le prisonnier a été gravement blessé. Est-ce suffisant ma dame ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -221,11 +181,6 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
-      <FemaleText>"Tout de suite, m'dame."</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>47</ID>
       <DefaultText>"Tout de suite, m'seigneur."</DefaultText>
       <FemaleText>"Tout de suite, m'dame."</FemaleText>
     </Entry>

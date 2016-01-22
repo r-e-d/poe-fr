@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_slaver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Enfin ! Je suis content que vous soyez là, mon seigneur. Je m'appelle Solmar. Si vous me le permettez, j'aimerais m'entretenir d'une affaire importante avec vous."</DefaultText>
+      <FemaleText>"Enfin ! Je suis content que vous soyez là, madame. Je m'appelle Solmar. Si vous me le permettez, j'aimerais m'entretenir d'une affaire importante avec vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"J'irai droit au but. J'ai une douzaine d'esclaves orlans dans le port de Girrara. Il s'agit d'un stock de créatures bien portantes dont j'espère tirer un bon prix à Ixamitl, à condition que je puisse remonter la côte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vous faites signe à vos alliés de vous rejoindre et prenez place sur votre trône.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je me suis dit que vous pourriez peut-être m'aider. Et comme j'ai ouï dire que vous n'êtes pas originaire du Dyrwood, vous me comprendrez sûrement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous devriez continuer à remonter la côte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je vais vous aider à vendre ces esclaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Continuer ? Cela me semble malheureusement... peu judicieux. Nous avons réussi à éviter le mauvais temps, mais nous ne pouvons rien contre les fonctionnaires du port."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Merci beaucoup ! Que comptez-vous faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oui, bien sûr."   
+
+Solmar vous salue poliment et s'éloigne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Faites-moi confiance. Vous n'aurez pas d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Faites plutôt escale à la Nouvelle-Heomar. Vous n'y aurez aucun problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Oui. Il y a peut-être une autre solution ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hiravias, allez à Girrara et essayez de libérer ces esclaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Votre discussion a-t-elle été fructueuse ?" Solmar se rapproche en souriant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Avez-vous pris une décision ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Mentez] "J'ai besoin d'un peu de temps pour étudier la question. Retournez à Girrara. Je vous écrirai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bien sûr. Merci de m'avoir accordé cet entretien ! J'attendrai votre lettre."  
+
+Ravi, Solmar vous salue, tourne les talons et s'en va.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je vais en toucher deux mots aux Chevaliers du Creuset. Votre navire pourra faire escale au château de Fleetbreaker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je vais demander aux Doemenel de vous aider. Un bateau viendra à votre rencontre au large de l'Étreinte de Geiran pour vous ravitailler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Je vais en discuter avec mes contacts des Douzaines. En faisant escale au Bout de la route, vous n'aurez aucun problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Très bien ! Après tout, on ne fait pas de profit sans prendre de risques ! Merci du conseil, mon seigneur ! Je suis soulagé."</DefaultText>
+      <FemaleText>"Très bien ! Après tout, on ne fait pas de profit sans prendre de risques ! Merci du conseil, madame ! Je suis soulagé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vraiment ? J'ai bien fait de venir vous voir ! Votre conseil va me faire gagner beaucoup de temps et d'argent, mon seigneur. Merci !"</DefaultText>
+      <FemaleText>"Vraiment ? J'ai bien fait de venir vous voir ! Votre conseil va me faire gagner beaucoup de temps et d'argent, madame. Merci !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Les Douzaines ? C'est... Eh bien, c'est... Je vous en suis infiniment reconnaissant ! Merci, mon seigneur !"</DefaultText>
+      <FemaleText>"Les Douzaines ? C'est... Eh bien, c'est... Je vous en suis infiniment reconnaissant ! Merci, madame !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je savais que je pourrais compter sur vous, mon seigneur. Merci ! Et remerciez également les Doemenel de ma part !"</DefaultText>
+      <FemaleText>"Je savais que je pourrais compter sur vous, madame. Merci ! Et remerciez également les Doemenel de ma part !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Aux Chevaliers ? Eh bien ! Je ne m'attendais pas à cela, mais... Je vous en suis infiniment reconnaissant, mon seigneur ! Je pars immédiatement !"</DefaultText>
+      <FemaleText>"Aux Chevaliers ? Eh bien ! Je ne m'attendais pas à cela, mais... Je vous en suis infiniment reconnaissant, madame ! Je pars immédiatement !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Mon seigneur ! J'aimerais m'entretenir d'une affaire urgente avec vous."</DefaultText>
+      <FemaleText>"Madame ! J'aimerais m'entretenir d'une affaire urgente avec vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oui. J'ai décidé de vous pendre. Gardes, emmenez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Quoi ? Comment pouvez-vous... Vous avez perdu la tête ! Arrêtez ! Vous ne pouvez pas me faire ça !"   
+
+Les gardes emmènent Solmar dont les cris résonnent encore dans la salle une fois celui-ci sorti.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Donnez-lui 5000 pc] "Vendez-les-moi. Vous en serez débarrassé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Parfait ! Mon problème est réglé ! Nous pourrions peut-être refaire affaire ensemble à l'avenir, qu'en dites-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Mon seigneur ? Que comptez-vous faire de ces orlans ?"</DefaultText>
+      <FemaleText>"Madame ? Que comptez-vous faire de ces orlans ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Les libérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Les revendre plus cher à Spirento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Nous avons de la chance d'avoir quelqu'un comme vous sur le trône. Espérons que vos successeurs seront aussi bienveillants que vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je vois. Bien sûr. Je vais faire le nécessaire. La demande ne manquera pas, j'en suis sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"C'est tout le problème. Je n'ai pas les moyens de faire le voyage sans faire d'escale. Nous allons devoir accoster dans un port du Dyrwood où je courrai le risque de me faire saisir ma marchandise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Les lois du Dyrwood nuisent aux honnêtes marchands qui naviguent en dehors de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hum. Vous avez des relations sur place, c'est ça ?"   
+
+Solmar caresse sa moustache d'un air songeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

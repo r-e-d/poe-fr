@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\05_defiance_bay_heritage_hill\05_cv_crucible_watch_male_01</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>35</EntryCount>
+  <EntryCount>36</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -185,6 +185,11 @@ Le garde se tourne et déverrouille le portail.</DefaultText>
     <Entry>
       <ID>49</ID>
       <DefaultText>"Du calme !" Il regarde l'autre garde. "Écoutez, c'est votre peau. Ne dites qu'on ne vous aura pas prévenu." Il se tourne et déverrouille le portail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'll keep an eye on things here."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

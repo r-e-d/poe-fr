@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_rare_item_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bien le bonjour, mon seigneur ! Je suis Azzuro, marchand de renom. Je vends des biens précieux et des objets rares."</DefaultText>
+      <FemaleText>"Bien le bonjour, madame ! Je suis Azzuro, marchand de renom. Je vends des biens précieux et des objets rares."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oh, mon seigneur, des bandits infestent les routes et terrorisent les marchands."</DefaultText>
+      <FemaleText>"Oh, madame, des bandits infestent les routes et terrorisent les marchands."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Si je n'ai plus rien à vendre, je n'aurai plus de quoi vivre. Et je n'aurai pas l'occasion de vous présenter le grand choix d'objets spéciaux dont je dispose en temps normal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je vais y mettre un terme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Les bandits deviendront le cadet de leurs soucis si ces marchands ne reprennent pas leurs livraisons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je vais demander à l'un de mes alliés de vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"C'est vrai, mon seigneur ? Comment comptez-vous vous y prendre ?"  
+
+Azzuro vous regarde avec curiosité, les mains nerveusement croisées devant lui.</DefaultText>
+      <FemaleText>"C'est vrai, madame ? Comment comptez-vous vous y prendre ?"  
+
+Azzuro vous regarde avec curiosité, les mains nerveusement croisées devant lui.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ah, je suis certain qu'ils vont changer d'avis, mon seigneur ! Merci d'être intervenu ! Dès que les choses seront rentrées dans l'ordre, j'aurai certainement un grand choix de marchandises à vous proposer !"</DefaultText>
+      <FemaleText>"Ah, je suis certain qu'ils vont changer d'avis, madame ! Merci d'être intervenue ! Dès que les choses seront rentrées dans l'ordre, j'aurai certainement un grand choix de marchandises à vous proposer !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Formidable ! Merci beaucoup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Auriez-vous un moment à m'accorder, mon seigneur ?"</DefaultText>
+      <FemaleText>"Auriez-vous un moment à m'accorder, madame ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Edér va vous accompagner. Il protégera vos caravanes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Pallegina gardera vos caravanes et assurera votre sécurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sagani va vous accompagner. Elle partira en éclaireur et veillera à ce que vous n'ayez pas d'ennuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je vois. Une autre idée peut-être ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Merci à tous les deux ! Je vais immédiatement en informer les autres. Une telle protection les rassurera."  
+
+Azzuro vous salue poliment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Donnez-lui 5000 pc] "Je me suis fait un nom dans ces contrées. Je garantirai personnellement la livraison, et couvrirai toutes les pertes. Cela devrait apaiser les craintes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Eh bien ! Il s'agit là de l'offre la plus généreuse que ces fournisseurs aient jamais eue, je vous le garantis. Merci ! J'aurai bientôt un grand choix de marchandises à vous proposer, j'en suis sûr !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Et je n'ai pas l'intention que cela change ! J'aimerais m'entretenir d'un problème urgent avec vous. Et j'espère que vous m'aiderez à le résoudre rapidement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"J'ai du mal à me faire livrer. Mes fournisseurs estiment que le risque est trop grand. Les brigands leur font peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

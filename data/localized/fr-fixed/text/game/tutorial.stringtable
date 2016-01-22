@@ -235,11 +235,11 @@ La capacité d'un personnage à retrouver des objets cachés est basée sur sa c
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Un de vos personnages est fatigué. La fatigue représente l'usure physique et psychologique liée à l'activité d'un personnage. Elle augmente progressivement au fil des voyages et des explorations du personnage, notamment lorsqu'il combat. Certaines interactions scriptées épuisantes provoquent également de la fatigue. La compétence Athlétisme ralentit automatiquement la progression de la fatigue, quelle que soit la source. 
+      <DefaultText>L'un de vos personnages est fatigué. La fatigue représente l'usure physique et psychologique d'une activité exigeante pour un personnage. Elle est généralement considérée comme une blessure lorsqu'un personnage est mis hors de combat, mais quelques interactions scriptées produiront aussi de la Fatigue si elles sont particulièrement éreintantes.
 
-La fatigue passe par plusieurs étapes, en infligeant d'abord des pénalités mineures qui deviennent plus sévères au fil du temps.
+La Fatigue passe par plusieurs étapes, infligeant d'abord des pénalités mineures qui augmentent en sévérité au fil du temps.
 
-Le repos est le moyen le plus simple d'éliminer les effets de la fatigue, même si certains objets consommables peuvent également réduire la fatigue totale d'un personnage.</DefaultText>
+Se reposer est la manière la plus simple de supprimer les effets de la Fatigue, même si certains objets consommables peuvent aussi la faire disparaître.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

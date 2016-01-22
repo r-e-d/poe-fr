@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1333</EntryCount>
+  <EntryCount>1376</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -3713,7 +3713,7 @@
     <Entry>
       <ID>799</ID>
       <DefaultText>Chevalier du Creuset</DefaultText>
-      <FemaleText />
+      <FemaleText>Chevalière du Creuset</FemaleText>
     </Entry>
     <Entry>
       <ID>800</ID>
@@ -4563,7 +4563,7 @@
     <Entry>
       <ID>969</ID>
       <DefaultText>Chat</DefaultText>
-      <FemaleText>Chatte</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>970</ID>
@@ -4998,7 +4998,7 @@
     <Entry>
       <ID>1056</ID>
       <DefaultText>Chasseur</DefaultText>
-      <FemaleText>Chasseuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1057</ID>
@@ -5983,7 +5983,7 @@
     <Entry>
       <ID>1258</ID>
       <DefaultText>Chasseur</DefaultText>
-      <FemaleText>Chasseuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1259</ID>
@@ -6578,7 +6578,7 @@
     <Entry>
       <ID>1379</ID>
       <DefaultText>Chasseur</DefaultText>
-      <FemaleText>Chasseuse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1380</ID>
@@ -6668,6 +6668,221 @@
     <Entry>
       <ID>1494</ID>
       <DefaultText>Sceau des Arcanes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1723</ID>
+      <DefaultText>Seigneur Gathbin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1724</ID>
+      <DefaultText>ycg Br Tomb Fragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1725</ID>
+      <DefaultText>Larmes de Saint Borragia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1727</ID>
+      <DefaultText>Anneau du Wyrwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1732</ID>
+      <DefaultText>Ceinture de carillons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1733</ID>
+      <DefaultText>Drap emmailloté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1738</ID>
+      <DefaultText>Corde liante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1739</ID>
+      <DefaultText>Manteau de confort</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1740</ID>
+      <DefaultText>Bottes en patchwork</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1757</ID>
+      <DefaultText>Anneau des amoureux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1777</ID>
+      <DefaultText>Manteau constellé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>Chancelier Warrin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1780</ID>
+      <DefaultText>Messager du palais</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>Capitaine Emery</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>Marshal Forwyn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>Fermier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>Marchand</DefaultText>
+      <FemaleText>Marchande</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>Mercenaire Aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Archer Aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1805</ID>
+      <DefaultText>Mercenaire Aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1806</ID>
+      <DefaultText>Pilleur aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1815</ID>
+      <DefaultText>Marcheur austère aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1816</ID>
+      <DefaultText>Mage de bataille aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1817</ID>
+      <DefaultText>Berserker glanfathan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1818</ID>
+      <DefaultText>Pilleur aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1819</ID>
+      <DefaultText>Gardien de bouclier aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1829</ID>
+      <DefaultText>Sceau de la famille Gathbin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1833</ID>
+      <DefaultText>Escarmoucheur de Caed Nua</DefaultText>
+      <FemaleText>Escarmoucheuse de Caed Nua</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1835</ID>
+      <DefaultText>Archer de Caed Nua</DefaultText>
+      <FemaleText>Archère de Caed Nua</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1837</ID>
+      <DefaultText>Vétéran de Caed Nua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1850</ID>
+      <DefaultText>Arquebusier des Douzaines</DefaultText>
+      <FemaleText>Arquebusière des Douzaines</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1851</ID>
+      <DefaultText>Assassin Doemenel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1852</ID>
+      <DefaultText>Orienteur Readceran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1869</ID>
+      <DefaultText>Dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1871</ID>
+      <DefaultText>Construct</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1872</ID>
+      <DefaultText>Rôdeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1873</ID>
+      <DefaultText>Vase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1874</ID>
+      <DefaultText>Feu follet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1875</ID>
+      <DefaultText>Araignée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1876</ID>
+      <DefaultText>Spore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1877</ID>
+      <DefaultText>Squelette</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1878</ID>
+      <DefaultText>Amaia's Codex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1880</ID>
+      <DefaultText>Byrnwigar's Forces</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
