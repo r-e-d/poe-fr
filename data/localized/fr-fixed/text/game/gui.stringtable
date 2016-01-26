@@ -4860,7 +4860,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Restaurer Brighthollow vous permettra de passer la nuit ici. D'autres améliorations peuvent débloquer des bonus de repos.</DefaultText>
+      <DefaultText>Restaurer Brighthollow vous permettra d'y passer la nuit. D'autres améliorations peuvent débloquer des bonus de repos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7409,7 +7409,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1478</ID>
-      <DefaultText>Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciens apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciennes ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
+      <DefaultText>Les magiciens ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciens apprennent des sorts individuels qu'ils conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciens à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciens ont accès à un ensemble de sorts supplémentaires. Mais ils peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel ils ont accès chaque fois qu'ils progressent. Les magiciens ont également la possibilité d'apprendre des sorts à partir des grimoires qu'ils trouvent ou qu'ils achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciens augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</DefaultText>
       <FemaleText>Les magiciennes ont accès à un éventail de sorts offensifs et défensifs personnels. Contrairement aux prêtres et aux druides, les magiciennes apprennent des sorts individuels qu'elles conservent dans leurs grimoires et jettent directement à partir de ceux-ci. Les grimoires ne peuvent contenir que quatre sorts de chaque niveau, ce qui incite les magiciennes à tenir plusieurs grimoires pour satisfaire leurs différents besoins. Tous les deux niveaux, les magiciennes ont accès à un ensemble de sorts supplémentaires. Mais elles peuvent automatiquement apprendre un sort de n'importe quel niveau, auquel elles ont accès chaque fois qu'elles progressent. Les magiciennes ont également la possibilité d'apprendre des sorts à partir des grimoires qu'elles trouvent ou qu'elles achètent. Initialement, leurs sorts peuvent être jetés un certain nombre de fois par repos. À mesure que les pouvoirs des magiciennes augmentent, leurs sorts les plus faibles peuvent être utilisés lors des rencontres.</FemaleText>
     </Entry>
     <Entry>
@@ -10302,42 +10302,42 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2235</ID>
-      <DefaultText>{1} destroyed {0}!</DefaultText>
+      <DefaultText>{1} a détruit {0} !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2236</ID>
-      <DefaultText>Number of Autosaves</DefaultText>
+      <DefaultText>Nombre de sauvegardes automatiques</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2237</ID>
-      <DefaultText>Sets the maximum number of rolling autosaves the game will keep for each playthrough.</DefaultText>
+      <DefaultText>Détermine le nombre de sauvegardes automatiques cycliques gardées par le jeu pour chaque partie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2238</ID>
-      <DefaultText>Immune to {0} damage</DefaultText>
+      <DefaultText>Immunisé aux dégâts {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2239</ID>
-      <DefaultText>Recover immediately</DefaultText>
+      <DefaultText>Récupérer immédiatement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2241</ID>
-      <DefaultText>{0} {1} Damage per {2}</DefaultText>
+      <DefaultText>{0} {1} Dégâts pour {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2242</ID>
-      <DefaultText>remove all {0}</DefaultText>
+      <DefaultText>suppression des {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2243</ID>
-      <DefaultText>{0} when dealt at least {1} damage</DefaultText>
+      <DefaultText>{0} quand au moins {1} dégâts subis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10357,12 +10357,12 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2247</ID>
-      <DefaultText>grant {0} of damage dealt as Focus to {1}</DefaultText>
+      <DefaultText>octroie {0} de dégâts infligés comme Maîtrise à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2248</ID>
-      <DefaultText>Story Time</DefaultText>
+      <DefaultText>Mode Histoire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10372,112 +10372,112 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Placeholder description of Story Time difficulty.</DefaultText>
+      <DefaultText>Le mode Histoire s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Quand le mode Histoire est actif, la composition des batailles est la même qu'en difficulté Normale, mais les mécaniques de jeu sont biaisées en faveur du joueur. Le niveau des ennemis, leurs dégâts, leurs temps de récupération et la durée des effets hostiles sont tous pire que de coutume et il leur est beaucoup plus difficile de réaliser des Critiques. Les membres du groupe réalisent des Critiques plus facilement contre les ennemis de faible Endurance et le groupe peut transporter autant de matériel de Campement qu'il le souhaite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2251</ID>
-      <DefaultText>Mastered {0} Spells</DefaultText>
+      <DefaultText>Sorts maîtrisés - {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2252</ID>
-      <DefaultText>Spell Mastery</DefaultText>
+      <DefaultText>Maîtrise de sort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2253</ID>
-      <DefaultText>Choose a Camping Bonus</DefaultText>
+      <DefaultText>Choisir un bonus de campement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2254</ID>
-      <DefaultText>Summoned Creature</DefaultText>
+      <DefaultText>Créature invoquée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2255</ID>
-      <DefaultText>{0} of incoming Grazes converted to Misses</DefaultText>
+      <DefaultText>{0} des éraflure converties en échec</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2256</ID>
-      <DefaultText>Soin reçus {0}</DefaultText>
+      <DefaultText>{0} guérisons reçues</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2257</ID>
-      <DefaultText>Mastering a spell allows a free use of that spell once per encounter. Wizards' mastered spells do not need to be in their grimoire in order to gain the free use.</DefaultText>
+      <DefaultText>Maîtriser un sort permet une utilisation libre par rencontre. Les sorts maîtrisés par le Magicien ne requièrent pas d'être présents dans son grimoire pour l'utilisation libre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2258</ID>
-      <DefaultText>Access level {0} Camping bonuses</DefaultText>
+      <DefaultText>Accède au bonus de Campement niveau {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2259</ID>
-      <DefaultText>Grants Second Wind level {0}</DefaultText>
+      <DefaultText>Octroie Second souffle niveau {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2260</ID>
-      <DefaultText>{0}-pt {1} Damage Shield</DefaultText>
+      <DefaultText>{0}-pt {1} Bouclier dégât</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2261</ID>
-      <DefaultText>{0} when Endurance drops below {1}</DefaultText>
+      <DefaultText>{0} quand Endurance en dessous de {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2262</ID>
-      <DefaultText>Occlusion Opacity</DefaultText>
+      <DefaultText>Opacité de l'occlusion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2263</ID>
-      <DefaultText>Adjust the opacity of characters when they are occluded by the environment.</DefaultText>
+      <DefaultText>Ajuste l'opacité des personnages lorsqu'ils sont obstrués par l'environnement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2264</ID>
-      <DefaultText>Defended by:</DefaultText>
+      <DefaultText>Défendu par :</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2267</ID>
-      <DefaultText>The character's AI will not use any spells or abilities.</DefaultText>
+      <DefaultText>L'IA des personnages n'utilisera pas de sorts ou de compétences.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2268</ID>
-      <DefaultText>Disable Tutorial Messages</DefaultText>
+      <DefaultText>Désactiver les didacticiels</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2269</ID>
-      <DefaultText>Loading Error</DefaultText>
+      <DefaultText>Erreur de chargement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2270</ID>
-      <DefaultText>There was an error loading the next map. Returned to Main Menu to prevent save game corruption.</DefaultText>
+      <DefaultText>Une erreur s'est produite en chargeant la carte suivante. Retour au menu principal pour éviter la corruption de la sauvegarde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2273</ID>
-      <DefaultText>Steals {1} spells of Level {0} or lower</DefaultText>
+      <DefaultText>Vole {1} sorts de Niveau {0} ou moins</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2274</ID>
-      <DefaultText>Stole {0} from {1}</DefaultText>
+      <DefaultText>A volé {0} à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2279</ID>
-      <DefaultText>Damage Shield</DefaultText>
+      <DefaultText>Bouclier dégât</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10487,7 +10487,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2281</ID>
-      <DefaultText>Parcourir les menus</DefaultText>
+      <DefaultText>Écran du prochain menu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10527,37 +10527,37 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2290</ID>
-      <DefaultText>No Knockout Injuries</DefaultText>
+      <DefaultText>Sans blessures rendant Inconscient</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>If set, party members will not recieve knockout injuries when they are reduced to 0 Endurance in combat.</DefaultText>
+      <DefaultText>Si sélectionné, les membres de l'équipe ne recevront pas de blessures rendant inconscient lorsque leur endurance est réduite à 0 en combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2294</ID>
-      <DefaultText>Previous Menu Screen</DefaultText>
+      <DefaultText>Écran du menu précédent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2302</ID>
-      <DefaultText>Camping allows your party members to restore lost health and recieve a Camping Bonus.  Camping will consume a Camping Supply.</DefaultText>
+      <DefaultText>Camper permet aux membres de votre équipe de regagner la santé perdue et recevoir un Bonus de campement. Camper consommera une fourniture de Campement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2303</ID>
-      <DefaultText>High level wizards, druids, and priests' low-level Per Encounter spells have been replaced with Spell Mastery. Level up your casters to select qualifying spells.</DefaultText>
+      <DefaultText>Les sorts hauts niveaux des magiciens et druides, et bas niveaux des prêtres Par rencontre ont été remplacés par Maîtrise des sorts. Montez de niveau vos lanceurs de sorts pour sélectionner les sorts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2304</ID>
-      <DefaultText>{1} attackers get {0} Accuracy</DefaultText>
+      <DefaultText>Les attaquants {1} obtiennent {0} Précision</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2305</ID>
-      <DefaultText>Remove {0}</DefaultText>
+      <DefaultText>Retire {0}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
