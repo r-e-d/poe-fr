@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>212</EntryCount>
+  <EntryCount>211</EntryCount>
   <Entries>
     <Entry>
       <ID>1400</ID>
@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Ce comportement met l'accent sur la Transformation spirituelle dès que le druide est en mesure d'attaquer un ennemi en mêlée. Si le paramètre Par repos est activé, le druide utilise des sorts de dégâts et de contrôle des foules en se concentrant sur les options de niveau inférieur et visant uniquement les ennemis.</DefaultText>
+      <DefaultText>Ce comportement met l'accent sur la Transformation spirituelle dès que le druide est en mesure d'attaquer un ennemi en mêlée. Si le paramètre Par repos est activé, le druide utilise des sorts de dégâts et de contrôle des foules en se concentrant sur les options de niveau inférieur et visant uniquement les ennemis. De plus, le druide peut jetter des sorts de guérison et de soutien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -676,12 +676,12 @@
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Le bandit préfère attaquer les cibles déjà attaquées par un allié. Utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. L'Assaut imprudent est désactivé par défaut. S'il est activé, il est désactivé au début de la rencontre suivante. Utilise le sort Coup de grâce contre les cibles dont l'endurance est inférieure à 25 %. Utilise le sort Fuite pour rejoindre l'allié le plus éloigné lorsque l'endurance est inférieure à 33 %.</DefaultText>
+      <DefaultText>Le bandit préfère attaquer les cibles déjà attaquées par un allié. Utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. Utilise le sort Coup de grâce contre les cibles dont la résistance est inférieure à 25 %. Utilise le sort Fuite pour rejoindre l'allié le plus éloigné lorsque la résistance est inférieure à 33 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>Le bandit utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. L'Assaut imprudent est activé par défaut. S'il est désactivé, il est réactivé au début de la rencontre suivante. Utilise le sort Coup de grâce contre les cibles dont l'endurance est inférieure à 25 %.</DefaultText>
+      <DefaultText>Le bandit utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. Utilise le sort Coup de grâce contre les cibles dont l'endurance est inférieure à 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -877,11 +877,6 @@
     <Entry>
       <ID>1576</ID>
       <DefaultText>Les alliés de l'incantateur regagnent une portion des dégâts qu'ils infligent en endurance.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1577</ID>
-      <DefaultText>Dévaste les ennemis avec une puissante explosion d'air froid qui inflige des dégâts givrants (ignorant une large partie de la RD) et ralentit le mouvement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>174</EntryCount>
+  <EntryCount>172</EntryCount>
   <Entries>
     <Entry>
       <ID>1903</ID>
@@ -342,16 +342,6 @@
     <Entry>
       <ID>2048</ID>
       <DefaultText>Lier cette arme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2051</ID>
-      <DefaultText>Standard</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2052</ID>
-      <DefaultText>Niveau élevé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -765,11 +755,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2175</ID>
-      <DefaultText>{0} avec critiques.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2182</ID>
       <DefaultText>Paquet déchiré</DefaultText>
       <FemaleText />
@@ -872,6 +857,11 @@
     <Entry>
       <ID>2232</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2444</ID>
+      <DefaultText>Village de Stalwart</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

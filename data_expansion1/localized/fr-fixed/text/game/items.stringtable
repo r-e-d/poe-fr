@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>315</EntryCount>
+  <EntryCount>314</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1714,7 +1714,7 @@ Zénith de l'hiver - Majivèrno (mahzh-ih-VEHR-no)"</DefaultText>
     </Entry>
     <Entry>
       <ID>2177</ID>
-      <DefaultText>Empêche que la santé d'un personnage sévèrement blessé ne tombe à 0 quand cela impliquerait la mort du personnage. Il peut toujours être mis hors combat via la perte d'endurance.</DefaultText>
+      <DefaultText>Empêche que la santé d'un personnage sévèrement blessé ne tombe à 0 quand cela impliquerait la mort du personnage. Il peut toujours être renversé via la perte d'endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1741,11 +1741,6 @@ Le roi donnait cette cape à ses enfants lorsqu'ils voyageaient, et des années 
     <Entry>
       <ID>2181</ID>
       <DefaultText>Les voleurs favorisent souvent les gants, les bottes et d'autres vêtements qui les rendent plus agiles et furtifs. Des gants comme ceux-ci sont confortables et moulants, et les pièces de cuir sur les doigts et les paumes aident le porteur à agripper tout ce qu'il veut - un rebord étroit, un gobelet inestimable, une dague aiguisée - plus facilement.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2182</ID>
-      <DefaultText>Cet anneau est lourd et grossièrement taillé. Il semble qu'il ait été moulé à partir d'un morceau d'argent mal raffiné. De petites impuretés scintillent autour de la bague. Si l'on se fie aux marques laissées par les outils, l'objet semble avoir été fait par un amateur plutôt que par un joailler professionnel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

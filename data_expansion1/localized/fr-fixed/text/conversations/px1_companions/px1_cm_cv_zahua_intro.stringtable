@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px1_companions\px1_cm_cv_zahua_intro</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>79</EntryCount>
+  <EntryCount>80</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -439,6 +439,11 @@ Ses yeux brillent comme s'ils regardaient un vieil ami très cher.</DefaultText>
     <Entry>
       <ID>84</ID>
       <DefaultText>Zahua hoche la tête vers vous en forme de reconnaissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>An uneasy frown settles on his face, almost a wince.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
