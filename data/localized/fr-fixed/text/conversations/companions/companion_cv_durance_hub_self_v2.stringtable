@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Durance est nom étrange."</DefaultText>
+      <DefaultText>"Durance est un nom étrange."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,10 +111,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Soit vous êtes un champ desséché qui doit être brûlé..." Il fronce les sourcils, le regarde inexpressif. "... Soit vous êtes perdu dans l'obscurité. Dans les deux cas, vous n'avez pas les même perceptions que les autres." Il esquisse un petit sourire, puis le ton de sa voix devient accusateur. "Je le sais à la façon dont vous avez remarqué le bâton."
+      <DefaultText>"Soit vous êtes un champ desséché qui doit être brûlé..." Il fronce les sourcils, le regarde inexpressif. "... Soit vous êtes perdu dans l'obscurité. Dans les deux cas, vous n'avez pas les mêmes perceptions que les autres." Il esquisse un petit sourire, puis le ton de sa voix devient accusateur. "Je le sais à la façon dont vous avez remarqué le bâton."
 
 "Rares sont ceux qui peuvent le voir dès le premier regard. Je ne parle pas des inscriptions ou des flammes, mais de vos yeux..." Il vous fixe, presque impatiemment, en acquiesçant. "... Vos yeux ont suivi le chemin. Je les ai vus."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Soit vous êtes un champ desséché qui doit être brûlé..." Il fronce les sourcils, le regarde inexpressif. "... Soit vous êtes perdue dans l'obscurité. Dans les deux cas, vous n'avez pas les mêmes perceptions que les autres." Il esquisse un petit sourire, puis le ton de sa voix devient accusateur. "Je le sais à la façon dont vous avez remarqué le bâton."
+
+"Rares sont ceux qui peuvent le voir dès le premier regard. Je ne parle pas des inscriptions ou des flammes, mais de vos yeux..." Il vous fixe, presque impatiemment, en acquiesçant. "... Vos yeux ont suivi le chemin. Je les ai vus."</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>

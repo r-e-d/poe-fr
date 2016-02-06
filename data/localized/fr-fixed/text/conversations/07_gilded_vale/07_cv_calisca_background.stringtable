@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Vous êtes supposé venir d'une grande et noble famille, c'est vrai ?"</DefaultText>
-      <FemaleText>Vous êtes supposée venir d'une grande et noble famille, c'est vrai ?</FemaleText>
+      <FemaleText>"Vous êtes supposée venir d'une grande et noble famille, c'est vrai ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -175,7 +175,7 @@ Avec un tremblement inquiet dans sa voix, elle ajoute, "Il faudra que j'interrog
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ce n'est peut-être pas une bonne idée. Survivre là-bas se résume parfois à ses relations et non à ce qu'on sait faire."</DefaultText>
+      <DefaultText>"Ce n'est peut-être pas une mauvaise idée. Survivre là-bas se résume parfois à ses relations et non à ce qu'on sait faire."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,7 +395,7 @@ Avec un tremblement inquiet dans sa voix, elle ajoute, "Il faudra que j'interrog
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"J'ai fait des choses ici, des choses que j'ai du mal à assumer."</DefaultText>
+      <DefaultText>"J'ai fait des choses là-bas, des choses que j'ai du mal à assumer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,8 +450,8 @@ Avec un tremblement inquiet dans sa voix, elle ajoute, "Il faudra que j'interrog
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"J'ai mis le feu à l'orphelinat et je suis parti d'ici tant que je le pouvais."</DefaultText>
-      <FemaleText>"J'ai mis le feu à l'orphelinat et je suis partie d'ici tant que je le pouvais."</FemaleText>
+      <DefaultText>"J'ai mis le feu à l'orphelinat et je suis parti tant que je le pouvais."</DefaultText>
+      <FemaleText>"J'ai mis le feu à l'orphelinat et je suis partie tant que je le pouvais."</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -725,8 +725,8 @@ Avec un tremblement inquiet dans sa voix, elle ajoute, "Il faudra que j'interrog
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"J'ai été piégé dans le transport de quelque chose que je n'aurais jamais dû accepter. Je ne mettrai plus jamais dans une telle position."</DefaultText>
-      <FemaleText>"J'ai été piégée dans le transport de quelque chose que je n'aurais jamais dû accepter. Je ne mettrai plus jamais dans une telle position."</FemaleText>
+      <DefaultText>"J'ai été piégé dans le transport de quelque chose que je n'aurais jamais dû accepter. Je ne me mettrai plus jamais dans une telle position."</DefaultText>
+      <FemaleText>"J'ai été piégée dans le transport de quelque chose que je n'aurais jamais dû accepter. Je ne me mettrai plus jamais dans une telle position."</FemaleText>
     </Entry>
     <Entry>
       <ID>143</ID>
@@ -1210,7 +1210,7 @@ Avec un tremblement inquiet dans sa voix, elle ajoute, "Il faudra que j'interrog
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Il faut être là quand les gens vous recherchent."</DefaultText>
+      <DefaultText>"Il faut l'être quand les gens vous recherchent."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1266,7 +1266,7 @@ Avec un tremblement inquiet dans sa voix, elle ajoute, "Il faudra que j'interrog
     <Entry>
       <ID>250</ID>
       <DefaultText>"Acharné. J'étais forgeron."</DefaultText>
-      <FemaleText>"Acharnée. J'étais forgeron."</FemaleText>
+      <FemaleText>"Acharnée. J'étais forgeronne."</FemaleText>
     </Entry>
     <Entry>
       <ID>251</ID>
@@ -1495,7 +1495,7 @@ Avec un tremblement inquiet dans sa voix, elle ajoute, "Il faudra que j'interrog
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"Il n'y a pas de mal à cela. Je pourrais tout aussi bien d'abord visiter l'endroit."
+      <DefaultText>"Il n'y a pas de mal à cela. Vous pourriez tout aussi bien d'abord visiter l'endroit."
 
 "Alors vous devez avoir un autre plan en tête pour venir jusqu'ici."</DefaultText>
       <FemaleText />

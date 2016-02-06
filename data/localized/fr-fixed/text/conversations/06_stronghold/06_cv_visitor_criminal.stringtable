@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>"Très bien. Je vous écoute."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Vous appelez vos alliés et faites signe à la plaignante de s'approcher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>"Je ne peux rien pour vous pour le moment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@ Nyry tourne les talons et quitte la salle à la hâte.</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>"Finalement, peut-être pas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,22 +208,30 @@ Nyry tourne les talons et quitte la salle à la hâte.</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
+      <DefaultText>"Oui... Oui, vous avez raison. C'est dur de vivre caché. Ce serait l'occasion pour moi de repartir à zéro. Merci de me donner une chance de devenir honnête."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Jamais de la vie ! Vous êtes malin, mais vous ne m'obligerez jamais à me rendre."  
+
+Nyry tourne les talons et quitte la salle à la hâte.</DefaultText>
+      <FemaleText>"Jamais de la vie ! Vous êtes maline, mais vous ne m'obligerez jamais à me rendre."  
+
+Nyry tourne les talons et quitte la salle à la hâte.</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Jamais de la vie ! Vous êtes malin, mais vous ne m'obligerez jamais à me rendre."  
+
+Nyry tourne les talons et quitte la salle à la hâte.</DefaultText>
+      <FemaleText>"Jamais de la vie ! Vous êtes maline, mais vous ne m'obligerez jamais à me rendre."  
+
+Nyry tourne les talons et quitte la salle à la hâte.</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>"Oui... Oui, vous avez raison. C'est dur de vivre caché. Ce serait l'occasion pour moi de repartir à zéro. Merci de me donner une chance de devenir honnête."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

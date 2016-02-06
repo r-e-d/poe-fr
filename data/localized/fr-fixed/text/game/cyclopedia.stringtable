@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>314</EntryCount>
+  <EntryCount>315</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -465,7 +465,7 @@ Le premier d'entre eux fut une adolescente orlane. Elle était pourvue de crocs 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Les skuldrs sont d'imposants mammifères qui habitent les cavernes dans une totale, voire quasi totale obscurité. Ils ont ainsi développé une bien piètre vision et utilise leur ouïe pour traquer leurs proies. Les protrusions et les poils de leurs oreilles leur permettent de sonder l'air, ce qui est capital pour se déplacer dans un environnement souterrain. Ils communiquent à l'aide de cris et de claquements de langue et utilisent ces vocalisations sous forme d'écholocation. Grégaires, ces créatures nichent et élèvent leur progéniture ensemble.</DefaultText>
+      <DefaultText>Les skuldrs sont d'imposants mammifères qui habitent les cavernes dans une totale, voire quasi totale obscurité. Ils ont ainsi développé une bien piètre vision et utilisent leur ouïe pour traquer leurs proies. Les protrusions et les poils de leurs oreilles leur permettent de sonder l'air, ce qui est capital pour se déplacer dans un environnement souterrain. Ils communiquent à l'aide de cris et de claquements de langue et utilisent ces vocalisations sous forme d'écholocation. Grégaires, ces créatures nichent et élèvent leur progéniture ensemble.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1152,7 +1152,7 @@ Les afflictions (ex : assommement ou renversement) sont généralement considé
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>La fatigue représente l'usure physique et psychologique d'une activité exigeante pour un personnage. Elle est généralement considérée comme une blessure lorsqu'un personnage est mis hors de combat, mais quelques interactions scriptées produiront aussi de la Fatigue si elles sont particulièrement éreintantes.
+      <DefaultText>La fatigue représente l'usure physique et psychologique d'une activité exigeante pour un personnage. Elle est généralement considérée comme une blessure lorsqu'un personnage est renversé, mais quelques interactions scriptées produiront aussi de la Fatigue si elles sont particulièrement éreintantes.
 
 La Fatigue passe par plusieurs étapes, infligeant d'abord des pénalités mineures qui augmentent en sévérité au fil du temps.
 
@@ -1656,6 +1656,11 @@ Les armoiries de la Marche blanche peuvent toujours être vues sur certains obje
     <Entry>
       <ID>321</ID>
       <DefaultText>Les armes avec la propriété Chance d'ensorcellement ont une chance de déclencher la compétence ou le sort listé, en général lors d'un coup ou un critique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>L'affliction Distrait affaiblit toutes les défenses de la cible de 6 et affaiblit leur nombre de cibles d'Engagement de 1. Pour la plupart des personnages, cela signifie qu'ils ne peuvent pas tenir d'ennemis Engagés lorsqu'ils sont affligés par Distrait.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

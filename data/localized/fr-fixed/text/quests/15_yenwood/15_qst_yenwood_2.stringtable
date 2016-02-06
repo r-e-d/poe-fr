@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_yenwood\15_qst_yenwood_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Un retour à la cour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rencontrez le chancelier Warrin au Tonneau carbonisé de Brackenbury.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Éliminez Emery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retournez à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Parlez à la foule massée devant votre grande salle à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rencontrez Marshal Forwyn dans votre grande salle à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un autre messager du palais ducal est arrivé à Caed Nua. Le chancelier Warrin avait dit qu'il enverrait un autre messager s'il avait du nouveau concernant la contestation de ma possession de Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le chancelier Warrin a demandé une autre entrevue avec moi. Cette fois, il veut me parler au Tonneau carbonisé dans le quartier de Brackenbury de la Baie du défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Cette entrevue avec le chancelier Warrin était un piège tendu par le seigneur Gathbin. Il a envoyé un groupe de ses hommes de main, emmenés par le capitaine Emery, pour m'assassiner. Je ne vais bien évidemment pas me laisser faire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Une foule de gens du peuple s'est amassée devant la grande salle de Caed Nua. Ils semblent incroyablement furieux à propos de quelque chose - l'œuvre du seigneur Gathbin, à n'en pas douter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>La fausse entrevue avec le chancelier Warrin et l'attaque par le capitaine Emery étaient toutes deux des distractions pour me tenir à l'écart de Caed Nua un certain temps. Je dois retourner là-bas pour découvrir ce qu'il s'est passé durant mon absence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Une foule de gens du peuple s'est amassée devant la grande salle de Caed Nua. Ils semblent incroyablement furieux à propos de quelque chose - l'œuvre du seigneur Gathbin, à n'en pas douter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Marshal Forwyn prétend avoir des nouvelles à propos des activités du seigneur Gathbin. Il désire me parler dans ma grande salle à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Le seigneur Gathbin n'a pas abandonné son dessein de m'enlever Caed Nua. Il a essayé de me faire assassiner, a semé le trouble dans la région environnant Caed Nua, et à présent, il lève une armée contre moi.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

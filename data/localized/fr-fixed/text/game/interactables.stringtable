@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>765</EntryCount>
+  <EntryCount>766</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>La poussière et les toiles d'araignées ont été balayées pour céder la place à du matériel d'alchimie. Malgré la rouille et la poussière qui les recouvrent, il semble avoir servi récemment.</DefaultText>
+      <DefaultText>La poussière et les toiles d'araignées ont été balayées pour céder la place à du matériel d'alchimie. Malgré la rouille et la poussière qui le recouvrent, il semble avoir servi récemment.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3882,6 +3882,11 @@ Sud vers le Mât salé</DefaultText>
     <Entry>
       <ID>867</ID>
       <DefaultText>Boutique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>Piège</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

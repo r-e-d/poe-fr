@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Lorsqu'un membre du groupe subit des dégâts, son endurance et sa santé déclinent. Un voile rouge commence à recouvrir son portrait et la barre de santé située à sa gauche baisse. Lorsque le voile recouvre entièrement le portrait, le personnage est KO. Des potions et des sorts peuvent être utilisés pour régénérer l'endurance des personnages et leur permettre de continuer à combattre, mais seul du repos leur permettra de recouvrer la santé.</DefaultText>
+      <DefaultText>Lorsqu'un membre du groupe subit des dégâts, son endurance et sa santé déclinent. Un voile rouge commence à recouvrir son portrait et la barre de santé située à sa gauche baisse. Lorsque le voile recouvre entièrement le portrait, le personnage est renversé. Des potions et des sorts peuvent être utilisés pour régénérer l'endurance des personnages et leur permettre de continuer à combattre, mais seul du repos leur permettra de recouvrer la santé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Aïe ! Lorsque l'endurance d'un membre du groupe est réduite à 0, il est KO. Il ne peut alors plus combattre. Cela dit, si votre camp remporte le combat, son endurance sera régénérée à l'issue de celui-ci. Contrairement à l'endurance, la santé ne se régénère pas à l'issue du combat. Surveillez la barre située à gauche du portrait du personnage pour veiller à ce qu'il ne soit pas meurtri ou tué.</DefaultText>
+      <DefaultText>Aïe ! Lorsque l'endurance d'un membre du groupe est réduite à 0, il est renversé. Il ne peut alors plus combattre. Cela dit, si votre camp remporte le combat, son endurance sera régénérée à l'issue de celui-ci. Contrairement à l'endurance, la santé ne se régénère pas à l'issue du combat. Surveillez la barre située à gauche du portrait du personnage pour veiller à ce qu'il ne soit pas meurtri ou tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@ La capacité d'un personnage à retrouver des objets cachés est basée sur sa c
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Les magiciens peuvent apprendre un nombre impressionnant de sorts, mais ils sont toujours limités par la capacité de leurs grimoires. Un grimoire ne peut contenir que quatre sorts de chaque niveau à la fois. Cliquez sur un sort dans le panneau de droite pour le supprimer du grimoire. Pour ajouter des sorts, vous devez vider les emplacements occupés en cliquant sur les sorts correspondants dans le panneau de gauche.</DefaultText>
+      <DefaultText>Les magiciens peuvent apprendre un nombre impressionnant de sorts, mais ils sont toujours limités par la capacité de leurs grimoires. Un grimoire ne peut contenir que quatre sorts de chaque niveau à la fois. Cliquez sur un sort dans le panneau de droite pour le supprimer du grimoire. Pour ajouter des sorts à un emplacement vide, cliquez sur les sorts correspondants dans le panneau de gauche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,7 +235,7 @@ La capacité d'un personnage à retrouver des objets cachés est basée sur sa c
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>L'un de vos personnages est fatigué. La fatigue représente l'usure physique et psychologique d'une activité exigeante pour un personnage. Elle est généralement considérée comme une blessure lorsqu'un personnage est mis hors de combat, mais quelques interactions scriptées produiront aussi de la Fatigue si elles sont particulièrement éreintantes.
+      <DefaultText>L'un de vos personnages est fatigué. La fatigue représente l'usure physique et psychologique d'une activité exigeante pour un personnage. Elle est généralement considérée comme une blessure lorsqu'un personnage est renversé, mais quelques interactions scriptées produiront aussi de la Fatigue si elles sont particulièrement éreintantes.
 
 La Fatigue passe par plusieurs étapes, infligeant d'abord des pénalités mineures qui augmentent en sévérité au fil du temps.
 

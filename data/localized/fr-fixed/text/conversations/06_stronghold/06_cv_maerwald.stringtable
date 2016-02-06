@@ -28,8 +28,8 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Je suis un Gardien. J'ai rencontré une femme à Val-Doré qui pensait qu'il pourrait m'aider."</DefaultText>
-      <FemaleText>"Je suis une Gardienne. J'ai rencontré une femme à Val-Doré qui pensait qu'il pourrait m'aider."</FemaleText>
+      <DefaultText>"Je suis un Gardien. J'ai rencontré une femme à Val-Doré qui pensait que vous pourriez m'aider."</DefaultText>
+      <FemaleText>"Je suis une Gardienne. J'ai rencontré une femme à Val-Doré qui pensait que vous pourriez m'aider."</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -161,7 +161,7 @@ Il se couvre la bouche de ses mains, son souffle est convulsif, ses yeux rouges 
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Esprits et non-esprits. Murmurant toujours à Maerwald. Lui rappeler ses erreurs. Aucun sommeil."
+      <DefaultText>"Esprits et non-esprits. Murmurant toujours à Maerwald. Lui rappelant ses erreurs. Aucun sommeil."
 
 "Les Gardiens voient les souvenirs avant eux, ils les forment avec l'essence de leurs propres âmes."
 
@@ -237,9 +237,7 @@ Il se couvre la bouche de ses mains, son souffle est convulsif, ses yeux rouges 
       <DefaultText>"Je vous avais dit qu'il ne faut pas faire confiance à un Gardien. Qu'y a-t-il à attendre lorsque quelqu'un a pour habitude de voir ce qui n'est pas destiné aux yeux des mortels, sinon la folie ?"
 
 "Il est à craindre que notre voyage ensemble ne soit du genre court."</DefaultText>
-      <FemaleText>"Je vous avais dit qu'il ne faut pas faire confiance à une Gardienne. Qu'y a-t-il à attendre lorsque quelqu'un a pour habitude de voir ce qui n'est pas destiné aux yeux des mortels, sinon la folie ?"
-
-"Il est à craindre que notre voyage ensemble ne soit du genre court."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -248,7 +246,7 @@ Il se couvre la bouche de ses mains, son souffle est convulsif, ses yeux rouges 
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Quoi, une folie inévitable ? Ce n'est pas possible." Kana croise les bras. "Il y a toujours une réponse à trouver, si cherchez assez longtemps."</DefaultText>
+      <DefaultText>"Quoi, une folie inévitable ? Ce n'est pas possible." Kana croise les bras. "Il y a toujours une réponse à trouver, si vous cherchez assez longtemps."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,8 +443,8 @@ Il regarde de son côté, comme si quelqu'un se tenait là. "Allumez."</DefaultT
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Je ne me rappelais pas. Quelqu'un a provoqué cela. Ils portaient des masques et parlaient de livres et de clés et d'une reine. Il y avait un homme là... il me semblait familier."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Je ne me suis pas rappelé. Quelqu'un a provoqué cela. Ils portaient des masques et parlaient de livres et de clés et d'une reine. Il y avait un homme là... il me semblait familier."</DefaultText>
+      <FemaleText>"Je ne me suis pas rappelée. Quelqu'un a provoqué cela. Ils portaient des masques et parlaient de livres et de clés et d'une reine. Il y avait un homme là... il me semblait familier."</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -597,7 +595,7 @@ Il y a quelque chose d'unique à propos de cette âme et de cet endroit. Un lien
       <ID>113</ID>
       <DefaultText>Les morceaux effilochés se tordent et fusionnent, et tandis que le lien se renforce, les fibres deviennent du métal et la corde devient une chaîne.
 
-Vous voyez l'âme de Maerwald s'évanouir dans le sol, se fondant avec lui, se propageant à travers lui jusqu'à plus ne faire qu'un avec le lieu, un gardien silencieux.</DefaultText>
+Vous voyez l'âme de Maerwald s'évanouir dans le sol, se fondant avec lui, se propageant à travers lui jusqu'à ne faire plus qu'un avec le lieu, un gardien silencieux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -612,7 +610,9 @@ L'âme de Maerwald passe au-dessus de vous, un vortex de conflit et de discorde 
       <DefaultText>Vous tournez les deux bouts de la corde vers vous, les mettant en contact avec votre essence, et ce faisant, les fibres se transforment en cuivre et vous absorbez une énergie à travers elles.
 
 Vous voyagez vers le bas, sous le lieu où vous êtes situé, voyant des endroits froids, couverts de toiles d'araignée et malveillants, comme un jardin abandonné débordant de flore et envahi par la vermine. Et tout au fond, vous apercevez pendant un instant un être non reconnaissable, présidant l'ensemble avec un pouvoir fascinant et terrifiant.</DefaultText>
-      <FemaleText />
+      <FemaleText>Vous tournez les deux bouts de la corde vers vous, les mettant en contact avec votre essence, et ce faisant, les fibres se transforment en cuivre et vous absorbez une énergie à travers elles.
+
+Vous voyagez vers le bas, sous le lieu où vous êtes située, voyant des endroits froids, couverts de toiles d'araignée et malveillants, comme un jardin abandonné débordant de flore et envahi par la vermine. Et tout au fond, vous apercevez pendant un instant un être non reconnaissable, présidant l'ensemble avec un pouvoir fascinant et terrifiant.</FemaleText>
     </Entry>
     <Entry>
       <ID>116</ID>
@@ -631,9 +631,7 @@ Tandis que les images s'effacent, vous vous retrouvez à nouveau à Caed Nua. L'
       <DefaultText>Il fait la moue, comme s'il tenait sa bouche fermée pour que la réponse ne s'échappe pas. À la longue, il hoche la tête.
 
 "Si fragile, l'esprit du Gardien. Ses souvenirs si réels. Une fois Éveillé, comment peut-il dormir ?"</DefaultText>
-      <FemaleText>Il fait la moue, comme s'il tenait sa bouche fermée pour que la réponse ne s'échappe pas. À la longue, il hoche la tête.
-
-"Si fragile, l'esprit de la Gardienne. Ses souvenirs si réels. Une fois Éveillé, comment peut-elle dormir ?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
@@ -662,7 +660,7 @@ Tandis que les images s'effacent, vous vous retrouvez à nouveau à Caed Nua. L'
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Puis c'était sa mère que j'ai rencontré dans le donjon. Elle lui a dit que son père a été tué par des assaillants."</DefaultText>
+      <DefaultText>"Puis c'est sa mère que j'ai rencontré dans le donjon. Elle lui a dit que son père a été tué par des assaillants."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -697,7 +695,7 @@ Tandis que les images s'effacent, vous vous retrouvez à nouveau à Caed Nua. L'
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Maerwald n'est pas là, et il n'est pas dupe. Il n'a envoyé aucun visiteur. Arrière, esprit trompeur !"</DefaultText>
+      <DefaultText>"Maerwald n'est pas là, et il n'est pas dupe. Il n'a appelé aucun visiteur. Arrière, esprit trompeur !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

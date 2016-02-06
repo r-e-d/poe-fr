@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2155</EntryCount>
+  <EntryCount>2160</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2206,7 +2206,7 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>{0}-{1}</DefaultText>
+      <DefaultText>{1}-{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2965,7 +2965,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>Donjon du creuset</DefaultText>
+      <DefaultText>Donjon du Creuset</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6670,7 +6670,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>{0}</DefaultText>
+      <DefaultText>Dégâts {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8320,7 +8320,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1659</ID>
-      <DefaultText>Durée des consommables {0}</DefaultText>
+      <DefaultText>Durée des consommables {0} %</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9922,6 +9922,16 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2051</ID>
+      <DefaultText>Standard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2052</ID>
+      <DefaultText>Niveau élevé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2053</ID>
       <DefaultText>Suivi sélectionné</DefaultText>
       <FemaleText />
@@ -10119,6 +10129,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2171</ID>
       <DefaultText>{0} ajouté dans l'inventaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2175</ID>
+      <DefaultText>{0} avec critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10338,7 +10353,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2241</ID>
-      <DefaultText>{0} {1} Dégâts pour {2}</DefaultText>
+      <DefaultText>{0} {1} de dégâts par {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10428,12 +10443,12 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2259</ID>
-      <DefaultText>Octroie Second souffle niveau {0}</DefaultText>
+      <DefaultText>Octroie Second souffle ({0} Endurance)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2260</ID>
-      <DefaultText>{0}-pt {1} Bouclier dégât</DefaultText>
+      <DefaultText>Bouclier de dégâts {0}-pt {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10498,7 +10513,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2281</ID>
-      <DefaultText>Écran du prochain menu</DefaultText>
+      <DefaultText>Écran du menu suivant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10538,12 +10553,12 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2290</ID>
-      <DefaultText>Sans blessures rendant Inconscient</DefaultText>
+      <DefaultText>Sans blessures après renversement</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2291</ID>
-      <DefaultText>Si sélectionné, les membres de l'équipe ne recevront pas de blessures rendant inconscient lorsque leur endurance est réduite à 0 en combat.</DefaultText>
+      <DefaultText>Si sélectionné, les membres de l'équipe ne recevront pas de blessures de renversement lorsque leur endurance est réduite à 0 en combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10553,7 +10568,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2302</ID>
-      <DefaultText>Camper permet aux membres de votre équipe de regagner la santé perdue et recevoir un Bonus de campement. Camper consommera une fourniture de Campement.</DefaultText>
+      <DefaultText>Camper permet aux membres de votre équipe de regagner la santé perdue et recevoir un Bonus de campement. Camper consommera un matériel de campement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10713,7 +10728,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2366</ID>
-      <DefaultText>Impossible d'entrer en mode Éclaireur pendant le combat.</DefaultText>
+      <DefaultText>Impossible d'entrer en mode Reconnaissance pendant le combat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10884,6 +10899,16 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2436</ID>
       <DefaultText>Byrnwigar's Forces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2451</ID>
+      <DefaultText>{0} melee enemies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2452</ID>
+      <DefaultText>dragons or drakes</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

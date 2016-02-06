@@ -237,7 +237,7 @@
     <Entry>
       <ID>50</ID>
       <DefaultText>"Merci, l'étranger ! Je dois retourner à la Croisée... mais je pense d'abord à manger et à me reposer. Dites à Nedmar... eh bien, dites-lui que j'ai toujours la sculpture du Chevalier pâle qu'il m'avait donnée quand j'étais enfant. Et que j'espère qu'il va bien."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Merci, l'étrangère ! Je dois retourner à la Croisée... mais je pense d'abord à manger et à me reposer. Dites à Nedmar... eh bien, dites-lui que j'ai toujours la sculpture du Chevalier pâle qu'il m'avait donnée quand j'étais enfant. Et que j'espère qu'il va bien."</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -267,7 +267,7 @@
     <Entry>
       <ID>56</ID>
       <DefaultText>Edér semble souffrir. "Notre noble seigneur au travail."</DefaultText>
-      <FemaleText />
+      <FemaleText>Edér semble souffrir. "Notre noble dame au travail."</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>

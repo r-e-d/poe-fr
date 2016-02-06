@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\15_yenwood\15_qst_yenwood_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La bataille de Yenwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aidez Marshal Forwyn à lever une armée à Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rencontrez votre armée au champ de Yenwood et éliminez le seigneur Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Éliminez le seigneur Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le seigneur Gathbin rassemble une armée de mercenaires dans le but de m'arracher le contrôle de Caed Nua. Je dois lever ma propre armée pour l'arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Pour combattre les forces du seigneur Gathbin, je vais avoir besoin de ma propre armée. Marshal Forwyn m'assistera dans toute la logistique, en coordonnant tout cela depuis la grande salle de Caed Nua. Il attendra là-bas jusqu'à ce que je commande à mon armée de marcher sur le champ de Yenwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Votre armée est déployée au champ de Yenwood. Allez à sa rencontre là-bas pour les guider contre les forces du seigneur Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Le seigneur Gathbin et ses troupes d'élite foncent directement sur vous. C'est votre opportunité de le tuer et de dérouter son armée une bonne fois pour toutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mes alliés des Chevaliers du Creuset vont envoyer quelques-uns de leurs chevaliers vétérans pour assister mon infanterie - en supposant que je reste en bons termes avec eux jusqu'à la bataille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Mes alliés des Douzaines vont envoyer quelques-uns de leurs arquebusiers vétérans pour assister mes archers - en supposant que je reste en bons termes avec eux jusqu'à la bataille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Mes alliés des Doemenel vont envoyer quelques-uns de leurs assassins pour assister mon infanterie - en supposant que je reste en bons termes avec eux jusqu'à la bataille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>La matrone Beregan a promis de m'envoyer quelques-uns de ses ogres pour assister mon infanterie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Adaryc enverra un contingent d'hommes à arc longs pour assister mes archers dans la bataille contre le seigneur Gathbin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Le seigneur Gathbin est mort et sa revendication sur Caed Nua disparaît avec lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

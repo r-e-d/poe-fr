@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1376</EntryCount>
+  <EntryCount>1382</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -1627,7 +1627,7 @@
     <Entry>
       <ID>371</ID>
       <DefaultText>Sleafhota</DefaultText>
-      <FemaleText />
+      <FemaleText>Sleafhota</FemaleText>
     </Entry>
     <Entry>
       <ID>372</ID>
@@ -6716,6 +6716,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1742</ID>
+      <DefaultText>Doigt de Nîdhen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1757</ID>
       <DefaultText>Anneau des amoureux</DefaultText>
       <FemaleText />
@@ -6741,6 +6746,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1786</ID>
+      <DefaultText>Amulette marquée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1794</ID>
       <DefaultText>Marshal Forwyn</DefaultText>
       <FemaleText />
@@ -6763,6 +6773,11 @@
     <Entry>
       <ID>1799</ID>
       <DefaultText>Archer Aedyran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1800</ID>
+      <DefaultText>Fléau du magma</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6818,6 +6833,11 @@
     <Entry>
       <ID>1837</ID>
       <DefaultText>Vétéran de Caed Nua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1838</ID>
+      <DefaultText>Anneau d'argent des amoureux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6883,6 +6903,16 @@
     <Entry>
       <ID>1880</ID>
       <DefaultText>Byrnwigar's Forces</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1898</ID>
+      <DefaultText>Greenstained Boots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Father's Teeth</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

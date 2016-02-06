@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1475</EntryCount>
+  <EntryCount>1481</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2841,7 +2841,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Empale la cible avec une lance de force pure qui inflige d'importants dégâts perforants à tous les personnages présents sur la ligne d'attaque et peut entraîner une interruption.</DefaultText>
+      <DefaultText>Empale la cible avec une lance de force pure qui inflige d'importants dégâts perforants à tous les ennemis présents sur la ligne d'attaque et peut entraîner une interruption.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7035,7 +7035,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Ce comportement met l'accent sur la Transformation spirituelle dès que le druide est en mesure d'attaquer un ennemi en mêlée. Si le paramètre Par repos est activé, le druide utilise des sorts de dégâts et de contrôle des foules en se concentrant sur les options de niveau inférieur et visant uniquement les ennemis.</DefaultText>
+      <DefaultText>Ce comportement met l'accent sur la Transformation spirituelle dès que le druide est en mesure d'attaquer un ennemi en mêlée. Si le paramètre Par repos est activé, le druide utilise des sorts de dégâts et de contrôle des foules en se concentrant sur les options de niveau inférieur et visant uniquement les ennemis. De plus, le druide peut jetter des sorts de guérison et de soutien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7050,7 +7050,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1527</ID>
-      <DefaultText>Dès que l'occasion se présente, le paladin utilise les sorts Flammes de dévotion et Ennemi juré (si le paramètre Par repos est activé). La Concentration zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
+      <DefaultText>Dès que l'occasion se présente, le paladin utilise les sorts Flammes de dévotion et Ennemi juré. La Concentration zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7090,12 +7090,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Le bandit préfère attaquer les cibles déjà attaquées par un allié. Utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. L'Assaut imprudent est désactivé par défaut. S'il est activé, il est désactivé au début de la rencontre suivante. Utilise le sort Coup de grâce contre les cibles dont la résistance est inférieure à 25 %. Utilise le sort Fuite pour rejoindre l'allié le plus éloigné lorsque la résistance est inférieure à 33 %.</DefaultText>
+      <DefaultText>Le bandit préfère attaquer les cibles déjà attaquées par un allié. Utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. Utilise le sort Coup de grâce contre les cibles dont la résistance est inférieure à 25 %. Utilise le sort Fuite pour rejoindre l'allié le plus éloigné lorsque la résistance est inférieure à 33 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1536</ID>
-      <DefaultText>Le bandit utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. L'Assaut imprudent est activé par défaut. S'il est désactivé, il est réactivé au début de la rencontre suivante. Utilise le sort Coup de grâce contre les cibles dont l'endurance est inférieure à 25 %.</DefaultText>
+      <DefaultText>Le bandit utilise les sorts Frappe handicapante, Frappe aveuglante, Frappe cinglante, Redoutable frappe (uniquement si le paramètre Par repos est activé) dès que l'occasion se présente. Utilise le sort Coup de grâce contre les cibles dont l'endurance est inférieure à 25 %.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7134,8 +7134,18 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1548</ID>
+      <DefaultText>Ainsi chantent les vents mordants du vieux Nary</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1550</ID>
       <DefaultText>Disrupteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>Dévaste les ennemis avec une puissante explosion d'air froid qui inflige des dégâts givrants (ignorant une large partie de la RD) et ralentit le mouvement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7304,6 +7314,16 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1700</ID>
+      <DefaultText>Mains exaltées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1703</ID>
+      <DefaultText>Échanger Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1717</ID>
       <DefaultText>Ressentiment d'Effigy : Zahua</DefaultText>
       <FemaleText />
@@ -7321,6 +7341,11 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     <Entry>
       <ID>1781</ID>
       <DefaultText>L'incantateur est capable de réciter les phrases plus rapidement, lui permettant d'utiliser les invocations plus tôt en combat tout en augmentant le chevauchement entre ses phrases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>Martyre</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7401,6 +7426,11 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     <Entry>
       <ID>1816</ID>
       <DefaultText>Accurate melee attack that does Crash/Slash damage, bypasses some Damage Reduction, and can Stun the target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1870</ID>
+      <DefaultText>Manteau éthéré</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

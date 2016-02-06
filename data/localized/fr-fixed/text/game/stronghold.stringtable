@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\stronghold</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>281</EntryCount>
+  <EntryCount>282</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1229,7 +1229,7 @@ En faisant résonner une série de cloches dans les ruines de la cité, {0} sonn
       <ID>200</ID>
       <DefaultText>Amaia, fameuse et riche érudite rauatai, a passé sa longue vie à compiler un énorme codex regroupant diverses légendes d'Eora. Se basant sur des sources aumaua ainsi que d'Aedyr, de Vailia l'Ancienne, des Plaines d'Ixamitl et de Naasitaq, son ouvrage est véritablement gargantuesque, et s'étale sur des milliers de pages. 
 
-Alors qu'elle avait des scribes occupés à recopier le corps de son œuvre durant les deux dernières décennies, quelques contes populaires sont restés hors de sa portée. Elle a tenté de contacter l'ainé glamfellen des Blanches étendues, pour arranger une réunion spéciale avec l'Aedyre Ine Sycthrúa et s'asseoir parmi les rîowds d'Eir Glanfath les plus vénérés. Toutes ses tentatives se sont révélées infructueuses à cause de divers dangers qui se dressaient sur son chemin. 
+Alors qu'elle avait des scribes occupés à recopier le corps de son œuvre durant les deux dernières décennies, quelques contes populaires sont restés hors de sa portée. Elle a tenté de contacter l'ainé glamfellen des Blanches étendues, pour arranger une réunion spéciale avec l'Aedyre Ine Sycthrúa et s'asseoir parmi les rîows d'Eir Glanfath les plus vénérés. Toutes ses tentatives se sont révélées infructueuses à cause de divers dangers qui se dressaient sur son chemin. 
 
 Ces derniers sujets seront les chapitres finaux du travail de sa vie, et elle recherche des aventuriers expérimentés pour l'y aider.</DefaultText>
       <FemaleText />
@@ -1643,6 +1643,11 @@ Satisfaite d'avoir terminé sa recherche, Amaia retourna à Rauatai pour écrire
     <Entry>
       <ID>282</ID>
       <DefaultText>{0} attempted to escape from the dungeon, but was thwarted by your guards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>{0} construction started.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
