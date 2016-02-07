@@ -1593,12 +1593,12 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Ensorcellement</DefaultText>
+      <DefaultText>Sort lié</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Un objet avec la propriété ensorcellement permet d'utiliser une capacité ou un sort pendant que l'objet est équipé.</DefaultText>
+      <DefaultText>Un objet avec la propriété Sort lié permet d'utiliser une capacité ou un sort pendant que l'objet est équipé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1608,7 +1608,7 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Les objets avec la propriété sort associé vont automatiquement activer la capacité ou le sort indiqué lorsque le porteur de l'objet subit un critique en combat. Sort associé ne peut se déclencher plus de 2 fois par rencontre.</DefaultText>
+      <DefaultText>Les objets avec la propriété Sort associé vont automatiquement activer la capacité ou le sort indiqué lorsque le porteur de l'objet subit un critique en combat. Sort associé ne peut se déclencher plus de 2 fois par rencontre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1650,12 +1650,12 @@ Les armoiries de la Marche blanche peuvent toujours être vues sur certains obje
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Chance d'ensorcellement</DefaultText>
+      <DefaultText>Coup du destin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Les armes avec la propriété Chance d'ensorcellement ont une chance de déclencher la compétence ou le sort listé, en général lors d'un coup ou un critique.</DefaultText>
+      <DefaultText>Les armes avec la propriété Coup du destin ont une chance de déclencher la compétence ou le sort listé, en général lors d'un coup ou un critique.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
