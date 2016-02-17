@@ -133,8 +133,8 @@ Nyry joint les mains, vous salue et s'en va.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Rien ne vaut des amis bien placés, hein ? Vous ne le regretterez pas, mon seigneur. Je vous revaudrai ça !"</DefaultText>
-      <FemaleText>"Rien ne vaut des amis bien placés, hein ? Vous ne le regretterez pas, madame. Je vous revaudrai ça !"</FemaleText>
+      <DefaultText>"Rien ne vaut des amis bien placés, hein ? Vous ne le regretterez pas, seigneur [Player Name]. Je vous revaudrai ça !"</DefaultText>
+      <FemaleText>"Rien ne vaut des amis bien placés, hein ? Vous ne le regretterez pas, madame [Player Name]. Je vous revaudrai ça !"</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -173,7 +173,7 @@ Nyry tourne les talons et quitte la salle à la hâte.</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Finalement, peut-être pas."</DefaultText>
+      <DefaultText>"Ce n'est peut-être pas une très bonne idée, finalement."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,17 +241,17 @@ Nyry tourne les talons et quitte la salle à la hâte.</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText />
+      <DefaultText>"J'ai de quoi vous payer. J'ai ici quelques petites choses que j'ai prises à un... à un type que je connais. Je risque gros si je me fais arrêter avec."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>"Intendante, demandez aux Chevaliers du Creuset de la ménager."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>"Intendante, prévenez les Chevaliers que j'ai mis la main sur leur fugitive."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

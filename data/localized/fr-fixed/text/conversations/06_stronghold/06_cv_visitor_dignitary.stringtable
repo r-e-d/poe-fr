@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bonjour, mon seigneur. Je m'appelle Berolt. Si vous avez un moment à m'accorder, j'aimerais vous parler d'une affaire urgente."</DefaultText>
-      <FemaleText>"Bonjour, madame. Je m'appelle Berolt. Si vous avez un moment à m'accorder, j'aimerais vous parler d'une affaire urgente."</FemaleText>
+      <DefaultText>"Bonjour, seigneur [Player Name] ! Je m'appelle Berolt. Si vous avez un moment à m'accorder, j'aimerais vous parler d'une affaire urgente."</DefaultText>
+      <FemaleText>"Bonjour, madame [Player Name] ! Je m'appelle Berolt. Si vous avez un moment à m'accorder, j'aimerais vous parler d'une affaire urgente."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -161,8 +161,8 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Bonjour, mon seigneur. Puis-je m'entretenir avec vous ?"</DefaultText>
-      <FemaleText>"Bonjour, madame. Puis-je m'entretenir avec vous ?"</FemaleText>
+      <DefaultText>"Bonjour, seigneur [Player Name] ! Puis-je m'entretenir avec vous ?"</DefaultText>
+      <FemaleText>"Bonjour, madame [Player Name] ! Puis-je m'entretenir avec vous ?"</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

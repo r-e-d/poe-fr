@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\backstory</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>407</EntryCount>
+  <EntryCount>439</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2025,6 +2025,96 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>406</ID>
+      <DefaultText>Une fois à Stalwart, vous avez constaté que l'endroit était la cible des ogres qui l'avaient à moitié détruit. Vous avez aidé ses habitants à les vaincre, mais les dégâts étaient déjà conséquents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Renengild, la maire de Stalwart, vous a parlé de la Batterie de Durgan, l'ancienne forteresse des nains, et des tentatives des habitants pour rejoindre la puissante forge qu'elle abrite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Vous avez trouvé et tué l'ogresse Beregan dans la grotte de son clan située dans les Bois de Russet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Vous avez trouvé l'ogresse Beregan et conclu une trêve avec elle. Elle s'est engagée à ce que son clan ne vous fasse aucun mal, ni à vous ni à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Vous avez rencontré Galvino, un vieil inventeur excentrique et acariâtre qui vit près de la Batterie de Durgan. Il vous a parlé des « cantecs » traditionnels des nains Pargruns et vous a présenté la Démone de Caroc, une de ses créations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>La Démone de Caroc, une automate douée de raison et dotée d'une âme meurtrière, vous a demandé si elle pouvait vous accompagner et vous avez accepté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>La Démone de Caroc vous a révélé qu'elle était aux trousses d'un homme qui avait participé à la purge de son village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Après avoir trouvé Harmke, l'homme recherché par la Démone de Caroc, vous avez sondé son âme et découvert qu'il n'était pas responsable de ce qui s'était passé à Aube fraîche. La Démone l'a laissé partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Après avoir trouvé Harmke, l'homme recherché par la Démone de Caroc, vous avez sondé son âme et découvert qu'il avait détruit la maison de la Démone à Aube fraîche. Elle s'est vengée de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>La Démone de Caroc a été éliminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>À Stalwart, vous avez rencontré Zahua, un moine d'Ixamitl, et l'avez invité à voyager à vos côtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Zahua vous a parlé de son entraînement de guerrier et de son maître, qui a freiné la dernière partie de son instruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Zahua est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Vous avez découvert comment ouvrir les portes de la Batterie de Durgan et avez été la première personne en deux siècles à pénétrer dans l'ancienne forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Dans les profondeurs de la Batterie de Durgan, vous avez trouvé la Forge blanche que les nains Pargruns ont utilisé pour se lier à la forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Après avoir parlé aux komendants de la Batterie, vous avez libéré les âmes des nains pour qu'elles rejoignent la Roue et le cycle de la vie et de la mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Après avoir parlé aux komendants de la Batterie, vous avez lié les âmes des nains à la Forge blanche pour renforcer à jamais son rendement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Après avoir parlé aux komendants de la Batterie, vous avez lié les âmes des nains aux canons situés au-dessus de la Batterie pour renforcer la défense de la puissante forteresse qu'ils avaient mis des générations à bâtir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>424</ID>
       <DefaultText>Avec le temps, la civilisation s'implanta sur vos terres, jusqu'à les dévaster et vous déraciner.</DefaultText>
       <FemaleText />
@@ -2037,6 +2127,76 @@
     <Entry>
       <ID>426</ID>
       <DefaultText>Mais, à bout de patience, la population locale finit par vous chasser de vos propres terres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Après vos aventures à la Batterie de Durgan, vous avez rêvé d'une armée qui descendait des montagnes et vous pourchassait jusqu'à votre donjon. Vous avez réalisé que ce quelque chose dans la Marche blanche vous détruirait s'il n'était pas maîtrisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Vous l'avez appris par le Fléau de fer, une bande armée de Readceras qui avait construit un fort près de la Batterie de Durgan dans l'espoir de se saisir de la Forge blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Au fort du Fléau de fer, vous avez rencontré une mystérieuse Ondrite. Elle s'est donnée la mort avant que vous ne puissiez lui parler, mais dans son âme évanescente, vous avez vu l'Abbaye de la Lune déchue, la clé pour stopper l'armée des Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Vous avez atteint l'Abbaye de la Lune déchue et découvert l'ancien corps d'Abydon. Vous avez appris qu'il s'était sacrifié pour sauver les civilisations d'Éora d'un fragment de lune, qu'Ondra avait ponctionné dans le ciel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Vous avez reforgé le Marteau d'Abydon avec un fragment que vous aviez trouvé parmi ses restes. Ainsi armé, vous étiez prêt à affronter les Sans-yeux.</DefaultText>
+      <FemaleText>Vous avez reforgé le Marteau d'Abydon avec un fragment que vous aviez trouvé parmi ses restes. Ainsi armée, vous étiez prête à affronter les Sans-yeux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Vous avez traqué les Sans-yeux jusqu'à un fragment de la lune, enfoui dans la Faille de Cayron. Vous avez détruit ce fragment avec les Sans-yeux en son sein, mettant fin à leur menace une bonne fois pour toutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Dans l'essence des Sans-yeux, vous avez reconnu des morceaux d'Abydon, leur créateur original. Vous avez restauré cette essence pour Abydon, lui rappelant sa mort et la préservation, son ancienne raison d'être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Dans l'essence des Sans-yeux, vous avez reconnu des morceaux d'Abydon, leur créateur original. Vous avez restauré cette essence pour Abydon, lui rappelant sa mort mais sans mentionner la préservation, son ancienne raison d'être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Dans l'essence des Sans-yeux, vous avez reconnu des morceaux d'Abydon, leur créateur original. Vous avez dispersé cette essence afin qu'Abydon ne puisse se rappeler sa mort ou la préservation, son ancienne raison d'être.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>À Stalwart, vous avez rencontré Maneha, une Porteuse d'offrandes Ondrite. Elle a expliqué qu'elle cherchait l'Abbaye de la Lune déchue où elle devait déposer des gages pour les fidèles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Vous avez appris que Maneha portait un terrible fardeau - un souvenir de ses crimes passés dans une vie antérieure. Elle confia que c'était ce qu'elle voulait réellement abandonner à l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Avec votre aide, Maneha a trouvé le Puits de Sel dans l'Abbaye de la Lune déchue. Là, elle a abandonné ses douloureux souvenirs à Ondra. Elle en a émergé vierge de tous les souvenirs qui la hantaient auparavant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Avec votre aide, Maneha a trouvé le Puits de Sel dans l'Abbaye de la Lune déchue. Et pourtant vous l'avez convaincue de s'accrocher à ce souvenir et d'apprendre à vivre avec son passé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Maneha est morte alors qu'elle partageait vos aventures.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

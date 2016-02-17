@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{0} ajoutée ! Expiration de la quête dans {1}.</DefaultText>
+      <DefaultText>{0} ajoutée ! Expiration de la quête dans {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Construction de {0} terminée !</DefaultText>
+      <DefaultText>Construction de {0} terminée !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>{0} terminée ! {1} retourne à la forteresse avec {2}. Le butin vous attend dans le coffre au trésor de la grande salle !</DefaultText>
+      <DefaultText>{0} terminée ! {1} retourne à la forteresse avec {2}. Le butin vous attend dans le coffre au trésor de la grande salle !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,17 +451,17 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>{0}, a hero of the Saint's War, has arrived at the stronghold. She has asked for an audience with you.</DefaultText>
+      <DefaultText>{0}, une héroïne de la guerre du Saint est arrivée à la forteresse. Elle a demandé une audience avec vous.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>{0} is speaking with {1} about their experiences in the war.</DefaultText>
+      <DefaultText>{0} parle avec {1} de leurs expériences de guerre mutuelles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>After spending some time together, {0} was able to help {1} reconcile with her past.</DefaultText>
+      <DefaultText>Après avoir passé un peu de temps ensemble, {0} a pu aider {1} à se réconcilier avec son passé. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,7 +507,7 @@ Les explorateurs attendaient un arbitrage dyrwoodan dans le refuge d'Eina quand 
       <ID>100</ID>
       <DefaultText>À la lisière sud-est d'Eir Glanfath, la ville isolée de Larmes d'Airana se situe sur le rivage nord du lac des Tombes englouties. 
 
-Dernièrement un phénomène étrange a complètement noirci les eaux du lac d'habitude limpides. Encore plus étrange, les tombes de pierre de la ville ont été éventrées de l'intérieur, leurs occupants squelettes marchant lentement vers le bord de l'eau puis dans les profondeurs.</DefaultText>
+Dernièrement un phénomène étrange a rendu les eaux du lac d'habitude limpides, complètement noires. Encore plus étrange, les tombes de pierre de la ville ont été éventrées de l'intérieur, leurs occupants squelettes marchant lentement vers le bord de l'eau puis dans les profondeurs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -973,7 +973,7 @@ Sur le chemin du retour, les initiés placèrent des monticules de pierres marqu
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Nîdhen était un assassin glanfathan tristement célèbre pour sa brutalité et sa capacité à éviter d'être capturé par les meilleurs chasseurs de toutes les tribus. Quand il fut finalement appréhendé et mis à mort, son corps fut enterré dans un endroit tenu secret près de Clîaban Rilag. Un rîow avait fait une recommandation inhabituelle en espérant que les ruines engwithanes captureraient l'âme du tueur et l'empêcheraient de retourner à la Roue.
+      <DefaultText>Nîdhen était un assassin glanfathan tristement célèbre pour sa brutalité et sa capacité à éviter d'être capturé par les meilleurs chasseurs de toutes les tribus. Quand il fut finalement appréhendé et mis à mort, son corps fut enterré dans un endroit tenu secret près de Clîaban Rilag. Des rîow avaient fait une recommandation inhabituelle en espérant que les ruines engwithanes captureraient l'âme du tueur et l'empêcheraient de retourner à la Roue.
 
 Lors d'une célébration de Purge récente, une enfant orlan a découvert la tombe de Nîdhen par hasard. Sans réaliser ce qu'elle venait de trouver, elle en a parlé à ses parents qui ont deviné ce dont il s'agissait et en ont informé d'autres membres de leur tribu. Au bout d'une journée, le site funéraire de Nîdhen avait été pillé par quelques Glanfathans téméraires, le corps emmené ailleurs pour quelque rituel. Il ne restait que l'annulaire de sa main droite.
 
@@ -1229,7 +1229,7 @@ En faisant résonner une série de cloches dans les ruines de la cité, {0} sonn
       <ID>200</ID>
       <DefaultText>Amaia, fameuse et riche érudite rauatai, a passé sa longue vie à compiler un énorme codex regroupant diverses légendes d'Eora. Se basant sur des sources aumaua ainsi que d'Aedyr, de Vailia l'Ancienne, des Plaines d'Ixamitl et de Naasitaq, son ouvrage est véritablement gargantuesque, et s'étale sur des milliers de pages. 
 
-Alors qu'elle avait des scribes occupés à recopier le corps de son œuvre durant les deux dernières décennies, quelques contes populaires sont restés hors de sa portée. Elle a tenté de contacter l'ainé glamfellen des Blanches étendues, pour arranger une réunion spéciale avec l'Aedyre Ine Sycthrúa et s'asseoir parmi les rîows d'Eir Glanfath les plus vénérés. Toutes ses tentatives se sont révélées infructueuses à cause de divers dangers qui se dressaient sur son chemin. 
+Alors qu'elle avait des scribes occupés à recopier le corps de son œuvre durant les deux dernières décennies, quelques contes populaires sont restés hors de sa portée. Elle a tenté de contacter l'ainé glamfellen des Blanches étendues, pour arranger une réunion spéciale avec l'Aedyre Ine Sycthrúa et s'asseoir parmi les rîow d'Eir Glanfath les plus vénérés. Toutes ses tentatives se sont révélées infructueuses à cause de divers dangers qui se dressaient sur son chemin. 
 
 Ces derniers sujets seront les chapitres finaux du travail de sa vie, et elle recherche des aventuriers expérimentés pour l'y aider.</DefaultText>
       <FemaleText />
@@ -1240,7 +1240,7 @@ Ces derniers sujets seront les chapitres finaux du travail de sa vie, et elle re
 
 Gagner un accès à la sépulture d'adra sacrée des empereurs Aedyre, l'Ine Sycthrúa, nécessita plus que de la supercherie. Même si Amaia n'était capable de parler avec les esprits des empereurs défunts que durant quelques minutes, c'était suffisant pour terminer cette portion de sa recherche. 
 
-Les sages d'Eir Glanfath, les rîows, répondirent aux requêtes d'Amaia, mais ils la questionnèrent pendant des jours pour s'assurer qu'elle ne partagerait pas leurs secrets sacrés, ni ne se permettrait de dépeindre leur peuple sous un mauvais jour. Les rîows transmirent leurs histoires des premiers jours d'Eir Glanfath, comment ils étaient arrivés là et comment ils avaient reçu pour instruction de garder les ruines engwithanes à tout jamais. 
+Les sages d'Eir Glanfath, les rîow, répondirent aux requêtes d'Amaia, mais ils la questionnèrent pendant des jours pour s'assurer qu'elle ne partagerait pas leurs secrets sacrés, ni ne se permettrait de dépeindre leur peuple sous un mauvais jour. Les rîow transmirent leurs histoires des premiers jours d'Eir Glanfath, comment ils étaient arrivés là et comment ils avaient reçu pour instruction de garder les ruines engwithanes à tout jamais. 
 
 Satisfaite d'avoir terminé sa recherche, Amaia retourna à Rauatai pour écrire les derniers chapitres et les faire copier par ses scribes. Même s'il faudra plusieurs années avant qu'une copie complète ne voit le jour, elle a offert à {0} un codex condensé de ses travaux essentiels, qui contient une grande quantité de sorts enchantés dans les dernières pages.</DefaultText>
       <FemaleText />
@@ -1252,12 +1252,12 @@ Satisfaite d'avoir terminé sa recherche, Amaia retourna à Rauatai pour écrire
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>{0} is escorting {1} to Thein Bog.</DefaultText>
+      <DefaultText>{0} escorte {1} au marécage de Thein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>{1} successfully arrived at Thein Bog with the help of {0}. {1} sends his regards and promises to visit your keep again soon.</DefaultText>
+      <DefaultText>{1} est arrivé avec succès au marécage de Thein grâce à l'aide de {0}. {1} envoie ses respects et promet de revenir bientôt visiter votre forteresse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1277,102 +1277,102 @@ Satisfaite d'avoir terminé sa recherche, Amaia retourna à Rauatai pour écrire
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>{0}, an Aedyran dignitary, has arrived at the stronghold. He requests your aid with an upcoming meeting with representitives of the Fisher Crane tribe near the Thein Bog.</DefaultText>
+      <DefaultText>{0}, un dignitaire aedyran, est arrivé à la forteresse. Il demande votre aide pour une réunion imminente avec des représentants de la tribu de la Grue pêcheuse près du marécage de Thein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>{0} has followed your advice and is taking a direct route to Thein Bog.</DefaultText>
+      <DefaultText>{0} a écouté vos conseils et prend une route directe vers le marécage de Thein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>{0} encountered a few setbacks along the road, but was able to arrive at his meeting by the appointed day.</DefaultText>
+      <DefaultText>{0} a eu quelques contretemps sur la route, mais a fini par arriver à sa réunion le jour prévu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>In keeping with your advice, {0} is traveling through the Vailian Republics to reach Thein Bog.</DefaultText>
+      <DefaultText>Écoutant vos conseils, {0} voyage à travers les Républiques vailiennes pour atteindre le marécage de Thein. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>{0} arrived at the Thein Bog much later than anticipated, but was able to request a second audience with the Fisher Crane tribe. {0} sends his regards and promises to visit your keep again soon.</DefaultText>
+      <DefaultText>{0} a atteint le marécage de Thein beaucoup plus tard que prévu, mais a pu demander une deuxième audience avec la tribu de la Grue pêcheuse. {0} envoie ses respects et promet de revenir bientôt visiter votre forteresse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>{0} has hired on a handful of mercenaries to escort him to Thein Bog.</DefaultText>
+      <DefaultText>{0} a embauché quelques mercenaires pour l'escorter au marécage de Thein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>With your support, {0} was able to make it to his meeting with the Fisher Crane tribe. {0} sends his regards and promises to visit your keep again soon.</DefaultText>
+      <DefaultText>Avec votre soutien, {0} a pu assister à sa réunion avec la tribu de la Grue pêcheuse. {0} envoie ses respects et promet de revenir bientôt visiter votre forteresse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>{0} appears to be having little trouble traveling to Thein Bog, thanks to your writ of passage.</DefaultText>
+      <DefaultText>{0} ne semble pas avoir de problèmes pendant son voyage vers le marécage de Thein, grâce à votre droit de passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>{0} is teaching {1} the ways of Ondra, and how best to unburden oneself of one's past.</DefaultText>
+      <DefaultText>{0} apprend à {1} les voies d'Ondra et comment se débarrasser de son passé de la meilleure façon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>{0} was able to help {1} overcome her turmoil. {1} appears to have found some peace.</DefaultText>
+      <DefaultText>{0} a pu aider {1} à surmonter son agitation. {1} semble avoir trouvé un peu de paix.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>A wealthy noble by the name of {0} has arrived at the stronghold. He seeks your aid in defending his keep from his rivals.</DefaultText>
+      <DefaultText>Un noble fortuné appelé {0} est arrivé à la forteresse. Il demande votre aide pour défendre son donjon de ses rivaux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>{0}, un idiot du coin, a vagabondé dans la forteresse en demandant de l'aide pour les dettes qu'il avait accumulées.</DefaultText>
+      <DefaultText>{0}, un ivrogne local vagabonde dans le domaine de la forteresse. Il demande votre aide pour éponger les dettes qu'il a accumulées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>{1} departs from Caed Nua with your kind donation in hand, intent on paying back his debts.</DefaultText>
+      <DefaultText>{1} part de Caed Nua avec votre généreuse donation, décidé à payer ses dettes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>{1} returned to Dyrford to much hostility, but was able to defuse the situation. Thanks to your help, he was able to pay off his debts.</DefaultText>
+      <DefaultText>{1} est retourné au Dyrford devant beaucoup d'hostilité, mais a pu désamorcer la situation. Grâce à votre aide, il a pu régler ses dettes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>{0} leaves with {1} to help him better understand and control his addiction.</DefaultText>
+      <DefaultText>{0} part avec {1} pour l'aider à mieux comprendre et contrôler sa dépendance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>{1} returned to Caed Nua a new man. While traveling the surrounding Dyrwood, {0} was able to instruct {1} on the usage of drugs to expand his conscioussness. {1} was unable to settle his debts, but he is now set on a different path, and plans to leave his old life behind.</DefaultText>
+      <DefaultText>{1} est revenu à Caed Nua un homme nouveau. En voyageant à travers le Dyrwood avoisinant, {0} a pu instruire {1} sur l'usage des drogues afin d'élargir sa conscience. {1} n'a pas pu régler ses dettes mais est maintenant sur un chemin différent où il entend laisser son ancienne vie derrière lui.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>{0} leaves with {1} to escort him to the Vailian Republics.</DefaultText>
+      <DefaultText>{0} part avec {1} pour l'escorter dans les Républiques vailiennes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>{0} was able to place {1} in the care of some respected animancers. They agreed to settle his debts in exchange for his work as a volunteer for several experiments. It is unclear whether or not {1} has since returned to Dyrford.</DefaultText>
+      <DefaultText>{0} a réussi à placer {1} aux bons soins de quelques animanciens respectés. Ils ont accepté d'oublier ses dettes s'il acceptait de travailler comme volontaire pour certaines expériences en échange. Personne ne sait si {1} est revenu ou non en Dyrford depuis lors.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>You drive {1} out of your keep and send word that the Dozens are to have him savagely beaten wherever he goes.</DefaultText>
+      <DefaultText>Vous jetez {1} hors de votre donjon et envoyez un mot expliquant que les Douzaines pourront le battre sauvagement quel que soit l'endroit où il se rend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>{1} endures a long and painful journey from Caed Nua to Defiance Bay, stopping shortly at his home in Dyrford before being driven out. Eventually he is placed on a ship to the Living Lands, far from the Dyrwood.</DefaultText>
+      <DefaultText>{1} endure un long et douloureux voyage depuis Caed Nua jusqu'à la baie du Défi, s'arrêtant brièvement dans sa maison du Dyrford avant d'être expulsé. Finalement il est placé dans un bateau en partance vers les Terres vivantes, loin du Dyrwood.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1382,247 +1382,247 @@ Satisfaite d'avoir terminé sa recherche, Amaia retourna à Rauatai pour écrire
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>{1} departs Caed Nua, intent on bolstering his keep's defenses according to your specifications.</DefaultText>
+      <DefaultText>{1} quitte Caed Nua, décidé à renforcer les défenses de son donjon en suivant vos indications.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>After several attempts, {1}'s rivals gave up on raiding his vaults. Having reclaimed his land, {1} sends you his regards and his gratitude.</DefaultText>
+      <DefaultText>Après plusieurs tentatives, les rivaux de {1} ont fini par abandonner leurs raids. Ayant récupéré ses terres, {1} vous envoie ses respects et sa gratitude.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>A missive is sent to the commander at Crucible Keep, informing them of the troops needed at {1}'s keep.</DefaultText>
+      <DefaultText>Une missive est envoyée au commandant du donjon du Creuset, les informant que des troupes sont requises au donjon de {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>{0}, un cruel dirigeant venu du nord, est arrivé à la forteresse et espère une audience avec vous.</DefaultText>
+      <DefaultText>{0}, un cruel dirigeant du nord est arrivé à la forteresse. Il espère une audience avec vous à propos d'une rébellion locale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>You were able to talk {1} from taking violent measures against the peasants. {1} left your keep.</DefaultText>
+      <DefaultText>Vous avez réussi à dissuader {1} de prendre des mesures violentes contre les paysans. {1} a quitté votre donjon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>Upon his return, {1} was able to quell the uprising. Trade has slowed in the area, but you are regarded as a local hero.</DefaultText>
-      <FemaleText />
+      <DefaultText>À son retour, {1} est parvenu à réprimer la révolte. Le commerce a été affecté dans la zone, mais vous êtes considéré en héros local.</DefaultText>
+      <FemaleText>À son retour, {1} est parvenu à réprimer la révolte. Le commerce a été affecté dans la zone, mais vous êtes considérée comme une héroïne local.</FemaleText>
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>{1} left your keep in a huff after deciding that your approach to dealing the peasant uprising was too soft.</DefaultText>
+      <DefaultText>{1} a quitté votre donjon vexé après avoir décidé que votre approche pour gérer la révolte paysanne était trop douce.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>{1} attempted to deal with the angry peasants on his land with force. This show of cruelty inflamed the residents, and {1} was overthrown and killed.</DefaultText>
+      <DefaultText>{1} a essayé de s'occuper des paysans en colère sur ses terres par la force. Cette démonstration de cruauté a enflammé les résidents et {1} a été renversé et tué.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>{1} sets off home with your coin in hand, intent on hiring mercenaries.</DefaultText>
+      <DefaultText>{1} repart chez lui avec votre argent en main, décidé à engager des mercenaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>{1} was able to successfully rout the rabble-rousers with the mercenaries you helped supply. The locals will not soon forget your name.</DefaultText>
+      <DefaultText>{1} a repoussé avec succès ceux qui voulaient fomenter une révolte grâce aux mercenaires que vous lui avez fournis. Les locaux n'oublieront pas votre nom de sitôt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>You send {0} to warn the rabble-rousers about {1}'s plan to end their lives.</DefaultText>
+      <DefaultText>Vous envoyez {0} pour prévenir les rebelles que {1} a prévu de mettre fin à leurs vies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>{0} was able to successfully reach the rabble-rousers and warn them in time for their escape. {1}'s lands lie abandoned, but no blood has been shed.</DefaultText>
+      <DefaultText>{0} a pu atteindre les révoltés avec succès et les a prévenus juste à temps pour qu'ils puissent s'échapper. Les terres de {1} sont abandonnées mais le sang n'a pas coulé.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>You send {0} to ambush {1} on the road and dispose of him.</DefaultText>
+      <DefaultText>Vous envoyez {0} tendre une embuscade à {1} sur la route et se débarrasser de lui.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>{0} came upon {1}'s camp just on the border of your lands. {0} infiltrated the camp, eventually coming upon {1}'s tent. By morning, {0} was on her way home and {1} was nowhere to be found.</DefaultText>
+      <DefaultText>{0} est arrivée au camp de {1} juste aux frontières de vos terres. {0} a infiltré le camp, parvenant finalement à la tente de {1}. Au petit matin, {0} était sur le retour et {1} demeurait introuvable.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>You send {0} to discreetly handle {1}'s rival.</DefaultText>
+      <DefaultText>Vous envoyez {0} pour s'occuper du rival de {1} en toute discrétion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>With a few well-placed hexes and a final show of arcane power, {0} was able to convince {1}'s rivals to seek wealth elsewhere.</DefaultText>
+      <DefaultText>Avec quelques maléfices bien placés et un bouquet final de puissance arcanique, {0} a réussi à convaincre les rivaux de {1} de chercher fortune ailleurs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>You send {1} away, promising that the Doemenels will arrive at his keep shortly. After his departure, you send a letter to the Doemenels describing your true intentions for {1}'s treasures.</DefaultText>
+      <DefaultText>Vous congédiez {1}, lui promettant que les Doemenel arriveront bientôt à son donjon. Après son départ, vous envoyez une lettre aux Doemenel expliquant vos véritables intentions à propos des trésors de {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>During the chaos of the raid, the Doemenels plundered treasure rooms and stockhouses. The thieves made their escape, but {1} and his guards were killed.</DefaultText>
+      <DefaultText>Pendant le chaos du raid, les Doemenel ont pillé des salles au trésor et des réserves. Les voleurs se sont échappés, mais {1} et ses gardes ont été tués.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>You send {0} to escort {1} back to his keep.</DefaultText>
+      <DefaultText>Vous envoyez {0} escorter {1} vers son donjon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>During the chaos of the raid on {1}'s lands, {0} slipped into the vaults and took what she could. She made her escape, but {1} and his guards were killed in the attack.</DefaultText>
+      <DefaultText>Pendant le chaos du raid sur les terres de {1}, {0} s'est faufilée dans la chambre forte et a pris ce qu'elle a pu.  Elle est parvenu à s'échapper mais {1} et ses gardes ont été tués dans l'attaque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Une criminelle recherchée appelée {0} est arrivée à la forteresse, cherchant de l'aide pour fuir le Dyrford.</DefaultText>
-      <FemaleText />
+      <DefaultText>{0}, un criminel recherché, est arrivé à la forteresse, cherchant de l'aide pour fuir le Dyrwood.</DefaultText>
+      <FemaleText>{0}, une criminelle recherchée, est arrivée à la forteresse, cherchant de l'aide pour fuir le Dyrwood.</FemaleText>
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>{0}, a slaver from Readceras, has arrived at your keep, seeking your counsel on some business matters.</DefaultText>
+      <DefaultText>{0}, un esclavagiste de Readceras est arrivé à votre donjon, cherchant conseil sur quelques affaires en cours.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>{0}, an animancer, has requested an audience with you.</DefaultText>
+      <DefaultText>{0}, un animancien a demandé une audience avec vous.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>With your coin in hand, {1}  makes a beeline for the nearest port.</DefaultText>
+      <DefaultText>Votre argent dans sa poche, {1} est partie tout droit vers le port le plus proche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>{1} has sent word from the Deadfire Archipelago, thanking you for your role in giving her a fresh start.</DefaultText>
+      <DefaultText>{1} a envoyé mot depuis l'archipel du Feu éteint, vous remerciant de votre rôle dans cette possibilité d'un nouveau départ.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Traveling with a Doemenel escort, {1} heads to the closest port.</DefaultText>
+      <DefaultText>Accompagné d'une escorte Doemenel, {1} se dirige vers le port le plus proche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>You have convinced {1} to continue his journey without stopping to resupply.</DefaultText>
+      <DefaultText>Vous avez convaincu {1} de continuer son voyage sans s'arrêter pour se réapprovisionner.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>It takes nearly two weeks to arrive, but {1} successfully transports his orlan slaves to Ixamitl.</DefaultText>
+      <DefaultText>Il lui fallut presque deux semaines pour arriver, mais {1} transporte avec succès ses esclaves orlans vers Ixamitl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Informed that New Heomar will be a safer stop on his journey, {1} takes his leave.</DefaultText>
+      <DefaultText>Informé que la Nouvelle-Heomar sera un arrêt plus sûr pendant son voyage, {1} prend son départ.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>{1} has sent word from Ixamitl, thanking you for your role in ensuring his swift arrival.</DefaultText>
+      <DefaultText>{1} a envoyé un message depuis Ixamitl. Sain et sauf, il vous remercie pour votre rôle dans son arrivée rapide.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>{1} leaves your keep with the company of your allies and travels onward to Ixamitl.</DefaultText>
+      <DefaultText>{1} quitte votre donjon en compagnie de vos alliés et fait route vers Ixamitl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>{1} has sent word from Ixamitl, thanking you for your role in his swift arrival in Ixamitl.</DefaultText>
+      <DefaultText>{1} a envoyé un message depuis Ixamitl, vous remerciant de votre rôle dans son arrivée sain et sauf là-bas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>{1} begins his journey back to Girrara. You send {0} after him.</DefaultText>
+      <DefaultText>{1} commence son voyage de retour vers Girrara. Vous envoyez {0} après lui.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>{0} arrived in Girrara and successfully freed many slaves. Word is {1} is quite furious.</DefaultText>
+      <DefaultText>{0} est arrivé à Girrara sans encombre et a libéré beaucoup d'esclaves On raconte que {1} est extrêmement furieux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>{1} hires a small group of mercenaries to join her in rounding up vessels from Heritage Hill to experiment on.</DefaultText>
+      <DefaultText>{1} engage un petit groupe de mercenaires pour la rejoindre et collecter des vaisseaux dans la Colline de l'Héritage pour réaliser des expérimentations.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>{1} successfully rounded up her test subjects.</DefaultText>
+      <DefaultText>{1} a rassemblé ses sujets de test avec succès.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>{1} heads out into Heritage Hill on her own.</DefaultText>
+      <DefaultText>{1} se dirige vers la Colline de l'Héritage par elle-même.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>You have received reports that an animancer named {1} was found dead in Heritage Hill.</DefaultText>
+      <DefaultText>Vous avez reçu des rapports disant qu'un animancien appelé {1} avait été trouvé mort dans la Colline de l'Héritage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>{1} hires a small group of trappers to join her in rounding up animals in the wilds around Magran's Fork.</DefaultText>
+      <DefaultText>{1} engage un petit groupe de trappeurs pour l'aider à rassembler des animaux dans la campagne autour de la Croisée de Magran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>{0} is aiding {1} on a hunt for test subjects.</DefaultText>
+      <DefaultText>{0} aide {1} dans sa chasse pour des sujets de test.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>{0} has been sent with {1} to help her with her research.</DefaultText>
+      <DefaultText>{0} a été envoyé avec {1} pour l'aider dans ses recherches.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>{0} has followed {1} to her lab, only to kill {1} and torch the place.</DefaultText>
+      <DefaultText>{0} a suivi {1} jusqu'à son laboratoire, pour la tuer et brûler l'endroit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>{0} is escorting {1} to Magran's Fork.</DefaultText>
+      <DefaultText>{0} escorte {1} à la Croisée de Magran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>{0} traveled to {1}'s lab, and promptly knocked her out. He then ransacked the laboratory, retrieving all of {1}'s research.</DefaultText>
+      <DefaultText>{0} a voyagé jusqu'au laboratoire de {1} et l'a rapidement mis hors d'état de nuire. Il a ensuite saccagé le laboratoire, récupérant tous les documents de recherche de {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>{0} was executed.</DefaultText>
-      <FemaleText />
+      <DefaultText>{0} a été exécuté.</DefaultText>
+      <FemaleText>{0} a été exécutée.</FemaleText>
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>{0}, an exotic wares merchant, has arrived at your keep, and requests an audience.</DefaultText>
+      <DefaultText>{0}, un marchand de biens exotiques est arrivé à votre donjon et demande une audience.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>{0} has been sent to help {1} secure his trade routes against bandits.</DefaultText>
+      <DefaultText>{0} a été envoyé pour aider {1} à sécuriser sa route commerciale contre des bandits.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>With {0}'s help, {1} was able to secure his trade routes, and has convinced local merchants and suppliers to offer up their stock.</DefaultText>
+      <DefaultText>Avec l'aide de {0}, {1} a été capable de sécuriser ses routes commerciales et a convaincu les marchands locaux et ses fournisseurs de le réapprovisionner.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>The erl collected {0}.</DefaultText>
+      <DefaultText>Le comte a collecté {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1632,17 +1632,17 @@ Satisfaite d'avoir terminé sa recherche, Amaia retourna à Rauatai pour écrire
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>Your stronghold has gained {0} Prestige.</DefaultText>
+      <DefaultText>Votre forteresse a gagné {0} Prestige.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>Your stronghold has gained {0} Security.</DefaultText>
+      <DefaultText>Votre forteresse a gagné {0} Sécurité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>{0} attempted to escape from the dungeon, but was thwarted by your guards.</DefaultText>
+      <DefaultText>{0} a essayé de s'enfuir du cachot, mais ses plans ont été contrariés par vos gardes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\tutorial</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>48</EntryCount>
+  <EntryCount>49</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -250,6 +250,13 @@ Se reposer est la manière la plus simple de supprimer les effets de la Fatigue,
     <Entry>
       <ID>47</ID>
       <DefaultText>Utilisez la touche Tabulation pour sélectionner les objets interactifs dans l'environnement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>La Forge blanche est maintenant disponible pour votre utilisation. Elle possède la capacité unique de raffiner des lingots de fer de Durgan. Plusieurs lingots de fer sont requis pour créer un lingot de fer raffiné. 
+
+Après le raffinement, ces lingots peuvent être utilisés à tout moment pour enchanter des recettes d'amélioration d'armes, de boucliers, et d'armures avec de l'acier de Durgan.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

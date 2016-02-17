@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"J'ai beaucoup entendu parler de vous, mon seigneur. Vous n'êtes pas du genre à reculer devant les difficultés. Si vous me le permettez, j'aimerais vous parler de quelque chose."</DefaultText>
-      <FemaleText>"J'ai beaucoup entendu parler de vous, madame. Vous n'êtes pas du genre à reculer devant les difficultés. Si vous me le permettez, j'aimerais vous parler de quelque chose."</FemaleText>
+      <DefaultText>"J'ai beaucoup entendu parler de vous, seigneur [Player Name]. Vous êtes une personne d'action qui sait obtenir des résultats. Si vous me le permettez, j'aimerais vous parler de quelque chose."</DefaultText>
+      <FemaleText>"J'ai beaucoup entendu parler de vous, madame [Player Name]. Vous êtes une personne d'action qui sait obtenir des résultats. Si vous me le permettez, j'aimerais vous parler de quelque chose."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Vous appelez vos alliés et faites signe à la plaignante de s'approcher.</DefaultText>
+      <DefaultText>Vous appelez vos alliés et faites signe au plaignant de s'approcher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +89,7 @@ Brynwigar s'éloigne.</DefaultText>
       <ID>16</ID>
       <DefaultText>Brynwigar se raidit.
 
-"J'ai le sens de l'efficacité. Est-ce un crime ?"</DefaultText>
+"J'ai juste le sens de l'efficacité. Ces paysans doivent apprendre à rester à leur place !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,8 +118,8 @@ Rouge de colère, Brynwigar quitte précipitamment la salle.</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"C'est très généreux de votre part ! Je vous promets d'en faire bon usage. Merci, mon seigneur ! Je savais que je pouvais compter sur vous."</DefaultText>
-      <FemaleText>"C'est très généreux de votre part ! Je vous promets d'en faire bon usage. Merci, madame ! Je savais que je pouvais compter sur vous."</FemaleText>
+      <DefaultText>"C'est très généreux de votre part ! Je vous promets d'en faire bon usage. Merci, seigneur [Player Name] ! Je savais que je pouvais compter sur vous."</DefaultText>
+      <FemaleText>"C'est très généreux de votre part ! Je vous promets d'en faire bon usage. Merci, madame [Player Name] ! Je savais que je pouvais compter sur vous."</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -143,7 +143,7 @@ Rouge de colère, Brynwigar quitte précipitamment la salle.</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>"Avec plaisir." Elle quitte la salle en claquant les talons.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,7 +225,7 @@ Brynwigar s'incline, manifestement satisfait, et quitte la salle.</DefaultText>
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
+      <DefaultText>"Ce ne sera pas long." Aloth s'en va.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@ Sans perdre un instant, Brynwigar tourne les talons et prend la fuite.</DefaultT
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Essayons autre chose."</DefaultText>
+      <DefaultText>"J'aimerais vous poser d'autres questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,8 +270,8 @@ Il s'incline, tourne les talons et quitte la salle.</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"J'admets que cela mérite réflexion. Merci de m'avoir reçu, mon seigneur. J'y... réfléchirai sur le chemin du retour."</DefaultText>
-      <FemaleText>"J'admets que cela mérite réflexion. Merci de m'avoir reçu, madame. J'y... réfléchirai sur le chemin du retour."</FemaleText>
+      <DefaultText>"J'admets que cela mérite réflexion. Merci de m'avoir reçu, seigneur [Player Name] ! J'y... réfléchirai sur le chemin du retour."</DefaultText>
+      <FemaleText>"J'admets que cela mérite réflexion. Merci de m'avoir reçu, madame [Player Name] ! J'y... réfléchirai sur le chemin du retour."</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -290,8 +290,8 @@ Il s'incline, tourne les talons et quitte la salle.</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Raison de plus pour tenir compte de votre conseil. Cela me semble raisonnable. Merci, mon seigneur."</DefaultText>
-      <FemaleText>"Raison de plus pour tenir compte de votre conseil. Cela me semble raisonnable. Merci, madame."</FemaleText>
+      <DefaultText>"Raison de plus pour tenir compte de votre conseil. C'est un bon compromis. Merci, mon seigneur."</DefaultText>
+      <FemaleText>"Raison de plus pour tenir compte de votre conseil. C'est un bon compromis. Merci, madame."</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>

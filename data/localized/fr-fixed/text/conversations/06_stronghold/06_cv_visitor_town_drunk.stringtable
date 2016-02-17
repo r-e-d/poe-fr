@@ -6,10 +6,10 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bonjour. Euh, mes salutations, mon seigneur. J'aimerais m'entretenir avec vous. J'ai des ennuis."  
+      <DefaultText>"Bonjour. Euh, mes salutations, seigneur [Player Name] ! J'aimerais m'entretenir avec vous. J'ai des ennuis."  
 
 L'haleine de cet homme empeste la bière.</DefaultText>
-      <FemaleText>"Bonjour. Euh, mes salutations, madame. J'aimerais m'entretenir avec vous. J'ai des ennuis."  
+      <FemaleText>"Bonjour. Euh, mes salutations, madame [Player Name] ! J'aimerais m'entretenir avec vous. J'ai des ennuis."  
 
 L'haleine de cet homme empeste la bière.</FemaleText>
     </Entry>
@@ -20,12 +20,12 @@ L'haleine de cet homme empeste la bière.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Trigger Conv Node 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>"Très bien. Je vous écoute."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,7 +35,7 @@ L'haleine de cet homme empeste la bière.</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Vous appelez vos alliés et faites signe au plaignant de s'approcher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,12 +117,12 @@ Gafol se trémousse nerveusement.</DefaultText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>"Je ne peux rien pour vous pour le moment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>Script Node 23</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,7 +134,7 @@ Gafol se trémousse nerveusement.</DefaultText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>"Ce n'est peut-être pas une très bonne idée, finalement."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@ Gafol se trémousse nerveusement.</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>"Les biens matériels vous enchaînent à ce monde. Pour vous en libérer, la solution consiste à brûler tous vos biens et à vous acquitter de vos dettes en vous automutilant."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,8 +182,8 @@ Les gardes s'emparent de Gafol et l'emmènent.</DefaultText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ça a l'air, euh, intéressant. Merci, mon seigneur ! Je savais que je pouvais compter sur vous !"</DefaultText>
-      <FemaleText>"Ça a l'air, euh, intéressant. Merci, madame ! Je savais que je pouvais compter sur vous !"</FemaleText>
+      <DefaultText>"Euh... intéressant. Merci, seigneur [Player Name] ! Je savais que je pouvais compter sur vous !"</DefaultText>
+      <FemaleText>"Euh... intéressant. Merci, madame [Player Name] ! Je savais que je pouvais compter sur vous !"</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\factions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>50</EntryCount>
+  <EntryCount>51</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -252,6 +252,11 @@
     <Entry>
       <ID>49</ID>
       <DefaultText>Frermas mes Canc Suolias</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Stalwart</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

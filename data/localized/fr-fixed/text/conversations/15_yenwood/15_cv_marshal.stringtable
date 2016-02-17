@@ -6,327 +6,329 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Seigneur [Player Name]."</DefaultText>
+      <FemaleText>"Madame [Player Name]."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>"L'armée de seigneur Gathbin se développe, [Player Name]. N'ignorez pas cette menace."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>"Il est temps, maréchal. Rassemblez l'armée et marchez sur le champ de Yenwood."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>"Quels sont les alliés à ma disposition ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>"Les Chevaliers du Creuset renforceront votre infanterie."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>"Les Doemenel enverront, je l'imagine, des assassins rejoindre votre infanterie."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>"Une escouade d'arquebusiers des Douzaines renforcera vos archers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>"Plusieurs ogres Crag du clan des Flammes-Qui-Murmurent rejoindront votre infanterie."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>"Des Orienteurs d'élite Readcerans rejoindront vos archers."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>"Quel est le statut de mes troupes régulières ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>Le maréchal secoue la tête. "Trop novices et trop peu nombreux. Si vous affrontez seigneur Gathbin maintenant, vos pertes seront nombreuses. Même si la victoire reste possible."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>"C'est le mieux que l'on puisse faire, étant donné les circonstances. Mais si vous voulez dépenser de l'argent, nous pourrions attirer quelques guerriers vétérans - ils seraient utiles de par leur expérience et aideraient du point de vue du moral des troupes si la situation devient désespérée." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>"Parlons de mon armée."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>Le maréchal hoche la tête.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>"Pourquoi le comte ne veut-il pas légitimer officiellement ma revendication ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>"Le comte m'a envoyé pour vous aider à former votre propre force pour contrecarrer cette menace. Je suis là dans un simple rôle de conseiller évidemment - le comte ne choisira pas de camp officiellement dans ce différent."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>"C'est une situation délicate. Légalement, la revendication de seigneur Gathbin est juste... et il le sait. Dépouiller une famille de nobles de ses terres et ses titres est très dangereux - peut-être même plus que de tuer purement et simplement l'homme."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>"De combien de temps je dispose ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>"Suffisamment. Des rumeurs prétendent que le seigneur Gathbin souffrira une série de contretemps fâcheux et imprévisibles avant que son armée ne soit complète." Il fait un large sourire et un clin d'œil. "Cela dit, je ne tarderais pas trop non plus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>"Si vous désirez en savoir plus, n'hésitez pas à demander."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>"Adieu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Êtes-vous certain ? Une fois nos forces engagées, vous ne pourrez plus les appuyer avec des troupes ou alliés additionnels."</DefaultText>
+      <FemaleText>"Êtes-vous certaine ? Une fois nos forces engagées, vous ne pourrez plus les appuyer avec des troupes ou alliés additionnels."</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Oui, je suis sûr. Donnez l'ordre."</DefaultText>
+      <FemaleText>"Oui, je suis sûre. Donnez l'ordre."</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>"En y repensant, attendons un peu pour le moment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>"D'où proviennent mes troupes ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>"J'ai envoyé un appel à volontaires dans les terres autour de Caed Nua. Avec un peu de chance, les gens comprendront qu'il vaut mieux vous avoir comme dirigeant plutôt que seigneur Gathbin."
+
+"Tout mercenaire stationné à Caed Nua vous accompagnera également au combat, je vous suggère donc d'en embaucher le plus possible."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>"Cependant, la plupart de ces hommes et femmes n'ont pas d'expérience militaire. Espérons que vous puissiez rallier des troupes supplémentaires. Les Chevaliers du Creuset peut-être, ou les Douzaines."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>"J'ai reçu une missive des Chevaliers du Creuset - ils ont entendu parler de la situation et enverront une escouade de leurs meilleurs chevaliers quand viendra le temps de la bataille."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>"J'ai reçu une missive des Douzaines - ils ont entendu parler de la situation et enverront une escouade de leurs meilleurs arquebusiers quand viendra le temps de la bataille."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>"J'ai reçu une missive des Doemenel." Il fronce légèrement les sourcils. "Ils ont entendu parler de la situation et enverront une escouade d'hommes quand viendra le temps de la bataille. Le type d'hommes qu'ils vont envoyer n'est pas très clair, ils disent seulement qu'ils sont très doués avec leurs épées."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>"Croyez-le ou non, mais vos amis du clan des Flammes-Qui-Murmurent ont entendu parler de vos problèmes avec seigneur Gathbin. La matrone Beregan a parlé de quelque chose à propos d'une vision. Dans tous les cas, un messager de Stalwart a dit que Beregan envoie une partie de son clan pour vous aider."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>"Vous vous êtes faits quelques amis Readcerans à ce que je vois. On m'a dit d'attendre une unité d'Orienteurs, de la part d'Adaryc."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>Il secoue la tête. "Personne n'a offert son aide, j'en ai bien peur. Il peut être possible de trouver un allié dans la baie du Défi parmi les Chevaliers du Creuset, les Douzaines, ou si vous êtes vraiment désespéré, la maison Doemenel."</DefaultText>
+      <FemaleText>Il secoue la tête. "Personne n'a offert son aide, j'en ai bien peur. Il peut être possible de trouver un allié dans la baie du Défi parmi les Chevaliers du Creuset, les Douzaines, ou si vous êtes vraiment désespérée, la maison Doemenel."</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText />
+      <DefaultText>Il secoue la tête. "Si vous ne vous étiez pas mis à dos toutes les factions majeures de la baie du Défi, nous aurions pu demander de l'aide à certaines d'entre elles. C'est dommage."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText />
+      <DefaultText>"Comme vous le désirez. Je marcherai avec l'armée sur le champ de Yenwood. Allez-vous nous accompagner ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText />
+      <DefaultText>"C'est tout pour le moment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>"Ah, une foule en colère. L'épine inévitable qui se plante dans le pied de tous les dirigeants, n'est-ce pas [Player Name] ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
+      <DefaultText>"Qu'est-ce qui vous amène à Caed Nua ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>"Ce sont de braves gens. On ne peut pas les blâmer de réagir ainsi."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
+      <DefaultText>"J'ai été clément. Pour cette fois."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>"J'ai des nouvelles à propos de seigneur Gathbin. Parlons-en dans la grande salle à l'écart des oreilles indiscrètes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Vos sujets ont de la chance d'avoir un dirigeant qui comprend le côté compatissant inhérent à la noblesse. Mais pour le moment, ils vont devoir attendre."</DefaultText>
+      <FemaleText>"Vos sujets ont de la chance d'avoir une dirigeante qui comprend le côté compatissant inhérent à la noblesse. Mais pour le moment, ils vont devoir attendre."</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText />
+      <DefaultText>"Je crois savoir que vous avez des affaires à régler avec le Chancelier Warrin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>"Nous devons recruter des vétérans."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>Ses yeux s'élargissent. "Ce sera fait."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>"Mes sources indiquent que le seigneur Gathbin amasse une armée de mercenaires près du champ de Yenwoord. Il semblerait qu'une revendication pacifique de Caed Nua n'est désormais plus possible."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>"Gathbin mort, le comte ne doit plus s'inquiéter que de vengeances de sang de la part de membres de sa famille qui avaient réellement de l'affection pour lui. Et si l'on doit se fier aux rumeurs de la cour, ils sont peu nombreux et très éloignés."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText />
+      <DefaultText>"Perdre une revendication familiale pour un titre et des terres n'est pas suffisant ? De telles querelles incitent à la haine d'un clan entier et de ses alliés politiques, sans même mentionner le malaise causé parmi les autres nobles. Des guerres ont éclaté pour moins que ça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText />
+      <DefaultText>"Non. Si la requête de Gathbin doit être refusée, ce sera à vous de prouver votre légitimité au comte et à tous ceux qui contesteraient vos revendications. C'est ça être un noble dans le Dyrwood."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText />
+      <DefaultText>"Ça semble sage. Une victoire prudente surpasse de loin une glorieuse défaite."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Excellent ! Le moral est au beau fixe et les troupes sont impatientes de vous suivre vers la gloire. Êtes-vous certain de vouloir marcher ?"</DefaultText>
+      <FemaleText>"Excellent ! Le moral est au beau fixe et les troupes sont impatientes de vous suivre vers la gloire. Êtes-vous certaine de vouloir marcher ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Si nous marchons maintenant, nous serons certainement surclassés. Une fois nos forces engagées, vous ne pourrez plus les appuyer avec des troupes ou alliés additionnels. La victoire dépend majoritairement de vous, [Player Name]. Êtes-vous certain de vouloir marcher ?"</DefaultText>
+      <FemaleText>"Si nous marchons maintenant, nous serons certainement surclassés. Une fois nos forces engagées, vous ne pourrez plus les appuyer avec des troupes ou alliés additionnels. La victoire dépend majoritairement de vous, [Player Name]. Êtes-vous certaine de vouloir marcher ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText />
+      <DefaultText>"Je n'ai aucun doute que très vite, ces gueux craindront le nom de [Player Name]. Pour le moment, ces paysans devront attendre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText />
+      <DefaultText>"Oui. En route."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText />
+      <DefaultText>"Non, je vous retrouverai là-bas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText />
+      <DefaultText>"Très bien, nous attendrons votre arrivée. Bon voyage."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText />
+      <DefaultText>"Très bien."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText />
+      <DefaultText>"Je connais une compagnie de vétérans ou deux qui seraient disposées à nous rejoindre en échange d'un peu d'argent. Je dirais que 10 000 pièces de cuivre devraient suffire."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText />
+      <DefaultText>[Donnez 10 000 pc.] "Ça devrait être assez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText />
+      <DefaultText>"Je n'ai pas cette somme pour le moment."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText />
+      <DefaultText>"J'ai aussi entendu des rumeurs à propos d'une force de Readcerans situés dans la Marche blanche actuellement. Si vous vous trouvez aussi loin au nord, peut-être que vous pourrez persuader certains d'entre eux de se joindre à notre cause."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText />
+      <DefaultText>"Laissez-moi y réfléchir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText />
+      <DefaultText>"J'ai une forteresse avec de robustes murs - pourquoi ne pas laisser l'armée de Gathbin venir à moi ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText />
+      <DefaultText>"Seigneur Gathbin n'est pas assez idiot pour risquer de démolir Caed Nua juste pour vous tuer, et si vous vous barricadez derrière ces murs, il aura tout le loisir de tourmenter vos sujets dans la campagne."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText />
+      <DefaultText>"Le comte Bademar verra votre inaction contre seigneur Gathbin comme un signe que vous ne désirez pas exercer vos responsabilités en tant que seigneur de Caed Nua. Perdre son soutien aura des conséquences désastreuses. Porter le combat au seigneur Gathbin est votre seule option."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

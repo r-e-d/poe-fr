@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Script Node 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>Trigger Conv Node 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>"Je n'ai jamais été l'objet de tant d'égards, mais je peux sûrement vous prodiguer quelques conseils."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>"J'ai moi-même participé à quelques batailles. C'est dur à comprendre pour les gens qui n'ont pas vécu ça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,8 +131,8 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Oui, je... je pense que cela peut m'aider. Merci, mon seigneur. Merci infiniment."</DefaultText>
-      <FemaleText>"Oui, je... je pense que cela peut m'aider. Merci, madame. Merci infiniment."</FemaleText>
+      <DefaultText>"Oui, je... je pense que cela peut m'aider. Merci, seigneur [Player Name]. Merci infiniment."</DefaultText>
+      <FemaleText>"Oui, je... je pense que cela peut m'aider. Merci, madame [Player Name]. Merci infiniment."</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -146,10 +146,10 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Vous feriez cela ? Je ne sais comment vous remercier, mon seigneur ! Vous êtes quelqu'un de bien."  
+      <DefaultText>"Vous feriez cela ? Je ne sais comment vous remercier, seigneur [Player Name] ! Vous êtes quelqu'un de bien."
 
 Odeyna s'incline, soulagée.</DefaultText>
-      <FemaleText>"Vous feriez cela ? Je ne sais comment vous remercier, madame ! Vous êtes quelqu'un de bien."  
+      <FemaleText>"Vous feriez cela ? Je ne sais comment vous remercier, madame [Player Name] ! Vous êtes quelqu'un de bien."
 
 Odeyna s'incline, soulagée.</FemaleText>
     </Entry>
@@ -174,12 +174,12 @@ L'expression impassible d'Odeyna ne trahit ni colère ni rancune. Elle s'incline
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Je..." Odeyna soupire. "Non, vous avez raison. Merci de m'avoir reçue, mon seigneur."  
+      <DefaultText>"Je..." Odeyna soupire. "Non, vous avez raison. Merci de m'avoir reçue, seigneur [Player Name]."
 
-Elle s'incline et s'en va.</DefaultText>
-      <FemaleText>"Je..." Odeyna soupire. "Non, vous avez raison. Merci de m'avoir reçue, madame."  
+Elle vous salue et s'en va.</DefaultText>
+      <FemaleText>"Je..." Odeyna soupire. "Non, vous avez raison. Merci de m'avoir reçue, madame [Player Name]."
 
-Elle s'incline et s'en va.</FemaleText>
+Elle vous salue et s'en va.</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>

@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>Trigger Conv Node 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>Script Node 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@ Sidroc s'incline respectueusement et s'éloigne.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Je vais adresser des missives à tous les nobles des environs. Quiconque menacera votre forteresse devra en répondre devant moi."</DefaultText>
+      <DefaultText>"Je vais adresser des missives à tous les nobles des environs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,21 +118,21 @@ Sidroc s'incline respectueusement et s'éloigne.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Des conseils tactiques du Seigneur de Caed Nua en personne ! Continuez, je vous en prie. Je suis tout ouïe."  
+      <DefaultText>"Des conseils tactiques du Seigneur de Caed Nua en personne ! Continuez, je vous en prie. Je suis tout ouïe."
 
 Fidèle à sa parole, Sidroc vous accorde toute son attention.</DefaultText>
-      <FemaleText>"Des conseils tactiques de la Dame de Caed Nua en personne ! Continuez, je vous en prie. Je suis tout ouïe."  
+      <FemaleText>"Des conseils tactiques de la Dame de Caed Nua en personne ! Continuez, je vous en prie. Je suis tout ouïe."
 
 Fidèle à sa parole, Sidroc vous accorde toute son attention.</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Merci, mon seigneur ! Cela devrait faire l'affaire. Je suis impatient de voir décamper ces voyous !"  
+      <DefaultText>"Merci, seigneur [Player Name] ! Cela devrait faire l'affaire. Je suis impatient de voir décamper ces voyous !"
 
-Sidroc s'incline profondément devant vous.</DefaultText>
-      <FemaleText>"Merci, madame ! Cela devrait faire l'affaire. Je suis impatient de voir décamper ces voyous !"  
+Sidroc vous salue bien bas.</DefaultText>
+      <FemaleText>"Merci, madame [Player Name] ! Cela devrait faire l'affaire. Je suis impatient de voir décamper ces voyous !"
 
-Sidroc s'incline profondément devant vous.</FemaleText>
+Sidroc vous salue bien bas.</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -142,7 +142,7 @@ Sidroc s'incline profondément devant vous.</FemaleText>
     <Entry>
       <ID>26</ID>
       <DefaultText>"Merci, mon seigneur. Vous me soulagez d'un immense fardeau. Que les dieux vous gardent !"</DefaultText>
-      <FemaleText>"Merci, madame. Quel soulagement ! Vous me soulagez d'un immense fardeau. Que les dieux vous gardent !"</FemaleText>
+      <FemaleText>"Merci, madame. Vous me soulagez d'un immense fardeau. Que les dieux vous gardent !"</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -155,7 +155,7 @@ L'intendant soupire doucement.</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>"Et pourquoi est-ce qu'on ne le tuerait pas tout de suite ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,7 @@ Sidroc tente de s'enfuir, mais vos gardes le rattrapent, l'empoignent et l'emmè
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>Script Node 45</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,8 +275,8 @@ Sidroc semble perplexe.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Nous ne pouvons pas nous permettre de nous entre-déchirer. Je suis sûr que ces nobles finiront par entendre raison."</DefaultText>
+      <FemaleText>"Nous ne pouvons pas nous permettre de nous entre-déchirer. Je suis sûre que ces nobles finiront par entendre raison."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

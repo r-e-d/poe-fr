@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>130</EntryCount>
+  <EntryCount>135</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -400,8 +400,28 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>79</ID>
+      <DefaultText>Bonus de repos Fretin cuivré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bonus de repos Baleine dorée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bonus de repos Poisson-chat argenté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>82</ID>
       <DefaultText>Distraction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Réduction RD Électrique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -550,6 +570,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>113</ID>
+      <DefaultText>Âme exposée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>114</ID>
       <DefaultText>Descente - herbe blanche</DefaultText>
       <FemaleText />
@@ -586,12 +611,12 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Gravestep Crash</DefaultText>
+      <DefaultText>Descente - Pied dans la tombe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Bonus de repos Fierté de Dyrwood</DefaultText>
+      <DefaultText>Bonus de repos Fierté du Dyrwood</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,27 +646,27 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Bonus de précision racial : Bête III</DefaultText>
+      <DefaultText>Bonus de précision racial : Bête III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Bonus de précision racial : Primordial III</DefaultText>
+      <DefaultText>Bonus de précision racial : Primordial III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Bonus de précision racial : Esprit III</DefaultText>
+      <DefaultText>Bonus de précision racial : Esprit III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Bonus de précision racial : Vaisseau III</DefaultText>
+      <DefaultText>Bonus de précision racial : Vaisseau III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Bonus de précision racial : Sauvage III</DefaultText>
+      <DefaultText>Bonus de précision racial : Sauvage III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

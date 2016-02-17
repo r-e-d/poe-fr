@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>311</EntryCount>
+  <EntryCount>467</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1270,8 +1270,173 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>253</ID>
+      <DefaultText>Chasseur de bêtes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Tireur d'élite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Observateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Esprit gardien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Soif de sang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Coup du destin : Pilier de la foi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Coup du destin : Marque divine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Coup du destin : Coups de découragement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Sort associé : Étincelle de douleur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Coup du destin : Pointes de la condamnation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Coup du destin : Aveugle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Coup du destin : Coup de grâce</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Enveloppe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Ensorcellement majeur : Imperceptibilité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Ensorcellement majeur : Invisibilité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Sournoiserie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>270</ID>
       <DefaultText>Simple d'esprit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Ensorcellement mineur : Rempart contre les éléments</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Coup du destin : Retour de la foudre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Coup du destin : Le tonnerre roulait</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Coup du destin : Choc de l'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Ensorcellement mineur : Éclair crépitant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Réduction RD Électrique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Frappe magique : Marque de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Coup du destin : Appel de la gueule du monde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Coup du destin : Fléau terrestre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Coup du destin : Pétrification</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Ensorcellement : Peau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Ensorcellement majeur : Vague écrasante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Ensorcellement mineur : Éclairs dansants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Lourdeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Ensorcellement mineur : Vigueur de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Éclat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Fléau de vaisseau</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1280,13 +1445,268 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>289</ID>
+      <DefaultText>Ensorcellement mineur : Bénédiction des Oubliés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Robuste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Maudit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Sort lié majeur : Visage de Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Durgan raffiné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Durgan renforcé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Durgan renforcé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Reflets majeurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Embuscade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Chance d'ensorcellement : Marque de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Sort lié mineur : Purge de toxines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Sort après critique : Déluge d'asticots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Sort lié mineur : Déluge d'asticots</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Ensorcellement mineur : Terribles épines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Écœurement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Chance d'ensorcellement : Exposer les vulnérabilités</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Chance d'ensorcellement : Blessures par combustion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Sort lié mineur : Boule de feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Sort lié majeur : Siphon corrosif de Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Chance d'ensorcellement : Étourdissement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Sort lié mineur : Prière contre la trahison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Sort lié majeur : Domination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Dégainer rapidement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Chanceux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Précision</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>314</ID>
       <DefaultText>Rapidité</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>315</ID>
+      <DefaultText>Reflétant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Suiveur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Sort lié mineur : Retraite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Sort après critique : Poussée de Voiles en lambeaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Sort lié majeur : Positionnement coordonné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Sort lié majeur : Reflets d'arcane mineurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Sort associé : Reflets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Absorption</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Ténacité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Coup à mains nues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Ensorcellement mineur : Présence vigilante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Indomptable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Sort associé : Sceau de protection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Chance d'ensorcellement : Paralysie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Ensorcellement majeur : Esprits ralentis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Chance d'ensorcellement : Invocation de vaisseaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Chance d'ensorcellement : Pierres jumelles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Sort après critique : Embrouiller</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Dessèchement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Défense de sort : Tir optique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Régénération de corrosion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>336</ID>
       <DefaultText>Restaure des dégâts Givrant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Persécuteur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Sort lié majeur : Toucher ponctionnant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Sort lié mineur : Fuite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Trompeur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>De Concentration +20</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1300,8 +1720,123 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>344</ID>
+      <DefaultText>Sort de résistance : Ronces maléfiques</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Poids lourd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>346</ID>
       <DefaultText>Résistant aux dégâts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Lourd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Sort lié mineur : Vitesse Sauvage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Ensorcellement majeur : Vent purificateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Sort lié majeur : Vider les lieux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Aristocrate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Beuverie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Sort de résistance : Instiller le doute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>De Perception +4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>De Dextérité +4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>De Détermination +4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Fardeau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>De Constitution +4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Inflexible</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Clarté</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Sort lié mineur : Bénédiction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Zéphyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Sort de résistance : Intransigeant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Exécuter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Coup de Grâce</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>D'Intelligence +4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Intimidant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1362,6 +1897,11 @@
     <Entry>
       <ID>379</ID>
       <DefaultText>Obstruant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Légendaire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1475,33 +2015,188 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>403</ID>
+      <DefaultText>Sort lié chargé : Calciner l'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Élimination (Sans-yeux)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Sort après critique : Destruction de Sans-yeux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Sort lié : Labeur d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Sort lié : Anneau de l'ancienne forge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Mythique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Écho du Créateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Puissance d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Crime-sort : Contemplation impitoyable</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Venin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Précision 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Flagellation brute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Fouet amplifié</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Chance d'encorcèlement : Domination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Crime-sort : Effrayer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Sort associé : Déplacement de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Chance d'encorcèlement : Invasion d'insectes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Chance d'encorcèlement : Chaîne guérisseuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Sort de résistance : Aura de peur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Raclée 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>423</ID>
-      <DefaultText>Charged Spellbind: Calling the World's Maw</DefaultText>
+      <DefaultText>Sort lié chargé : Appel de la Gueule du monde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>Charged Spellbind: Twin Stones</DefaultText>
+      <DefaultText>Sort lié chargé : Pierres jumelles</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Charged Spellbind: Pillar of Faith</DefaultText>
+      <DefaultText>Sort lié chargé : Pilier de foi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>Charged Spellbind: Prayer Against Fear</DefaultText>
+      <DefaultText>Sort lié chargé : Prière contre la peur</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Charged Spellbind: Essential Phantom</DefaultText>
+      <DefaultText>Sort lié chargé : Fantôme essentiel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>Charged Spellbind: Slicken</DefaultText>
+      <DefaultText>Sort lié chargé : Sol glissant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Chance d'encorcèlement : Lance solaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Défense de sort : Restauration majeure de résistance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Crime-sort : Aubaine du Champion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Manœuvre de contournement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Immunité contre Effroi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Immunité contre Terreur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Défense de sort : Barrage discipliné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Défense de sort : Défense vigoureuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Sort de résistance : Triomphe des Croisés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Sort de résistance : Bénédiction désespérée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Bravade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1510,23 +2205,78 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>441</ID>
+      <DefaultText>Chance d'encorcèlement : Blessures de combustion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Chance d'encorcèlement : Flammes de dévotion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>443</ID>
-      <DefaultText>Final Rites</DefaultText>
+      <DefaultText>Rites finaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Sort lié majeur : Souffle de dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Sort lié majeur : Chaîne guérisseuse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Autorité du seigneur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Aura de la Chasse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Chance d'encorcèlement : Vol de sort</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>Airtight</DefaultText>
+      <DefaultText>Hermétique</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>Sort lié : Manteau éthéré</DefaultText>
+      <DefaultText>Sort lié : Manteau éthéré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Sort lié mineur : Nuage de fumée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Chance d'encorcèlement : Goût de la Chasse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Sort de résistance : Défi sauvage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Chance d'encorcèlement : Pyromane</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Mending</DefaultText>
+      <DefaultText>Consolidation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1535,18 +2285,28 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>457</ID>
+      <DefaultText>Doigts d'araignée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>458</ID>
-      <DefaultText>Sort lié chargé : My Son, Do You See your Sister's Across the Moor?</DefaultText>
+      <DefaultText>Sort lié chargé : Mon fils, voyez-vous votre sœur à travers la lune ?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>Sort lié chargé : Terreur de la nature</DefaultText>
+      <DefaultText>Sort lié chargé : Terreur de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Sort lié mineur : Lumières éblouissantes d'Arkemyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Sort lié mineur : Nuage corrosif</DefaultText>
+      <DefaultText>Sort lié mineur : Nuage corrosif</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1556,7 +2316,27 @@
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>Sort associé : Nature's Trek</DefaultText>
+      <DefaultText>Sort associé : Randonnée naturelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>De puissance +4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Précis 6</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

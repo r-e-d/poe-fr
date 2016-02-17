@@ -6,627 +6,635 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Merci d'être venu, [Player Name]. J'essaie de retrouver votre piste depuis un certain temps."</DefaultText>
+      <FemaleText>"Merci d'être venue, [Player Name]. J'essaie de retrouver votre piste depuis un certain temps."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>"C'est à quel propos ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>"Venez-en au fait."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>"La légitimité de votre revendication sur Caed Nua est remise en question. Le comte Bademar a délivré un jugement à ce sujet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>"Caed Nua m'appartient. Et quiconque défie cette revendication devra affronter mon courroux."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>"J'ai confiance dans le jugement équitable du compte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>"La lumière sera faite une fois que le seigneur Gathbin sera là. Vous avez des questions pour moi pendant que nous attendons ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>"Que savez-vous à propos de Gathbin ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>"Dites m'en plus à propos de Rännig Gathbin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>"Savez-vous en faveur de qui le comte Bademar a prononcé son jugement ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>"Je n'ai plus de questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>"Même si je ne l'ai rencontré qu'une fois, j'ai eu suffisamment de temps pour déterminer la moralité du seigneur Arledr Gathbin, ou l'absence de celle-ci plutôt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>"Rännig Gathbin, le comte de Yenwood s'était allié avec l'Aedyr pendant la guerre du Défi. Dans les derniers jours de la campagne, quand il était clair que l'Aedyr serait défait, Rännig avait essayé de négocier la paix avec le duc."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>"Je suis désolé monseigneur, je ne sais pas. Le décret du comte est scellé."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>"Votre moment est choisi de manière impeccable. Voici le seigneur Gathbin maintenant."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>Un homme habillé de manière opulente marche à grands pas vers le chancelier, ses cheveux couleur sable forment un drapeau pris dans la brise légère, les talons de ses bottes résonnent à travers le hall. 
+
+Une femme elfe, aux cheveux courts, habillée d'une cotte de mailles sombre et scintillante le suit à la trace puis vient se tenir à ses côtés. Elle vous regarde sans complexe, et vous jauge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Cet homme là ? C'est le seigneur de Caed Nua ? Je pensais qu'il n'était qu'un autre serviteur. Un valet ou un porteur."</DefaultText>
+      <FemaleText>"Cette femme là ? C'est le seigneur de Caed Nua ? Je pensais qu'elle n'était qu'une autre servante. Une femme de chambre ou une porteuse."</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>"Hé bien, je ne peux pas dire que la réaction de Gathbin était totalement inattendue. Même si ce n'est pas de votre faute, j'ai bien peur que vous ne vous soyez fait un puissant ennemi."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Mes excuses, mais les temps sont difficiles. Nos affaires doivent attendre que ces émeutes aient cessé, monseigneur !"</DefaultText>
+      <FemaleText>"Mes excuses, mais les temps sont difficiles. Nos affaires doivent attendre que ces émeutes aient cessé, madame !"</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>"J'ai eu affaire à bien pire."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>[N'y prêtez pas attention.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>"J'espère que vous avez raison." Warrin sourit, à peine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>"Dans tous les cas, Caed Nua vous appartient officiellement puisque le seigneur Gathbin a rejeté le décret du comte." Il vous tend un sceptre bleu foncé qui semble avoir été sculpté entièrement dans un sapphire. "Tenez, cela appartenait à l'un des vieux seigneurs de Caed Nua. Il vous revient de droit maintenant."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Et où est ce prétendant ? Lui qui a assassiné les Raedrics - ma propre sœur et son mari - et qui me vole MES terres maintenant ! Où est ce misérable de basse extraction ?"</DefaultText>
+      <FemaleText>"Et où est cette prétendante ? Elle qui a assassiné les Raedrics - ma propre sœur et son mari - et qui me vole MES terres maintenant ! Où est cette misérable de basse extraction ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>Warrin se racle la gorge et vous jette un coup d'œil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>"En réalité, je fais moi-même partie de l'aristocratie."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>[Levez votre main.] "Que tous ceux qui possèdent leur propre donjon lèvent la main. Allons, ne soyez pas timides."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>"Peut-on en finir avec ça, s'il vous plait ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText />
+      <DefaultText>"Je ne sais pas de quelle terre lointaine vous provenez, mais votre titre n'a que peu de poids dans le Dyrwood. Chancelier, lisez le décret. Je perds patience avec ce dandy de la cambrousse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText />
+      <DefaultText>Warrin brise le sceau du parchemin et le déroule.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText />
+      <DefaultText>"À propos de la revendication de Gathbin sur Caed Nua, le comte Bademar trouve que la revendication de Gatbin n'a jamais été abandonnée. Selon la loi, Caed Nua est la légitime propriété de la famille Gathbin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>"Je le savais." Gathbin vous regarde avec un sourire suffisant et triomphant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
+      <DefaultText>"Je n'ai pas encore terminé la lecture, monseigneur."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>"Toutefois, le comte reconnait le rôle de [Player Name] dans la récupération de Caed Nua, un endroit qui était resté abandonné et certains diraient même maudit, pendant plus d'un siècle. Avant que Caed Nua ne soit rendu à la famille Gathbin, le comte a décrété que le seigneur Gathbin devra fournir une compensation sous la forme de-"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
+      <DefaultText>"Hors de question." Gathbin croise les bras, un œil noir de défi sur le visage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>"Monseigneur ?" Warrin lève les sourcils.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Je ne débourserai pas un centime à ce mécréant pour MES terres ancestrales ! Vous pensez que je suis aveugle aux motifs du comte, laquais ? Il pense qu'il peut envoyer un message avec cette insulte."</DefaultText>
+      <FemaleText>"Je ne débourserai pas un centime à cette mécréante pour MES terres ancestrales ! Vous pensez que je suis aveugle aux motifs du comte, laquais ? Il pense qu'il peut envoyer un message avec cette insulte."</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText />
+      <DefaultText>[Frappez Gathbin.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>[Attrapez le bras de Gathbin.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>"Aargh !" Le nez de Gathbin craque sous votre poing. Il titube vers l'arrière, recouvrant sa blessure d'une main, les yeux embués et choqués.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText />
+      <DefaultText>"Assez !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>[Ne faites rien.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>"Monseigneur, je suggère que vous repreniez votre calme. Immédiatement." Le ton de l'agent est calme, mais sa main repose sur la garde de son épée."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Ne me touchez pas, espèce de... paysan !" Gathbin dégage son bras de votre main et recule.</DefaultText>
+      <FemaleText>"Ne me touchez pas, espèce de... paysanne !" Gathbin dégage son bras de votre main et recule.</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText />
+      <DefaultText>"Comment OSEZ-VOUS me donner un ordre !" Gathbin se retourne pour vous faire face.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText />
+      <DefaultText>"Je reviendrai pour ce qui est mien. Comptez là-dessus ! Venez, capitaine Emery - nous partons."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Mes seigneurs, s'il vous plait ! Nul besoin de recourir à la violence !"</DefaultText>
+      <FemaleText>"Monseigneur, madame, s'il vous plait ! Nul besoin de recourir à la violence !"</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText />
+      <DefaultText>"Il semblait un petit peu contrarié, non ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText />
+      <DefaultText>"J'ai entendu qu'il avait toujours été violent, déjà petit garçon. Et qu'il pouvait garder rancune pendant très longtemps."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText />
+      <DefaultText>[Donnez 1 000pc.] "Envoyez-ça au seigneur Gathbin en signe d'amitié."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText />
+      <DefaultText>"Dites à Gathbin que si je le trouve lui ou un de ses hommes sur mes terres, ils seront exécutés."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText />
+      <DefaultText>"Je n'ai plus rien à faire ici."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText />
+      <DefaultText>"C'est une offre généreuse et je m'assurerai que le seigneur Gathbin la reçoive."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"C'était un plaisir de faire enfin votre connaissance, monseigneur." Warrin s'incline. "Peut-être que nous parlerons à nouveau dans des circonstances plus plaisantes."</DefaultText>
+      <FemaleText>"C'était un plaisir de faire enfin votre connaissance, madame." Warrin s'incline. "Peut-être que nous parlerons à nouveau dans des circonstances plus plaisantes."</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText />
+      <DefaultText>"Une mesure extrême de sécurité, mais je ferai passer le message."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText />
+      <DefaultText>"Veuillez étendre l'invitation au seigneur Gathbin, qu'il vienne festoyer avec moi dans les halls de Caed Nua. Il n'est nul besoin que nous soyons ennemis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText />
+      <DefaultText>"Imbécile ! J'espère que vous avez apprécié votre temps passé à occuper mes terres. Provoquez-moi encore et je vous ferai pendre sur le plus haut mur de Caed Nua, une fois nos affaires réglées. Chancelier, veuillez lire le décret du comte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Seigneur [Player Name] ! Je me demandais à quel moment vous feriez votre apparition."</DefaultText>
+      <FemaleText>"Madame [Player Name] ! Je me demandais à quel moment vous feriez votre apparition."</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText />
+      <DefaultText>"Vous avez envoyé une missive."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText />
+      <DefaultText>"Posez votre bière, vieil homme - vous m'avez convoqué !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText />
+      <DefaultText>[Regardez autour de la pièce.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText />
+      <DefaultText>"Non, pas du tout. J'ai reçu une missive. De votre part." 
+
+Le chancelier pose sa chope de bière et vous regarde d'un air narquois. 
+
+"Autant que je sache, rien n'a changé à propos de votre propriété légitime de Caed Nua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText />
+      <DefaultText>Vous réalisez que le Tonneau carbonisé est devenu silencieux, et vous vous retournez pour voir le dernier client disparaître rapidement par la porte d'entrée. Quelques instants plus tard, un groupe d'hommes et de femmes armés font irruption dans la taverne.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText />
+      <DefaultText>"Oh mon dieu." Le chancelier plonge prestement sous la table.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText />
+      <DefaultText>"Hé bien, c'était inattendu." Warrin émerge de dessous la table et lisse les manches chiffonnées de sa robe. "En contexte, cela donne toufefois du sens aux rapports étranges que j'ai reçus de l'Étreinte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText />
+      <DefaultText>"Le comte Bademar a décidé de garder un œil sur les activités du seigneur Gathbin. Gathbin a embauché beaucoup d'hommes dernièrement, mais à quelles fins, nous ne pouvons pas le dire. Je vous recommanderais de prendre des précautions supplémentaires à Caed Nua - il essaiera peut-être de placer des espions ou des saboteurs au sein de vos murs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText />
+      <DefaultText>"Allez-y."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText />
+      <DefaultText>"Soyez sur vos gardes, [Player Name]. Je ne pense pas vous n'avez pas encore vu de quoi est réellement capable le seigneur Gathbin." Il avale le reste de sa bière et hoche brusquement la tête avant de se diriger vers la porte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>"Pourquoi ne pas me l'avoir dit ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Un plaisir de vous voir, Gardien du chemin. Votre réputation vous précède. Je l'admets, vous avez créé quelques remous parmi la noblesse avec votre revendication de Caed Nua. Beaucoup d'entre eux ne savent pas quoi penser de vous."</DefaultText>
+      <FemaleText>"Un plaisir de vous voir, Gardienne du chemin. Votre réputation vous précède. Je l'admets, vous avez créé quelques remous parmi la noblesse avec votre revendication de Caed Nua. Beaucoup d'entre eux ne savent pas quoi penser de vous."</FemaleText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText />
+      <DefaultText>"Adieu, [Player Name]." Le maréchal hoche la tête et s'en va.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText />
+      <DefaultText>"Parlez-moi du comte Bademar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText />
+      <DefaultText>"Le comte Bademar vient d'une lignée de seigneurs estimés qui a pris de l'importance après la guerre du Défi, il y a 150 ans environ."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText />
+      <DefaultText>"Voici le maréchal Forywn, le conseiller militaire du comte Bademar. Il servira de témoin pour cette procédure."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText />
+      <DefaultText>Il indique l'homme à ses côtés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText />
+      <DefaultText>"Caed Nua était abandonné depuis plus d'un siècle et j'ai réclamé les terres par la force. Ma revendication est légitime."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText />
+      <DefaultText>"Votre coopération est prise en considération et très appréciée."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText />
+      <DefaultText>"S'il n'y avait pas d'autre prétendant, vous auriez raison. Malheureusement, ce n'est pas le cas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText />
+      <DefaultText>"Les menaces ne rendront pas votre occupation de Caed Nua légale, j'en ai bien peur. Seul le comte peut faire ça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText />
+      <DefaultText>"Le Dyrwood comprend sept comtés. Les Bademars gouvernent le comté septentrional appelé l'Étreinte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText />
+      <DefaultText>"C'est tout ce que j'ai besoin de savoir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText />
+      <DefaultText>"Dites m'en plus à propos de l'Étreinte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText />
+      <DefaultText>"L'Étreinte est désormais le plus large des sept comtés, après qu'il ait absorbé le comté d'avant guerre de Yenwood. Il inclut des colonies notables comme la Nouvelle-Heomar, l'Étreinte de Geiran, Val-Doré et évidemment, Caed Nua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText />
+      <DefaultText>"Yenwood ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText />
+      <DefaultText>"Je pensais que seigneur Raedric était le seigneur de Val-Doré ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText />
+      <DefaultText>"J'ai d'autres questions."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText />
+      <DefaultText>"Il l'est... heu, l'était. Seigneur Raedric était un thayn, cependant - un titre inférieur à celui de comte. Si votre revendication sur Caed Nua est légitime, j'imagine que c'est un titre que vous porterez bientôt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText />
+      <DefaultText>"Il l'est. Seigneur Raedric est un thayn, cependant - un titre inférieur à celui de comte. Si votre revendication sur Caed Nua est légitime, j'imagine que c'est un titre que vous porterez bientôt. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText />
+      <DefaultText>"Et à propos du Bademar actuel, c'est un homme bon autant que je sache. C'est un honneur de le servir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText />
+      <DefaultText>"Quand le Dyrwood n'était qu'une simple colonie de l'Aedyr, il était divisé en neuf comtés. Quand les Aedyrans furent défaits, et finalement repoussés, deux des comtés furent absorbés et les frontières ajustées. Le Yenwood en faisait partie."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText />
+      <DefaultText>"Je pensais que seigneur Kolsc était le seigneur de Val-Doré ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText />
+      <DefaultText>"À ce que j'ai entendu, vous aviez quelque chose à voir avec ça, non ? Pour répondre à votre question, seigneur Kolsc est un thayn, un titre inférieur à celui de comte. Si votre revendication sur Caed Nua est légitime, j'imagine que c'est un titre que vous porterez bientôt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText />
+      <DefaultText>"Il descend d'une vieille lignée Aedyrane qui précède la guerre du Défi. Son arrière-grand-père, Rännig Gathbin, était le comte de Yenwood pendant la guerre. Enfin, jusqu'à ce qu'il ait été dépossédé de ses terres et repoussé du Dyrwood."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText />
+      <DefaultText>"Ayant perdu toute influence, le comte a été forcé de renoncer presque complètement à ses terres et le Yenwood fut absorbé et fait partie aujourd'hui du comté appelé l'Étreinte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText />
+      <DefaultText>"Comme par un affront supplémentaire, le duc permit à Gathbin de garder sa revendication sur Caed Nua, une ruine maudite et sans aucune valeur. Sachant qu'il ne pourrait pas résider dans les halls de Caed Nua, Rännig Gathbin rentra honteux en Aedyr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText />
+      <DefaultText>"La somme est plutôt raisonnable et c'est une condition nécessaire à ce que le terrain vous soit rendu. Si vous me permettez de terminer..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"J'ai un message que vous pouvez envoyer à ce fils de pute !" Gathbin lève une main vers le chancelier qui se tasse devant lui, les bras levés en signe de défense.</DefaultText>
+      <FemaleText>"J'ai un message que vous pouvez envoyer à cette enfant de catin !" Gathbin lève une main vers le chancelier qui se tasse devant lui, les bras levés en signe de défense.</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText />
+      <DefaultText>"Non. Le duc n'a pas été capable de faire respecter ses édits dans le sud depuis des décennies... et maintenant le duc Aevar est mort ! Les ennemis du comte Bademar pèsent plus lourds que ses alliés, il semblerait."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText />
+      <DefaultText>"Passons outre cette formalité aussi vite que possible. J'ai d'autres affaires en attente. Il est bien connu que Caed Nua m'appartient, de droit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText />
+      <DefaultText>La femme elfe dégaine un pistolet avec dextérité depuis sa ceinture en cuir. Ses yeux s'élargissent d'impatience.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText />
+      <DefaultText>Il ricane d'un air de défi avant de prendre d'assaut le hall. 
+
+La capitaine baisse son pistolet et sourit d'un air suffisant avant de suivre son patron.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText />
+      <DefaultText>Gathbin fait rouler ses yeux et fait signe au chancelier de continuer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText />
+      <DefaultText>"Je vois."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText />
+      <DefaultText>Soulevant l'ourlet de sa robe alors qu'il enjambe plusieurs corps, le chancelier Warrin s'approche de vous. Même si son visage est pâle, et qu'il semble être sur le point de tomber malade à tout moment, il s'efforce de sourire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Seigneur [Player Name], même si je vous sais gré de savoir que cette dispute est finalement terminée, il est regrettable qu'autant de vies aient été perdues pendant la procédure. Gathbin aurait dû être raisonnable dès le début." Il a un haut-le-cœur involontaire quand sa botte de soie effleure une tête tranchée.</DefaultText>
+      <FemaleText>"Madame [Player Name], même si je vous sais gré de savoir que cette dispute est finalement terminée, il est regrettable qu'autant de vies aient été perdues pendant la procédure. Gathbin aurait dû être raisonnable dès le début." Il a un haut-le-cœur involontaire quand sa botte de soie effleure une tête tranchée.</FemaleText>
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Dans tous les cas, en tant qu'arbitre légal du comte Bademar, je suis là pour vous informer que vous avez été déclaré thayn du Dyrwood, et Caed Nua est reconnu comme étant votre domaine. Qu'il en soit ainsi pour l'éternité, et que le domaine soit transmis à vos descendants dans le futur."</DefaultText>
+      <FemaleText>"Dans tous les cas, en tant qu'arbitre légal du comte Bademar, je suis là pour vous informer que vous avez été déclarée thayn du Dyrwood, et Caed Nua est reconnu comme étant votre domaine. Qu'il en soit ainsi pour l'éternité, et que le domaine soit transmis à vos descendants dans le futur."</FemaleText>
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText />
+      <DefaultText>"Ça parait raisonnable."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText />
+      <DefaultText>[Hochez la tête.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Dites au comte Bademar que je suis reconnaissant pour son aide. Je m'assurerai que ses taxes soient collectées de manière régulière."</DefaultText>
+      <FemaleText>"Dites au comte Bademar que je suis reconnaissante pour son aide. Je m'assurerai que ses taxes soient collectées de manière régulière."</FemaleText>
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText />
+      <DefaultText>"Très bien alors... si tout est en ordre..." Le chancelier s'éclaircit la gorge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText />
+      <DefaultText>"Il semble que mon travail est terminé. N'hésitez pas à visiter le palais si-" Il marche sur un tas d'entrailles humides alors qu'il se retourne pour partir. "En y repensant, je viendrai vous rendre visite. Oui, oui. Peut-être dans un an... ou trois."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Seigneur [Player Name], ce fut un honneur de vous servir. Je vais donc retourner à l'Étreinte de Geiran, le comte a des affaires urgentes pour moi là-bas, malheureusement."</DefaultText>
+      <FemaleText>"Madame [Player Name], ce fut un honneur de vous servir. Je vais donc retourner à l'Étreinte de Geiran, le comte a des affaires urgentes pour moi là-bas, malheureusement."</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText />
+      <DefaultText>"Excellent. J'informerai le comte Bademar que tout est en ordre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Et où est ce prétendant ? Lui qui a assassiné seigneur Kolsc, mon propre cousin - et qui vole MES terres maintenant ! Où est ce misérable de basse extraction ?"</DefaultText>
+      <FemaleText>"Et où est cette prétendante ? Elle qui a assassiné seigneur Kolsc, mon propre cousin - et qui vole MES terres maintenant ! Où est cette misérable de basse extraction ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Et où est ce prétendant ? Montrez-moi l'imbécile qui prétend voler MES terres ! Où est ce misérable de basse extraction ?"</DefaultText>
+      <FemaleText>"Et où est cette prétendante ? Montrez-moi l'imbécile qui prétend voler MES terres ! Où est cette misérable de basse extraction ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText />
+      <DefaultText>Seigneur Gathbin soutient votre regard pendant plusieurs instants, ses yeux consumés de rage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText />
+      <DefaultText>"Bien ! C'est de loin le meilleur conflit d'intérêt qu'il m'ait été donné de voir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText />
+      <DefaultText>"Bien sûr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText />
+      <DefaultText>"Évidemment, maintenant que votre revendication a été maintenue, vous pouvez vous attendre à recevoir une petite portion de toutes les taxes collectées pour votre seigneur légitime, le comte Bademar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText />
+      <DefaultText>"J'ai fait tout le boulot et je garderai toutes les taxes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Je vois. Je vous assure que le comte ne sera pas content de cette décision, mais je transmettrai tout de même vos souhaits, seigneur [Player Name]."</DefaultText>
+      <FemaleText>"Je vois. Je vous assure que le comte ne sera pas content de cette décision, mais je transmettrai tout de même vos souhaits, madame [Player Name]."</FemaleText>
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Et à propos de ce « Gardien du chemin » ?"</DefaultText>
+      <FemaleText>"Et à propos de cette « Gardienne du chemin » ?"</FemaleText>
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Celui qui dirige Caed Nua au nom du comte de Yenwood est traditionnellement connu comme le Gardien du chemin. Votre position n'est peut-être pas entièrement officielle - pour le moment - mais le titre est une façon appropriée de s'adresser à vous." Le maréchal hoche la tête et sourit.</DefaultText>
+      <FemaleText>"Celle qui dirige Caed Nua au nom du comte de Yenwood est traditionnellement connue comme la Gardienne du chemin. Votre position n'est peut-être pas entièrement officielle - pour le moment - mais le titre est une façon appropriée de s'adresser à vous." Le maréchal hoche la tête et sourit.</FemaleText>
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText />
+      <DefaultText>"En réalité, la lame que vous portez a été forgée par le tout premier Gardien du chemin." Il montre l'épée sur votre côté. "J'ai entendu que les Murmures de Yenwood ne peuvent être trouvés que par ceux qui sont destinés à diriger Caed Nua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText />
+      <DefaultText>"Si jamais vous deviez vous trouver aussi loin au nord, n'hésitez pas à faire appel à moi. Je serais ravi d'échanger des histoires de guerre avec vous autour d'un verre ou deux." Il saisit votre main brièvement avec fermeté, puis tourne les talons.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

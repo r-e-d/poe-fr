@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>315</EntryCount>
+  <EntryCount>338</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1627,6 +1627,92 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>301</ID>
+      <DefaultText>Les lagufaeth sont des amphibiens territoriaux à quatre membres. Bien que leur peau épaisse les protège du climat glacial de la Marche blanche, ils tendent à préférer les sources chaudes. Les lagufaeth sont des sauvages qui vivent en communauté, utilisent des armes rudimentaires mais ont une affinité naturelle pour la magie. Ils sont particulièrement dangereux dans les montagnes, où les tempêtes et les chutes de neige peuvent masquer leur présence aux voyageurs jusqu'à ce qu'il soit trop tard. Ils peuvent rester sous la glace pendant de très longues périodes et sont connus pour avoir surpris des pêcheurs imprudents.
+
+Un lagufaeth rouge-crête est un lagufaeth dominant et mature. Ils peuvent être mâles ou femelles. Un lagufaeth qui se mue en rouge-crête développe une teinte brun-rouge sur la peau et une crête osseuse sur le haut de la tête. Ils sont rarement les plus vieux membres du groupe, mais ils sont les plus agressifs, et ils sont généralement chargés de défendre un nid ou un groupe. Lorsqu'un lagufaeth rouge-crête perd son statut, sa crête tombe et sa peau retourne à une nuance de bleu, vert ou violet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Le destin des nains de la Batterie de Durgan est resté un mystère pour les érudits pendant deux cent ans. Le peu qui était connu indiquait que les nains s'étaient divisés autour d'une grande querelle d'opinions parmi leurs kommandants. Ils ont fermé les portes de la Batterie et ne sont jamais ressortis.
+
+Ces squelettes sont de la taille des nains, et l'armure qu'ils portent étaient autrefois d'excellente qualité, très proche du légendaire acier Durgan. A la différence de la plupart des squelettes, ils combattent dans des formations de batailles organisées. Leur habileté et leur discipline au combat en font des ennemis redoutables, tout comme leur robuste armure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Comme les fantômes, les spectres sont des esprits qui sont restés dans le monde des vivants après une vie ou une mort particulièrement violente. Bien qu'ils apparaissent partout dans Eora, les cols de la Marche blanche - peuplés pour le moment par des ogres, des lagufaeth, des bandits et des esclavagistes - les propagent à une vitesse alarmante.
+
+Les spectres cherchent à se nourrir d'essence vivante et ils attaqueront n'importe quel être civilisé ou sauvage alentour. Bien qu'apparemment stupides dans leurs agressions, ils sont assez malins pour fragmenter les groupes, empoignant et isolant leurs victimes afin de se nourrir de chacune d'elles une par une.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>On raconte que les sirènes sont des manifestations d'essence attirées ensemble par de fervents désirs ou aspirations imprimés par leur ancien hôte. Elles sont communément associées à la mer et avec Ondra puisque de nombreuses histoires de sirènes entraînent des mésaventures de navigation que l'on pense causées par leur irrésistible chant. En vérité, cependant, les sirènes peuvent être trouvées partout où les conditions idoines surviennent, et elles sont moins dangereuses pour leurs chants que pour leur cris stridents. 
+
+Il est admis qu'elles prennent la forme d'une femme attirante la plupart du temps, quelle que soit l'identité de la personne qui a cédé son essence, et les raisons de cette croyance sont incertaines, même si la théorie la plus populaire suggère que c'était une préférence d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>La rancune est parmi la plus tenace des émotions négatives. La haine se refroidit souvent avec le temps. La tristesse capitule avec l'acceptation. Mais l'indignation apportée par la cruauté, l'injustice, ou la simple irritation peut infecter l'esprit et survivre même au-delà de la mort. 
+
+Ainsi ce sont les sentiments amers, qui existent comme à peine plus qu'un amalgame d'instincts de ressentiment, inclinés à fustiger quiconque ils perçoivent, et qui demeurent insatisfaits jusqu'à ce que leur victime souffre et meurt.  "Sentiments amers" est aussi le nom d'une liqueur artisanale populaire dans les zones rurales du nord de Dyrwood qui peut se décrire à peu près de cette manière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Alors que la Batterie de Durgan était sur le point de tomber, un baroud d'honneur fut livré. Les meilleurs artisans qui avaient survécu utilisèrent la Forge blanche pour créer des gardiens à partir de leurs meilleurs matériaux et de leurs âmes les plus héroïques. Au final, cependant, la Batterie finit tout de même par tomber.
+
+Les tentatives pour créer des êtres artificiels à partir du métal, de la pierre et d'autres matériaux pré datent de manière substantielle l'animancie moderne, mais les avancées scientifiques ont permis de passer du stade de machine rare et tombant souvent en panne à des êtres à moitié doués de raison qui sont devenus un peu plus courants ces dernières années. Les défauts de fonctionnement sont moins courants, même si l'utilisation d'âmes - provenant souvent de sources douteuses - semble augmenter la sévérité et la violence de ces épisodes.
+
+Parce que le métal employé est fréquemment employé dans leur construction, les automates sont souvent pensés comme des combinaisons d'armure capable de marcher, mais le nom est mal approprié. Les automates sont rarement des coquilles vides - habituellement, ils sont faits de matériaux solides, ou remplis de rouages pour faciliter la locomotion. Plus subtilement, mais peut-être de manière plus significative pour leurs créateurs, les automates sont habituellement élaborés pour ressembler comme des êtres civilisés à la fois dans leurs formes et leur fonctions. Et les automates avec un semblant de personnalité sont rares, la camaraderie est l'une des motivations les plus mentionnées pour leur construction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Les algoules sont des goules dont la détérioration physique a été arrêtée par un rituel de sorcellerie. Le nombre de sorciers qui ont réussi à convertir une goule en algoule avec succès est très réduit - le rituel est complexe, et on raconte que les ingrédients requis par le rituel sont répugnants et qu'il est difficile de se les procurer. Les sages pensent que le rituel est la première étape vers une guérison de la mort-vie.
+
+Quel que soit le raisonnement derrière ce rituel, les algoules sont effroyablement puissantes et intelligentes. Bien que leurs corps ne se décomposent plus, leur faim éternelle pour la chair des êtres civilisés demeure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Les liches sont aussi formidables qu'elles sont rares. Elles possèdent une grand maîtrise des arcanes et ont découvert des façons d'allonger leurs propres vies sans avoir à subir la détérioration mentale des fampyrs et autres vaisseaux. Il n'y a pas de registre fiable ou de mode d'emploi pour devenir une liche - le peu de ceux qui y sont parvenus ont toujours été hésitant à partager leurs méthodes - mais on raconte que le procédé est à la fois difficile et douloureux. Les annales de la sorcellerie sont jonchées de mises en garde à propos de mages ambitieux qui se sont essayés à l'immortalité mais ont seulement réussi à déchirer leurs propres corps.
+
+Bien que les liches se décomposent physiquement, elles gardent leurs facultés mentales, détail qui les sépare en partie des vaisseaux. Elles y parviennent en liant leurs propres essences avec des phylactères qui sont représentés de manière populaire comme des fioles ou des charmes portés ou gardés près du corps. Cependant, aucune des liches connues n'a jamais révélé la nature ou l'emplacement de ses phylactères, ainsi les théories à leur propos demeurent finalement pure spéculation. 
+
+La plupart des liches sont considérées comme de puissants sorciers ou mages, mais c'est une généralisation plutôt qu'une règle véritable. Une liche qui vivait il y a presqu'un millier d'années était une prêtresse de Berath qui se maintenait à travers sa propre et rigoureuse dévotion. On raconte que les animanciens ont expérimenté avec des concepts similaires, mais étant donné la réputation douteuse de la profession, personne n'a jamais voulu l'admettre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Les animanciens, les nécromanciens, et d'autres jeteurs de sorts sans scrupules qui ont expérimenté avec les corps des êtres civilisés sont connus pour avoir créés toutes sortes d'automates et de vaisseaux. Certains existent comme des objets d'étude, et d'autres comme sources d'amusement.
+
+Les augures du vide sont des crânes remplis d'essence. Les premières mentions des augures du vide proviennent de Vailia l'Ancienne, où un nécromancien maintenant tristement célèbre les avait créés pour divertir la cour. Depuis, ils ont été utilisés comme patrouilles, gardes ou employés. Leur petite taille les rend faciles à créer et diriger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Les sorciers ont expérimenté avec les automates pendant des siècles, mais le procédé pour transférer l'essence d'une âme hors d'un corps en vie et dans quelque chose d'autre - que ce soit de la pierre, du métal ou de l'os - a toujours été très difficile. Le corpus de la recherche sur le sujet s'est élargi - en grande partie grâce à l'animancie - et les méthodes se sont améliorées.
+
+Cependant transférer une âme intacte - une qui garde sa personnalité, sa mémoire et son intelligence - est encore plus compliqué. Ethelmoer, le responsable du sanatorium de Brackenbury dans la Baie du défi, est l'un des seuls à y être parvenu. Ses partisans arguent du fait que perfectionner cette méthode permettrait aux êtres civilisés de prolonger leurs propres vies sans dégénérer en fampyrs, goules, et autres vaisseaux mangeurs de chair. D'autres prétendent que les monstruosités métalliques qui remplissent les laboratoires d'animancie clandestins sont encore plus horrifiques.
+
+On a estimé que, pour chaque automate véritablement doué de raison, il y a des dizaines - si ce n'est pas des centaines - d'âmes mutilées piégées dans des corps à moitié finis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Les squelettes font des guerriers formidables et très tenaces, bien que leurs os exposés puissent être vulnérables. L'armure peut réduire cela d'une certaine façon, bien que les armures de plaque, de chaînes et de cottes de maille usent les os à terme. Plusieurs solutions ont été envisagées pour prévenir ce processus, y compris enrober les os de fourrure protectrice ou de résines. Le défi est de couvrir les os sans empêcher leurs mouvements. C'est une tâche difficile qui, quand elle réussit, crée des squelettes extrêmement forts et durables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Depuis la nuit des temps, les épées volantes et les balais flottants sont le rêve de tous ceux qui se rêvent mage de bataille ou apprentis surmenés. Mais même si de nombreux sorciers peuvent faire léviter des objets de tous les jours, très peu peuvent les contrôler une fois en l'air, en particulier au cœur d'une bataille. Mais si un jeteur de sort habile et martialement entraîné pouvait apprendre à manipuler des douzaines d'armes à la fois, elle serait très puissante, en effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>313</ID>
       <DefaultText>Immunisé</DefaultText>
       <FemaleText />
@@ -1634,6 +1720,15 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
     <Entry>
       <ID>314</ID>
       <DefaultText>Un sous-ensemble d'ennemis peut être immunisé contre un ou plusieurs types de dégâts. Dans ces cas, le défenseur ne subira jamais de dégâts de ce type. Cependant, les effets secondaires qui sont appliqués séparément des dégâts peuvent tout de même affecter la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Les objets liés sont des objets uniques qui peuvent tisser un lien magique avec l'âme d'un seul personnage. Une fois lié, l'objet ne peut plus être utilisé que par ce personnage à moins que le lien ne soit sectionné. Un objet lié gagnera en puissance lorsque son porteur complète certaines conditions spécifiées dans la description de l'objet.
+
+La plupart des objets liés ne peuvent tisser un lien qu'avec des personnages de certaines classes. Cependant, indépendamment du type d'objet, un objet lié sera toujours qualifié pour tout Talent ou Compétence comme la Maîtrise d'arme ou la Spécialisation que peut avoir ce personnage. Par exemple, si un combattant possède une Maîtrise d'arme et une Spécialisation en Voyou, il gagnera ses avantages même en portant une grande épée ou une baguette liées. Les avantages des Talents ou Compétences du même type (par exemple Maîtrise d'arme Voyou et Paysan) ne se cumulent pas.
+
+Si le lien d'un objet lié est sectionné, il perdra toutes les compétences gagnées au fil du temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1646,6 +1741,16 @@ Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affe
       <DefaultText>Une série de territoires Pargruns déchus qui furent peuplés par des nains durant les premières années coloniales des Contrées orientales. La colonie la plus remarquable, la Batterie de Durgan, était bien connue pour ses objets en bronze de grande qualité et ses armes, boucliers et armures en acier sans égaux. Au cours des décennies, plusieurs colonies de la Marche blanche ont été soit envahies par d'innombrables pillards, soit se sont effondrées à cause de craintes croissantes d'instabilité. La forteresse de la Batterie de Durgan a été apparemment abandonnée et scellée il y a presque deux siècles, marquant la fin non officielle de la Marche blanche.
 
 Les armoiries de la Marche blanche peuvent toujours être vues sur certains objets raffinés en bronze et en acier qui circulent dans les Contrées orientales. Le symbolisme des montagnes est évident, mais les cercles liés à son sommet étaient communs dans les colonies de Pargruns, et représentaient le lien de parenté qui les unissaient. La partie jaune, peu courante sur des objets métalliques représentait les bronzes pour lesquels la Marche blanche était initialement connue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Maegfolc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Les Maegfolcs sont parmi les créatures les plus grosses d'Eora. Ils vivent habituellement dans des zones isolées et accidentées où ils chassent souvent seuls voire en petits groupes. Bien qu'il y ait beaucoup d'espèces différentes, presque toutes sont connues pour être agressives et solitaires.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1695,32 +1800,84 @@ Les armoiries de la Marche blanche peuvent toujours être vues sur certains obje
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>Strange Illness</DefaultText>
+      <DefaultText>Étrange maladie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>This is the illness you contracted near the ruins of Cilant Lîs. It is characterized by simultaneous chills and intense flashes of warmth as well as shortness of breath. The caravan master, Odema, identified it as a common illness, the Rumbling Rot, but there's something strange about it. In spite of the symptoms, it doesn't feel like any sickness you've ever had before.</DefaultText>
+      <DefaultText>C'est la maladie que vous avez attrapée près des ruines de Cilant Lîs. Ses symptômes se caractérisent par des frissons et des bouffées de chaleur simultanés, ainsi qu'un souffle court. Le maître de la caravane, Odema, l'a identifiée comme une maladie commune, la Pourriture grondante, mais il y quelque chose d'étrange à son propos. Mis à part les symptômes, cela ne ressemble à aucune maladie que vous avez pu contracter auparavant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Les marins de tout Éora racontent des histoires à propos des bêtes qui hantent les profondeurs. Parmi elles, peu sont aussi redoutables que le kraken.
+
+Ces derniers s'aventurent rarement à la surface, et s'ils le font, ils ne laissent quasiment jamais de survivants après leur passage. Ce sont des bêtes tentaculaires massives, capables de briser de petits bateaux et d'arracher les marins du pont de ceux-ci. Malgré sa taille imposante, le corps souple et flexible des krakens leur permet de se frayer un chemin à travers des espaces confinés à la recherche de proies ou d'un refuge. Heureusement, ils préfèrent les endroits sombres et tranquilles aux vastes étendues d'eau.
+
+Ce sont d'astucieux chasseurs et selon la légende, les terribles serviteurs d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Les Sans-yeux sont d'anciens et mystérieux maegfolcs plus connus dans les mythes et légendes que dans la réalité tangible. Avec leur apparence grotesque et leurs membres grossiers mais pourtant fonctionnels, ils ressemblent vaguement à des automates, bien que leurs origines et leurs objectifs demeurent inconnus. Ils ne connaissant ni la faim, ni la fatigue, faisant d'eux des ennemis particulièrement implacables.
+
+Dans la sagesse populaire, on considère que les Sans-yeux sont là pour servir Ondra en s'assurant que ce qui est vieux et dangereux reste oublié. Les gens de la Marche blanche les décrivent comme des croque-mitaines qui rôdent autour des vieilles routes et des endroits retirés. Les parents avertissent leurs enfants de ne pas oublier leurs corvée de peur que les Sans-yeux les considèrent « oubliées », et les personnes qui perdent quelque chose remercient traditionnellement Ondra que les Sans-yeux ne soient pas venus également pour eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Comme le Spore humide, plus commun, le Spore rayonnant est un organisme fongique géant attiré par l'énergie des âmes provenant des créatures vivantes. À la différence de ses cousins ouvertement prédateurs, le Spore rayonnant semble disposer d'une sorte d'intelligence centrale et consciente. Il est capable de former et d'utiliser des liens parasitaires avec plusieurs types de proie en libérant des nuées de puissants spores à l'effet psychotrope. Ceux-ci fournissent au Spore rayonnant un lien avec ses nombreuses victimes, par lequel il parvient à projeter sa volonté. 
+
+Maintenu debout par un réseau de racines épaisses et mobiles, le Spore rayonnant est également capable d'attaques plus directes, en utilisant ses ceps comme des appendices de constriction ou comme d'immenses gourdins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>Ground</DefaultText>
+      <DefaultText>Sol</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Any attack marked as "Ground" is one that affects the ground itself or creates a hazard immediately above it. Spells like Slicken or Tanglefoot are both classified as Ground attacks. Some creatures, especially flying monsters or spirits, are immune to attacks classified as Ground.</DefaultText>
+      <DefaultText>Toute attaque marquée comme « Sol » est une attaque en rapport direct avec le sol en lui-même ou créant un danger sur sa surface. Des sorts comme Sol glissant ou Enchevêtrement sont tous les deux classés comme des attaques Sol. Certaines créatures, en particulier les monstres volants ou les esprits, sont immunisés contre les attaques de type Sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>D'une apparence vaguement similaire aux skuldrs habitant les cavernes, on trouve les skuldraks dans des climats plus froids et par conséquent à des altitudes plus élevées. Ils disposent d'une vue considérablement plus perçante, mais restent tout de même des charognards ou des chasseurs en embuscade. Bien que la peau rabattue sous les pattes avant des skuldrs soit totalement vestigiale à tout âge, les jeunes skuldraks possèdent des ailes totalement fonctionnelles. Elles sont capables de soutenir le poids de leur corps au départ, mais à mesure que les skuldraks mûrissent, ils ne peuvent plus planer que pendant de courtes périodes. 
+
+Comme leurs cousins pelés, les skuldarks sont communautaires, ils nichent et élèvent leurs petits tous ensemble. Leurs communautés très soudées dépendent de ces liens ténus pour survivre dans ce climat rigoureux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>D'hostiles et énormes araignées existent dans une terrifiante variété de formes, couleurs et tailles à travers toutes les Contrées orientales. Bien plus agressives que leurs homologues de petite taille, ces géantes cherchent activement des proies chez les animaux les êtres civilisés. 
+
+Les araignées lunaires sont notoirement connues pour former des relations symbiotiques avec d'autres espèces intelligentes, cherchant activement des alliés pour faciliter leur survie. À tour de rôle, elles projettent une aura qui guérit et revivifie leurs alliés. On suppose que cette aura est en fait composée d'infimes particules de venin d'araignée lunaire, présumé être un stimulant très puissant. Mais peu de spécimens d'araignées lunaires ont été capturés pour étude, et encore moins d'érudits ont survécu aux répercussions de telles études.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Les chiens de guerre sont communs sur un champ de bataille, même s'ils n'ont jamais tenu un rôle particulièrement important dans les guerres rangées entre les forces du Dyrwood et readceranes. Les chiens utilisés par le Fléau de fer sont issus d'une race résistante et courante dans la campagne readcerane, où ils sont appréciés comme gardiens contre les loups et d'autres prédateurs. Les chiens de guerre du Fléau ont évidemment été croisés et élevés pour pouvoir s'attaquer à des adversaires encore plus imposants.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Spellstamina</DefaultText>
+      <DefaultText>Sort de résistance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>Items with the spellstamina property will automatically trigger the associated effect when the user hits the listed percentage of Endurance.</DefaultText>
+      <DefaultText>Les objets avec la propriété sort de résistance déclencheront automatiquement l'effet associé lorsque l'utilisateur atteint le pourcentage d'Endurance indiqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Les chauves-souris du marécage se différencient de leurs homologues skuldrs et skuldraks par plusieurs aspects physiologiques. La principale différence étant le fait que les chauves-souris du marécage semblent garder leur morphologie juvénile en atteignant la maturité. Cela permet aux chauves-souris du marécage de garder la capacité de voler, mais limite leur proie aux créatures qu'elles peuvent terrasser individuellement. À cette fin, elles sont équipées d'une sécrétion nocive qu'elles crachent sur leurs victimes désignées. Les chauves-souris du marécage évitent également les nichées communautaires de leurs parents plus imposants. Elles sont typiquement rencontrées en petits essaims et se querellent souvent pour des questions de nourriture, d'accouplement et de territoire.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

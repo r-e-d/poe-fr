@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2160</EntryCount>
+  <EntryCount>2421</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2376,7 +2376,7 @@
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Les orlans constituent la plus petite race d'êtres civilisés, même si de nombreuses cultures ne les considèrent absolument pas comme civilisés. Se distinguant par leurs grandes oreilles et leur peau bicolore, les orlans sont largement représentés à Eir Glanfath, dans les Plaines d'Ixamitl et dans certaines régions de Dyrwood. Ils sont réputés pour leur force mentale et leur rapidité.</DefaultText>
+      <DefaultText>Les orlans sont la plus petite des races parmi les êtres civilisés, même si de nombreuses cultures ne les considèrent pas civilisés du tout. Remarquables pour leurs grandes oreilles, leurs peaux à deux tons et leurs corps hirsutes, les Orlans se trouvent généralement dans Eir Glanfath, les Plaines d'Ixamitl et certaines parties du Dyrwood. Ils sont célèbres pour leur intensité mentale et leur sens aiguisés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7085,6 +7085,16 @@ Survie peut également être utilisée dans les conversations et interactions sc
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1410</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1412</ID>
       <DefaultText>Club des gentilshommes raffinés et prestigieux</DefaultText>
       <FemaleText />
@@ -9536,6 +9546,41 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1903</ID>
+      <DefaultText>Temple d'Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Le Refuge du gréf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1905</ID>
+      <DefaultText>Pêcherie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
+      <DefaultText>Maison de Renengild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1907</ID>
+      <DefaultText>Maison de Thyrsc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1908</ID>
+      <DefaultText>Maison de Taena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1909</ID>
+      <DefaultText>Chariot d'Yduran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1910</ID>
       <DefaultText>Trésorerie</DefaultText>
       <FemaleText />
@@ -9543,6 +9588,11 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     <Entry>
       <ID>1911</ID>
       <DefaultText>Intendante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1912</ID>
+      <DefaultText>La Démone de Caroc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9681,6 +9731,16 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1940</ID>
+      <DefaultText>Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1941</ID>
+      <DefaultText>Cavernes des Flammes-Qui-Murmurent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1942</ID>
       <DefaultText>Auto-ralentissement du combat</DefaultText>
       <FemaleText />
@@ -9726,6 +9786,11 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1951</ID>
+      <DefaultText>Batterie de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1952</ID>
       <DefaultText>{0} au multiplicateur de Dégâts Critiques contre les cibles avec une faible Endurance</DefaultText>
       <FemaleText />
@@ -9738,6 +9803,26 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     <Entry>
       <ID>1954</ID>
       <DefaultText>Dyrwood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1956</ID>
+      <DefaultText>Réserve glaciale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1957</ID>
+      <DefaultText>Quartiers des gardes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1958</ID>
+      <DefaultText>Salle de guerre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1959</ID>
+      <DefaultText>Hall des banquets</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9763,6 +9848,66 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     <Entry>
       <ID>1964</ID>
       <DefaultText>Augmente automatiquement le niveau des compagnons quand ils rejoignent le groupe pour la première fois. Désactiver cette option afin d'augmenter manuellement vos compagnons à partir du 1er niveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1965</ID>
+      <DefaultText>Lac</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1966</ID>
+      <DefaultText>Armurerie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1967</ID>
+      <DefaultText>Mine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1968</ID>
+      <DefaultText>Chambre de divination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1969</ID>
+      <DefaultText>Glissière de glace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1970</ID>
+      <DefaultText>Dortoirs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1971</ID>
+      <DefaultText>Salle à manger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1972</ID>
+      <DefaultText>Vers les Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1973</ID>
+      <DefaultText>Vers la Caverne inférieure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1974</ID>
+      <DefaultText>Étang des Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1975</ID>
+      <DefaultText>Bosquet des bûcherons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1976</ID>
+      <DefaultText>Campement des chasseurs</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9803,6 +9948,11 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     <Entry>
       <ID>1984</ID>
       <DefaultText>Détermine la fréquence d'intervention vocale des compagnons et des personnages joueurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1986</ID>
+      <DefaultText>Glissement de terrain</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9851,6 +10001,11 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>1996</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>1997</ID>
       <DefaultText>Fréquence d'images max</DefaultText>
       <FemaleText />
@@ -9871,6 +10026,46 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2001</ID>
+      <DefaultText>Salle du souvenir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2002</ID>
+      <DefaultText>Atelier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2003</ID>
+      <DefaultText>Tunnels empruntés par les wagonnets de mine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2006</ID>
+      <DefaultText>Salle de combat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2008</ID>
+      <DefaultText>Porte de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2009</ID>
+      <DefaultText>Salle des frères</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2012</ID>
+      <DefaultText>Salle de la Fierté de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2014</ID>
+      <DefaultText>La Marche blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2015</ID>
       <DefaultText>Examiner</DefaultText>
       <FemaleText />
@@ -9881,8 +10076,33 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2017</ID>
+      <DefaultText>Grotte des loups</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2018</ID>
       <DefaultText>Les points non utilisés seront disponibles au niveau suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2021</ID>
+      <DefaultText>Caverne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2022</ID>
+      <DefaultText>Batterie de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2023</ID>
+      <DefaultText>Cabane de Galvino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2024</ID>
+      <DefaultText>Caravane</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9891,8 +10111,68 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2026</ID>
+      <DefaultText>Vers la Caverne supérieure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2027</ID>
+      <DefaultText>Sanctuaire de Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2028</ID>
+      <DefaultText>Cratère des Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2029</ID>
+      <DefaultText>Campement abandonné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2030</ID>
+      <DefaultText>Liaison d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2031</ID>
+      <DefaultText>Annuler la liaison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2032</ID>
+      <DefaultText>Êtes-vous sûr de vouloir lier {0} à {1} ? Une fois lié, cet objet ne peut pas être équipé sur un autre personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2033</ID>
+      <DefaultText>Voulez-vous vraiment annuler la liaison entre {0} et {1} ? Toutes les capacités éveillées sur {1} seront perdues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2034</ID>
+      <DefaultText>Liaison à : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2035</ID>
+      <DefaultText>Cette arme peut uniquement être liée aux personnages appartenant aux classes suivantes : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2036</ID>
       <DefaultText>, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2037</ID>
+      <DefaultText>Liaison à : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2038</ID>
+      <DefaultText>Une liaison d'âme a été établie entre {0} et {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9901,8 +10181,48 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2040</ID>
+      <DefaultText>Croisement de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2041</ID>
+      <DefaultText>Tour de guet de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2042</ID>
+      <DefaultText>Campement de Taragaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2043</ID>
       <DefaultText>Destruction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2044</ID>
+      <DefaultText>Arme liée à l'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2045</ID>
+      <DefaultText>{0} pour déverrouiller le niveau suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2046</ID>
+      <DefaultText>Tuer {0} {1} avec {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2047</ID>
+      <DefaultText>Infliger des dégâts {0} à {1} avec {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2048</ID>
+      <DefaultText>Lier cette arme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9967,8 +10287,248 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2060</ID>
+      <DefaultText>Combattants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2061</ID>
+      <DefaultText>Bandits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2062</ID>
+      <DefaultText>Prêtres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2063</ID>
+      <DefaultText>Magiciens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2064</ID>
+      <DefaultText>Barbares</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2065</ID>
+      <DefaultText>Rôdeurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2066</ID>
+      <DefaultText>Druides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2067</ID>
+      <DefaultText>Paladins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2068</ID>
+      <DefaultText>Moines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2069</ID>
+      <DefaultText>Clairvoyants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2070</ID>
+      <DefaultText>Incantateurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2071</ID>
+      <DefaultText>Trolls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2072</ID>
+      <DefaultText>Ogres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2073</ID>
+      <DefaultText>Loups</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2074</ID>
+      <DefaultText>Araignées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2075</ID>
+      <DefaultText>Vases</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2076</ID>
+      <DefaultText>Staelgars</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2077</ID>
+      <DefaultText>Diablotins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2078</ID>
+      <DefaultText>Spores humides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2079</ID>
+      <DefaultText>Rôdeurs des marécages</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2080</ID>
+      <DefaultText>Eotens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2081</ID>
+      <DefaultText>Xaurips</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2082</ID>
+      <DefaultText>Vithracks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2083</ID>
+      <DefaultText>Feux follets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2084</ID>
+      <DefaultText>Délemgans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2085</ID>
+      <DefaultText>Pŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2086</ID>
+      <DefaultText>Wurms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2087</ID>
+      <DefaultText>Skuldrs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2088</ID>
+      <DefaultText>Drakes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2089</ID>
+      <DefaultText>Dragons célestes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2090</ID>
+      <DefaultText>Dragons d'adra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2091</ID>
+      <DefaultText>Fléaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2092</ID>
+      <DefaultText>Animats</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2093</ID>
+      <DefaultText>Automates en chair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2094</ID>
+      <DefaultText>Ombres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2095</ID>
+      <DefaultText>Fantômes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2096</ID>
+      <DefaultText>Cean Gŵlas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2097</ID>
+      <DefaultText>Squelettes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2098</ID>
+      <DefaultText>Revenants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2099</ID>
+      <DefaultText>Goules</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2100</ID>
+      <DefaultText>Dargoules</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2101</ID>
+      <DefaultText>Fampyrs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2102</ID>
+      <DefaultText>Wichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2103</ID>
+      <DefaultText>Scarabées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2104</ID>
       <DefaultText>Compagnon animal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2105</ID>
+      <DefaultText>Ennemis faibles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2106</ID>
+      <DefaultText>Hérauts de Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2107</ID>
+      <DefaultText>Prêtres de Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2108</ID>
+      <DefaultText>Lagufaeth</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9994,6 +10554,21 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2113</ID>
       <DefaultText>Aucun script d'IA sélectionné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2114</ID>
+      <DefaultText>La Marche blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2115</ID>
+      <DefaultText>L'intendante de Caed Nua a reçu une lettre pour vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2116</ID>
+      <DefaultText>Toutes les améliorations de liaison d'âme ont été effectuées.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10027,6 +10602,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2124</ID>
       <DefaultText>Attaque auto du compagnon animal</DefaultText>
       <FemaleText />
@@ -10052,13 +10632,108 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2129</ID>
+      <DefaultText>Bande de bavards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2130</ID>
+      <DefaultText>Sainte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2131</ID>
+      <DefaultText>Paire de témoins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2132</ID>
+      <DefaultText>Tour</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2133</ID>
+      <DefaultText>Batte divine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2134</ID>
+      <DefaultText>Douzaine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2135</ID>
+      <DefaultText>rien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2136</ID>
+      <DefaultText>la fourrure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2137</ID>
+      <DefaultText>la peau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2138</ID>
+      <DefaultText>l'oreille</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2139</ID>
+      <DefaultText>la bouche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2140</ID>
+      <DefaultText>l'œil</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2141</ID>
+      <DefaultText>le nez</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2142</ID>
+      <DefaultText>{0}, valeur {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2143</ID>
       <DefaultText>Description</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2144</ID>
+      <DefaultText>Chambre de Concelhaut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2145</ID>
+      <DefaultText>Laboratoire de Tanoss</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2146</ID>
+      <DefaultText>Laboratoire de Pelden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2147</ID>
+      <DefaultText>Laboratoire de Sabel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2148</ID>
       <DefaultText>Invoque {0} de :</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2149</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -10084,6 +10759,21 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2154</ID>
       <DefaultText>Comportement IA</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2155</ID>
+      <DefaultText>Laboratoire d'Uariki</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2156</ID>
+      <DefaultText>Vers les falaises de Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2157</ID>
+      <DefaultText>Crägholdt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10127,8 +10817,48 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2166</ID>
+      <DefaultText>Atelier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2167</ID>
+      <DefaultText>Laboratoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2168</ID>
+      <DefaultText>Terrain de test</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2169</ID>
+      <DefaultText>Bureau de Galvino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2170</ID>
+      <DefaultText>Sources chaudes de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2171</ID>
       <DefaultText>{0} ajouté dans l'inventaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2172</ID>
+      <DefaultText>Cause l'affliction {1} {0} fois</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2173</ID>
+      <DefaultText>Être ressuscité pendant le combat {0} fois</DefaultText>
+      <FemaleText>Être ressuscitée pendant le combat {0} fois</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2174</ID>
+      <DefaultText>Inflige {0} {2} dégâts à {1} avec {3}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10167,6 +10897,31 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2182</ID>
+      <DefaultText>Paquet déchiré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2183</ID>
+      <DefaultText>Sources chaudes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2184</ID>
+      <DefaultText>Ruines naines</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2185</ID>
+      <DefaultText>Tour de guet naine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2186</ID>
+      <DefaultText>être civilisé {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2187</ID>
       <DefaultText>Imm.</DefaultText>
       <FemaleText />
@@ -10175,6 +10930,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <ID>2188</ID>
       <DefaultText>Immunisé !</DefaultText>
       <FemaleText>Immunisée !</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2189</ID>
+      <DefaultText />
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2190</ID>
@@ -10199,6 +10959,21 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2194</ID>
       <DefaultText>{0} une arme, pénalité de Vitesse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2195</ID>
+      <DefaultText>Grand hall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2196</ID>
+      <DefaultText>Arme liée à l'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2197</ID>
+      <DefaultText>Liaison d'âme établie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10249,6 +11024,51 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2207</ID>
       <DefaultText>Nécessite une Endurance supérieure à {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2208</ID>
+      <DefaultText>Maudit</DefaultText>
+      <FemaleText>Maudite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2209</ID>
+      <DefaultText>Tente de commandement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2210</ID>
+      <DefaultText>Cave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2211</ID>
+      <DefaultText>Infirmerie de campagne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2212</ID>
+      <DefaultText>Terrain d’entraînement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2213</ID>
+      <DefaultText>Terrain de test</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2214</ID>
+      <DefaultText>Laboratoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2215</ID>
+      <DefaultText>Atelier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2216</ID>
+      <DefaultText>Crägholdt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10317,6 +11137,16 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2231</ID>
+      <DefaultText>Échelle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2233</ID>
       <DefaultText>Reconnaissance</DefaultText>
       <FemaleText />
@@ -10349,6 +11179,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2239</ID>
       <DefaultText>Récupérer immédiatement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2240</ID>
+      <DefaultText>Résonance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10398,7 +11233,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2250</ID>
-      <DefaultText>Le mode Histoire s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Quand le mode Histoire est actif, la composition des batailles est la même qu'en difficulté Normale, mais les mécaniques de jeu sont biaisées en faveur du joueur. Le niveau des ennemis, leurs dégâts, leurs temps de récupération et la durée des effets hostiles sont tous pire que de coutume et il leur est beaucoup plus difficile de réaliser des Critiques. Les membres du groupe réalisent des Critiques plus facilement contre les ennemis de faible Endurance et le groupe peut transporter autant de matériel de Campement qu'il le souhaite.</DefaultText>
+      <DefaultText>Le mode Histoire s'adresse aux joueurs qui sont plus intéressés par l'exploration et le développement de l'intrigue plutôt que par le défi des combats. Quand le mode Histoire est actif, la composition des batailles est la même qu'en difficulté Normale, mais les mécaniques de jeu sont biaisées en faveur du joueur. En outre, le groupe peut transporter un nombre illimité de fournitures de Campement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10472,6 +11307,16 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2265</ID>
+      <DefaultText>Faille de Cayron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2266</ID>
+      <DefaultText>Cristal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2267</ID>
       <DefaultText>L'IA des personnages n'utilisera pas de sorts ou de compétences.</DefaultText>
       <FemaleText />
@@ -10492,6 +11337,16 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2271</ID>
+      <DefaultText>Faille de Cayron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2272</ID>
+      <DefaultText>Marche blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2273</ID>
       <DefaultText>Vole {1} sorts de Niveau {0} ou moins</DefaultText>
       <FemaleText />
@@ -10499,6 +11354,26 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2274</ID>
       <DefaultText>A volé {0} à {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2275</ID>
+      <DefaultText>Autel d'Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2276</ID>
+      <DefaultText>Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2277</ID>
+      <DefaultText>Camp de fanatiques Ondrites</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2278</ID>
+      <DefaultText>Banquises glacées</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10514,6 +11389,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2281</ID>
       <DefaultText>Écran du menu suivant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2282</ID>
+      <DefaultText>Mare</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10562,8 +11442,53 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2292</ID>
+      <DefaultText>Mines de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2293</ID>
+      <DefaultText>Temple d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2294</ID>
       <DefaultText>Écran du menu précédent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2295</ID>
+      <DefaultText>Poste de commandement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2296</ID>
+      <DefaultText>Chenils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2297</ID>
+      <DefaultText>Cour de forage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2298</ID>
+      <DefaultText>Équipement de siège</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2299</ID>
+      <DefaultText>Porte ouest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2300</ID>
+      <DefaultText>Cimetière</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2301</ID>
+      <DefaultText>Porte frontale</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10607,8 +11532,18 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2310</ID>
+      <DefaultText>Fort du Fléau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2311</ID>
       <DefaultText>{0} Temps de récitation de la Phrase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2312</ID>
+      <DefaultText>Grand magasin d'Hamond</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10722,8 +11657,143 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2337</ID>
+      <DefaultText>Abbaye de la Lune déchue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2338</ID>
+      <DefaultText>Salles de la Présence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2339</ID>
+      <DefaultText>Hanche de squelette géant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2340</ID>
+      <DefaultText>Piscine de l'onction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2341</ID>
+      <DefaultText>Chambre des larmes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2342</ID>
+      <DefaultText>La voie navigable en crue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2343</ID>
+      <DefaultText>Salles du Silence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2344</ID>
+      <DefaultText>Chambre de la Lune déchue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2345</ID>
+      <DefaultText>Salle de la Vague de la Marée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2346</ID>
+      <DefaultText>Les quartiers de l'abbé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2347</ID>
+      <DefaultText>Les quartiers de la crête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2348</ID>
+      <DefaultText>La salle de la crête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2349</ID>
+      <DefaultText>La librairie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2350</ID>
+      <DefaultText>La voûte des pensées oubliées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2351</ID>
+      <DefaultText>Le Voile des larmes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2352</ID>
+      <DefaultText>Le Reliquaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2353</ID>
+      <DefaultText>Cage thoracique de squelette géant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2354</ID>
+      <DefaultText>Main de squelette géant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2355</ID>
+      <DefaultText>Jambe de squelette géant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2356</ID>
+      <DefaultText>Les passages d'Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2357</ID>
+      <DefaultText>Vallon de la Pierre blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2358</ID>
+      <DefaultText>Ruine à demi enfouie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2359</ID>
+      <DefaultText>Tour ancienne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2360</ID>
+      <DefaultText>Campement d'adeptes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2361</ID>
       <DefaultText>Efficacité de l'armure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2363</ID>
+      <DefaultText>Fragment de Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2364</ID>
+      <DefaultText>Fragment de Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2365</ID>
+      <DefaultText>Sans-yeux gelé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10767,8 +11837,73 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2374</ID>
+      <DefaultText>Quartiers du contremaître</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2375</ID>
+      <DefaultText>Mines de soufre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2376</ID>
+      <DefaultText>Corps de Sameth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2377</ID>
+      <DefaultText>Puits de la mine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2378</ID>
+      <DefaultText>Effondrement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2379</ID>
+      <DefaultText>Lac de Pierre blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2380</ID>
+      <DefaultText>Maison d'Haddi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2381</ID>
+      <DefaultText>Grange carbonisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2382</ID>
+      <DefaultText>Site de l'avalanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2383</ID>
+      <DefaultText>Piédestal isolé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2384</ID>
+      <DefaultText>Grotte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2385</ID>
+      <DefaultText>Camp de pillards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2386</ID>
       <DefaultText>réglé sur {0} par {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2387</ID>
+      <DefaultText>Pile de bûches</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10782,6 +11917,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2390</ID>
+      <DefaultText>Décombres de Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2391</ID>
       <DefaultText>Restaure {0} utilisation de {1}</DefaultText>
       <FemaleText />
@@ -10789,6 +11929,36 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2392</ID>
       <DefaultText>Restaure {0} utilisations de {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2393</ID>
+      <DefaultText>Clairière</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2394</ID>
+      <DefaultText>Maison commune des vithracks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2395</ID>
+      <DefaultText>Quartiers des brutes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2396</ID>
+      <DefaultText>Nids de vithracks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2397</ID>
+      <DefaultText>Champignons étranges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2398</ID>
+      <DefaultText>Chambres d'attente</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10837,6 +12007,41 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2408</ID>
+      <DefaultText>Archive naine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2409</ID>
+      <DefaultText>Forge aux obus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2410</ID>
+      <DefaultText>Ascenseur de l'artillerie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2411</ID>
+      <DefaultText>Chambre de polissage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2412</ID>
+      <DefaultText>Quartiers du Maître des potions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2413</ID>
+      <DefaultText>Chambre de maintenance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2414</ID>
+      <DefaultText>Fort du Fléau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2415</ID>
       <DefaultText>Icônes d'action sur les portraits</DefaultText>
       <FemaleText />
@@ -10867,38 +12072,138 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
       <FemaleText>{0} sera occupée pendant {1}.</FemaleText>
     </Entry>
     <Entry>
+      <ID>2421</ID>
+      <DefaultText>Brut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2422</ID>
+      <DefaultText>La Marche blanche : Partie 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2423</ID>
-      <DefaultText>Eyeless</DefaultText>
+      <DefaultText>Sans-yeux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2424</ID>
+      <DefaultText>Sommet de l'abbaye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2425</ID>
+      <DefaultText>Remparts de l'abbaye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2426</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2427</ID>
+      <DefaultText>Pillars of Eternity : La Marche blanche Partie II disponible !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2428</ID>
+      <DefaultText>Récupérez votre copie dès aujourd'hui !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2430</ID>
-      <DefaultText>{0} {1}</DefaultText>
+      <DefaultText>{1} {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2431</ID>
+      <DefaultText>Falaises de l'abbaye</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2432</ID>
-      <DefaultText>{0} with at least {1} Endurance</DefaultText>
+      <DefaultText>{0} avec au moins {1} en Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2433</ID>
-      <DefaultText>{0} with less than {1} Endurance</DefaultText>
+      <DefaultText>{0} avec moins de {1} en Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2434</ID>
-      <DefaultText>Prevent {1} ({0} times)</DefaultText>
+      <DefaultText>Empêche {1} ({0} fois)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2435</ID>
-      <DefaultText>Lord Byrnwigar's forces have been spotted approaching the keep. They will arrive soon!</DefaultText>
+      <DefaultText>Les forces du seigneur Byrnwigar ont été aperçues s'approchant du donjon. Elles seront bientôt là !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2436</ID>
-      <DefaultText>Byrnwigar's Forces</DefaultText>
+      <DefaultText>Forces de Byrnwigar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2438</ID>
+      <DefaultText>Vous avez installé Pillars of Eternity : La Marche blanche Partie 2. Vous pourrez y accéder une fois que vous aurez complété l'histoire principale de la Partie 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2439</ID>
+      <DefaultText>Vous avez terminé Pillars of Eternity : La Marche blanche Partie 1. Pour commencer le prochain chapitre de l'histoire, reposez-vous dans un endroit de votre choix situé en dehors de la Marche blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2440</ID>
+      <DefaultText>Chemin du Nord</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2441</ID>
+      <DefaultText>Salle commune</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2442</ID>
+      <DefaultText>Escaliers vers le parapet de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2444</ID>
+      <DefaultText>Village de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2445</ID>
+      <DefaultText>Cercle rituel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2446</ID>
+      <DefaultText>Vous pouvez demander l'aide des ogres crag en utilisant le Cor de bataille de Beregan dans la Faille de Cayron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2447</ID>
+      <DefaultText>Vous pouvez demander l'aide des canons de la Batterie de Durgan en utilisant la compétence Explosion de canon lourd dans la Faille de Cayron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2448</ID>
+      <DefaultText>Vous pouvez demander l'aide des Readcerans en utilisant la compétence Trébuchet de poix bouillante dans la Faille de Cayron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2449</ID>
+      <DefaultText>Vers la Tour ouest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2450</ID>
+      <DefaultText>Chaudière gravée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
