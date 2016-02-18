@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +23,7 @@ Cela ressemble plus à un ruisseau qu'à une cascade.</DefaultText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>[Examine the water.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,12 +33,12 @@ Cela ressemble plus à un ruisseau qu'à une cascade.</DefaultText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>[Take a drink.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>[Leave.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,22 +60,22 @@ En dehors de son cours inversé, elle semble ordinaire.</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>[Ignore the pain]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>[Resist the illusion.] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>[Focus your senses, and seek out the edges of the illusion.] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>[Yank your hand back.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,17 +97,17 @@ Une fois la gourde remplie, il la sort de l'eau et la referme.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>You hold the waterskin in place, despite the agony in your fingers. Skin gives way to flesh, and then to bones, and still you feel the waterskin in your grip.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>It's all an illusion, you realize - and with that realization, the pain fades. From one moment to the next, the enchantment falls away, leaving an ordinary hand holding an ordinary - and full - waterskin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>For a moment the illusion holds: You hold the waterskin in place, despite the agony in your fingers. Skin gives way to flesh, and then to bone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -119,27 +119,27 @@ La douleur s'estompe, puis disparaît. L'effrayante vision de votre main mutilé
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>The waterskin has been filled, and you may proceed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>But in the face of your surety, the enchantment weakens quickly. The pain fades, and from one moment to the next, the ghastly image of your melting hand is gone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>The waterskin is quite full, and you are able to draw it away without further incident.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>You palm a mouthful of the clear water, and take a careful sip.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>Despite its clean appearance, the water tastes brackish and foul. Whatever refreshment is drawn from it is surely not worth the rise of bile in your throat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
