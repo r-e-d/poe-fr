@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>314</EntryCount>
+  <EntryCount>351</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -97,69 +97,8 @@ La Liqueur de Fennlan est distillée exclusivement dans la petite ville réadcer
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1909</ID>
-      <DefaultText>Ce cercle épais en pierre sombre est délicatement gravé de différents symboles étranges. Une petite protubérance de pierre allant du centre vers le bord, pointe vers l'extérieur.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1910</ID>
-      <DefaultText>Sphère d'adra</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1911</ID>
-      <DefaultText>Cette sphère a été sculptée à partir d'un gros morceau d'adra. Elle est recouverte d'une gravure complexe et stylisée, donnant l'apparence d'un œil.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1912</ID>
-      <DefaultText>Disque d'adra</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1913</ID>
-      <DefaultText>Cet objet lourd et circulaire semble avoir été sculpté à partir d'adra vivant. L'énergie la traverse, faisant étinceler le disque vert déjà vibrant.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1914</ID>
-      <DefaultText>Cette tuile en forme d'enclume vous donne une sensation de froid dans la main. Un de ses côtés est creusé et érodé, mais l'autre est parfaitement lisse. Elle semble faite de fer.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1915</ID>
-      <DefaultText>Ce journal relié de cuir est embossé de l'image d'une clé. La plupart des pages sont emplies de taches de rouille brunes ou bien d'une écriture trop fine pour être lisible, mais vous parvenez à déchiffrer un passage vers la fin du journal :
-
-"... pas pu détecter la manière dont la porte avant s'ouvre, même après avoir forcé la tuile de fer sur le relief. Plus j'y réfléchis, plus je suis convaincu que le vieux vailien avait raison. Nous devrons l'éliminer, mais nous ne pouvons nous permettre d'agir avant d'avoir détruit la Forge blanche. Même son maigre savoir fut une révélation pour nous."
-
-"Et s'il a raison, nous devons espérer que le « cantec » dont il parle a été écrit quelque part. Nous avons décidé de lever le camp et de fouiller les environs à la recherche de livres, d'informations et tout ce qui peut être utile. C'est toujours mieux que de rester assis au milieu de ce blizzard."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1916</ID>
       <DefaultText>Ce bracelet est composé de nombreuses petites perles entrelacées et contenues par un beau fermoir en argent. Les perles forment ensemble une image stylisée de pics montagneux.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1917</ID>
-      <DefaultText>Cette corne a été autrefois montée sur un casque. Une fissure court sur toute sa longueur.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1918</ID>
-      <DefaultText>Liqueur de Fennlan</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1919</ID>
-      <DefaultText>Une bouteille de véritable - et coûteuse - Liqueur de Fennlan.
-
-La Liqueur de Fennlan est distillée exclusivement dans la petite ville de réadcerane de Fennlan, qui se trouve sur une promontoire rocheux surplombant un marais. Elle est distillée à partir de figues locales et aromatisée avec un mélange de plantes du marais, offrant un spiritueux apprécié aussi bien localement qu'à l'étranger.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1920</ID>
-      <DefaultText>Gemmes d'adra blanc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,11 +157,6 @@ La Liqueur de Fennlan est distillée exclusivement dans la petite ville de réad
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1932</ID>
-      <DefaultText>La gravure estampillée sur cette clé est en grande partie obscurcie par la rouille. Vous pouvez à peine distinguer ce qui pourrait être un marteau.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1933</ID>
       <DefaultText>Parchemin roulé</DefaultText>
       <FemaleText />
@@ -260,16 +194,6 @@ Je forme l'espoir que nous puissions continuer à faire affaire dans le futur.
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1939</ID>
-      <DefaultText>Stylet lagufaeth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1940</ID>
-      <DefaultText>Clé de l'armurerie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1941</ID>
       <DefaultText>Sceau de l'Épée</DefaultText>
       <FemaleText />
@@ -285,79 +209,6 @@ Je forme l'espoir que nous puissions continuer à faire affaire dans le futur.
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1944</ID>
-      <DefaultText>Totem du chasseur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1945</ID>
-      <DefaultText>Ce morceau de bois de la taille d'un crâne a été sculpté pour ressembler à un ours stylisé, s'avançant à grands pas. Une multitude de gravures décoratives et d'entailles sont dessinées à la surface.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1946</ID>
-      <DefaultText>Page de journal</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1947</ID>
-      <DefaultText>Jour 4 - Un autre cerf abattu aujourd'hui. Pas encore assez de peaux pour rentabiliser ce voyage.
-
-Jour 6 - Le blizzard approche. On s'arrête en attendant qu'il passe.
-
-Jour 9 - On l'a échappé belle avec deux ogres. On a eu de la chance qu'ils ne nous ont pas vus. 
-
-Jour 11 - Sur les traces d'un grand ours que Nurin a repéré depuis la crête. Cela pourrait même être Griscroc. Mon grand-père racontait des histoires à son sujet. Dire que nous pourrions être ceux qui le tuent enfin !
-
-Jour 12 - C'est vraiment Griscroc. Nous sommes dangereusement près de la caverne des ogres, mais nous avons piégé Griscroc et sa peau est trop précieuse pour ne pas tenter notre chance. À nous trois on devrait pouvoir se charger d'un ours seul.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1949</ID>
-      <DefaultText>Sarbacane</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1950</ID>
-      <DefaultText>Grimoire roussi</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1951</ID>
-      <DefaultText>Même si la jaquette de ce grimoire arbore des marques de brûlures en zig-zag, ses pages semblent parfaitement conservées.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1952</ID>
-      <DefaultText>Potion de la Porte de la mort de Barring</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1953</ID>
-      <DefaultText>Potion de Bouclier de flammes</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1954</ID>
-      <DefaultText>Potion de Réflexion d'arcane mineure</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1955</ID>
-      <DefaultText>Parchemin de la tempête de grêle</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1956</ID>
-      <DefaultText>Parchemin des missiles concussifs de Minoletta</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1957</ID>
-      <DefaultText>Parchemin de prière contre la confusion</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1958</ID>
       <DefaultText>Parchemin de restauration de résistance critique</DefaultText>
       <FemaleText />
@@ -370,36 +221,6 @@ Jour 12 - C'est vraiment Griscroc. Nous sommes dangereusement près de la cavern
     <Entry>
       <ID>1960</ID>
       <DefaultText>Dormeur gris</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1961</ID>
-      <DefaultText>Larme oubliée de l'être aimé</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1962</ID>
-      <DefaultText>Rédemptrice de St. Ydwen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1963</ID>
-      <DefaultText>Invocateur de tempête</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1964</ID>
-      <DefaultText>Linceul de nuit</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1965</ID>
-      <DefaultText>Coup fatal</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1966</ID>
-      <DefaultText>Bâton de pierre verte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,17 +287,17 @@ Jour 12 - C'est vraiment Griscroc. Nous sommes dangereusement près de la cavern
       <ID>1979</ID>
       <DefaultText>"Très estimé grand argentier Zoltun,
 
-Je vous écris avec colère et perplexité. N'ai-je pas été un client loyal envers vous ? N'ai-je pas toujours fait preuve d'équité dans mes transactions ? Pourtant après tant d'affaires mutuelles fructueuses, vos gens me repoussent comme si j'étais un vulgaire mendiant.
+Je vous écris avec colère et perplexité. N'ai-je pas été un client loyal envers vous ? N'ai-je pas toujours fait preuve d'équité dans mes transactions ? Pourtant après tant d'affaires mutuelles fructueuses, vos gens me repoussent comme si j'étais un vulgaire mendiant.
 
 Je suis arrivé à la Batterie il y a quinze jours, la barbe gelée et le ventre vide. À peine ai-je dételé les chevaux que votre Komendant Exandru est venu à ma rencontre. Le prêtre m'a prévenu que je serai le bienvenu mais, en revanche, que mes affaires 'profanes' ne le seraient pas. En d'autres termes, il me faudrait repartir à l'aube, mais avec mes chariots vides.
 
-Convaincu qu'il s'agissait d'une tactique de négociation, j'ai dit à Exandru qu'il serait évidemment dédommagé tout comme vous. Il est parti dans un soupir et lorsque je me suis présenté à la porte, c'est le Komendant Marunn, votre gardienne des armes, qui m'attendait ! Elle m'a dit de partir sur-le-champ, pour que mes mains « d'arracheur de pièces » ne souillent pas l'acier de Durgan.
+Convaincu qu'il s'agissait d'une tactique de négociation, j'ai dit à Exandru qu'il serait évidemment dédommagé tout comme vous. Il est parti dans un soupir et lorsque je me suis présenté à la porte, c'est le Komendant Marunn, votre gardienne des armes, qui m'attendait ! Elle m'a dit de partir sur-le-champ, pour que mes mains « d'arracheur de pièces » ne souillent pas l'acier de Durgan.
 
 Homme d'argent, je sais apprécier les négociations vigoureuses, mais j'avais froid, faim et je ne souhaitais pas affronter sa véhémence. Je lui ai donc montré la lettre envoyée par vos soins m'invitant à examiner votre stock d'acier de Durgan le plus récent.
 
-Le Komendant Marunn trancha la lettre en deux d'un coup de rapière ! Elle m'a alors prévenu que sa lame, une belle arme en effet, serait la dernière que je verrais si je ne retournais pas d'où j'étais venu sur le champ.
+Le Komendant Marunn trancha la lettre en deux d'un coup de rapière ! Elle m'a alors prévenu que sa lame, une belle arme en effet, serait la dernière que je verrais si je ne retournais pas d'où j'étais venu sur le champ.
 
-De ma vie, je n'ai jamais enduré une telle humiliation et une telle dépense pour me voir rentrer bredouille ! Je ne comprends pas ce qu'il s'est passé entre vous et vos associés, mais je vous conseille vivement de reprendre la situation en main. Je crains que d'autres komendants, tous ceux de la Batterie de Durgan, ne vous mènent à votre perte si vous n'agissez pas promptement et de manière décisive.
+De ma vie, je n'ai jamais enduré une telle humiliation et une telle dépense pour me voir rentrer bredouille ! Je ne comprends pas ce qu'il s'est passé entre vous et vos associés, mais je vous conseille vivement de reprendre la situation en main. Je crains que d'autres komendants, tous ceux de la Batterie de Durgan, ne vous mènent à votre perte si vous n'agissez pas promptement et de manière décisive.
 
 Cordialement,
 Mestre Anetto de Cezarro"</DefaultText>
@@ -490,11 +311,6 @@ Mestre Anetto de Cezarro"</DefaultText>
     <Entry>
       <ID>1981</ID>
       <DefaultText>Vous déroulez le parchemin et découvrez un inventaire d'armes et d'armures : épées, boucliers, plastrons et casques. Tous sont listés comme étant vendus à "Lücan de Dunryd". L'acte est signé par le Komendant Zoltun, Argentier de la Batterie de Durgan.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1982</ID>
-      <DefaultText>Bâton de conjuration de Llengrath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,7 +411,7 @@ Grynt cultivait une réputation d'ennemi implacable et imbattable, dans la mesur
 
 Mecgrun, un fameux combattant, avait la réputation de faire preuve de pragmatisme et d'ingéniosité, et ce bouclier entre ses mains était autant une arme que sa lame. Mecgrun avait une affection particulière pour l'affrontement avec des lanceurs de sorts, son bouclier pouvant renvoyer les flèches ou les sortilèges des ennemis sur eux, et il suffisait généralement de porter un coup au visage avec la Barricade pour que les sorts ne cessent.
 
-Tandis que leurs cousins Ungradr continuèrent à régner sur la région des Eaux gelées, les Badgradr ne survécurent pas à la guerre du Défi. Mecgrun est mort au cours de la bataille de la Baie du défi, et son bouclier passa entre les mains d'une série de nobles maîtres avant de passer dans l'oubli.</DefaultText>
+Tandis que leurs cousins Ungradr continuèrent à régner sur la région des Eaux gelées, les Badgradr ne survécurent pas à la guerre du Défi. Mecgrun est mort au cours de la bataille de la Baie du Défi, et son bouclier passa entre les mains d'une série de nobles maîtres avant de passer dans l'oubli.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -702,29 +518,8 @@ Que ce soit pour des raisons esthétiques ou fonctionnelles, Galvino dota le vis
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2019</ID>
-      <DefaultText>Selon la légende, ce bouclier était l'un des douze qui furent conçus pour un petit groupe de paladins de l'Ordre des Aimables voyageurs. Se nommant  les Tours, les paladins se chargeaient eux-mêmes de protéger les petites villes et villages éloignés groupés le long des contreforts de la Marche blanche.
-
-Bien que peu nombreux, les paladins étaient connus pour leur indéfectible dévouement, avançant promptement pour affronter n'importe quelle menace à l'encontre des innocents voyageurs. Ceux qui eurent la chance de combattre aux côtés de ces guerriers dirent souvent qu'ils avaient l'impression que des coups normalement mortels glissaient sans heurt sur leur armure, et prétendaient que les paladins leur avaient apporté la fortune.
-
-Au fil des ans, chacun des paladins succomba à l'âge ou par l'acier, jusqu'à ce qu'il n'y en ait plus qu'un. La dernière Tour devint une figure légendaire de plein droit, menant une patrouille esseulée le long des routes orientales du Dyrwood.
-
-On dit que ce bouclier a été remonté du lac des Tombes englouties par un villageois de Bonne Espérance. Le bouclier cabossé est tout de même d'excellente facture, même si la peinture verte de sa tour héraldique s'est écaillée à divers endroits.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2020</ID>
       <DefaultText>Sur une face de ce disque de pierre, les gravures dépeignent une épée. Au dos, trois excroissances ressortent de sa surface parfaitement polie.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2021</ID>
-      <DefaultText>Sur une face de ce disque de pierre, les gravures dépeignent un bouclier. Au dos, deux excroissances ressortent de sa surface parfaitement polie.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2022</ID>
-      <DefaultText>Des gravures de ce côté de la pierre dépeignent un casque. Sur le revers, une saillie semble sortir de sa surface polie par des mains expertes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -738,22 +533,8 @@ On dit que ce bouclier a été remonté du lac des Tombes englouties par un vill
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2025</ID>
-      <DefaultText>Commandant Baelorin,
-
-Rendez-vous à Crägholdt en toute hâte. Concelhaut ne se séparera pas du Phylactère engwithan de son plein gré, mais vous devez l'obtenir par tous les moyens nécessaires. Sachez que toutes les tentatives précédentes visant à récupérer l'artefact se sont soldées par de cuisants échecs. On sait très peu de choses sur le phylactère, à part qu'il est presque indestructible. En gardant tout cela à l'esprit, je vous conseille d'utiliser vos importantes forces pour assiéger Crägholdt, et une fois Concelhaut mort, vous pourrez récupérer le phylactère dans les décombres de sa tour. Livrer l'artefact est votre mission principale, mais une preuve définitive du décès de Concelhaut vous donnerait droit à un bonus substantiel.
-
-Ne lésinez pas sur la dépense pour mener à bien cette tâche, mais sachez que toute interférence extérieure constituera une rupture de cet accord. J'ai dépensé des ressources considérables pour m'assurer que les autorités locales ferment les yeux. Si qui que ce soit se montre trop curieux, il faudra agir en conséquence.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2026</ID>
       <DefaultText>Lettre non signée</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2027</ID>
-      <DefaultText>Déflecteur aegis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,172 +553,13 @@ Ne lésinez pas sur la dépense pour mener à bien cette tâche, mais sachez que
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2031</ID>
-      <DefaultText>"C'était à l'époque de Floren au Pied ferme que nous sommes venus à Clîaban Rilag, un ancien lieu des « Constructeurs », comme les appellent les autochtones. La vue était merveilleuse, une voie dans la montagne encadrée par une paire d'éléments macabres. Par le biais de quelque pratique d'illusion ou d'astuce, Floren put obtenir l'accès pour nos érudits afin qu'ils observent et consignent son contenu.
-
-Nous découvrîmes un genre de fonderie, comme nous et nos frères n'en avaient jamais vue. Suite à une observation minutieuse, nous avons déduit que les anciens avaient utilisé cet endroit pour extraire des âmes et les transférer dans des armures - un travail délicat et ambitieux, pourtant ce qu'ils avaient réussi à faire nous laissa abasourdis et pleins d'humilité. 
-
-Les « golems » étaient peut-être les plus impressionnants - des armures vivantes muées par de l'essence ! Nous avons perdu deux de nos compagnons lorsque les créatures nous surprirent, mais une fois qu'elles furent mises hors d'état de nuire, elles se révélèrent vraiment fascinantes.
-
-Conscients que nos hôtes ne nous permettraient plus, ainsi que tout autre voyageur curieux, de visiter ce lieu, nous prîmes des notes et des mesures méticuleuses de tout ce que nous avions vu, renonçant à nos repas ou au sommeil avant que le travail soit accompli.
-
-Nous fîmes notre rapport à Floren, qui fit l'éloge de notre travail et nous intima de nous mettre rapidement en chemin. Car si un tel lieu est abandonné dans la forêt, qui peut dire quels autres mystères ces dieux et ces habitants ont laissé en ces terres étranges et sauvages ?"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2032</ID>
-      <DefaultText>Préceptes et proverbes d'Abydon</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2033</ID>
-      <DefaultText>"À chaque travail correspond une pratique. Armez-vous de compétence et modérez vos travaux avec patience.
-
-Attaquez uniquement lorsque votre médium est prêt. Ne travaillez pas la plaque à froid.
-
-L'acier fragile est pire qu'un ami perfide. Modérez votre effort de peur qu'il ne se brise comme le verre.
-
-Les imbéciles encensent l'apparence, mais le maître encense la force. 
-
-La vraie vertu gît dans le travail bien fait. L'acier soudé devra être plié pas moins de sept fois.
-
-Le forgeron le plus raffiné ne pourra travailler des métaux médiocres. Attaquez-vous à des aciers qui auront été correctement traités au charbon.
-
-Une forge de chaleur inégale est comme une pièce emplie de discorde. Ne la laissez pas pervertir votre métal.
-
-Comme les coups du marteau parlent à l'acier, la couleur de l'acier parle au forgeron. 
-
-L'acier chauffé est comme un bébé, fragile et facilement corruptible. Maniez-le avec douceur, de peur que la précipitation ne le torde et le déforme.
-
-Ne négligez pas le travail qui ne se voit pas, car alors une tige médiocre pourra briser la lame.
-
-Le forgeron avisé travaille avec soin et ne recuit qu'une seule fois. Le forgeron négligent se lamente de trouver des défauts après que l'acier a été durci et adouci.
-
-Comme une lame est plongée dans de multiples chaleurs, le travail est fait dans le temps voulu."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2034</ID>
       <DefaultText>Sur la liaison des âmes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2035</ID>
-      <DefaultText>Les marges de ce texte sont recouvertes de notes et de références. Les pages tachées d'encre semblent avoir été très utilisées dans des temps reculés.
-
-"La suppression et le transfert des âmes est une pratique à la fois ancienne et sophistiquée. Il est clair que les Engwithans sont passés maîtres de cette pratique, même si peu de détails leur ont survécu."
-
-Quelqu'un a gribouillé « Annales des Pargrunen, pp 382-6 » sous ce paragraphe.
-
-"On sait que la suppression d'une âme est un processus difficile, nécessitant une main experte et des outils précis pour espérer réussir. Des tentatives initiales sur un panel de cent trente-huit chèvres ont laissé la plupart des sujets avec des âmes mutilées ou fracturées. Dans deux cas parmi les onze dont l'âme a été retirée avec succès, l'essence s'est dissipée avant que les savants ne puissent la capturer."
-
-Les mots « transfert vers un vaisseau propriétaire » sont écrits et soulignés dans la marge.
-
-"Le processus nécessite des matériaux conducteurs - du cuivre et de l'adra, spécifiquement. L'immersion dans l'eau est importante pour s'assurer que l'âme soit tirée d'une manière régulière et uniforme, sans distorsions ni interruptions. Une âme déformée est, au mieux, inutile, et au pire, imprévisible."
-
-Une flèche pointe depuis ce paragraphe vers une note froissée : « Bassin d'extraction dans C.R. : 5.5 m de large par 90 cm de profondeur. »
-
-"Depuis, nous avons maîtrisé le processus de transfert d'âme et avons observé les bénéfices d'infuser le travail forgé avec l'essence des animaux et créatures plus sauvages. Il reste à déterminer si nous obtiendrions de plus grands bénéfices en utilisant les âmes des êtres civilisés, où nous pourrions obtenir les sujets appropriés, et à quel point nous voudrions garder la personnalité et l'autonomie intactes dans ces cas."
-
-Une série de notes s'enroule autour et sous ce paragraphe, commençant par « criminels, prisonniers de guerre, volontaires ? » et finissant par « Gardiens des Forges » en lettres capitales.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2036</ID>
       <DefaultText>Information de production</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2037</ID>
-      <DefaultText>"Voici un décompte de la production du mois :
-
-Vingt épées longues, quinze haches, douze marteaux, sept masses, deux fléaux.
-
-Sept armures complètes (pour les Gardiens des Forges). Trois ensembles d'armures traditionnels.
-
-Si les komendants font des remarques sur le taux de production, rappelez-leur cordialement que nous avons reçu d'eux trois commandes de travail différentes.
-
-- Vasel, Maître Forgeron de la Batterie de Durgan"
-
-Une note d'une autre main est écrite au bas de la page : 
-
-"Qu'est-ce que peut faire Exandru avec autant de Gardiens des Forges ? Gardez un œil sur lui. - M"</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2038</ID>
-      <DefaultText>Les aventuriers des quatre coins d'Eora partent dans les Terres vivantes à la recherche de la gloire et de la fortune. Antonino voulait les voler.
-
-Il a acquis une réputation de voleur rusé dans Biageppe, mais une réputation est la dernière chose dont a besoin un voleur rusé. Alors il a quitté Biageppe et les Républiques de Vailia pour de nouvelles opportunités dans les Terres vivantes, emmenant avec lui sa bourse et des habits de rechange.
-
-Malheureusement, Antonino découvrit bien vite que les chasseurs de trésor endurcis des Terres vivantes étaient comme les marchands rondouillards des Républiques. En quelques semaines, il avait épuisé ses maigres ressources et n'avait rien gagné en regard de ses efforts. Désespéré, il tomba sur deux représentants à l'air rugueux de l'archipel du Feu éteint et les supplia de partager leur feu avec lui. Ils acceptèrent trop facilement.
-
-Lorsque les bandits agirent, Antonino était prêt. Il subtilisa le pistolet de l'un et tira sur l'autre. Le premier assaillant s'avançant, il appuya une deuxième fois sur la gâchette et entendit un bruit sourd. Tandis que son assaillant riait, Antonino se recula et frappa la tête chauve de l'homme avec son arme. Le bandit s'écroula, mort sur le coup.
-
-Antonino devint finalement un voleur prospère et redouté et le sujet de nombreux contes de veillées. Même si sa fortune croissait, il conserva le pistolet, une solide pièce de métal renforcé qui lui servit toute sa carrière.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2039</ID>
-      <DefaultText>Le royaume elfique de Kulklin fut en guerre contre le Royaume d'Aedyr pendant presque deux siècles avant que les deux puissances ne fusionnent. Au cours de cette période, un grand nombre des plus terribles conflits s'embrasèrent le long de Cythwood, où les deux puissances partageaient une frontière.
-
-Les elfes de Cythwood utilisèrent la jungle locale à leur avantage et devinrent rapidement célèbres pour leurs tactiques rusées et violentes. Les tirailleurs abattaient des arbres derrière les forces d'invasion aedyranes tandis que les druides en faisaient pousser sur leur chemin, déroutant et paralysant leurs ennemis. Ils accompagnaient souvent ces manœuvres par des attaques dévastatrices et foudroyantes, entourant les pelotons perdus et emportant les retardataires dans la forêt. Ils s'étaient rendus particulièrement célèbres en pendant leurs victimes aux arbres pour décourager des attaques ultérieures.
-
-Les Kulklin du Cythwood étaient rapides et improvisaient des attaques en très peu de temps, entre autres grâce à leur utilisation des outils du quotidien, comme des haches, des couteaux et des arcs, comme armes de guerre. Les haches telles que Wodewys auraient servi aussi bien contre les gens que les arbres.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2040</ID>
-      <DefaultText>Ce sabre appartenait au premier compagnon de la Prime du pendu, un fameux navire pirate qui sillonnait l'archipel du Feu éteint il y a trois siècles. La légende dit que l'équipage se saisit d'une galère d'esclaves et, après avoir tué ses maîtres, décida de vendre les esclaves au port suivant. Un des esclaves, un vieil homme au visage marqué et aux yeux noirs perçants, s'avança et exigea que lui et ses compagnons soient libérés.
-
-Les pirates rirent et refusèrent, mais le vieil homme insista. Il les avertit que de terribles fléaux et châtiments les attendaient, ils refusèrent encore. Lorsqu'il éleva la voix de colère, le premier lieutenant dégaina son sabre et se jeta sur lui. Une bile verte et putride se déversa de la blessure, remontant le long du sabre sous le regard horrifié des marins. La corruption se répandit du buste de l'esclave agonisant jusqu'au sabre et au bras du premier lieutenant, emplissant ses veines de venin et sa chair de vermine grouillante.
-
-Le reste de l'équipage se dépêcha de ramener le navire à terre et s'enfuit, laissant les esclaves s'échapper et le premier lieutenant pourrir près de sa lame souillée.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2041</ID>
-      <DefaultText>Ashfall fut l'une des colonies aedyranes les plus âprement disputées dans le Dyrwood, et Baldwen Strangbrod eut l'honneur d'être nommé thayn à cet endroit. Cependant, il s'inquiétait du sort de ses deux enfants, qui ne montraient que très peu de ses aptitudes martiales.
-
-Il engagea un sorcier vailian pour l'assister dans la formation de ses enfants, et celui-ci fabriqua un bourdon à cet effet. Il promit que les projectiles du bourdon étaient assez modérés pour éviter de blesser gravement les héritiers du thayn mais que l'arme révèlerait, dans le temps, la nature de leur faiblesse.
-
-Le bourdon fonctionna exactement comme l'avait promis le sorcier. Pourtant après des mois d'entraînement, les enfants de Baldwen n'étaient pas meilleurs au combat, mais la moitié d'Ashfall connaissait leurs faibles parades et leurs angles morts. Lorsque les deux héritiers tombèrent dans un assaut glanfathan, le sorcier s'enfuit en prenant le Regard doré avec lui.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2042</ID>
-      <DefaultText>Curoc était un noble aedyran de Readceras qui possédait six cents acres de champs de vorlas. Il se considérait comme un homme pieux, et ses voisins et les métayers le connaissaient comme un fervent dévot de Woedica. Il travailla aux côtés de ses métayers et conserva des relevés méticuleux sur la production et les ventes. Pourtant il était également connu pour son caractère sévère et sa cruauté envers les fumistes. Il portait une badine qu'il abattait sauvagement sur tout ouvrier pris en flagrant délit de flânerie ou à la traîne.
-
-Pourtant il était particulièrement apprécié du gouverneur, qui fermait les yeux sur ses excès.
-
-Un jour, Waidwen l'approcha alors qu'il administrait un châtiment particulièrement sauvage. Waidwen, qui venait de vivre sa rencontre avec Éothas, exigea que Curoc libère sa victime. Lorsque le seigneur refusa, Waidwen demanda des détails sur ce qu'avait fait le métayer pour mériter un tel traitement.
-
-"Il a négligé ses devoirs dans le champ," répondit Curoc. "Chaque jour, il ramasse moins, et pourtant il profite de la protection de mon domaine."
-
-"Faut-il s'étonner que le traitement sévère de cet homme le rende incapable de remplir ses fonctions ? Donnez-lui une semaine de repos. Il reviendra à votre service comme régénéré", dit Waidwen.
-
-Curoc ricana. "Vous récompenseriez son indolence ! C'est mon droit et ma responsabilité de le punir pour ses erreurs."
-
-"Quelle autorité vous a donné un tel pouvoir sur cet homme ?" Demanda Waidwen.
-
-"Woedica, la Garante des serments. C'est elle qui m'a placé au-dessus du fermier en tant que son seigneur et employeur et elle m'a ordonné de la servir en le punissant."
-
-Mais Waidwen persista. "L'hiver calme n'engendre-t-il pas le printemps fertile ? Nous devons à la clémence d'Éothas de pouvoir ressusciter à chaque nouvelle vie et de voir chaque matin être restauré. Et c'est le cycle d'Éothas qui bénit vos champs. Je vous le dis à nouveau : libérez cet homme."
-
-Empli de colère, Curoc se tourne vers Waidwen et s'apprête à abattre sa badine. Et le bourdon se mit soudain à chauffer dans sa main. Il poussa un cri et le bourdon qu'il tenait s'enflamma. La flamme qui en jaillissait l'aveugla à l'instant, marquant son visage à la manière de la Reine brûlée.
-
-Curoc lâcha le bourdon fumant et se précipita auprès du gouverneur pour témoigner de ce qu'il avait vécu.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2043</ID>
-      <DefaultText>Langue envoûtante fut d'abord forgée en Rauatai comme une arme de duel et elle changea de mains dès lors des dizaines de fois. Sa pointe fourchue, sa lame ondulante et sa coloration bleue firent d'elle rapidement l'arme favorite des novices dont la confiance dépassait souvent leur compétence.
-
-Elle fut plus récemment remportée par Matapa, une jeune femme venant de l'une des riches familles de Tongira. La lame en main, elle déclara à ses parents qu'elle emmènerait Langue envoûtante avec elle pour aller chercher fortune à Tâkowa comme duelliste. Ses parents tentèrent de l'en dissuader, mais elle était résolue et ils ne purent que lui adresser à regret leurs félicitations et donnèrent une grande fête en son honneur.
-
-Après que Matapa eut bu tout son soûl de vin et qu'elle s'était gavée de homard au beurre et d'escargots de mer à la crème, sa mère la défia en duel. Matapa rit, mais sa mère lui fit la promesse, si elle gagnait, qu'elle recevrait le lendemain matin la moitié de la fortune familiale. Si elle perdait, elle rendrait Langue envoûtante sans une plainte. Matapa considéra sa mère, une petite femme, selon les standards aumaua, avec peu d'expérience de combat. Elle accepta et le duel commença, Matapa brandissant Langue envoûtante face à sa mère armée d'une épée d'entraînement en bois.
-
-La mère de Matapa était agile, et les coups et les ripostes de Matapa étaient rapides mais désordonnés. Sa mère la mena autour de la table du festin et jusque dans une cour sombre, où Matapa trébucha. Dans sa chute, Matapa passa Langue envoûtante dans la cuisse de sa mère tandis que la vieille femme tenait son épée de bois sur le cou de la jeune femme. Les observateurs se prononcèrent pour un match nul et Matapa reçut son héritage au prix de sa précieuse épée. Les parents de Matapa vendirent discrètement la lame à un marchand en partance pour le Dyrwood et Matapa, dégrisée par sa perte, abandonna ses ambitions de duelliste pour devenir à la place une dramaturge à succès.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -974,11 +596,6 @@ Alors que le siège se prolongeait, le maître du port fit appel à d'autres arc
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2049</ID>
-      <DefaultText>Cet arc est aussi lisse et léger qu'un bois flottant, et pourtant aussi dur qu'un mât solide. Il dégage de la chaleur dans vos mains, comme si l'un de ses précédents propriétaires venait de vous le passer. En le tenant, vous pouvez presque ressentir les embruns marins sur vos joues et entendre les vagues fouettées par le vent dans vos oreilles.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2050</ID>
       <DefaultText>Les ombres suintent et se regroupent autour de vous, emplissant votre esprit des souvenirs de furtives expéditions, des réunions clandestines et du tumulte des secrets. Vous entendez les murmures des hommes et des femmes qui se sont faufilés, ont frappé et ont survécu à la puissance de cette arme.</DefaultText>
       <FemaleText />
@@ -994,11 +611,6 @@ Alors que le siège se prolongeait, le maître du port fit appel à d'autres arc
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2053</ID>
-      <DefaultText>Voile de nuit fut finalement rendue à la Batterie de Durgan par une jeune prêtresse de Wael qui reçut de son dieu une vision de la création de la masse. Vasel, le forgeron qui la fabriqua, était un homme mûr passé maître dans sa spécialité à la Batterie, mais il reconnut immédiatement la masse. Lorsqu'il demanda à la prêtresse pourquoi elle l'avait rapportée, la jeune femme dit, « Toute chose trouvée peut être perdue à nouveau, telle est la sagesse de l'Obscurci ». Là-dessus, elle s'en alla.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2054</ID>
       <DefaultText>Un explorateur aedyran en Eir Glanfath traversa une rangée de piliers d'adra près de ce qui est aujourd'hui le val du Réconfort. N'ayant jamais vu une telle profusion d'adra vivant, il pensa immédiatement à l'Ine Sycthrúa qui abrite les âmes de la noblesse aedyrane et décida que ces piliers devaient forcément détenir quelque chose de magnifique. Il cisela un morceau d'adra et le rapporta à Dunryd pour des examens approfondis.</DefaultText>
       <FemaleText />
@@ -1006,11 +618,6 @@ Alors que le siège se prolongeait, le maître du port fit appel à d'autres arc
     <Entry>
       <ID>2055</ID>
       <DefaultText>Le morceau d'adra fut placé sur un bâton et offert à Dame Rügfald, une des courtisanes favorites du fercönyng. Dame Rügfald était une amatrice de talent dans les arts ésotériques et célèbre à la cour pour ses démonstrations astucieuses mais ostentatoires. Cependant, le bâton de Pierre verte causa sa perte, elle invoqua accidentellement un fléau. La créature fut rapidement éliminée, mais pas avant qu'elle ait le temps de ruiner les plus belles tenues impériales. Bien que de nombreux historiens pensent que ce fut le gloussement intempestif du fercönyng qui condamna Dame Rügfald, le mal était fait et la bienséance exigea son retrait immédiat de la cour. Le seigneur et dame Rügfald furent envoyés vers un domaine lointain mais confortable dans la toute nouvelle capitale de la Nouvelle Dunryd. Malgré les protestations de son mari, dame Rügfald refusa de rendre le bâton de Pierre verte.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2056</ID>
-      <DefaultText>La rumeur de l'existence du bâton de Pierre verte, et de l'adra initialement volé d'Eir Glanfath, arriva finalement jusqu'aux tribus glanfathanes. Le sujet devint une revendication opportune pour les anamfatha et une pierre d'achoppement pour Admeth Hadret. Lorsque les rancœurs s'embrasèrent au moment de l'entorse faite aux Traités des « Dix ans », Hadret employa une équipe de chasseurs d'esprits glanfathans pour enquêter sur le pillage des ruines. Lorsqu'ils découvrirent la preuve de l'implication du fercönyng, Hadret fit don du bâton de Pierre verte aux anamfatha en guise de geste symbolique important.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1027,18 +634,8 @@ Je ressens le fonctionnement de votre esprit aussi bien que je pourrais sentir u
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2058</ID>
-      <DefaultText>Note de Tanoss</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2059</ID>
       <DefaultText>Note de Sabel</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2060</ID>
-      <DefaultText>Note de Pelden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1047,23 +644,8 @@ Je ressens le fonctionnement de votre esprit aussi bien que je pourrais sentir u
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2062</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2063</ID>
-      <DefaultText>Brûlure de l'âme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2064</ID>
       <DefaultText>Gel de l'âme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2065</ID>
-      <DefaultText>Cette épée est de bonne facture mais d'un style modeste. L'ornement unique est un motif de plume rayonnant depuis la poignée, et même ceci a été fabriqué avec un soin exquis, chaque barbelure et chaque tige forment une ligne droite sous vos doigts. La puissance et la chaleur émanent de cette lame.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1079,25 +661,6 @@ Je ressens le fonctionnement de votre esprit aussi bien que je pourrais sentir u
     <Entry>
       <ID>2068</ID>
       <DefaultText>Grimoire d'Uariki</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2069</ID>
-      <DefaultText>Grimoire de Sabel</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2070</ID>
-      <DefaultText>Clé du contremaître</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2071</ID>
-      <DefaultText>Une signature récurrente dans les pages de ce calepin indique qu'il appartenait à quelqu'un appelé Ixtli.
-
-Les pages contiennent plusieurs annotations. Certains paragraphes listent des collections d'objets et leurs valeurs supposées. D'autres pages sont griffonnées avec des notes à propos de l'endroit.
-
-De manière intéressante, l'une montre une carte des Bois de Russet où un étang gelé a été clairement marqué comme important.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1126,84 +689,8 @@ De manière intéressante, l'une montre une carte des Bois de Russet où un éta
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2077</ID>
-      <DefaultText>Armure de la liche</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2078</ID>
-      <DefaultText>Bébé lagufaeth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2079</ID>
-      <DefaultText>Cette petite créature vous regarde et émet un son strident. Sa peau iridescente vacille entre des tons violets et bleus.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2080</ID>
-      <DefaultText>Orbe nacré</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2081</ID>
-      <DefaultText>Cette boule nacrée est presque parfaitement sphérique. Elle tient confortablement dans votre main et est chaude au toucher.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2082</ID>
-      <DefaultText>Un nouveau vers est apparu une fois l'épée retirée du piédestal. On lit :
-
-"Cherchez l'agent tournoyant de cuivre, d'adra et de pierre
-Éveillez d'abord votre essence pour pouvoir expier."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2083</ID>
-      <DefaultText>De nouveaux vers rougeoient sur le métal. On lit :
-
-"Trouvez les collines ensoleillées où les morts someillent.
-Reposez-vous près de cette chair flétrissante ; inspectez le fruit de vos rêves."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2084</ID>
-      <DefaultText>La dernière partie du poème brille sur le long de la lame :
-
-"Sur les doigts du monde, adra forte et entière
-A genoux devant les piliers, réordonnez votre âme d'une prière."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2085</ID>
-      <DefaultText>Cet estoc a une lame harmonieuse et robuste qui s'effile en une pointe fine et acérée. Les grognements d'une douzaine d'âmes torturées résonnent depuis le métal, liant l'arme à la main de son porteur pour aussi longtemps que la malédiction persiste. 
-
-Quelques vers sont gravés le long de la lame :
-
-"Voici le destin du traître, au sommeil sans repos
-Tandis que le savoir de ses actes reste logé dans ses os.
-Mais pénitence sérieuse guérit l'homme de ses maux
-Et actions méritantes retiennent la main du bourreau."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2086</ID>
       <DefaultText>Crâne de Concelhaut</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2087</ID>
-      <DefaultText>Le crâne lévite comme maintenu par ses propres pouvoirs, claquant ses dents et roulant ses yeux incandescents. Vous détectez l'énergie de Concelhaut et son essence toujours liées à l'intérieur.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2088</ID>
-      <DefaultText>Tête d'Ulmar</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2089</ID>
-      <DefaultText>Ce sac en toile contient la tête du chef de la Société étincelante, Ulmar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1240,34 +727,6 @@ Vos condisciples se battent et complotent l'un contre l'autre. Vous seule reconn
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2095</ID>
-      <DefaultText>La plupart des pages restantes sont tâchées de boue, mais vous pouvez en déchiffrer une vers la fin du journal :
-
-"Folcsdag. Je me suis réveillée ce matin et j'ai vu que mes orteils étaient devenus bleus. J'ai utilisé le reste de mon fuel pour les réchauffer, mais il ne m'a fallu qu'une heure pour lancer le feu de camp cette fois. Quel progrès !
-
-J'ai dépassé un village hier et j'ai pensé à m'arrêter. Un lit douillet et un repas convenable auraient été du luxe après presqu'une semaine dans ces montagnes ! Mais je ne veux pas perdre la trace de mon jumeau d'âme, pas aussi proche du but.
-
-J'ai rêvé de la cave derrière la cascade la nuit dernière. Je pense que c'est là où je le trouverai - Je ne sais pas ce que ça pourrait vouloir dire d'autre. Mais je ferais mieux de-"
-
-La page suivante est manquante, et le reste est illisible.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2096</ID>
-      <DefaultText>Pelden,
-
-Vous êtes le plus talentueux de mes apprentis. Mais votre connaissance est à peine une page dans un des nombreux tomes de savoir que j'ai accumulé.
-
-Refrénez cet orgueil tant que vous ne l'avez pas mérité. Aucune autre faiblesse n'est plus fatale.
-
-Je peux quasiment voir vos mains trembler et votre visage s'empourprer en lisant ces lignes. Vous pensez que maîtriser quelques sortilèges basiques font de vous un disciple de valeur ? J'ai confectionné le bâton Parasitique quand j'avais la moitié de votre âge. 
-
-Et pendant que je travaillais, mes pairs complotaient contre moi.
-
-Vous avez peut-être surpassé les autres pour le moment, mais ils vont se liguer contre vous si vous leur donnez des raisons de le faire. Faites semblant de faire des erreurs pour dissimuler votre talent. Cachez votre malveillance avec des sourires. Sacrifiez votre vanité pour quelques précieuses années dans lesquelles vous survivrez peut-être assez longtemps pour mériter le titre de « sorcier ».</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2097</ID>
       <DefaultText />
       <FemaleText />
@@ -1296,11 +755,6 @@ Mais vous n'êtes pas accablée par une telle prétention. Vous voyez la magie p
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2101</ID>
-      <DefaultText>Fennlan</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2102</ID>
       <DefaultText>Délice de dos-moucheté</DefaultText>
       <FemaleText />
@@ -1308,11 +762,6 @@ Mais vous n'êtes pas accablée par une telle prétention. Vous voyez la magie p
     <Entry>
       <ID>2103</ID>
       <DefaultText>Civet de lapin de Stalwart</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2104</ID>
-      <DefaultText>Ynefer blanche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1493,11 +942,6 @@ Les Vailiens ont un nom plus long - et plus mélodique - pour cet arc, mais "Sab
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2140</ID>
-      <DefaultText>Piège d'Orbe chaotique</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2141</ID>
       <DefaultText>Tête de Meztla</DefaultText>
       <FemaleText />
@@ -1612,7 +1056,7 @@ Je dois d'abord me procurer plus de squelettes avant de faire une démonstration
     </Entry>
     <Entry>
       <ID>2169</ID>
-      <DefaultText>Comme si j'allais laisser des notes sur mes expériences pour que n'importe qui puisse les trouver ! Mais pendant que vous lisez ceci :
+      <DefaultText>Comme si j'allais laisser des notes sur mes expériences pour que n'importe qui puisse les trouver ! Mais pendant que vous lisez ceci :
 
 Uariki - si l'une de tes armes s'égare à nouveau par ici, je la garde pour moi.
 
@@ -1739,11 +1183,6 @@ Le roi donnait cette cape à ses enfants lorsqu'ils voyageaient, et des années 
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2181</ID>
-      <DefaultText>Les voleurs favorisent souvent les gants, les bottes et d'autres vêtements qui les rendent plus agiles et furtifs. Des gants comme ceux-ci sont confortables et moulants, et les pièces de cuir sur les doigts et les paumes aident le porteur à agripper tout ce qu'il veut - un rebord étroit, un gobelet inestimable, une dague aiguisée - plus facilement.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>2183</ID>
       <DefaultText>Cailatto, plus connu comme "le barde du bronze" ou simplement "Cai", était un incantateur et flutiste célèbre du Grand Empire de Vailia. Ses exploits avec les femmes sont encore plus fameux que ses talents musicaux, et bien qu'il affirmait que ses dons avec les femmes venaient de son charme inné, on ne le voyait jamais sans un certain anneau en argent - même lorsqu'il s'était dévêtu de tout le reste.
 
@@ -1852,16 +1291,16 @@ Ils n'étaient pas des personnages très intelligents quand ils portaient leurs 
 
 Je les ai testés dans des arts martiaux, mais là aussi il leur manque les bénéfices de la véritable raison. La Démone, bien sûr, s'en réjouit et se moque d'eux. C'est comme se vanter de battre des gamins en combat. 
 
-Si seulement j'avais mes vieilles machines !"</DefaultText>
+Si seulement j'avais mes vieilles machines !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2195</ID>
       <DefaultText>La note écartée dit :
 
-"Madiccho ! Trois semaines de dur labeur évaporées, et un châssis complètement articulé avec elles. 
+"Madiccho ! Trois semaines de dur labeur évaporées, et un châssis complètement articulé avec elles. 
 
-Ces matériaux vulgaires sont plus instables que prévu - mais pas moins chers ! 
+Ces matériaux vulgaires sont plus instables que prévu - mais pas moins chers ! 
 
 Je vais essayer un procédé plus lent. Plus d'électricité peut-être." 
 
@@ -1874,11 +1313,11 @@ Au bas de la page, un addendum dit :
       <ID>2196</ID>
       <DefaultText>Cette entrée écrite avec précipitation est tachée de points d'encre. 
 
-"Je refuse de continuer à perdre mon temps avec ces travaux de couture grotesques ! Le temps de travail passé à donner les plus faibles éclairs de vie à ces corps pourrissants est triplé avec les réparations. Vraiment, ils se déchirent aux coutures. 
+"Je refuse de continuer à perdre mon temps avec ces travaux de couture grotesques ! Le temps de travail passé à donner les plus faibles éclairs de vie à ces corps pourrissants est triplé avec les réparations. Vraiment, ils se déchirent aux coutures. 
 
 Le simple fait de les voir dans les couloirs en est venu à me dégoûter. Ils n'ont rien de la vitalité, l'intelligence et la coordination du sujet. Seulement une vulgaire obéissance. La chair n'a qu'une prise trop lâche sur l'essence, ça au moins c'est clair.
 
-Voilà pourquoi ces imbéciles à Brackenbury étaient enclins à mettre en gage ces spécimens à si bas prix ! Madiccho, quelle odeur !"</DefaultText>
+Voilà pourquoi ces imbéciles à Brackenbury étaient enclins à mettre en gage ces spécimens à si bas prix ! Madiccho, quelle odeur !"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1958,13 +1397,23 @@ L'autre côté ressemble à un poème, mais il est obscurci par la saleté.</Def
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2210</ID>
-      <DefaultText>Amplificateur de résonance de Galvino</DefaultText>
+      <ID>2211</ID>
+      <DefaultText>Galvino a créé cet étrange dispositif pour détecter les âmes ayant précédemment vécu à la Batterie de Durgan. Il émet une impulsion d'énergie générée par les souvenirs des fragments d'âmes récupérés par Galvino dans le morceau d'adra du dispositif. Les vies endormies de l'individu « résonnent » en amplifiant momentanément la conscience de leur existence précédente. Les sujets ne sont pas conscients de ce qui se passe, mais la gêne occasionnée peut être perçue à l'aide de lentilles spéciales ou par un Gardien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2211</ID>
-      <DefaultText>Galvino a créé cet étrange dispositif pour détecter les âmes ayant précédemment vécu à la Batterie de Durgan. Il émet une impulsion d'énergie générée par les souvenirs des fragments d'âmes récupérés par Galvino dans le morceau d'adra du dispositif. Les vies endormies de l'individu « résonnent » en amplifiant momentanément la conscience de leur existence précédente. Les sujets ne sont pas conscients de ce qui se passe, mais la gêne occasionnée peut être perçue à l'aide de lentilles spéciales ou par un Gardien.</DefaultText>
+      <ID>2213</ID>
+      <DefaultText>Grimoire des marées</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2216</ID>
+      <DefaultText>Le Bras du Vent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2220</ID>
+      <DefaultText>Un levier trouvé dans la tour ouest. Un rouage malformé est attaché à une extrémité.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1973,13 +1422,734 @@ L'autre côté ressemble à un poème, mais il est obscurci par la saleté.</Def
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>2522</ID>
-      <DefaultText />
+      <ID>2247</ID>
+      <DefaultText>La veste colorée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2248</ID>
+      <DefaultText>Mailles du chasseur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2250</ID>
+      <DefaultText>Gant de la Comtesse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2251</ID>
+      <DefaultText>Gantelets de briseur de siège</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2252</ID>
+      <DefaultText>Crâne de Maegfolc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2253</ID>
+      <DefaultText>Capuche de bourreau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2258</ID>
+      <DefaultText>Tâché de sang et chiffonné, ce tome a vu autant de conflits que son propriétaire. Ses profonds secrets ont été écrits à l'encre violette, des symboles presqu'illisibles enduits sur tout l'espace disponible sur le papier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2259</ID>
+      <DefaultText>Cristal Vithrack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2260</ID>
+      <DefaultText>Un cristal à la forme étrange. Quand il est tenu fermement, vous entendez une tonalité aiguë en émaner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2269</ID>
+      <DefaultText>Broche de nettoyage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2272</ID>
+      <DefaultText>Plastron du Gardien noir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2273</ID>
+      <DefaultText>Clé d'ornement cassée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2274</ID>
+      <DefaultText>Le métal de cette clé d'ornement révèle de profondes fêlures sur sa surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2275</ID>
+      <DefaultText>Clé de la crête de la vague</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2276</ID>
+      <DefaultText>Cette clé dont le manche ressemble à la crête d'une vague, a été sculptée à partir d'un cristal bleu foncé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2277</ID>
+      <DefaultText>Tête de Roedwith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2278</ID>
+      <DefaultText>Ce sac en toile de jute contient la tête de Roedwith, chef des Fidèles de Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2279</ID>
+      <DefaultText>Tête de Brynlod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2280</ID>
+      <DefaultText>Ce sac en toile de jute contient la tête de Brynlod, le célèbre pirate de l'archipel du Feu éteint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2296</ID>
+      <DefaultText>L'armure de Maneha renvoie à ses nombreux voyages et à ses expériences sur les routes et les vagues d'Eora. Elle incorpore des babioles en cuivre, les dents de créatures féroces, et une myriade de petits morceaux élégants dont Maneha s'était entichée durant ses aventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2313</ID>
+      <DefaultText>Steadfast est un fleuret à tranchant unique avec une garde recourbée et une poignée enroulée de fer. Même s'il n'est pas spécialement ouvragé, le talent de son fabricant saute immédiatement aux yeux de quiconque porte l'arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2314</ID>
+      <DefaultText>Le seul fils survivant d'un domestique, Adaryc Cendamyr était l'un des innombrables Readcerans à avoir rejoint les rangs de l'armée de Waidwen lorsque la guerre du Saint éclata. Malgré sa jeunesse et son manque d'expérience, Adaryc s'en sortit honorablement en combat et devint rapidement populaire parmi les autres soldats pour son bon sens, sa passion et sa loyauté. Poussé à honorer Waidwen, Adaryc prouva qu'il était un soldat discipliné et déterminé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2315</ID>
+      <DefaultText>Après une série de victoires chèrement acquises, la destruction de Waidwen annonça la retraite immédiate des forces readceranes de l'autre côté de la frontière. Située loin de l'avant-garde, la compagnie d'Adaryc se retrouva entraînée dans de violents combats alors que les forces triomphantes du Dyrwood fondaient sur leurs ennemis démoralisés. 
+
+Son commandant tombé au combat, Adaryc eut droit à sa première expérience de commandement en plein chaos. Adaryc et ses hommes repoussèrent l'ennemi assez longtemps pour que leur compagnie puisse rejoindre le corps principal de l'armée qui battait en retraite - mais au prix de nombreuses victimes. 
+
+Environ une année plus tard, Adaryc put revisiter le champ de bataille, et il retourna ensuite en Readceras en emportant les épées brisées de certains de ses frères d'armes tombés au combat. C'est à partir de ces vestiges brisés que fut forgée l'épée d'Adaryc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2316</ID>
+      <DefaultText>Adaryc avait gardé contact avec les survivants de son unité après la guerre. Même s'il s'était débattu contre des accès de mélancolie depuis son enfance, Adaryc était considéré comme un dirigeant capable et charismatique, dévoué à ses camarades. Il fut rapidement proposé qu'il devienne le dirigeant d'un collectif de guerriers soudés, unis non par leurs désirs de richesses, mais par leur devoir de respect envers leurs frères morts et leurs compatriotes. 
+
+Au début, la plupart des combats du Fléau de fer furent menés contre des compagnies de mercenaires qu'Adaryc jugeait dangereuses pour les campements qui bordaient la frontière readcerane. Au fil du temps, les nombreuses victoires du Fléau de fer, et la volonté apparemment inflexible d'Adaryc, attirèrent de nombreuses autres recrues dans la compagnie. Le Fléau de fer reçut rapidement le soutien de plusieurs éminentes familles, et la rumeur voulait même qu'il ait reçu la bénédiction des plus hautes instances en Readceras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2318</ID>
+      <DefaultText>Double dard est une arbalète de conception atypique : elle est faite pour tirer deux carreaux en même temps avant d'être rechargée. L'usage pratique d'une telle arme est relativement réduit par le poids supplémentaire qu'elle engendre. Cet objet avait cependant été construit à une fin très particulière.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2319</ID>
+      <DefaultText>Les sections locales de la guilde de la Balance empoisonnée, un groupe d'assassins Woedicans qui pensent que le monde est plus sûr si aucune entité ne possède trop de pouvoir, s'étaient étendues de l'Aedyr au Dyrwood dans les années précédant la Révolution dyrwoodane, et avaient continué leurs opérations depuis lors. 
+
+Darden Guthroc avait échoué dans sa première mission comme membre de la Balance empoisonnée dans la division de la Nouvelle-Heomar. Pas par manque de talent, mais plutôt pour n'avoir pas su parer aux imprévus qui avaient émaillé son attaque. Il avait traqué un jeune noble jusqu'à la demeure de son amante, et attendu toute la nuit sur un toit de l'autre côté de la route avec son arbalète.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2320</ID>
+      <DefaultText>Quand au petit matin, le noble émergea de la maison, le carreau empoisonné de Guthroc le frappa juste au-dessus du cœur. Néanmoins, le noble était de forte corpulence et la dose de poison se révéla insuffisante. L'homme se mit à courir à travers les rues de la Nouvelle-Heomar en hurlant et réveillant la moitié de la ville, y compris un apothicaire qui lui administra rapidement un antidote avant que le poison ne puisse faire totalement son effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2321</ID>
+      <DefaultText>La honte fut si profonde pour la Balance empoisonnée que Guthroc fut quasiment répudié. Mais les dirigeants savaient que Guthroc avait montré de belles promesses. Ils lui fabriquèrent une arbalète personnalisée capable de tirer deux carreaux en une seule fois, afin qu'il ne puisse plus jamais répéter cette erreur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2323</ID>
+      <DefaultText>Simple : c'est le mot qui vient à l'esprit pour décrire cette dague. Son manche banal est enroulé de cuir. Sa lame est en bronze. Elle n'a pas de marquage, de filigrane ou de gemme, et le métal n'est pas ouvragé. Elle semble bien conçue, mais elle est si ordinaire qu'il est difficile d'en juger. 
+
+En la portant, on ressent une sensation bizarre comme si quelque chose en elle était présent, ou peut-être seulement parce qu'il est difficile d'imaginer qu'un quelconque artisan ne puisse retirer que si peu de fierté dans son travail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2325</ID>
+      <DefaultText>Le cuir sur la poignée est devenu fragile et a commencé à se craqueler. Le lustre original de la lame s'est terni, et les reflets qu'elle laisse voir sont flous et confus.
+
+Une seconde rune apparaît à côté de la première. Mais la lame semble être encore en pire état malgré ce nouveau détail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2326</ID>
+      <DefaultText>Le tranchant de la lame a perdu énormément de son acuité originale. Trancher est rendu difficile, et elle semble bien plus appropriée pour décacheter des lettres que pour percer dans la chair. La poignée a commencé à s'effilocher considérablement.
+
+Une troisième rune est présente sur la lame désormais. C'est peut-être le symbole pour « émoussé ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2327</ID>
+      <DefaultText>La lame semble comme recouverte par un dense brouillard, elle ne brille pas plus qu'un vague souvenir maintenant. Il y a désormais de profondes éraflures sur toute sa surface, et il semblerait qu'à part les matériaux les plus doux, tout semble y laisser des marques. Des tâches de rouille se sont éparpillées sur la lame, et semblent se propager irrémédiablement. Elles mangent le métal comme une maladie dégénérescente. Le cuir sur la poignée a commencé à se dépouiller entièrement, et il est nécessaire de bien l'empoigner avec la paume avant chaque usage.
+
+Quatre runes sont visibles le long de la lame. Il semble de plus en plus probable qu'elles soient une sorte d'excuses écrites dans une langue morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2328</ID>
+      <DefaultText>La lame a subi une métamorphose totale. La dague est extraordinaire à tous les points de vue - elle semble être une prise de conscience transcendantale de ce qu'une dague peut être dans sa forme la plus pure et la plus parfaite. 
+
+Cinq runes courent sur la lame désormais, et leurs significations semblent s'infiltrer dans votre esprit lorsque vous les observez.
+
+"Survis, meurs, et renais à nouveau, libéré des anciennes besognes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2330</ID>
+      <DefaultText>Les meilleurs escrocs savent comment faire le spectacle. Ils charment avec leurs mots ou des tours de passe-passe, mais Elryn avait gagné sa vie grâce à son flair pour la mode. Fils de tailleur, Elryn avait repris les affaires de son père après son décès, mais avait vite découvert que son amour pour la couture surpassait de loin son désir de tenir des livres de compte, et il ne fallut pas longtemps avant qu'il ne se retrouve à la rue sans pouvoir pratiquer son art.
+
+Mais tout en faisant la manche, il remarqua qu'il gagnait plus que les autres mendiants, et finit par réaliser que c'était parce que la veste qu'il portait - une qu'il avait confectionnée lui-même - attirait l'attention. Ayant amassé suffisamment d'argent, il en investit la totalité pour confectionner une veste si belle et si unique qu'elle désarmerait même le plus méfiant des passants. 
+
+Cela fonctionna exactement comme il l'avait voulu. Et la veste était si attrayante qu'il découvrit qu'il pouvait lire et ensorceler les gens avec très facilement, une fois qu'il les avait attirés à lui. Il faisait des promesses qu'il ne pouvait pas tenir. Il faisait les poches de sa main gauche tout en détaillant les ornements de sa veste avec la droite. En quelques mois, il avait assez d'argent pour racheter et réouvrir l'échoppe de son père. Mais l'excitation et la commodité de sa nouvelle profession gardèrent Elryn dans le chemin des belles paroles et de la manipulation. Et à la fin de chaque journée, il s'exilait dans une belle demeure de l'autre côté de la ville où personne ne le connaissait.
+
+Ses habitudes prirent un tournant radical le jour où Elryn rencontra une jeune fille qui le captiva dès le moment où il posa les yeux sur elle. Il essaya de jouer de ses charmes avec elle mais se trouva en train de balbutier, incapable de prononcer de quelconques paroles. Et pourtant la jeune femme semblait apprécier ses efforts malgré tout, et il finit par la convaincre de l'accompagner chez lui. Le lendemain matin, au réveil, il découvrit que sa maison avait été vidée de tous ses objets de valeur et des pièces qu'il avait économisés ou subtilisés, et réalisa alors qu'il n'avait pas été captivé par cette femme mais plutôt par son sensationnel corsage de velours - il avait été dupé par une âme sœur. Hélas, sa veste chérie faisait partie des objets subtilisés, et Elryn passa le reste de ses jours dans la pauvreté.
+
+Alors que la plupart des vestes matelassées sont fabriquées à partir de bandes verticales, celle d'Elryn porte un motif distinctif en formes de diamants. Elle possède un haut col et de longues manches qui descendent jusqu'aux poignets, et dispose d'un pouvoir mystérieux pour prendre les gens par surprise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2336</ID>
+      <DefaultText>Le jeune seigneur, Lorel Taenring, s'est trouvé dans une position peu enviable, pris entre les deux feux d'une guerre menée par deux branches de sa propre famille, à propos de privilèges de chasses dans certains lieux qui étaient en copropriété. Alors que la plupart des membres de sa famille avaient vite choisi un camp, Lorel ne pouvait pas se décider à prendre les armes contre de quelconques membres de sa grande famille étendue.
+
+Il demanda à ce que sa brigandine soit décorée en deux tons, chacun représentant les bannières adverses de sa famille, et demanda aux enchanteurs de parchemins locaux de l'imprégner d'un pouvoir capable de lever un mur de ronces, qu'il espérait utiliser pour garder chaque camp d'un côté du champ de bataille.
+
+Lorsque les deux parties adverses se rencontrèrent en combat, il chevaucha au centre de la bataille en levant des champs de ronces, signalant à chaque camp qu'il était temps d'arrêter cette querelle insensée. Malheureusement, l'effet de sa brigandine décorative fut à l'opposé absolu de ce qu'il espérait, chaque camp jugeant qu'elle représentait celui de son adversaire. Il tomba sous une pluie de flèches venue des deux directions.
+
+Lorsque sa famille constata son décès, ils négocièrent une trêve pour entamer des négociations de paix. Mais ils finirent par se disputer à propos de l'endroit où Lorel devrait être enterré et la querelle reprit de plus belle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2341</ID>
+      <DefaultText>Un jour, plusieurs exemplaires avaient été commandés par le commandant d'une compagnie de Marcheurs austères. Durant le siège de Palente, il avait prévenu de son arrivée imminente, avertissant que si les portes du donjon ne lui étaient pas ouvertes, il massacrerait tous les hommes, femmes et enfants qu'il trouverait en son sein.
+
+Le Marceso du donjon se disputa avec ses domestiques, mais les Marcheurs austères arrivèrent deux jours plus tôt que prévu. La légende raconte que le son des poings gantés du commandant sur les portes du donjon fit résonner les cloches funéraires à des lieux à la ronde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2343</ID>
+      <DefaultText>Une jeune chevalière cherchait un armurier légendaire sous les montagnes des Terres vivantes. La chevalière avait apporté une fortune en or et demandé à l'armurier de lui fabriquer quelque chose d'exquis pour la protéger durant ses aventures. Le vieil armurier avait accepté à la condition que la jeune chevalière devienne son apprentie pendant trois ans pour apprendre les rudiments de cet art.
+
+La jeune chevalière avait accepté et s'était mise à travailler jouer et nuit aux côtés de l'armurier, fabriquant des plastrons, des jambières, des cuissardes et des boucliers. Alors que la troisième année touchait à sa fin, elle attendait impatiemment de voir quelle merveilleuse pièce d'armure il allait lui fabriquer, mais le vieil homme ne touchait au marteau que pour corriger sa technique.
+
+Lors de la dernière soirée de son apprentissage, elle approcha l'armurier pour s'enquérir de la récompense qui lui avait été promise. Il lui conseilla la patience et lui dit qu'il aurait fini d'ici le matin.
+
+Lorsqu'elle se réveilla le lendemain, elle le trouva assis près de la cheminée, tortillant un morceau de corde. "J'ai fait tout ce que vous aviez demandé", dit-elle. "Je vous ai servi fidèlement et j'ai appris votre art. Où est l'armure que vous m'aviez promise ?"
+
+"Elle est là", dit le vieil homme, en soutenant la corde.
+
+"Vous avez fait le serment de m'accorder une puissante protection", dit la chevalière, sa main se déplaçant vers son épée.
+
+"Et il en est ainsi. Vous avez travaillé à mes côtés pendant trois ans. Vous avez vu la façon dont même le plus résistant des aciers se fracasse, se cabosse et rouille. La meilleure protection n'est pas du métal courbé, mais la maîtrise de son esprit. Avec ça, même la plus grave des blessures ne pourra pas vous stopper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2344</ID>
+      <DefaultText>Ce plastron vert-sombre émaillé était la propriété de Ryona, une aventurière originaire des républiques vailiennes et qui avait trouvé sa vocation en prenant part à des groupes d'expéditions dans le Dyrwood. Quelques chaînes de cuivre s'étendent sous le plastron pour fournir une protection additionnelle.
+
+Ryona mit fin à sa carrière prématurément après avoir abandonné son expédition aux griffes d'un dragon dans la Marche blanche en échange de sa propre vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2345</ID>
+      <DefaultText>Après avoir échappé au dragon alpin, Ryona était submergée par les remords. Elle était déterminée à ne pas se reposer avant d'avoir fait amende honorable pour chacune des vies qu'elle avait sacrifiées, et elle commença à voyager dans les Contrées orientales cherchant à aider les proches des membres de sa compagnie d'exploration perdue.
+
+Dans la Baie du défi, elle rencontra le veuf de l'un des explorateurs perdus. Sa femme était partie en expédition dans l'espoir de trouver des trésors au sein de la Batterie de Durgan afin d'être en mesure de rembourser une dette contractée envers la maison Doemenel. Au moment où Ryona arriva, la maison Doemenel avait déjà placé un contrat sur sa tête. Elle agit comme son garde du corps personnel et l'aida à survivre à une série d'attaques en mettant sa propre vie en péril. Contre toute attente, Ryona et le veuf survécurent tous les deux à cette épreuve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2346</ID>
+      <DefaultText>Dans le Midwood, elle vint en aide à la famille d'un aventurier aristocratique qui avait échoué à satisfaire la maison du fiancé de sa fille avec la dot qu'il avait fournie. La belle-famille avait promis de détruire sa famille pour cette insulte, et avait engagé une bande de Marcheurs austères pour perpétrer l'acte. 
+
+Ryona avait rallié ensemble une armée des vassaux de l'aventurier, les exhortant avec une harangue inspirée détaillant quel type d'homme il avait été, et ensemble ils éliminèrent les Marcheurs austères jusqu'au dernier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2347</ID>
+      <DefaultText>Mais la silhouette du dragon continuait toujours de hanter l'esprit et les rêves de Ryona. Elle avait réussi dans toutes ses tentatives de rendre service aux proches des aventuriers qu'elle avait sacrifiés, mais pourtant la paix continuait de la fuir. Ainsi elle finit par comprendre qu'il lui fallait affronter le dragon et tenter de le tuer ou mourir en essayant. 
+
+Elle rassembla tous ses biens et s'embarqua pour un dernier voyage vers la Marche blanche, et personne ne la revit jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2348</ID>
+      <DefaultText>Cuetzpac était un pillard célèbre des Plaines d'Ixamitl, et Athrek son étalon chéri. Renommé pour sa vitesse et son habileté à dos de cheval, Cuetzpac pouvait désarmer un adversaire en moins de temps qu'il ne fallait à la plupart des gens pour encocher une flèche. Il n'avait que du dédain pour les armures lourdes et élaborées, pensant qu'un véritable guerrier pouvait combattre dans n'importe quelle tenue. Pour étayer son propos, il confectionna sa ceinture avec les rênes d'Athrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2349</ID>
+      <DefaultText>Frythr, le « lâche de la Vallée embrasée » avait fui plus de batailles que la plupart des hommes en voient en une vie. Il s'était cependant hissé jusqu'au grade d'officier, probablement parce qu'il avait survécu à ses compagnons de pelotons lors de plusieurs remarquables occasions. Après une carrière militaire autrement ordinaire, il fut finalement aperçu en train d'abandonner ses camarades lors d'une escarmouche mineure pendant la guerre des Arbres noirs. Son officier de commandement l'exécuta sur le champ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2350</ID>
+      <DefaultText>Selon le folklore de Vailia l'Ancienne, Viettro était un jeune tailleur d'un pauvre village qui rêvait de participer au bal de Majivèrno au palais impérial. Même s'il s'était confectionné de jolis vêtements, il n'avait pas de chaussures, pas d'invitation de la famille royale et aucune connaissance des usages de palais. 
+
+Un jour, un magicien bienveillant entendit son vœu et lui offrit une paire de chaussures enchantées. Elles étaient assez habillées pour le bal, et le magicien promit qu'elle fournirait à Viettro tout ce dont il aurait besoin en temps voulu. 
+
+Viettro prit le magicien au mot et arriva aux portes du palais le jour du bal, paré de ses plus beaux vêtements et de ses nouvelles chaussures. Les gardes en faction demandèrent l'invitation de Viettro, et soudainement le jeune homme sentit un poids dans sa poche. Il y trouva une flasque de liqueur raffinée, qu'il donna aux gardes en échange de son passage. 
+
+Au cours du bal, il se retrouva dans diverses conversations avec des vicomtes et des marcesos. Viettro était persuadé que son ignorance le trahirait, mais il parlait avec une connaissance de l'histoire et des usages si profonde que ses hôtes étaient impressionnés. 
+
+Sa confiance dans les chaussures du magicien augmentait, et quand il vit la femme la plus belle du bal, il l'invita pour une danse. Les chaussures guidèrent ses pas et ses paroles, et son charme était tel que le jeune homme et la princesse furent mariés à la fin de l'année.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2352</ID>
+      <DefaultText>Gwyn était une jeune femme de la Vallée du croisement qui était promise à un fermier de son village. Ses parents étaient enchantés à l'idée de cette union, et pourtant alors que le jour de son mariage se rapprochait à grands pas, Gwyn faisait d'horribles cauchemars où elle se voyait suffoquer. Elle se réveillait, la bouche ouverte suffocante en cherchant de l'air, mais était autrement incapable de bouger. 
+
+Elle parla de ses cauchemars à ses parents et de l'horrible poids qui semblait peser sur ses épaules, et se faisait toujours plus pesant au fil des jours. Ils lui assurèrent que ses nerfs finiraient par se calmer, mais ce ne fut pas le cas. 
+
+Le matin du jour de son mariage, alors que le ciel était encore gris et qu'une épaisse brume était suspendue au-dessus des champs, Gwyn se déroba. Elle pensait qu'une longue marche pourrait la calmer, mais plus elle s'éloignait de la Vallée du croisement, plus elle se sentait soulagée. Arrivée aux Falaises du Bois de perle, elle comprit qu'elle n'avait nulle intention de revenir.
+
+Elle passa la nuit dans une petite auberge située le long de la route, aux frais de sa bienveillante propriétaire, et après un dîner chaud et une bonne pinte de bière, elle profita de sa meilleure nuit de sommeil depuis des lustres. Une fois réveillée, son hôtesse la dirigea vers la Baie du défi. 
+
+Elle parvint à la ville et trouva rapidement le port. Elle ne possédait aucun objet de valeur si ce n'est sa bague de fiançailles, qu'elle échangea contre son passage en Aedyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2353</ID>
+      <DefaultText>Trois frères et deux sœurs d'un village de mineurs de Readceras étaient convoqués sur le front de la marche de Waidwen dans le Dyrwood. Même s'ils étaient impatients de répondre à l'appel de leur saint, ils ne voulaient pas abandonner leurs parents assez âgés, et ils firent fabriquer cinq anneaux à partir du fer de la mine de leur village, chacun conçu pour protéger son porteur au combat. Ils avaient parié qu'avec ces anneaux, au moins l'un d'entre eux survivrait pour pouvoir s'occuper de leurs parents.
+
+Quatre de ces anneaux furent retrouvés dans les décombres du champ de bataille après l'explosion du Marteau divin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2354</ID>
+      <DefaultText>Des Maegfolcs - ou leurs restes - ont été retrouvés dans la plupart des continents connus d'Eora. Dans les Terres vivantes, on raconte qu'ils avaient construit des cités dotées d'immenses tours, qui surpassaient les nuages. Ce casque fut récupéré par un explorateur qui affirmait l'avoir extirpé de la chambre funéraire d'un prince maegfolc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2355</ID>
+      <DefaultText>Située dans les terres de l'archipel du Feu éteint, la ville de Lachan se trouvait au milieu d'un réseau de cités portuaires florissantes et recevait les pires énergumènes venus de ces villes. Des joueurs, des voleurs et d'autres mécréants envahissaient Lachan et ruinaient le calme du village avec leurs nombreux actes de violence et de vandalisme.
+
+Finalement, la maire de Lachan en eut assez. Elle mandata des bourreaux dans le village qui avaient des ordres clairs : tuer quiconque se trouvait encore dans les rues après le coucher du soleil. Les bourreaux portaient des capuches de couleurs brillantes pour que les résidents et les visiteurs puissent les reconnaître et rentrer sains et saufs chez eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2356</ID>
+      <DefaultText>La lame aisée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2358</ID>
+      <DefaultText>Poings de longue souffrance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2359</ID>
+      <DefaultText>Lorsqu'un moine active La longue souffrance, ses poings deviennent capables de projeter de puissantes attaques à distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2360</ID>
+      <DefaultText>Couteaux faucheurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2361</ID>
+      <DefaultText>Ces couteaux d'énergie occasionnent des dégâts Bruts et génèrent de la Concentration pour le clairvoyant qui les a créés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2362</ID>
+      <DefaultText>Chiot de guerre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2363</ID>
+      <DefaultText>Ce chiot grassouillet, à la fourrure tachetée a déjà une allure bien disciplinée... jusqu'à ce qu'il découvre de quoi jouer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2388</ID>
+      <DefaultText>Un ensemble de notes fragmentées est gribouillé de manière inintelligible sur un petit bout de parchemin :
+
+"Tunnels : se rappeler de la lampe. Laisser la main sur le mur droit tout le chemin. Attention aux araignées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2392</ID>
+      <DefaultText>"Mon amour
+
+J'ai joint quelques pièces de Stalwart, pour vous donner la preuve que je suis bien arrivé. 
+
+Vous aviez raison. Je n'ai jamais eu aussi froid, d'autant plus que je suis si éloigné de vous.
+
+Les êtres civilisés ici sont aussi glacés que leurs terres. Ils ne nous haïssent pas autant que les Dyrwoodans, mais ils sont méfiants et fiers.
+Leur commandant a envoyé des délégués pour commencer les négociations. Peut-être que d'ici à ce que cette lettre vous parvienne, vous aurez déménagé dans la Batterie de Durgan.
+
+Stalwart ne possède pas de soldats, simplement quelques gardes. Efram dit qu'il est parti en reconnaissance à la Batterie avec quelques éclaireurs et qu'il n'a vu personne posté en haut de la tour. Sans ces canons, ils seraient idiots de faire quoi que ce soit d'autre si ce n'est capituler.
+Sinon, nous remporterons assurément une victoire facile et rapide.
+
+Le commandant dit qu'une fois la Batterie sera nôtre, notre simple présence là-bas fera réfléchir à deux fois tout envahisseur potentiel. 
+Qui oserait nous faire face avec la puissance de la Batterie de notre côté ?
+
+J'écris trop à propos des combats, mais simplement pour vous assurer que tout le monde va bien. 
+
+Vous me manquez.
+
+Les montagnes sont magnifiques. Je garde espoir que vous les voyiez par vous-même, une fois l'endroit sécurisé pour que vous puissiez nous rejoindre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2393</ID>
+      <DefaultText>Lettre adressée aux siens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2395</ID>
+      <DefaultText>Avertissement - ascenseur de l'artillerie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2396</ID>
+      <DefaultText>"L'ascenseur de l'artillerie sera fermé jusqu'à nouvel ordre. Les rouages sont oxydés, et toute panne dans le mécanisme pourrait se révéler catastrophique. Le maître des potions Andren cherche un moyen de polir les rouages pour les rendre imperméables aux éléments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2397</ID>
+      <DefaultText>Requête pour levier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2413</ID>
+      <DefaultText>Une fois arrivé à l'âge adulte, chaque dragon prend les traits de l'environnement qu'il a revendiqué comme son royaume, et le changement est reflété dans chaque aspect de sa forme. Cette écaille en particulier possède une texture étrange et mousseuse en surface, mais est aussi solide et résistante que de l'acier en-dessous. L'éclat de l'écaille lui donne une apparence grasse, alors qu'elle est sèche au toucher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2417</ID>
+      <DefaultText>Tête de Lafda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2418</ID>
+      <DefaultText>Ce sac en toile de jute contient la tête de Lafda, chef de la bande de voleurs qui se faisait passer pour des prêtres d'Ondra à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2424</ID>
+      <DefaultText>Ce stylet a été fabriqué peu avant la chute de la Batterie de Durgan. En plus de sa qualité exceptionnelle et de l'utilisation d'acier de Durgan dans sa composition, il dispose également d'un enchantement que l'ancien propriétaire utilisait pour mettre le feu aux canons et occasionnellement à un réchaud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2428</ID>
+      <DefaultText>Pied dans la tombe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2433</ID>
+      <DefaultText>Piège vent décourageant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2435</ID>
+      <DefaultText>Piège nuage pestilentiel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2436</ID>
+      <DefaultText>Wyrthoneg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2437</ID>
+      <DefaultText>Bracelet de prière Readceran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2438</ID>
+      <DefaultText>Collier d'Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2439</ID>
+      <DefaultText>Skeyt readceran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2440</ID>
+      <DefaultText>Fenning readceran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2443</ID>
+      <DefaultText>Sagesse émoussée de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2444</ID>
+      <DefaultText>Note abîmée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2445</ID>
+      <DefaultText>"J'ai dû cacher la livraison. Cet endroit fourmille de soldats. Dites à Owyna que je me rattraperai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2451</ID>
+      <DefaultText>Un collier en argent composé de cinq disques d'ébène et de mère des perles, chacun exhibant une phase de la lune, de sa croissance à son déclin. Au centre se trouve la pleine lune, un motif de vague gravé sur son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2452</ID>
+      <DefaultText>Dans les parties orientales de Readceras, regorgeant de bouleaux et de fleurs blanches, les cerfs blancs (appelés « sér blan » en langue d'Hyl) sont courants. Les locaux les chassent et en font un plat populaire de viande séchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2459</ID>
+      <DefaultText>Gourde de l'assoiffé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2460</ID>
+      <DefaultText>Cette gourde vous a été donnée par un homme dans une vision de Zahua qui vous a demandé de la remplir dans une cascade avoisinante du Vallon de la Pierre blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2461</ID>
+      <DefaultText>Gourde de l'assoiffé (Pleine)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2462</ID>
+      <DefaultText>Ce poison terrifiant a été une légende en Aedyr et dans les Contrées orientales depuis plus de deux siècles. Sa méthode de fabrication est un secret jalousement gardé - tellement secret que peu sont les gens qui savent réellement en fabriquer. Certains le suspectent d'être un instrument des Marcheurs austères, d'autres, une création des membres de la Main occulte. Quelles que soient ses origines, le Baiser de Berath est si rare que beaucoup le considèrent comme un mythe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2463</ID>
+      <DefaultText>Voyagez jusqu'aux Plaines dégagées et éliminez les Marcheurs austères.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2464</ID>
+      <DefaultText>Imposant et extraterrestre, cet œil a été pris du corps du léviathan d'Ondra au cœur de la Faille de Cayron. Même après la mort de la créature, l'œil contient toujours un pouvoir magique phénoménal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2495</ID>
+      <DefaultText>Le Pied dans la tombe est une dangereuse drogue concoctée à partir d'une mixture de champignons variés et de morceaux d'adra infectés par des moisissures. Il permet à l'utilisateur de percevoir plus clairement la structure des âmes - abritées ou non. Quand l'effet de la drogue s'estompe, son utilisateur est temporairement Aveuglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2496</ID>
+      <DefaultText>Le piège mortel du Râteau gelant crée une gigantesque main spectrale qui occasionne des dégâts de Gel et laisse les victimes Affaiblies et Entravées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2497</ID>
+      <DefaultText>Cor de bataille de Beregan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2498</ID>
+      <DefaultText>La matrone Beregan vous a donné ce cor de bataille pour invoquer ses ogres afin de combattre les Sans-yeux à la Faille de Cayron. Des bandes de métal dentées encerclent le cor de bataille, et un ruban doré abîmé pend en son milieu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2499</ID>
+      <DefaultText>Ce bouclier était traditionnellement transmis entre chasseurs de dragon pour honorer des mises à mort et des prouesses. Recevoir le Bouclier Gueule de dragon est l'un des plus grands honneurs qui soit parmi les chasseurs de dragon, et au fil des ans, il a été la cause d'innombrables paris, d'amitiés perdues, de longs apprentissages et de morts violentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2500</ID>
+      <DefaultText>Rinetta la Balafrée a reçu le bouclier alors qu'elle était encore jeune, pour célébrer un combat particulièrement brave - ou insensé - contre un dragon de pierre. Elle a perdu l'un de ses yeux et toutes ses dents mais a vaincu la bête et reçu le bouclier sur ce que tout le monde considérait comme son lit de mort. Cependant Rinetta a récupéré de ses blessures et vécu très longtemps au grand dam de beaucoup. 
+
+Elle a cessé de chasser des dragons et pris de nombreux élèves en entraînement, tous désireux d'apprendre avec la porteuse du bouclier Gueule de dragon et espérant qu'elle finirait par leur léguer l'objet. Pourtant ses contemporains se plaignaient qu'elle devait le léguer si elle avait abandonné la chasse, et qu'aucun chasseur ne devrait profiter financièrement du bouclier. Rinetta le confia finalement à un autre chasseur, mais à ce moment-là, elle était déjà une femme très fortunée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2501</ID>
+      <DefaultText>Les jumeaux Marad et Devna chassèrent ensemble le dragon pendant de nombreuses années. Ils connurent le succès et pourtant c'était le joli Marad que leurs pairs et admirateurs chérissaient le plus. Devna était caustique et quelconque, et même si ses talents avec une lance étaient indéniables, elle vivait constamment dans l'ombre de son frère. 
+
+Ils avaient combattu et chassé ensemble pendant près de vingt ans quand le bouclier Gueule de Dragon fut légué à Marad. Devna félicita son frère et accepta son honneur avec autant de dignité que possible - après tout le bouclier n'avait toujours eu qu'un seul propriétaire - mais certains virent de la rancune briller dans ses yeux. D'autres dirent que ses réflexes avaient diminué et sa visée avait fléchi. Des rumeurs circulaient prétendant qu'elle était sur le déclin.
+
+Un an après que Marad reçut le bouclier, il périt sous les griffes d'un dragon de sable. Devna survécut et récupéra le bouclier, mais beaucoup blâmèrent la faiblesse de ses talents comme étant la cause de la mort de son frère. D'autres suspectèrent même qu'elle l'avait tué dans un accès de jalousie. Quoiqu'il en soit, elle passa rapidement le bouclier à un successeur et vécut le reste de ses jours en ermite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2502</ID>
+      <DefaultText>Lirat le porcher n'avait jamais désiré devenir chasseur de dragon, mais lorsque son village attira l'attention d'un dragon crag particulièrement maléfique, il fut désigné pour s'en occuper. Armée de l'épée rouillée de son oncle et d'une unique dose de poison - juste au cas où - il se mit en route pour trouver la bête. 
+
+Le dragon ne fut pas difficile à trouver - Lirat pouvait entendre ses ronflements des lieues à la ronde et le sentir depuis plus loin encore. Il suivit une piste d'os menant à une cave où la bête venait dormir, entourée par les corps de cochons morts et à l'agonie. Alors que Lira entrait dans la cave, l'un des porcs blessés couina. Son cri réveilla le dragon qui engloutit le cochon d'un seul coup. Puis la bête remarqua Lirat, qui à sa grande surprise s'étrangla avec le cochon. 
+
+Lira manqua de mourir de peur alors qu'il regardait le dragon se tortiller et se convulser de douleur. Mais le porc mourant s'était logé fermement dans la gorge extrêmement profonde du dragon, et au bout de quelques minutes, il était mort étouffé.
+
+Malgré ses protestations, Lirat fut acclamé en héros. Alors que la rumeur de ses exploits se propageait (presqu'aussi vite que le dragon supposément occis augmentait en taille), il attira l'attention de Turran le Téméraire, qui passa le bouclier au jeune porcher. Lirat passa du bon temps à raconter ces prouesses et à célébrer, mais quand des questions commencèrent à circuler à propos de sa prochaine conquête, il passa le bouclier à un autre chasseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2503</ID>
+      <DefaultText>Ce manteau a permis aux percepteurs des impôts à travers tout le Dyrwood de trouver un moyen d'accéder aux bourses et aux livres de compte des honnêtes gens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2505</ID>
+      <DefaultText>Costume de moine Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2506</ID>
+      <DefaultText>Armure de plaque Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2507</ID>
+      <DefaultText>Armure d'écaille Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2508</ID>
+      <DefaultText>Masque de Poing de la marée Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2510</ID>
+      <DefaultText>Grimoire de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2511</ID>
+      <DefaultText>Le grimoire de Llengrath, aussi usé qu'il soit, dispose d'un énorme réservoir de sorts, rempli de la première à la dernière page d'instructions, avertissements et commentaires sur l'art de la magie. Ce tome a une odeur terreuse et quelques tâches d'eau éparpillées. Des empreintes digitales boueuses tâchent certaines pages, et au moins un diagramme a été écrit avec du sang, depuis longtemps séché. Malgré ça, la reliure est toujours en bon état, et les symboles arcaniques et notes au sein du grimoire sont couchés sur le papier à l'encre noire et fraîche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2512</ID>
+      <DefaultText>Reposez-vous dans la tanière du Dragon alpin après qu'il a été occis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2514</ID>
+      <DefaultText>Une histoire de la Batterie de Durgan, Volume II</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2515</ID>
+      <DefaultText>"Quel endroit étrange et magnifique nous avons trouvé ! 
+
+Nos pères et mères avaient décidé très tôt que des défenses convenables devaient figurer parmi nos premières priorités, ainsi nous avons construit de grands et robustes murs et fondu des canons à la forge. Et pourtant, aussi hauts que soient nos murs, les montagnes les surpassent et comme l'a brillamment suggéré Gabel, nous avons construit une grande tour et l'avons paré de nos meilleurs canons. Avec de telles défenses, aucune armée au monde ne pourra nous assiéger !
+
+Mais nous avons rencontré un problème. Des vents mordants et des tempêtes de neige balaient le sommet de la tour jour et nuit, à chaque saison de l'année, gelant non seulement nos sentinelles mais également nos canons. Nous avons construit une chaudière capable de les réchauffer tous, nourrie par la chaleur de la forge. Mais la placer là où il fallait s'est révélé plus difficile que prévu. Notre première tentative a piégé trop de fumée dans la forge, et durant notre seconde, la chaudière s'est gondolée avec la chaleur, tellement qu'elle a failli tomber dans la forge ! Le désastre a été évité de peu.
+
+Nous avions besoin d'un matériau capable de supporter la chaleur de la forge tout en la canalisant vers la chaudière. Et nous avions besoin d'une structure assez résistante pour supporter le poids de la chaudière sans l'isoler de la chaleur.
+
+C'est à ce moment que l'une de nos quatre parties de chasse est revenue avec un étrange artefact.
+
+Il ressemblait à une main squelettique mais d'un taille gigantesque. Les chasseurs prétendaient l'avoir trouvée coincée dans un escarpement, mais ils n'avaient aucune idée de sa provenance, ni de comment elle était arrivée là, puisqu'il n'y avait aucun autre reste aux alentours. Il avait fallu toute l'équipe pour l'arracher à cet emplacement, et ce ne fut possible que parce que la chose ne s'était pas gelée aux rochers escarpés. 
+
+Chacun d'entre nous a vu son propre souffle se geler dans nos barbes. J'ai ri et demandé comment leurs explications pouvaient être possibles, et avec l'air d'hommes et femmes qui doutent de leur propre récit, ils m'ont expliqué que la neige et la glace avaient fondu de la main presqu'immédiatement. J'avoue avoir douté moi-même jusqu'à ce que je place mes mains sur les os et sente une étrange chaleur s'en échapper. C'était soit une étrange bénédiction, soit une étrange malédiction.
+
+Nous avons appelé Durgan en personne.
+
+Il avait beau être vieux et chétif, Durgan passa une journée et une nuit entières dans le hall où nous avions laissé la main, à prier et méditer. Il en ressortit avec une énergie que personne ne lui avait jamais connue depuis le jour où il avait trouvé la forge. Il proclama la main comme un cadeau venu d'Abydon lui-même, et un présent qu'il ne faudrait pas gaspiller. Selon ses suggestions, la main fut placée sous la chaudière, où elle se révéla être un support robuste et un superbe conducteur pour la chaleur. Ce qui lui fournissait ces propriétés nous reste inconnu, mais nous savions qu'il valait mieux ne pas questionner un cadeau du destin dans ces terres froides et impitoyables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2519</ID>
+      <DefaultText>Forme d'hydromel dilué, le wyrthoneg se trouve uniquement en Readceras ou sur des Readcerans en voyage. En raison des lois strictes de Readceras sur les substances enivrantes, le wyrthoneg contient relativement peu d'alcool. Les prêtres d'Eothas visitent régulièrement les distilleries pour s'assurer qu'elles respectent la loi à la lettre, mais il est commun pour les Readcerans cosmopolites d'augmenter le degré d'alcool de leurs réserves avant de voyager dans les pays voisins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2520</ID>
+      <DefaultText>Casque de champion du Fléau de fer</DefaultText>
+      <FemaleText>Casque de championne du Fléau de fer</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2521</ID>
+      <DefaultText>Coiffe d'archer du Fléau de fer</DefaultText>
+      <FemaleText>Coiffe d'archère du Fléau de fer</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2522</ID>
+      <DefaultText>Casque d'infanterie du Fléau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2523</ID>
+      <DefaultText>Casque d'envoûteur du Fléau de fer</DefaultText>
+      <FemaleText>Casque d'envoûteuse du Fléau de fer</FemaleText>
+    </Entry>
+    <Entry>
       <ID>2524</ID>
-      <DefaultText />
+      <DefaultText>Ce piège dévastateur déchaine la puissance du feu sacré occasionnant des dégâts Brûlants sur ceux qui ont la malchance de se trouver dans la zone d'effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2525</ID>
+      <DefaultText>Le costume de cérémonie du Porteur de marée, un Ondrite dévot élu par leur conclave pour endosser le manteau du dirigeant à l'Abbaye de la Lune déchue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2526</ID>
+      <DefaultText>La Mer et son Amante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2527</ID>
+      <DefaultText>(Hymne Ondrite traditionnelle)
+
+La mer contemplait son amour
+Brillant de tous ses atours
+Elle la pria de descendre
+De son palais dans les cieux
+
+Son amour ne vacillerait pas
+Et elle prit un morceau de son cœur
+Et tous ceux qui virent sa peine
+Toujours dans sa poitrine se repose</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2528</ID>
+      <DefaultText>Inflige des dégâts aux ennemis au-dessus de 50 % d'Endurance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2529</ID>
+      <DefaultText>Lunes et marées : Récit d'un historien de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2530</ID>
+      <DefaultText> "Nous avons tous entendu les légendes d'Ondra et de Senn Beläfa, et l'explication qui veut que l'amour de la déesse pour la lune soit responsable des marées. Et, en tant qu'hommes et femmes de science, nous savons que ceci n'est que l'ombre de la vérité. 
+
+Et pourtant, il y a un autre mythe que nous avons éconduit avec plus d'empressement encore, et je me demande s'il ne mérite pas un examen plus poussé.
+
+Les Ondrites parlent d'une lune plus petite, Ionni Brathr, que la déesse aurait soi-disant arrachée au ciel dans un âge précédent. Et même si une telle chose semble impossible, puisqu'Ionni Brathr continue de vagabonder dans les cieux, certains explorateurs ont trouvé des fragments de minéraux dans des contrées lointaines qui n'existent sur aucun autre continent connu en Éora. 
+
+De plus, les naturalistes d'Aedyr, du Rauatai et du Dyrwood ont observé les restes anciens d'une vie océanique en plein milieu des terres. Une telle chose ne peut être possible que si les océans d'Éora étaient autrefois plus vastes ou - comme je le propose ici ! - si une inondation catastrophique avait autrefois recouvert les continents. Peu de phénomènes pourraient causer une inondation de cette ampleur, mais un énorme corps céleste tombant dans les mers pourrait être une explication. 
+
+Dans ces pages, je vais expliquer comment certaines forces de la nature - si ce n'est pas une déesse amoureuse - pourraient avoir attiré une petite lune du ciel vers les terres d'Éora il y a plusieurs milliers d'années..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2531</ID>
+      <DefaultText>Mains d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2532</ID>
+      <DefaultText>"De tous les récits à propos des dieux, il ne fait pas de doute que l'un des plus charmants est la légende des mains d'Abydon.
+
+Dans certaines cultures, les mains d'Abydon sont de minuscules créatures enjouées qui se cachent dans les murs et les fissures des pierres de carrelage. Dans d'autres, elles sont de silencieux hommes de pierre qui errent dans des contrées lointaines. Dans tous ces récits cependant, ce sont des constructions d'Abydon, faites à son image pour continuer son travail bienfaiteur de création de choses robustes et extraordinaires en ce monde. 
+
+Ainsi, en contemplant un majestueux pic montagneux, une rangée de piliers d'adra ou d'autres merveilles naturelles, les parents et nourrices racontent aux jeunes enfants que ces choses sont le fruit des mains d'Abydon. 
+
+Tel est l'attrait d'Abydon en tant que divinité, puisque c'est à travers sa légende que nous reconnaissons les formes familières dans le monde de la nature. Si nous voyons une forme du relief qui ressemble à une colonnade, ou une porte voutée, ou un foyer, nous voyons une main et une raison d'être au travail, sans communes mesures avec les nôtres. 
+
+Et même si l'identité propre d'Abydon en tant qu'automate est aliénante pour certains, pour beaucoup d'entre nous, sa forme grossière mais fonctionnelle a quelque chose de réconfortant. Alors que les autres dieux prennent des formes d'oiseaux, de bêtes ou de mers, Abydon prend celle de nos outils et constructions les plus courants. Son avilissement dans un corps de fer élève nos propres travaux et labeurs, et nous offre un immense espoir. Parce que si un dieu peut se reconstruire à partir du fer, quelles merveilles les êtres civilisées pourront-ils créer de leurs propres mains ?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

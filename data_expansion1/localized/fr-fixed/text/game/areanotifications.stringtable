@@ -2,29 +2,16 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\areanotifications</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2</EntryCount>
+  <EntryCount>1</EntryCount>
   <Entries>
     <Entry>
-      <ID>6</ID>
-      <DefaultText>Vous partez pour Stalwart. Au loin, la Marche blanche s'étire à perte de vue, du nord jusqu'au sud. Ses sommets semblables à des doigts cassés semblent vous faire signe.
+      <ID>8</ID>
+      <DefaultText>Les Sans-yeux ont disparu sous le lac, leur lien avec Ondra finalement sectionné. Cette menace terminée, l'espoir est revenu dans la Marche blanche.
 
-Dans l'ombre des montagnes, la route devient plus étroite et périlleuse. Vous venez à peine d'entamer votre ascension lorsque le ciel s'obscurcit. Une averse de grêle s'abat alors sur vous et le sol se transforme en glace.
+Les chasseurs sont retournés dans les contrées sauvages et les voyageurs sur les routes. Des récits à propos de la bravoure du Gardien ont remplacé les histoires de monstres dans les bois. Les villageois de Stalwart se sont occupés en se remettant au travail et par de multiples chants, désireux de profiter de cette promesse de paix.</DefaultText>
+      <FemaleText>Les Sans-yeux ont disparu sous le lac, leur lien avec Ondra finalement sectionné. Cette menace terminée, l'espoir est revenu dans la Marche blanche.
 
-Vous poursuivez malgré tout votre chemin.
-
-L'air se raréfie et le vent siffle à vos oreilles. Le blizzard vous immobilise pendant trois jours tandis que la neige s'amoncelle autour de votre refuge.
-
-Enfin, le temps s'améliore et vous repartez pour Stalwart sous un ciel radieux. À l'approche du village, vous entendez du bruit, que vous attribuez d'abord au vent glacial, mais en passant les portes en bois, vous comprenez qu'il s'agit d'autre chose...</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>À peine aviez-vous quitté la Batterie de Durgan et posé le pied dans la poudreuse que la nouvelle courait déjà : d'étranges lumières s'élevaient de la forteresse et de l'énergie crépitait dans le ciel !
-
-Attirés par la promesse de paix et de prospérité tant attendue, les survivants de Stalwart se précipitèrent à la Batterie de Durgan. Ils réparèrent leurs murs, rassemblèrent leurs forces et préparèrent leur village à tirer parti des nouvelles opportunités qui ne manqueraient pas de se présenter.
-
-À présent que les voix de la Batterie de Durgan s'étaient enfin tues, nul ne prêta attention au lointain grondement qui venait des sommets, tel une monstrueuse et implacable avalanche.</DefaultText>
-      <FemaleText />
+Les chasseurs sont retournés dans les contrées sauvages et les voyageurs sur les routes. Des récits à propos de la bravoure de la Gardienne ont remplacé les histoires de monstres dans les bois. Les villageois de Stalwart se sont occupés en se remettant au travail et par de multiples chants, désireux de profiter de cette promesse de paix.</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

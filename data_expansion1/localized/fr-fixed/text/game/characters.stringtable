@@ -2,63 +2,8 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>251</EntryCount>
+  <EntryCount>144</EntryCount>
   <Entries>
-    <Entry>
-      <ID>1389</ID>
-      <DefaultText>Renengild</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1390</ID>
-      <DefaultText>Yduran</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1391</ID>
-      <DefaultText>Lafda</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1392</ID>
-      <DefaultText>Owynna</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1393</ID>
-      <DefaultText>Reyfald</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1394</ID>
-      <DefaultText>Feara</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1395</ID>
-      <DefaultText>Un piège</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1396</ID>
-      <DefaultText>Galvino</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1397</ID>
-      <DefaultText>Haeferic</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1398</ID>
-      <DefaultText>Cuisinier</DefaultText>
-      <FemaleText>Cuisinière</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1399</ID>
-      <DefaultText>Assistant</DefaultText>
-      <FemaleText>Assitante</FemaleText>
-    </Entry>
     <Entry>
       <ID>1400</ID>
       <DefaultText>Andred</DefaultText>
@@ -75,273 +20,13 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1403</ID>
-      <DefaultText>Parieur</DefaultText>
-      <FemaleText>Parieuse</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1407</ID>
-      <DefaultText>Ailef</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1408</ID>
-      <DefaultText>Harmke</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1409</ID>
-      <DefaultText>Démone de Caroc</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1410</ID>
-      <DefaultText>Cort</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1411</ID>
-      <DefaultText>Thyrsc</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1414</ID>
-      <DefaultText>Baetti</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1415</ID>
-      <DefaultText>Palloc</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1417</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1418</ID>
       <DefaultText>Grynde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1419</ID>
-      <DefaultText>Employé de la pêcherie</DefaultText>
-      <FemaleText>Employée de la pêcherie</FemaleText>
-    </Entry>
-    <Entry>
       <ID>1420</ID>
       <DefaultText>Garde de la pêcherie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1421</ID>
-      <DefaultText>Taena</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1422</ID>
-      <DefaultText>Matrone Beregan</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1423</ID>
-      <DefaultText>Loup d'hiver</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1426</ID>
-      <DefaultText>Defala</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1427</ID>
-      <DefaultText>Assassin elfe pâle</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1428</ID>
-      <DefaultText>Mercenaire readceran</DefaultText>
-      <FemaleText>Mercenaire readcerane</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1429</ID>
-      <DefaultText>Traqueur d'esclaves</DefaultText>
-      <FemaleText>Traqueuse d'esclaves</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1430</ID>
-      <DefaultText>Tireur d'élite readceran</DefaultText>
-      <FemaleText>Tireuse d'élite readcerane</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1431</ID>
-      <DefaultText>Statue</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1432</ID>
-      <DefaultText>Gardienne des armes Marunn</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1433</ID>
-      <DefaultText>Vicaire en chef Exandru</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1434</ID>
-      <DefaultText>Grand argentier Zoltun</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1435</ID>
-      <DefaultText>Räzken</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1436</ID>
-      <DefaultText>Uldric</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1437</ID>
-      <DefaultText>Lagufaeth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1438</ID>
-      <DefaultText>Sabel</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1439</ID>
-      <DefaultText>Garodh</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1440</ID>
-      <DefaultText>Pelden</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1441</ID>
-      <DefaultText>Mur d'épuisement</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1442</ID>
-      <DefaultText>Défenseur de la Batterie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1443</ID>
-      <DefaultText>Protecteur de la Batterie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1444</ID>
-      <DefaultText>Sirène de la Batterie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1445</ID>
-      <DefaultText>Scarabée de glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1446</ID>
-      <DefaultText>Jeune scarabée de glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1447</ID>
-      <DefaultText>Fléau de glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1448</ID>
-      <DefaultText>Fléau de glace majeur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1449</ID>
-      <DefaultText>Gardien de la Forge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1450</ID>
-      <DefaultText>Guerrier lagufaeth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1451</ID>
-      <DefaultText>Ogre crag canonnier</DefaultText>
-      <FemaleText>Ogresse crag canonnière</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1452</ID>
-      <DefaultText>Ogre crag incantateur</DefaultText>
-      <FemaleText>Ogresse crag incantatrice</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1453</ID>
-      <DefaultText>Ogresse crag</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1454</ID>
-      <DefaultText>Ogre crag</DefaultText>
-      <FemaleText>Ogresse crag</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1455</ID>
-      <DefaultText>Vase de glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1456</ID>
-      <DefaultText>Vase de glace mineur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1457</ID>
-      <DefaultText>Troll de glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1458</ID>
-      <DefaultText>Esprit gelé</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1459</ID>
-      <DefaultText>Spectre</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1460</ID>
-      <DefaultText>Commis</DefaultText>
-      <FemaleText>Commise</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1461</ID>
-      <DefaultText>Ista</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1462</ID>
-      <DefaultText>Miroir</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1463</ID>
-      <DefaultText>Miroir</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1464</ID>
-      <DefaultText>Suldrun</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,18 +35,8 @@
       <FemaleText>Bûcheronne</FemaleText>
     </Entry>
     <Entry>
-      <ID>1466</ID>
-      <DefaultText>Défenseur de la Batterie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1467</ID>
       <DefaultText>Protecteur de la Batterie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1468</ID>
-      <DefaultText>Sirène de la Batterie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,44 +45,9 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1470</ID>
-      <DefaultText>Jeune scarabée de glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1471</ID>
       <DefaultText>Fléau de glace</DefaultText>
       <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1472</ID>
-      <DefaultText>Fléau de glace majeur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1473</ID>
-      <DefaultText>Gardien de la Forge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1474</ID>
-      <DefaultText>Lagufaeth rouge-crête</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1475</ID>
-      <DefaultText>Ogre crag canonnier</DefaultText>
-      <FemaleText>Ogresse crag canonnière</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1476</ID>
-      <DefaultText>Ogre crag incantateur</DefaultText>
-      <FemaleText>Ogresse crag incantatrice</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1477</ID>
-      <DefaultText>Ogre crag</DefaultText>
-      <FemaleText>Ogresse crag</FemaleText>
     </Entry>
     <Entry>
       <ID>1478</ID>
@@ -425,18 +65,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1481</ID>
-      <DefaultText>Esprit amer</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1482</ID>
       <DefaultText>Spectre</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1483</ID>
-      <DefaultText>Zahua</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,11 +95,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1489</ID>
-      <DefaultText>Chasseur blessé</DefaultText>
-      <FemaleText>Chasseuse blessée</FemaleText>
-    </Entry>
-    <Entry>
       <ID>1490</ID>
       <DefaultText>Esprit</DefaultText>
       <FemaleText />
@@ -485,64 +110,9 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1493</ID>
-      <DefaultText>Morug</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1495</ID>
-      <DefaultText>Ogre crag</DefaultText>
-      <FemaleText>Ogresse crag</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1496</ID>
-      <DefaultText>Ogre crag canonnier</DefaultText>
-      <FemaleText>Ogresse crag canonnière</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1497</ID>
-      <DefaultText>Urthal</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1498</ID>
-      <DefaultText>Prêtre mercenaire</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1499</ID>
-      <DefaultText>Magicien mercenaire</DefaultText>
-      <FemaleText>Magicienne mercenaire</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1500</ID>
-      <DefaultText>Combattant mercenaire</DefaultText>
-      <FemaleText>Combattante mercenaire</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1501</ID>
-      <DefaultText>Escarmoucheur fampyr</DefaultText>
-      <FemaleText>Escarmoucheuse fampyre</FemaleText>
-    </Entry>
-    <Entry>
       <ID>1502</ID>
       <DefaultText>Berserker fampyr</DefaultText>
       <FemaleText>Berserker fampyre</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1503</ID>
-      <DefaultText>Keydy</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1504</ID>
-      <DefaultText>Envoûteur fampyr</DefaultText>
-      <FemaleText>Envoûteuse fampyr</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1505</ID>
-      <DefaultText>Anneau de Keydy</DefaultText>
-      <FemaleText />
     </Entry>
     <Entry>
       <ID>1506</ID>
@@ -558,26 +128,6 @@
       <ID>1508</ID>
       <DefaultText>Esprit</DefaultText>
       <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1509</ID>
-      <DefaultText>Francesca</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1510</ID>
-      <DefaultText>Maréchal Waeferth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1511</ID>
-      <DefaultText>Troll de glace géant</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1512</ID>
-      <DefaultText>Villageois</DefaultText>
-      <FemaleText>Villageoise</FemaleText>
     </Entry>
     <Entry>
       <ID>1513</ID>
@@ -605,11 +155,6 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1518</ID>
-      <DefaultText>Silwha</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1519</ID>
       <DefaultText>Vamrel</DefaultText>
       <FemaleText />
@@ -622,11 +167,6 @@
     <Entry>
       <ID>1521</ID>
       <DefaultText>Prêtre de guerre mercenaire</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1522</ID>
-      <DefaultText>Manteau de chasse hivernale</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -650,33 +190,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1527</ID>
-      <DefaultText>Prêtre de guerre mercenaire</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1528</ID>
-      <DefaultText>Mage de guerre mercenaire</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1529</ID>
-      <DefaultText>Soldat mercenaire</DefaultText>
-      <FemaleText>Soldate mercenaire</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1530</ID>
-      <DefaultText>Pyromancien mercenaire</DefaultText>
-      <FemaleText>Pyromancienne mercenaire</FemaleText>
-    </Entry>
-    <Entry>
       <ID>1531</ID>
       <DefaultText>Pendentif ancestral</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1532</ID>
-      <DefaultText>Concession glaciale</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -685,403 +200,13 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1534</ID>
-      <DefaultText>Lingot</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1535</ID>
-      <DefaultText>Taragaer</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1536</ID>
       <DefaultText>Berserker mercenaire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1537</ID>
-      <DefaultText>Tireur d'élite mercenaire</DefaultText>
-      <FemaleText>Tireuse d'élite mercenaire</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1538</ID>
-      <DefaultText>Bandit armé mercenaire</DefaultText>
-      <FemaleText>Bandit armée mercenaire</FemaleText>
-    </Entry>
-    <Entry>
       <ID>1539</ID>
       <DefaultText>Cape du Maître mystique</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1540</ID>
-      <DefaultText>Ancien garde de la mort</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1541</ID>
-      <DefaultText>Concelhaut</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1542</ID>
-      <DefaultText>Anneau du Cœur changeant</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1543</ID>
-      <DefaultText>Seigneur Gaderman</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1544</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1545</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1546</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1547</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1548</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1549</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1550</ID>
-      <DefaultText>Tireur d'élite de la Batterie</DefaultText>
-      <FemaleText>Tireuse d'élite de la Batterie</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1551</ID>
-      <DefaultText>Prêtre de la Batterie</DefaultText>
-      <FemaleText>Prêtresse de la Batterie</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1552</ID>
-      <DefaultText>Lurgolder</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1553</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1554</ID>
-      <DefaultText>Manteau vigilant MKII de Ruphec</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1555</ID>
-      <DefaultText>Chapeau ultime de l'Attrayante perfection</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1556</ID>
-      <DefaultText>Mercenaire bagarreur</DefaultText>
-      <FemaleText>Mercenaire bagarreuse</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1557</ID>
-      <DefaultText>Mercenaire incantateur</DefaultText>
-      <FemaleText>Mercenaire incantatrice</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1558</ID>
-      <DefaultText>Firedorn</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1559</ID>
-      <DefaultText>Crothar</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1560</ID>
-      <DefaultText>Hache de guerre animée</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1561</ID>
-      <DefaultText>Tanoss</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1562</ID>
-      <DefaultText>Baguette animée</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1563</ID>
-      <DefaultText>Lance animée</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1564</ID>
-      <DefaultText>Uariki</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1565</ID>
-      <DefaultText>Sergent mercenaire</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1566</ID>
-      <DefaultText>Sergent mercenaire</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1567</ID>
-      <DefaultText>Anneau du serveur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1568</ID>
-      <DefaultText>Tealdor</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1569</ID>
-      <DefaultText>Manipulateur de sorts d'Ondra</DefaultText>
-      <FemaleText>Manipulatrice de sorts d'Ondra</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1570</ID>
-      <DefaultText>Bretteur d'Ondra</DefaultText>
-      <FemaleText>Bretteuse d'Ondra</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1571</ID>
-      <DefaultText>Porte-bouclier d'Ondra</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1572</ID>
-      <DefaultText>Baelsyr</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1573</ID>
-      <DefaultText>Créature de chair en décomposition</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1574</ID>
-      <DefaultText>Créature de chair en feu</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1575</ID>
-      <DefaultText>Crâne flottant</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1576</ID>
-      <DefaultText>Disciple de la Société étincelante</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1577</ID>
-      <DefaultText>Prêtresse de la Société étincelante</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1578</ID>
-      <DefaultText>Paladin de la Société étincelante</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1579</ID>
-      <DefaultText>Envoûteur de l'Ancienne Dunryd</DefaultText>
-      <FemaleText>Envoûteuse de l'Ancienne Dunryd</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1580</ID>
-      <DefaultText>Jeune magicien de l'Ancienne Dunryd</DefaultText>
-      <FemaleText>Jeune magicienne de l'Ancienne Dunryd</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1581</ID>
-      <DefaultText>Illusionniste de l'Ancienne Dunryd</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1582</ID>
-      <DefaultText>Nécromancien de l'Ancienne Dunryd</DefaultText>
-      <FemaleText>Nécromancienne de l'Ancienne Dunryd</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1583</ID>
-      <DefaultText>Sortlame de l'Ancienne Dunryd</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1584</ID>
-      <DefaultText>Laenric</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1585</ID>
-      <DefaultText>Barbare de la Vraie flamme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1586</ID>
-      <DefaultText>Druide de la Vraie flamme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1587</ID>
-      <DefaultText>Firedorn</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1588</ID>
-      <DefaultText>Prêtre de la Vraie flamme</DefaultText>
-      <FemaleText>Prêtresse de la Vraie flamme</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1589</ID>
-      <DefaultText>Adragan de la Vraie flamme</DefaultText>
-      <FemaleText>Adragane de la Vraie flamme</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1590</ID>
-      <DefaultText>Clairvoyant des Crânes satisfaits</DefaultText>
-      <FemaleText>Clairvoyante des Crânes satisfaits</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1591</ID>
-      <DefaultText>Moine des Crânes satisfaits</DefaultText>
-      <FemaleText>Moniale des Crânes satisfaits</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1592</ID>
-      <DefaultText>Paladin des Crânes satisfaits</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1593</ID>
-      <DefaultText>Prêtresse des Crânes satisfaits</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1594</ID>
-      <DefaultText>Bandit des Crânes satisfaits</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1595</ID>
-      <DefaultText>Magicien des Crânes satisfaits</DefaultText>
-      <FemaleText>Magicienne des Crânes satisfaits</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1596</ID>
-      <DefaultText>Meztla</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1597</ID>
-      <DefaultText>Guerrier des Épines d'acier</DefaultText>
-      <FemaleText>Guerrière des Épines d'acier</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1598</ID>
-      <DefaultText>Mage des Épines d'acier</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1599</ID>
-      <DefaultText>Ulmar</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1600</ID>
-      <DefaultText>Ravageur thrall</DefaultText>
-      <FemaleText>Ravageuse thrall</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1601</ID>
-      <DefaultText>Chaman thrall</DefaultText>
-      <FemaleText>Chamane thrall</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1602</ID>
-      <DefaultText>Assassin thrall</DefaultText>
-      <FemaleText>Meurtrière thrall</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1603</ID>
-      <DefaultText>Bébé lagufaeth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1604</ID>
-      <DefaultText>Sandales du Moine oublié</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1605</ID>
-      <DefaultText>Boucle d'ingéniosité</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1606</ID>
-      <DefaultText>Boucle de Ryona</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1607</ID>
-      <DefaultText>Crâne de Concelhaut</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1608</ID>
-      <DefaultText>Commandant Baelorin</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1609</ID>
-      <DefaultText>Automate cassé</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1610</ID>
-      <DefaultText>Automate défaillant</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1611</ID>
-      <DefaultText>Automate difforme</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1612</ID>
-      <DefaultText>Dragon alpin</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1613</ID>
-      <DefaultText>Lagufaeth crotalé</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1090,172 +215,512 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1615</ID>
-      <DefaultText>Fragment de Marunn</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1616</ID>
-      <DefaultText>Fragment de Zoltun</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1617</ID>
-      <DefaultText>Fragment d'Exandru</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1618</ID>
-      <DefaultText>Felisa</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1619</ID>
-      <DefaultText>Chef de guerre Darzir</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1620</ID>
-      <DefaultText>Fragment de guerrier Pargrunen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1621</ID>
-      <DefaultText>Fragment de bandit Pargrunen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1622</ID>
-      <DefaultText>Fragment de magicien Pargrunen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1623</ID>
-      <DefaultText>Fragment de paladin Pargrunen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1624</ID>
-      <DefaultText>Fragment d'incantateur Pargrunen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1625</ID>
-      <DefaultText>Orlan ivre</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1626</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1627</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1628</ID>
-      <DefaultText>Misère résonnante</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1629</ID>
       <DefaultText>Algoule</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1630</ID>
-      <DefaultText>Ailef</DefaultText>
+      <ID>1657</ID>
+      <DefaultText>Champion du Fléau de fer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1631</ID>
-      <DefaultText>Dragon alpin</DefaultText>
+      <ID>1670</ID>
+      <DefaultText>Scrutesprit Ondrite</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1632</ID>
-      <DefaultText>Liche</DefaultText>
+      <ID>1671</ID>
+      <DefaultText>Lieur de foi Ondrite</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1633</ID>
-      <DefaultText>Augure du vide</DefaultText>
+      <ID>1673</ID>
+      <DefaultText>Prophète Ondrite</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1634</ID>
-      <DefaultText>Automate de Galvino</DefaultText>
+      <ID>1674</ID>
+      <DefaultText>Grand abbé Kaoto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1635</ID>
-      <DefaultText>Arme animée</DefaultText>
+      <ID>1676</ID>
+      <DefaultText>Skuldrak</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1636</ID>
-      <DefaultText>Mercenaire vétéran</DefaultText>
+      <ID>1677</ID>
+      <DefaultText>Soldat désœuvré</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1637</ID>
-      <DefaultText>Jeune lagufaeth</DefaultText>
+      <ID>1678</ID>
+      <DefaultText>Villageois</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1638</ID>
-      <DefaultText>Commandant Baelorin</DefaultText>
+      <ID>1750</ID>
+      <DefaultText>Esprit de l'ours</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1639</ID>
-      <DefaultText>Mercenaire incantateur</DefaultText>
-      <FemaleText>Mercenaire incantatrice</FemaleText>
-    </Entry>
-    <Entry>
-      <ID>1640</ID>
-      <DefaultText>Corset de sentinelle</DefaultText>
+      <ID>1751</ID>
+      <DefaultText>Esprit de cochon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1641</ID>
-      <DefaultText>Vicaire Elune</DefaultText>
+      <ID>1752</ID>
+      <DefaultText>Esprit de cerf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1642</ID>
-      <DefaultText>Voix</DefaultText>
+      <ID>1753</ID>
+      <DefaultText>Esprit de loup</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1643</ID>
-      <DefaultText>Automate en fer</DefaultText>
+      <ID>1754</ID>
+      <DefaultText>Esprit de wurm</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1644</ID>
-      <DefaultText>Automate instable</DefaultText>
+      <ID>1755</ID>
+      <DefaultText>Cep de spore rayonnant</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1645</ID>
-      <DefaultText>Barde</DefaultText>
+      <ID>1756</ID>
+      <DefaultText>Terreur du Vallon de la Pierre blanche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1646</ID>
+      <ID>1758</ID>
+      <DefaultText>Paladin Marcheur austère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1759</ID>
+      <DefaultText>Éclaireur embauché</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1760</ID>
+      <DefaultText>Eska</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1765</ID>
+      <DefaultText>Teryc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1766</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1647</ID>
-      <DefaultText />
+      <ID>1773</ID>
+      <DefaultText>Turisulfus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1870</ID>
+      <ID>1776</ID>
+      <DefaultText>Brynlod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>Jeune ours des neiges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>Chiot de guerre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>Beasca la Porteuse d'offrandes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>Jeune chauve-souris du marécage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>Mylla</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1791</ID>
+      <DefaultText>Garde de la ville</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1792</ID>
+      <DefaultText>Lödgar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1793</ID>
+      <DefaultText>Gamel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Ancien Skuldrak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1801</ID>
+      <DefaultText>Soldat du Fléau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1802</ID>
+      <DefaultText>Mage brigand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1803</ID>
+      <DefaultText>Prêtre brigand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1804</ID>
+      <DefaultText>Pillard de Pierre blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1807</ID>
+      <DefaultText>Bosc long</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1808</ID>
+      <DefaultText>Invocateur du culte du marécage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1809</ID>
+      <DefaultText>Arcaniste Badrwn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1810</ID>
+      <DefaultText>Archer xaurip</DefaultText>
+      <FemaleText>Archère xaurip</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1811</ID>
+      <DefaultText>Maître des bêtes xaurip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1812</ID>
+      <DefaultText>Invocateur de fléau xaurip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1813</ID>
+      <DefaultText>Grande vase de la tourbière</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1814</ID>
+      <DefaultText>Petite vase de la tourbière</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1820</ID>
+      <DefaultText>Explorateur</DefaultText>
+      <FemaleText>Exploratrice</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1821</ID>
+      <DefaultText>Incantateur fanatique Ondrite</DefaultText>
+      <FemaleText>Incantatrice fanatique Ondrite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1822</ID>
+      <DefaultText>Combattant fanatique Ondrite</DefaultText>
+      <FemaleText>Combattante fanatique Ondrite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1823</ID>
+      <DefaultText>Magicien fanatique Ondrite</DefaultText>
+      <FemaleText>Magicienne fanatique Ondrite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1824</ID>
+      <DefaultText>Moine fanatique Ondrite</DefaultText>
+      <FemaleText>Moniale fanatique Ondrite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1825</ID>
+      <DefaultText>Clairvoyant fanatique Ondrite</DefaultText>
+      <FemaleText>Clairvoyante fanatique Ondrite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1826</ID>
+      <DefaultText>Prêtre fanatique Ondrite</DefaultText>
+      <FemaleText>Prêtresse fanatique Ondrite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1827</ID>
+      <DefaultText>Paladin fanatique Ondrite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1828</ID>
+      <DefaultText>Percepierre Sans-yeux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1830</ID>
+      <DefaultText>Bandit de Pierre blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1831</ID>
+      <DefaultText>Täog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1832</ID>
+      <DefaultText>Nuage de gaz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1834</ID>
+      <DefaultText>Haddi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1836</ID>
+      <DefaultText>Elwyna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1839</ID>
+      <DefaultText>Kosta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1840</ID>
+      <DefaultText>Brys</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1841</ID>
+      <DefaultText>Esprit de wurm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1842</ID>
+      <DefaultText>Délégué Gruff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1843</ID>
+      <DefaultText>Déléguée Naine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1844</ID>
+      <DefaultText>Délégué effrayé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1845</ID>
+      <DefaultText>Déléguée délirante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1846</ID>
+      <DefaultText>Esprit de loup</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1847</ID>
+      <DefaultText>Grosselangue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1848</ID>
+      <DefaultText>Petitedent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1849</ID>
+      <DefaultText>Cantonnier embauché</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1853</ID>
+      <DefaultText>Chevelure d'Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1854</ID>
+      <DefaultText>Mineur dominé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1855</ID>
+      <DefaultText>Esprit enchaîné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1856</ID>
+      <DefaultText>Couveuse Eau-rouge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1857</ID>
+      <DefaultText>Barbare du culte du marécage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1858</ID>
+      <DefaultText>Roedwith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1859</ID>
+      <DefaultText>Sporeling Rayonnant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1860</ID>
+      <DefaultText>Soldat des Fidèles de Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1861</ID>
+      <DefaultText>Druide des Fidèles de Magran</DefaultText>
+      <FemaleText>Druidesse des Fidèles de Magran</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1862</ID>
+      <DefaultText>Prêtre de Magran</DefaultText>
+      <FemaleText>Prêtresse de Magran</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1864</ID>
+      <DefaultText>Dairatha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1865</ID>
+      <DefaultText>Ebraenn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1866</ID>
+      <DefaultText>Marin chanteur du Feu éteint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1867</ID>
+      <DefaultText>Illusionniste du Feu éteint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1868</ID>
+      <DefaultText>Traître du Feu éteint</DefaultText>
+      <FemaleText>Traîtresse du Feu éteint</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1879</ID>
+      <DefaultText>Korbal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1881</ID>
+      <DefaultText>Sentinelle austère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1882</ID>
+      <DefaultText>Commandant austère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1883</ID>
+      <DefaultText>Tiremort austère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1884</ID>
+      <DefaultText>Eventreur austère</DefaultText>
+      <FemaleText>Eventreuse austère</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1885</ID>
+      <DefaultText>Jeune araignée lunaire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1886</ID>
+      <DefaultText>Bandit Crag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1887</ID>
+      <DefaultText>Grande épée spectrale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1888</ID>
+      <DefaultText>Pique spectrale</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1889</ID>
+      <DefaultText>Arc de guerre spectral</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1890</ID>
+      <DefaultText>Voleur dominé</DefaultText>
+      <FemaleText>Voleuse dominée</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1891</ID>
+      <DefaultText>Pillard dominé</DefaultText>
+      <FemaleText>Pillard dominée</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1893</ID>
+      <DefaultText>Vainqueur elfe pâle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1897</ID>
+      <DefaultText>Nahuatlia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1902</ID>
+      <DefaultText>Image de Zahua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1903</ID>
+      <DefaultText>Chef Ehuilia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1905</ID>
+      <DefaultText>Sans-yeux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

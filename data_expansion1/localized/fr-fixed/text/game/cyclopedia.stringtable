@@ -2,29 +2,8 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>16</EntryCount>
+  <EntryCount>18</EntryCount>
   <Entries>
-    <Entry>
-      <ID>301</ID>
-      <DefaultText>Les lagufaeth sont des amphibiens territoriaux à quatre membres. Bien que leur peau épaisse les protège du climat glacial de la Marche blanche, ils tendent à préférer les sources chaudes. Les lagufaeth sont des sauvages qui vivent en communauté, utilisent des armes rudimentaires mais ont une affinité naturelle pour la magie. Ils sont particulièrement dangereux dans les montagnes, où les tempêtes et les chutes de neige peuvent masquer leur présence aux voyageurs jusqu'à ce qu'il soit trop tard. Ils peuvent rester sous la glace pendant de très longues périodes et sont connus pour avoir surpris des pêcheurs imprudents.
-
-Un lagufaeth rouge-crête est un lagufaeth dominant et mature. Ils peuvent être mâles ou femelles. Un lagufaeth qui se mue en rouge-crête développe une teinte brun-rouge sur la peau et une crête osseuse sur le haut de la tête. Ils sont rarement les plus vieux membres du groupe, mais ils sont les plus agressifs, et ils sont généralement chargés de défendre un nid ou un groupe. Lorsqu'un lagufaeth rouge-crête perd son statut, sa crête tombe et sa peau retourne à une nuance de bleu, vert ou violet.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>302</ID>
-      <DefaultText>Le destin des nains de la Batterie de Durgan est resté un mystère pour les érudits pendant deux cent ans. Le peu qui était connu indiquait que les nains s'étaient divisés autour d'une grande querelle d'opinions parmi leurs commandants. Ils ont fermé les portes de la Batterie et ne sont jamais ressortis.
-
-Ces squelettes sont de la taille des nains, et l'armure qu'ils portent étaient autrefois d'excellente qualité, très proche du légendaire acier Durgan. A la différence de la plupart des squelettes, ils combattent dans des formations de batailles organisées. Leur habileté et leur discipline au combat en font des ennemis redoutables, tout comme leur robuste armure.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>303</ID>
-      <DefaultText>Comme les fantômes, les spectres sont des esprits qui sont restés dans le monde des vivants après une vie ou une mort particulièrement violente. Bien qu'ils apparaissent partout dans Eora, les cols de la Marche blanche - peuplés pour le moment par des ogres, des lagufaeth, des bandits et des esclavagistes - les propagent à une vitesse alarmante.
-
-Les spectres cherchent à se nourrir d'essence vivante et ils attaqueront n'importe quel être civilisé ou sauvage alentour. Bien qu'apparemment stupides dans leurs agressions, ils sont assez malins pour fragmenter les groupes, empoignant et isolant leurs victimes afin de se nourrir de chacune d'elles une par une.</DefaultText>
-      <FemaleText />
-    </Entry>
     <Entry>
       <ID>304</ID>
       <DefaultText>On raconte que les sirènes sont des manifestations d'essence attirées ensemble par de fervents désirs ou aspirations imprimés par leur ancien hôte. Elles sont communément associées à la mer et avec Ondra puisque de nombreuses histoires de sirènes entraînent des mésaventures de navigation que l'on pense causées par leur irrésistible chant. En vérité, cependant, les sirènes peuvent être trouvées partout où les conditions idoines surviennent, et elles sont moins dangereuses pour leurs chants que pour leur cris stridents. 
@@ -92,11 +71,11 @@ On a estimé que, pour chaque automate véritablement doué de raison, il y a de
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Les objets liés sont des objets uniques qui se lient magiquement avec l'âme d'une seule personne. Une fois lié, l'objet ne peut être utilisée que par cette personne, à moins que le lien ne soit rompu. Un objet lié augmentera en puissance si son porteur complète certaines des conditions détaillées dans la description de l'objet.
+      <DefaultText>Les objets liés sont des objets uniques qui peuvent tisser un lien magique avec l'âme d'un seul personnage. Une fois lié, l'objet ne peut plus être utilisé que par ce personnage à moins que le lien ne soit sectionné. Un objet lié gagnera en puissance lorsque son porteur complète certaines conditions spécifiées dans la description de l'objet.
 
-La plupart des objets liés ne peuvent s'associer qu'avec des personnages de certaines classes. Cependant, quel que soit le type d'objet, un objet lié est toujours admissible pour tous types de talents et de compétences comme la maîtrise d'armes et la spécialisation que peut avoir le personnage. Par exemple, si un guerrier a une maîtrise des objets et une spécialisation en Voyou, il ou elle pourra gagner des effets bénéfiques même lorsqu'il porte une grande épée ou une baguette liées. Les effets bénéfiques de talents ou compétences multiples de la même catégorie (par exemple Maitrise des armes Voyou et Paysan) ne se cumulent pas.
+La plupart des objets liés ne peuvent tisser un lien qu'avec des personnages de certaines classes. Cependant, indépendamment du type d'objet, un objet lié sera toujours qualifié pour tout Talent ou Compétence comme la Maîtrise d'arme ou la Spécialisation que peut avoir ce personnage. Par exemple, si un combattant possède une Maîtrise d'arme et une Spécialisation en Voyou, il gagnera ses avantages même en portant une grande épée ou une baguette liées. Les avantages des Talents ou Compétences du même type (par exemple Maîtrise d'arme Voyou et Paysan) ne se cumulent pas.
 
-Si le lien avec un objet lié devait être rompu, l'objet perdrait toutes les compétences qu'elle avait acquises durant ce temps.</DefaultText>
+Si le lien d'un objet lié est sectionné, il perdra toutes les compétences gagnées au fil du temps.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,6 +91,39 @@ Si le lien avec un objet lié devait être rompu, l'objet perdrait toutes les co
     <Entry>
       <ID>322</ID>
       <DefaultText>L'affliction Distrait affaiblit toutes les défenses de la cible de 6 et affaiblit leur nombre de cibles d'Engagement de 1. Pour la plupart des personnages, cela signifie qu'ils ne peuvent pas tenir d'ennemis Engagés lorsqu'ils sont affligés par Distrait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Les marins de tout Éora racontent des histoires à propos des bêtes qui hantent les profondeurs. Parmi elles, peu sont aussi redoutables que le kraken.
+
+Ces derniers s'aventurent rarement à la surface, et s'ils le font, ils ne laissent quasiment jamais de survivants après leur passage. Ce sont des bêtes tentaculaires massives, capables de briser de petits bateaux et d'arracher les marins du pont de ceux-ci. Malgré sa taille imposante, le corps souple et flexible des krakens leur permet de se frayer un chemin à travers des espaces confinés à la recherche de proies ou d'un refuge. Heureusement, ils préfèrent les endroits sombres et tranquilles aux vastes étendues d'eau.
+
+Ce sont d'astucieux chasseurs et selon la légende, les terribles serviteurs d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Les Sans-yeux sont d'anciens et mystérieux maegfolcs plus connus dans les mythes et légendes que dans la réalité tangible. Avec leur apparence grotesque et leurs membres grossiers mais pourtant fonctionnels, ils ressemblent vaguement à des automates, bien que leurs origines et leurs objectifs demeurent inconnus. Ils ne connaissant ni la faim, ni la fatigue, faisant d'eux des ennemis particulièrement implacables.
+
+Dans la sagesse populaire, on considère que les Sans-yeux sont là pour servir Ondra en s'assurant que ce qui est vieux et dangereux reste oublié. Les gens de la Marche blanche les décrivent comme des croque-mitaines qui rôdent autour des vieilles routes et des endroits retirés. Les parents avertissent leurs enfants de ne pas oublier leurs corvée de peur que les Sans-yeux les considèrent « oubliées », et les personnes qui perdent quelque chose remercient traditionnellement Ondra que les Sans-yeux ne soient pas venus également pour eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Comme le Spore humide, plus commun, le Spore rayonnant est un organisme fongique géant attiré par l'énergie des âmes provenant des créatures vivantes. À la différence de ses cousins ouvertement prédateurs, le Spore rayonnant semble disposer d'une sorte d'intelligence centrale et consciente. Il est capable de former et d'utiliser des liens parasitaires avec plusieurs types de proie en libérant des nuées de puissants spores à l'effet psychotrope. Ceux-ci fournissent au Spore rayonnant un lien avec ses nombreuses victimes, par lequel il parvient à projeter sa volonté. 
+
+Maintenu debout par un réseau de racines épaisses et mobiles, le Spore rayonnant est également capable d'attaques plus directes, en utilisant ses ceps comme des appendices de constriction ou comme d'immenses gourdins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Les chauves-souris du marécage se différencient de leurs homologues skuldrs et skuldraks par plusieurs aspects physiologiques. La principale différence étant le fait que les chauves-souris du marécage semblent garder leur morphologie juvénile en atteignant la maturité. Cela permet aux chauves-souris du marécage de garder la capacité de voler, mais limite leur proie aux créatures qu'elles peuvent terrasser individuellement. À cette fin, elles sont équipées d'une sécrétion nocive qu'elles crachent sur leurs victimes désignées. Les chauves-souris du marécage évitent également les nichées communautaires de leurs parents plus imposants. Elles sont typiquement rencontrées en petits essaims et se querellent souvent pour des questions de nourriture, d'accouplement et de territoire.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

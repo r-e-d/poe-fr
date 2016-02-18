@@ -2,58 +2,8 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\maps</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>22</EntryCount>
+  <EntryCount>28</EntryCount>
   <Entries>
-    <Entry>
-      <ID>152</ID>
-      <DefaultText>Village de Stalwart</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>153</ID>
-      <DefaultText>Village de Stalwart</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>154</ID>
-      <DefaultText>Le Refuge du gréf</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>155</ID>
-      <DefaultText>Cave du Refuge du gréf</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>156</ID>
-      <DefaultText>Pêcherie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>157</ID>
-      <DefaultText>Temple d'Ondra</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>158</ID>
-      <DefaultText>Maison de Renengild</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>159</ID>
-      <DefaultText>Maison de Thyrsc</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>160</ID>
-      <DefaultText>Maison de Taena</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>161</ID>
-      <DefaultText>Caverne supérieure des Flammes-Qui-Murmurent</DefaultText>
-      <FemaleText />
-    </Entry>
     <Entry>
       <ID>163</ID>
       <DefaultText>Caverne inférieure des Flammes-Qui-Murmurent</DefaultText>
@@ -85,33 +35,113 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>169</ID>
-      <DefaultText>Atelier de Galvino</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>170</ID>
-      <DefaultText>Grotte de glace</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>171</ID>
-      <DefaultText>Crägholdt</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>172</ID>
       <DefaultText>Falaises de Crägholdt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>173</ID>
-      <DefaultText>Chutes de Longue-vue</DefaultText>
+      <ID>174</ID>
+      <DefaultText>Cabine de Galvino</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>174</ID>
-      <DefaultText>Cabine de Galvino</DefaultText>
+      <ID>175</ID>
+      <DefaultText>L'Abbaye de la Lune déchue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Les Salles de la Présence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Les Salles du Silence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Mowrghek Îen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Fort du Fléau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Poste de commandement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Fragment d'Ionni Brathr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Tour ouest inférieure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Tour ouest supérieure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Faille de Cayron</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Mines de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Ascenseur de l'artillerie de la tour ouest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Temple d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Vallon de la Pierre blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Cabine d'Haddi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Grand magasin d'Hamond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Caves luminescentes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Maison commune des vithracks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Village de Dyrford</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
