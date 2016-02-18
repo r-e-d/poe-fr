@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_infiltration</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>D'en bas, vous notez que la tour de guet située au niveau des portes semble inoccupée. Aucun visage hostile ne semble vous observer.
+
+Le toit de la tour communique avec les murs du fort. L'escalader pourrait vous permettre d'y accéder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Le grappin s'accroche à la poutre en bois dans un bruit sourd. Aucun cri ne se fait entendre.
+
+Vous tirez plusieurs fois sur la corde pour vous assurer qu'elle est bien attachée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Derrière les portes, des bribes de conversation s'élèvent. À cette heure de la journée, l'activité bat son plein dans le camp. 
+
+Quelqu'un pourrait discrètement tenter d'ouvrir les portes avant que l'alerte ne soit donnée, mais en plein jour, une telle opération est risquée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>À cette heure de la nuit, alors que le froid s'installe, la plupart des bruits dans le campement sont concentrés près des feux.
+
+Un individu discret pourrait saisir cette opportunité, escalader le mur et ouvrir la porte sans faire sonner l'alarme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Envoyer quelqu'un au-dessus du mur.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Qui va y aller ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Faites-le vous-même.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vous jetez un premier coup d'œil au camp animé et au garde, posté à distance. 
+
+Alors que vous vous laissez tomber au sol, vos mouvements attirent son attention et il se tourne dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous jetez un premier coup d'œil au camp, enveloppé dans la pénombre nocturne et au garde, posté à distance. 
+
+Un instant d'observation révèle que l'homme est en train de ronfler, profondément endormi. Vous rampez vers l'avant pour déverrouiller la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Lancer un grappin sur le toit.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous jetez un premier coup d'œil au camp, enveloppé dans la pénombre nocturne et au garde, posté à distance. 
+
+Un instant d'observation révèle que l'homme est en train de ronfler, profondément endormi. Vous rampez vers l'avant pour déverrouiller la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous reculez dans l'ombre de la tour de guet et restez totalement immobile. Le garde jette un rapide coup d'œil à la porte, puis regarde ailleurs.
+
+Vous rampez vers l'avant pour déverrouiller la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous empoignez la corde et commencez l'escalade pour grimper jusqu'à la tour de guet.
+
+De là, il suffit ensuite de descendre de l'autre côté du mur pour atteindre le sol à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Envoyez [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Envoyez [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Envoyez [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Envoyez [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Envoyez [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Envoyez [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Specified 0] empoigne la corde et commence l'escalade, se hissant dans la tour de guet.
+
+Bientôt, [Specified 0] est en train de manœuvrer de l'autre côté du mur, à l'intérieur du fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>De là, [Specified 0] aperçoit le camp animé et le garde, posté à distance. 
+
+Alors que [Specified 0] s'accroupit, son mouvement attire l'attention du garde qui se tourne dans la direction de [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>De là, [Slot 0] aperçoit le camp enveloppé dans la pénombre nocturne et le garde, posté à distance.
+
+L'homme ronfle, profondément endormi. [Specified 0] rampe vers l'avant pour déverrouiller la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>De là, [Slot 0] aperçoit le camp enveloppé dans la pénombre nocturne et le garde, posté à distance.
+
+L'homme ronfle, profondément endormi. [Specified 0] rampe vers l'avant pour déverrouiller la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Se faufiler à travers l'ouverture.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous reculez vers l'ombre de la tour de guet, mais le garde vous repère immédiatement. 
+
+Vous vous précipitez pour déverrouiller la porte alors qu'il appelle des renforts derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Examiner la porte.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>En regardant au-dessus du mur extérieur, vous remarquez deux poteaux mal fixés, qui ont formé une sorte d'ouverture. 
+
+Alors que l'ouverture semble un peu petite pour des êtres civilisés assez grands, vous pensez pouvoir être capable de vous faufiler au travers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>La porte semble être très renforcée. À travers les quelques interstices étroits dans le mur extérieur, vous pouvez apercevoir des charpentes installées contre l'intérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous grimpez vers l'ouverture entre les poteaux.
+
+Après de nombreuses contorsions, vous parvenez à faire passer votre torse de l'autre côté, et le reste suit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Mais le bruit de vos pas est lourd dans le calme de la nuit, et après quelques secondes vous entendez le garde se réveiller en sursaut.
+
+Vous vous précipitez pour déverrouiller la porte alors qu'il appelle des renforts derrière vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Specified 0] recule dans l'ombre de la tour de guet et reste totalement immobile. Le garde jette un rapide coup d'œil à la porte, puis regarde ailleurs.
+
+[Specified 0] rampe vers l'avant pour déverrouiller la porte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Specified 0] recule dans l'ombre de la tour de guet mais il est trop tard.
+
+[Specified 0] se précipite pour déverrouiller la porte alors que le garde appelle des renforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Mais le bruit des pas de [Specified 0] est lourd dans le calme de la nuit, et après à peine quelques secondes, le garde se réveille en sursaut. 
+
+[Specified 0] se précipite pour déverrouiller la porte alors que le garde appelle des renforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>En regardant par-dessus le mur extérieur, vous remarquez une ouverture sous deux des poteaux. Même si elle est beaucoup trop étroite pour un être civilisé, un petit animal pourrait se faufiler au travers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Lancez Forme de la bête désarmée sur quelqu'un.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Qui va subir la transformation ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Réfléchissez à la personne qui le jettera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Essayez autre chose.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Faites-le vous-même.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Faites-le vous-même.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Envoyez [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Envoyez [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Envoyez [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Envoyez [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Envoyez [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Envoyez [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Subitement, vous sentez votre perspective se déplacer dramatiquement. La porte se dessine au-dessus de vous, ses proportions sont titanesques.
+
+L'ouverture en-dessous est aussi large, et vos petits sabots vous permettent de vous faufiler au travers assez facilement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Dans un éclat de lumière et une odeur de fumée, [Specified 0] disparait - à sa place se trouve un petit cochon. Le cochon hume l'air, puis se dirige tout droit vers l'ouverture entre les poteaux, et se tortille dessous pour passer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>La transformation ne dure pas longtemps et vous revenez à votre forme initiale, vautré dans la neige, sans dignité aucune.</DefaultText>
+      <FemaleText>La transformation ne dure pas longtemps et vous revenez à votre forme initiale, vautrée dans la neige, sans dignité aucune.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Personne ne semble remarquer le cochon près de la porte. Mais il ne faut pas longtemps avant que le sort ne se dissipe, laissant [Specified 0] bizarrement vautré dans la neige.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

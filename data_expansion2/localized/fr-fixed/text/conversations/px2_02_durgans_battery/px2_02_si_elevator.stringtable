@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_02_durgans_battery\px2_02_si_elevator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>124</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'ascenseur progresse lentement et péniblement. De temps en temps, il tremble et ses chaînes rouillées émettent de terrifiants grincements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Il s'arrête en tremblant et la plate-forme oscille dangereusement. Un des treuils dégage une forte odeur métallique.  
+
+Vous entendez un crissement. Vous pensez d'abord qu'il s'agit du treuil avant de comprendre que le bruit vient d'au-dessus...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Un énorme skuldrak surgit des ténèbres. Il passe devant vous à toute vitesse en produisant un courant d'air, mais vous n'avez pas le temps de voir à quoi il ressemble. Puis, il revient vers vous en poussant des cris perçants. 
+
+Des bruissements d'ailes et une forte odeur musquée témoignent de la présence d'autres créatures. Tandis qu'elles s'approchent, la plate-forme continue à osciller et à rebondir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Positionnez-vous au centre de la plate-forme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Dispersez-vous sur les bords de la plate-forme et préparez-vous à vous défendre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Envoyez quelqu'un réparer le treuil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Le plus grand skuldrak fonce vers le centre de l'ascenseur. Ses cris stridents se transforment en sifflements et il crache de l'acide sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Restez au centre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Qui va y aller ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Faites-le vous-même.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Envoyez [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Envoyez [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Envoyez [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Envoyez [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Envoyez [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Envoyez [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous vous séparez et foncez vers les côtés opposés de la plate-forme instable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous foncez bruyamment vers le treuil, vos pas résonnant dans la cage d'ascenseur plongée dans le noir. 
+
+Attiré par le bruit, un skuldrak se détache de la meute et se jette sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tête baissée, [Specified 0] fonce en silence vers le treuil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Le plus petit skuldrak se rapproche de plus en plus, en décrivant des cercles rapides. Pendant ce temps, le plus grand recule pour préparer une nouvelle attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Le grand skuldrak fonce à nouveau vers le centre en crachant de l'acide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[SkillCheck 0] trébuche, ce qui accentue l'oscillation de la plate-forme et fait tomber [SkillCheck 0] au bord de celle-ci.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vous vous positionnez tous sur les bords de l'ascenseur instable et faites face au grand skuldrak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>En un éclair, le monstre disparaît au-dessus de vous. 
+
+Mais le petit skuldrak atterrit sur la plate-forme et s'avance vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Specified 0] roule sur le côté et parvient in extremis à attraper le bord de la plate-forme. 
+
+[Specified 0] appelle à l'aide car la plate-forme penche dangereusement vers le bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tenez bon, [Specified 0] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Ne faites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Specified 0] tombe en criant dans l'obscurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Précipitez-vous vers [Specified 0] pour l'attraper.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Utilisez Vitesse sauvage pour sauver [Specified 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous atteignez le bord juste avant que [Specified 0] ne lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Utilisez Chemin du flagellant pour sauver [Specified 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vous attrapez la main de [Specified 0] et l'aidez à se hisser sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Le monstre fonce vers le centre de l'ascenseur en crachant de l'acide qui atterrit sur le sol où il se met à bouillonner et à grésiller. Mais quelques gouttes touchent aussi [Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>En un éclair, le monstre disparaît au-dessus de vous. 
+
+Mais le petit skuldrak atterrit sur la plate-forme et s'avance vers vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vous vous stabilisez et vous retournez vers le centre de la plate-forme, où le grand skuldrak est déjà descendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Tête baissée mais en silence, vous vous précipitez vers le treuil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Vous atteignez le treuil et commencez à réparer les rouages rouillés et bloqués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Mais vous vous relevez en redressant vos épaules. 
+
+Le skuldrak pousse un cri perçant et rejoint immédiatement la meute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>En sifflant, le skuldrak vous crache de l'acide au visage avant de s'enfuir pour rejoindre la meute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Quelques instants plus tard, le problème est réglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Le problème n'est pas aussi simple que vous l'espériez. Vous savez d'où vient le problème, mais vous allez avoir besoin d'une minute de plus pour y remédier. 
+
+Au-dessus de vous, les skuldraks se montrent de plus en plus téméraires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Continuez à réparer le treuil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Préparez-vous à vous défendre des skuldraks.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Les créatures vous empêchent de poursuivre votre tâche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Le problème semble plus complexe que prévu. Vous ignorez combien de temps il vous faudra pour réparer les rouages bloqués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vous vous précipitez sur le levier. 
+
+Le grand skuldrak réagit alors en crachant de l'acide sur la plate-forme. Il vous manque, mais vous entendez un cri de douleur derrière vous. 
+
+Vous tirez sur le levier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Quelques instants plus tard, le problème est réglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Mais quelques créatures se tournent vers le treuil, les oreilles dirigées vers le bruit métallique. 
+
+Vous ignorez combien de temps il vous faudra pour réparer le mécanisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Le plus grand skuldrak fonce vers le centre de l'ascenseur. Ses cris stridents se transforment en sifflements et il crache de l'acide sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Les chaînes s'entrechoquent et la plate-forme se met en branle. Les skuldraks se dispersent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Le plus petit skuldrak se rapproche de plus en plus, en décrivant des cercles rapides. Pendant ce temps, le plus grand recule pour préparer une nouvelle attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Surpris de voir l'ascenseur redémarrer, les skuldraks battent en retraite dans les ténèbres. 
+
+La plate-forme émerge de la tour et vous sentez un vent froid sur votre visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Continuez à réparer le treuil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Préparez-vous à vous défendre des skuldraks.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Les créatures vous empêchent de poursuivre votre tâche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Positionnez-vous au centre de la plate-forme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Un skuldrak se détache de la meute et fonce sur vous en percutant votre épaule avec sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Quelques instants plus tard, le problème est réglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Vous continuez à travailler sur le treuil, mais vos efforts semblent de plus en plus vains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Specified 0] fonce bruyamment vers le treuil, ses pas résonnant dans la cage d'ascenseur plongée dans le noir. 
+
+Attiré par le bruit, un skuldrak se détache de la meute et se jette sur [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Specified 0] atteint le treuil et commence à réparer les rouages rouillés et bloqués.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Quelques instants plus tard, le problème est réglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Specified 0] a sous-estimé la complexité du problème. Vous savez d'où il vient, mais [Specified 0] va avoir besoin d'une minute de plus pour y remédier.  
+
+Au-dessus de vous, les skuldraks se montrent de plus en plus téméraires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Le problème est malheureusement trop complexe. [Specified 0] ignore combien de temps il lui faudra pour réparer le treuil, voire s'il est réparable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Mais [Specified 0] redresse les épaules et relève la tête pour impressionner son adversaire. 
+
+Le skuldrak pousse un cri perçant et rejoint immédiatement la meute pour échapper à [Specified 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>En sifflant, le skuldrak crache de l'acide au visage de [Specified 0] avant de s'enfuir pour rejoindre la meute. [Specified 0] hurle de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Continuez à réparer le treuil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Préparez-vous à vous défendre des skuldraks.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Specified 0] se retourne pour défendre le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Specified 0] se précipite vers le levier. 
+
+C'est alors que le grand skuldrak surgit en crachant de l'acide. Il manque [Specified 0] mais vous et le reste de la plate-forme êtes touchés. [Specified 0] tire sur le levier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Surpris de voir l'ascenseur redémarrer, les skuldraks battent en retraite dans les ténèbres. 
+
+La plate-forme émerge de la tour et vous sentez un vent froid sur votre visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Le plus grand skuldrak fonce vers le centre de l'ascenseur. Ses cris stridents se transforment en sifflements et il crache de l'acide sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Le plus petit skuldrak se rapproche de plus en plus, en décrivant des cercles rapides. Pendant ce temps, le plus grand recule pour préparer une nouvelle attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Quelques instants plus tard, le problème est réglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Mais quelques créatures se tournent vers le treuil, les oreilles dirigées vers le bruit métallique. 
+
+Vous ignorez combien de temps il vous faudra pour réparer le mécanisme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Continuez à réparer le treuil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Préparez-vous à vous défendre des skuldraks.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Specified 0] se retourne pour défendre le groupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Positionnez-vous au centre de la plate-forme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Un skuldrak se détache de la meute et fonce sur [Specified 0] en percutant son épaule avec sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Quelques instants plus tard, le problème est réglé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Specified 0] continue à travailler sur le treuil, mais ses efforts semblent de plus en plus vains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Réparez le treuil.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[SkillCheck 1] trébuche, ce qui accentue l'oscillation de la plate-forme et fait tomber [SkillCheck 1] au bord de celle-ci.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Lancez une corde à [Specified 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Specified 0] attrape la corde et se hisse sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Slot 0] atteint le bord juste avant que [Specified 0] ne lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Slot 0] attrape la main de [Specified 0] et l'aide à se hisser sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Slot 1] atteint le bord juste avant que [Specified 0] ne lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Slot 2] atteint le bord juste avant que [Specified 0] ne lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Slot 3] atteint le bord juste avant que [Specified 0] ne lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Slot 4] atteint le bord juste avant que [Specified 0] ne lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Slot 5] atteint le bord juste avant que [Specified 0] ne lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Slot 1] attrape la main de [Specified 0] et l'aide à se hisser sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[Slot 2] attrape la main de [Specified 0] et l'aide à se hisser sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Slot 3] attrape la main de [Specified 0] et l'aide à se hisser sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Slot 4] attrape la main de [Specified 0] et l'aide à se hisser sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Slot 5] attrape la main de [Specified 0] et l'aide à se hisser sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Le monstre fonce vers le centre de l'ascenseur en crachant de l'acide qui atterrit sur le sol où il se met à bouillonner et à grésiller. Mais quelques gouttes vous touchent aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Le grand skuldrak fonce à nouveau vers le centre en crachant de l'acide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Le grand skuldrak fonce à nouveau vers le centre en crachant de l'acide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Envoyez quelqu'un aider [Specified 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Qui va y aller ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Envoyez [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[Envoyez [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>[Envoyez [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Envoyez [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>[Envoyez [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Envoyez [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Slot 0] se précipite de l'autre côté de l'ascenseur, mais [Specified 0] lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Slot 1] se précipite de l'autre côté de l'ascenseur, mais [Specified 0] lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Slot 2] se précipite de l'autre côté de l'ascenseur, mais [Specified 0] lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Slot 3] se précipite de l'autre côté de l'ascenseur, mais [Specified 0] lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Slot 4] se précipite de l'autre côté de l'ascenseur, mais [Specified 0] lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Slot 5] se précipite de l'autre côté de l'ascenseur, mais [Specified 0] lâche prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Vous recevez une giclée d'acide qui vous brûle la peau. Votre cri vous transperce les tympans, et vous sentez une odeur de chair brûlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Vous entendez un cri et sentez une odeur de chair brûlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Vous recevez une giclée d'acide qui vous brûle la peau. Votre cri vous transperce les tympans, et vous sentez une odeur de chair brûlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Vous recevez une giclée et hurlez de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Vous entendez d'autres hurlements de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Vous recevez une giclée et hurlez de douleur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Le plus grand skuldrak fonce vers le centre de l'ascenseur. Ses cris stridents se transforment en sifflements et il crache de l'acide sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Le plus grand skuldrak fonce vers le centre de l'ascenseur. Ses cris stridents se transforment en sifflements et il crache de l'acide sur la plate-forme.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

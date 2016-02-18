@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\px2_companion_cv_maneha_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>152</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous vous réveillez et entendez quelqu'un remuer. Et grogner.
+
+En regardant, vous découvrez Maneha se convulser et marmonner dans son sommeil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vous ne distinguez pas le sens de ses paroles, mais elle montre les dents et l'éclat de la sueur sur son front vous fait penser qu'elle est en plein cauchemar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Secouez-là pour la réveiller.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Retournez dormir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Elle se débat et remue toujours alors que vous replacez votre couverture sur votre visage et plongez dans le sommeil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Elle se redresse comme un piquet, en rugissant et cherchant son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Frappez lui la tête.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Calmez-vous ! Vous êtes en sécurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Reculez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Votre coup de poing s'écrase sur sa mâchoire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Elle balance son arme d'un mouvement ample et large, vous manquant de peu.
+
+L'effort semble cependant l'avoir réveillée d'un coup.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Que s'est-il-" Son regard vagabonde alentour puis se fixe lentement sur vous.
+
+Elle grimace et détourne les yeux, essuyant son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Désolée. Je devais être en train de rêver." Elle s'allonge et vous tourne le dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"À propos de quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Retournez dormir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Elle hoche la tête, mais vous ne distinguez que son crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"C'est pour ça que vous allez à l'Abbaye de la Lune déchue. Pour l'oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Elle hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"J'aimerais vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Partez.] "Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ce n'est rien du tout. Désolée, je n'aurais pas dû vous déranger." Elle tire la couverture par-dessus ses épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Réveillez-vous Maneha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Vous ne me dérangez pas, mais quelque chose vous importune clairement. J'aimerais vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Elle est silencieuse un long moment. Il semblerait presque qu'elle se soit déjà endormie à nouveau, mais elle soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vous m'avez parlée de votre Éveil-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Je suis désolée à propos de la nuit dernière. Il y a quelque chose que je devrais vous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Dites-moi juste ce qui se passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Crachez le morceau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Bonne nuit, [Player Name]." Elle s'allonge et vous tourne le dos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Nous sommes réveillés tous les deux maintenant. Autant en parler."</DefaultText>
+      <FemaleText>"Nous sommes réveillées toutes les deux maintenant. Autant en parler."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Les autres sont toujours endormis. Nous parlerons doucement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Normalement je ne parle pas de ça, mais vous avez mentionné votre Éveil." Elle remue un collier de perles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vous ne faites pas semblant quand vous vous faites des ennemis, si ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Écoutez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[Slot 0] s'agite. Maneha attend silencieusement que [Slot 0] se retourne et recommence à respirer profondément et lentement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Slot 1] s'agite. Maneha attend silencieusement que [Slot 1] se retourne et recommence à respirer profondément et lentement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Slot 2] s'agite. Maneha attend silencieusement que [Slot 2] se retourne et recommence à respirer profondément et lentement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Désapprouvez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Je voudrais vous demander quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Continuons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Je ne parle pas de ça d'habitude, mais-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"J'imagine que j'ai un problème similaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Il y a quelque chose dont je me rappelle d'une vie antérieure. Quelque chose qui s'est déroulé il y a des centaines d'années, mais dont je me souviens comme si c'était hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Quel est ce souvenir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Comment vous en êtes-vous souvenue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Quoi d'autre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"C'est quelque chose de terrible que j'ai fait. Il y a bien longtemps - j'étais une autre personne - mais je m'en rappelle plus clairement que toute autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ça s'est produit lorsque je combattais dans Vailia l'Ancienne, il y a vingt ans. Mon unité avait établi son campement dans le palais que nous venions de prendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Les autres faisaient griller le dernier des cochons du marceso dans le hall des banquets, alors je suis descendue à la cave pour aller chercher quelques bouteilles."
+
+Elle assemble ses doigts en une sorte de nœud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Je ne sais pas depuis combien de temps elle se cachait là, mais il y avait cette vieille femme. Ça devait être l'une des domestiques."
+
+Ses doigts s'enroulent en poings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Elle avait cet air bizarre dans les yeux. Je me suis approchée et j'ai essayé de lui dire de ne pas avoir peur, qu'elle était en sécurité."
+
+Maneha tend la main, en revivant le souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Elle a crié et m'a attrapé le bras." Elle ferme les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"J'ai pris quelques bouteilles avec moi. J'ai fait la fête avec les reste des troupes, mais quand je suis allée dans ma couchette, j'ai fait un rêve." Elle frissonne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Mais, il était plus frappant que tous les rêves que j'avais pu avoir. J'ai goûté la transpiration sur mes lèvres. Ressenti l'air de la jungle sur ma peau. Entendu les cris-" Elle s'arrête et déglutit en secouant la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Alors, j'ai ralenti la boisson pendant plusieurs jours, mais je continuais de faire ce rêve. Après quelques semaines j'ai pensé qu'un changement de décor pourrait me faire du bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Depuis lors, j'ai été pirate dans le Feu éteint, pèlerine dans les Blanches étendues, aventurière dans les Terres vivantes, et une Porteuse d'offrandes en Ixamitl."
+
+Elle vous fait un sourire empli de chagrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Je vous ai dit que je cherchais l'Abbaye de la Lune déchue afin de me débarrasser de quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Il y a une piscine là-bas. Le Puits de Sel. C'est là où les Porteurs d'offrandes laissent leurs plus lourds fardeaux."
+
+Elle marque une pause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"On raconte qu'une personne peut y entrer et y abandonner ses propres souvenirs." Il y a un air distant, comme affamé dans ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"C'est le plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Et vous laisseriez ce souvenir obsédant dans le Puits de Sel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Que se passera-t-il si vous perdez plus que ce qui était prévu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Elle rit. "À ce moment-là, j'abandonnerai alors tous mes souvenirs avec plaisir, si c'est à ce prix qu'est la paix dans cette vie et la suivante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Reposons-nous un peu. Nous avons beaucoup à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Mettons-nous en route. Nous avons un long chemin devant nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"C'était une guerre. Il y a des siècles, avant l'unification Aedyrane." Elle plie ses mains devant elle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"J'étais soldat à cette époque. J'ai mené une campagne à travers les jungles septentrionales pour assujettir certains villages kulklin de la périphérie. Un travail violent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"J'ai perdu un tiers de mes forces à cause de la jungle, et un autre tiers à cause des éclaireurs elfes qui s'y cachaient."
+
+"Au moment où nous avons atteint le premier village, nous avions écrasé leurs défenses, et ils nous avaient saignés." Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Il n'y avait guère plus que les enfants et les vieillards qui restaient, mais ils nous ont craché dessus quand nous sommes entrés en ville." Son visage se renfrogne. Ses yeux sont froids.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Alors je les ai cloués aux arbres jusqu'au dernier et je les ai laissés là pour qu'ils meurent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Que s'est-il passé ensuite ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Vous avez tué ces villageois pour éviter plus de combats ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Vous avez été mercenaire et pirate dans cette vie. Est-ce réellement si différent ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Je ne m'en suis jamais rappelé plus." Elle hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"C'est ce que j'ai continué à dire aux troupes." 
+
+Elle reste silencieuse un long moment avant de parler à nouveau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Mais si je suis honnête... J'étais en colère. Je voulais voir de la douleur. Et je voulais être celle qui tenait une lame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"J'ai eu mon lot de combats durant ces quarante étranges années, mais je n'avais jamais sorti ma lame pour regarder quelqu'un saigner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Et je ne l'avais jamais sortie sur quelqu'un qui n'avait pas la sienne en main."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Donc vous avez dit que les Sans-yeux venaient de l'abbaye ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Vous m'avez parlé de votre Éveil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Avant que nous ne continuions plus avant, il y a quelque chose que je dois vous dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"J'imagine que nous devrions être flattés que quelqu'un ait envoyé ses choses pour nous courir après, mais j'aurais préféré une missive."
+
+Elle essuie une tâche de sang de son cou, renifle sa main striée d'hémoglobine et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"J'ai entendu des rumeurs à propos des Sans-yeux, mais j'ai toujours pensé que le nom était une métaphore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Je les aurais appelés les Massues de l'Enfer si l'on m'avait demandé mon avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"C'est pour ça que personne ne l'a demandé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>[Acquiescez superficiellement.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Alors c'est ça la mystérieuse armée dont vous rêviez, hein ? C'est un miracle que vous puissiez trouver un peu de sommeil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Leur nom importe peu - ils tomberont par ma main de la même façon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Voilà, c'est ce que j'aime chez vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"C'est pourquoi nous allons à l'abbaye - pour les arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Elle soupire. "Je commence à regretter toutes les décisions qui m'ont menée jusqu'à ce point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Mais bon, j'imagine qu'un plan suicidaire est meilleur qu'une absence de plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Vous me blessez, [Player Name]." Elle place sa main au-dessus de son cœur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Quelque chose vous tracasse ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Ne vous inquiétez pas, nous trouverons aussi le Puits de Sel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Je pensais que vous seriez content. Vous étiez à la recherche de l'abbaye depuis longtemps."</DefaultText>
+      <FemaleText>"Je pensais que vous seriez contente. Vous étiez à la recherche de l'abbaye depuis longtemps."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Oui. Il y a quelque chose que je ne vous avais pas dit." Son regard fixe décrit un large arc autour de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Je sais ! C'est juste que..." Elle grommelle de façon exaspérée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Savoir que je suis finalement si proche de me débarrasser de ce souvenir, j'ai l'impression qu'il occupe mon esprit encore plus." Elle fait les cent pas et s'enfouit les doigts dans les cheveux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Ça a été avec moi pendant des décennies. Ça m'a conduit à courir à travers la moitié du monde connu." Elle envoie ses mains en l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Ça ressemble à une relation malsaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Mais sans sexe de réconciliation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Et ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Peut-être que vous devriez vous délester de ce poids."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Elle s'arrête et soupire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Il est temps que je vous raconte ce que j'ai fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Prenez votre temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>[Écoutez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>[Écoutez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Je ne comprends pas - quelle guerre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"C'était il y a cinq cents ans, quand l'Aedyr était un royaume populaire d'un côté et une région elfique de l'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Ils ont combattu par intermittence avant de s'unir. Maintenant les gens et les dirigeants elfiques se marient pour conserver la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"D'après mes observations, le mariage a plutôt l'effet opposé." Aloth sourit ironiquement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"C'est vrai. La campagne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"À cause de leur attitude de défi, j'ai vu des mois supplémentaires de batailles sanglantes alors que nous combattions pour le reste de la région."
+
+"J'ai dû les briser, et je devais envoyer un message aux autres villages." Ses mains tremblent alors qu'elle les élève pour couvrir son visage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Les anciens du village ont capitulé et nous ont offert le gîte dans la vieille salle de réunion. Et au crépuscule, ils ont essayé de mettre le feu autour de nous." Elle ferme les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Ils ont à peine pu faire partir une flamme, mais ce n'était pas l'important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Qu'est-ce que c'était ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Ils vous avaient trahis après s'être rendus. Ça me semble sérieux personnellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Vous deviez faire un exemple d'eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"J'ai pensé que vous comprendriez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Et si j'avais eu vos principes..." Elle déglutit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"C'est terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Ce n'était pas vous, Maneha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Vous n'avez aucune raison de vous accrocher à un souvenir qui date de cinq cents ans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Vous serez débarrassée de ça très bientôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"C'est ce dont j'ai essayé de me convaincre par moi-même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Enfin bon, nous devrions nous mettre en route."
+
+Elle endosse son sac, et vous apercevez quelque chose d'inhabituel dedans : un rouleau épais de vêtements reliés par du cuir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Comme si je ne le savais pas déjà." Elle s'essuie la bouche avec le dos de sa main.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Finalement, Aedyr et Kulklin unifiés. Les bonnes gens se sont pardonnés l'un à l'autre pour ce qu'ils avaient fait subir à leurs peuples.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Vous ne pouvez pas ignorer le soin qu'elle met à éviter votre regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"C'était comme si quelqu'un m'avait frappée derrière la tête. J'ai perdu connaissance pendant quelques minutes, et quand je suis revenue à mes sens, elle avait disparu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"J'ai demandé aux autres troupes. Personne ne l'avait vue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Et à propos de la vieille femme ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Ce rêve - était-ce un souvenir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Elle hoche la tête. "Comme quand vous entendez une chanson que vous savez avoir déjà entendue auparavant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Qu'est-ce que c'est ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Quelque chose que je garde pour des jours meilleurs." Elle le met de côté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Vous avez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Ce serait plus simple si vous me racontiez ce dont vous vous rappelez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"C'est pour ça que je suis venue à l'abbaye en premier lieu - pour les arrêter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Je vous ai dit que je cherchais l'Abbaye de la Lune déchue afin de me débarrasser de quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Il y a une piscine là-bas. Le Puits de Sel. C'est là où les Porteurs d'offrandes laissent leurs plus lourds fardeaux."
+
+Elle marque une pause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"On raconte qu'une personne peut y entrer et y abandonner ses propres souvenirs." Il y a un air distant, comme affamé dans ses yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

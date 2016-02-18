@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px1_companions\px2_companion_qst_zahua</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Secrets des Tacan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suivez l'esprit du lion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Récupérez la gemme de l'esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tirez de la sève pour aider à protéger l'antilope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Remplissez la gourde avec l'eau de la cascade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Explorez l'île.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Voyagez jusqu'au Vallon de la Pierre blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Zahua a demandé à ce que nous consommions tous ensemble quelques « herbes spéciales » dans le Vallon de la Pierre blanche afin de poursuivre l'esprit d'un lion qu'il pense être une représentation de son défunt maître, Ixepillo.
+
+Le secret pour devenir un guerrier Nalpazca illuminé, l'anitlei, a été perdu avec Ixepillo. Si Zahua peut récupérer ce savoir, il pourra peut-être libérer son peuple de l'esclavage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le lion semble nous emmener quelque part. Nous devons suivre son rythme si nous désirons trouver des réponses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Le lion nous a menés vers un esprit qui essaie de récupérer une gemme qu'il avait laissée sur un piédestal dans les environs. 
+
+Les corps autour du piédestal, qui semblent tous appartenir à l'esprit, indiquent peut-être que la récupérer sera moins simple qu'il n'y parait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nous avons rencontré une antilope blessée qui ferait une proie facile pour les prédateurs.
+
+Il y a un grand arbre vers le nord dont la sève exhale une odeur qui est censée tenir les autres animaux à l'écart. 
+
+Recouverte de cette sève, l'antilope aura de meilleures chances de survivre jusqu'à ce que sa plaie guérisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Un homme souffrant d'une grande soif nous a suppliés de lui apporter de l'eau provenant d'une cascade proche, prétendant qu'aucune autre eau ne pouvait étancher sa soif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>L'étang au centre du Vallon de la Pierre blanche s'est asséché, révélant une petite île en son centre. Nous devrions vérifier ce qui se trouve là-bas pour Zahua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Zahua a mentionné un endroit nommé le Vallon de la Pierre blanche à l'est de Stalwart où il a ressenti une présence spirituelle à la signification importante pour lui.
+
+Il souhaite que nous l'explorions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai récupéré la gemme depuis le piédestal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai pu tirer la sève que l'antilope avait demandée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>La cascade sembla cuire ma peau alors que j'essayais de remplir la gourde, mais cela se révéla être une illusion. J'ai l'eau demandée par cet homme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Zahua semble s'être libéré des griffes d'un passé qu'il refusait depuis des années.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Zahua a quitté le groupe pour poursuivre sa quête et je ne peux désormais plus l'aider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Zahua est mort et sa quête demeure en suspens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Zahua a demandé à ce que nous voyagions dans les régions sauvages à l'est de Stalwart, où il a trouvé un endroit qui résonne avec son âme. Il espère y trouver des réponses qui l'aideront à réaliser son vœu : libérer son peuple de l'esclavage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

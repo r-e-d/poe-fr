@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_crystal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Voilà le cristal. J'imagine qu'Ondra n'a pas pu le mettre au sommet de la lune..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ça doit être le cristal. Nous sommes prêts pour ça ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'est-ce que vous attendez, Gardien ? Un dieu pour venir vous sauver ?"</DefaultText>
+      <FemaleText>"Qu'est-ce que vous attendez, Gardienne ? Un dieu pour venir vous sauver ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Notre chemin nous a amené ici finalement. Un dernier acte de sacrifice attend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wael, aidez-moi, s'il y a une autre façon de me sortir de là, maintenant serait un bon moment pour la dévoiler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Le voilà ! Quelques coups et tout sera terminé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"J'imagine qu'on ne peut pas tirer dessus à distance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Le cristal nous appelle. Vous pouvez l'entendre chanter nos fins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Peut-être que je devrais faire ça. Peut-être qu'Ondra m'a mené vers vous, après tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

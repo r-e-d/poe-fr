@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_05_qst_iron_flail</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le Fléau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Atteignez le fort Readceran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez le commandant du Fléau de fer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fouillez le fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Occupez-vous du commandant Adaryc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Libérez les prisonniers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Survivez à l'embuscade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Enquêtez sur le remue-ménage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Enquêtez sur le fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Les villageois de Stalwart sont préoccupés à propos d'une bande de Readcerans, connus sous le nom du Fléau de fer, qui est venue dans les montagnes avec le dessein de revendiquer la Batterie. Un groupe de délégués a été envoyé pour négocier, mais ils ne sont pas revenus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Le Fléau de fer a érigé un fort dans le col montagneux au nord-ouest. Les réponses à propos du destin des délégués de Stalwart se trouveront là-bas. Deryan m'a demandé de gérer leur commandant, Adaryc Cendamyr.</DefaultText>
+      <FemaleText>Le Fléau de fer a érigé un fort dans le col montagneux au nord-ouest. Les réponses à propos du destin des délégués de Stalwart se trouveront là-bas. Deryan m'a demandée de gérer leur commandant, Adaryc Cendamyr.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Le Fléau de fer n'est pas avenant envers les visiteurs, mais j'ai réussi à trouver un moyen de pénétrer à l'intérieur du fort. Adaryc se trouve probablement quelque part dans les environs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Cette bande de Readcerans est organisée et bien équipée. Je pourrais peut-être trouver des indices à propos de leurs motivations à l'intérieur du fort ; ou éradiquer cette menace avant qu'elle ne s'amplifie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je me suis retrouvé nez à nez avec le commandant du fort. Il retient les délégués de Stalwart captifs, et il est fort peu probable qu'il prenne mon intrusion avec le sourire.</DefaultText>
+      <FemaleText>Je me suis retrouvée nez à nez avec le commandant du fort. Il retient les délégués de Stalwart captifs, et il est fort peu probable qu'il prenne mon intrusion avec le sourire.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Adaryc a emprisonné la délégation de Stalwart dans une cellule construite au sous-sol de sa cabine. Le commandant maintenant hors d'état de nuire, ils peuvent être libérés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Des créatures immenses et imposantes ont attaqué le fort du Fléau de fer et tous ses habitants. Et j'en fais partie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Il semblerait que l'une des délégués sabotait les négociations. Elle s'est suicidée avant d'avoir pu être interrogée correctement. Dans ses mémoires, j'ai pu glaner quelques informations sur le temple qui l'avait envoyée. 
+Je continuerai mes investigations plus tard ; un combat vient d'éclater dehors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Un fort d'une taille conséquente a été érigé à la base du col montagneux qui mène à Stalwart et à la Batterie. Il serait peut-être judicieux de découvrir si c'est l'armée que j'avais vue dans ma vision. Elle pourrait poser de sérieuses menaces à la Marche blanche et au Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Bien qu'il semble que les délégués soient arrivés au fort, je n'ai ressenti que de l'hostilité devant les portes, et j'ai rebroussé chemin. Les portes semblent assez solides pour résister à une attaque au bélier. Il existe peut-être un autre moyen d'y pénétrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Le fort semble être tenu par des Readcerans. Je n'ai rencontré que de l'hostilité aux portes du fort, et j'ai fait demi-tour. Je ne suis pas le bienvenu.
+Les portes semblent assez solides pour résister à une attaque au bélier. Il existe peut-être un autre moyen d'y pénétrer.</DefaultText>
+      <FemaleText>Le fort semble être tenu par des Readcerans. Je n'ai rencontré que de l'hostilité aux portes du fort, et j'ai fait demi-tour. Je ne suis pas la bienvenue.
+Les portes semblent assez solides pour résister à une attaque au bélier. Il existe peut-être un autre moyen d'y pénétrer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>J'ai rencontré un couple de tourtereaux en dehors du fort, l'un d'eux était un soldat Readceran. Il a mentionné que la garde en faction à la porte latérale avait tendance à s'assoupir pendant son tour de garde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai rencontré un couple de tourtereaux en dehors du fort, l'un d'eux était un soldat Readceran. Il a mentionné que la garde en faction à la porte latérale avait tendance à s'assoupir pendant son tour de garde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Les gardes postés en dehors des murs du fort étaient plutôt communicatifs quant à la raison de leur présence ici. Apparemment leur commandant avait été guidé vers la Marche blanche par une sorte de vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Les gardes postés en dehors des murs du fort étaient plutôt communicatifs quant à la raison de leur présence ici. Apparemment leur commandant avait été guidé vers la Marche blanche par une sorte de vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réussi à désamorcer la situation précaire avec le Fléau de fer, et à gagner un allié potentiel : le commandant Adaryc, un Gardien, comme moi. Stalwart est à l'abri des menaces des Readcerans pour le moment, mais le véritable ennemi s'est dévoilé : une armée de créatures gigantesques appelées les Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai confronté le commandant Adaryc, chef du Fléau de fer et de toute évidence un Gardien, comme moi. Avec sa mort, la menace des Readcerans sur Stalwart a été éradiquée. Cependant le véritable ennemi s'est dévoilé : une armée de créatures gigantesques appelées Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Tout en voyageant au nord-ouest de Stalwart, je suis tombé sur un fort qui arborait des bannières étrangères. Quelles que soient les intentions de ses occupants, il semble qu'ils soient venus en force.</DefaultText>
+      <FemaleText>Tout en voyageant au nord-ouest de Stalwart, je suis tombée sur un fort qui arborait des bannières étrangères. Quelles que soient les intentions de ses occupants, il semble qu'ils soient venus en force.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\backstory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Vous avez trouvé et tué l'ogresse Beregan dans la grotte de son clan située dans les Bois de Russet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Vous avez trouvé l'ogresse Beregan et conclu une trêve avec elle. Elle s'est engagée à ce que son clan ne vous fasse aucun mal, ni à vous ni à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Vous avez rencontré Galvino, un vieil inventeur excentrique et acariâtre qui vit près de la Batterie de Durgan. Il vous a parlé des « cantecs » traditionnels des nains Pargruns et vous a présenté la Démone de Caroc, une de ses créations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>La Démone de Caroc, une automate douée de raison et dotée d'une âme meurtrière, vous a demandé si elle pouvait vous accompagner et vous avez accepté.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>La Démone de Caroc vous a révélé qu'elle était aux trousses d'un homme qui avait participé à la purge de son village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Après avoir trouvé Harmke, l'homme recherché par la Démone de Caroc, vous avez sondé son âme et découvert qu'il n'était pas responsable de ce qui s'était passé à Aube fraîche. La Démone l'a laissé partir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Après avoir trouvé Harmke, l'homme recherché par la Démone de Caroc, vous avez sondé son âme et découvert qu'il avait détruit la maison de la Démone à Aube fraîche. Elle s'est vengée de lui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>La Démone de Caroc a été éliminée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>À Stalwart, vous avez rencontré Zahua, un moine d'Ixamitl, et l'avez invité à voyager à vos côtés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Zahua vous a parlé de son entraînement de guerrier et de son maître, qui a freiné la dernière partie de son instruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Zahua est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Vous avez découvert comment ouvrir les portes de la Batterie de Durgan et avez été la première personne en deux siècles à pénétrer dans l'ancienne forteresse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Après avoir parlé aux komendants de la Batterie, vous avez lié les âmes des nains aux canons situés au-dessus de la Batterie pour renforcer la défense de la puissante forteresse qu'ils avaient mis des générations à bâtir.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

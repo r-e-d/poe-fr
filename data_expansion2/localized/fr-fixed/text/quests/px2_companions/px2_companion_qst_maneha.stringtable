@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_companions\px2_companion_qst_maneha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Le fardeau de la mémoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez jusqu'à l'Abbaye de la Lune déchue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez le Puits de sel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Maneha, une Porteuse d'offrandes d'Ondra, cherche une abbaye cachée où les Ondrites déposent des choses pour qu'elles soient oubliées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai rencontré une Porteuse d'offrandes appelée Maneha. Elle recherche l'Abbaye de la Lune déchue, un temple Ondrite secret où l'on a ordonné à Maneha d'aller déposer plusieurs gages.
+
+Elle m'a rejoint dans l'espoir que nous trouvions cet endroit pendant nos voyages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nous avons atteint l'Abbaye de la Lune déchue. Maneha pense que le Puits de sel est quelque part dans le coin.
+
+Une fois qu'elle l'aura trouvé, elle pourra enfin se laver des souvenirs qui la hantent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Maneha m'a confessé qu'elle recherche l'abbaye pour se débarrasser de ses propres souvenirs douloureux. L'abbaye possède un puits dans lequel les fidèles peuvent se purifier et se libérer de leurs passés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Je me suis réveillé pour trouver Maneha en plein milieu d'un mauvais rêve. Ça vaudra sûrement la peine de lui en parler.</DefaultText>
+      <FemaleText>Je me suis réveillée pour trouver Maneha en plein milieu d'un mauvais rêve. Ça vaudra sûrement la peine de lui en parler.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Maneha est morte sans avoir trouvé la solution qu'elle cherchait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Nous avons trouvé le Puits de sel, et Maneha a abandonné son passé douloureux à Ondra. Il est peut-être trop tôt pour comprendre comment cela l'affecte réellement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nous avons trouvé le Puits de sel mais Maneha a finalement décidé de vivre avec les souvenirs du massacre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_cavorting_soldier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je peux tout vous expliquer ! Mais... Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vous êtes le seigneur de Caed Nua, n'est-ce pas ?" Gênée, la femme rougit.   
+
+"Que faites-vous ici ?"</DefaultText>
+      <FemaleText>"Vous êtes la dame de Caed Nua, n'est-ce pas ?" Gênée, la femme rougit.   
+
+"Que faites-vous ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qu'est-ce que vous fabriquez tous les deux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Partez.]"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Il fait trop froid pour faire quoi que ce soit..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"On prend un peu de bon temps, c'est tout. Il n'y a pas de mal à ça, si ?"  
+
+Elle glousse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Calmez-vous. Je ne vous ferai aucun mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Savez-vous quelque chose au sujet des délégués de Stalwart ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Euh... qu'est-ce que vous faites ici ? Vous risquez de vous faire dévorer par les chiens si les patrouilles vous tombent dessus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Alors, on fricote avec l'ennemi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Encore là ? Vous prenez des risques avec les patrouilles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Juste que leurs négociations ont échoué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous n'avez pas peur de vous faire prendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Que pouvez-vous me dire sur le Fléau de fer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Nous ne sommes pas juste là pour nous battre, contrairement à ce que vous avez pu entendre. Le col, la Batterie... Ces montagnes forment un véritable rempart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Que pouvez-vous me dire sur le commandant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Attention ! Ça peut durer des heures si vous le laissez parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Il nous a permis de retrouver notre fierté. Et il nous a dit de garder la foi. Parfois, j'ai l'impression d'entendre le Vigilant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Le commandant ?" Ses yeux s'illuminent.  
+
+"C'est lui qui a créé le Fléau de fer. C'est un homme bien. Il croit en Readceras. Plus que quiconque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Le commandant est très en colère depuis la semaine dernière. Ça ne lui ressemble pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Je dois parler au commandant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je ne peux pas vous aider. Et pas seulement parce que je risque de me faire pendre. Si vous aviez devancé les délégués, vous auriez peut-être eu une chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"En l'état actuel des choses, il semble que nous soyons là pour nous battre, et le commandant ne prend aucun risque."  
+
+"Je, euh... Je ne suis pas censé être ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"On est trois, non ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Le Fléau de fer est l'arme de Gaun. Celle qui protège les innocents. D'où son nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Inutile d'en faire tout un plat ! On ne fait de mal à personne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Et puis... Gamel a plutôt l'air de quelqu'un de raisonnable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Faites attention à vous ! Bon... Où en étions-nous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tenez... Je vous ai apporté une écharpe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Oh, merci, Meryel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Vous faites partie de cette armée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"N-non, on est juste... des villageois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Si vous continuez à me mentir, vous allez souffrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vous êtes bien armé, en tout cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Il se tortille. "Je vous en prie, calmez-vous. Alec s'est peut-être endormi, mais ce n'est pas le seul à monter la garde dans le coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Les jeunes n'ont plus aucune imagination."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

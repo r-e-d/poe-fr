@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_00_stalwart_village\px2_00_qst_vithrack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Murmures dans l'obscurité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cherchez les mineurs disparus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explorez les mines Est</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Explorez le campement vithrack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Occupez-vous du Spore rayonnant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retournez voir la contremaître Ismey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Gamel, un ouvrier des mines de Stalwart, a été appréhendé pour meurtre. La contremaître Ismey pense que Gamel est le responsable d'une récente série de disparitions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>La contremaître Ismey m'a demandé d'enquêter sur la disparition de plusieurs mineurs. Elle m'a suggéré de commencer par interroger Gamel, qui est retenu dans les quartiers du contremaître à gauche de l'entrée vers les mines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Toutes les informations que j'ai récupérées pointent en direction des mines à l'est. Je devrais poursuivre mes recherches dans cette direction, juste après le puits de la mine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>L'un des tunnels d'araignée situé dans les murs des mines m'a conduit vers un vaste campement vithrack. C'est peut-être en rapport avec les disparitions de mineurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Un large organisme fongique appelé Spore rayonnant a creusé un terrier dans le foyer vithrack. Il prend graduellement le contrôle des colonies vithracks, et influence les mineurs à s'y aventurer l'un après l'autre. Il va me falloir m'occuper de cette créature si je veux libérer les vithracks ou les mineurs de son contrôle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>J'ai géré le problème du Spore rayonnant, et les vithracks ne devraient désormais plus être une menace pour les mines. Ismey voudra sûrement que je lui fasse part de mon succès.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai découvert une porte scellée ne présentant apparemment aucun moyen d'entrer. Un glyphe au-dessus de la porte fredonne étrangement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai rencontré un vithrack dénommé Terenat. Il était retenu captif pour avoir caché la clé de la maison commune de ses compagnons vithracks, cherchant à empêcher leur infection de se propager plus encore. Il m'a dit que la clé était cachée dans les nids juste au sud d'ici.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai trouvé un cristal dans les nids de vithracks. Je pourrai peut-être l'utiliser pour ouvrir la porte scellée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Apparemment Gamel n'est pas le seul mineur à avoir fait preuve d'un comportement inhabituel. Teryc suspecte que ce soit la mine de souffre elle-même qui a des effets négatifs sur les ouvriers. Il me suggère de chercher les mineurs disparus vers l'est, là où le plus gros du minage de souffre se fait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Gamel dit qu'il se souvient avoir été trouvé par Teryc, un compagnon ouvrier, mais ne se rappelle pas des événements des jours d'avant. Il a mentionné que Teryc gère les conséquences d'un effondrement qui s'est déroulé dans le tunnel au nord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Cillan, la responsable des opérations de minage de soufre, a commandé à ses automates de m'attaquer. J'ai été forcé de la tuer.</DefaultText>
+      <FemaleText>Cillan, la responsable des opérations de minage de soufre, a commandé à ses automates de m'attaquer. J'ai été forcée de la tuer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé Cillan, la responsable des opérations de minage de soufre, dans un état de confusion étrange. Elle a ordonné à ses automates de m'attaquer. Heureusement, j'ai pu épargner sa vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ismey a mentionné que le corps de l'une des victimes, Sameth, se trouvait dans le tunnel vers l'est.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Le corps de Sameth montre des indices d'une attaque sauvage. Sa gorge a été arrachée, et des égratignures recouvrent son visage. Ses mains sont, assez bizarrement, tâchées de jaune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai entendu un des mineurs marmonner quelque chose à propos d'un cristal. Il semblait être dans un état de stupeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>J'ai rencontré un vithrack qui semble très déterminé à retrouver un certain cristal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quelqu'un d'une importance critique dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Alors que j'enquêtais sur les étranges événements des mines de Stalwart, j'ai découvert que le coupable était un Spore rayonnant - une excroissance fongique ayant le pouvoir d'influer sur les esprits. Il avait pris le contrôle d'une colonie vithrack, et à travers eux, était capable d'influencer les mineurs dans les tunnels situés au-dessus. J'ai éliminé le Spore rayonnant, mettant un terme à son contrôle et les mines sont de nouveau en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Alors que j'enquêtais sur les étranges événements des mines de Stalwart, j'ai découvert que le coupable était un Spore rayonnant - une excroissance fongique ayant le pouvoir d'influer sur les esprits. Il avait pris le contrôle d'une colonie vithrack, et à travers eux, était capable d'influencer les mineurs dans les tunnels situés au-dessus. J'ai éliminé le Spore rayonnant, mettant un terme à son contrôle et les mines sont de nouveau en sécurité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Alors que j'enquêtais sur les étranges événements des mines de Stalwart, j'ai découvert que le coupable était un Spore rayonnant - une excroissance fongique ayant le pouvoir d'influer sur les esprits. Il avait pris le contrôle d'une colonie vithrack, et à travers eux, était capable d'influencer les mineurs dans les tunnels situés au-dessus. J'ai éliminé le Spore rayonnant, mettant un terme à son contrôle et les mines sont de nouveau en sécurité. Ismey sera ravie d'apprendre que la situation a été résolue.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

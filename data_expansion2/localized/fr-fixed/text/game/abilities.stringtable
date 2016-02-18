@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\abilities</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>186</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1400</ID>
+      <DefaultText>Saut de dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText>Chaîne de guérison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Roue en mouvement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Sève</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1404</ID>
+      <DefaultText>Frappe de désintégration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1405</ID>
+      <DefaultText>Coquille de stase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1406</ID>
+      <DefaultText>Parasite temporel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Don de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Résister à la tempête</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Résurrection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1412</ID>
+      <DefaultText>Tempête de feu sacré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1413</ID>
+      <DefaultText>Boule de feu retardée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1414</ID>
+      <DefaultText>Bâton de protection de Llengrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Éclair tueur de Ninagauth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1416</ID>
+      <DefaultText>Fantôme substantiel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Orbe chaotique de Tayn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Mur d'épuisement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1424</ID>
+      <DefaultText>Jet glacial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1425</ID>
+      <DefaultText>Souffle de gel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1426</ID>
+      <DefaultText>Souffle de feu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1427</ID>
+      <DefaultText>Flammes de protection</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1428</ID>
+      <DefaultText>Hurlement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1429</ID>
+      <DefaultText>Invisibilité</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1431</ID>
+      <DefaultText>Tir de représailles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1432</ID>
+      <DefaultText>Souffle toxique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1433</ID>
+      <DefaultText>Glace glissante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1434</ID>
+      <DefaultText>Liaison d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1435</ID>
+      <DefaultText>Téléportation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText>Modification test</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText>Flèches jumelles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1438</ID>
+      <DefaultText>L'âme dichotomique</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText>Immolation sacrée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
+      <DefaultText>Subir le coup</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1441</ID>
+      <DefaultText>Nuage de fumée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1442</ID>
+      <DefaultText>Leur Champion brava la horde seul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1443</ID>
+      <DefaultText>Ils couvèrent leurs yeux cont' la brume du fampyr'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1444</ID>
+      <DefaultText>Rayonnement de l'acolyte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1445</ID>
+      <DefaultText>Coup blessant du coureur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1446</ID>
+      <DefaultText>Récupération du vétéran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1447</ID>
+      <DefaultText>Concentration du galant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1448</ID>
+      <DefaultText>Attaque furtive de l'apprenti</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1449</ID>
+      <DefaultText>Marque de l'aspirant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1450</ID>
+      <DefaultText>Souffrance du novice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1451</ID>
+      <DefaultText>Charme de l'énigme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1452</ID>
+      <DefaultText>Frénésie de l'étranger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1453</ID>
+      <DefaultText>Missiles du prestidigitateur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1454</ID>
+      <DefaultText>Apparition du poète</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1455</ID>
+      <DefaultText>Esprit gardien</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1456</ID>
+      <DefaultText>Étincelle de douleur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1457</ID>
+      <DefaultText>Détruit les vaisseaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1458</ID>
+      <DefaultText>Aveugle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1459</ID>
+      <DefaultText>Le barbare ne peut pas être attaqué par les ennemis de niveau inférieur (de plus de 1 niveau). Mais cela ne l'empêche pas d'être attaqué en mêlée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1460</ID>
+      <DefaultText>Grâce à leurs réserves de puissance spirituelle, les barbares peuvent bondir très haut et s'abattre sur leurs ennemis pour les étourdir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1461</ID>
+      <DefaultText>Le clairvoyant peut isoler un ennemi du monde, sans que celui-ci puisse réagir ou être à la merci de personnages extérieurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1462</ID>
+      <DefaultText>En siphonnant la puissance spirituelle de ses ennemis, le clairvoyant peut les ralentir pour accélérer ses propres déplacements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1463</ID>
+      <DefaultText>Le druide puise l'énergie spirituelle brute de la nature pour prendre la forme de 2 ou 3 vases et limons aléatoires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1464</ID>
+      <DefaultText>Tous les emplacements rapides inoccupés du groupe sont remplis d'un extraordinaire nectar qui confère des bonus de combat et des soins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1465</ID>
+      <DefaultText>Le druide jette une puissante protection contre les forces de la nature sur ses alliés pour leur permettre de résister aux dégâts brûlants, corrosifs, givrants et éléctriques.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1466</ID>
+      <DefaultText>Le combattant s'interpose entre les ennemis qui attaquent les alliés présents à proximité. Le total des dégâts infligés par une attaque visant un allié voisin est divisé par deux et le combattant subit l'autre moitié sous forme de dégâts bruts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1467</ID>
+      <DefaultText>Le combattant lance une attaque principale qui inflige des dégâts supplémentaires et fait baisser le niveau de réduction des dégâts de base de la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1468</ID>
+      <DefaultText>Le paladin se concentre sur sa foi et s'immole dans des flammes bleues. Chaque fois que la capacité clignote, il subit des dégâts bruts, mais des dégâts brûlants sont infligés aux ennemis présents dans la zone. L'endurance des alliés augmente légèrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1469</ID>
+      <DefaultText>Le paladin vise un allié pour le guérir, mais l'effet rebondit d'un allié à l'autre jusqu'à six fois (coup initial compris).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1470</ID>
+      <DefaultText>Le prêtre bénéficie de l'éclat surnaturel du pouvoir dont il est imprégné. En tant qu'avatar mineur de sa divinité, il bénéficie de bonus pour tous les attributs, l'endurance, la santé et les dégâts armés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1471</ID>
+      <DefaultText>Un allié est ramené à la vie et guéri. Il bénéficie des effets du Bouclier contre la mort et les alliés voisins sont guéris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1472</ID>
+      <DefaultText>Une terrible averse de feu s'abat sur la zone d'effet et inflige des dégâts brûlants répétés à tous les personnages présents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1473</ID>
+      <DefaultText>Lorsque le rôdeur utilise un arc de chasse ou un arc de guerre, il peut choisir de tirer deux flèches à la fois. La précision de chaque tir est réduite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1474</ID>
+      <DefaultText>Le compagnon animal du rôdeur tombe et semble momentanément mort (il ne peut pas être pris pour cible). Pendant qu'il fait le mort, il récupère de l'endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1475</ID>
+      <DefaultText>Le bandit émet un petit nuage de fumée qui distrait brièvement les ennemis voisins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1476</ID>
+      <DefaultText>Le magicien lance une petite boule de feu qui s'immobilise brièvement avant d'exploser en infligeant de lourds dégâts brûlants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1477</ID>
+      <DefaultText>Ce sort fait apparaître un puissant bâton qui accroît la déviation et chasse les ennemis tout en ajoutant un effet d'entrave à chaque attaque réussie. L'invocation proprement dite chasse également tous les personnages (alliés compris) présents autour du jeteur de sorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1480</ID>
+      <DefaultText>Inspiré par l'excentrique magicien aedyran Tayn, l'Orbe chaotique rebondit d'un ennemi à l'autre en leur infligeant des dégâts et divers afflictions tels que pétrification, paralysie, affaiblissement, intoxication, assommement et eveuglement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1481</ID>
+      <DefaultText>Les effets de statut bénéfiques des ennemis durent moins longtemps lorsqu'ils traversent ce mur ou qui sont pris dans celui-ci. Pour chaque seconde puisée, le magicien bénéficie d'effets de statut bénéfiques prolongés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1482</ID>
+      <DefaultText>Canalise le pouvoir de la formidable rage d'un barbare, ce qui accroît la vitesse d'attaque, la puissance et la constitution tout en réduisant la déviation et en dissimulant l'endurance et la santé du personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText>La foi nuancée qu'il a dans les dieux permet à ce personnage de libérer une salve d'énergie spirituelle semblable au Rayonnement sacré du prêtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1544</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1545</ID>
+      <DefaultText>Rayon de la mort de Ninagauth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1546</ID>
+      <DefaultText>Bénédiction des Oubliés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1549</ID>
+      <DefaultText>Son courage épais comme l'acier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1551</ID>
+      <DefaultText>Ce que Rou Naka a trouvé dans les profondeurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1552</ID>
+      <DefaultText>Délice de Speckleback</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1553</ID>
+      <DefaultText>Odeur pourrissante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1554</ID>
+      <DefaultText>Choc de représailles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1555</ID>
+      <DefaultText>Ynefer blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1556</ID>
+      <DefaultText>Civet de lapin de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>Auto-destruction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1558</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1559</ID>
+      <DefaultText>Éclair tueur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1560</ID>
+      <DefaultText>Tempête d'ailes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1561</ID>
+      <DefaultText>Brûlure d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1562</ID>
+      <DefaultText>Chiquenaude du poignet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>Votre temps passé à jouer à la Tête d'Orlan dans le Refuge du gréf finit par payer, octroyant un bonus de Précision avec toutes les dagues et stylets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1564</ID>
+      <DefaultText>La Douzaine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>Le moine médite brièvement sur sa douleur, invoquant deux manifestations physiques de souffrance, l'une faite de flammes, l'autre de glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText>Le bandit réalise une Attaque primaire qui inflige des dégâts additionnels et laisse la cible Assommée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>Cette variante plus puissante du sort commun Lueur de feu inflige des dégâts bruts, attaque la Robustesse de la cible, et n'affecte que les ennemis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>Une curieuse variante de la toujours populaire Boule de feu, Ombreflamme de Ninagauth cause des dégâts givrants et paralyse quiconque est pris dans la zone d'effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>La variante de Concelhaut des Projectiles mineurs de Minoletta inflige des dégâts bruts, attaque la robustesse de la cible et octroie endurance puisée au lanceur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>Un sort vraiment unique, l'Écrasement infernal de Concelhaut invoque un énorme marteau qui s'abat de manière répétée sur sa cible, infligeant des dégâts contondants et les renversent. Le marteau frappe de manière répétée, devenant plus large, plus précis et infligeant plus de dégâts à chaque fois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>Les alliés de l'incantateur gagnent un bonus à leur défense de Volonté et une résistance contre les afflictions charme, confusion et domination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>Octroie une barrière qui absorbe les dégâts contre les alliés de l'incantateur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>Les alliés de l'incantateur regagnent une portion des dégâts qu'ils infligent en endurance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1587</ID>
+      <DefaultText>Étourdissement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1589</ID>
+      <DefaultText>Inflige brièvement la domination sur une seule cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1590</ID>
+      <DefaultText>Don de la nature</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1591</ID>
+      <DefaultText>Machine vivante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1594</ID>
+      <DefaultText>Détecte les âmes hébergées ayant précédemment vécu à la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1595</ID>
+      <DefaultText>Le porteur du manteau gagne en RD Givrant. Celui qui attaque le porteur en mêlée subira des dégâts brûlants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1598</ID>
+      <DefaultText>Détruit entièrement tout vaisseau dont le niveau est inférieur à celui de l'attaquant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1599</ID>
+      <DefaultText>Boule de neige</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1602</ID>
+      <DefaultText>Ralentir esprits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1603</ID>
+      <DefaultText>Paralysie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1604</ID>
+      <DefaultText>Invocation de vaisseaux</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1605</ID>
+      <DefaultText>Fait apparaître plusieurs vaisseaux aléatoires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1611</ID>
+      <DefaultText>Embrouiller</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1612</ID>
+      <DefaultText>Cause brièvement l'affliction confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1613</ID>
+      <DefaultText>Forme entre le jeteur de sorts et la cible un faisceau qui inflige des dégâts d'écrasement continus aux adversaires qu'il touche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1630</ID>
+      <DefaultText>Arc noir de Caedebald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1674</ID>
+      <DefaultText>Le compagnon du crâne de Concelhaut a la possibilité d'appeler l'ombre de l'archimage à l'aide. Lorsqu'il est invoqué, le visage de Concelhaut jettera des sorts, mais l'invocateur subit des dégâts bruts pendant toute la durée où le sorcier mort-vivant puise dans sa force vitale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1677</ID>
+      <DefaultText>Guérison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1678</ID>
+      <DefaultText>Le prêtre utilise Rayonnement sacré dès qu'un membre du groupe passe sous 33 % d'Endurance ou si deux ou plus membres sont sous 50 % d'Endurance. Si Par repos est activé, le prêtre utilisera des sorts de guérison et de ranimation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1679</ID>
+      <DefaultText>Retraite agile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1680</ID>
+      <DefaultText>Toucher ponctionnant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1690</ID>
+      <DefaultText>Beuverie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1696</ID>
+      <DefaultText>Malédiction Mênpŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1697</ID>
+      <DefaultText>Récitation vive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1712</ID>
+      <DefaultText>Guérir le compagnon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1713</ID>
+      <DefaultText>Tentacules entortillées de Maura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1714</ID>
+      <DefaultText>Sceau perçant de Minoletta</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1715</ID>
+      <DefaultText>Traction d'Eora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1716</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1717</ID>
+      <DefaultText>Ressentiment d'Effigy : Zahua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1718</ID>
+      <DefaultText>Ressentiment d'Effigy : La Démone de Caroc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1719</ID>
+      <DefaultText>Ressentiment d'Effigy : Maneha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1720</ID>
+      <DefaultText>Le bandit s'effondre sur le sol et prétend être hors de combat, regagnant de l'Endurance et attendant le bon moment pour retourner dans la bataille. Lorsque le bandit se relève, il ou elle devient invisible pour une courte période.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1721</ID>
+      <DefaultText>En pénétrant à travers l'Entre-deux, le bandit est apparemment capable de se téléporter à travers le champ de bataille pour quelques instants, retournant automatiquement à sa position de départ à la fin de l'effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1722</ID>
+      <DefaultText>Le magicien invoque une sphère noire qui attire à elle tous les ennemis proches à chacune de ses pulsations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1726</ID>
+      <DefaultText>L'incantateur invoque une variété d'armes anciennes pour attaquer ses ennemis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1727</ID>
+      <DefaultText>Cette épouvantable invocation dissout rapidement les corps et âmes des victimes occasionnant des dégâts Bruts aux ennemis pris dans son chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1729</ID>
+      <DefaultText>Une fois un ennemi tué, la récupération du barbare est abandonnée, lui permettant d'attaquer à nouveau immédiatement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1731</ID>
+      <DefaultText>L'incantateur augmente la Précision et les dégâts des alliés contre tous les ennemis de type Bête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1732</ID>
+      <DefaultText>Tous les alliés reçoivent plus d'Endurance par les effets de guérison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1737</ID>
+      <DefaultText>Le druide s'unit avec de minuscules esprits de la nature pour prendre la forme d'un grand cerf fait de flammes. Celui-ci laisse une trainée de flammes partout où il court. Les esprits à l'intérieur peuvent se disperser violemment, détruisant le cerf et causant des dégâts de Feu ou Perforants à quiconque est pris dans l'explosion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1739</ID>
+      <DefaultText>Les alliés gagnent une couche de peau « de bois » protectrice et sont imprégnés avec des caractéristiques de delemgan, devenant plus rapides, moins vulnérables aux attaques de désengagement, et immunisés à l'affliction d'Immobilisation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1740</ID>
+      <DefaultText>Le guerrier se précipite au travers du champ de bataille en un éclair, infligeant des dégâts Contondants à quiconque est pris dans son chemin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1742</ID>
+      <DefaultText>Le moine lance une cible dans les airs, la plaquant ensuite contre le sol et la laissant renversée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1743</ID>
+      <DefaultText>Le coup du moine génère une résonance favorable entre lui et sa cible. Les coups suivants augmentent l'intensité de la résonance. À un moment choisi par le moine, il ou elle peut choisir d'infliger des dégâts Bruts à quiconque la porte à ce moment donné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1744</ID>
+      <DefaultText>Le moine devient capable de projeter de la force depuis ses poings, infligeant des dégâts à distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1746</ID>
+      <DefaultText>Le paladin cible un allié au sol, créant un signal lumineux fait de pulsations qui augmente la vitesse et la réduction des dégâts des alliés proches et réduit la vitesse et la réduction des dégâts des ennemis proches. Le signal lumineux disparait si l'allié est ranimé. Si le paladin est renversé en combat, cette compétence lui est automatiquement appliquée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1747</ID>
+      <DefaultText>Les personnages affectés par Confusion, Charme et Domination subissent de sévères pénalités de Précision en attaquant le paladin. De plus, les attaques du paladin contre de tels personnages infligent des dégâts minimum et mettent toujours fin à cet effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1748</ID>
+      <DefaultText>Le prêtre appelle un faisceau de lumière qui guérit les alliés et brûle les ennemis pris dans le rayon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1749</ID>
+      <DefaultText>Imprime le symbole de Berath sur le sol, causant périodiquement des dégâts Corrosifs aux ennemis et les laissant Affaiblis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1750</ID>
+      <DefaultText>Imprime le symbole d'Éothas sur le sol, causant périodiquement des dégâts Brûlants aux ennemis dans la zone et octroyant des bonus défensifs aux alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1751</ID>
+      <DefaultText>Imprime le symbole de Magran sur le sol, causant périodiquement des dégâts Brûlants aux ennemis dans la zone et les laissant Aveuglés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1752</ID>
+      <DefaultText>Imprime le symbole d'Ondra sur le sol, causant périodiquement des dégâts Contondants aux ennemis dans la zone et octroyant une réduction des dégâts aux alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1753</ID>
+      <DefaultText>Imprime le symbole de Skaen sur le sol, causant périodiquement des dégâts Perforants aux ennemis dans la zone et les laissant Entravés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1754</ID>
+      <DefaultText>Imprime le symbole de Wael sur le sol, causant périodiquement des dégâts Givrants aux ennemis dans la zone et octroyant des résistances à Confusion, Charme et Domination aux alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1755</ID>
+      <DefaultText>Imprime le symbole de Woedica sur le sol, causant périodiquement des dégâts Tranchants aux ennemis dans la zone et octroyant des bonus de Précision aux alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1756</ID>
+      <DefaultText>La foi du prêtre devient une source indomptable pour lui et ses alliés. Quand un allié affecté est mis KO en combat, il ou elle sera immédiatement ranimé et une partie de son Endurance sera restaurée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1757</ID>
+      <DefaultText>Octroie à un seul allié une immunité temporaire contre les afflictions Aveuglement, Confusion, Étourdissement, Distraction, Effroi, Entrave, Renversement, Intoxication et Immobilisation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1758</ID>
+      <DefaultText>Octroie à un seul allié une immunité temporaire contre les afflictions Charme, Domination, Paralysie, Pétrification, Assommement, Terreur et Affaiblissement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1759</ID>
+      <DefaultText>Le rôdeur surcharge chaque tir de son arme à feu avec un excès de poudre. L'explosion qui en résulte génère un puissant cône de flammes, mais Aveugle temporairement le rôdeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>L'incantateur est capable de réciter les phrases plus rapidement, lui permettant d'utiliser les invocations plus tôt en combat tout en augmentant le chevauchement entre ses phrases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>Martyre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>Immunité : Sol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>La cible ne peut pas être affectée par des attaques ou des afflictions spécifiques avec ce mot-clé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>Immunité : Souffle de dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>Résistance : Renversement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>Défense augmenté contre les afflictions citées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>Rugissement terrifiant d'ours des neiges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1791</ID>
+      <DefaultText>Balayage d'ours des neiges</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1792</ID>
+      <DefaultText>Lâche un terrible cri, qui cause Effroi aux ennemis dans la zone d'effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1793</ID>
+      <DefaultText>Assaille psychologiquement les ennemis près du jeteur de sort, occasionnant des dégâts Bruts et Étourdissant à quiconque se trouve dans la zone d'effet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>Transforme l'utilisateur en un mênpŵgra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Invocation de rôdeur du marais</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>Le rocher mousseux relâche l'âme magique captive qui se coagule pour prendre la forme physique d'un Rôdeur du marais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Conjure un Fléau de pluie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1800</ID>
+      <DefaultText>Venin du moine aveugle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1801</ID>
+      <DefaultText>Colère des cinq soleils</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1802</ID>
+      <DefaultText>Dès lors que le paladin utilise Ennemi juré, cinq orbes de flamme bondissent de sa main et volent vers la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1803</ID>
+      <DefaultText>Vielo Vidòrio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1804</ID>
+      <DefaultText>"Vielo vidòrio !" est un cri de guerre signifiant "victoire rapide" utilisé parmi les Frermàs mes Canc Suolias. Quand le paladin utilise Flammes de dévotion, les alliés proches gagnent une amélioration de leur Vitesse d'attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1815</ID>
+      <DefaultText>Autorité du Gréf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1816</ID>
+      <DefaultText>Attaque de mêlée précise qui occasionne des dégâts Tranchants/Écrasants, contourne une partie de la réduction des dégâts et peut Assommer la cible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1870</ID>
+      <DefaultText>Manteau éthéré</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

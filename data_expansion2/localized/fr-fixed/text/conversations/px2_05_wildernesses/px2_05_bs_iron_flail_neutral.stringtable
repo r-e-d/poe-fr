@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_bs_iron_flail_neutral</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"On garde un œil sur vous..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pourquoi payer les Glamfellens s'ils ne sont même pas capables de repérer un aumaua au beau milieu d'un camp ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Adaryc dit que nous ne vous ferons aucun mal. Mais gardez cela pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Par tous les dieux, vous vous battez comme un ours. Je suppose qu'il est préférable de vous avoir à nos côtés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je ne sais pas pourquoi Adaryc vous fait confiance, mais puisqu'il en est ainsi... Bienvenue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous vous connaissez vous et le commandant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Attention aux chiens. Ils peuvent être particulièrement traîtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Avec vous à nos côtés, on serait certains de l'emporter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous êtes le Gardien dont on a entendu parler ? Vous entendez des voix ?"</DefaultText>
+      <FemaleText>"Vous êtes la Gardienne dont on a entendu parler ? Vous entendez des voix ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

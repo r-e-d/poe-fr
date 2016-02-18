@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_deadfire</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Brynlod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Brynlod et prenez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Apportez la tête de Brynlod à Asca, à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Brynlod, un pirate tristement célèbre de l'archipel du Feu éteint a fouillé les ruines d'Eir Glanfath à la recherche de trésors engwithans. Les six tribus d'Eir Glanfath désirent que ses profanations cessent immédiatement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Brynlod a été vu pour la dernière fois entre Dyrford et Clîaban Rilag. Les Crocs ont envoyé leurs meilleurs éléments contre lui, mais sans succès. Ils désespèrent de trouver quelqu'un qui pourrait mettre un terme à ses pillages dans les ruines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Asca détient l'argent pour la prime sur Brynlod. Elle veut juste une preuve de sa mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai revendiqué la prime sur Brynlod.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

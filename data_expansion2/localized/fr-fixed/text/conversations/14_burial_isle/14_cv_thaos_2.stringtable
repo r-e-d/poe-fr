@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_thaos_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Je ne peux pas m'empêcher d'avoir de la peine pour lui. Vivre si longtemps sans jamais avoir la chance de prendre un nouveau départ... de se demander ce qu'il y a ailleurs." Elle secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"C'est dur, mais mérité..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Maneha hoche la tête. "Si un homme tel que Thaos peut avoir une seconde chance, tous les espoirs sont permis, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

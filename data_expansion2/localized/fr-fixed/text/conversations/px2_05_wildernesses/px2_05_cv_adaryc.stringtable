@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_adaryc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>217</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Quoi ?! Qui êtes-vous ?"  
+
+Le commandant du Fléau de fer est un homme jeune, élancé, aux cheveux bruns hirsutes et au regard enfiévré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Quoi... ? Bien sûr. Ces lâches n'auraient jamais pu s'emparer des canons tous seuls !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ha ! L'espace d'un instant, je vous ai cru." Il désigne la grille du pied.   
+
+"Vous êtes un redoutable assassin, divin. Il faut bien le reconnaître."</DefaultText>
+      <FemaleText>"Ha ! L'espace d'un instant, je vous ai crue." Il désigne la grille du pied.   
+
+"Vous êtes un redoutable assassin, divine. Il faut bien le reconnaître."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Soudain, une vague de souvenirs d'une clarté déconcertante vous submerge...   
+
+Vous voyez le campement d'Odema, ravagé par le bîawac. Et les salles de Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je vous en prie, calmez-vous. Je ne suis pas là pour me battre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je préférerais régler ça pacifiquement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vos hommes étaient vulnérables."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oui. Et je ne vais pas tarder à savoir qui vous êtes, vous aussi."  
+
+Les paroles d'Adaryc résonnent dans votre esprit. Spontanément, vos sens s'éveillent, comme s'ils avaient détecté une source d'essence...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Attendez, vous êtes un Gardien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Je suppose que vous ne vous attendiez pas à cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Qu'est-ce que vous m'avez fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ce n'est pas..." Adaryc balaie la pièce du regard et son visage s'empourpre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Pourquoi êtes-vous ici ? Pourquoi maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Attaquez.] "Je vais vous délivrer de la honte qui vous ronge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Dyrwood est ma patrie maintenant, et je suis prêt à mourir pour la défendre !"</DefaultText>
+      <FemaleText>"Dyrwood est ma patrie maintenant, et je suis prête à mourir pour la défendre !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Attaquez.] "Gardien ou pas, je ne vous laisserai pas vous emparer de la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ils aimeraient nous faire passer pour les déraisonnables à Stalwart, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Réfléchissez. Et si vous vous trompiez ? Vous perdez des hommes et des ressources en combattant des gens qui ne sont même pas vos ennemis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"... Et dans le cas contraire ? Si la folie d'un Gardien me poussait à écarter mon peuple du droit chemin ?"</DefaultText>
+      <FemaleText>"... Et dans le cas contraire ? Si la folie d'une Gardienne me poussait à écarter mon peuple du droit chemin ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Je vous en prie, commandant. Nous savons tous les deux que quelque chose se prépare. À nous deux, en notre qualité de Gardiens, nous trouverons peut-être un moyen d'éviter le pire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Un long silence s'installe dans la cabane. 
+
+Vous entendez un bruit métallique : Adaryc prend son épée, puis il la repose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Réfléchissez... Croyez-vous vraiment les habitants de ce trou paumé capables de semer un tel chaos ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Peut-être bien, oui. En unissant leurs forces et en construisant un dispositif semblable à ceux de Magran." Adaryc ne semble lui-même guère convaincu par ses propos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je pensais que tous les autres Gardiens étaient fous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Cela n'augurerait rien de bon pour vous, n'est-ce pas ?" Le ton d'Adaryc trahit sa nervosité, mais il vous regarde avec un intérêt circonspect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Un long silence s'installe dans la cabane.   
+
+Une vague d'énergie spirituelle traverse la pièce, et un bruit métallique retentit lorsqu'Adaryc soulève son épée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Avec les canons de la Batterie, nous empêcherons quiconque de passer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Il élève la voix. "Readceras a assez souffert. Ses fils et ses filles n'ont plus rien. Nous ne pouvons nous contenter d'attendre que Dyrwood attaque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Adaryc dégaine son épée.  
+
+"Tuez-le, messieurs ! Nous enverrons sa tête à Stalwart !"</DefaultText>
+      <FemaleText>Adaryc dégaine son épée.  
+
+"Tuez-la, messieurs ! Nous enverrons sa tête à Stalwart !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"C'est une question de vie ou de mort. Dommage que vous soyez venu ici en ennemi."</DefaultText>
+      <FemaleText>"C'est une question de vie ou de mort. Dommage que vous soyez venue ici en ennemie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Espèce de monstre ! Chacun d'eux avait deux fois plus de valeur que vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous avez alors la désagréable sensation que votre double conscience se replie sur elle-même, puis le lien se rompt.   
+
+Adaryc semble surpris et son visage est blême.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vous êtes..." Adaryc s'éclaircit la voix. "C'est vous le Gardien de Caed Nua ? On m'avait pourtant dit que c'était un ermite sénile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Maerwald est mort. Caed Nua est désormais à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"C'est bien moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Adaryc affiche une moue irritée. Il secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Adaryc sursaute et recule d'un pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Je crois que vous avez vu la même chose que moi. Une armée qui descendait de la montagne en détruisant tout sur son passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Adaryc plisse le front, visiblement en proie au doute. Ses hommes échangent quelques regards en attendant fébrilement les ordres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Puisque vous voulez vous battre, allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Je ne partirai pas d'ici sans eux. Écartez-vous, sinon..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"C'est aussi bien comme ça. Je vais pouvoir venger les hommes que vous avez tués."  
+
+Adaryc dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Très bien." Adaryc semble déçu, mais il se reprend rapidement.   
+
+Il dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Bon. Je vois qu'il n'y a aucun moyen de vous convaincre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ayez la foi, commandant. Ce n'est pas ce qu'Éothas souhaite pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Un murmure traverse les soldats rassemblés. Adaryc se retourne vers eux, mal à l'aise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Je vois qu'il n'y a aucun moyen de vous convaincre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vous êtes Éveillé, vous aussi ?"</DefaultText>
+      <FemaleText>"Vous êtes Éveillée, vous aussi ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Connaissez-vous un remède ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Non. Bien sûr que non." Adaryc vous observe avec fascination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Adaryc vous observe. Puis il fait un léger signe de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"J'ignore qui vous croyez aider, seigneur de Caed Nua, mais vous n'auriez pas dû venir ici."</DefaultText>
+      <FemaleText>"J'ignore qui vous croyez aider, dame de Caed Nua, mais vous n'auriez pas dû venir ici."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Très bien." Adaryc semble déçu, mais il se reprend rapidement.   
+
+Il dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Je vais appeler nos forces des montagnes. Je vous demande juste de me laisser le temps de leur expliquer. Quant à vous, vous devriez aller parler aux messagers de Stalwart. Vous obtiendrez peut-être des réponses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Bon sang, vous ne m'écoutez pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Vous marchez sur des pavés humides, sous Copperlane, à la recherche de la Clé plombée.  
+
+Vous gravissez un escalier sinueux menant au sommet d'une tour embrumée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"C'est moi qui ai rouvert la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Dans les cavernes souterraines du donjon, la pierre vous met en garde dans une langue morte.  
+
+Plus bas encore, une gueule aux crocs impressionnants s'ouvre, telle une blessure infligée au monde...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Gaun... Pardonnez-moi..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Une diversion, pendant que les autres rampaient vers vous pour vous demander de l'aide ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ha ! L'espace d'un instant, je vous ai cru." Il désigne la grille du pied.   
+
+"Mais ce n'est qu'un banal assassin."</DefaultText>
+      <FemaleText>"Ha ! L'espace d'un instant, je vous ai crue." Il désigne la grille du pied.   
+
+"Mais ce n'est qu'un banal assassin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Stalwart est sous ma protection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Vous devez être le commandant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Il jette un coup d'œil à la grille, défiguré par la rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Mais vous avez quand même combattu. Mes hommes étaient là pour se battre. Nous sommes tous là pour nous battre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Vous voulez parler, c'est ça ? Comme les messagers de Stalwart ? Leurs mensonges m'ont suffi. Inutile d'en rajouter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Bien sûr que non. Vous êtes le visage lugubre dissimulé derrière le canon."  
+
+Adaryc crache. "Je préfère répondre à un défi honorable qu'à un faux remord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"C'était tous de loyaux soldats. Vous allez amèrement regretter d'être venu ici, sale monstre."</DefaultText>
+      <FemaleText>"C'était tous de loyaux soldats. Vous allez amèrement regretter d'être venue ici, sale monstre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Vous n'êtes qu'un charlatan ! Vous braquez la Batterie sur mes portes et feignez ensuite de regretter vos actes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Les images vous assaillent, faisant resurgir des vies et des émotions de centaines d'époques et de lieux différents. Certaines ne vous appartiennent pas.  
+
+Peu à peu, vous avez l'impression que quelqu'un vous observe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Approchez-vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Éloignez-vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Vous dirigez vos sens et remontez jusqu'à la source de l'invasion... Adaryc. La conviction le consume.
+
+L'espace d'un instant, vous partagez son émotion et un étrange désespoir envahit votre esprit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Je n'en doute pas." Adaryc ricane. "Maintenant que vous êtes ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Je vois. Stalwart tend la main en signe de paix tout en gardant une dague dans le dos : un assassin solitaire."  
+
+"Désormais en infériorité numérique, d'ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ma proposition était raisonnable. Ils sont responsables de leur sort !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Vous sentez l'air chaud de la Forge blanche vous caresser le visage et observez ses gardiens spectraux prendre forme à la lueur des ruisseaux de minerai en fusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Vous vous libérez de l'esprit qui lit en vous pour vous retrouver seul face à votre conscience.  
+
+Non loin, Adaryc semble surpris et son visage est blême.</DefaultText>
+      <FemaleText>Vous vous libérez de l'esprit qui lit en vous pour vous retrouver seule face à votre conscience.  
+
+Non loin, Adaryc semble surpris et son visage est blême.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Readceras a assez souffert. Ses fils et ses filles n'ont plus rien. Nous..."   
+
+Il regarde Edér en serrant les dents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Le Fléau de fer protégera ma patrie des atrocités que ces adorateurs du feu sont capables de commettre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Hé, vous pouvez les traiter de tous les noms si ça vous chante, mais évitez de le faire devant eux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Adaryc regarde Edér en fronçant les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sans notre foi, nous ne sommes rien. Personne ne peut me détourner de mon chemin, pas même vous. Je suis désolé, Gardien, mais je sais que c'est la bonne voie à suivre."</DefaultText>
+      <FemaleText>"Sans notre foi, nous ne sommes rien. Personne ne peut me détourner de mon chemin, pas même vous. Je suis désolé, Gardienne, mais je sais que c'est la bonne voie à suivre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"J'ai conduit mon peuple ici en croyant que c'était le bon chemin. Et je m'en suis porté garant en liant mon âme à cette épée."
+
+Une vague d'énergie spirituelle surgit et disparaît presque aussitôt. Adaryc semble affligé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Cette épée ne m'est plus d'aucune utilité maintenant. Elle est à vous. À condition que vous sachiez vous en servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Vous êtes sûr que ce n'est pas juste un tordu au regard vide ? J'ai tendance à les confondre."</DefaultText>
+      <FemaleText>"Vous êtes sûre que ce n'est pas juste un tordu au regard vide ? J'ai tendance à les confondre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Si nous nous battons et que vous mourrez ici, vous ne serez plus d'aucun secours à Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Vous avez mauvaise conscience ? Ne flanchez pas maintenant."
+
+Vous entendez le craquement des armures alors que ses soldats fourbissent leurs armes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Si j'avais peur de mourir, je ne serais pas là. Le Fléau de fer me survivra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Vous avez honte. Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Il n'y a pas de quoi en être fier ! Occupez-vous de vos propres péchés, Gardien. Les miens ne vous regardent pas."</DefaultText>
+      <FemaleText>"Il n'y a pas de quoi en être fier ! Occupez-vous de vos propres péchés, Gardienne. Les miens ne vous regardent pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vous avez lu dans mon âme. Qu'y avez-vous vu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Que vous êtes faible." La voix d'Adaryc trahit sa nervosité. "Mais apparemment, cela ne vous a pas arrêté."</DefaultText>
+      <FemaleText>"Que vous êtes faible." La voix d'Adaryc trahit sa nervosité. "Mais apparemment, cela ne vous a pas arrêtée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Que j'ai plus à craindre de vous que de n'importe quel Dyrwoodan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Que vous êtes un homme de parole."</DefaultText>
+      <FemaleText>"Que vous êtes une femme de parole."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Adaryc marque une pause.  
+
+"Que vous avez vu et fait énormément de choses. Des choses auxquelles je... n'aurais jamais cru si je ne les avais pas vues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Adaryc marque une pause.   
+
+"Et que vous avez vu et fait énormément de choses. Des choses auxquelles je... n'aurais jamais cru si je ne les avais pas vues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Dans ce cas, vous devez me croire. Il y a une autre option."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Parmi les souvenirs que j'ai vus... certains ne pouvaient pas vous appartenir. Vous êtes Éveillé, n'est-ce pas ?"</DefaultText>
+      <FemaleText>"Parmi les souvenirs que j'ai vus... certains ne pouvaient pas vous appartenir. Vous êtes Éveillée, n'est-ce pas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ce doit être terrible d'être à la fois un Éveillé et un Gardien. Je suis désolé."</DefaultText>
+      <FemaleText>"Ce doit être terrible d'être à la fois une Éveillée et une Gardienne. Je suis désolé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Si Dyrwood attaque, c'est vous qui l'aurez cherché."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Et nous en avons payé le prix !" La voix d'Adaryc trahit son épuisement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ce que nous avons perdu... Nous avons été abandonnés. S'il existe de meilleures contrées pour nos enfants, nous sommes prêts à mourir pour les leur offrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Nous avons déjà pu constater que Stalwart est capable de mentir. Et nous... nous sommes venus ici pour sauver Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Que vous ont fait ces gens pour mériter un tel châtiment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Stalwart a envoyé ces délégués pour discuter d'une proposition de paix. Ils n'ont pas su saisir la chance que je leur offrais. C'était pourtant une offre généreuse." 
+
+Adaryc fait quelques pas, puis se ressaisit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Mais Stalwart a envoyé des devins, pas des diplomates ! Pour nous effrayer avec des histoires de lune qui s'assombrit et de terre qui tremble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"C'est pour ça que vous êtes ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Mes hommes sont là parce qu'ils n'ont plus rien à Readceras. Et ils aimeraient offrir un avenir meilleur à leurs enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Encore des amis à vous, des fourbes ? Aucun de vous n'a une once d'honneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Dans mon rêve, l'armée détruisait Stalwart et la Batterie. J'ai vu Caed Nua tomber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"... Le tonnerre me poursuivait jusqu'au temple des Contrées de l'aube, et la terre se fendait sous nos pieds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Était-ce un leurre ?" Le commandant regarde la grille et son visage s'empourpre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Alors, vous l'avez senti. Je n'ai... jamais rencontré d'autre..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Si jamais Dyrwood attaque, nous n'avons aucune chance de nous en sortir. Sauf si nous agissons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Sous ses pieds se trouve une grille posée au-dessus de ce qui ressemble à une fosse. Des cris d'angoisse s'élèvent de la cellule alors que le commandant s'avance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ha ! Tout ce chaos dehors... L'espace d'un instant, je vous ai crue." Sa botte frappe la grille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Sous les pieds du commandant, vous remarquez une grille posée au-dessus de ce qui ressemble à une fosse. Des cris d'angoisse s'élèvent de la cellule alors que le commandant s'avance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Du calme, les gars ! Notre invité est là."
+
+Le commandant du Fléau de fer est un homme jeune, élancé, aux cheveux bruns hirsutes et au regard enfiévré.</DefaultText>
+      <FemaleText>"Du calme, les gars ! Notre invitée est là."
+
+Le commandant du Fléau de fer est un homme jeune, élancé, aux cheveux bruns hirsutes et au regard enfiévré.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Spontanément, vos sens s'éveillent, comme s'ils avaient détecté une source d'essence... Vous ressentez une douleur au niveau de votre poitrine, comme si on vous tirait vers l'avant...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Oui. Et c'est vous qui rôdez autour de mon..."
+
+Les mots d'Adaryc restent bloqués dans sa gorge et son expression se fige. Impossible de savoir ce qui vient de se passer... Avant que vous ne le ressentiez, vous aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Vous voulez parler ? Baissez votre..."
+
+Les mots d'Adaryc restent bloqués dans sa gorge et son expression se fige. Impossible de savoir ce qui vient de se passer... Avant que vous ne le ressentiez, vous aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Vous allez regretter d'avoir..."
+
+Les mots d'Adaryc restent bloqués dans sa gorge et son expression se fige. Impossible de savoir ce qui s'était passé... Avant que vous ne le ressentiez, vous aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Misérables chiens ! J'aurais dû..." 
+
+Les mots d'Adaryc restent bloqués dans sa gorge et son expression se fige. Impossible de savoir ce qui vient de se passer... Avant que vous ne le ressentiez, vous aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Hum. Cela ne s'est jamais produit avant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Par Eora, qu'est-ce que c'était ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Je pourrais vous retourner la question."
+
+Adaryc se touche le front d'un air affligé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Vous voyez les âmes perdues comme je les vois ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"À propos de notre... condition mutuelle..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Je suis ici pour savoir ce qui est arrivé aux délégués."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Deryan a indiqué que vous aviez eu une vision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Attendez. Vous avez vu une armée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Je... vois et j'entends les esprits, c'est vrai. J'ai mis de nombreuses années à le comprendre."
+
+La mâchoire d'Adaryc se crispe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Vous avez fait tout ce chemin pour satisfaire votre curiosité ?"
+
+Il semble quelque peu soulagé par votre discrétion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Les délégués ? Vous avez fait irruption dans mon camp et tué mes hommes pour eux ?" 
+
+Adaryc fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"À propos des Gardiens..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>L'espace d'un instant, Adaryc semble prêt à exploser. Une fois calmé, il vous fait signe de continuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"J'étais en train d'explorer quand je suis tombé sur le fort."</DefaultText>
+      <FemaleText>"J'étais en train d'explorer quand je suis tombée sur le fort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Vous avez atterri ici par hasard et vous nous avez donné plus de fil à retordre que les forces de la Batterie ?"
+
+Adaryc secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Qui sont ces gens dans la cellule ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"D'ailleurs, qu'attendez-vous de Stalwart ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Quoi ? Pourquoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"J'en déduis que les Gardiens n'ont pas très bonne réputation à Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Est-ce que tout le monde se vante de ses maux au Dyrwood ?" 
+
+Lors de la brève accalmie qui s'ensuit, Adaryc semble épuisé. Mais il ne baisse pas la garde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"En avez-vous, vous aussi, assez d'écouter des morts ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Vous avez tout d'un voleur. Eh bien, vous avez réussi à entrer. C'est ce que vous vouliez, non ?"</DefaultText>
+      <FemaleText>"Vous avez tout d'une voleuse. Eh bien, vous avez réussi à entrer. C'est ce que vous vouliez, non ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Pourquoi avoir construit un fort ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Adaryc répond à cette question par un petit sourire de lassitude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Je ne parviens pas à lire aussi clairement les souvenirs des vivants. Cela ressemble à une lecture de clairvoyant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Je n'en sais rien. Peut-être ne faisons-nous qu'aggraver notre situation."
+
+Cette perspective semble le troubler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Ça suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Oui. Nous étions au beau milieu de quelque chose, je crois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Avec un village de pêcheurs ? Rien. Mais ils se sont accrochés à la forge que vous leur avez rendue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ne vous avisez pas de vous moquer de moi, Gardien..."</DefaultText>
+      <FemaleText>"Ne vous avisez pas de vous moquer de moi, Gardienne..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Qu'est-ce qui vous fait penser que Dyrwood va attaquer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>En l'absence de contexte, les fragments de souvenirs que vous voyez ressemblent à de simples images : une petite maison dans un champ de fleurs violettes. Des êtres civilisés en armure et des bannières qui claquent, attendant vos ordres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"À quel type de réaction vous attendiez-vous ? Vous les avez retenus prisonniers, sans préavis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"J'aurais agi différemment, si j'avais pu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Comprendre quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Ce qu'on ressent quand on est Gardien. Pourquoi il m'a fallu subir cela. Et comment faire malgré tout mon devoir."</DefaultText>
+      <FemaleText>"Ce qu'on ressent quand on est Gardienne. Pourquoi il m'a fallu subir cela. Et comment faire malgré tout mon devoir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Pourquoi avez-vous emprisonné ces gens ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Vous ne pensez pas avoir abusé un peu ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Que les imbéciles de Stalwart se moquent de moi autant qu'ils veulent. Je sais ce que j'ai vu. S'ils avaient vu la même chose, ils comprendraient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Vous auriez pu faire marche arrière !" 
+
+Il expire. "S'il n'y avait pas eu les délégués, tout ceci aurait pu être évité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Vos soldats n'auraient pas dû se mettre en travers de mon chemin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Mes hommes n'ont fait que leur devoir ! Mais êtes-vous vraiment capable de le comprendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Tout cela pour eux ? Infiltrer mon fort, rôder dans le camp ?" 
+
+Adaryc fronce les sourcils.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Mais il y a eu des secousses. Il y a eu des effondrements dans les mines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Non ! Ne faites pas l'imbécile avec moi. Ces... présages sont destinés à me faire peur, à me faire douter de la raison pour laquelle je suis ici. Mais il y a plus en jeu qu'un village perdu dans les montagnes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"J'ai labouré des champs arides à mains nues. Je n'ai pas besoin d'or."
+
+Il regarde la grille de la cellule, les yeux en proie à une soudaine colère.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Vous et moi, nous pourrions peut-être parler maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Je n'avais jamais... prévu cela. Ce n'était pas mon intention. Nous voulions négocier !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Vous n'êtes rien d'autre qu'un mercenaire ! À la solde de villageois peu enclins à risquer leur propre vie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Vous ?" Adaryc grogne. 
+
+"Que représente Stalwart pour vous ? Des villageois peu enclins à risquer leur propre vie. Ils ne lèveraient pas le petit doigt pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Une armée est en route. Je l'ai vue alors qu'elle descendait la montagne. Elle écrasera Stalwart et rejoindra ensuite Readceras."
+
+Adaryc regarde au loin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"...Cette chaîne de montagnes et le col offrent un accès entre Readceras et Dyrwood. Un endroit stratégique et une des nombreuses raisons pour lesquelles les nains ont construit la Batterie ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"J'ai tout vu. Tel un souvenir arraché à un mort. Mais c'était là un avertissement des dieux. Je ne peux pas rester là sans rien faire !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Je me souviens du tonnerre et d'une centaine d'yeux qui m'observaient. Cela vous dit quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Je pensais que le Fléau de fer pouvait être l'armée de ma vision. Peut-être nous sommes-nous tous les deux trompés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Pourquoi devrais-je vous croire ? Vous diriez n'importe quoi pour protéger Stalwart !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Vous seriez la première personne à m'accuser de protéger Stalwart. Je suis ici pour mon seul compte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Adaryc cligne des yeux et tente de vous sonder. Il regarde à nouveau ses soldats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Donnez-moi une chance et je vous aiderai à découvrir la vérité. C'est tout ce que je demande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Vous voulez contribuer à protéger Readceras ? J'espère que Caed Nua soit épargné. Nous y gagnons tous les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Si les dieux nous ont adressé un avertissement, c'est qu'ils estiment que nous pouvons arrêter ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Entre l'assassinat du duc et la crise des sans-âme, Dyrwood a eu fort à faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"C'est ce que je pensais. ... J'espérais, peut-être. Mais ils n'en restent pas moins en colère. Ils vont chercher un coupable. Un ennemi à combattre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Peu de gens sont au courant. Au-delà de ces murs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Oui. Je les vois. Vos mains sont maculées de sang." La voix d'Adaryc est monocorde et il semble tendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Vous renforcez leurs rangs chaque jour. Cela ne vous semble-t-il pas être une punition adéquate ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Certains sont motivés par l'or et le bon acier, et je leur ai promis leur part. Moi, je suis là pour les canons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Vous avez vu ces canons à l'œuvre. Si nous nous emparons de la Batterie, nous contrôlerons plus facilement le passage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Eh bien, on m'a dit que vous étiez une sorte de prophète fou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Des lâches pour lancer de telles accusations."
+
+Adaryc montre les dents et sourit avec amusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Vous êtes un parjure, qui plus est. Je suis en bonne compagnie."
+
+La colère semble l'avoir galvanisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Ils ont refusé ma foi, ils nous ont traités de superstitieux. Mais en quoi croit Stalwart ? Le fer et l'or, et rien d'autre !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Vous y avez veillé ! Vous osez me faire porter la responsabilité de leur mort ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Bon sang, ne m'écouterez-vous donc pas !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Je pourrais vous être utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"J'aimerais empêcher de nouvelles pertes. Et vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Agités par les cris, ses soldats vous surveillent de plus près.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Adaryc vous regarde noir et s'éloigne de quelques pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Si nous n'avons pas vu la même vision... Si vous pensez vraiment que je me trompe sur Dyrwood... Qu'est-ce que cela signifie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Adaryc vous regarde noir et s'éloigne de quelques pas avant de s'arrêter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Ce n'est pas ce que je voulais dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Adaryc grogne avec dédain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Je n'en ai pas la moindre idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>[Attaquez.] "Que vous avez commis une erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"J'ai toutes mes facultés, quoi que vous en pensiez. La malédiction du Gardien englobe bien des choses, mais s'il était question de folie, je n'aurai pas pris le commandement du Fléau de fer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Vous entendez quelques murmures épars qui s'élèvent des rangs des soldats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"C'est vrai ! C'est tout à fait vrai ! Les vagues nous engloutiront tous !"
+
+Une voix stridente s'élève de la fosse. Adaryc frappe furieusement les barreaux, tentant de l'étouffer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Je sens sa peur. Sa honte..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Je sens sa peur. Sa honte..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Je sens sa peur. Sa honte..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"J'aimerais discuter avec les gens qui ont eu ces visions... pour... euh... comparer leurs versions."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

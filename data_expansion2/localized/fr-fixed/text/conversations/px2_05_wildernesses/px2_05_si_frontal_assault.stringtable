@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_frontal_assault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>De lourdes portes en bois bloquent l'accès au fort. Des silhouettes d'archers en armure surveillent discrètement les abords des tours voisines.
+
+Une attaque frontale du fort nécessiterait une force considérable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examinez les portes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Sollicitez un tir de canon depuis la Batterie de Durgan.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Malgré sa nature provisoire, le fort semble particulièrement résistant. Ces murs pourraient facilement retarder des forces ennemies et donner aux occupants du fort suffisamment de temps pour organiser leur défense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Alors que vous vous approchez du pont, vous entendez une cacophonie de cris paniqués. De sombres silhouettes courent en haut des tours et dans les allées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Une ligne d'archers se forme et se met rapidement en position, pour stopper votre avancée. Une salve de flèches descend dans votre direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Utilisez le rondin pour vous mettre à couvert.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Tirez sur les archers.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Précipitez-vous vers les portes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous vous écartez suffisamment longtemps du bélier pour prendre les défenseurs du fort pour cible. 
+
+Vous tuez un, puis deux archers. Les autres se mettent à couvert derrière les piquets de clôture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous visez, mais une pluie de flèches vous oblige à vous mettre à couvert derrière le rondin de bois avant même d'avoir pu frapper.
+
+Enhardis, les archers concentrent leurs tirs. Vous ressentez une douleur intense dans la jambe après qu'une flèche s'y est logée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vous soulevez le rondin et le placez entre vous et le mortel barrage de tirs. Des flèches viennent s'y planter, manquant de peu vos mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vous soulevez le rondin et le placez entre vous et le redoutable barrage. Des flèches viennent s'y planter, manquant de peu vos mains.
+
+Sous le barrage, la force de [SkillCheck 0] vacille et pendant un instant, le rondin glisse. Une flèche vient transpercer la jambe de [SkillCheck 0], ce qui ralentit votre progression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Prenant votre courage à deux mains, vous soulevez le rondin de bois et foncez en direction des portes. Les flèches finissent leur course dans la boue située à vos pieds.
+
+Votre soudaine accélération porte ses fruits. Vous enfoncez le bélier dans les portes et celles-ci s'ouvrent avec fracas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Prenant votre courage à deux mains, vous soulevez le rondin de bois et prenez de l'élan.
+
+Mais il est trop lourd. [SkillCheck 0] vacille et une flèche vient se loger dans sa jambe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vous reculez et chargez une nouvelle fois. Vous entendez un bruit sec alors que les portes commencent à céder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Au-dessus de vous, une soudaine effervescence attire votre attention. En haut de la tour la plus à gauche, des hommes tiennent un chaudron.
+
+Ils l'inclinent vers l'avant pour tenter de déverser ce qu'il contient sur vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Après quelques éclaboussures de liquide noirâtre en guise d'avertissement, un torrent de poix s'abat du haut de la tour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous abandonnez le bélier et vous écartez juste à temps pour éviter le torrent de poix en ébullition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Écartez-vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Jetez le sort Rempart contre les éléments.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Jetez le sort Vent hivernal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Vous jetez votre sort juste à temps. Un torrent de poix en ébullition s'abat dans votre direction, mais vous êtes indemne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vous jetez votre sort juste à temps. Un torrent de poix en ébullition s'abat dans votre direction avant d'être stoppé net grâce à votre sort. 
+
+Elle se transforme en morceaux de glace noirâtres qui volent en éclats au contact du sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Vous abandonnez le bélier et vous écartez juste à temps pour éviter le torrent de poix en ébullition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Vous démarrez un instant trop tard. Un torrent de poix en ébullition se déverse dans votre direction et votre épaule est touchée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Vous vous dégagez des portes à moitié enfoncées, vous préparant à porter le coup final. 
+
+Les défenseurs du fort crient leurs ordres, et plusieurs tireurs se joignent aux archers sur les murs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Sous une pluie de flèches et de tirs, vous lancez un assaut final, et les portes cèdent avec grand fracas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Utilisez votre Voile ésotérique.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Soudain, un bruit assourdissant retentit et les portes du fort volent en éclats.
+
+Malgré la poussière et le chaos ambiant, vous entendez les défenseurs du fort donner des ordres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Une fois votre signal donné, vous vous éloignez des portes. 
+
+Un bruit assourdissant se dégage de la Batterie. Des visages surpris observent depuis les tours du fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Vous voilà enfin aux portes. Ensemble, vous soulevez le rondin de bois qui s'enfonce contre les portes dans un lourd fracas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vous soulevez votre voile, déformant brièvement votre angle de vue sur les archers. La salve de flèches qui s'ensuit vous épargne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sous une pluie de flèches et de tirs, vous lancez un assaut final. [SkillCheck 0] hurle de douleur alors qu'une flèche a atteint sa cible.
+
+Vous soulevez la bûche, et la porte cède avec grand fracas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vous compagnons foncent vers l'avant, se hâtant pour profiter de l'accalmie dans les défenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Vos compagnons sont immobilisés sous la pluie de projectiles. Plusieurs flèches atteignent leurs cibles, et le sang se mélange à la neige fondue et la boue, marquant votre lente progression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Lancez Lumières éblouissantes d'Arkemyr.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vos compagnons se cachent derrière le rondin pour se couvrir, assaillis par un déluge de flèches. Luttant pour éviter le tir de barrage, [SkillCheck 0] fait un faux pas, lâchant presque le rondin avant de se rétablir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vos compagnons se cachent derrière le rondin pour se couvrir, assaillis par un déluge de flèches. Luttant pour éviter le tir de barrage, [SkillCheck 1] fait un faux pas, lâchant presque le rondin avant de se rétablir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Une aveuglante explosion de lumière jaillit le long des murs du fort, déclenchant des cris de surprise. Vous entendez un hurlement strident alors que quelqu'un perd pied au sommet du bastion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Vos compagnons sont immobilisés sous la pluie de projectiles. Plusieurs flèches atteignent leurs cibles, et le sang se mélange à la neige fondue et la boue, marquant votre lente progression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Vos compagnons foncent vers l'avant, se hâtant pour profiter de l'accalmie. Dans le chaos, [SkillCheck 0] fait un faux pas et se tord le genou, mais se rétablit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vos compagnons foncent vers l'avant, se hâtant pour profiter de l'accalmie. Dans le chaos, [SkillCheck 1] fait un faux pas et se tord le genou, mais se rétablit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Rassemblant vos forces, vous soulevez le rondin et reprenez de la vitesse.
+
+Mais son poids laisse des traces. L'énergie de [SkillCheck 1] fléchit, et une flèche atteint sa cible, touchant [SkillCheck 1] à la jambe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Vos compagnons suivent, se précipitant en lieu sûr, alors que le goudron s'écrase sur le sol, créant d'immondes flaques pestilentielles. 
+
+Sains et saufs, vous et vos compagnons reprenez le rondin une fois de plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Vos compagnons suivent, se précipitant en lieu sûr, alors que le goudron s'écrase sur le sol, créant d'immondes flaques pestilentielles. 
+
+Les pieds encrassés par la poix bouillante, [SkillCheck 0] hurle d'agonie, l'épaule touchée par une dernière salve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Même si les brûlures sont intenses, vous et vos compagnons reprenez le rondin à nouveau, vous préparant à frapper le coup final.
+
+Les défenseurs du fort crient leurs ordres, et plusieurs tireurs se joignent aux archers sur les murs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Vos compagnons suivent, se précipitant en lieu sûr, alors que le goudron s'écrase sur le sol, créant d'immondes flaques pestilentielles. 
+
+Les pieds encrassés par la poix bouillante, [SkillCheck 1] hurle d'agonie, l'épaule touchée par une dernière salve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Vos compagnons se précipitent en lieu sûr, alors que davantage de goudron s'écrase sur le sol, créant d'immondes flaques pestilentielles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Vos compagnons se précipitent pour trouver une couverture, leurs pas ralentis par la poix bouillonnante. Des cris fendent l'air alors que le goudron se déverse sur d'autres cibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Ralliez vos compagnons, et chargez vers la porte.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Avec un cri triomphant, vous et vos compagnons soulevez le bélier et chargez vers l'avant. La première vague de flèches touche la boue derrière vous.
+
+Le surprenant changement de rythme tourne en votre faveur. Vous portez le bélier jusqu'aux portes, et il les heurte dans un lourd craquement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Lancez Retraite.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Vous jetez votre sort juste à temps. Un torrent de poix en ébullition s'abat dans votre direction, mais vous êtes indemne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Poussez un compagnon hors de danger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Vous n'avez qu'un court instant pour décider vers lequel de vos compagnons plonger...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous plongez en avant, poussant [Specified 0] hors de la ligne de tir. Une cascade de poix bouillante se déverse autour de vous, et une partie éclabousse votre épaule. Mais [Specified 0] est indemne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vos compagnons restants se précipitent en lieu sûr, alors que davantage de goudron s'écrase sur le sol, créant d'immondes flaques pestilentielles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vos compagnons restants se précipitent pour trouver une couverture, leurs pas ralentis par la poix bouillonnante. Des cris fendent l'air alors que le goudron se déverse sur d'autres cibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

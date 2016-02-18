@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_guard_outside</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Attendez ! Qui va là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Qu'Ondra vous bénisse, Porteur de marée."</DefaultText>
+      <FemaleText>"Qu'Ondra vous bénisse, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous n'avez rien à faire ici. Personne ne passe sans la bénédiction du Grand abbé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Intrus !"</DefaultText>
+      <FemaleText>"Intruse !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Le garde remarque le Témoin d'Ondra et s'incline devant vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous n'auriez pas dû ouvrir les vannes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qu'Ondra veille sur vous, Porteur de marée."</DefaultText>
+      <FemaleText>"Qu'Ondra veille sur vous, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Mentez] "Kaoto m'attend. Je suis le Porteur de marée."</DefaultText>
+      <FemaleText>[Mentez] "Kaoto m'attend. Je suis la Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Attaquez] "Je n'ai pas envie de discuter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je cherchais justement la sortie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous n'avez rien à faire ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Désolé pour toutes ces précautions. Nous avons été avertis de votre arrivée. Le Grand abbé vous attend à l'intérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Soulagé, le garde se détend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Le garde plisse les yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Qu'est-ce qui me le prouve ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je suis venu remplacer le Grand abbé. Si vous ne me laissez pas passer, je vous ferai renvoyer."</DefaultText>
+      <FemaleText>"Je suis venue remplacer le Grand abbé. Si vous ne me laissez pas passer, je vous ferai renvoyer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous n'avez pas l'habitude des visiteurs, n'est-ce pas ? À part le Porteur de marée, qui pourrait bien se présenter ici ?"</DefaultText>
+      <FemaleText>"Vous n'avez pas l'habitude des visiteurs, n'est-ce pas ? À part la Porteuse de marée, qui pourrait bien se présenter ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vous allez devoir me croire sur parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nous arrivons au terme de la Marée de Mecwyn, une période de transition pour notre église. Ma présence n'est pas due au hasard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Les yeux du garde s'écarquillent. Il lève les mains pour s'excuser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Allez-vous-en, voyageur. J'ignore comment vous avez obtenu ces informations, mais si vous insistez, nous n'hésiterons pas à vous tuer."</DefaultText>
+      <FemaleText>"Allez-vous-en, voyageuse. J'ignore comment vous avez obtenu ces informations, mais si vous insistez, nous n'hésiterons pas à vous tuer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Allez-vous-en. Je ne vous le répéterai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"J'ignore qui vous êtes, mais vous n'avez rien à faire ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Kaoto m'a autorisé à me déplacer librement."</DefaultText>
+      <FemaleText>"Kaoto m'a autorisée à me déplacer librement."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Alors, ça commence. Vous pouvez passer, Porteur de marée."</DefaultText>
+      <FemaleText>"Alors, ça commence. Vous pouvez passer, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Bienvenue à l'abbaye, Porteur de marée."</DefaultText>
+      <FemaleText>"Bienvenue à l'abbaye, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

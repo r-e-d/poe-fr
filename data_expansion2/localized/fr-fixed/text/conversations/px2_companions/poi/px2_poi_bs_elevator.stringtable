@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_elevator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Peut-être que nous devrions utiliser les escaliers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Peut-être que Durance devrait tester en premier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Les Pargrunen ont construit des merveilles capable d'endurer des siècles. Je pense pas que c'était l'une d'entre elles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Prenez cette chose si vous voulez, mais je préférerais trouver des escaliers. Ou une vigne à moitié rongée à escalader."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Quelle machine merveilleuse ! De l'artisanat nain bien robuste. ... On ne pose pas les pieds là-dessus, si ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ils utilisent des ascenseurs comme ça dans les bastions d'Ozian pour hisser les canons. Ça ne devrait pas être trop difficile pour lui de nous transporter, si ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Mon peuple reste dans la toundra pour une bonne raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je ne savais pas qu'il était possible pour un ascenseur d'avoir souffert. Mais pourtant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous savez ce que j'aime dans les voyages ? Apprendre de nouvelles choses sur moi-même. Comme cette peur du vide."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

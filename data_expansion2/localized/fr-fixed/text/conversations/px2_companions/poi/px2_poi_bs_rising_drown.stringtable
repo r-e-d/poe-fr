@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_rising_drown</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Les ordres sont les ordres, je suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ils ont choisi cette vie. Et vous avez mis fin à leur misère. Mais c'est difficile de penser que nous avons bien fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Si vous ne les aviez pas noyés, Gardien, alors leur déesse pleurnicheuse l'aurait fait avec un lac de larmes."</DefaultText>
+      <FemaleText>"Si vous ne les aviez pas noyés, Gardienne, alors leur déesse pleurnicheuse l'aurait fait avec un lac de larmes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Une cruelle forme de compassion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Par Ondra, tous ces gens..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Quelle fin misérable pour ces gens. Et penser que les fidèles d'Ondra font ça depuis d'innombrables générations sans se poser de questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je ne pensais pas que vous en étiez capable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ils n'ont rien gagné de leurs souffrances. Il vaudrait mieux qu'ils repartent à zéro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Que les marées d'Ondra les fassent dériver vers de paisibles rivages."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

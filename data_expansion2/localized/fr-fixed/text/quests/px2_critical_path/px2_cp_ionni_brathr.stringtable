@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_cp_ionni_brathr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tanière des Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Recréez le marteau d'Abydon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Voyagez à la Faille de Cayron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tracez votre chemin vers le fragment d'Ionni Brathr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Atteignez le cristal au bas d'Ionni Brathr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Éliminez le kraken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Frappez le cristal dans Ionni Brathr avec le marteau d'Abydon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ondra a dit que les Sans-yeux sont rassemblés dans un fragment d'Ionni Brathr qui gît dans la Faille de Cayron, et qu'il existe peut-être un moyen de les arrêter si nous pouvons atteindre cet endroit.
+
+Cependant, Ondra m'a conseillé de recréer le marteau d'Abydon en premier lieu afin de pouvoir les conduire vers leur mort.</DefaultText>
+      <FemaleText>Ondra a dit que les Sans-yeux sont rassemblés dans un fragment d'Ionni Brathr qui gît dans la Faille de Cayron, et qu'il existe peut-être un moyen de les arrêter si nous pouvons atteindre cet endroit.
+
+Cependant, Ondra m'a conseillée de recréer le marteau d'Abydon en premier lieu afin de pouvoir les conduire vers leur mort.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Avec le fragment du marteau d'Abyon que j'ai récupéré à l'abbaye, j'ai assez de métal pour forger un modèle qui pourra être utilisé par un être civilisé. 
+
+Ondra pense que ce sera suffisant pour pouvoir exercer une emprise sur les Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Un large fragment d'Ionni Brathr repose dans la Faille de Cayron. C'est là-bas que je dois détruire l'armée des Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Reposant près du centre du lac gelé dans la Faille de Cayron se trouve un fragment d'Ionni Brathr, la Lune déchue. En son sein se trouve le moyen de mettre fin aux Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Il y a un large cristal contenu dans le cœur d'Ionni Brathr. Je dois l'atteindre et le frapper avec le marteau d'Abydon, pour faire s'éffondrer toute la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ondra a laissé un kraken dans la Faille de Cayron il y a bien longtemps pour protéger l'endroit où ses Sans-yeux sommeillaient. Il me barre désormais le chemin vers le cristal que je dois frapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Je dois frapper le cristal dans le centre d'Ionni Brathr avec le marteau d'Abydon pour faire s'effondrer la caverne et mettre un terme à la menace des Sans-yeux une bonne fois pour toutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai atteint le cristal au fond du fragment d'Ionni Brathr et l'ai frappé avec le marteau d'Abydon.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

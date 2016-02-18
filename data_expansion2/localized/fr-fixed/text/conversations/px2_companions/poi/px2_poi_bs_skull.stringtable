@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_skull</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"J'avais ce gros chien avant, il adorait creuser pour chercher des os. Il serait vraiment excité s'il était là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Une déesse qui achète la foi en faisant cacher des secrets, aura certainement les siens. Nous ne devrions pas être surpris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Peu de gens ont posé les yeux sur ce dont nous sommes témoins, Gardien."</DefaultText>
+      <FemaleText>"Peu de gens ont posé les yeux sur ce dont nous sommes témoins, Gardienne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Par la bave de Galawain, quel genre de relique est CETTE chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Incroyable. Un titan venu tout droit des légendes. Oh, regardons à l'intérieur !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'imagine que le reste du squelette géant aurait dû être notre premier indice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Qu'est-ce qui aurait pu laisser un crâne aussi grand ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"L'abbaye était construite pour cacher ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Je savais que l'abbaye contenait un secret, mais je n'avais aucune idée..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

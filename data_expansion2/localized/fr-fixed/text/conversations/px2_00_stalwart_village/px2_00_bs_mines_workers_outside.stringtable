@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_bs_mines_workers_outside</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Il se passe des choses étranges dans les mines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Si vous cherchez du travail, adressez-vous à Ismey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Les gens disent qu'ils entendent des voix dans les tunnels... Les mêmes superstitions qu'à la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vous avez fait du bon travail à la Batterie. Si on a un gagne-pain aujourd'hui, c'est grâce à vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je n'arrive pas à croire que Gamel soit libre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"C'est dur en ce moment dans les mines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"C'est bon de respirer à l'air libre. Au bout d'un moment, on devient dingue dans les tunnels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je ne veux pas d'ennuis, monsieur. Je ne me mêle pas des affaires des autres."</DefaultText>
+      <FemaleText>"Je ne veux pas d'ennuis, madame. Je ne me mêle pas des affaires des autres."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vous avez du cran pour vous aventurer ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

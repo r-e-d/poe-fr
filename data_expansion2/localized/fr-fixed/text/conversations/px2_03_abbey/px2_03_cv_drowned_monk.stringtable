@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_drowned_monk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Planant au-dessus d'un squelette à demi piégé dans la glace, une faible trace d'essence s'attarde dans l'air glacial de la caverne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Approchez-vous de l'essence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous laissez votre âme envelopper l'essence. Sous vos pieds, les souvenirs se répandent en formant une légère brume. Leurs fragments éparpillés flottent comme de la poussière au crépuscule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous marchez dans une pièce rectangulaire. Les pierres de ses murs souterrains scintillent, encore chargées d'humidité suite à l'inondation. Une main vous étreint l'épaule. Vous entendez son murmure. "Arthrek, je ne veux pas regarder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le souvenir se dissipe et vous ne voyez plus qu'une dalle en pierre. Vous l'observez, à quelques centimètres du mur. Vos doigts tracent des cercles dessus en s'enfonçant dans la mousse qui s'est accrochée à sa surface érodée. Vous ignorez depuis combien de temps vous la touchez, peut-être depuis toujours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Un cri vous fait sursauter. Il résonne à travers les salles. Vos tympans vous font mal. La douleur est intense et elle s'enfonce dans votre tête comme un poignard tordu. Vous prenez la fuite. D'autres vous emboîtent le pas. Vous ne les connaissez pas, vous n'avez aucun souvenir d'eux, mais leur présence vous rassure. Oui, ils vont soulager votre douleur. Et vous allez faire taire ce bruit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>La colère provoquée par le souvenir s'apaise et vous vous asseyez sur des marches taillées dans la roche. En bas, sous l'eau gelée, vous voyez des dizaines de squelettes. Leurs mâchoires sont ouvertes, silencieuses.  
+
+Mais qu'est-ce que c'est ? Un faible grondement qui devient peu à peu assourdissant. Angoissé, vous penchez la tête sur le côté et voyez l'eau inonder les salles et vous emporter dans un torrent d'écume blanche. Vous tombez et tentez d'ouvrir la bouche, mais l'eau étouffe vos cris.</DefaultText>
+      <FemaleText>La colère provoquée par le souvenir s'apaise et vous vous asseyez sur des marches taillées dans la roche. En bas, sous l'eau gelée, vous voyez des dizaines de squelettes. Leurs mâchoires sont ouvertes, silencieuses.  
+
+Mais qu'est-ce que c'est ? Un faible grondement qui devient peu à peu assourdissant. Angoissée, vous penchez la tête sur le côté et voyez l'eau inonder les salles et vous emporter dans un torrent d'écume blanche. Vous tombez et tentez d'ouvrir la bouche, mais l'eau étouffe vos cris.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_magran_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le sanctuaire de Magran se dresse devant vous. Il est recouvert de cendres et il s'en dégage encore une odeur de bois calciné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Placez le marteau de forge de Masca sur l'autel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>La température commence à grimper autour de vous, et vous avez rapidement l'impression de vous trouver face à une forge ouverte. Le marteau de Masca se met à rougeoyer.  
+
+Soudain, des colonnes de flammes vivantes jaillissent autour de l'autel... Ce sont des fléaux de flammes. Dans le ciel, des formes ailées plongent vers vous en crachant de la fumée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Créatures enflammées, allez-vous-en ! Ce loyal serviteur de Magran vous l'ordonne !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Battez-vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Les fléaux de flammes disparaissent rapidement dans un nuage incandescent, en laissant sur le sol des traînées carbonisées. Les drakes, quant à eux, poursuivent leur attaque.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

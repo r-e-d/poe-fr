@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_companions\poi\px2_poi_bs_fort_eyeless_end</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ces choses ont l'air très en colère, pour des trucs qui n'ont pas de visage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ces abominations empestent la couardise d'un dieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je ressens leur souffrance, Gardien. C'est une agonie liée à un enfant perdu."</DefaultText>
+      <FemaleText>"Je ressens leur souffrance, Gardienne. C'est une agonie liée à un enfant perdu."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Comme emmener une hachette dans une montagne. Mais nous l'avons quand même fait !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Merla ! Comme un automate d'animancien, mais... qu'est-ce qui pourrait avoir fait ces créatures comme ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Attendez que je parle de ça à Kallu et aux enfants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Si seulement Galvino pouvait les voir. Il mourrait d'envie. Ou de dévastation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'ai rêvé de beaucoup de créatures aussi étranges que celles-ci, mais jamais ne n'en avais vues dans ce monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

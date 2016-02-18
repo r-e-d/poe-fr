@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_04_eyeless_stronghold\px2_04_cv_dead_explorer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Son propriétaire est mort depuis bien longtemps. Ce qui reste de sa chair est noirci et gelé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ce cratère vous inquiète, vous et vos trois compagnons. Il semble particulièrement dangereux. Mais l'appât du gain est plus fort. Cet imposant rocher situé au centre du lac pourrait contenir de l'or, des pierres précieuses et bien plus encore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Le lagufaeth émet un nouveau son. « Attendez », lui dites-vous, mais la créature plante sa lance au plus profond de votre poitrine avant même que vous ayez le temps de poursuivre. Par chance, votre agonie est brève et le monde qui vous entoure se floute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Touchez le cadavre.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Au terme d'une semaine de dur labeur, le bateau est fin prêt. Son étanchéité reste incertaine, mais il devrait vous permettre de traverser le lac, puis de revenir.
+
+Vous quittez le rivage. Le vent glacial gonfle la voile. Sadon vous sourit. Il avait fait part de ses doutes quant à la flottabilité de l'embarcation. Quelques instants plus tard, il disparaît, laissant échapper un léger cri alors qu'un gigantesque tentacule l'extirpe du bateau pour l'entraîner sous l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>D'autres tentacules surgissent de l'eau. Des bruits de craquements et de bois qui vole en éclats se font entendre et le bateau se disloque.
+
+Sans plus attendre, vous plongez dans l'eau et commencez à nager à en perdre haleine en direction du rivage, espérant que vos amis en fassent de même. La fourrure que vous portez est lourde, mais ô miracle, vous parvenez à rejoindre la terre ferme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vous entendez un léger murmure et remarquez la présence à vos côtés d'un lagufaeth, une créature lacustre, dont la lance s'apprête à vous frapper. Vous vous agenouillez, mains en l'air, pour lui montrer que vous n'avez pas d'arme et ne présentez aucun danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

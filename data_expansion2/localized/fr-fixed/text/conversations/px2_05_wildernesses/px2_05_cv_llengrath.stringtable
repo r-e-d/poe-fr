@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_llengrath</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>203</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Le Gardien de Caed Nua. J'espérais que vous finiriez par nous trouver."</DefaultText>
+      <FemaleText>"La Gardienne de Caed Nua. J'espérais que vous finiriez par nous trouver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je m'étonne de voir que vous continuez de vous promener avec cette abomination. Je suppose que Concelhaut est de meilleure compagnie lorsqu'il ne peut pas parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dommage que vous n'ayez pas apporté le phylactère avec vous. Nous allons nous-mêmes devoir nous occuper de cette abomination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je suis Llengrath."
+
+Elle s'incline légèrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je croyais que Llengrath était un homme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes trop jeune pour être Llengrath. Même Concelhaut a dû avoir recours à la magie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tout comme mon prédécesseur. Lui aussi continue de vivre en moi." Elle sourit.
+
+"Nous sommes tous Llengrath, voyez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"De la magie bien différente. Mais vous avez raison. J'ai connu un certain Llengrath, il y a très longtemps. Et il y en a eu d'autres depuis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Llengrath savait quelque chose de plus que Concelhaut. La brièveté de la vie doit être perçue comme quelque chose de positif. Chaque génération est source de force renouvelée et nous permet d'éviter la stagnation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Concelhaut s'accrochait à sa misérable existence comme une sangsue. Et il n'était pas le seul... D'autres comme lui sont prêts à tout pour prolonger leur existence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Les connaissances de Concelhaut ne peuvent lui survivre."
+
+Elle vous lance un regard plein de sous-entendus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Vous souhaitez donc me régler mon compte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"C'est pour ça que vous cherchiez le phylactère ? Pour le détruire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oui. En effet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Plus que ça. Pour veiller à ce qu'il ne soit jamais reproduit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vous avez envoyé l'assassin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"J'ai envoyé une éclaireuse. Elle avait pour mission de vous suivre, rien de plus. Elle savait qu'elle pouvait y laisser la vie. Et elle a accepté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vos amis sont très impressionnants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Merci." Un des dragons se fend d'un large sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nous avons entendu parler de vous. Vous avez tué Sefyra, l'ancien. Le Maître du Dessous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"On a déjà entendu votre nom. Falanroed a parlé de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Elle nous parle parfois. Le temps l'a rendue cruelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Elle s'est largement adoucie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"On a entendu parler de vous, [Player Race]. Vous avez tué la jeune mère au temple d'Hylea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Misérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vous chassez les dragons, en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Visiblement, vous chassez les dragons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Llengrath nous a beaucoup parlé de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"S'agit-il d'une sorte de culte ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Quelqu'un d'autre va tout simplement prendre la relève de Concelhaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Mes successeurs les chercheront à leur tour. Notre mission ne s'arrête pas avec vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Qu'est-ce que les connaissances de Concelhaut ont apporté de bon ? C'était un lâche. Il a fui la mort et vous l'avez quand même tué."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vous ne pouvez pas détruire les connaissances que vous désapprouvez !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Les animanciens interfèrent avec l'énergie des âmes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Si les fils de cuivre et les tubes en verre avaient suffi... Cela étant, si un jour un animancien peut rivaliser avec les compétences de Concelhaut, on lui rendra visite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous savez quelles ont été les conséquences des efforts déployés par Concelhaut. Leur réussite limitée. Je ne peux pas vous laisser partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Et j'ai promis à Gafonercos et Turisulfus de leur permettre de se mesurer à un tueur de dragons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"En fait, je suis ravie que vous soyez là. Cela m'a évité de devoir vous chercher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Il aurait utilisé votre propre essence pour s'alimenter. Une moindre mort que celle que vous méritez, je pense. Mais vous avez réussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Et si je vous donne le phylactère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Attaquez] "Si nous devons nous battre, d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Concelhaut et moi n'étions pas vraiment proches !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Attaquez] "Venez et affrontez-moi, alors !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Transférer des âmes n'est-il pas la même chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Vous vous méprenez. Un loup qui dévore un lièvre ne fait rien de contre nature. Ainsi va la vie."
+
+"La nôtre est l'œuvre de générations successives. De nombreux esprits réunis pour se renforcer mutuellement. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Attendez ! Aidez-moi au moins à comprendre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Et je vous remercie de l'avoir tué. Mais vous n'auriez pas dû interférer. Le commandant Baelorin m'aurait apporté le phylactère. Tout cela aurait pu être évité !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Comment se fait-il que vous travailliez avec de telles créatures ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Les enseignements de Llengrath sont... intéressants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Nous renforcerons nos âmes comme ils le font. Mowrghek Îen sera notre demeure pour l'éternité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Au moment même où vous prononcez ces mots, vous sentez un accès de colère suinter du crâne situé à côté de vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Mais je n'ai même pas le phylactère !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Non. Vous n'avez fait qu'interférer avec mes plans, vous avez volé quelque chose sans vraiment comprendre ce dont il s'agissait et pris le risque que cette chose tombe entre les mains d'un imbécile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"... Oubliez, ça semble terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"C'est absurde !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"J'espère pouvoir contrer les efforts déployés par des collègues moins raisonnables. Et réparer les erreurs qu'ils ont commises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Mais pourquoi engager des membres de la Bannière déchirée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Question de discrétion. Faire appel à Gafonercos et attirer l'attention de tous les chasseurs de dragons de la région ne serait pas l'idéal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"J'ai entendu dire que les membres de la Bannière déchirée étaient plutôt doués. Mais vous l'êtes encore plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Je n'ai jamais dévoré de Gardien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vous aurez plus de chance lors du prochain tour de roue, mon ami ! Nul doute qu'on se souviendra de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ces deux-là ? Ils sont plutôt jeunes, mais déjà bien appétissants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous n'avez pas l'air de vraiment le comprendre. Mais comme vous voudrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"J'ai pensé que les membres de la Bannière déchirée constituaient une menace pour Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ce n'est pas vraiment de ma faute. Mais je dois avouer que mobiliser une telle force n'est pas sans risques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"On pourrait tout simplement vous en priver. Après."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Au contraire ! Je me délecterais d'un tel défi. Mesurons-nous, vous et moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Sachant que ce vous savez, un mage de votre calibre pourrait aisément reproduire les exploits de Concelhaut. Je ne peux pas vous laisser partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Possédez-vous autre chose que le titre de Llengrath ? Et ses souvenirs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ses souvenirs, ses connaissances - tout a disparu avec lui. Mais sa puissance demeure. En tant que Gardien, vous devez avoir compris désormais que certains esprits sont plus puissants que les autres."</DefaultText>
+      <FemaleText>"Ses souvenirs, ses connaissances - tout a disparu avec lui. Mais sa puissance demeure. En tant que Gardienne, vous devez avoir compris désormais que certains esprits sont plus puissants que les autres."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Nous avons consolidé ses connaissances, comme d'habitude. J'espère qu'un jour nous pourrons partager les enseignements de Llengrath avec d'autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"J'ai travaillé d'arrache-pied pendant des années et j'ai été choisie. Et chaque fois que j'aurais pu m'échapper pour retrouver une vie normale, j'ai fait le choix de rester."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Comment êtes-vous devenu Llengrath ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"À force de travail et d'un peu de magie. Lorsqu'un candidat digne de ce nom est sélectionné, son prédécesseur renonce à sa vie et à son essence, et son âme est transférée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Une chanson ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Vous ne voulez pas m'affronter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"J'essaie de veiller à ce que la situation ne dégénère pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Votre arrivée à la tour de Concelhaut a compliqué les choses. Je ne fais qu'essayer d'y remettre de l'ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Je ne veux vraiment pas être responsable de la mort de tous les dragons de Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vous et moi sommes adeptes de l'ésotérisme. J'apprécie ce que vous avez fait ici. Pouvons-nous en parler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Hm. Voilà longtemps que je ne me suis pas entretenue avec un magicien talentueux..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vos livres sont trop petits pour être lus. Une chanson est préférable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Non. Pas de chanson."
+
+Le dragon grince des mâchoires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Concelhaut et vous avez toujours été ennemis ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Non, pas du tout. Oh, lui et le Llengrath d'origine se connaissaient certainement puisqu'ils étaient tous deux maîtres dans leur domaine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Je n'ai eu connaissance de ses obsessions que trop tard. Si nous avions été en meilleurs termes, peut-être aurais-je réussi à le convaincre de se raviser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Quoi qu'il en soit, il est trop tard. Toutes mes excuses, Concelhaut."
+
+Elle sourit au crâne qui flotte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Quoi qu'il en soit, il est trop tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Pourquoi êtes-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Mais parce que c'est calme, isolé... et la vie sauvage se tient en dehors du tumulte."
+
+Elle rit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Je n'ai que faire d'être dehors. Certains apprentis trouvent cela difficile au départ. Mais un jeune esprit qui ne peut survivre au contact du sang et de la boue n'a que très peu de chances de s'en sortir dans ce monde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"C'est tout ce que je voulais savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Un esprit curieux est une bénédiction. Il est possible que votre âme conserve cette qualité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Vous ne trouvez pas ça étrange ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Non, pas du tout. Partout autour de nous, l'énergie des âmes est une force naturelle. Chaque être laisse des traces de son passage, même si son essence trouve racine ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Nous acceptons ce cycle, tout comme nous acceptons la mort. Le plus important, c'est ce que nous laissons derrière nous : une vie meilleure grâce à nos efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Il n'existe pas de défi plus digne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Oui... Ça semble un peu macabre, à mon goût. Comme un staelgar qui s'attaque à un lièvre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ce serait dommage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"On n'a absolument pas peur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vous avez raison. Personne ne doit s'octroyer la puissance de Concelhaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Il est impossible de contrôler tout le monde. Chacun est libre de faire ses propres erreurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ce n'est pas recevable d'un point de vue intellectuel. Concelhaut aurait facilement pu devenir la plus puissante force destructrice qui soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Tôt ou tard, il nous faut dépasser nos inquiétudes et réfléchir à Eora dans son ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Je suis ravie de voir que vous êtes d'accord. J'ai toujours pensé qu'il s'agissait là de bon sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vous devrez me l'arracher des mains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Comme vous voudrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Vous et moi sommes adeptes de l'ésotérisme. J'apprécie ce que vous avez fait ici. Pouvons-nous en parler ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Trop de gens préfèrent fermer les yeux et laissez les autres détruire ce que bon leur semble. Nous ne sommes pas des gardiens... Mais certaines choses sont trop graves pour être ignorées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je crois que nous avons beaucoup de choses à apprendre l'un de l'autre."</DefaultText>
+      <FemaleText>"Je crois que nous avons beaucoup de choses à apprendre l'une de l'autre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Comment puis-je vous convaincre que je ne suis pas une menace ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Je suis capable de jeter des sorts, vous savez. Que diriez-vous de m'en apprendre davantage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"J'écoute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vous avez tué la plupart de mes amis étudiants. Et vous n'êtes pas le bienvenu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Les étudiants de Llengrath s'entraînent pendant des années. Ils s'impliquent totalement dans ce que nous faisons. Vous êtes bien trop indocile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Oui, en effet. Vos agissements vous ont rattrapé, Gardien. Je sais qu'il vaut mieux ne pas compter sur votre parole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Oh, je le pense déjà. Cela ne change rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Rien de difficile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Et si je promets de ne pas révéler le secret du phylactère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Vous faites erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je vous en prie, épargnez-moi !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Vous feriez ça ? Vous et moi serions les seuls être civilisés d'Eora à comprendre l'œuvre de Concelhaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ce serait un bien lourd secret à porter. Il serait tentant de le coucher une nouvelle fois sur le papier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Je suis désolée. Consolez-vous en pensant à tout ce que vous laissez derrière vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Sur mon honneur, je le jure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"En général, cela n'a aucune valeur. Mais pas dans votre cas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"C'est ce que j'ai entendu..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Je ne suis pas du genre loquace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Disons que c'est le serment d'un magicien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Tout le monde saura pour le phylactère ! Je publierai le plus de papiers possible !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je suis un Gardien. Il y a bien quelque chose que je peux vous apprendre."</DefaultText>
+      <FemaleText>"Je suis une Gardienne. Il y a bien quelque chose que je peux vous apprendre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Llengrath a eu la bonne idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Peu importe. Je doute que nous arrivions à un accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"J'ai trouvé plusieurs de vos victimes dans le marécage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Des intrus, pour la plupart. Qu'il serait bon de vivre dans un monde où les justes seraient épargnés, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Ce serait terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"J'ai vu ce qu'Od Nua a fait pour épargner son fils. Voilà qui doit rester secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Concelhaut n'a jamais trouvé le temps de construire une statue d'adra géante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Od Nua ? Intéressant. J'aimerais en savoir plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Attention ! Votre don est précieux. Concelhaut voulait à tout prix votre âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"... Mais peut-être y a-t-il un moyen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"C'était quelqu'un de bien. Vous vous seriez bien entendus, tous les deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"C'était quelqu'un de bien. ... Mais il manquait d'humour, je le crains. Je ne suis pas certaine que vous vous seriez entendus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"... Peut-être y a-t-il un moyen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ce serait dommage de mourir en proie à la confusion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Au nom des dieux, je le jure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Inutile de les mêler à ça, prêtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Le phylactère permettra à l'animancie de gagner plusieurs décennies ! J'ai bien l'intention de partager de cette information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Concelhaut a eu recours à la magie, imbécile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Vous ne vivrez pas suffisamment longtemps pour regretter vos propos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Mangez-le, mon frère !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Je vais... faire de mon mieux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"J'en suis certaine. Mais je doute que vous réussissiez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Llengrath éclate de rire.  "Si c'était possible... Peut-être y aurait-il moins de conflits. ... Ou plus de conflits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Je m'occupe du Gardien. Occupez-vous de ses amis."</DefaultText>
+      <FemaleText>"Je m'occupe de la Gardienne. Occupez-vous de ses amis."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"La tête ou les jambes, mon frère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Croyez-moi. Personne n'en saura jamais rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Un pacte, en quelque sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Si vous envisagez sérieusement de ne rien révéler du phylactère, peut-être pourrions-nous sceller notre serment par un échange. Un petit transfert d'essence d'âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Le secret du phylactère de Concelhaut est à moi, et seulement à moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Je posséderai un peu de vos talents. Et vous, un peu de la sagesse de Llengrath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Marché conclu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Vous ne vous approcherez pas de mon âme !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Non. Je refuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Llengrath hoche la tête. "C'est vous qui décidez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Bien. Alors, approchez-vous, et allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Alors que les mains de Llengrath se détachent de votre visage, un sentiment de vide vous envahit. Vous avez l'impression d'avoir oublié quelque chose... Mais impossible de vous en souvenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Êtes-vous différent ?"
+
+Gafonercos vous dévisage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Il a une odeur différente."
+
+Turisulfus renifle l'air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Voilà... C'est fait."
+
+Llengrath ne semble pas avoir changé, en dehors de son sourire apaisé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Reposez en paix, mon ami. Puisse l'esprit de Llengrath vous guider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"J'espère que beaucoup de bien sortira de notre alliance. À cette fin, un cadeau d'adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Son heure venue, Llengrath voulait partir, laisser ses souvenirs et son enveloppe corporelle derrière lui. Il confia le don de sa force vitale, de son esprit vibrant à un successeur digne de ce nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Vous auriez facilement pu devenir l'instrument des efforts déployés par Concelhaut pour déjouer la roue et le rendre inaccessible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Non ! Tuez-le !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Le phylactère ? Le crâne de Concelhaut, vous voulez dire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Je me suis habitué à sa présence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Oui. C'est dégoûtant, vraiment. Mais on va y venir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Vous pourriez franchement faire mieux. Mais je vais un peu vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"On a entendu parler de vous, [Player Race]. Vous avez tué le dragon de la montagne dont l'âme était scindée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Il n'y a rien de mieux que de veiller à transmettre un héritage durable. Pour permettre aux autres d'en tirer des enseignements."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Les connaissances interdites jouissent d'un certain attrait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>[LR ALOTH: Animancers can be just as dangerous/ guess Llengrath doesn't think much of non-magi.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ce phylactère ne me concerne pas. Je veux juste qu'on me laisse tranquille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"C'est médiocre. Vous auriez pu ignorer Concelhaut dès le début, le laisser faire ce qu'il avait à faire. Vous avez interféré de votre plein gré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Par « essence d'âme », vous voulez dire...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Rien de plus. Rien de fâcheux, je vous l'assure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ce n'est pas grave alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Llengrath sourit timidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"J'ai des amis haut placés. Vous pourriez même dire divinement placés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"J'ai découvert beaucoup de choses à propos des Engwithans. Je pourrais partager ce savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Alors vous seriez stupide de laisser passer cette opportunité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Je commence à comprendre pourquoi Concelhaut était si intéressé. Ce n'est pas un sentiment... agréable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Pourquoi est-ce que le phylactère est si dangereux ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Le phylactère était censé être le triomphe de Concelhaut sur la mort. Tout le mal fait par les êtres civilisés à la recherche de mensonges ferait pâle figure comparé à ce qu'ils feraient pour la vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Pensez-y un peu. Vous devez avoir remarqué avec quel désespoir les êtres civilisés s'accrochent à leurs vies. Les mesures qu'ils sont prêts à prendre pour s'assurer que leurs consciences sont celles qui subsistent le plus longtemps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Je ne suis pas sûre que tout le monde soit aussi enclin à sculpter son propre crâne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Il suffit d'une fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>D'autres souvenirs se trouvent à sa place... Pas des images ou des événements, mais de précieuses informations glanées au fil des décennies et prêtes à être partagées. Cette découverte vous confère vigueur et puissance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>La démone siffle.
+
+"Ne le prenez pas mal, [Player Name], mais si elle embauche, je vais avec elle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"On ne peut pas vous jeter dans le Puits de Sel pendant un certain temps ?" Maneha vous regarde avec de fébriles espoirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Elle soulève un point intéressant."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

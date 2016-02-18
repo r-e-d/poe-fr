@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_bleakwalkers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>148</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un des paladins fait un pas sur le côté et tourne la tête pour vous regarder, vous et Eska. Il vous regarde et vous jauge nonchalamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Attaquez.] "Ça suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous remarquez que les deux paladins situés derrière Cevestin échangent des regards. 
+
+Cevestin suit votre regard. L'espace d'un instant, il semble tendu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nos agissements doivent dissuader d'autres de croiser le fer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mon nom est craint partout dans le Dyrwood. Pensez à ce que nous pourrions accomplir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Le silence s'installe. Les paladins vous regardent avec dédain.
+
+Cevestin éclate de rire et hausse les épaules d'un air moqueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Votre premier contrat ? Tuez Cevestin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Cevestin n'a pas le temps de terminer. D'un geste rapide, l'un des paladins lui enfonce une courte lame sous le menton. 
+
+L'autre pousse du pied l'homme mourant qui s'écroule par terre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Attaquez.] "Alors, vous n'avez qu'à mourir ensemble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Il n'a rien à voir dans tout ça. Laissez-le partir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Au sol, Cevestin se tient difficilement la gorge. Ses anciens amis vous regardent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Tuez-le."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Eska laisse échapper un gémissement de terreur lorsqu'un des paladins acquiesce et fait un pas en avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nous pourrions peut-être nous entraider. Nous nous recontacterons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous... Vous allez les laisser partir ? Vous allez les ENGAGER, après tout ce qu'ils ont fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Allez-vous-en avant que je change d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Eska avale difficilement sa salive et regarde les paladins. Il se faufile vers la porte.
+
+Les Marcheurs austères observent, impassibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Kern est mort. Vous tenez là votre vengeance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"On pourrait peut-être s'entraider. Tâchons de rester en contact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>La surprise qui se lit sur le visage d'Eska se transforme en colère résignée. 
+
+Il se faufile vers la porte. Les Marcheurs austères observent, impassibles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Allez-vous-en avant que je change d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nous pourrions peut-être nous entraider. Nous nous recontacterons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nous pourrions peut-être nous entraider. Nous nous recontacterons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Pas de quartier !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Je m'attendais à une certaine courtoisie de la part d'un membre de l'ordre. Trouvez-vous votre propre contrat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ah. Un des Chevaliers du Pacte d'or. Vous êtes en quête de contrat, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Terroriser des ivrognes n'a rien de glorieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Éloignez-vous de lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Quelque chose comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eh bien, qui est-ce ? Eh, l'étranger. Vous allez devoir attendre votre tour. Nous avons un contrat à boucler."</DefaultText>
+      <FemaleText>"Eh bien, qui est-ce ? Eh, l'étrangère. Vous allez devoir attendre votre tour. Nous avons un contrat à boucler."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"C'est Kern qui m'envoie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Il éclate de rire.  "Vraiment ? Eh bien, dites à ce misérable de se tenir prêt avec l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Un contrat ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"J'en ai vu des querelles à Dyrwood, mais Stalwart, c'est encore autre chose. Des paysans qui se battent au sommet d'une colline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"J'y vois un certain sens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vous avez perdu la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous vous servez d'un ivrogne comme excuse pour faire couler le sang. Vous êtes pitoyable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Le petit sourire de Cevestin disparaît.
+
+"Mais bon sang, qui êtes-vous, [Player Race] ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Cevestin grogne. "Vraiment ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Quoi ? Vous savez comment ça marche. Pas de quartier. Pas d'ingérence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Éloignez-vous ou vous mourrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"D'accord, d'accord. Vous avez toute mon attention. Tuez-le d'abord."</DefaultText>
+      <FemaleText>"D'accord, d'accord. Vous avez toute mon attention. Tuez-la d'abord."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous êtes un meurtrier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je vous en prie, ne les laissez pas faire ça !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Et si une gentille famille comme celle-là finissait sur des piques ? Peut-être accepteront-ils de discuter, la prochaine fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"J'ai vu ce que vous avez fait au Vallon de la Pierre blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Vous entendez Eska soupirer. Cevestin vous regarde et esquisse un léger sourire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Rien ne vaut une démonstration de force. Et si quelqu'un doit le savoir, c'est bien vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Rien ne vaut une démonstration de force. Je suppose que vous le savez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Oui. J'ai entendu dire que vous étiez de ceux-là." Cevestin soupire.
+
+"Peut-être voyez-vous aussi que ce sont des foutaises. Kern m'engage, cette fois. Peut-être que le cousin de Haddi m'engagera, la prochaine fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Très drôle. Je ne pensais pas que vous comprendriez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vous êtes fous, tous les deux !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ces jeux sadiques sont indignes de votre ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Laissez-le tranquille, Cevestin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Venez affronter un adversaire digne de ce nom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Je suis ici pour sauver Eska. Et vous ne m'en empêcherez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Rien ne vaut une démonstration de force. Vous êtes plutôt doué, à ce qu'on dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Nous ne sommes pas censés accepter de contrats conflictuels, vous savez. Vous n'êtes pas très doué pour ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ne vous en faites pas. Lorsque je jetterai votre cadavre dans la rivière, je jetterai aussi votre bourse pour vous tenir compagnie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Concentrez-vous sur l'intrus ! Nous tuerons le fils après !"</DefaultText>
+      <FemaleText>"Concentrez-vous sur l'intruse ! Nous tuerons le fils après !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Et si je vous engageais ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Non, non. On a quelque chose à faire et vous nous avez interrompus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Vous n'irez nulle part, l'ami. Vous pensez pouvoir arriver comme ça et me gâcher la fête ?"</DefaultText>
+      <FemaleText>"Vous n'irez nulle part, l'amie. Vous pensez pouvoir arriver comme ça et me gâcher la fête ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Baissez cette épée, mon garçon. Vous ne savez même pas vous en servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Hé ! Aidez-moi, je vous en prie ! Ils sont fous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Eh bien, regardez par ici. Une relique parlante et ambulante du vieux monde."
+
+Derrière lui, des hommes grognent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Eska, ici présent, pourra vous confirmer que les êtres civilisés de Stalwart aiment les mesquineries. Ils se battent continuellement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"J'ai fait peur à Kern, n'est-ce pas ? Le lâche. Eh bien, s'il avait le cran pour ce genre de chose, il n'aurait pas besoin de moi, n'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Cevestin rit d'un air soulagé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ha ! Vous êtes sensible à la souffrance de ce jeune homme ? On dit que vous vous êtes fait manipuler à Dyrwood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Pour faire quoi ? Vous nous feriez porter secours aux petits chatons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Eh bien. Peut-être s'expliqueront-ils, la prochaine fois."
+
+Cevestin éclate de rire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Le petit sourire de Cevestin disparaît.
+
+"Vous vous prenez pour qui, petit malotru ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Le petit sourire de Cevestin s'estompe. "Très drôle. Bon sang, mais qui êtes-vous pour venir jouer les héros ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vous nous déshonorez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Qu'en savez-vous ? Vous n'êtes pas des nôtres. Avez-vous déjà participé à un siège ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"La guerre, ça me connaît. Vous n'êtes qu'une brute qui cherche à se donner de l'importance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ce n'est pas vraiment la guerre, mon ami. C'est tout ce qu'il en reste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>S'ensuit un long silence. Les deux paladins regardent Cevestin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Dites, vous ne l'écoutez pas ? On travaille ensemble depuis des années !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"J'ai tué des membres de la Bannière déchirée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"J'ai massacré des dragons. Vous ne pouvez pas rivaliser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Je me suis introduit dans un château ou deux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"On ne confirait pas ce travail à n'importe qui."  
+
+"N'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Tuez-le !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Et celui-là ?" Le paladin désigne Eska du doigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Kana se tortille nerveusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Attaquez.] "Ne vous en faites pas pour lui. Vous n'êtes d'aucune utilité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Voilà qui est peu convaincant pour justifier un meurtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Nul doute que c'est ainsi que le verront les gardes de la ville."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Pas besoin d'excuse. Je passe mon temps à tuer des gens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Je suppose que vous avez raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Je suis ravi de voir qu'on se comprend. Pas de quartier, pas de pitié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Je n'en attends pas moins de vous. Et j'espère que vous en ferez de même."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Attaquez.] "Si vous voulez vous battre, je vais vous en donner l'occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Cevestin parle-t-il en votre nom à tous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Vous remarquez un soupçon de nervosité dans le rire de Cevestin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Et dans le cas contraire ? Que pourriez-vous nous offrir ? Nous ne faisons pas partie de ces chiens du Pacte d'or avec lesquels vous pouvez marchander."
+
+À ses côtés, l'autre paladin grogne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Laissez tomber, Cevestin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"N'importe quel imbécile peut recourir à la violence sans raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ne vous y mettez pas. Pourquoi avoir laissé deux familles s'affronter pendant des décennies ? J'y ai mis fin !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Un sale boulot. Mais c'est le souhait du donneur d'ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ça ne marche pas. Ça ne s'arrête jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Il y a peu encore, survivre aux attaques des ogres était au cœur des préoccupations de chacun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Vous le savez mieux que quiconque, je suppose. Quelqu'un vous a-t-il engagé pour massacrer la moitié de Stalwart ou était-ce un mauvais jour ?" 
+
+Cevestin glousse.</DefaultText>
+      <FemaleText>"Vous le savez mieux que quiconque, je suppose. Quelqu'un vous a-t-il engagée pour massacrer la moitié de Stalwart ou était-ce un mauvais jour ?" 
+
+Cevestin glousse.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Regardez ici, les gars, on y est. Un des Porteurs de boucliers nous fait l'honneur de sa visite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Il éclate de rire. "Vraiment ? Combien vous a-t-il donné ? Il ne peut pas vous avoir offert grand-chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vous vous êtes libéré, Darcozzi ? Ou jouez-vous les gardes du corps pour des pêcheurs ou des fermiers ces temps-ci ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Il me verse votre solde, en fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Vous autres Marcheurs austères avez toujours fait preuve de simplicité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Un Aimable voyageur ? Ici ? Je crois que vous vous êtes perdu, cette fois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Je vous en prie, continuez. Faites-nous votre sermon. Nous continuerons comme si de rien n'était."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Formidable. Nous avons trouvé un de ces Marcheurs austères bavards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Pourquoi ne dites-vous rien ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Pourquoi ? Quelqu'un vous paie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Oh, un peu de sens de l'humour. Attendez, nous nous occuperons de vous bien assez tôt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ajoutez-y un peu d'acier de Durgan et vous ferez bien des jaloux parmi vos voisins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Je vais vous arracher la langue, je crois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Vous êtes là pour ramener le pauvre Eska chez lui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Je suis là pour faire taire un chien enragé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Il n'avait pas à le faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Non, pas vraiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Voilà ce que sont ces paysans." 
+Cevestin grimace d'un air moqueur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Eh bien. Je suppose que ça fait de vous notre concurrence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Gardez le silence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Je vais vous transformer en épouvantail, je crois. Vous serez plus utile aux voyageurs mort que vivant."</DefaultText>
+      <FemaleText>"Je vais vous transformer en épouvantail, je crois. Vous serez plus utile aux voyageurs morte que vivante."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Vous n'avez rien à dire ? Combattons, alors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Et dans le cas contraire ?" 
+
+Le paladin vous regarde en silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Le sourire narquois de Cevestin se teinte d'inquiétude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vous avez saisi l'occasion pour faire croire à un ivrogne qu'il était responsable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Il était responsable ! Vous n'étiez pas là. Vous n'avez pas vu le soulagement sur son visage lorsque je lui ai promis de le débarrasser de ses problèmes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Vous n'êtes qu'un sale chien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Vos amis approuvent-ils, Cevestin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"C'est tout ce qu'ils ont toujours attendu de nous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Un sale chien, vous dites ? Je vais exposer votre tête sur un poteau devant votre donjon."
+
+Il tourne la tête. "Tuez-le !"</DefaultText>
+      <FemaleText>"Un sale chien, vous dites ? Je vais exposer votre tête sur un poteau devant votre donjon."
+
+Il tourne la tête. "Tuez-la !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Aucun de ces misérables pêcheurs n'aurait osé s'en prendre à moi. Et lorsque vous et Eska aurez tourné les talons, tout sera fini."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Cela n'a rien d'un contrat. C'est une plaisanterie. Vous n'avez aucune obligation d'en finir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Et si je rachetais le contrat ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Il n'y a aucune raison de tuer ce garçon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Vous vous êtes ramoli. C'est bien dommage. On dirait que vous étiez féroce par le passé."</DefaultText>
+      <FemaleText>"Vous vous êtes ramolie. C'est bien dommage. On dirait que vous étiez féroce par le passé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"J'ai donné ma parole. Cela me suffit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Vous avez oublié. Nous ne sommes pas des mercenaires. Cevestin s'est égaré, mais il fait toujours partie des nôtres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Cevestin ne répond pas. Il se tourne vers vous, brandissant son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Il a raison, Cevestin. Ça a assez duré."</DefaultText>
+      <FemaleText>"Elle a raison, Cevestin. Ça a assez duré."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Non ! Non, bon sang ! J'en ai assez des ordres ! Vous vous retourneriez contre moi pour ça ?! Pour quoi, pour jouer les gentils toutous ?"
+
+Il s'en prend à eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Si vous ne le tuez pas, allez au diable avec lui..."</DefaultText>
+      <FemaleText>"Si vous ne le tuez pas, allez au diable avec elle..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Vous... Vous allez les laisser partir ? Après tout ce qu'ils ont fait ? Kern les a payés pour tuer ma famille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

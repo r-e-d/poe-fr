@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_cp_main_umbrella</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>L'armée oubliée</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cherchez des informations à propos de l'armée dans Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Enquêtez sur le fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouvez comment bannir l'armée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Reforgez le Marteau d'Abydon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Atteignez la Faille de Cayron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Détruisez les Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Se reposer au-delà des frontières de la Marche blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>La Forge blanche a été restaurée grâce à vos efforts dans la Marche blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dans mon rêve, l'armée provenait de la Marche blanche, près de Stalwart. Peut-être que les résidents en sauront plus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Un fort a été construit à l'est de Stalwart. Il se peut qu'il contienne l'armée que je recherche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>L'une des délégués de Stalwart était une fidèle fanatique d'Ondra, qui s'était donnée la mort avant d'avoir pu fournir des réponses.
+
+Son âme m'a appris qu'elle venait de l'Abbaye de la Lune déchue, et que l'abbé là-bas est au courant à propos de l'armée. De  plus, il est capable de la bannir depuis un endroit qu'il a appelé le reliquaire.
+
+Si je peux atteindre la pièce, je pourrai peut-être stopper l'invasion avant qu'elle ne commence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai communié avec Ondra qui m'a indiqué que les Sans-yeux ne connaîtront pas de répit avant que toutes les personnes avec des connaissances spécifiques à propos de la Forge blanche aient été tuées. Cela regarde un grand nombre de personnes, et j'en fais partie.
+
+Elle pense que si je pouvais reforger le marteau de leur créateur, Abydon, à partir d'un morceau de l'outil original, alors il pourrait être utilisé pour les détruire.
+
+La Forge blanche me permettra de reformer le fragment dans une forme semblable à l'original.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ondra a révélé que les Sans-yeux demeuraient cachés lorsqu'ils étaient inactifs, tous rassemblés dans un endroit appelé la Faille de Cayron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai découvert où étaient basés les Sans-yeux. Je dois trouver un moyen de les détruire avant qu'ils ne me pourchassent avec la totalité de leur force.
+
+Ondra m'a assurée que le moment venu, elle m'indiquera ce que je dois faire. Elle a dit que je dois être au cœur de leur forteresse afin de mettre son plan en œuvre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Je devrais quitter la Marche blanche et me reposer. Avec le temps, Stalwart devrait commencer à guérir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le fort a été construit par des Readcerans dans l'objectif de capturer la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Stalwart a envoyé un groupe de délégués parmi leurs résidents pour essayer de négocier avec les Readcerans, mais les délégués ne sont jamais revenus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>L'abbé a également mentionné que quelqu'un appelé un « Porteur de marée » viendrait pour le remplacer. Cette information pourra se révéler utile lors de mon infiltration sur place.</DefaultText>
+      <FemaleText>L'abbé a également mentionné qu'une certaine « Porteuse de marée » viendrait pour le remplacer. Cette information pourra se révéler utile lors de mon infiltration sur place.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ondra m'est apparue et m'a fait savoir que je devrais frapper un cristal au centre de la caverne dans laquelle se reposent les Sans-yeux en utilisant le fragment du Marteau d'Abydon.
+
+Elle pense que les Sans-yeux répondront au son du marteau de leur maître et frapperont au même endroit jusqu'à ce que la caverne entière ne s'effondre. Ils se feront écraser.
+
+Cependant, cela veut également dire que la personne qui utilisera le marteau partagera probablement leur destin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Je me suis échappé de la tanière des Sans-yeux et alors qu'ils mouraient, leurs âmes quittaient leurs corps. J'ai pu parler avec eux. Ce sont des fragments de l'âme d'Abydon en personne. J'ai décidé de disperser les âmes afin qu'elles ne parviennent jamais à leur maître, et qu'il demeure ignorant de son passé et de son rôle antérieur en tant que dieu de la préservation.</DefaultText>
+      <FemaleText>Je me suis échappée de la tanière des Sans-yeux et alors qu'ils mouraient, leurs âmes quittaient leurs corps. J'ai pu parler avec eux. Ce sont des fragments de l'âme d'Abydon en personne. J'ai décidé de disperser les âmes afin qu'elles ne parviennent jamais à leur maître, et qu'il demeure ignorant de son passé et de son rôle antérieur en tant que dieu de la préservation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Je me suis échappé de la tanière des Sans-yeux et alors qu'ils mouraient, leurs âmes quittaient leurs corps. J'ai pu parler avec eux. Ce sont des fragments de l'âme d'Abydon en personne. J'ai décidé de leur permettre de retourner à leur maître, pour qu'il se souvienne de son passé et du fait qu'il était autrefois le dieu de la préservation.</DefaultText>
+      <FemaleText>Je me suis échappée de la tanière des Sans-yeux et alors qu'ils mouraient, leurs âmes quittaient leurs corps. J'ai pu parler avec eux. Ce sont des fragments de l'âme d'Abydon en personne. J'ai décidé de leur permettre de retourner à leur maître, pour qu'il se souvienne de son passé et du fait qu'il était autrefois le dieu de la préservation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Je me suis échappé de la tanière des Sans-yeux et alors qu'ils mouraient, leurs âmes quittaient leurs corps. J'ai pu parler avec eux. Ce sont des fragments de l'âme d'Abydon en personne. Nous avons convenu que si je leur permettais de retourner à leur maître, et qu'il devenait de nouveau le dieu de la préservation, il devrait dans le futur tempérer ses actions en fonction du contexte et permettre à certaines choses de se dissiper.</DefaultText>
+      <FemaleText>Je me suis échappée de la tanière des Sans-yeux et alors qu'ils mouraient, leurs âmes quittaient leurs corps. J'ai pu parler avec eux. Ce sont des fragments de l'âme d'Abydon en personne. Nous avons convenu que si je leur permettais de retourner à leur maître, et qu'il devenait de nouveau le dieu de la préservation, il devrait dans le futur tempérer ses actions en fonction du contexte et permettre à certaines choses de se dissiper.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>J'ai rêvé d'une armée qui se déversait sur la Marche blanche et venait pour me détruire. Elle me retrouvait quel que soit l'endroit où je fuyais et laissait ma forteresse en ruines. Ça semblait plus réel qu'un rêve.
+
+Je dois découvrir l'identité de cette armée et voir ce qu'il est possible de faire pour l'arrêter avant qu'il ne soit trop tard.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

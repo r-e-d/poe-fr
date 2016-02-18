@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_renengild_redux</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mais c'est le héros de la Forge blanche !" Renengild vous salue. Elle semble particulièrement détendue.  
+
+"Qu'est-ce qui nous vaut l'honneur de votre visite ? Vous n'êtes quand même pas revenu exprès pour me souhaiter une bonne retraite ?"</DefaultText>
+      <FemaleText>"Mais c'est l'héroïne de la Forge blanche !" Renengild vous salue. Elle semble particulièrement détendue.  
+
+"Qu'est-ce qui nous vaut l'honneur de votre visite ? Vous n'êtes quand même pas revenue exprès pour me souhaiter une bonne retraite ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pourquoi avez-vous pris votre retraite ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qu'avez-vous à l'esprit ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Et n'oubliez pas que j'ai pris ma retraite." Elle vous fait un clin d'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Après les ogres et les Readcerans, il ne manquait plus que ça ! On aurait pourtant bien besoin d'un peu de répit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vous avez remis ça. Espérons qu'on puisse enfin avoir un peu la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Elle s'étire. "J'en avais assez de la politique et de toutes ces querelles. Alors, quand Tarfos m'a dit qu'il n'avait plus envie de travailler dans les mines, je lui ai proposé de prendre ma place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Elle sourit. "Le pauvre, je crois que c'était un cadeau empoisonné."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

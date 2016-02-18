@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_lafda</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Lafda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Lafda et prenez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Apportez la tête de Lafda à Asca, à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Après s'être fait passer pour des prêtres d'Ondra, Lafda et sa bande de voleurs se sont enfuis du village de Stalwart. Les villageois ont mis une prime sur la tête de Lafda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lafda et sa bande de voleurs ont fui la Marche blanche. Ils ont été repérés dans la Faveur d'Ondra, probablement en train de chercher un moyen de fuir le Dyrwood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai vaincu Lafda et sa bande de voleurs. Asca, dans le village de Stalwart, sera satisfaite de voir une preuve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai apporté la tête de Lafda à Asca, à Stalwart, qui m'a remercié d'avoir rendu la justice.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

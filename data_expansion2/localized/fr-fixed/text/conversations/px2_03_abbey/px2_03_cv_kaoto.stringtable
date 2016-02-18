@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_kaoto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>210</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Alors, c'est fait ? Et vous avez le Témoin ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Seul le Grand abbé peut traverser le Voile des larmes. Le Témoin d'Ondra en est la clé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>L'âme du Grand abbé ne s'éloigne pas de son corps. Il en émane une chaleur que vous êtes le seul à ressentir.</DefaultText>
+      <FemaleText>L'âme du Grand abbé ne s'éloigne pas de son corps. Il en émane une chaleur que vous êtes la seule à ressentir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Contrairement aux autres Ondrites de l'abbaye, qui portent des vêtements ternes et pratiques, cet aumaua semble avoir revêtu une tenue d'apparat. Sa robe lumineuse scintille. Son cou et ses bras sont parés de bijoux. Et les symboles de sa déesse sont omniprésents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Êtes-vous prêt pour l'incantation ?"</DefaultText>
+      <FemaleText>"Êtes-vous prête pour l'incantation ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je suis venu dès que j'ai pu."</DefaultText>
+      <FemaleText>"Je suis venue dès que j'ai pu."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Maintenant que je suis là, qu'attendez-vous de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Attaquez] "Vous me serez plus utile une fois mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Dès que vous serez prêt, nous entamerons l'incantation."</DefaultText>
+      <FemaleText>"Dès que vous serez prête, nous entamerons l'incantation."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Le... conclave... a parlé d'un reliquaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Le conclave vous a sûrement expliqué ce qu'il attend de vous."  
+
+Il vous regarde avec curiosité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Quoi ? GARDES !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nous pouvons entamer l'incantation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oui, bien sûr. Je ne vous laisserai pas prendre ma succession sans vous avoir préalablement transmis mes connaissances. C'est la salle la plus sacrée de l'abbaye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"À propos de l'incantation..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Kaoto glousse. "Vous avez l'air nerveux."</DefaultText>
+      <FemaleText>Kaoto glousse. "Vous avez l'air nerveuse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Très bien. Commençons l'Élévation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Anthu vient en premier et Dianthu en dernier, car la marée arrive à la fin et s'en va au commencement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je suis Saman, l'Inondation"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Je suis Saman, l'Inondation"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je suis le Porteur de marée."</DefaultText>
+      <FemaleText>"Je suis la Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Attaquez] "Je n'ai jamais été très doué pour les devinettes."</DefaultText>
+      <FemaleText>[Attaquez] "Je n'ai jamais été très douée pour les devinettes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Je vous suggère de contempler les œuvres sacrées de l'abbaye. Œuvres conservées à l'intérieur comme à l'extérieur."
+
+Il cligne de l'œil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Béni soit Saman qui submerge le rivage et apporte la fin. Béni soit Disaman qui retourne à la mer en laissant derrière lui le commencement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Un Porteur d'offrandes vient trouver Disaman pour lui demander de le libérer de ses fardeaux. Qu'avez-vous à offrir, Porteur d'offrandes ?"</DefaultText>
+      <FemaleText>"Une Porteuse d'offrandes vient trouver Disaman pour lui demander de la libérer de ses fardeaux. Qu'avez-vous à offrir, Porteuse d'offrandes ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"J'offre mon être, car un Porteur d'offrandes n'a rien d'autre à offrir."</DefaultText>
+      <FemaleText>"J'offre mon être, car une Porteuse d'offrandes n'a rien d'autre à offrir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"J'offre mon être, car un Porteur d'offrandes n'a rien d'autre à offrir."</DefaultText>
+      <FemaleText>"J'offre mon être, car une Porteuse d'offrandes n'a rien d'autre à offrir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Au nom d'Ondra, j'accepte votre offre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Parlez-moi de vos fardeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je n'en ai aucun, car tout ce qui appartient à Ondra sombre dans l'oubli."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je n'en ai aucun, car tout ce qui appartient à Ondra sombre dans l'oubli."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Les souvenirs des autres sont mes fardeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je suis désolé mais vous avez oublié une partie du rite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Le Porteur de marée se montre digne de sa charge."</DefaultText>
+      <FemaleText>"La Porteuse de marée se montre digne de sa charge."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Votre rôle ici, Porteur de marée, consiste à célébrer la cérémonie de l'Élévation. Il s'agit d'une phase de transition."</DefaultText>
+      <FemaleText>"Votre rôle ici, Porteuse de marée, consiste à célébrer la cérémonie de l'Élévation. Il s'agit d'une phase de transition."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nos frères et sœurs de l'ordre de la Marée basse vivent depuis de nombreuses années au niveau inférieur, dans les Salles du silence, où ils se sont retirés de leur plein gré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Dans les salles du niveau inférieur, vous trouverez une relique, le Témoin d'Ondra, un goupillon pour distribuer l'eau bénite, mais ce n'est pas tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Le dispositif inondera les Salles du silence. Il s'agit de l'Élévation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Les gens qui sont en bas se noieront ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Il s'agit de la volonté d'Ondra. Tous les moines qui se sont retirés dans cette abbaye le comprennent et l'acceptent."  
+
+D'une main, il lisse ses mèches épaisses. Un cheveu gris reste collé à sa paume. Il l'observe en fronçant les sourcils, puis détourne le regard et poursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Que devrai-je faire une fois l'Élévation terminée ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"La Marée haute remplacera la Marée basse pour monter la garde dans les Salles du silence jusqu'à la prochaine Élévation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Lorsque vous aurez terminé l'Élévation, apportez-moi le Témoin d'Ondra et je vous montrerai la dernière des choses que vous devez savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Lorsque j'aurai le Témoin d'Ondra, que devrai-je en faire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Le dispositif qu'il déclenche est un simple mécanisme à clapet. Vous comprendrez quand vous le verrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Comment êtes-vous devenu Grand abbé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Partez] "Je reviendrai une fois l'Élévation terminée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Je sais que vous accomplirez votre devoir, Porteur de marée."</DefaultText>
+      <FemaleText>"Je sais que vous accomplirez votre devoir, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"J'aimerais en savoir plus sur l'Élévation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"J'ai le devoir de m'assurer que vous avez bien compris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"J'ai rencontré Farentis. Selon lui, les Salles du silence sont une véritable torture et leurs occupants vivent tous dans la terreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Je comprends. Ce doit être terrible de perdre la mémoire et de vivre dans la solitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Très bien. Je comprends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"C'est de la folie de les garder enfermés comme ça. Je ne peux pas continuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ce que vous dites là est très dangereux. Un Porteur de marée ne doit pas douter. Pardonnez-moi, mais je ne peux pas vous laisser accéder au poste de Grand abbé, ni vous laisser quitter cet endroit."</DefaultText>
+      <FemaleText>"Ce que vous dites là est très dangereux. Une Porteuse de marée ne doit pas douter. Pardonnez-moi, mais je ne peux pas vous laisser accéder au poste de Grand abbé, ni vous laisser quitter cet endroit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Nous devons nous fier à Ondra. Elle finira par nous délivrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Donnez le Témoin d'Ondra.] "C'est fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Partez] "Je reviendrai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Je sais ce que c'est d'utiliser cette relique pour déclencher l'inondation. Même si c'est un mal nécessaire, un acte de miséricorde... vous porterez cela en vous, à jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Pour accomplir la dernière phase de l'Élévation, vous devrez utiliser le Témoin d'Ondra afin de m'enfermer au niveau inférieur avec mes frères et sœurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Kaoto garde un moment le silence, perdu dans ses pensées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Il sort de ses rêveries.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Pardonnez-moi. L'Élévation, la phase finale."  
+
+Il se racle la gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Approchez-vous de son âme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Vous projetez votre essence, et dès que le contact s'établit, vous percevez des moments et des sensations provenant d'une autre vie.  
+
+Sous vos pieds, vous voyez un souvenir étincelant auquel vous vous raccrochez pour vous y introduire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Vous marchez d'un bon pas dans un couloir flanqué de petites pièces aux portes fermées. Cela ressemble à une prison, mais l'architecture est identique à celle du reste de l'abbaye.   
+
+Votre cœur s'emballe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Vous vous arrêtez devant un ensemble de panneaux flous. Vous les réagencez, et un carreau caché s'enfonce dans le mur.  
+
+Vos mains font alors un étrange signe et la voie s'ouvre devant vous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vous montez plusieurs marches et saisissez un objet en forme de baguette attaché à un mécanisme et le poussez. Au loin, vous entendez le bruit de l'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Je vous comprends. Je perds la tête, moi aussi. Je ferais n'importe quoi pour arrêter ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Vous êtes FAIBLE. S'il s'agit du sort que votre déesse a choisi pour vous, vous devez lui faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Vous souffrez donc de quelque chose ? Réjouissons-nous car l'un de nous va aujourd'hui trouver la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"L'Élévation est censée être une délivrance. C'est ce que j'ai toujours dit aux autres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Venez. Un dernier test, Porteur de marée."</DefaultText>
+      <FemaleText>"Venez. Un dernier test, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ah, le conclave a enfin désigné un Porteur de marée. Je commençais à m'inquiéter."</DefaultText>
+      <FemaleText>"Ah, le conclave a enfin désigné une Porteuse de marée. Je commençais à m'inquiéter."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Il se retourne, remarque votre présence et hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Et ils ont suivi mon conseil en vous fournissant une escorte. Très bien. Je suis désolé de ne pas avoir pu faciliter votre voyage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Mais évidemment, ils vous ont envoyé dans des contrées étrangères et dangereuses. Moins vous en saviez, moins le risque était grand pour nous."</DefaultText>
+      <FemaleText>"Mais évidemment, ils vous ont envoyée dans des contrées étrangères et dangereuses. Moins vous en saviez, moins le risque était grand pour nous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vous êtes ici pour accomplir l'Élévation. Et ensuite, vous prendrez ma place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Et juste à temps. La Marée de Mecwyn a atteint son apogée. Un peu plus et nous aurions dû attendre une année de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Les règles de l'Élévation sont malheureusement très claires à ce sujet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Une fois l'Élévation terminée, je vous y conduirai moi-même. D'ailleurs, le rituel l'exige."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Le conclave ne vous a pas choisi par hasard. En tant que disciple d'Ondra, les réponses viendront naturellement à vous."</DefaultText>
+      <FemaleText>"Le conclave ne vous a pas choisie par hasard. En tant que disciple d'Ondra, les réponses viendront naturellement à vous."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Je me souviens de ma propre Élévation. Le conclave m'avait également imposé un voyage éreintant. Lorsque le moment de l'incantation est arrivé, je ne me souvenais plus d'un seul mot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mais tout m'est revenu à temps. Notre déesse sourit aux étourdis."  
+
+Comme pour appuyer ses propos, il tapote un gros anneau en or sur lequel est gravé un insigne en forme de vague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Comment pouvez-vous être sûr que je suis le Porteur de marée ?"</DefaultText>
+      <FemaleText>"Comment pouvez-vous être sûr que je suis la Porteuse de marée ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Si vous ne l'étiez pas, vous seriez la première personne à avoir découvert cet endroit par hasard depuis mon arrivée ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ici, Ondra nous protège. Les fidèles qui montent la garde le font en son honneur, pas parce que nous sommes vulnérables."  
+
+Il vous lance un regard un coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Vous êtes bien notre Porteur de marée, n'est-ce pas ?"</DefaultText>
+      <FemaleText>"Vous êtes bien notre Porteuse de marée, n'est-ce pas ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Mentez] "Oui. Sinon, pourquoi serais-je venu ici ?"</DefaultText>
+      <FemaleText>[Mentez] "Oui. Sinon, pourquoi serais-je venue ici ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"À vrai dire, je suis venu ici pour entrer dans votre reliquaire et chasser les Sans-yeux."</DefaultText>
+      <FemaleText>"À vrai dire, je suis venue ici pour entrer dans votre reliquaire et chasser les Sans-yeux."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"J'ignore comment vous avez appris l'existence de cet endroit ou des choses dont vous parlez, mais sachez que vous n'aurez plus l'occasion d'en parler à qui que ce soit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Qu'Ondra me pardonne, mais les raisons sont difficiles à comprendre. Cette contrée peut être bien cruelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Si vous pensez être prêt."</DefaultText>
+      <FemaleText>"Si vous pensez être prête."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Je suis Disaman, le Reflux. Qui va là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"L'incantation est archaïque mais elle est essentielle à l'Élévation. Sans elle, l'Élévation ne peut avoir lieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Un jour, lorsque je serai en bas, un nouveau Porteur de marée invoquera l'inondation. Puis un autre viendra pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Alors seulement, nous en serons libérés. Libérés des souvenirs."  
+
+Il hoche la tête et pose une main hésitante sur votre épaule, mais il la retire presque aussitôt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Venez me retrouver là-haut, devant le reliquaire. Il reste encore une chose à faire pour accomplir l'Élévation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"De l'autre côté du Voile se trouve le reliquaire. Lorsque nous en aurons fini ici, vous y entrerez et vos responsabilités vous seront révélées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Grand abbé Kaoto ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Ne dites rien.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Je suis Kaoto, le Grand abbé."  
+
+Il s'incline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Petit rectificatif. Vous n'allez pas nous enfermer dans les Salles du silence."
+
+Les autres Ondrites se regardent et plissent le front.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Pour devenir Grand abbé, vous allez devoir me tuer, moi et tous ceux qui sont à mes côtés, ici et maintenant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ce n'est pas ce que vous m'avez dit tout à l'heure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vous êtes sûr qu'il n'y a pas d'autres solutions ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je vais enfin m'amuser un peu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vous êtes sûr de ne pas avoir lu les instructions à l'envers ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Je n'ai aucune raison de vous faire du mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Je vais vous en donner une."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"J'ai pris ma décision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Je ne commets aucune erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Il me semble préférable de mourir tout de suite plutôt que de perdre la mémoire dans les Salles du silence et finir ensuite noyé."</DefaultText>
+      <FemaleText>"Il me semble préférable de mourir tout de suite plutôt que de perdre la mémoire dans les Salles du silence et finir ensuite noyée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Bien. Dans ce cas, je ne discuterai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Vous êtes-vous déjà baigné dans l'océan, Porteur de marée ?"</DefaultText>
+      <FemaleText>"Vous êtes-vous déjà baignée dans l'océan, Porteuse de marée ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Attaquez] "C'est comme si c'était fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[En fond] "J'ai pour ainsi dire grandi au bord de la mer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Non, jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Je ne vois pas le rapport."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Dans ce cas, vous comprendrez peut-être."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Quand on se baigne dans l'océan, on est à la merci du courant et des vagues. Il faut être capable de s'abandonner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Quand j'étais jeune à Rauatai, je partais dans le golfe à bord d'un petit canoë faire de la pêche sous-marine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Un jour, en me baignant, le courant m'a emporté à des kilomètres de mon bateau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"J'ai résisté aussi longtemps que j'ai pu, mais je ne voyais pas comment j'allais pouvoir m'en sortir. Il faisait nuit et la mer était noire comme de l'encre. J'ai pris une profonde inspiration et je me suis laissé couler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"À ce moment-là, j'ai vu une lueur sous mes pieds. C'était une raie lunaire de la taille d'une caravelle. Imaginez un peu ça !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Je l'ai vue remonter vers moi et, même si j'étais en train de perdre connaissance, j'ai su que j'étais sauvé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Où voulez-vous en venir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Attaquez] "J'en ai assez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Je me suis réveillé sur le rivage. Ce jour-là, j'ai décidé de consacrer ma vie à Ondra, car je savais que c'était elle qui m'avait sauvé et qu'elle veillerait toujours sur moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"La lueur émise par cette raie lunaire m'a guidé tout au long de ma vie."  
+
+"Si je me laisse enfermer en bas, je devrai renoncer à ce souvenir, comme à un millier d'autres, alors que ce sont eux qui font de moi ce que je suis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Je me croyais prêt. Ma confiance en Ondra était totale. Mais je suis plus faible que je ne l'imaginais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"De deux choses l'une : soit je parviens à vous vaincre et je reste Grand abbé, soit je meurs ici en sachant qui je suis. Ces deux solutions me conviennent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Je mourrai seul et terrifié."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"En fait, je ne suis pas le Porteur de marée. Après vous avoir tué, je détruirai cet endroit."</DefaultText>
+      <FemaleText>"En fait, je ne suis pas la Porteuse de marée. Après vous avoir tué, je détruirai cet endroit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Mais maintenant que mon tour est venu, je ne vois plus les choses sous cet angle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Je... J'ignore comment c'est possible, mais je ferai tout pour vous en empêcher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Il est temps de les libérer pour permettre aux frères et sœurs de la Marée haute de prendre leur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Il n'y a pas que cela. C'est aussi une question de devoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Dans les Salles du silence, les souvenirs se fragmentent, jusqu'à ce qu'ils disparaissent complètement. Les Salles soulagent les Porteurs d'offrandes de leur fardeau."  
+
+Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Au bout de quelques années, lorsque le processus est terminé, l'Élévation est accomplie, pour offrir la paix éternelle à ceux qui vivent là. Et cette tâche vous incombe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Les moines qui sont ici ont tous été des Porteurs d'offrandes. Nous soulageons les gens de leurs souvenirs les plus douloureux, mais une partie d'entre eux reste en nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Les souvenirs de ce lieu doivent impérativement être chassés. Pour servir Ondra."  
+
+L'aumaua remarque alors une tache de vieillesse sur son bras. Il porte un doigt à sa bouche, l'humidifie et commence à frotter la tache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Finalement, les Salles emportent tous les souvenirs. Mais le processus laisse des traces, comme vous pouvez l'imaginer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"L'abbaye est l'un des secrets les mieux gardés d'Ondra. La mort ne garantit pas la disparition totale de nos connaissances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Vous devez me prendre pour quelqu'un d'autre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ah bon ? Vous n'êtes pas le Porteur de marée ?"</DefaultText>
+      <FemaleText>"Ah bon ? Vous n'êtes pas la Porteuse de marée ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Si. Pardonnez-moi, c'est un malentendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Il n'y a pas de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Notre bibliothèque vous est ouverte, de même que le parc. Vous y découvrirez une magnifique penture murale, si ce n'est pas déjà fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Pour atteindre votre destination, vous devrez connaître le Signe de la Marée, que seul le Grand abbé peut vous enseigner. On dit que c'est la première chose que l'abbé oublie lorsqu'il rejoint la Marée basse dans les Salles du silence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Regardez bien."  
+
+Kaoto replie les doigts de sa main droite pour former une sorte de boucle.  
+
+Puis, de la main gauche, il décrit un arc avec son index et ses petits doigts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Pensez au Pèlerinage des Porteurs d'offrandes. Je crois que nous avons le texte quelque part dans notre bibliothèque si cela peut vous aider. Ne revenez que lorsque vous aurez compris votre erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Porteur de marée, il y a peu, vous étiez vous-même un Porteur d'offrandes,  n'est-ce pas ? Je vous encourage à aller parler avec d'autres Porteurs d'offrandes si cela peut vous rafraîchir la mémoire."</DefaultText>
+      <FemaleText>"Porteuse de marée, il y a peu, vous étiez vous-même une Porteuse d'offrandes,  n'est-ce pas ? Je vous encourage à aller parler avec d'autres Porteurs d'offrandes si cela peut vous rafraîchir la mémoire."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Comme vous, j'ai été élu par le conclave. Mais vous savez tout cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Je ne m'y attendais pas. D'autres me semblaient plus qualifiés que moi. Je n'étais qu'un modeste érudit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Mais contrairement à eux, ma foi était inébranlable."  
+
+Il sourit fièrement en montrant pour la première fois ses dents usées par le temps. Mais il ferme aussitôt la bouche lorsqu'il remarque que vous l'observez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"C'était un tel honneur de devenir l'un des plus fidèles serviteurs d'Ondra. Je ne me suis pas posé de questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Kaoto se fige. Son visage est impassible, mais des tics et des tressautements viennent trahir sa nervosité.  
+
+Il prend une profonde inspiration et se reprend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Ce dont Farentis ne se souvient plus, c'est que nous savions tous que ce serait difficile. Nous étions emplis d'espoir, bien sûr, mais nous acceptions l'idée de souffrir pour servir notre déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Adieu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"L'étreinte d'Ondra nous soulage de nos fardeaux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Kaoto semble content. Il hoche la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Kaoto vous regarde et secoue la tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Je suis Ribbeleth, la Marée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Je suis un Porteur d'offrandes."</DefaultText>
+      <FemaleText>"Je suis une Porteuse d'offrandes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"J'offre mon labeur et ma foi, car ils font de moi ce que je suis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"J'offre le chagrin de ceux qui pleurent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"J'offre une pièce de cuivre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Je porte la douleur d'être séparé de ma déesse et je suis impatient de la rejoindre."</DefaultText>
+      <FemaleText>"Je porte la douleur d'être séparée de ma déesse et je suis impatiente de la rejoindre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Je porte les fardeaux d'un long voyage en solitaire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Vous plongez une nouvelle fois dans vos souvenirs et vous vous retrouvez brusquement à l'extérieur d'une enceinte surplombant la façade de l'abbaye. 
+
+De l'eau coule au-dessus d'une arche telle une cascade sans source. Vous regardez votre main et remarquez que la relique s'y trouve. Vous la tendez vers l'extérieur et elle semble repousser l'eau pour vous permettre de passer...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Vous franchissez la porte et sortez du souvenir en suivant le chemin par lequel vous êtes entré. Vous vous élevez vers le ciel en vous éloignant de l'âme du Grand abbé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Vous avez commis une grave erreur. Je la corrigerai au nom d'Ondra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Dans les salles du niveau inférieur, vous trouverez une relique, le Témoin d'Ondra, un goupillon pour distribuer l'eau bénite, mais ce n'est pas tout."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Il permet de déclencher un dispositif au-dessus d'un escalier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Et vous pouvez bien sûr vous entretenir avec les Porteurs d'offrandes qui sont là, si cela peut vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Prenez votre temps et examinez bien tout ça avant votre incantation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Et si j'échoue ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ne vous en faites pas. Chacun de nous a le droit à l'erreur de temps en temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Mais attention. Ma patience a des limites."  
+
+Il vous regarde dans les yeux, d'un air dur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Je comprends, Grand abbé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Je sais que vous ne me décevrez pas le moment venu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Vous autres qui accompagnez Kaoto, êtes-vous donc si lâches ? Ou serez-vous fidèles à votre foi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Personne ne répond, mais quelques moines échangent des regards.   
+
+Vos propos semblent produire leur petit effet, du moins sur certains d'entre eux.  
+
+Kaoto se tourne vers eux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"J'ai vu ce qui nous attend. Je ne souhaite un tel sort à aucun d'entre vous. Nous pourrions servir Ondra d'une autre façon."  
+
+La plupart des Ondrites acquiescent. Les autres restent impassibles.  
+
+Kaoto se retourne vers vous et plante son regard dans le vôtre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Venez. Un dernier test, Porteur de marée."</DefaultText>
+      <FemaleText>"Venez. Un dernier test, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Moines d'Ondra, vous avez raison de douter de votre chef. Il ne respecte plus la volonté de notre déesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Notre bibliothèque vous est ouverte, de même que le parc. Vous y découvrirez une magnifique penture murale, si ce n'est pas déjà fait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Et vous pouvez bien sûr vous entretenir avec les Porteurs d'offrandes qui sont là, si cela peut vous aider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Prenez votre temps et examinez bien tout ça avant votre incantation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Vous avez franchi le Voile des larmes sans autorisation. Vous ne me laissez pas le choix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Ça va durer encore longtemps ? Mes articulations commencent à rouiller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Maneha vous donne un coup de coude dans les côtes et vous lance un regard noir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Maneha vous fait un clin d'œil et un signe de tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Maneha se mord la lèvre et se tord nerveusement les mains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Maneha soupire de soulagement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Il a raison." Maneha vous regarde et hausse les épaules.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Quoi ? Après tout ça ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Et où sont passées toutes vos belles paroles ? Vous disiez qu'il fallait faire confiance à Ondra, lui confier nos souvenirs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Je n'ai jamais été très à cheval sur la doctrine, mais il y a sûrement quelque chose qui pourrait nous aider ici. Comme n'importe quelle abbaye, celle-ci doit renfermer des tas de vieux livres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>[Attaquez] "J'en ai assez entendu."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

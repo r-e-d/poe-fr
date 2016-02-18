@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_sleeping_mercenaries</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Un petit groupe d'Elfes pâles est étendu dans ces lits. Malgré le froid, ils semblent dormir à poing fermé et leur poitrine se soulève, puis s'abaisse.
+
+L'un d'entre eux ronfle bruyamment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Tranchez-leur la gorge en silence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Laissez-les dormir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Après avoir posé la main sur la bouche du premier elfe, vous enfoncez votre lame dans sa gorge et l'en retirez d'un geste vif. Sa courte agonie s'accompagne d'un léger bruit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vous vous avancez, couteau à la main, quand soudain, l'elfe ouvre les yeux et vous regarde.
+
+Rapidement, vous enfoncez votre lame dans sa gorge, mais trop tard... Ses cris alertent le camp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>En silence, vous vous attaquez tour à tour aux autres mercenaires elfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vos compagnons vous emboîtent le pas, tuant les mercenaires endormis avant qu'ils n'aient le temps de crier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Les mercenaires restants se lèvent brusquement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Tuez rapidement un des hommes endormis.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous vous avancez, attrapez l'elfe le plus proche par les oreilles et lui tordez...
+
+S'ensuivent un cri net et un craquement. L'elfe se relâche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vous vous avancez, vous empoignez votre arme et l'enfoncez violemment. Vous entendez un bruit de chair qui se déchire lorsque vous frappez, les compagnons du mercenaire aussi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous vous avancez, attrapez l'elfe le plus proche par les oreilles et essayez de lui tordre...
+
+Instinctivement, il se débat, crie et se libère de votre prise.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

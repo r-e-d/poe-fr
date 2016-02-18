@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_critical_path\px2_cp_abbey_moon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La marée montante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez jusqu'à l'Abbaye de la Lune déchue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Infiltrez l'Abbaye de la Lune déchue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Découvrez comment atteindre le reliquaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Entrez dans les Salles du Silence</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Récupérez le Témoin d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Utilisez le Témoin d'Ondra pour entrer dans le reliquaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Examinez le crâne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Complétez la récitation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Complétez la récitation et récupérez le Témoin d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Récupérez le Témoin d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>L'Abbaye de la Lune déchue contient peut-être la clé pour stopper l'armée que j'ai vue dans mes rêves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>L'un des délégués de Stalwart envoyé pour parlementer avec le Fléau de fer était une Ondrite envoyée par une abbaye du nord pour essayer de dissuader les Readcerans de continuer leur chemin. 
+
+Apparemment il semble que le chef de l'abbaye, un homme appelé Kaoto, savait comment se débarrasser de cette monstrueuse armée. Il avait mentionné que ce serait fait dans « le reliquaire ».
+
+Il avait aussi parlé d'un visiteur attendu, un « Porteur de marée », qui viendrait prendre sa place.
+
+Dans l'âme de l'Ondrite, j'ai pu absorber les connaissances requises pour en déduire le chemin vers l'abbaye. Je dois m'y rendre si je compte stopper cette menace.</DefaultText>
+      <FemaleText>L'un des délégués de Stalwart envoyé pour parlementer avec le Fléau de fer était une Ondrite envoyée par une abbaye du nord pour essayer de dissuader les Readcerans de continuer leur chemin. 
+
+Apparemment il semble que le chef de l'abbaye, un homme appelé Kaoto, savait comment se débarrasser de cette monstrueuse armée. Il avait mentionné que ce serait fait dans « le reliquaire ».
+
+Il avait aussi parlé d'une visiteuse attendue, une « Porteuse de marée », qui viendrait prendre sa place.
+
+Dans l'âme de l'Ondrite, j'ai pu absorber les connaissances requises pour en déduire le chemin vers l'abbaye. Je dois m'y rendre si je compte stopper cette menace.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>L'abbaye est bien gardée par des moines Ondrites. Il me faudra m'occuper d'eux, ou passer discrètement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>L'abbaye est vaste. Je dois découvrir l'endroit où se trouve le reliquaire que j'ai vu dans les souvenirs de l'Ondrite, et m'infiltrer à l'intérieur pour bannir cette armée.
+
+Kaoto, l'abbé qui a parlé à l'Ondrite dans la vision, semblait savoir comment entrer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Je ne pourrai pas entrer dans le reliquaire sans le Témoin d'Ondra, un aspersoir gardé dans l'étage souterrain de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Il y a un aspersoir appelé « Témoin d'Ondra » qui fonctionne comme une sorte de clé pour le mécanisme qui contrôle le niveau de l'eau dans l'étage inférieur de l'abbaye.
+
+Il est possible d'inonder les Salles du Silence avec, mais il est peut-être également possible d'ouvrir les portes pour permettre aux Ondrites de la Marée basse de s'échapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>J'ai le Témoin d'Ondra en ma possession. C'est peut-être ce dont j'ai besoin pour accéder au reliquaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Le reliquaire semble contenir une seule relique - le crâne d'un être immense.
+
+Quelque part dans cette enceinte se trouve le moyen par lequel Kaoto entend bannir les Sans-yeux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Si je veux continuer de me faire passer pour ce « Porteur de marée » et gagner accès au reliquaire sans opposition, la première étape est de réaliser une récitation rituelle devant Kaoto.</DefaultText>
+      <FemaleText>Si je veux continuer de me faire passer pour cette « Porteuse de marée » et gagner accès au reliquaire sans opposition, la première étape est de réaliser une récitation rituelle devant Kaoto.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Le grand abbé a expliqué qu'après avoir complété l'Ascension - le même rituel qui avait été mentionné par Farentis - je le remplacerai en tant que dirigeant de l'abbaye et obtiendrai un accès au reliquaire. 
+
+La première étape est de réaliser une récitation rituelle devant Kaoto. Puis je serai libre de retourner dans les Salles du silence et revendiquer l'aspersoir Témoin d'Ondra pour mon mon propre usage.</DefaultText>
+      <FemaleText>Le grand abbé a expliqué qu'après avoir complété l'Ascension - le même rituel qui avait été mentionné par Farentis - je le remplacerai en tant que dirigeante de l'abbaye et obtiendrai un accès au reliquaire. 
+
+La première étape est de réaliser une récitation rituelle devant Kaoto. Puis je serai libre de retourner dans les Salles du silence et revendiquer l'aspersoir Témoin d'Ondra pour mon mon propre usage.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>J'ai découvert comment Kaoto avait réalisé l'Ascension. Il a utilisé un signe secret dans les Salles du Silence pour atteindre l'aspersoir dont j'ai besoin pour accéder au reliquaire. Même si c'est commode, je n'ai plus besoin de prétendre être le Porteur de marée.</DefaultText>
+      <FemaleText>J'ai découvert comment Kaoto avait réalisé l'Ascension. Il a utilisé un signe secret dans les Salles du Silence pour atteindre l'aspersoir dont j'ai besoin pour accéder au reliquaire. Même si c'est commode, je n'ai plus besoin de prétendre être la Porteuse de marée.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Le Grand abbé Kaoto a parlé à ses fidèles à propos de l'arrivée du Porteur de marée. Avec un peu de chance, le véritable Porteur de marée ne viendra qu'une fois que j'aurai quitté les lieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>J'ai rencontré l'escorte mercenaire d'une Porteuse d'offrandes. Il pense qu'il y a plusieurs moyens d'accéder à l'intérieur de l'abbaye. Il dit que sa maîtresse avait parlé avec quelques gardes sous un porche voûté, et qu'ils l'ont laissé passer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Le Grand abbé Kaoto a parlé à ses fidèles à propos de l'arrivée du Porteur de marée. Avec un peu de chance, le véritable Porteur de marée ne viendra qu'une fois que j'aurai quitté les lieux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai trouvé un livre dans la librairie de l'abbaye, « Le pèlerinage de la Porteuse d'offrandes » qui raconte les fardeaux de la condition de Porteur d'offrandes. Les leçons qu'il contient se révèleront peut-être précieuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>En dehors de l'abbaye se trouve une fresque qui dépeint les phases de la marée, délavant un rivage océanique. La fresque est un quadriptyque, et chaque section est cataloguée. Il y a Anthu : La Fin, Saman : L'Inondation, Disaman : Le Reflux et Dianthu : Le Commencement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai entre-aperçu un souvenir important du grand abbé. Il le montrait faisant un étrange signe devant quatre panneaux dans un couloir souterrain, puis récupérant une relique en forme de baguette et l'utilisant pour passer à travers une porte aquatique dans une enceinte murée quelque part à l'extérieur de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>J'ai trouvé un récit de la main du grand abbé lui-même à propos d'un rêve récurrent. Il y réalisait un étrange signe devant quatre panneaux, puis récupérait une relique en forme de baguette et l'utilisait pour traverser une porte aquatique quelque part à l'extérieur de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Farentis souhaite que la Marée basse soit libérée. Il dit que cela nécessite une relique particulière qui se trouve dans les Salles du Silence et a suggéré que le Grand abbé saurait probablement comment se la procurer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai entre-aperçu un souvenir important du grand abbé. Il le montrait faisant un étrange signe devant quatre panneaux dans un couloir souterrain, puis récupérant une relique en forme de baguette et l'utilisant pour passer à travers une porte aquatique dans une enceinte murée quelque part à l'extérieur de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>J'ai trouvé un livre dans la librairie de l'abbaye, « Le pèlerinage de la Porteuse d'offrandes » qui raconte les fardeaux de la condition de Porteur d'offrandes. Les leçons qu'il contient se révèleront peut-être précieuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>En dehors de l'abbaye se trouve une fresque qui dépeint les phases de la marée, délavant un rivage océanique. La fresque est un quadriptyque, et chaque section est cataloguée. Il y a Anthu : La Fin, Saman : L'Inondation, Disaman : Le Reflux et Dianthu : Le Commencement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>J'ai trouvé un dossier contenant un rêve récurrent du Grand abbé. Il y réalisait un étrange signe devant quatre panneaux dans un couloir souterrain, puis récupérait une relique en forme de baguette qui lui permattait de traverser une porte aquatique dans une enceinte murée quelque part à l'extérieur de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Kaoto a demandé à ce que je lui apporte le Témoin d'Ondra comme partie de l'accomplissement de l'Ascension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>J'ai libéré la Marée basse. Les autres Ondrites désapprouveront sûrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>J'ai appris que le grand abbé, Kaoto, a souffert d'étranges cauchemars récemment et que ses quartiers se trouvent du côté oriental des Salles du Silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>J'ai trouvé un dossier contenant un rêve récurrent du Grand abbé. Il y réalisait un étrange signe devant quatre panneaux dans un couloir souterrain, puis récupérait une relique en forme de baguette qui lui permattait de traverser une porte aquatique dans une enceinte murée quelque part à l'extérieur de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>J'ai surpris une conversation entre deux Ondrites à propos du grand abbé, qui utilisait quelque chose appelé « le Témoin » pour passer à travers une sorte de porte qu'ils appelaient « le Voile des larmes ».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>J'ai trouvé un dossier contenant un rêve récurrent du Grand abbé. Il y réalisait un étrange signe devant quatre panneaux dans un couloir souterrain, puis récupérait une relique en forme de baguette qui lui permattait de traverser une porte aquatique dans une enceinte murée quelque part à l'extérieur de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>J'ai parlé à une Porteuse d'offrandes qui m'a révélé que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</DefaultText>
+      <FemaleText>J'ai parlé à une Porteuse d'offrandes qui m'a révélée que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>J'ai parlé à une Porteuse d'offrandes qui m'a révélé que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</DefaultText>
+      <FemaleText>J'ai parlé à une Porteuse d'offrandes qui m'a révélée que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>J'ai entre-aperçu un souvenir important du grand abbé. Il le montrait faisant un étrange signe devant quatre panneaux dans un couloir souterrain, puis récupérant une relique en forme de baguette et l'utilisant pour passer à travers une porte aquatique dans une enceinte murée quelque part à l'extérieur de l'abbaye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Farentis souhaite que la Marée basse soit libérée. Il dit que cela nécessite une relique particulière qui se trouve dans les Salles du Silence, la même que Kaoto m'a envoyé récupérer pour inonder les salles, le Témoin d'Ondra.</DefaultText>
+      <FemaleText>Farentis souhaite que la Marée basse soit libérée. Il dit que cela nécessite une relique particulière qui se trouve dans les Salles du Silence, la même que Kaoto m'a envoyée récupérer pour inonder les salles, le Témoin d'Ondra.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>Les moines de l'abbaye m'ont dirigé vers le grand abbé, Kaoto, qui attend le Porteur de marée au-delà d'une pièce appelée la Chambre de la Lune déchue.</DefaultText>
+      <FemaleText>Les moines de l'abbaye m'ont dirigée vers le grand abbé, Kaoto, qui attend le Porteur de marée au-delà d'une pièce appelée la Chambre de la Lune déchue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>J'ai surpris un échange entre deux Ondrites où ils révélaient que seul le grand abbé utilisait quelque chose appelé le « Témoin » pour traverser le Voile des larmes, et ainsi atteindre le Reliquaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>J'ai entrevu les souvenirs éparpillés d'un Ondrite mort depuis bien longtemps. Il était bloqué aux côtés d'autres fidèles dans les Salles du Silence. Leurs souvenirs s'étaient dissipés avec le temps, les poussant vers la folie, et , bizarrement, à réagir violemment au moindre bruit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>Le grand abbé, croyant que je suis le Porteur de marée, entend me montrer le reliquaire. Mais il exige que je complète d'abord une récitation.</DefaultText>
+      <FemaleText>Le grand abbé, croyant que je suis la Porteuse de marée, entend me montrer le reliquaire. Mais il exige que je complète d'abord une récitation.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>J'ai apparemment libéré un groupe d'Ondrites dérangés. Les autres Ondrites désapprouveront sûrement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>Kaoto m'a conseillé d'examiner la bibliothèque ainsi qu'une fresque à l'extérieur, et de parler avec les Porteurs d'offrandes afin d'en apprendre un peu plus.</DefaultText>
+      <FemaleText>Kaoto m'a conseillée d'examiner la bibliothèque ainsi qu'une fresque à l'extérieur, et de parler avec les Porteurs d'offrandes afin d'en apprendre un peu plus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20029</ID>
+      <DefaultText>Kaoto m'a conseillé d'examiner la bibliothèque ainsi qu'une fresque à l'extérieur, et de parler avec les Porteurs d'offrandes afin d'en apprendre un peu plus.</DefaultText>
+      <FemaleText>Kaoto m'a conseillée d'examiner la bibliothèque ainsi qu'une fresque à l'extérieur, et de parler avec les Porteurs d'offrandes afin d'en apprendre un peu plus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20030</ID>
+      <DefaultText>J'ai trouvé un livre dans la librairie de l'abbaye, « Le pèlerinage de la Porteuse d'offrandes » qui raconte les fardeaux de la condition de Porteur d'offrandes. Les leçons qu'il contient se révèleront peut-être précieuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20031</ID>
+      <DefaultText>En dehors de l'abbaye se trouve une fresque qui dépeint les phases de la marée, délavant un rivage océanique. La fresque est un quadriptyque, et chaque section est cataloguée. Il y a Anthu : La Fin, Saman : L'Inondation, Disaman : Le Reflux et Dianthu : Le Commencement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20032</ID>
+      <DefaultText>J'ai parlé à une Porteuse d'offrandes qui m'a révélé que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</DefaultText>
+      <FemaleText>J'ai parlé à une Porteuse d'offrandes qui m'a révélée que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20033</ID>
+      <DefaultText>J'ai terminé la récitation. Kaoto s'attend maintenant à ce que je trouve le Témoin d'Ondra dans les Salles du Silence et que j'utilise l'aspersoir pour inonder la zone. Farentis pense que je peux plutôt utiliser cet appareil pour le sauver lui et ses Ondrites de la Marée basse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20034</ID>
+      <DefaultText>Kaoto est mort. Je devrai entrer dans le reliquaire par moi-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20035</ID>
+      <DefaultText>Kaoto m'a conseillé d'examiner la bibliothèque ainsi qu'une fresque à l'extérieur, et de parler avec les Porteurs d'offrandes afin d'en apprendre un peu plus.</DefaultText>
+      <FemaleText>Kaoto m'a conseillée d'examiner la bibliothèque ainsi qu'une fresque à l'extérieur, et de parler avec les Porteurs d'offrandes afin d'en apprendre un peu plus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20036</ID>
+      <DefaultText>J'ai trouvé un livre dans la librairie de l'abbaye, « Le pèlerinage de la Porteuse d'offrandes » qui raconte les fardeaux de la condition de Porteur d'offrandes. Les leçons qu'il contient se révèleront peut-être précieuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20037</ID>
+      <DefaultText>En dehors de l'abbaye se trouve une fresque qui dépeint les phases de la marée, délavant un rivage océanique. La fresque est un quadriptyque, et chaque section est cataloguée. Il y a Anthu : La Fin, Saman : L'Inondation, Disaman : Le Reflux et Dianthu : Le Commencement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20038</ID>
+      <DefaultText>J'ai parlé à une Porteuse d'offrandes qui m'a révélé que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</DefaultText>
+      <FemaleText>J'ai parlé à une Porteuse d'offrandes qui m'a révélée que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>En haut de l'Abbaye de la Lune déchue, j'ai trouvé le reliquaire et les réponses que je cherchais. Les Sans-yeux sont l'armée de mes rêves. Ils me détruiront moi et des milliers d'autres pour protéger les secrets d'Ondra.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

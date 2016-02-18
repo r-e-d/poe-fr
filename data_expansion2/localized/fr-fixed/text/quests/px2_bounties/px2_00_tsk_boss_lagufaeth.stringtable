@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_lagufaeth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Lagufaeth Eau-rouge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez le lagufaeth Eau-rouge du Vallon de la Pierre blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Apportez la tête de la couveuse à Asca, à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>De violentes secousses ont dérangé les lagufaeths de la Marche blanche, et beaucoup d'entre eux sont devenus plus agressifs. 
+
+Les plus néfastes d'entre eux habitent le lac du Vallon de la Pierre blanche et sont devenus un danger pour les voyageurs et les exploitants agricoles de la zone. Les locaux se sont mis à les appeler les lagufaeths Eau-rouge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Asca m'a chargé d'éradiquer les lagufaeths Eau-rouge et lui apporter la tête de leur couveuse comme preuve.</DefaultText>
+      <FemaleText>Asca m'a chargée d'éradiquer les lagufaeths Eau-rouge et lui apporter la tête de leur couveuse comme preuve.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai exterminé les lagufaeths Eau-rouge. Asca me paiera pour la tête de la couveuse lors de mon retour.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai revendiqué la prime sur les lagufaeths Eau-rouge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

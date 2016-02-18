@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_00_stalwart_village\px1_00_renengild</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Mais c'est le héros de la Forge blanche !" Renengild vous salue. Elle semble particulièrement détendue.  
+
+"Qu'est-ce qui nous vaut l'honneur de votre visite ? Vous n'êtes quand même pas revenu exprès pour me souhaiter une bonne retraite ?"</DefaultText>
+      <FemaleText>"Mais c'est l'héroïne de la Forge blanche !" Renengild vous salue. Elle semble particulièrement détendue.  
+
+"Qu'est-ce qui nous vaut l'honneur de votre visite ? Vous n'êtes quand même pas revenue exprès pour me souhaiter une bonne retraite ?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_new_mayor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Devenez maire, ils disaient ! Vous en avez l'étoffe ! Tu parles ! J'aurais mieux fait de rester dans les mines !" En vous voyant approcher, ses yeux s'écarquillent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oui ?" Tarfos semble plus fatigué que jamais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Renengild ne m'avait pas dit que le maire était censé négocier des accords commerciaux !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qu'est-ce que c'est que cette histoire de négociation ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Un groupe de marchands de la Baie du défi voudrait conclure un accord commercial avec Stalwart. Leur représentante, Nesta, séjourne actuellement au Refuge du gréf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je fais tout pour l'éviter car je n'ai aucune expérience en matière de traités et de contrats. Je ne suis qu'un ancien mineur, pas un diplomate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vous pourriez peut-être aller lui parler de ma part ?" Il vous regarde en espérant que vous allez accepter sa proposition. "En tant que maire, je vous donnerai les pleins pouvoirs pour négocier au nom de Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"[Player Name] ! Nesta m'a présenté les termes de l'accord commercial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"[Player Name] ! Qu'est-ce qui vous amène à Stalwart cette fois ? Soyez le bienvenu !" Il affiche un sourire radieux.</DefaultText>
+      <FemaleText>"[Player Name] ! Qu'est-ce qui vous amène à Stalwart cette fois ? Soyez la bienvenue !" Il affiche un sourire radieux.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ah, [Player Name]. J'espère que vous n'allez pas nous causer d'ennuis cette fois. Cela dit, c'est grâce à vous que Stalwart a récupéré la Forge blanche." Il rit nerveusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Euh, nous n'avons pas oublié ce que vous avez fait pour Stalwart. Qu'est-ce qui vous amène cette fois ?" Il baisse les yeux en prenant soin d'éviter votre regard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Alors comme ça, vous êtes de retour ? Qu'est-ce qui vous amène ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Comment se porte Stalwart ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nous avons reconstruit le village. La palissade ouest est réparée, et un marchand s'est installé à l'emplacement de l'ancienne maison de Keydy." Il désigne le temple. "Et nous avons de nouveau un temple d'Abydon digne de ce nom. Je ne comprendrai jamais ce que les Ondrites sont venus faire à Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Je suis très occupé, alors si vous n'avez rien d'autre à ajouter..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Pourquoi Renengild n'est-elle plus maire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Cette vieille renarde a démissionné peu après que vous avez rallumé la Forge blanche. J'ai d'abord cru qu'elle en avait assez de diriger le village, mais aujourd'hui je crois plutôt qu'elle a voulu partir avant que son image ne se ternisse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"On dit que vous êtes un excellent négociateur. Vous pourriez peut-être faire visiter le village à Nesta, en relativisant l'ampleur des dégâts ?"</DefaultText>
+      <FemaleText>"On dit que vous êtes une excellente négociatrice. Vous pourriez peut-être faire visiter le village à Nesta, en relativisant l'ampleur des dégâts ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Allez parler à Nesta, faites-lui visiter le village. Mais ne la menacez pas. Contentez-vous d'être... euh... d'être vous-même. Elle sera peut-être plus indulgente envers Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vous êtes quelqu'un de pragmatique. Vous pouvez sûrement convaincre Nesta que le moment est mal choisi pour infliger un tel fardeau à Stalwart. La reconstruction n'est pas terminée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Les percepteurs savent très bien repérer les menteurs, mais vous réussirez peut-être à la duper et à la convaincre que le village a moins de valeur qu'il n'y paraît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"J'aimerais que vous rendiez un dernier service à Stalwart. Allez parler à Nesta, faites-lui visiter le village et convainquez-la que le moment est mal choisi pour imposer un nouveau fardeau financier à Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Impôts élevés : C'est à contrecœur que Tarfos doit se résoudre à augmenter les impôts, mais il se rassure en se disant que le village a de la valeur et qu'il attirera probablement les investisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Impôts modérés : Tarfos s'en accommode. Les impôts vont légèrement augmenter, mais le village est prospère et la plupart de ses habitants l'accepteront.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Impôts bas : Tarfos est ravi, mais redoute que l'image de Stalwart n'en pâtisse et que cela fasse fuir les investisseurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Y a-t-il des modalités ou conditions particulières auxquelles vous teniez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Eh bien, c'est moi qui signerai l'accord final."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Dans ce cas, je vais aller parler à Nesta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Qu'est-ce qui vous fait croire que je négocierai mieux que vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Vous êtes le héros de Stalwart, celui qui a récupéré la Forge blanche ! Il est évident que vous négocierez mieux que moi."</DefaultText>
+      <FemaleText>"Vous êtes l'héroïne de Stalwart, celle qui a récupéré la Forge blanche ! Il est évident que vous négocierez mieux que moi."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Comment avez-vous pu laisser mourir Nesta alors qu'elle était sous votre surveillance ? Avez-vous une idée de ce que représentait cet accord commercial pour Stalwart ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Comment en est-on arrivé à accepter que les Chevaliers du Creuset gardent les mines ? Et cette condition est non négociable ! La milice n'acceptera jamais ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Les habitants seront furieux quand la pêcherie fermera ses portes. Mais, entre nous, je suis d'accord avec Nesta. L'avenir de Stalwart, c'est l'acier, pas le poisson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Je suppose que des forgerons de la Baie du défi vont s'emparer de la Forge blanche. Il va y avoir pas mal de mécontents. Les forgerons locaux ne sont pas assez bons, c'est ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Je préfèrerais que les forgerons de la Baie du défi restent chez eux, mais je dois reconnaître que leur savoir-faire peut nous être utile. Tout le monde s'en accommodera, à condition qu'ils restent à leur place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous avez un problème avec moi ou quoi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oh non. Enfin... peut-être que si. C'est juste que je suis complètement dépassé. En tant que maire, tout le monde s'adresse à moi pour régler toutes sortes de problèmes." Il se racle la gorge. "Et votre présence ici n'augure rien de bon. Je me demande ce qui va encore nous tomber dessus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"« Stalwart se portait bien mieux du temps où Renengild la dirigeait ! C'est elle qui a fait rallumer la Forge blanche ! Rien à voir avec ce bon à rien de Tarfos ! Bouh ! »" Il s'éclaircit la voix. "J'exagère un peu, mais ça vous donne une idée de ce que j'endure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Merci ! Comme je vous l'ai dit tout à l'heure, vous la trouverez au Refuge du gréf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Alors, finalement, la pêcherie va rester ouverte. C'est bizarre, Nesta m'avait pourtant laissé entendre que les investisseurs voulaient la fermer. Une idée à laquelle je ne m'oppose pas, ceci dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Elle n'a rien rajouté de plus au sujet des mines ? Bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Elle n'a suggéré aucun changement au sujet de la Forge blanche. C'est bizarre, elle m'avait pourtant laissé entendre que nos forgerons n'étaient pas assez qualifiés. J'en déduis que vous avez réussi à la convaincre du contraire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Eh bien, je crois que je n'aurais jamais réussi à négocier un accord commercial aussi avantageux. Je vais m'empresser de le signer et de le faire porter à la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Oh, Nesta a laissé ça pour vous. Elle a dit que ça l'avait aidé par le passé." Il vous tend un paquet emballé dans du tissu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Merci encore, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Je crois que vous en avez assez fait. Allez-vous-en."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

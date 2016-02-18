@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_bs_llen_assassin_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le cadavre encore chaud d'une femme est à moitié enseveli dans la neige. L'entaille qu'elle a sous la gorge ne laisse aucun doute sur la cause de sa mort.   
+
+L'essence déjà faible se dissipe très vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Approchez-vous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Une obscurité glaciale vous submerge et vous ne parvenez pas à identifier les vagues images qui défilent devant vous.  
+
+Puis une lumière apparaît...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>La lumière du soleil s'infiltre à travers le feuillage des arbres, illuminant de petites portions du marécage. Vous tentez d'avancer, mais vous avez de la vase et de l'eau jusqu'aux genoux. Vos jambes fatiguent très vite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Le souvenir se dissipe et vous vous retrouvez dans le village de Stalwart. Probablement incommodée par votre présence, l'essence de l'âme se dissipe rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Le souvenir se dissipe et vous vous retrouvez dans le village de Stalwart. Probablement incommodée par votre présence, l'essence de l'âme se dissipe rapidement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vous devez vous résigner à cette situation inconfortable. Vous viendrez à la rivière bien assez tôt pour la remonter, en direction du nord.
+
+Votre esprit ne cesse de vous répéter : Rejoins Stalwart. Trouve le Gardien. Suis-le. Récupère le phylactère.</DefaultText>
+      <FemaleText>Vous devez vous résigner à cette situation inconfortable. Vous viendrez à la rivière bien assez tôt pour la remonter, en direction du nord.
+
+Votre esprit ne cesse de vous répéter : Rejoins Stalwart. Trouve la Gardienne. Suis-la. Récupère le phylactère.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>L'assassin de Concelhaut ne sera pas une proie facile. Mais si vous faites preuve de prudence, vous ne serez pas seul pour relever ce défi. Votre maître s'occupera du Gardien. Ce n'est qu'une question de temps.</DefaultText>
+      <FemaleText>L'assassin de Concelhaut ne sera pas une proie facile. Mais si vous faites preuve de prudence, vous ne serez pas seule pour relever ce défi. Votre maître s'occupera de la Gardienne. Ce n'est qu'une question de temps.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Mais le souvenir du voyage de la femme morte est toujours bien présent. Au sud-ouest, au-delà de la Marche blanche, se trouve un marécage où vous attend un ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Mais le souvenir du voyage de la femme morte est toujours bien présent. Au sud-ouest, au-delà de la Marche blanche, se trouve un marécage où vous attend un ennemi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Fouillez ses poches.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous ne trouvez qu'une petite fiole remplie d'un liquide sombre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_tax_collector</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bah... J'avais commandé de la bière, pas de l'eau de vaisselle. Elle a dû se tromper." Elle soupire. "À moins qu'elle l'ait fait exprès. On ne sait jamais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vous en prie, asseyez-vous." Elle parcourt la taverne des yeux. "Un peu de compagnie ne me fera pas de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Stalwart a rouvert et relancé l'exploitation de la mine en un temps record. Très impressionnant." Elle regarde autour d'elle en signe d'approbation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ouh, il fait froid ici ! Ne nous éternisons pas. J'irais bien visiter la pêcherie, mais cette odeur... Bah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"On l'a échappé belle." Nesta tremble d'épuisement. "D'habitude, je m'arrange pour éviter les embuscades des brigands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Alors voilà la fameuse Forge blanche. Très impressionnant. Les forgerons du donjon du Creuset donneraient cher pour être à ma place en ce moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tarfos m'envoie négocier l'accord commercial avec vous au nom de Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je voudrais commencer par visiter la pêcherie. Mes clients pensent qu'elle constitue un frein au développement de Stalwart. Retrouvez-moi devant l'entrée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Et je regrette d'avoir pris du ragoût de poisson à l'auberge. Un des pêcheurs a dit qu'une fois, ils avaient découvert un cadavre dans un tonneau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Si j'en crois les registres du village, la pêcherie n'exporte pas grand-chose en ce moment. Pourquoi est-elle encore ouverte ? Les ressources nécessaires à son exploitation seraient plus utiles à la Forge blanche et aux mines."  
+
+"Sa fermeture serait perçue par les investisseurs comme un signe de bonne volonté de la part de Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Gardez le silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je vous laisse décider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Très bien. Aucun accord commercial ne sera conclu tant que la pêcherie n'aura pas été fermée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Je dois maintenant aller visiter les mines de Stalwart. Mes clients s'interrogent sur leur sécurité. Retrouvez-moi là-bas dès que vous serez prêt."</DefaultText>
+      <FemaleText>"Je dois maintenant aller visiter les mines de Stalwart. Mes clients s'interrogent sur leur sécurité. Retrouvez-moi là-bas dès que vous serez prête."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"À l'aide !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"On m'a dit que les âmes des Pargruns étaient liées à la Forge. Il n'y a aucun précédent de ce genre, mais je suppose que la Forge a pris au moins 50 % de valeur en plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"On m'a dit que vous aviez lié les âmes des Pargruns aux canons du sommet de la Batterie. C'est sûrement une bonne chose de chercher à défendre cet endroit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Depuis combien de temps les âmes de ces Pargruns étaient-elles liées à ce lieu ? Des siècles ? Je crois que vous avez bien fait de les renvoyer à la Roue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Il ne reste plus qu'à rédiger une ébauche d'accord commercial avec les termes que nous avons négociés et à en présenter un exemplaire à Tarfos. Il faudra encore attendre quelques mois avant de signer l'accord final, mais nous avons déjà bien progressé."  
+
+Elle vous salue. "Merci de m'avoir escortée, [Player Name]. Au revoir !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Dans ce cas, je vous retrouve à la Forge blanche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Il me reste encore un endroit à visiter : la Forge blanche. J'aimerais me faire une idée des talents des forgerons qui y travaillent. Je vous retrouve là-bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous auriez pu m'aider à les combattre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Pourquoi s'en sont-ils pris à vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Elle secoue la tête. "Il valait mieux que je m'enfuie. Je vous aurais gêné. Vous contrôliez très bien la situation."</DefaultText>
+      <FemaleText>Elle secoue la tête. "Il valait mieux que je m'enfuie. Je vous aurais gênée. Vous contrôliez très bien la situation."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"On me prend parfois pour une perceptrice. C'est probablement ce qu'ont cru ces brigands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Qu'est-ce qui vous amène à Stalwart ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Je représente un groupe d'investisseurs de la Baie du défi qui aimeraient conclure un accord commercial avec Stalwart. Avant de s'engager, ils voudraient s'assurer que le village est aussi prospère qu'on le dit. C'est pour ça que je suis là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Elle porte sa chope à ses lèvres et avale une longue gorgée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Que pensez-vous du village ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Beaucoup d'argent circule, c'est vrai, mais reste à savoir si cette prospérité durera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Cela dit, le comportement de certains mineurs m'inquiète un peu. Ils semblent incohérents, désorientés. Ce n'est pas bon pour mon rapport."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"L'incident qui s'est produit avec les mineurs m'inquiète un peu. Leur comportement m'a semblé incohérent, voire violent. Ils disent que vous avez réglé le problème. Pouvez-vous m'éclairer ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Du nouveau sur les problèmes de la mine ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Aucune importance. Continuons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Attendez-moi ici. Je m'en occupe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Finissez votre inspection et allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Très bien. Dans le cadre de l'accord commercial, Stalwart devra accepter qu'un détachement des Chevaliers du Creuset assure la protection des mines. Cela risque de déplaire à la milice locale, mais on ne peut manifestement pas compter sur elle pour protéger les lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Un spore géant avait envahi les cavernes des vithracks et pris le contrôle de l'esprit des mineurs et des vithracks. Mais il a été éliminé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"J'y travaille toujours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Mais les vithracks sont toujours là, n'est-ce pas ?" Elle réfléchit un moment. Je vais devoir le signaler dans mon rapport. Dans le cadre de l'accord commercial, la Baie du défi insistera pour qu'un détachement des Chevaliers du Creuset assure la protection des mines. J'espère que la milice de Stalwart ne le prendra pas mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"En résumé, un spore géant avait envahi une caverne de vithracks et contrôlait les esprits des mineurs. Le spore et les vithracks sont morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Parfait. Comme vous avez manifestement éradiqué le principal danger qui planait sur les mines, je vais indiquer dans mon rapport que Stalwart assure parfaitement la sécurité des mines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Enfin ! Je commençais à croire que Tarfos m'avait oubliée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Grâce à la pêcherie, Stalwart est autosuffisant. Les importations de denrées sont donc réduites au strict minimum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Hmm... c'est une réponse pragmatique. Si nécessaire, je prendrai parti pour que la pêcherie reste ouverte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Je suis d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Si la pêcherie reste ouverte, Stalwart y verra un signe de bonne volonté de la part des futurs représentants de la Baie du défi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Oui, beaucoup de gens se méfient de moi. C'est une concession que les investisseurs accepteront sûrement de faire pour maintenir de bonnes relations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Il avait commis un meurtre et essayait de se soustraire à la justice. J'ai donc dû y remédier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Une dernière chose, sans aucun rapport avec l'accord commercial... J'ai entendu dire que vous aviez tué Grynde, le chef des pêcheurs. Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Je me suis brièvement entretenue avec Grynde, le chef des pêcheurs. J'ai l'impression qu'il cache quelque chose. Doit-il rester à son poste ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Gardez le silence.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Je n'ai pas de temps à perdre..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"C'est donc une question de justice. C'est bon à savoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Pardon. Je ne voulais pas vous offenser." Elle s'incline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Je ne sais pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Quoi qu'il ait fait par le passé, Grynde est aujourd'hui un pêcheur honnête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"J'aurais voulu m'entretenir avec le chef des pêcheurs, mais apparemment il a quitté le village. En temps normal, les investisseurs verraient cela d'un mauvais œil, mais la pêcherie semble très bien tourner sans lui. Tant pis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Allons-y."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Je vous conseille vivement de ne pas mentionner ça dans votre rapport si vous ne voulez pas qu'il vous arrive malheur sur le chemin du retour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"La surveillance d'une mine n'a rien de très prestigieux. Les Chevaliers risquent de vous en tenir rigueur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Bon, dans ce cas, je ne mentionnerai rien au sujet des vithracks. Hum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Et je n'ai déjà pas beaucoup d'amis parmi les Chevaliers. Vous avez raison, je vais éviter de mentionner les vithracks dans mon rapport."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Très bien. Où allons-nous maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Au fait, quelles sont les qualifications des forgerons ? Qui les a formés ? À mon avis, la Forge est sous-exploitée."  
+
+"Je crois qu'il serait bon que des forgerons formés au donjon du Creuset en prennent les rênes. Qu'en pensez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Pourquoi pas, à condition que les nouveaux forgerons se contentent de partager leur expérience et non de tout régenter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Cela risque d'être source de conflits. Les habitants de Stalwart n'aiment pas que des étrangers viennent leur dicter leur conduite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"La Forge blanche obéit uniquement aux descendants des nains de la Batterie. Vous l'ignoriez ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ah bon ? Vous êtes sûr ? D'un côté, cela me paraît logique. Je vais faire remonter cette information."</DefaultText>
+      <FemaleText>"Ah bon ? Vous êtes sûre ? D'un côté, cela me paraît logique. Je vais faire remonter cette information."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je suis d'accord. Avec des forgerons expérimentés à la tête des opérations, la prospérité de Stalwart est assurée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Bien, bien ! Je suis ravie que nous soyons d'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Bon, je devrais peut-être en parler à Tarfos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"C'est un bon compromis. Je prends note de votre recommandation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Clyver est un de mes amis. Dites-lui que Stalwart n'a pas besoin de ses Chevaliers pour assurer sa sécurité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh, j'ignorais que vous connaissiez le commandant des Chevaliers du Creuset. Je prends note de votre recommandation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Si vous connaissez un endroit plus inconfortable pour faire un somme, je suis preneur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Je vois. Dans ce cas, je vais me fier à votre jugement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Elle s'apprête à répéter sa question, mais se ravise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"La mine est-elle toujours si calme ? Où est le contremaître ? Il y a quelque chose qui cloche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Dans le cadre de l'accord commercial, Stalwart devra accepter qu'un détachement des Chevaliers du Creuset assure la protection des mines. La situation qui règne ici en ce moment montre que la milice locale n'est pas à la hauteur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Retournez à Stalwart.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Restez là.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Aucune importance. Où allons-nous maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

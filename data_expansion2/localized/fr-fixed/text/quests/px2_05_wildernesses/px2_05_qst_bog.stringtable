@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_05_wildernesses\px2_05_qst_bog</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>La promesse du phylactère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Examinez l'assassin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explorez la campagne au sud-ouest de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Cherchez votre ennemi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Éliminez Llengrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>À Stalwart, les gardes de la ville ont abattu une violente éclaireuse, ce qui ne l'a pas empêchée de récupérer des informations sur mes déplacements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>L'assassin a été tué, mais ce n'est pas ce genre de détail qui arrête un Gardien. Peut-être que je peux trouver quelques indices pour déterminer pourquoi cette personne avait été envoyée à mes trousses.</DefaultText>
+      <FemaleText>L'assassin a été tué, mais ce n'est pas ce genre de détail qui arrête une Gardienne. Peut-être que je peux trouver quelques indices pour déterminer pourquoi cette personne avait été envoyée à mes trousses.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Avant Stalwart, l'éclaireuse avait voyagé à travers un marécage au bord d'Eir Glanfath, au sud-ouest de la Marche blanche. Je m'attends à trouver la trace de ses employeurs dans les environs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai atteint une étendue marécageuse dans la campagne qui correspond à la zone que j'ai vue dans les mémoires de l'éclaireuse. C'est un endroit désolé, peu adéquat pour un avant-poste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Llengrath est déterminée à prendre ma vie. Il va donc me falloir l'affronter, elle et ses alliées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Je suis tombé sur une espèce de colonie dans le marais. Ça doit être le bon endroit.</DefaultText>
+      <FemaleText>Je suis tombée sur une espèce de colonie dans le marais. Ça doit être le bon endroit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>L'architecte du siège de la tour de Concelhaut s'est révélé être une héritière de l'archimage, Llengrath, bénéficiaire de son nom et de son titre. Sa mort, et celle des deux dragons qu'elle appelait des alliés, a mis fin à ses machinations et sécurise mon héritage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>L'architecte du siège de la tour de Concelhaut s'est révélé être une héritière de l'archimage Llengrath, bénéficiaire de son nom et de son titre. Après quelques délibérations, nous sommes parvenus à un accord plutôt qu'à un conflit. Llengrath a partagé avec moi quelques portions de son savoir, et avoir deux dragons à mes côtés finira forcément par servir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>À Stalwart, les gardes ont abattu une violente assassin en devenir avant qu'elle ne puisse atteindre sa cible : le maître de Caed Nua en personne.</DefaultText>
+      <FemaleText>À Stalwart, les gardes ont abattu une violente assassin en devenir avant qu'elle ne puisse atteindre sa cible : la maîtresse de Caed Nua en personne.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

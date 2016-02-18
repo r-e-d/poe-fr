@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_mines_foreman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Une femme au visage sévère s'approche de vous. Son regard noir et son léger prognathisme sont impressionnants. Elle croise les bras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Non ! Je vous en prie, vous faites erreur sur la personne ! Je n'ai aucun souvenir de tout cela !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Taisez-vous ! Tôt ou tard, nous vous ferons parler. Emmenez-le !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Le moment est mal choisi pour s'aventurer dans les mines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que savez-vous sur la victime, Sameth ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Merci. Votre aide nous sera très utile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Je vais m'en occuper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Partez] "Je n'ai pas le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Parlez-moi de Gamel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je croyais que vous aviez trouvé le responsable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Mais à ce qu'on m'a dit, vous savez ce que c'est. Je suppose que c'est à vous que l'on doit l'ouverture de la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Je ne le connais pas très bien. Mais jamais je ne l'aurais cru capable de tuer quelqu'un. Vous devriez aller l'interroger. Il vous dira peut-être où il a caché les cadavres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oui, c'est ce qu'on croyait aussi. On a trouvé Gamel près du corps d'un autre mineur, Sameth. Mais ce n'est pas encore fini."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Que se passe-il ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"J'ai besoin de quelqu'un pour régler cette affaire. J'ai déjà assez à faire pour empêcher cet endroit de s'effondrer. Tâchez de découvrir ce qui est arrivé à mes mineurs et je vous donnerai une part de notre prochain paiement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vous êtes toujours là ? Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ravie de vous revoir, [Player Name]. Que puis-je pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ouvrez l'œil. Ces mines regorgent de toutes sortes de nuisibles. Nous n'avons pas encore réussi à les exterminer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nesta m'avait prévenue de votre arrivée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Je suis Ismey, la contremaître. Nous sommes bien occupés depuis que les feux de la Batterie ont été allumés. Parfois un peu trop d'ailleurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Allez droit au but, s'il vous plaît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ravi d'apprendre que je me suis fait un nom."</DefaultText>
+      <FemaleText>"Ravie d'apprendre que je me suis fait un nom."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nous avons perdu plusieurs mineurs dernièrement. La plupart se sont volatilisés. Sameth est le premier dont on retrouve le corps. On a arrêté Gamel, mais on n'a pas retrouvé les corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"La faune locale nous mène déjà la vie dure. On n'avait pas besoin de ce meurtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Parlez-moi de ce meurtre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"D'accord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vous êtes le seul à pouvoir élucider ce mystère. Les familles des mineurs disparus ont le droit de connaître la vérité, même si elle est difficile à entendre."</DefaultText>
+      <FemaleText>"Vous êtes la seule à pouvoir élucider ce mystère. Les familles des mineurs disparus ont le droit de connaître la vérité, même si elle est difficile à entendre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Pauvre Sameth. Son corps a été retrouvé dans un tunnel, à l'est. On raconte que vous avez un don avec les cadavres. Comme les membres du Rang de Dunryd, c'est ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Bien sûr. Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"J'ai quelques questions à vous poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Comment ça se passe dans les mines ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"À propos des mineurs qui ont disparu..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je crois qu'un vithrack contrôlait Gamel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous avez trouvé quelque chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nous avons perdu plusieurs mineurs dernièrement. La plupart se sont volatilisés. Sameth est le premier dont on retrouve le corps. On a arrêté Gamel, mais on n'a pas retrouvé les corps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ça va beaucoup mieux maintenant, grâce à vous. Nous avons renforcé quelques étais, au cas où les secousses empireraient, mais sinon les mines sont totalement opérationnelles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Les créatures ne sont pas près de s'en aller. Et maintenant que Gamel a tué quelqu'un, certains vont vouloir abandonner ces tunnels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Quoi ? Vous plaisantez ?" Ismey vous regarde d'un air perplexe. "Nous voilà maintenant avec un nid de vithracks sur les bras ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Je crains que ce ne soit pas aussi simple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"On dirait, oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ne vous en faites pas, je vais m'en occuper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Tout compte fait, les vithracks n'étaient pas entièrement fautifs. Ils avaient été infectés par une sorte de champignon qui les rendait agressifs. Et j'ai réglé le problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Les mineurs semblent avoir retrouvé leurs esprits. Comme si quelqu'un leur avait donné un bon coup derrière la tête. Qu'avez-vous fait ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Eh bien, je suppose que vous savez ce que vous faites. Débarrassez-nous-en, s'il vous plaît."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Je sais que je vous en demande beaucoup, mais il faut absolument chasser ces vithracks. Ces mines sont trop importantes pour Stalwart désormais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ravie d'entendre ça. Prévenez-moi si vous découvrez autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"En quoi ces mines sont-elles si importantes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"La demande de minerai est en hausse depuis que vous avez ouvert la Batterie. Tout le monde veut de l'acier de Durgan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"J'ai trouvé une colonie de vithracks sous les mines. Un champignon toxique les a infectés. Le spore est à l'origine de toutes ces attaques et disparitions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Les mineurs qui ont disparu sont tous morts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Et c'est tout ? Bon, je n'ai pas l'intention de vous tirer les vers du nez." Ismey vous regarde d'un air méfiant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Mais cela ne me dit pas ce que je dois faire de Gamel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Tenez, prenez ça. Pour vous remercier de tout ce que vous avez fait. C'est vraiment le moins que je puisse faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Mais dites-moi, y a-t-il autre chose que je puisse faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Taena a fait un sacré boulot ici avant mon arrivée. Mais elle n'est plus toute jeune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Eh bien ! Je ne m'en serais jamais doutée. Je suis bien contente que vous ayez mis un terme à tout ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Je vois. C'est dommage. Prévenez-moi si jamais vous changez d'avis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vous avez sûrement vu qu'on avait emmené Gamel. On l'a trouvé près du corps d'un autre mineur, Sameth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Le meurtre est rarement une bonne idée."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Les tensions sont monnaie courante à Stalwart, mais là c'est autre chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Parlez-moi de Gamel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Que savez-vous sur la victime, Sameth ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Vous avez des problèmes avec les xaurips ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Que se passe-t-il avec les araignées ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je ne le connais pas très bien. Mais jamais je ne l'aurais cru capable de tuer quelqu'un. Vous devriez aller l'interroger. Il vous dira peut-être où il a caché les cadavres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Pauvre Sameth. Son corps a été retrouvé dans un tunnel, à l'est. On raconte que vous avez un don avec les cadavres. Comme les membres du Rang de Dunryd, c'est ça ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Apparemment, ils ont creusé un tunnel et atteint un puits de la mine. Ensuite, ils ont réussi à attraper un troll. Depuis, ils se déchaînent et terrorisent les mineurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Nous avons posté des gardes à l'entrée des grottes de l'est, mais il y a toujours autant d'araignées. Je me demande si on arrivera un jour à s'en débarrasser pour de bon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Sameth avait des taches jaunes sur les mains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ah... Sameth travaillait dans les mines de soufre. Ceci explique sûrement cela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Gamel n'était pas maître de ses actes. Vous ne pouvez pas lui en vouloir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Quelles que soient les circonstances, il n'en reste pas moins responsable de la mort de Sameth. Quelqu'un doit payer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Mentez.] "Gamel est un meurtrier. Il mérite son sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"J'aimerais vous poser une autre question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vous avez sans doute raison. On va le surveiller un moment avant d'envisager de le libérer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ce n'est pas mon problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Nous utilisons des automates pour extraire le soufre, à cause des gaz toxiques. Les mineurs se contentent de transporter les chargements vers l'extérieur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Finalement, elle a décidé de passer la main. Mais elle vient encore de temps en temps pour vérifier que tout est en ordre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Oui. La famille de Sameth mérite de trouver la paix. Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Je vois. On espère toujours trouver une explication rationnelle aux actes les plus abjects. Mais je suppose que ce n'est pas aussi simple. Je vais veiller à ce qu'il réponde de ses actes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Je comprends. Vous avez déjà tant fait pour nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Le problème, c'est que la Batterie a été ébranlée par les secousses. Avec l'effondrement des mines, il n'y a plus de gibier dans les parages, à part nous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Eh bien, si vous êtes aussi doué qu'on le dit, votre aide sera la bienvenue."</DefaultText>
+      <FemaleText>"Eh bien, si vous êtes aussi douée qu'on le dit, votre aide sera la bienvenue."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

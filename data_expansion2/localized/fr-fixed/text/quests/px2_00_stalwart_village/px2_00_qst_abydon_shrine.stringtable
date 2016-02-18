@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_00_stalwart_village\px2_00_qst_abydon_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fer et flammes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bénissez le marteau au Sanctuaire d'Abydon dans le donjon du Creuset dans Premiers feux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bénissez le marteau au Sanctuaire de Magran à la Croisée de Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retournez voir Masca au Temple d'Abydon dans le village de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Masca, une acolyte au temple d'Abydon dans le village de Stalwart, désire que je complète un rituel qui bénira son marteau de forge et améliorera ses compétences de forgeronne. Son niveau actuel est plutôt pauvre, et elle a peur de se faire renvoyer du temple si elle ne montre pas de progrès très bientôt. Elle a demandé que je l'aide à accomplir le rituel puisqu'elle ne peut pas quitter Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Voyagez jusqu'au Donjon du Creuset dans Premiers feux et bénissez le marteau au Sanctuaire d'Abydon dans le donjon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Voyagez jusqu'à la Croisée de Magran et localisez le Sanctuaire de Magran. Complétez la seconde partie du rituel en bénissant le marteau de forge au sanctuaire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai terminé le rituel pour Masca et son marteau de forge est maintenant enchanté. Il me faut lui rapporter au temple d'Abydon à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Le sanctuaire d'Abydon peut être trouvé à l'arrière du donjon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Masca a appris sa leçon, et Engrim lui permet de rester au temple d'Abydon. À partir de maintenant, elle travaillera dur et honnêtement pour devenir une meilleure forgeronne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Masca, qui a essayé de devenir une meilleure forgeronne grâce à la magie, a été bannie du temple d'Abydon par Engrim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai convaincu Masca de ne pas utiliser le marteau de forge enchanté pour améliorer ses compétences de forgeronne. Elle travaillera dur et honnêtement pour s'améliorer à partir de maintenant.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

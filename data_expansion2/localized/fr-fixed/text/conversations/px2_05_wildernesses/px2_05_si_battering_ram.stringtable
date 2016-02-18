@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_battering_ram</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ces bûches semblent avoir été coupées récemment, et vu leurs tailles elles comptaient autrefois parmi les anciens arbres qui encerclent le col.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Les bûches empilées ici semblent avoir été abandonnées quand les forces du fort se sont repliées dans le donjon. Ce sont d'imposantes pièces de bois d'œuvre, adaptées pour la construction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Juste devant vous, les portes du fort demeurent hermétiquement fermées. Vous apercevez des archers se déplaçant le long des tours de garde, balayant les alentours, et la brise glaciale transporte un fumet de goudron calciné.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attaquez le fort à l'aide d'un bélier.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ne faites rien pour le moment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ne renonçant devant rien, vous vous avancez pour tenter de soulever le rondin de bois le plus proche. En vain. Vous renoncez à y monter pour mieux vous en emparer de crainte de finir sous une pile de bois.
+
+Vous optez pour une autre solution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Aidés de vos compagnons, vous réussissez à soulever un de ces rondins et à l'écarter des autres. 
+
+Traînant ce bélier improvisé, vous vous dirigez vers les portes situées droit devant...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

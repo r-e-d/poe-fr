@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_terenat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>95</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le vithrack vous observe sans que ses traits arachnéens ne laissent entrevoir quoi que ce soit.
+
+Son discours, tel qu'il prend forme dans vos pensées, vous parvient sur un ton régulier et sourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Que faites-vous ici, [Player Race] ? Vous glissez d'ombre en ombre. Que complotez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que faites-vous ici, [Player Race] ? Vous êtes là pour décimer notre peuple ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Comment se fait-il que vous parliez si bien l'aedyran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Notre peuple est particulièrement doué. D'autres ne s'intéressent pas vraiment à votre langue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Votre colonie affecte certains mineurs de Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Cela ne vous regarde en rien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Peut-être avons-nous un ennemi commun, [Player Race]. Vous essayez d'aider ces êtres civilisés et moi, j'essaie de sauver ma colonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nridek a parlé de vous, [Player Race], et a raconté votre rencontre à Lle a Rhemen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vous avez survécu à tout cela, explorateur. Peut-être pouvez-vous m'aider. Je m'abstiendrais de vous le demander, si j'avais le choix."</DefaultText>
+      <FemaleText>"Vous avez survécu à tout cela, exploratrice. Peut-être pouvez-vous m'aider. Je m'abstiendrais de vous le demander, si j'avais le choix."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Votre nom ne nous dit rien. Je vous offre la possibilité de vous présenter en tant qu'ami ou ennemi."</DefaultText>
+      <FemaleText>"Votre nom ne nous dit rien. Je vous offre la possibilité de vous présenter en tant qu'amie ou ennemie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nous avons entendu parler de votre rencontre avec Tcharek, bien au-delà de Caed Nua. J'ai entendu dire que Sstrvek'narith détenait le secret d'adra qui lui permettra de renforcer ses murs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Qu'est-ce qu'un Spore rayonnant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Partez.] "Je ne veux rien avoir à faire avec les vithracks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Que puis-je faire pour vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eh bien. Nous n'avons plus rien à nous dire." 
+
+Le vithrack émet un puissant grognement, puis se tait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Nous avons entendu parler de vos échanges avec Tanoss, l'apprenti du magicien Concelhaut. Il a abandonné notre colonie, notre protection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Une infection a eu raison de notre peuple. Tout a commencé lorsque les éclaireurs ont trouvé une étrange plante. Un... Spore rayonnant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Inconscients du danger, ils l'ont ramené chez nous. En quelques jours, beaucoup d'entre nous ont ingéré les spores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Je l'ai enfermé dans la maison commune, au cœur de notre territoire. Je ne pouvais pas laisser notre peuple emporter le Spore jusqu'à la colonie de Moltuls'qu'mirr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mes congénères se sont peut-être trompés sur vous. Laissez-moi, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Les spores ont renforcé nos capacités. Beaucoup pensaient que nous étions en passe de devenir tout-puissants. Mais l'étude initiale s'est rapidement transformée en addiction. Il a suffi qu'un seul d'entre nous y succombe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Où avez-vous caché le cristal ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Qu'est-il arrivé aux autres vithracks ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Pourquoi votre peuple a-t-il ingéré les spores ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Où se trouve le Spore rayonnant maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ceux qui ont ingéré les spores ont commencé à l'entendre, puis à suivre ses instructions. Au départ, nous avons lutté. Nous avons essayé de le contrôler. En vain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"La porte qui mène à cette chambre est scellée par un glyphe. Il y a un cristal qui, lorsqu'on le tient devant ce glyphe, émet une tonalité spécifique. Et cette tonalité ouvre les portes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je l'ai caché dans les nids situés au sud. Il y a des... piliers, faits de toiles d'araignées. Il se trouve dans la nasse la plus éloignée de la porte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Hsst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je ne fais qu'explorer les lieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Je viens de vous sauver. Vous pourriez au moins répondre à mes questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Très bien."
+
+Ses mandibules se crispent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Pourquoi les autres vithracks vous ont-il enfermé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vous êtes de retour." 
+
+Vous sentez le vithrack tout aussi irrité que vous. La frustration se dégage de lui telle une aura palpable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"J'avais... caché quelque chose d'important pour eux. Le cristal de résonance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Je vous en prie, faites vite. Plus mon peuple est sous l'influence du Spore, plus il souffre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Il existe un cristal, magnifique et enchanté, qui permet d'accéder à la maison commune."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Il a grossi en un rien de temps. Il possède une tige centrale et des lianes semblables à des piliers. Il a utilisé nos propres dons contre nous. Il communique avec les nôtres. Il les utilise pour véhiculer ses paroles et ses pensées."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vous voulez que je vous aide ? Dites-moi ce qui se passe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vous êtes de retour." 
+
+Vous sentez le vithrack tout aussi irrité que vous. La frustration se dégage de lui telle une aura palpable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"C'est gentil à vous d'écouter. Vous devez avoir vu plusieurs de mes pauvres congénères. Mes congénères infectés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Nous avons retrouvé nos esprits et Moltuls'qu'mirr n'est plus en danger. Vous nous avez rendu un grand service, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Mon peuple est perdu, mais le Spore est mort. Ma colonie est sauvée, enfin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>D'après l'inclinaison de sa tête, le vithrack semble réfléchir. Vous entendez une série de clics sourds et creux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Il vivait près d'un nid d'araignées qui subvenaient mutuellement à leurs besoins. Une merveille de la nature. Quelque chose dont nous pourrions tirer parti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Merci, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Je dirai à mon peuple qu'il vous est redevable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"L'absence l'a corrompu. Vous avez bien fait de l'éliminer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Il entendait mettre fin à la terrible épreuve dont étaient victimes nos jeunes. La pierre spirituelle de la tombe des Bâtisseurs est peut-être la clé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"J'espérais qu'en n'y retournant pas, la situation de mes congénères s'améliorerait. Mais cela n'a fait que renforcer leur désespoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Savez-vous ce qui arrive aux mineurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Pendant longtemps, nous avons simplement évité les tunnels des êtres civilisés. Mais l'infection a renforcé le pouvoir de mon peuple sur les... esprits les plus faibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Les esprits infectés projettent leurs pensées, leur conscience... Ils se retrouvent dans des corps aussi étranges que souples et ne se soucient pas du mal qu'ils font."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"C'est... de la folie."
+
+Vous sentez une puissante aura de regret émaner du vithrack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"La porte, [Player Race] ! Délivrez-moi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Nous avons commencé à l'appeler « la créature », car il en émanait une lumière... J'avais déjà vu des monstres dans les cavernes, mais jamais comme celui-là."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Pourquoi n'êtes-vous pas infecté ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"J'ai été... prudent. Je suis resté à l'écart. Ceux qui étaient infectés ont contraint certains d'entre nous à ingérer les spores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Alors je me suis caché, jusqu'à ce que je puisse récupérer le cristal."  
+
+Vous sentez que cette confession lui fait honte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"S'agit-il du cristal dont vous m'avez parlé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Oui ! C'est lui. Il vous permettra d'accéder à la maison commune et d'éliminer le Spore rayonnant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Le vithrack vous observe sans que ses traits arachnéens ne laissent entrevoir quoi que ce soit.
+
+Son discours, tel qu'il prend forme dans vos pensées, vous parvient sur un ton régulier et sourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Alors, c'est vous, [Player Race], qui avez éliminé le Spore rayonnant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nous avons entendu parler de ce que vous avez fait avec nos semblables par le passé. C'est un véritable soulagement de découvrir que vous êtes aussi puissant qu'on le dit."</DefaultText>
+      <FemaleText>"Nous avons entendu parler de ce que vous avez fait avec nos semblables par le passé. C'est un véritable soulagement de découvrir que vous êtes aussi puissante qu'on le dit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je n'aurais jamais cru cela de vous. Mais je vous en suis d'autant plus reconnaissant. Vous avez sauvé ma colonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Je vous suis infiniment reconnaissant, [Player Race]. Et ma colonie aussi, bien évidemment. Vous avez sauvé mes congénères, du moins ce qu'il en restait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ravi de vous avoir aidés."</DefaultText>
+      <FemaleText>"Ravie de vous avoir aidés."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Je ne l'ai pas fait pour vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Savez-vous ce qui s'est passé ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Comment se fait-il que vous parliez si bien l'aedyran ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Notre peuple est particulièrement doué. D'autres ne s'intéressent pas vraiment à votre langue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Oui, malheureusement. Nous avons commis une grave erreur. Mais je devrais peut-être commencer par le commencement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Bien sûr. Vous l'avez fait pour les êtres civilisés ? Pour leurs mineurs ? Mais ça ne m'empêche pas de vous en être reconnaissant. Vous nous avez sauvés d'un grave danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je dirai à tous les habitants de Moltuls'qu'mirr à qui ils doivent leur liberté. Votre nom entrera dans la légende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Partez.]"Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Qu'est-il arrivé aux autres vithracks ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Pourquoi les autres vithracks vous ont-il enfermé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Pourquoi votre peuple a-t-il ingéré les spores ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Pourquoi n'avez-vous pas été infecté ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"J'ai été... prudent. Je suis resté à l'écart. Ceux qui étaient infectés ont contraint certains d'entre nous à ingérer les spores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Alors je me suis caché, jusqu'à ce que je puisse récupérer le cristal."  
+
+Vous sentez que cette confession lui fait honte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Qu'est-il arrivé aux mineurs ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Mon peuple a succombé à une infection. Tout a commencé lorsque les éclaireurs ont trouvé une étrange plante. Un Spore rayonnant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Il vivait près d'un nid d'araignées qui subvenaient mutuellement à leurs besoins. Une merveille de la nature. Quelque chose dont nous pourrions tirer parti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Inconscients du danger, ils l'ont ramené chez nous. En quelques jours, beaucoup d'entre nous ont ingéré les spores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Les spores ont renforcé nos capacités. Beaucoup pensaient que nous étions en passe de devenir tout-puissants. Mais l'étude initiale s'est rapidement transformée en addiction. Il a suffi qu'un seul d'entre nous y succombe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ceux qui ont ingéré les spores ont commencé à l'entendre, puis à suivre ses instructions. Au départ, nous avons lutté. Nous avons essayé de le contrôler. En vain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"J'avais... caché quelque chose d'important pour eux. Le cristal de résonance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Celui que vous avez utilisé pour accéder à la maison commune et vaincre le spore. Je voulais protéger mes semblables de ce spore... Mais cela n'a fait que renforcer leur désespoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Pendant longtemps, nous nous sommes contentés d'éviter les tunnels des êtres civilisés. Mais l'infection a renforcé le pouvoir de mes semblables sur les... esprits les plus faibles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Les esprits infectés projettent leurs pensées, leur conscience, à leur insu... Ils se retrouvent dans des corps aussi étranges que légers, et ne se soucient pas du mal qu'ils font."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"C'était... de la folie."  
+
+Vous sentez une puissante aura de regret émaner du vithrack.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

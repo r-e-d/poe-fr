@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_guard_vault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Seul le Grand abbé peut entrer. S'il vous plaît, écartez-vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je vous avais prévenu. Allez-vous-en. Sur-le-champ."</DefaultText>
+      <FemaleText>"Je vous avais prévenue. Allez-vous-en. Sur-le-champ."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"C'est ce que vous avez demandé !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Intrus ! À la chambre forte !"</DefaultText>
+      <FemaleText>"Intruse ! À la chambre forte !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous pouvez entrer, Porteur de marée."</DefaultText>
+      <FemaleText>"Vous pouvez entrer, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pardonnez-moi, Porteur de marée, mais je ne peux pas vous laisser passer sans autorisation du Grand abbé."</DefaultText>
+      <FemaleText>"Pardonnez-moi, Porteuse de marée, mais je ne peux pas vous laisser passer sans autorisation du Grand abbé."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

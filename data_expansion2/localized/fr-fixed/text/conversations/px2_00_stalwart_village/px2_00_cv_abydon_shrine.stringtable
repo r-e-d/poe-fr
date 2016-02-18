@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_00_stalwart_village\px2_00_cv_abydon_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Le sanctuaire d'Abydon se dresse devant vous. Il en émane une forte odeur de métal et d'huile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Bénissez le marteau de forge de Masca.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous placez le marteau de forge de Masca à la base de l'autel. Quelques instants s'écoulent sans que rien ne se passe, puis vous entendez le tintement lointain des marteaux... des dizaines, des centaines, puis des milliers de marteaux frappent les enclumes à l'unisson.  
+
+Soudain, le marteau de forge de Masca s'illumine et le chœur des marteaux se tait. Vous le récupérez. Son apparence n'a pas changé mais il vous semble plus lourd.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

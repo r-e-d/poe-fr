@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_ext_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Les soldats vous regardent approcher d'un air méfiant. Une fois à leur hauteur, l'un d'eux fait des gestes avec son arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Restez où vous êtes. Que faites-vous ici ? Vous êtes perdu ?"</DefaultText>
+      <FemaleText>"Restez où vous êtes. Que faites-vous ici ? Vous êtes perdue ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Je m'apprêtais à vous demander la même chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hors de mon chemin !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pardon. Je ne voulais pas m'imposer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Je dois parler à la personne qui commande ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ah bon ? À quel sujet ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Je veux savoir si vous avez l'intention d'attaquer Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ça me regarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Le commandant ? J'en doute. Mais peut-être, si le seigneur de Caed Nua continue de me harceler."</DefaultText>
+      <FemaleText>"Le commandant ? J'en doute. Mais peut-être, si la dame de Caed Nua continue de me harceler."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Je suis ici pour parler au commandant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Le commandant ne reçoit plus de visiteurs."
+
+Il vous regarde, le front plissé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"C'est Stalwart qui vous envoie ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>L'homme pointe son arme sur vous. Vous entendez le grincement d'une corde alors qu'un autre soldat lui emboîte le pas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vous ne pouvez pas entrer. Faites demi-tour ou vous mourrez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Je suis venu de mon plein gré.</DefaultText>
+      <FemaleText>"Je suis venue de mon plein gré.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Non."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vous n'avez pas le droit d'entrer ici. Estimez-vous heureux que je vous prévienne. Je vous conseille de faire demi-tour."</DefaultText>
+      <FemaleText>"Vous n'avez pas le droit d'entrer ici. Estimez-vous heureuse que je vous prévienne. Je vous conseille de faire demi-tour."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pourquoi y a-t-il un fort ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Le Fléau de fer est ici sous le commandement d'Adaryc Cendamyr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Et vous ne pouvez pas entrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Mais que faites-vous ici ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"C'est inutile. J'ai quelques questions à vous poser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Il grogne. "Alors, faites vite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Attaquez.] "Je ne crois pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Je dois parler à Adaryc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Adaryc a parlé d'une grande bataille à venir. Nous sommes ici pour empêcher quiconque de passer et pour défendre Readceras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Il a vu cela en rêve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Il a eu une vision ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"C'est fou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Aloth vous fait un clin d'œil mais ne dit rien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"N'avez-vous donc pas rien appris des soi-disant prophètes ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Mais alors, pourquoi ? Une fois les engins de siège terminés, nous prendrons la Batterie. Adaryc espérait convaincre Stalwart de négocier la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Il a eu tort de leur faire confiance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Partez.] "Parfait, je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vous êtes ici pour vos délégués ? Le commandant les a fait enfermer dans une cellule. Ils finiront bien par dire la vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Encore un espion. "Attrapez-le !"</DefaultText>
+      <FemaleText>"Encore une espionne. Attrapez-la !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Je ne vous le redirai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Des intrus ! Éloignez-les des portes !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vous êtes bien trop curieux, alors. Allez-vous-en. Je ne vous le redirai pas."</DefaultText>
+      <FemaleText>"Vous êtes bien trop curieuse, alors. Allez-vous-en. Je ne vous le redirai pas."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Une bataille contre qui ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Qui d'autre voudrait détruire Readceras ? Le Dyrwood en veut à nos vies, tout comme Stalwart en voulait à la Batterie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vous avez posé assez de questions. Allez-vous-en. Je ne vous le redirai pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Adaryc ne prétend pas être la réincarnation de Waidwen." Le ton du soldat est sec et offusqué.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ce qu'il a vu ne regarde que lui. Adaryc est un bon commandant. Nous ne contestons pas ses ordres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Hmm." La bouche du soldat se crispe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Quant à vous, Adaryc ne veut plus rien avoir à faire avec les messagers ou les diplomates. Vous arrivez trop tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Attaquez.] "De toute façon, j'en ai assez de parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Pouvez-vous me parler d'Adaryc ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Un type bien et plein d'espoir pour Readceras. C'est tout ce que j'ai à dire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Deryan a dit qu'Adaryc était venu ici à la suite d'une vision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Eh bien, ce Deryan a dit la vérité."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Et si quelqu'un d'autre avait eu une telle vision ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Il fronce les sourcils, puis hausse les épaules. "Après ce qui s'est passé avec les délégués, je préférerais ne pas en parler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vous allez devoir choisir votre camp, et vite. Quoi qu'il en soit, Adaryc ne veut plus rien avoir à faire avec les messagers ou les diplomates. Vous arrivez trop tard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

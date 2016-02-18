@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_00_stalwart_village\px2_00_qst_tax_collector</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tolérance des risques</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rencontrez Nesta dans le Refuge du Gréf au village de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rencontrez Nesta en dehors de la pêcherie au village de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rencontrez Nesta dans les mines de Stalwart au village de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Rencontrez Nesta à la Forge blanche de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sauvez Nesta des brigands à l'extérieur de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rencontrez Nesta à la Forge blanche de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retournez à Tarfos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Le maire Tarfos veut que j'escorte Nesta autour de Stalwart pour aider à négocier les termes d'un accord commercial avec la baie du Défi. Tarfos n'a pas confiance en ses qualités de négociateur et il veut donc que je m'en occupe à sa place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nesta m'attend à l'intérieur du refuge du Gréf. Je vais devoir la rencontrer pour commencer les négociations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nesta veut me voir en dehors de la pêcherie du village de Stalwart. Elle a mentionné quelque chose à propos des opérations de pêche, disant qu'elles étaient un frein à la prospérité de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nesta s'est déplacée dans les mines de Stalwart pour en vérifier les conditions de sécurité. Elle m'attend près du bureau du contremaître.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nesta veut me rencontrer à la Forge blanche de la Batterie de Durgan. Elle est inquiète à propos des compétences des forgerons assignés à la Forge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Nesta est poursuivie par des brigands à l'extérieur de la Batterie de Durgan. Je doute qu'elle puisse s'en sortir toute seule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Maintenant que cet incident avec les brigands est clos, Nesta est repartie pour son voyage vers la Forge blanche dans la Batterie de Durgan. Elle m'a dit de la retrouver là-bas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>J'ai négocié une ébauche grossière de l'accord commercial avec Nesta. Tarfos sera impatient de savoir comment les choses ont tourné. Il devrait toujours être en train d'attendre près des mines de Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai réussi à négocier un accord commercial entre Stalwart et la baie du Défi.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

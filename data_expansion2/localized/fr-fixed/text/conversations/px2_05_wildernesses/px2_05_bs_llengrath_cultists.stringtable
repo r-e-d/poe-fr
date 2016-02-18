@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_bs_llengrath_cultists</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Llengrath a vu en vous quelque chose qui lui a inspiré confiance. Mais n'en abusez pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Personne ne quitte jamais ce marécage indemne. Vous ne ferez pas exception à la règle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Chaque jour est un combat, et la vie elle-même est une victoire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"La mort rattrape plus vite ceux qui la redoutent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vous auriez fait un excellent adversaire. Mais je préfère vous avoir comme allié."</DefaultText>
+      <FemaleText>"Vous auriez fait une excellente adversaire. Mais je préfère vous avoir comme alliée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Llengrath dit qu'on ne va pas tarder à quitter le marécage. Tant mieux."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

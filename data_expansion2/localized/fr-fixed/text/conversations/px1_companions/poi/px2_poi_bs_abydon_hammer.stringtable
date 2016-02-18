@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px1_companions\poi\px2_poi_bs_abydon_hammer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Je pensais qu'il serait plus grand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ce que vous tenez là est tellement puissant... C'est incroyable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Faites attention avec ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je sais que vous tenez une arme divine, mais que cela ne vous monte pas à la tête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Faites attention avec les armes divines, Gardien. Leur utilisation est rarement sans contrepartie."</DefaultText>
+      <FemaleText>"Faites attention avec les armes divines, Gardienne. Leur utilisation est rarement sans contrepartie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Confiez-moi ce marteau pendant trois jours et je reviens avec le plus gros cadavre d'ours que vous ayez jamais vu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Très beau marteau. Je n'aimerais pas être à la place de celui qui se prendra un coup sur la tête avec."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

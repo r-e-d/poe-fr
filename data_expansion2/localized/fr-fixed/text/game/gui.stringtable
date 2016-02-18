@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1903</ID>
+      <DefaultText>Temple d'Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Le Refuge du gréf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
+      <DefaultText>Maison de Renengild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1907</ID>
+      <DefaultText>Maison de Thyrsc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1908</ID>
+      <DefaultText>Maison de Taena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1909</ID>
+      <DefaultText>Chariot d'Yduran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1912</ID>
+      <DefaultText>La Démone de Caroc</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1941</ID>
+      <DefaultText>Cavernes des Flammes-Qui-Murmurent</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1951</ID>
+      <DefaultText>Batterie de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1965</ID>
+      <DefaultText>Lac</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1968</ID>
+      <DefaultText>Chambre de divination</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1969</ID>
+      <DefaultText>Glissière de glace</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1972</ID>
+      <DefaultText>Vers les Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1973</ID>
+      <DefaultText>Vers la Caverne inférieure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1974</ID>
+      <DefaultText>Étang des Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1975</ID>
+      <DefaultText>Bosquet des bûcherons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1976</ID>
+      <DefaultText>Campement des chasseurs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1986</ID>
+      <DefaultText>Glissement de terrain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1996</ID>
+      <DefaultText>Morug</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2008</ID>
+      <DefaultText>Porte de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2009</ID>
+      <DefaultText>Salle des frères</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2012</ID>
+      <DefaultText>Salle de la Fierté de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2027</ID>
+      <DefaultText>Sanctuaire de Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2028</ID>
+      <DefaultText>Cratère des Bois de Russet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2029</ID>
+      <DefaultText>Campement abandonné</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2030</ID>
+      <DefaultText>Liaison d'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2031</ID>
+      <DefaultText>Annuler la liaison</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2032</ID>
+      <DefaultText>Êtes-vous sûr de vouloir lier {0} à {1} ? Une fois lié, cet objet ne peut pas être équipé sur un autre personnage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2033</ID>
+      <DefaultText>Voulez-vous vraiment annuler la liaison entre {0} et {1} ? Toutes les capacités éveillées sur {1} seront perdues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2034</ID>
+      <DefaultText>Liaison à : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2035</ID>
+      <DefaultText>Cette arme peut uniquement être liée aux personnages appartenant aux classes suivantes : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2037</ID>
+      <DefaultText>Liaison à : {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2038</ID>
+      <DefaultText>Une liaison d'âme a été établie entre {0} et {1}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2040</ID>
+      <DefaultText>Croisement de Durgan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2041</ID>
+      <DefaultText>Tour de guet de la Batterie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2042</ID>
+      <DefaultText>Campement de Taragaer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2044</ID>
+      <DefaultText>Arme liée à l'âme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2045</ID>
+      <DefaultText>{0} pour déverrouiller le niveau suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2046</ID>
+      <DefaultText>Tuer {0} {1} avec {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2047</ID>
+      <DefaultText>Infliger des dégâts {0} à {1} avec {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2048</ID>
+      <DefaultText>Lier cette arme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2076</ID>
+      <DefaultText>Staelgars</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2077</ID>
+      <DefaultText>Diablotins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2078</ID>
+      <DefaultText>Spores humides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2083</ID>
+      <DefaultText>Feux follets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2084</ID>
+      <DefaultText>Délemgans</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2085</ID>
+      <DefaultText>Pŵgra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2092</ID>
+      <DefaultText>Animats</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2093</ID>
+      <DefaultText>Automates en chair</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2097</ID>
+      <DefaultText>Squelettes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2102</ID>
+      <DefaultText>Wichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2116</ID>
+      <DefaultText>Toutes les améliorations de liaison d'âme ont été effectuées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2136</ID>
+      <DefaultText>la fourrure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2147</ID>
+      <DefaultText>Laboratoire de Sabel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2156</ID>
+      <DefaultText>Vers les falaises de Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2157</ID>
+      <DefaultText>Crägholdt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2166</ID>
+      <DefaultText>Atelier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2167</ID>
+      <DefaultText>Laboratoire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2197</ID>
+      <DefaultText>Liaison d'âme établie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2208</ID>
+      <DefaultText>Maudit</DefaultText>
+      <FemaleText>Maudite</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2293</ID>
+      <DefaultText>Temple d'Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2298</ID>
+      <DefaultText>Équipement de siège</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2300</ID>
+      <DefaultText>Cimetière</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2310</ID>
+      <DefaultText>Fort du Fléau de fer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2312</ID>
+      <DefaultText>Grand magasin d'Hamond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2313</ID>
+      <DefaultText>Souffle de dragon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2317</ID>
+      <DefaultText>Mowrghek Îen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2318</ID>
+      <DefaultText>Vallon de la Pierre blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2362</ID>
+      <DefaultText>Sanctuaire de Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2444</ID>
+      <DefaultText>Village de Stalwart</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

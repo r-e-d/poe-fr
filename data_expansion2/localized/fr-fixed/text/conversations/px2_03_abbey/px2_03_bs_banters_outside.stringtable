@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_bs_banters_outside</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Kaoto savait que Saman nous submergeait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Le Porteur de marée. Cela fait si longtemps."</DefaultText>
+      <FemaleText>"La Porteuse de marée. Cela fait si longtemps."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Mon âme est prête, mon frère."</DefaultText>
+      <FemaleText>"Mon âme est prête, ma sœur."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Même notre visiteur doit être éloigné, a-t-il dit."</DefaultText>
+      <FemaleText>"Même notre visiteuse doit être éloignée, a-t-il dit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"En quoi nos quartiers auraient-ils un intérêt ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Qu'importe nos quartiers. Ce qui compte, ce sont nos frères et sœurs d'en bas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vous êtes pâle, ma sœur. Trouvez quelqu'un pour vous remplacer. Je vais monter la garde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'espérais échapper à ce mal, mais ce n'est visiblement pas le cas. Je vais suivre votre conseil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Je n'aurais pas dû me pencher. Je n'ai pas vu le fond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hah ! Peut-être qu'en priant, la Dame vous permettra d'oublier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"J'ai vu qu'on vous avait laissé passer. Vous devez être notre visiteur. Le Grand abbé vous attend à l'intérieur, juste en face."</DefaultText>
+      <FemaleText>"J'ai vu qu'on vous avait laissée passer. Vous devez être notre visiteuse. Le Grand abbé vous attend à l'intérieur, juste en face."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"C'était il y a bien longtemps. J'ai vu l'abbé tenir le Témoin, et le Voile des larmes s'est soulevé pour lui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"J'aurais aimé voir cela moi aussi, et ne serait-ce qu'entrapercevoir le reliquaire de notre Dame."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

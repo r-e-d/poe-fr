@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_05_wildernesses\px2_05_qst_buyers_remorse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Serment austère</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Voyagez jusqu'à la maison d'Haddi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fouillez la maison.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trouvez Eska.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Confrontez les paladins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vérifiez comment va Haddi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retournez voir Kern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>En colère et plus qu'éméché, un villageois de Starwart du nom de Kern est parvenu à embaucher accidentellement un paladin Marcheur austère pour mettre fin à une querelle de longue date. Le problème a dégénéré au-delà de tout contrôle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>J'ai rencontré un nain appelé Kern au Refuge du Gréf. Il m'a supplié de trouver et stopper Cevestin, un paladin Marcheur austère, avant qu'il ne puisse faire du tort à Haddi et sa famille. La maison d'Haddi peut être trouvée à l'est de Stalwart, près d'une route commerciale.</DefaultText>
+      <FemaleText>J'ai rencontré un nain appelé Kern au Refuge du Gréf. Il m'a suppliée de trouver et stopper Cevestin, un paladin Marcheur austère, avant qu'il ne puisse faire du tort à Haddi et sa famille. La maison d'Haddi peut être trouvée à l'est de Stalwart, près d'une route commerciale.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai découvert la scène d'un pillage apparent au Vallon de la Pierre blanche. Les habitants voisins étaient trop effrayés pour s'aventurer à l'intérieur. Peut-être vais-je trouver un sens à tout cela dans les restes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>En lisant l'âme d'Haddi, j'ai appris les circonstances qui ont mené à sa mort. Le trio derrière le meurtre est résolu à traquer le fils d'Haddi, Eska, au moulin de Dyrford pour terminer le travail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai atteint le moulin de Dyrford et trouvé Eska faisant face aux Marcheurs austères à l'intérieur. Je doute que les paladins apprécient l'interruption.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Selon les voisins, Haddi a récemment reçu la visite d'un groupe d'individus lourdement armés et à l'allure dangereuse. Ils ont peur d'aller à l'intérieur et m'ont demandé mon aide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Le sort des paladins a été réglé. Kern attendra sûrement au Refuge du Gréf dans Stalwart. Il voudra certainement faire un point sur la situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>À Stalwart, j'ai parlé avec Kern, un habitant du coin qui a confessé avoir engagé par mégarde un Marcheur austère pour résoudre une querelle de longue date entre lui et Haddi. Clairement, les choses se sont envenimées au-delà de son contrôle. Il m'a supplié de résoudre le problème.</DefaultText>
+      <FemaleText>À Stalwart, j'ai parlé avec Kern, un habitant du coin qui a confessé avoir engagé par mégarde un Marcheur austère pour résoudre une querelle de longue date entre lui et Haddi. Clairement, les choses se sont envenimées au-delà de son contrôle. Il m'a suppliée de résoudre le problème.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Haddi et sa femme ont été tués. Le Marcheur austère est introuvable. Il pourrait y avoir des indices à l'intérieur de la maison quant à où ils ont pu aller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Eska a été tuée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quelqu'un d'une importance critique dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Avec la mort des paladins et celle d'Eska, cette querelle s'est terminée dans le sang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>J'ai rendu compte des résultats de la bataille avec les paladins Marcheurs austères à Kern. Il était bouleversé de voir les conséquences que ces actions avaient engendrées sur la famille d'Haddi et était résolu à se racheter, dans la mesure du possible. Pour le moment, il m'a offert ses remerciements pour avoir su rendre un peu de justice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>J'ai rendu compte des résultats de la bataille avec les paladins Marcheurs austères à Kern. Il m'était reconnaissant d'avoir sauvé la vie d'Eska, même s'il se doute que le garçon ne pourra jamais lui pardonner pour ce qui est survenu à sa famille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>J'ai décidé que les associés Marcheurs austères pourraient être utiles et j'ai convaincu deux d'entre eux de renier leur chef. Eska n'a pas survécu, mais j'ai gagné de nouveaux alliés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Kern était plus que contrarié d'apprendre que j'avais engagé les Marcheurs austères aux dépens de la vie d'Eska.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>J'ai décidé que les associés Marcheurs austères pourraient être utiles et j'ai convaincu deux d'entre eux de renier leur chef. Kern était content d'apprendre qu'Eska avait survécu à cette confrontation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>J'ai occis les paladins Marcheurs austères, tout en sauvant Eska. Il était content d'entendre que Kern avait payé pour avoir semé la mort dans la famille d'Eska, et reconnaissant de mon intervention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>J'ai décidé que les associés Marcheurs austères pourraient être utiles et j'ai convaincu deux d'entre eux de renier leur chef, malgré la consternation d'Eska. Le jeune homme s'est échappé sain et sauf, et j'ai maintenant un paladin à mon service.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Kern était plus que contrarié d'apprendre que j'avais engagé les Marcheurs austères aux dépens de la vie d'Eska. Il a même refusé de payer, mais a fini par comprendre son erreur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>J'ai occis les paladins Marcheurs austères, tout en sauvant Eska. Il m'était reconnaissant de l'avoir sauvé, même si le décès de sa famille lui pesait énormément.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>L'un des locaux du Vallon de la Pierre blanche était visité par des étrangers menaçant et de mauvais augure, et n'a plus été revu depuis. Ses voisins envisagent le pire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Une maison dans le Vallon de la Pierre blanche est devenue le site d'un massacre. Les coupables sont partis depuis bien longtemps.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

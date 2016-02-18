@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_terror</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : La terreur du Vallon de la Pierre blanche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Détruisez la terreur du Vallon de la Pierre blanche et récupérez la broche cachée en son sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rapportez la broche à Asca, à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Une avalanche récente a tué des dizaines de voyageurs et commerçants sur la route du Vallon de la Pierre blanche. Leurs âmes ont formé un fléau qui hante désormais la campagne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Asca pense que la broche distinctive du maître de la caravane est figée dans le fléau. Après avoir tué la créature, je pourrai récupérer la broche et revendiquer ma récompense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai éradiqué la terreur du Vallon de la Pierre blanche. Asca m'offrira une récompense en échange de la broche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai revendiqué la prime sur la Terreur du Vallon de la Pierre blanche.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_02_durgans_battery\px2_02_qst_tower_cannons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Préparez les canons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Faites l'ascension de la tour ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Réparez l'ascenseur de l'artillerie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rétablissez les canons à longue portée.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Retournez voir Wengra à l'extérieur de la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Trouvez Wengra à la Batterie de Durgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Les canons à longue portée au sommet de la tour ouest de la Batterie de Durgan étaient autrefois une puissante défense. Ils pourraient être un dispositif de protection de grande valeur pour la Batterie - et moi-même.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wengra m'a dit que les canons à longue portée étaient situés au sommet de la tour ouest.
+
+Elle m'a aussi raconté que les ouvriers qu'elle avait envoyés pour en reprendre possession avaient été attaqués par des bêtes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>L'ascenseur de l'artillerie qui mène vers le sommet de la tour est cassé. Il va me falloir le réparer pour continuer plus avant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>J'ai atteint le sommet de la tour ouest. Je dois m'assurer que les canons à longue portée sont en état de marche avant de retourner voir Wengra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>J'ai activé une chaudière en haut de la tour occidentale qui permet de garder les canons à longue portée au chaud. En l'activant, j'ai eu une vision de quelqu'un - Abydon, je pense - construisant des Maegfolcs de métal et de chair à la Forge blanche.  
+
+Wengra attend que je la prévienne que la tour ouest est sécurisée et que les canons à longue portée sont prêts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Deryan a mentionné que Wengra et son équipe étaient en train de réparer les canons à longue portée de la Batterie.
+
+S'assurer qu'ils vont bien pourrait en valoir la peine. Ces canons pourraient être une arme formidable contre l'armée de ma vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Les canons à longue portée sont gelés. Il va me falloir trouver un moyen de les garder chauds avant qu'ils ne puissent être utilisés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>L'un des rouages du boîtier de transmission est manquant. Je vais devoir en trouver un nouveau pour le remplacer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>J'ai trouvé un rouage. Je peux l'utiliser pour réparer la boîte de transmission de l'ascenseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>La chaîne est rouillée et bloquée. Elle devrait pouvoir fonctionner de nouveau si je trouve quelque chose pour retirer la rouille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>J'ai trouvé un solvant qui pourrait dissiper la rouille sur la chaîne de l'ascenseur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Il manque un levier au mécanisme de contrôle. Il devrait y avoir quelque chose aux alentours que je pourrais utiliser à sa place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>J'ai trouvé un levier de rechange. Je devrais pouvoir activer l'ascenseur avec.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>J'ai réparé l'ascenseur. Je peux désormais accéder au sommet de la Tour ouest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Wengra était aux anges d'apprendre la nouvelle à propos des canons à longue portée. Elle se dirige vers le sommet de la tour ouest pour les tester.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

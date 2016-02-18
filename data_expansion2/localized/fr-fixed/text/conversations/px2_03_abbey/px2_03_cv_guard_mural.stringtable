@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_03_abbey\px2_03_cv_guard_mural</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Cette zone est interdite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Le Grand abbé m'a promis qu'après l'incantation, je pourrais aller contempler les œuvres d'art de l'abbaye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vous êtes venu voir la fresque ?"</DefaultText>
+      <FemaleText>"Vous êtes venue voir la fresque ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Très bien. Mais n'allez pas plus loin. On vous surveille, Porteur de marée."</DefaultText>
+      <FemaleText>"Très bien. Mais n'allez pas plus loin. On vous surveille, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Mentez] "Je suis le Porteur de marée. Le Grand abbé m'a appelé."</DefaultText>
+      <FemaleText>[Mentez] "Je suis la Porteuse de marée. Le Grand abbé m'a appelée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pardonnez-moi, Porteur de marée, mais je ne peux pas vous laisser passer sans autorisation du Grand abbé."</DefaultText>
+      <FemaleText>"Pardonnez-moi, Porteuse de marée, mais je ne peux pas vous laisser passer sans autorisation du Grand abbé."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Attaquez.] "Je vais où je veux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Partez.] "Bien, je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vous ne comprenez pas. En dehors des membres de l'ordre, personne n'est autorisé à entrer ici."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Partez] "Excusez-moi. Je m'en vais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Restez où vous êtes !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bienvenue à l'abbaye, Porteur de marée."</DefaultText>
+      <FemaleText>"Bienvenue à l'abbaye, Porteuse de marée."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Y a-t-il autre chose ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Pour la dernière fois, je vous demande de partir. Tout de suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>En voyant le Témoin d'Ondra, le garde semble abasourdi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sale traître !"</DefaultText>
+      <FemaleText>"Sale traîtresse !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nous sommes honorés de rejoindre l'ordre de la Marée basse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Kaoto m'a autorisé à me déplacer librement."</DefaultText>
+      <FemaleText>"Kaoto m'a autorisée à me déplacer librement."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Alors, ça commence. Vous pouvez passer, Porteur de marée."</DefaultText>
+      <FemaleText>"Alors, ça commence. Vous pouvez passer, Porteuse de marée."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

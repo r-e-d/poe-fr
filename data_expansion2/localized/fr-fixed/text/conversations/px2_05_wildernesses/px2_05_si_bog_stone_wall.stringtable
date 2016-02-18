@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_si_bog_stone_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ces murs croulants sont recouverts de crasse et de végétation. L'âge et les matières organiques ont éventré les pierres. 
+
+D'épaisses broussailles sont enroulées sur toute la base du mur, regorgeant de ronces. Mais il y a une section juste ici, où les plantes sont moins denses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Descendez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Partez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous descendez en bas du mur. Ici et là, les briques glissantes menacent de nuire à votre progression, mais vous parvenez à garder vos prises assez longtemps pour atteindre la base.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Le périple commence. Mais un peu plus bas, un morceau de roche tranchant échappe à l'emprise de [SkillCheck 0] et les cloue au sol.
+
+Dans un cri perçant, [SkillCheck 0] atterrit sur un monticule de ronces épineuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Utilisez une corde pour vous aider.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vous descendez en bas du mur. Ici et là, les briques glissantes menacent de nuire à votre progression, mais vous parvenez à garder vos prises assez longtemps pour atteindre la base.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Le périple commence. Mais un peu plus bas, un morceau de roche tranchant échappe à l'emprise de [SkillCheck 0] et les cloue au sol.
+
+Dans un cri perçant, [SkillCheck 0] atterrit sur un monticule de ronces épineuses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Découpez quelques-unes des broussailles.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vous vous efforcez de déloger la majeure partie des broussailles depuis la partie supérieure du mur. Et même si cela contribue d'une certaine façon à créer un matelas d'épines qui vous attend en bas, le parcours devient bien plus dégagé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Les ronces sont fermement enracinées dans et autour des murs, leurs épines servant à les maintenir en place. Même en essayant de votre mieux, vous ne parvenez pas à les dégager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Visez un endroit dégagé et sauter en bas.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Vous choisissez un endroit dégagé, retenez votre souffle et sautez. Vous atterrissez lourdement mais absorbez le choc en faisant une roulade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vous choisissez un endroit dégagé, retenez votre souffle et sautez. Vous avez mal jaugé la force de votre saut, trop court et atterrissez lourdement dans un enchevêtrement de ronces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vos compagnons vous suivent et vous rejoignent en bas, avec seulement quelques égratignures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vos compagnons vous suivent, ou du moins s'y essayent. [SkillCheck 0] atterrit mal, se foulant la cheville, et s'étalant douloureusement de tout son long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vous parvenez en bas sans incident.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vous vous retrouvez en face d'une vaste chambre circulaire, inondée d'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ce mur croulant ramène vers le sentier supérieur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Remontez.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Vous tracez votre chemin le long des pierres humides et irrégulières.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vous vous retrouvez en face d'une vaste chambre circulaire, inondée d'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Vos compagnons emboîtent le pas, ou essaient tout du moins. [SkillCheck 1] atterrit misérablement, se foule une cheville et s'étale douloureusement.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_05_wildernesses\px2_05_cv_kern</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>138</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Je vis ici depuis des décennies. Nous avons travaillé et trinqué ensemble, et aucun d'entre eux ne lèvera le petit doigt !"
+
+Le visage du nain est humide et rougi. Son accès de colère semble s'accompagner d'un effet secondaire. Il s'affaisse, les traits marqués par l'épuisement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quel gâchis..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Des nouvelles ? Vous les avez trouvés ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Monstre ! Espèce de fou ! Je n'aurais jamais dû vous faire confiance !"</DefaultText>
+      <FemaleText>"Monstre ! Espèce de folle ! Je n'aurais jamais dû vous faire confiance !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Je peux peut-être faire quelque chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Partez] "Je n'ai pas le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"J'ai trouvé les Marcheurs austères."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"J'ai des nouvelles d'Haddi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Mon voisin, Haddi... On ne s'est jamais très bien entendus. À cause de ce différend foncier, de la perte de la moitié de ma propriété... La situation est devenue ingérable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Continuez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tuez-le, récupérez vos terres. Le problème sera réglé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous l'avez vu ? Haddi va bien ? Je vous assure que je ne savais pas que Cevestin était un Marcheur austère ! J'ai essayé de l'arrêter !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Haddi est mort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Les paladins sont morts. Eska ne s'en est pas sorti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Bon sang, non... Qu'ai-je donc fait ?" Kern se prend la tête dans les mains.   
+
+"Tous ? Toute sa famille ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Il y avait deux cadavres dans la maison... Un homme et une femme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vous vous sentez coupable, Kern ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"J'ai noyé mon chagrin, ici, à la taverne. Il y avait un étranger, Cevestin. Visiblement pas d'ici. On a parlé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Personne ne vous offre à boire ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pourquoi pleurnichez-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Parlez-moi de ce différend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Quand j'ai compris, j'ai essayé de le calmer. Il a ri et a dit qu'il ne s'était rien passé. Je vous en prie, aidez-moi. Personne d'autre ne veut s'occuper de lui, même moyennant finances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je vous en prie ! Il faut faire quelque chose !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Qu'attendez-vous de moi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Retournez votre colère contre ces paladins ! Quant à Haddi... ne lui faites pas de mal. S'il vous plaît !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"C'est là un contrat sans grand intérêt pour un paladin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Attendez, vous avez engagé un homme pour tuer Haddi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"On dirait qu'il va bien régler votre problème."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sûrement pas pour le tuer ! J'étais en colère, j'avais trop bu... Haddi a failli me ruiner. Mais je n'ai jamais voulu la mort de sa famille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Je vais veiller à ce qu'il n'arrive rien à Haddi et à sa famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vous lui avez payé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Que Berath m'emporte ! Comment en est-on arrivés là ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"V... Vous avez réussi ! Merci ! Je ne pourrai jamais réparer le mal que j'ai fait, mais j'essaierai de me racheter... jusqu'à la fin de mes jours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tenez, prenez ça. Et merci. Merci d'avoir sauvé mon âme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Je craignais que vous... tuiez tout le monde. Je suis content d'avoir eu tort !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Non, non, c'est impossible... Attendez. Et leur fils ? Eska ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Leur fils ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"C'est sûrement le prochain sur la liste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ils vont sûrement s'en prendre à lui ! Je vous en prie, trouvez-le ! Je ne supporterai jamais d'avoir trois morts sur la conscience !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Quoi ? Non ! C'est justement ça mon problème ! J'avais trop bu l'autre soir. J'ai commencé à discuter avec un étranger et je lui ai parlé de mes problèmes avec Haddi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Les choses se sont compliquées plusieurs fois. Je n'en suis pas fier. Depuis des générations, ma famille possédait des terres. Il y a quelques années, le père d'Haddi s'est installé sur les terres voisines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Je ne savais même pas qu'il y avait un contrat ! Comment est-ce possible ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Essayez de mieux choisir vos fréquentations à l'avenir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ce n'est pas ce que je voulais ! Je ne suis pas un meurtrier !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Merci ! Vous êtes quelqu'un de bien, [Player Name] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Partez.] "Bonne chance !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Je vais m'en charger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"L'élimination d'un Marcheur austère coûtera un peu plus cher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Oui, c'est normal. Cette avance est à vous, si vous acceptez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Arrêtez ce fou ! Et faites en sorte qu'il ne fasse aucun mal à Haddi. Ni à sa famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Mais... ! N'y a-t-il donc personne pour m'aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vraiment ? Que s'est-il passé ?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Partez.] "Pas encore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ils vont sûrement s'en prendre à lui ! Je vous en prie, sauvez Haddi et l'argent sera à vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Je me suis occupé des Marcheurs austères. Eska est vivant."</DefaultText>
+      <FemaleText>"Je me suis occupée des Marcheurs austères. Eska est vivant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"En fait, les paladins travaillent pour moi maintenant. Mais Eska est vivant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Changement de plan, désolé. Eska est mort."</DefaultText>
+      <FemaleText>"Changement de plan, désolée. Eska est mort."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Qu... Quoi ? Mais pourquoi ?"  
+
+Le visage de Kern s'empourpre. "Comment ai-je pu croire que vous étiez différent ? Vous êtes aussi monstrueux que les autres ! Allez-vous-en !"</DefaultText>
+      <FemaleText>"Qu... Quoi ? Mais pourquoi ?"  
+
+Le visage de Kern s'empourpre. "Comment ai-je pu croire que vous étiez différente ? Vous êtes aussi monstrueuse que les autres ! Allez-vous-en !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Eska m'a parlé de vous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Eska ? Le fils d'Haddi ? Qu'Hylea le préserve ! Je pensais..."
+
+Kern s'essuie le front. "Je n'ai jamais voulu ça. C'est Cevestin... ce fou ! Il n'a jamais été question qu'il tue qui que ce soit !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Je doute qu'Eska comprenne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vous méritez la pendaison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Je ne pourrai jamais réparer le mal que j'ai fait. Mais j'essaierai de me racheter, jusqu'à la fin de mes jours. Au moins, Eska est vivant ! Merci de m'avoir prévenu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Si seulement c'était le cas." Kern se frotte le visage. "Si je n'étais pas venu cette nuit-là, si j'étais plutôt rentré chez moi..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Kern vous lance un regard noir, rapidement remplacé par un air songeur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Il a proposé de s'en occuper pour moi. J'ai cru qu'il allait se contenter de faire peur à Haddi en chassant ses chèvres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Pas encore. Cevestin a dit qu'il me retrouverait. Alors, j'ai rassemblé mes économies, au cas où."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"On dit que vous êtes quelqu'un de bien. Un Porteur de bouclier. Vous êtes censé protéger les gens, non ?"</DefaultText>
+      <FemaleText>"On dit que vous êtes quelqu'un de bien. Une Porteuse de bouclier. Vous êtes censée protéger les gens, non ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank Node 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Je dois être fou de m'adresser à un autre Marcheur austère. Mais si seulement quelqu'un pouvait l'arrêter..."</DefaultText>
+      <FemaleText>"Je dois être fou de m'adresser à une autre Marcheuse austère. Mais si seulement quelqu'un pouvait l'arrêter..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"On dit que vous êtes un Voyageur. Vous conduisez les gens en lieu sûr, c'est ça ?"</DefaultText>
+      <FemaleText>"On dit que vous êtes une Voyageuse. Vous conduisez les gens en lieu sûr, c'est ça ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"On dit que vous faites vous-même partie des paladins. Vous ne laisseriez pas une telle chose se produire, n'est-ce pas ? Haddi ne mérite pas ça !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Les Chevaliers du Pacte d'or, dont vous faites partie, sont des gens sensés ! Ils comprendraient sûrement pourquoi j'ai changé d'avis. N'est-ce pas ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Haddi vit à l'est, au Vallon de la Pierre blanche. Je vous en prie, dépêchez-vous !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Je vais voir ça. Quelque chose ne colle pas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Partez] "Je n'ai pas le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Que les dieux me pardonnent..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Je n'ai jamais voulu ça..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"... Votre argent, monsieur. Je prie pour que la mort de Cevestin leur apporte le repos de l'âme. Moi, je ne la trouverai pas tant que je serai en vie."</DefaultText>
+      <FemaleText>"... Votre argent, madame. Je prie pour que la mort de Cevestin leur apporte le repos de l'âme. Moi, je ne la trouverai pas tant que je serai en vie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ne jouez pas avec moi, Kern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Tous, ils sont tous morts... Vous m'avez trahi ! Vous n'avez rien fait de ce que je vous ai demandé ! Ne comptez pas sur moi pour vous payer !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Attaquez] "C'était une erreur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Partez.] "Très bien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Je suis passé chez Haddi..."</DefaultText>
+      <FemaleText>"Je suis passée chez Haddi..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Les voisins m'en ont touché un mot. Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Oh non ! Je vous jure que je ne savais pas ! J'ignorais que ce fou de Cevestin était un Marcheur austère !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Kern sort sa bourse en tremblant.  
+
+"Les dieux vous le feront payer. Et cet argent ne vous sera d'aucun secours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Vous me devez de l'argent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Il va tous les tuer ! Je vous en prie, arrêtez-le !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Je vais veiller à ce qu'il n'arrive rien à Haddi et à sa famille."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Attendez, vous avez engagé un homme pour tuer Haddi ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Sûrement pas pour le tuer ! J'étais en colère, j'avais trop bu... Haddi a failli me ruiner. Mais je n'ai jamais voulu la mort de sa famille !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Je vais voir ce que je peux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Merci ! Vous êtes quelqu'un de bien, [Player Name] !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Partez] "Je n'ai pas le temps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Mais... ! N'y a-t-il donc personne pour m'aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Script Node 116</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Script Node 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Eska... Alors, ils sont tous morts. Comment avez-vous pu laisser faire ça ? Allez-vous-en !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Foutez le camp, Kern. J'ai assez de problèmes comme ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Désolé, je n'ai pas le cœur à discuter. Je suis certain que quelqu'un ici trinquera à votre santé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Hé, c'est vous qui avez rouvert la Batterie, n'est-ce pas ? Vous avez reçu une des lettres de Renengild et vous avez débarqué ici... Vous pourriez peut-être m'aider ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Kern vous regarde d'un air surpris. Il jette un coup d'œil à l'auberge, puis s'approche, tranquille mais déterminé.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"J'ai fait quelque chose de terrible. Et je doute de pouvoir le réparer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Il sourit. Il dit qu'il ést paladin, qu'il s'occupera d'Haddi pour moi et récupérera mes terres moyennant une semaine de solde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"J'ignorais que c'était un Marcheur austère ! Doublé d'un fou ! J'étais à moitié ivre et j'ai pensé que Cevestin parlerait pour moi. Je voulais faire peur à Haddi. Je ne voulais pas sa mort !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Quel que soit l'instigateur de ces agissements, il a vendu des terres qu'il n'était pas en droit de vendre. Ici, les choses ne se déroulent pas comme à la Baie du défi. Il n'y a pas de duc, pas de Salle des archives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Quoi qu'il en soit, c'est difficile depuis. Ça semblait important, hier. Mais je n'en suis plus certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Je vais voir ce que je peux faire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Merci. C'est tout ce que je demande. Vous êtes la première personne à vous donner autant de mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"J'aime l'or."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Quoi ? ... Oh, oui, bien sûr ! Je vous paierai. Je vous donnerai ce que le Marcheur austère a demandé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Je vais y réfléchir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Qu'est-ce qu'un Marcheur austère ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Plus qu'un ordre de paladins, ce sont des véritables forces de la nature. Je ne comprends pas comment on peut consacrer sa vie à quelque chose d'aussi destructeur, quelle qu'en soit la raison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"J'imagine que vos ordres ne seraient pas aussi explicites. Les Marcheurs austères... Si je comprends bien, leur ordre estime que la violence est le meilleur moyen de préserver la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"La situation a tendance à dégénérer lorsque les Marcheurs austères se pointent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Et ils se pointent, la moitié du temps. Ils sont payés pour être là, à des fins dissuasives."
+
+"... Je... Je ne comprends pas pourquoi Cevestin fait ça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ils ne négocient pas, ils ne font pas de quartier. S'il leur est demandé de nettoyer un endroit, ils vont jusqu'au bout. Et rien ne les arrête."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"J'ai demandé autour de moi. Si je comprends bien, leur ordre estime que la violence est le meilleur moyen de préserver la paix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Où se trouve Cevestin maintenant ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Il doit être en route pour rencontrer Haddi à l'heure qu'il est. Il est resté quelques jours ici après que nous avons parlé. Pour jubiler, je pense. Ou pour attendre quelqu'un. Mais il est parti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"J'ai quelques questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Je vous dirai tout ce qui est susceptible de vous aider. Que voulez-vous savoir ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Cevestin ne vous a-t-il pas dit qu'il faisait partie des Marcheurs austères ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Pas de suite. Pas avant qu'il ne soit trop tard, je suppose. J'avais bu quelques verres, mais... Je m'en serais souvenu s'il me l'avait dit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Je n'ai pas d'autres questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Kern acquiesce et vous regarde d'un air inquiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Que s'est-il passé ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Haddi et sa famille sont morts. Mais j'ai tué les paladins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Je me suis occupé des Marcheurs austères. Haddi et Elwyna ont été tués, mais Eska est vivant."</DefaultText>
+      <FemaleText>"Je me suis occupée des Marcheurs austères. Haddi et Elwyna ont été tués, mais Eska est vivant."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Bon sang... Haddi... Mais Eska est vivant ? Vous l'avez sauvé ? Vous ne pouvez pas savoir ce que ça représente pour moi. Je ne pourrai jamais réparer le mal que j'ai fait, mais je ferai tout pour me racheter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Changement de plan, désolé. Haddi, sa femme et son fils sont morts."</DefaultText>
+      <FemaleText>"Changement de plan, désolée. Haddi, sa femme et son fils sont morts."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Haddi et Elwyna sont morts. Mais j'ai éliminé les Marcheurs austères à temps pour sauver leur fils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Alors, vous avez eu de la chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

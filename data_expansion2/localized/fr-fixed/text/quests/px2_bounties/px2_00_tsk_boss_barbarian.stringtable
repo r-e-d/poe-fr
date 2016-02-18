@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_bounties\px2_00_tsk_boss_barbarian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prime : Fidèles de Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Tuez Roedwith aux Chutes brûlantes et prenez sa tête.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Apportez la tête de Roedwith à Asca, à Stalwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Des brigands qui se font appeler les « Fidèles de Magran » pillent de petites villes à travers le Dyrwood. Étant donné le récent afflux de richesses à Stalwart, les riverains sont inquiets à l'idée d'être la prochaine cible de cette bande.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Les Fidèles de Magran se sont dirigés vers le nord et ont été vus pour la dernière fois aux Chutes brûlantes. Ils sont dirigés par une femme du nom de Roedwith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>J'ai défait les Fidèles de Magran et pris la tête de Roedwith comme preuve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>J'ai revendiqué la prime sur les Fidèles de Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

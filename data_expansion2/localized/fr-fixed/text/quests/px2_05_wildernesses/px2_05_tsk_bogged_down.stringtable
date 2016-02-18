@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\px2_05_wildernesses\px2_05_tsk_bogged_down</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Embourbés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Trouvez Benno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trouvez un moyen de libérer Benno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Un couple de commerçants a été séparé après que sa charrette se soit enlisée dans le marais. Leur voyage à Stalwart est interrompu jusqu'à ce que les deux soient réunis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Herla attend son partenaire, Benno, afin qu'ils reprennent la route et apportent les marchandises à Stalwart. Il semblerait qu'il se soit enfui dans le marais dans un accès de colère. Elle aimerait que je le retrouve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Apparemment, Benno est tombé dans une sorte de piège magique. Il pense que ça a quelque chose à voir avec les locaux. Je devrais pouvoir trouver plus d'indices aux alentours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>J'ai trouvé une lettre se référant à un cercle rituel dans le marais. Il semblerait que ce « Badrwn » pourrait savoir comment il fonctionne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>J'ai trouvé une note sur le corps d'un magicien décrivant certains des symboles autour du cercle rituel. Peut-être que cela m'aidera à sortir Benno de ce piège.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Quelqu'un d'une importance critique dans cette quête est mort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>J'ai pu libérer Benno du cercle rituel, après m'être occupé de quelques esprits pleins de ressentiment. Inchangé par leur magie, Benno est resté une personne charmante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Benno a été libéré du cercle rituel après qu'une structure d'esprits liés a essayé « d'améliorer » sa personnalité. Il semble un peu plus poli, pour le moins. Avec un peu de chance, il tirera le meilleur de ses nouvelles perspectives sur la vie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Un commerçant entêté s'est retrouvé piégé à l'intérieur d'une sorte de barrière magique. Il est plutôt désespéré d'être libéré.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
