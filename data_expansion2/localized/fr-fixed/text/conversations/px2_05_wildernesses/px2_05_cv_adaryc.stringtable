@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Quoi ?! Qui êtes-vous ?"  
+      <DefaultText>"Quoi ?! Qui êtes-vous ?"
 
 Le commandant du Fléau de fer est un homme jeune, élancé, aux cheveux bruns hirsutes et au regard enfiévré.</DefaultText>
       <FemaleText />
@@ -18,16 +18,12 @@ Le commandant du Fléau de fer est un homme jeune, élancé, aux cheveux bruns h
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ha ! L'espace d'un instant, je vous ai cru." Il désigne la grille du pied.   
-
-"Vous êtes un redoutable assassin, divin. Il faut bien le reconnaître."</DefaultText>
-      <FemaleText>"Ha ! L'espace d'un instant, je vous ai crue." Il désigne la grille du pied.   
-
-"Vous êtes un redoutable assassin, divine. Il faut bien le reconnaître."</FemaleText>
+      <DefaultText>Il vous regarde. "Vous êtes un redoutable assassin, divin. Il faut bien le reconnaître."</DefaultText>
+      <FemaleText>Il vous regarde. "Vous êtes un redoutable assassin, divine. Il faut bien le reconnaître."</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Soudain, une vague de souvenirs d'une clarté déconcertante vous submerge...   
+      <DefaultText>Soudain, une vague de souvenirs d'une clarté déconcertante vous submerge...
 
 Vous voyez le campement d'Odema, ravagé par le bîawac. Et les salles de Caed Nua.</DefaultText>
       <FemaleText />
@@ -49,7 +45,7 @@ Vous voyez le campement d'Odema, ravagé par le bîawac. Et les salles de Caed N
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Oui. Et je ne vais pas tarder à savoir qui vous êtes, vous aussi."  
+      <DefaultText>"Oui. Et je ne vais pas tarder à savoir qui vous êtes, vous aussi."
 
 Les paroles d'Adaryc résonnent dans votre esprit. Spontanément, vos sens s'éveillent, comme s'ils avaient détecté une source d'essence...</DefaultText>
       <FemaleText />
@@ -116,7 +112,7 @@ Les paroles d'Adaryc résonnent dans votre esprit. Spontanément, vos sens s'év
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Un long silence s'installe dans la cabane. 
+      <DefaultText>Un long silence s'installe dans la cabane.
 
 Vous entendez un bruit métallique : Adaryc prend son épée, puis il la repose.</DefaultText>
       <FemaleText />
@@ -143,7 +139,7 @@ Vous entendez un bruit métallique : Adaryc prend son épée, puis il la repose
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Un long silence s'installe dans la cabane.   
+      <DefaultText>Un long silence s'installe dans la cabane.
 
 Une vague d'énergie spirituelle traverse la pièce, et un bruit métallique retentit lorsqu'Adaryc soulève son épée.</DefaultText>
       <FemaleText />
@@ -160,10 +156,10 @@ Une vague d'énergie spirituelle traverse la pièce, et un bruit métallique ret
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Adaryc dégaine son épée.  
+      <DefaultText>Adaryc dégaine son épée.
 
 "Tuez-le, messieurs ! Nous enverrons sa tête à Stalwart !"</DefaultText>
-      <FemaleText>Adaryc dégaine son épée.  
+      <FemaleText>Adaryc dégaine son épée.
 
 "Tuez-la, messieurs ! Nous enverrons sa tête à Stalwart !"</FemaleText>
     </Entry>
@@ -179,7 +175,7 @@ Une vague d'énergie spirituelle traverse la pièce, et un bruit métallique ret
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Vous avez alors la désagréable sensation que votre double conscience se replie sur elle-même, puis le lien se rompt.   
+      <DefaultText>Vous avez alors la désagréable sensation que votre double conscience se replie sur elle-même, puis le lien se rompt.
 
 Adaryc semble surpris et son visage est blême.</DefaultText>
       <FemaleText />
@@ -211,7 +207,7 @@ Adaryc semble surpris et son visage est blême.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Je crois que vous avez vu la même chose que moi. Une armée qui descendait de la montagne en détruisant tout sur son passage."</DefaultText>
+      <DefaultText>"J'ai eu une vision moi aussi. J'ai vu Caed Nua reduite en cendres par une armée détruisant tout sur son passage."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,14 +227,14 @@ Adaryc semble surpris et son visage est blême.</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"C'est aussi bien comme ça. Je vais pouvoir venger les hommes que vous avez tués."  
+      <DefaultText>"C'est aussi bien comme ça. Je vais pouvoir venger les hommes que vous avez tués."
 
 Adaryc dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Très bien." Adaryc semble déçu, mais il se reprend rapidement.   
+      <DefaultText>"Très bien." Adaryc semble déçu, mais il se reprend rapidement.
 
 Il dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
       <FemaleText />
@@ -290,7 +286,7 @@ Il dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Très bien." Adaryc semble déçu, mais il se reprend rapidement.   
+      <DefaultText>"Très bien." Adaryc semble déçu, mais il se reprend rapidement.
 
 Il dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
       <FemaleText />
@@ -307,7 +303,7 @@ Il dégaine son épée, immédiatement imité par ses hommes.</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Vous marchez sur des pavés humides, sous Copperlane, à la recherche de la Clé plombée.  
+      <DefaultText>Vous marchez sur des pavés humides, sous Copperlane, à la recherche de la Clé plombée.
 
 Vous gravissez un escalier sinueux menant au sommet d'une tour embrumée.</DefaultText>
       <FemaleText />
@@ -319,7 +315,7 @@ Vous gravissez un escalier sinueux menant au sommet d'une tour embrumée.</Defau
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Dans les cavernes souterraines du donjon, la pierre vous met en garde dans une langue morte.  
+      <DefaultText>Dans les cavernes souterraines du donjon, la pierre vous met en garde dans une langue morte.
 
 Plus bas encore, une gueule aux crocs impressionnants s'ouvre, telle une blessure infligée au monde...</DefaultText>
       <FemaleText />
@@ -336,12 +332,8 @@ Plus bas encore, une gueule aux crocs impressionnants s'ouvre, telle une blessur
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Ha ! L'espace d'un instant, je vous ai cru." Il désigne la grille du pied.   
-
-"Mais ce n'est qu'un banal assassin."</DefaultText>
-      <FemaleText>"Ha ! L'espace d'un instant, je vous ai crue." Il désigne la grille du pied.   
-
-"Mais ce n'est qu'un banal assassin."</FemaleText>
+      <DefaultText>Il vous regarde. "Mais ce n'est qu'un banal assassin."</DefaultText>
+      <FemaleText>Il vous regarde. "Mais ce n'est qu'une banale assassin."</FemaleText>
     </Entry>
     <Entry>
       <ID>93</ID>
@@ -370,7 +362,7 @@ Plus bas encore, une gueule aux crocs impressionnants s'ouvre, telle une blessur
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Bien sûr que non. Vous êtes le visage lugubre dissimulé derrière le canon."  
+      <DefaultText>"Bien sûr que non. Vous êtes le visage lugubre dissimulé derrière le canon."
 
 Adaryc crache. "Je préfère répondre à un défi honorable qu'à un faux remord."</DefaultText>
       <FemaleText />
@@ -392,7 +384,7 @@ Adaryc crache. "Je préfère répondre à un défi honorable qu'à un faux remor
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Les images vous assaillent, faisant resurgir des vies et des émotions de centaines d'époques et de lieux différents. Certaines ne vous appartiennent pas.  
+      <DefaultText>Les images vous assaillent, faisant resurgir des vies et des émotions de centaines d'époques et de lieux différents. Certaines ne vous appartiennent pas.
 
 Peu à peu, vous avez l'impression que quelqu'un vous observe.</DefaultText>
       <FemaleText />
@@ -421,7 +413,7 @@ L'espace d'un instant, vous partagez son émotion et un étrange désespoir enva
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Je vois. Stalwart tend la main en signe de paix tout en gardant une dague dans le dos : un assassin solitaire."  
+      <DefaultText>"Je vois. Stalwart tend la main en signe de paix tout en gardant une dague dans le dos : un assassin solitaire."
 
 "Désormais en infériorité numérique, d'ailleurs."</DefaultText>
       <FemaleText />
@@ -443,16 +435,16 @@ L'espace d'un instant, vous partagez son émotion et un étrange désespoir enva
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Vous vous libérez de l'esprit qui lit en vous pour vous retrouver seul face à votre conscience.  
+      <DefaultText>Vous vous libérez de l'esprit qui lit en vous pour vous retrouver seul face à votre conscience.
 
 Non loin, Adaryc semble surpris et son visage est blême.</DefaultText>
-      <FemaleText>Vous vous libérez de l'esprit qui lit en vous pour vous retrouver seule face à votre conscience.  
+      <FemaleText>Vous vous libérez de l'esprit qui lit en vous pour vous retrouver seule face à votre conscience.
 
 Non loin, Adaryc semble surpris et son visage est blême.</FemaleText>
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Readceras a assez souffert. Ses fils et ses filles n'ont plus rien. Nous..."   
+      <DefaultText>"Readceras a assez souffert. Ses fils et ses filles n'ont plus rien. Nous..."
 
 Il regarde Edér en serrant les dents.</DefaultText>
       <FemaleText />
@@ -543,14 +535,14 @@ Vous entendez le craquement des armures alors que ses soldats fourbissent leurs 
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Adaryc marque une pause.  
+      <DefaultText>Adaryc marque une pause.
 
 "Que vous avez vu et fait énormément de choses. Des choses auxquelles je... n'aurais jamais cru si je ne les avais pas vues."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Adaryc marque une pause.   
+      <DefaultText>Adaryc marque une pause.
 
 "Et que vous avez vu et fait énormément de choses. Des choses auxquelles je... n'aurais jamais cru si je ne les avais pas vues."</DefaultText>
       <FemaleText />
@@ -597,7 +589,7 @@ Vous entendez le craquement des armures alors que ses soldats fourbissent leurs 
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Stalwart a envoyé ces délégués pour discuter d'une proposition de paix. Ils n'ont pas su saisir la chance que je leur offrais. C'était pourtant une offre généreuse." 
+      <DefaultText>"Stalwart a envoyé ces délégués pour discuter d'une proposition de paix. Ils n'ont pas su saisir la chance que je leur offrais. C'était pourtant une offre généreuse."
 
 Adaryc fait quelques pas, puis se ressaisit.</DefaultText>
       <FemaleText />
@@ -624,12 +616,14 @@ Adaryc fait quelques pas, puis se ressaisit.</DefaultText>
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Dans mon rêve, l'armée détruisait Stalwart et la Batterie. J'ai vu Caed Nua tomber."</DefaultText>
+      <DefaultText>"J'ai eu une vision moi aussi. J'ai vu la Baie du défi et Caed Nua reduites en cendres par une armée détruisant tout sur son passage."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"... Le tonnerre me poursuivait jusqu'au temple des Contrées de l'aube, et la terre se fendait sous nos pieds."</DefaultText>
+      <DefaultText>"... Le tonnerre me poursuivait jusqu'au temple des Contrées de l'aube, et la terre se fendait sous nos pieds."
+
+Adaryc dégluti, et semble incertain.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -699,7 +693,7 @@ Les mots d'Adaryc restent bloqués dans sa gorge et son expression se fige. Impo
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Misérables chiens ! J'aurais dû..." 
+      <DefaultText>"Misérables chiens ! J'aurais dû..."
 
 Les mots d'Adaryc restent bloqués dans sa gorge et son expression se fige. Impossible de savoir ce qui vient de se passer... Avant que vous ne le ressentiez, vous aussi.</DefaultText>
       <FemaleText />
@@ -762,7 +756,7 @@ Il semble quelque peu soulagé par votre discrétion.</DefaultText>
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Les délégués ? Vous avez fait irruption dans mon camp et tué mes hommes pour eux ?" 
+      <DefaultText>"Les délégués ? Vous avez fait irruption dans mon camp et tué mes hommes pour eux ?"
 
 Adaryc fronce les sourcils.</DefaultText>
       <FemaleText />
@@ -811,7 +805,7 @@ Adaryc secoue la tête.</DefaultText>
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Est-ce que tout le monde se vante de ses maux au Dyrwood ?" 
+      <DefaultText>"Est-ce que tout le monde se vante de ses maux au Dyrwood ?"
 
 Lors de la brève accalmie qui s'ensuit, Adaryc semble épuisé. Mais il ne baisse pas la garde.</DefaultText>
       <FemaleText />
@@ -915,7 +909,7 @@ Cette perspective semble le troubler.</DefaultText>
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Vous auriez pu faire marche arrière !" 
+      <DefaultText>"Vous auriez pu faire marche arrière !"
 
 Il expire. "S'il n'y avait pas eu les délégués, tout ceci aurait pu être évité."</DefaultText>
       <FemaleText />
@@ -932,7 +926,7 @@ Il expire. "S'il n'y avait pas eu les délégués, tout ceci aurait pu être év
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Tout cela pour eux ? Infiltrer mon fort, rôder dans le camp ?" 
+      <DefaultText>"Tout cela pour eux ? Infiltrer mon fort, rôder dans le camp ?"
 
 Adaryc fronce les sourcils.</DefaultText>
       <FemaleText />
@@ -971,7 +965,7 @@ Il regarde la grille de la cellule, les yeux en proie à une soudaine colère.</
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Vous ?" Adaryc grogne. 
+      <DefaultText>"Vous ?" Adaryc grogne.
 
 "Que représente Stalwart pour vous ? Des villageois peu enclins à risquer leur propre vie. Ils ne lèveraient pas le petit doigt pour vous."</DefaultText>
       <FemaleText />
