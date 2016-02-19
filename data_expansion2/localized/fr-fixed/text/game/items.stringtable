@@ -642,16 +642,6 @@ Vous avez peut-être surpassé les autres pour le moment, mais ils vont se ligue
 
 L'homme lui donne la lettre et se rend compte que ses larmes ont séché. Il remercie la Porteuse d'offrandes et part l'esprit en paix.
 
-La Porteuse d'offrandes continue sa route, en méditant sur l'histoire de cet homme, mais son cheminement est vite interrompu par un jeune garçon en pleurs portant un jouet en bois.
-
-"Pourquoi est-ce que tu pleures ?", demande la Porteuse d'offrandes.
-
-"Je tiens là un jouet sculpté par mon père. Parfois il était aimant et généreux, et parfois colérique et violent. Il est mort désormais et c'est tout ce qu'il reste de lui."
-
-"Donne-moi le jouet alors", dit la Porteuse d'offrandes, "et une fois que tu auras oublié le jouet, ton père ne pourra plus te causer de tort."
-
-Le garçon donne le jouet et se rend compte que sa tristesse a disparu. Il remercie la Porteuse d'offrandes et part l'esprit en paix.
-
 La Porteuse d'offrandes reprend la route, considérant de nouveau les malheurs du jeune garçon, et rencontre très vite une vieille femme en pleurs portant un chapelet de perles.
 
 "Pourquoi est-ce que vous pleurez ?", demande la Porteuse d'offrandes.
@@ -754,7 +744,7 @@ Le sel semble avoir formé de longues lignes de croûte qui s'enroulent autour d
       <ID>2239</ID>
       <DefaultText>Cette page semble provenir d'un texte plus vaste.
 
-"Nous avons un moyen d'empêcher nos précieux canons de rouiller à l'extérieur. Le maître des potions Andren a développé une solution qui scelle le métal, pour le protéger de l'air froid. Nous avons transformé l'ancienne armurerie en une « chambre de polissage » où nous pouvons chauffer la solution pour en faire un gaz.  En se diffusant dans la chambre, il enduira les canons d'un revêtement dur. Après quelques semaines, les canons seront prêts pour affronter les éléments.
+"Nous avons un moyen d'empêcher nos précieux canons de rouiller à l'extérieur. Le maître des potions Andren a développé une solution qui scelle le métal, pour le protéger de l'air froid. Nous avons transformé l'ancienne armurerie en une « chambre de polissage » où nous pouvons chauffer la solution pour en faire un gaz. En se diffusant dans la chambre, il enduira les canons d'un revêtement dur. Après quelques semaines, les canons seront prêts pour affronter les éléments.
 
 Néanmoins, nous devons faire attention en manipulant la solution. L'un des assistants d'Andren s'est ébouillanté la gorge avec une simple bouffée du mélange."
 
@@ -963,6 +953,7 @@ Dans un de ces cas particuliers, la revendication du trône de Mecwyn Eleya I é
     <Entry>
       <ID>2311</ID>
       <DefaultText>Présent à la cour cette nuit-là se trouvait Tiryc III, un palatin gréf. Tiryc fut si impressionné par les nombreuses utilisations d'Ine Gyrd qu'il demanda à un artisan de lui fabriquer son propre sceptre. Il prit ses précautions et exigea que son apparence soit complètement différente de celle d'Ine Gyrd, de peur d'attirer l'attention et la colère du mecwyn.
+
 Même si Gyrd Háewanes Sténes ne contient pas les âmes de la lignée du gréf, il tend à projeter l'autorité de son porteur, comme le voulait son propriétaire original.</DefaultText>
       <FemaleText />
     </Entry>
@@ -1338,7 +1329,7 @@ Consommer des larves spirituelles est supposé intensifier les sens et aiguiser 
     </Entry>
     <Entry>
       <ID>2453</ID>
-      <DefaultText>Tuez trois ennemis avec des âmes fortes [Ces PNJ sont indiqués par des plaques de nom dorées.]</DefaultText>
+      <DefaultText>Tuez 3 ennemis avec des âmes fortes [Ces PNJ sont indiqués par des plaques de nom dorées.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1478,7 +1469,7 @@ Consommer des larves spirituelles est supposé intensifier les sens et aiguiser 
     </Entry>
     <Entry>
       <ID>2487</ID>
-      <DefaultText>Ce couvre-œil était un cadeau de l'anamfatha glanfathan, en récompense de votre aide dans la récupération d'un précieux œil en adra qui avait été volé sur une sculpture pendant la guerre de la Pierre profanée. Comme l'œil original, le couvre-œil contient une croix sur sa surface. </DefaultText>
+      <DefaultText>Ce couvre-œil était un cadeau de l'anamfatha glanfathan, en récompense de votre aide dans la récupération d'un précieux œil en adra qui avait été volé sur une sculpture pendant la guerre de la Pierre profanée. Comme l'œil original, le couvre-œil contient une croix sur sa surface.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
