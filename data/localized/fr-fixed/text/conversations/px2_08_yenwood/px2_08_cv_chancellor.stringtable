@@ -82,7 +82,7 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>"Je suis désolé monseigneur, je ne sais pas. Le décret du comte est scellé."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Je suis désolé madame, je ne sais pas. Le décret du comte est scellé."</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -109,7 +109,7 @@ Une femme elfe, aux cheveux courts, habillée d'une cotte de mailles sombre et s
     <Entry>
       <ID>21</ID>
       <DefaultText>"Cet homme là ? C'est le seigneur de Caed Nua ? Je pensais qu'il n'était qu'un autre serviteur. Un valet ou un porteur."</DefaultText>
-      <FemaleText>"Cette femme là ? C'est le seigneur de Caed Nua ? Je pensais qu'elle n'était qu'une autre servante. Une femme de chambre ou une porteuse."</FemaleText>
+      <FemaleText>"Cette femme là ? C'est la dame de Caed Nua ? Je pensais qu'elle n'était qu'une autre servante. Une femme de chambre ou une porteuse."</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -188,7 +188,7 @@ Une femme elfe, aux cheveux courts, habillée d'une cotte de mailles sombre et s
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"À propos de la revendication de Gathbin sur Caed Nua, le comte Bademar trouve que la revendication de Gatbin n'a jamais été abandonnée. Selon la loi, Caed Nua est la légitime propriété de la famille Gathbin."</DefaultText>
+      <DefaultText>"À propos de la revendication de Gathbin sur Caed Nua, le comte Bademar trouve que la revendication de Gathbin n'a jamais été abandonnée. Selon la loi, Caed Nua est la légitime propriété de la famille Gathbin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,7 +283,7 @@ Une femme elfe, aux cheveux courts, habillée d'une cotte de mailles sombre et s
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[Donnez 1 000pc.] "Envoyez-ça au seigneur Gathbin en signe d'amitié."</DefaultText>
+      <DefaultText>[Donnez 1000pc.] "Envoyez-ça au seigneur Gathbin en signe d'amitié."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -377,12 +377,12 @@ Le chancelier pose sa chope de bière et vous regarde d'un air narquois.
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Allez-y."</DefaultText>
+      <DefaultText>"Continuez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Soyez sur vos gardes, [Player Name]. Je ne pense pas vous n'avez pas encore vu de quoi est réellement capable le seigneur Gathbin." Il avale le reste de sa bière et hoche brusquement la tête avant de se diriger vers la porte.</DefaultText>
+      <DefaultText>"Soyez sur vos gardes, [Player Name]. Je pense que vous n'avez pas encore vu de quoi est réellement capable le seigneur Gathbin." Il avale le reste de sa bière et hoche brusquement la tête avant de se diriger vers la porte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -467,7 +467,7 @@ Le chancelier pose sa chope de bière et vous regarde d'un air narquois.
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Yenwood ?"</DefaultText>
+      <DefaultText>"Yenwood ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -639,7 +639,7 @@ La capitaine baisse son pistolet et sourit d'un air suffisant avant de suivre so
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Seigneur Gathbin soutient votre regard pendant plusieurs instants, ses yeux consumés de rage.</DefaultText>
+      <DefaultText>Le seigneur Gathbin soutient votre regard pendant plusieurs instants, ses yeux consumés de rage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

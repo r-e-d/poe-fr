@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2421</EntryCount>
+  <EntryCount>2423</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis et les rencontres comptent bien plus d'adversaires. Attention : cette option ne peut pas être modifiée en cours de jeu ! Elle est prévue uniquement pour les joueurs qui souhaitent se lancer dans les rencontres les plus difficiles !</DefaultText>
+      <DefaultText>En mode de difficulté Voie des damnés, un bonus s'applique à la plupart des statistiques des ennemis et les rencontres comptent bien plus d'adversaires. Attention : cette option ne peut pas être modifiée en cours de jeu ! Elle est prévue uniquement pour les joueurs qui souhaitent se lancer dans les rencontres les plus difficiles !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2960,7 +2960,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>580</ID>
-      <DefaultText>Maison d'Hadret</DefaultText>
+      <DefaultText>Maison Hadret</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2995,12 +2995,12 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Région de Brackenbury</DefaultText>
+      <DefaultText>Quartier de Brackenbury</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText>Deuxième étage de la maison d'Hadret</DefaultText>
+      <DefaultText>Deuxième étage de la maison Hadret</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3050,7 +3050,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>598</ID>
-      <DefaultText>Région de Copperlane</DefaultText>
+      <DefaultText>Quartier de Copperlane</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3410,7 +3410,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>Région de Copperlane</DefaultText>
+      <DefaultText>Quartier de Copperlane</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3430,7 +3430,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>674</ID>
-      <DefaultText>Région des Premiers feux</DefaultText>
+      <DefaultText>Quartier des Premiers feux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3530,7 +3530,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>699</ID>
-      <DefaultText>Région de Brackenbury</DefaultText>
+      <DefaultText>Quartier de Brackenbury</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3585,7 +3585,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>Région de Brackenbury</DefaultText>
+      <DefaultText>Quartier de Brackenbury</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3635,7 +3635,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>Région des Premiers feux</DefaultText>
+      <DefaultText>Quartier des Premiers feux</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4150,7 +4150,7 @@ Invocations - Puissants effets magiques que les chanteurs peuvent générer apr�
     </Entry>
     <Entry>
       <ID>823</ID>
-      <DefaultText>Région de Copperlane</DefaultText>
+      <DefaultText>Quartier de Copperlane</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7700,7 +7700,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeuse
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Draine {0} Dégâts {1} en Endurance</DefaultText>
+      <DefaultText>Draine {0} Dégâts ({1}) en Endurance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9487,7 +9487,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>1891</ID>
-      <DefaultText>Déverrouillé !</DefaultText>
+      <DefaultText>Déverrouillé !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10142,7 +10142,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2032</ID>
-      <DefaultText>Êtes-vous sûr de vouloir lier {0} à {1} ? Une fois lié, cet objet ne peut pas être équipé sur un autre personnage.</DefaultText>
+      <DefaultText>Êtes-vous sûr de vouloir lier {0} à {1} ? Une fois lié, cet objet ne peut pas être équipé sur un autre personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10738,7 +10738,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2150</ID>
-      <DefaultText>Repli !</DefaultText>
+      <DefaultText>Repli !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10798,7 +10798,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2162</ID>
-      <DefaultText>Le personnage cherchera activement des ennemis proches à combattre, qu'il soit ou non attaqué directement.</DefaultText>
+      <DefaultText>Le personnage cherchera activement des ennemis à proximité à combattre, qu'il soit ou non attaqué directement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10873,12 +10873,12 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2177</ID>
-      <DefaultText>Voulez-vous réinitialiser {0} au niveau 1 et assigner de nouvelles compétences, talents et capacités jusqu'au niveau {1} ? Cela coûtera {2}.</DefaultText>
+      <DefaultText>Voulez-vous réinitialiser {0} au niveau 1 et assigner de nouvelles compétences, talents et capacités jusqu'au niveau {1} ? Cela coûtera {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2178</ID>
-      <DefaultText>Voulez-vous réinitialiser {0} au niveau 1 et assigner de nouveaux attributs, compétences, talents et capacités jusqu'au niveau {1} ? Cela coûtera {2}.</DefaultText>
+      <DefaultText>Voulez-vous réinitialiser {0} au niveau 1 et assigner de nouveaux attributs, compétences, talents et capacités jusqu'au niveau {1} ? Cela coûtera {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10928,8 +10928,8 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2188</ID>
-      <DefaultText>Immunisé !</DefaultText>
-      <FemaleText>Immunisée !</FemaleText>
+      <DefaultText>Immunisé !</DefaultText>
+      <FemaleText>Immunisée !</FemaleText>
     </Entry>
     <Entry>
       <ID>2189</ID>
@@ -11158,7 +11158,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2235</ID>
-      <DefaultText>{1} a détruit {0} !</DefaultText>
+      <DefaultText>{1} a détruit {0} !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11498,7 +11498,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2303</ID>
-      <DefaultText>Les sorts hauts niveaux des magiciens et druides, et bas niveaux des prêtres Par rencontre ont été remplacés par Maîtrise des sorts. Montez de niveau vos lanceurs de sorts pour sélectionner les sorts</DefaultText>
+      <DefaultText>Les sorts hauts niveaux Par rencontre des magiciens et druides, et bas niveaux Par rencontre des prêtres ont été remplacés par Maîtrise des sorts. Montez de niveau vos lanceurs de sorts pour sélectionner les sorts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11568,22 +11568,22 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2319</ID>
-      <DefaultText>Subir {0} dégâts de {1}</DefaultText>
+      <DefaultText>Subit {0} dégâts de {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2320</ID>
-      <DefaultText>Subir {0} {2} dégâts de {1}</DefaultText>
+      <DefaultText>Subit {0} {2} dégâts de {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2321</ID>
-      <DefaultText>Infliger {0} dégâts à {1}</DefaultText>
+      <DefaultText>Inflige {0} dégâts à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2322</ID>
-      <DefaultText>Infliger {0} {2} dégâts à {1}</DefaultText>
+      <DefaultText>Inflige {0} {2} dégâts à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11633,7 +11633,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2332</ID>
-      <DefaultText>Êtes-vous sûr de vouloir dupliquer {0} ? Cela consommera {1} de manière permanente.</DefaultText>
+      <DefaultText>Êtes-vous sûr de vouloir dupliquer {0} ? Cela consommera {1} de manière permanente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11779,6 +11779,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2361</ID>
       <DefaultText>Efficacité de l'armure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2362</ID>
+      <DefaultText>Sanctuaire de Magran</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12103,12 +12108,12 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2427</ID>
-      <DefaultText>Pillars of Eternity : La Marche blanche Partie II disponible !</DefaultText>
+      <DefaultText>Pillars of Eternity : La Marche blanche Partie II disponible !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2428</ID>
-      <DefaultText>Récupérez votre copie dès aujourd'hui !</DefaultText>
+      <DefaultText>Récupérez votre copie dès aujourd'hui !</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12214,6 +12219,11 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2452</ID>
       <DefaultText>dragons or drakes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2453</ID>
+      <DefaultText>checks Disposition</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Vous avez QUOI ? Je mérite peut-être ce qui m'arrive, mais j'espère que vous n'échapperez pas à votre sort."</DefaultText>
+      <DefaultText>"Vous allez QUOI ? Je mérite peut-être ce qui m'arrive, mais j'espère que vous n'échapperez pas à votre sort."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Quelque chose de mieux qu'une vie à réparer derrière moi, je suppose." Il se repousse du bar en chancelant. "Je ferais mieux d'en parler à Odda. Elle me pardonnera un jour, et, si les dieux le veulent, ainsi que mon fils."</DefaultText>
+      <DefaultText>"Quelque chose de mieux qu'une vie à réparer derrière moi, je suppose." Il se repousse du bar en chancelant. "Je ferais mieux d'en parler à Odda. Elle me pardonnera un jour, et, si les dieux le veulent, mon fils aussi."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,7 +172,7 @@
     <Entry>
       <ID>40</ID>
       <DefaultText>"Si je me retrouve coincé avec un enfant, je ferais mieux de rester là."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Si je me retrouvais coincée avec un enfant, je viendrais ici aussi."</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>[Attaquez] "Pourquoi ne pas vous achever dès maintenant ?"</DefaultText>
+      <DefaultText>[Attaquez] "Pourquoi ne pas vous achever dès maintenant ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -198,7 +198,7 @@ Elle vous lance un regard plein de sous-entendus.</DefaultText>
     <Entry>
       <ID>38</ID>
       <DefaultText>"Et j'ai promis à Gafonercos et Turisulfus de leur permettre de se mesurer à un tueur de dragons."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Et j'ai promis à Gafonercos et Turisulfus de leur permettre de se mesurer à une tueuse de dragons."</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -284,7 +284,7 @@ Elle vous lance un regard plein de sous-entendus.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"... Oubliez, ça semble terrible."</DefaultText>
+      <DefaultText>"Dit comme ça, ça semble terrible."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@ Elle vous lance un regard plein de sous-entendus.</DefaultText>
     <Entry>
       <ID>62</ID>
       <DefaultText>"Vous aurez plus de chance lors du prochain tour de roue, mon ami ! Nul doute qu'on se souviendra de vous."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Vous aurez plus de chance lors du prochain tour de roue, mon amie ! Nul doute qu'on se souviendra de vous."</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -420,7 +420,7 @@ Elle vous lance un regard plein de sous-entendus.</DefaultText>
     <Entry>
       <ID>82</ID>
       <DefaultText>"Hm. Voilà longtemps que je ne me suis pas entretenue avec un magicien talentueux..."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Hm. Voilà longtemps que je ne me suis pas entretenue avec une magicienne talentueuse..."</FemaleText>
     </Entry>
     <Entry>
       <ID>83</ID>
@@ -565,7 +565,7 @@ Elle rit.</DefaultText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Trop de gens préfèrent fermer les yeux et laissez les autres détruire ce que bon leur semble. Nous ne sommes pas des gardiens... Mais certaines choses sont trop graves pour être ignorées."</DefaultText>
+      <DefaultText>"Trop de gens préfèrent fermer les yeux et laisser les autres détruire ce que bon leur semble. Nous ne sommes pas des gardiens... Mais certaines choses sont trop graves pour être ignorées."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,7 +591,7 @@ Elle rit.</DefaultText>
     <Entry>
       <ID>115</ID>
       <DefaultText>"Vous avez tué la plupart de mes amis étudiants. Et vous n'êtes pas le bienvenu."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Vous avez tué la plupart de mes amis étudiants. Et vous n'êtes pas la bienvenue."</FemaleText>
     </Entry>
     <Entry>
       <ID>116</ID>
@@ -600,8 +600,8 @@ Elle rit.</DefaultText>
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Oui, en effet. Vos agissements vous ont rattrapé, Gardien. Je sais qu'il vaut mieux ne pas compter sur votre parole."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Comment, en effet. Vos agissements vous ont rattrapé, Gardien. Je sais qu'il vaut mieux ne pas compter sur votre parole."</DefaultText>
+      <FemaleText>"Comment, en effet. Vos agissements vous ont rattrapée, Gardienne. Je sais qu'il vaut mieux ne pas compter sur votre parole."</FemaleText>
     </Entry>
     <Entry>
       <ID>118</ID>
@@ -630,7 +630,7 @@ Elle rit.</DefaultText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Vous feriez ça ? Vous et moi serions les seuls être civilisés d'Eora à comprendre l'œuvre de Concelhaut."</DefaultText>
+      <DefaultText>"Vous feriez ça ? Vous et moi serions les seuls êtres civilisés d'Eora à comprendre l'œuvre de Concelhaut."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@ Elle rit.</DefaultText>
     <Entry>
       <ID>155</ID>
       <DefaultText>"Mangez-le, mon frère !"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Mangez-la, mon frère !"</FemaleText>
     </Entry>
     <Entry>
       <ID>157</ID>
@@ -864,14 +864,18 @@ Elle rit.</DefaultText>
       <DefaultText>"Êtes-vous différent ?"
 
 Gafonercos vous dévisage.</DefaultText>
-      <FemaleText />
+      <FemaleText>"Êtes-vous différente ?"
+
+Gafonercos vous dévisage.</FemaleText>
     </Entry>
     <Entry>
       <ID>174</ID>
       <DefaultText>"Il a une odeur différente."
 
 Turisulfus renifle l'air.</DefaultText>
-      <FemaleText />
+      <FemaleText>"Elle a une odeur différente."
+
+Turisulfus renifle l'air.</FemaleText>
     </Entry>
     <Entry>
       <ID>175</ID>
@@ -883,7 +887,7 @@ Llengrath ne semble pas avoir changé, en dehors de son sourire apaisé.</Defaul
     <Entry>
       <ID>176</ID>
       <DefaultText>"Reposez en paix, mon ami. Puisse l'esprit de Llengrath vous guider."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Reposez en paix, mon amie. Puisse l'esprit de Llengrath vous guider."</FemaleText>
     </Entry>
     <Entry>
       <ID>177</ID>
@@ -903,7 +907,7 @@ Llengrath ne semble pas avoir changé, en dehors de son sourire apaisé.</Defaul
     <Entry>
       <ID>180</ID>
       <DefaultText>"Non ! Tuez-le !"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Non ! Tuez-la !"</FemaleText>
     </Entry>
     <Entry>
       <ID>181</ID>
@@ -942,7 +946,7 @@ Llengrath ne semble pas avoir changé, en dehors de son sourire apaisé.</Defaul
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>[LR ALOTH: Animancers can be just as dangerous/ guess Llengrath doesn't think much of non-magi.]</DefaultText>
+      <DefaultText>"Vous ne devriez pas sous-estimer les dangers de l'incompétence, Llengrath."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

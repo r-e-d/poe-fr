@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Le maréchal secoue la tête. "Trop novices et trop peu nombreux. Si vous affrontez seigneur Gathbin maintenant, vos pertes seront nombreuses. Même si la victoire reste possible."</DefaultText>
+      <DefaultText>Le maréchal secoue la tête. "Trop novices et trop peu nombreux. Si vous affrontez le seigneur Gathbin maintenant, vos pertes seront nombreuses. Même si la victoire reste possible."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"C'est une situation délicate. Légalement, la revendication de seigneur Gathbin est juste... et il le sait. Dépouiller une famille de nobles de ses terres et ses titres est très dangereux - peut-être même plus que de tuer purement et simplement l'homme."</DefaultText>
+      <DefaultText>"C'est une situation délicate. Légalement, la revendication du seigneur Gathbin est juste... et il le sait. Dépouiller une famille de nobles de ses terres et ses titres est très dangereux - peut-être même plus que de tuer purement et simplement l'homme."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"J'ai envoyé un appel à volontaires dans les terres autour de Caed Nua. Avec un peu de chance, les gens comprendront qu'il vaut mieux vous avoir comme dirigeant plutôt que seigneur Gathbin."
+      <DefaultText>"J'ai envoyé un appel à volontaires dans les terres autour de Caed Nua. Avec un peu de chance, les gens comprendront qu'il vaut mieux vous avoir comme dirigeant plutôt qu'au seigneur Gathbin."
 
 "Tout mercenaire stationné à Caed Nua vous accompagnera également au combat, je vous suggère donc d'en embaucher le plus possible."</DefaultText>
       <FemaleText />
@@ -158,7 +158,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Croyez-le ou non, mais vos amis du clan des Flammes-Qui-Murmurent ont entendu parler de vos problèmes avec seigneur Gathbin. La matrone Beregan a parlé de quelque chose à propos d'une vision. Dans tous les cas, un messager de Stalwart a dit que Beregan envoie une partie de son clan pour vous aider."</DefaultText>
+      <DefaultText>"Croyez-le ou non, mais vos amis du clan des Flammes-Qui-Murmurent ont entendu parler de vos problèmes avec le seigneur Gathbin. La matrone Beregan a parlé de quelque chose à propos d'une vision. Dans tous les cas, un messager de Stalwart a dit que Beregan envoie une partie de son clan pour vous aider."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"J'ai des nouvelles à propos de seigneur Gathbin. Parlons-en dans la grande salle à l'écart des oreilles indiscrètes."</DefaultText>
+      <DefaultText>"J'ai des nouvelles à propos du seigneur Gathbin. Parlons-en dans la grande salle à l'écart des oreilles indiscrètes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,13 +323,13 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Seigneur Gathbin n'est pas assez idiot pour risquer de démolir Caed Nua juste pour vous tuer, et si vous vous barricadez derrière ces murs, il aura tout le loisir de tourmenter vos sujets dans la campagne."</DefaultText>
+      <DefaultText>"Le seigneur Gathbin n'est pas assez idiot pour risquer de démolir Caed Nua juste pour vous tuer, et si vous vous barricadez derrière ces murs, il aura tout le loisir de tourmenter vos sujets dans la campagne."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>"Le comte Bademar verra votre inaction contre seigneur Gathbin comme un signe que vous ne désirez pas exercer vos responsabilités en tant que seigneur de Caed Nua. Perdre son soutien aura des conséquences désastreuses. Porter le combat au seigneur Gathbin est votre seule option."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Le comte Bademar verra votre inaction contre seigneur Gathbin comme un signe que vous ne désirez pas exercer vos responsabilités en tant que dame de Caed Nua. Perdre son soutien aura des conséquences désastreuses. Porter le combat au seigneur Gathbin est votre seule option."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

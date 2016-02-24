@@ -8,17 +8,17 @@
       <ID>1</ID>
       <DefaultText>L'armure du jeune novice a été récemment astiquée. Ses cheveux sont propres et parfaitement peignés. Difficile d'imaginer qu'il ait déjà participé à un combat et que le plastron bosselé qu'il porte soit le sien.
 
-"Vous cherchez quelque chose ?"</DefaultText>
+"Vous cherchez quelque chose ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Penhelm acquiesce de sa tête particulièrement soignée. "Qu'est-ce qui vous ramène au donjon ?"</DefaultText>
+      <DefaultText>Penhelm acquiesce de sa tête particulièrement soignée. "Qu'est-ce qui vous ramène au donjon ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Le nom d'Osric vous dit-il quelque chose ?"</DefaultText>
+      <DefaultText>"Le nom d'Osric vous dit-il quelque chose ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Comment devient-on chevalier ?"</DefaultText>
+      <DefaultText>"Comment devient-on chevalier ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,7 +60,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Courage ! Vous avez toujours pensé que vous étiez unique. Bientôt, tout le monde le saura."</DefaultText>
+      <DefaultText>"Courage ! Vous avez toujours pensé que vous étiez unique. Bientôt, tout le monde le saura."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,7 +72,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Il y a autre chose ?"</DefaultText>
+      <DefaultText>"Il y a autre chose ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +89,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Le visage de Penhelm blêmit. "Vous avez parlé à ce petit clairvoyant, n'est-ce pas ? Un de mes novices m'a dit avoir vu quelqu'un dans la salle des archives."
+      <DefaultText>Le visage de Penhelm blêmit. "Vous avez parlé à ce petit clairvoyant, n'est-ce pas ? Un de mes novices m'a dit avoir vu quelqu'un dans la salle des archives."
 
 Il s'avance lentement vers vous et tend une main. "Donnez-moi la déclaration écrite sous serment. Je ne vous ai rien fait." Son autre main s'approche de son épée.</DefaultText>
       <FemaleText />
@@ -143,7 +143,7 @@ Il s'avance lentement vers vous et tend une main. "Donnez-moi la déclaration é
       <ID>94</ID>
       <DefaultText>Derrière vous, vous entendez Hiravias dire d'une voix calme, "Mais qu'en savez-vous... Ce gardien manque de décence..."
 
-Alors que tous les regards se tournent vers lui, il lève les mains. "Quoi ? Ne faites pas attention à moi, je me parlais à moi-même... Pas assez discrètement, visiblement."</DefaultText>
+Alors que tous les regards se tournent vers lui, il lève les mains. "Quoi ? Ne faites pas attention à moi, je me parlais à moi-même... Pas assez discrètement, visiblement."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,12 +205,10 @@ Alors que tous les regards se tournent vers lui, il lève les mains. "Quoi ? Ne 
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Il marmonne. "Les gens changent. Les organisations changent. Les Chevaliers du Creuset étaient autrefois une milice de forgerons, mais Dunstan est l'un des seuls officiers à savoir manier un marteau de nos jours. Nous sommes soldats de métier. N'est-ce pas ce qu'il faut pour défendre une ville ?"
+      <DefaultText>Il marmonne. "Les gens changent. Les organisations changent. Les Chevaliers du Creuset étaient autrefois une milice de forgerons, mais Dunstan est l'un des seuls officiers à savoir manier un marteau de nos jours. Nous sommes soldats de métier. N'est-ce pas ce qu'il faut pour défendre une ville ?"
 
 "De plus, un novice n'a pas à calomnier ses supérieurs."</DefaultText>
-      <FemaleText>Il marmonne. "Les gens changent. Les organisations changent. Les Chevaliers du Creuset étaient autrefois une milice de forgerons, mais Dunstan est l'un des seuls officiers à savoir manier un marteau de nos jours. Nous sommes soldats de métier. N'est-ce pas ce qu'il faut pour défendre une ville ?"
-
-"De plus, une novice n'a pas à calomnier ses supérieurs."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
@@ -229,7 +227,7 @@ Alors que tous les regards se tournent vers lui, il lève les mains. "Quoi ? Ne 
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Qu'est-ce qu'il y a entre vous ?"</DefaultText>
+      <DefaultText>"Qu'est-ce qu'il y a entre vous ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,14 +242,14 @@ Alors que tous les regards se tournent vers lui, il lève les mains. "Quoi ? Ne 
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Mais que peut-il bien savoir sur cela ? Il a tout intérêt à répandre des calomnies compte tenu de ses antécédents au sein des chevaliers." Il croise les bras.
+      <DefaultText>"Mais que peut-il bien savoir sur cela ? Il a tout intérêt à répandre des calomnies compte tenu de ses antécédents au sein des chevaliers." Il croise les bras.
 
 Il vous fait un clin d'œil. "C'est un mensonge, bien sûr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Quelle vérité ? Celle d'il y a plus d'un siècle lorsque j'étais Aedyran réduit en poussière aujourd'hui ?"
+      <DefaultText>"Quelle vérité ? Celle d'il y a plus d'un siècle lorsque j'étais Aedyran réduit en poussière aujourd'hui ?"
 
 Sa main agrippe le pommeau de son épée. "Je vais vous le demander une dernière fois. Rendez cela."</DefaultText>
       <FemaleText />
@@ -283,12 +281,12 @@ Sa main agrippe le pommeau de son épée. "Je vais vous le demander une dernièr
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Il hésite et s'empare de la déclaration écrite sous serment. "Je vous en suis reconnaissant, mais Osric a mérité sa punition et vous a envoyé déverser votre rage contre moi. Pourquoi ferais-je quoi que ce soit pour lui ?"</DefaultText>
+      <DefaultText>Il hésite, tout en serrant fort la déclaration écrite sous serment. "Je vous en suis reconnaissant, mais Osric a mérité sa punition et vous a envoyé déverser votre rage contre moi. Pourquoi ferais-je quoi que ce soit pour lui ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"N'est-ce pas son plastron que vous portez là ?"</DefaultText>
+      <DefaultText>"N'est-ce pas son plastron que vous portez là ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -305,7 +303,7 @@ Sa main agrippe le pommeau de son épée. "Je vais vous le demander une dernièr
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Êtes-vous si attaché au passé au point de devoir porter son armure ?"</DefaultText>
+      <DefaultText>"Êtes-vous si attaché au passé au point de devoir porter son armure ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,7 +327,7 @@ Il vous fait un signe de la tête et s'en va.</DefaultText>
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Après ce que j'ai fait pour vous, vous rechignez à lui donner cela ?"</DefaultText>
+      <DefaultText>"Après ce que j'ai fait pour vous, vous rechignez à lui donner cela ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +359,7 @@ Il vous fait un signe de la tête et s'en va.</DefaultText>
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Mais que peut-il bien savoir à ce sujet ? Il a tout intérêt à répandre des calomnies compte tenu de ses antécédents au sein des chevaliers." Il croise les bras.
+      <DefaultText>"Mais que peut-il bien savoir à ce sujet ? Il a tout intérêt à répandre des calomnies compte tenu de ses antécédents au sein des chevaliers." Il croise les bras.
 
 Il vous fait un clin d'œil. "C'est un mensonge, bien sûr. Et cela devrait être évident pour quelqu'un d'aussi logique que vous."</DefaultText>
       <FemaleText />

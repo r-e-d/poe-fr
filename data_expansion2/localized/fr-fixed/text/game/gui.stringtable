@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>71</EntryCount>
+  <EntryCount>70</EntryCount>
   <Entries>
     <Entry>
       <ID>1903</ID>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>2032</ID>
-      <DefaultText>Êtes-vous sûr de vouloir lier {0} à {1} ? Une fois lié, cet objet ne peut pas être équipé sur un autre personnage.</DefaultText>
+      <DefaultText>Êtes-vous sûr de vouloir lier {0} à {1} ? Une fois lié, cet objet ne peut pas être équipé sur un autre personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,11 +347,6 @@
     <Entry>
       <ID>2318</ID>
       <DefaultText>Vallon de la Pierre blanche</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2362</ID>
-      <DefaultText>Sanctuaire de Magran</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

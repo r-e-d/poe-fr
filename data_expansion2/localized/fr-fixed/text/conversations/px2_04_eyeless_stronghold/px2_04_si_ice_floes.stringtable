@@ -87,8 +87,8 @@ Compte tenu de la taille des glaces flottantes, il s'avère difficile de stabili
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>[Slot 0] atteint tant bien que mal le bord de la glace et se hisse, trempé et tremblant, pour rejoindre le reste du groupe.</DefaultText>
-      <FemaleText>[Slot 0] atteint tant bien que mal le bord de la glace et se hisse, trempée et tremblante, pour rejoindre le reste du groupe.</FemaleText>
+      <DefaultText>[Specified 0] atteint tant bien que mal le bord de la glace et se hisse, trempé et tremblant, pour rejoindre le reste du groupe.</DefaultText>
+      <FemaleText>[Specified 0] atteint tant bien que mal le bord de la glace et se hisse, trempée et tremblante, pour rejoindre le reste du groupe.</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -116,12 +116,12 @@ Vous évitez de peu un autre bloc de glace, mais ce faisant vous plongez momenta
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Malgré le froid intense, [Slot 0] parvient à résister à ses effets engourdissants et nage rapidement en direction de la glace pour vous rejoindre.</DefaultText>
+      <DefaultText>Malgré le froid intense, [Specified 0] parvient à résister à ses effets engourdissants et nage rapidement en direction de la glace pour vous rejoindre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Malgré le froid intense, [Slot 0] parvient à résister à ses effets engourdissants et nage rapidement en direction de la glace pour vous rejoindre.</DefaultText>
+      <DefaultText>Malgré le froid intense, [Specified 0] parvient à résister à ses effets engourdissants et nage rapidement en direction de la glace pour vous rejoindre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@ Vous évitez de peu un autre bloc de glace, mais ce faisant vous plongez momenta
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Malgré le froid intense, [Slot 0] parvient à résister à ses effets engourdissants et nage rapidement en direction de la glace pour vous rejoindre.</DefaultText>
+      <DefaultText>Malgré le froid intense, [Specified 0] parvient à résister à ses effets engourdissants et nage rapidement en direction de la glace pour vous rejoindre.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
