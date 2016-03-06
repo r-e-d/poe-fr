@@ -10217,7 +10217,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2047</ID>
-      <DefaultText>Infliger des dégâts {0} à {1} avec {2}</DefaultText>
+      <DefaultText>Infliger {0} dégâts à {1} avec {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10858,7 +10858,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2174</ID>
-      <DefaultText>Inflige {0} {2} dégâts à {1} avec {3}</DefaultText>
+      <DefaultText>Infliger {0} dégâts {2} à {1} avec {3}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11568,22 +11568,22 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2319</ID>
-      <DefaultText>Subit {0} dégâts de {1}</DefaultText>
+      <DefaultText>Subir {0} dégâts de {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2320</ID>
-      <DefaultText>Subit {0} {2} dégâts de {1}</DefaultText>
+      <DefaultText>Subir {0} dégâts {2} de {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2321</ID>
-      <DefaultText>Inflige {0} dégâts à {1}</DefaultText>
+      <DefaultText>Infliger {0} dégâts à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2322</ID>
-      <DefaultText>Inflige {0} {2} dégâts à {1}</DefaultText>
+      <DefaultText>Infliger {0} dégâts {2} à {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12118,7 +12118,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2430</ID>
-      <DefaultText>{1} {0}</DefaultText>
+      <DefaultText>{1} avec {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
