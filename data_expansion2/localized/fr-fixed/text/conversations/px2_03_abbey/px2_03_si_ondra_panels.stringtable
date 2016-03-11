@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_03_abbey\px2_03_si_ondra_panels</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>39</EntryCount>
+  <EntryCount>41</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -213,6 +213,16 @@ Puis, à l'aide de votre autre main, vous tracez l'arc du croissant avec votre i
     <Entry>
       <ID>39</ID>
       <DefaultText>Vous vous retrouvez à nouveau devant les quatre panneaux de pierre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Script Node 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Script Node 41</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

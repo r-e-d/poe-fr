@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>243</EntryCount>
+  <EntryCount>244</EntryCount>
   <Entries>
     <Entry>
       <ID>1909</ID>
@@ -1237,7 +1237,7 @@ Comme toujours, je me laisse emporter. Trouver ces créatures est déjà une vé
     </Entry>
     <Entry>
       <ID>2416</ID>
-      <DefaultText>Libérez les fragments de l'âme d'Abydon qui restent liée aux Sans-yeux.</DefaultText>
+      <DefaultText>Utilisez le marteau pour détruire l'armée des Sans-yeux à la Faille de Cayron.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1506,6 +1506,11 @@ Consommer des larves spirituelles est supposé intensifier les sens et aiguiser 
       <ID>2494</ID>
       <DefaultText>Cet imposant livre contient une version abrégée de la vie de l'érudite rauatai, Amaia. Même s'il faudra plusieurs années avant que le texte complet d'Amaia ne soit publié (en de nombreux volumes), elle vous l'a donné en cadeau pour l'avoir aidée à récupérer de précieuses informations clés situées dans des endroits difficiles à atteindre.</DefaultText>
       <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2533</ID>
+      <DefaultText>Robes du Porteur de marée</DefaultText>
+      <FemaleText>Robes de la Porteuse de marée</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

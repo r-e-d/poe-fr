@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2423</EntryCount>
+  <EntryCount>2424</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10222,7 +10222,7 @@ Voulez-vous vraiment mettre un terme à la création du personnage ?</DefaultTe
     </Entry>
     <Entry>
       <ID>2048</ID>
-      <DefaultText>Lier cette arme</DefaultText>
+      <DefaultText>Lier cet objet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12213,17 +12213,22 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2451</ID>
-      <DefaultText>{0} melee enemies</DefaultText>
+      <DefaultText>{0} ennemis en mêlée</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2452</ID>
-      <DefaultText>dragons or drakes</DefaultText>
+      <DefaultText>dragons ou drakes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2453</ID>
-      <DefaultText>checks Disposition</DefaultText>
+      <DefaultText>vérifie la Disposition</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2454</ID>
+      <DefaultText>Attack {1} instead of {0} if {1} is lower</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

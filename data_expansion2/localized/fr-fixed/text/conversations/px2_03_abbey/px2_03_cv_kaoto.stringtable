@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_03_abbey\px2_03_cv_kaoto</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>210</EntryCount>
+  <EntryCount>212</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1103,6 +1103,16 @@ Kaoto se retourne vers vous et plante son regard dans le vôtre.</DefaultText>
       <ID>237</ID>
       <DefaultText>[Attaquez] "J'en ai assez entendu."</DefaultText>
       <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Venez. Un dernier test, « Porteur de marée »."</DefaultText>
+      <FemaleText>"Venez. Un dernier test, « Porteuse de marée »."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Venez. Un dernier test, Porteur de marée."</DefaultText>
+      <FemaleText>"Venez. Un dernier test, Porteuse de marée."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

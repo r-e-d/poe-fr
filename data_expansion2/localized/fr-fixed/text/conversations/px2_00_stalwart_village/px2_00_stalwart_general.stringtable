@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_00_stalwart_village\px2_00_stalwart_general</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>47</EntryCount>
+  <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -241,6 +241,31 @@
     <Entry>
       <ID>54</ID>
       <DefaultText>"Les gars de la Batterie de Durgan ont dit que vous aviez remis les canons en état. Merci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vous avez réussi ! Vous avez vaincu ces monstres métalliques !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vous avez sauvé Stalwart [Player Name]. Une fois de plus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Votre combat contre les Sans-yeux restera éternellement gravé dans les mémoires, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Est-il vrai que les Sans-yeux étaient jadis les animaux de compagnie d'un kraken vorace ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Il paraît que vous avez traqué les Sans-yeux jusqu'à la Faille de Cayron. Nul n'en revient jamais."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

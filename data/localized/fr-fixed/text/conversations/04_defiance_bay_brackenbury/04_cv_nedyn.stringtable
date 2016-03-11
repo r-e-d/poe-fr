@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\04_defiance_bay_brackenbury\04_cv_nedyn</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>107</EntryCount>
+  <EntryCount>108</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -553,6 +553,15 @@ Elle prend le vieux livre et le serre contre sa poitrine. Elle regarde les reliu
     <Entry>
       <ID>155</ID>
       <DefaultText>Elle rit bruyamment. "Moi aussi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Je suis ani..."
+
+Ses yeux s'écarquillent. Elle observe les passants d'un air méfiant.
+
+"Une érudite. J'étudie l'Héritage de Waidwen."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

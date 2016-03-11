@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_04_eyeless_stronghold\px2_04_si_pool</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>34</EntryCount>
+  <EntryCount>35</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -197,6 +197,11 @@ Essayer de vous cacher s'annonce difficile, mais au prix d'un immense effort, vo
     </Entry>
     <Entry>
       <ID>35</ID>
+      <DefaultText>[Specified 0] ignore le froid glacial et plonge en direction de la chose qui brille dans les profondeurs boueuses de la grotte de glace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
       <DefaultText>[Specified 0] ignore le froid glacial et plonge en direction de la chose qui brille dans les profondeurs boueuses de la grotte de glace.</DefaultText>
       <FemaleText />
     </Entry>

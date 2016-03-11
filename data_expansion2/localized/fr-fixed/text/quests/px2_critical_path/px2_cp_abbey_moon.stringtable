@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\px2_critical_path\px2_cp_abbey_moon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>61</EntryCount>
+  <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -325,6 +325,16 @@ La première étape est de réaliser une récitation rituelle devant Kaoto. Puis
       <ID>20038</ID>
       <DefaultText>J'ai parlé à une Porteuse d'offrandes qui m'a révélé que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</DefaultText>
       <FemaleText>J'ai parlé à une Porteuse d'offrandes qui m'a révélée que toutes les choses oubliées appartiennent à Ondra, et que toutes les choses qui appartiennent à Ondra sont oubliées.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20039</ID>
+      <DefaultText>I've found a strange set of mechanical panels before a chasm in the Halls of Silence. Despite having arranged them in the proper order, it seems that there's something else I need in order to complete the sequence and trigger whatever mechanism it governs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20040</ID>
+      <DefaultText>I've found a strange set of mechanical panels before a chasm in the Halls of Silence. Despite having arranged them in the proper order, it seems that there's something else I need in order to complete the sequence and trigger whatever mechanism it governs.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>

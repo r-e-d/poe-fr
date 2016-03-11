@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_cv_eder_hub2</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>83</EntryCount>
+  <EntryCount>84</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -487,6 +487,11 @@ Il sourit d'un air affecté. "Si c'est le cas, il mérite ce deuil."</DefaultTex
     <Entry>
       <ID>86</ID>
       <DefaultText>Trigger Conv Node 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Comment Eothas était-il considérés par ses fidèles dans le Dyrwood ?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

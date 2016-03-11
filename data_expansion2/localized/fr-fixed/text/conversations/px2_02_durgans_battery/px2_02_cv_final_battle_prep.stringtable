@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\px2_02_durgans_battery\px2_02_cv_final_battle_prep</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>84</EntryCount>
+  <EntryCount>86</EntryCount>
   <Entries>
     <Entry>
       <ID>41</ID>
@@ -464,6 +464,18 @@ Au bout de quelques instants, Beregan s'avance.</DefaultText>
     <Entry>
       <ID>191</ID>
       <DefaultText>Script Node 191</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"J'ai envoyé quelques hommes dans la tour, mais ils ont été attaqués par des skuldraks et d'autres créatures. Culmar a failli y laisser une jambe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Les canons à longue portée que vous avez réparés pourraient être utiles, vous savez." Elle sourit, une lueur de malice dans les yeux. 
+
+Deryan commence à grogner, et elle lève les mains au ciel.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
