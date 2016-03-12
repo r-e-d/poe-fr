@@ -1276,7 +1276,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Fait apparaître trois projectiles magiques qui infligent des dégâts contondants ou corrosif à la cible.</DefaultText>
+      <DefaultText>Fait apparaître trois projectiles magiques qui infligent des dégâts contondants ou corrosifs à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1912,7 +1912,7 @@
     <Entry>
       <ID>395</ID>
       <DefaultText>Fait apparaître un brouillard glacial qui frappe de cécité et inflige des dégâts givrant progressifs à tous les personnages présents dans la zone d'effet.</DefaultText>
-     <FemaleText />
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
@@ -2716,7 +2716,7 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Invoque une puissante lance solaire qui inflige des dégâts perforant et de feu à une seule cible.</DefaultText>
+      <DefaultText>Invoque une puissante lance solaire qui inflige des dégâts perforants et brûlants à une seule cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,7 +2891,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts bruts. Les cibles dont l'endurance est faible explosent, infligeant au passage des dégâts contondant à quiconque présent dans la zone d'effet.</DefaultText>
+      <DefaultText>Fait voler en éclat l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts bruts. Les cibles dont l'endurance est faible explosent, infligeant au passage des dégâts contondants à quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4041,12 +4041,12 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts perforant progressifs et réduisent la concentration de quiconque présent dans la zone d'effet.</DefaultText>
+      <DefaultText>Attire une nuée d'insectes agressifs qui infligent des dégâts perforants progressifs et réduisent la concentration de quiconque présent dans la zone d'effet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal. À chaque frappe, des dégâts bruts continus sont ajoutés son attaque, régénérant son endurance.</DefaultText>
+      <DefaultText>L'arme de mêlée du jeteur de sorts devient un instrument de chasse idéal, ajoutant des dégâts bruts continus à ses attaques et régénérant son endurance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4201,7 +4201,7 @@
     </Entry>
     <Entry>
       <ID>857</ID>
-      <DefaultText>Crée une barrière semi-perméable qui inflige des dégâts contondant et d'entrave aux ennemis lorsqu'ils la traversent, mais est inoffensif pour les alliés.</DefaultText>
+      <DefaultText>Crée une barrière semi-perméable qui inflige des dégâts contondants et d'entrave aux ennemis lorsqu'ils la traversent, mais est inoffensif pour les alliés.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4291,7 +4291,7 @@
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>Déclenche une revanche finale lorsque le barbare a réduit l'endurance à 0. Il massacre alors instantanément tous les personnages qui se trouvent à sa portée en lançant une attaque maximum.</DefaultText>
+      <DefaultText>Déclenche une revanche finale lorsque l'endurance du barbare se réduit à 0. Il massacre alors instantanément tous les personnages qui se trouvent à sa portée en lançant une attaque maximum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4401,7 +4401,7 @@
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>En visant certains points d'un ennemi, le moine peut physiquement l'affaiblir. Les critiques de mêlée cause un affaiblissement la cible.</DefaultText>
+      <DefaultText>En visant certains points d'un ennemi, le moine peut physiquement l'affaiblir. Les critiques de mêlée cause un affaiblissement à la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4426,7 +4426,7 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>En un clin d'œil, le moine ou la moniale se précipite vers une cible éloignée et inflige de redoutables dégâts contondants et pénalités à toutes les défenses aux personnages présents sur son passage.</DefaultText>
+      <DefaultText>En un clin d'œil, le moine se précipite vers une cible éloignée et inflige de redoutables dégâts contondants et pénalités à toutes les défenses aux personnages présents sur son passage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4661,7 +4661,7 @@
     </Entry>
     <Entry>
       <ID>949</ID>
-      <DefaultText>Intensifie la frappe sauvage du druide, ce qui confère des dégâts accrus.</DefaultText>
+      <DefaultText>Intensifie la Frappe sauvage du druide, ce qui confère des dégâts accrus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6090,7 +6090,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1230</ID>
-      <DefaultText>Permet de jeter un sort de niveau 1 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 1 supplémentaire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6100,7 +6100,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>Permet de jeter un sort de niveau 2 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 2 supplémentaire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6110,7 +6110,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>Permet de jeter un sort de niveau 3 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 3 supplémentaire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6120,12 +6120,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Permet de jeter un sort de niveau 4 supplémentaires.</DefaultText>
+      <DefaultText>Permet de jeter un sort de niveau 4 supplémentaire.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>Concentration accrue</DefaultText>
+      <DefaultText>Focus accru</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6870,7 +6870,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>Un trio de serres de pierre émergent du sol, pétrifiant et infligeant des dégâts tranchants tous ceux pris dans la zone.</DefaultText>
+      <DefaultText>Un trio de serres de pierre émergent du sol, pétrifiant et infligeant des dégâts tranchants à tous ceux qui sont pris dans la zone.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7605,7 +7605,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1538</ID>
-      <DefaultText>Si le paramètre Par repos est activé, le magicien se concentre sur les sorts réservés aux ennemis qui infligent des supplices comme Lumières éblouissantes d'Arkemyr, Spectacle déroutant, Blessures inflammables, Malédiction de la cécité, Pénible ralentissement, Exposition des vulnérabilités, etc.</DefaultText>
+      <DefaultText>Si le paramètre Par repos est activé, le magicien se concentre sur les sorts réservés aux ennemis qui infligent des afflictions comme Lumières éblouissantes d'Arkemyr, Spectacle déroutant, Blessures inflammables, Malédiction de la cécité, Pénible ralentissement, Exposition des vulnérabilités, etc.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8550,7 +8550,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1729</ID>
-      <DefaultText>Une fois un ennemi tué, la récupération du barbare est abandonnée, lui permettant d'attaquer à nouveau immédiatement.</DefaultText>
+      <DefaultText>Une fois un ennemi tué, la récupération du barbare est annulée, lui permettant d'attaquer à nouveau immédiatement.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8605,12 +8605,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1740</ID>
-      <DefaultText>Le guerrier se précipite au travers du champ de bataille en un éclair, infligeant des dégâts Contondants à quiconque est pris dans son chemin.</DefaultText>
+      <DefaultText>Le combattant se précipite au travers du champ de bataille en un éclair, infligeant des dégâts Contondants à quiconque est pris dans son chemin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1741</ID>
-      <DefaultText>Si les dégâts subis par le guerrier représentent au moins 10 % de son Endurance totale, il ou elle gagnera une immunité contre ce type de dégâts pour une courte période.</DefaultText>
+      <DefaultText>Si les dégâts subis par le combattant représentent au moins 10 % de son Endurance totale, il ou elle gagnera une immunité contre ce type de dégâts pour une courte période.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8745,7 +8745,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1768</ID>
-      <DefaultText>Invoque un mur scintillant de couleurs multiples qui inflige des dégâts et supplices variés aux ennemis qui le traversent.</DefaultText>
+      <DefaultText>Invoque un mur scintillant de couleurs multiples qui inflige des dégâts et afflictions variés aux ennemis qui le traversent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8980,12 +8980,12 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1815</ID>
-      <DefaultText>Gréf's Authority</DefaultText>
+      <DefaultText>Autorité du Gréf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1816</ID>
-      <DefaultText>Accurate melee attack that does Crash/Slash damage, bypasses some Damage Reduction, and can Stun the target.</DefaultText>
+      <DefaultText>Attaque de mêlée précise qui occasionne des dégâts Tranchants/Écrasants, contourne une partie de la réduction des dégâts et peut Assommer la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

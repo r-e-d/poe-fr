@@ -2535,7 +2535,7 @@ Sorts - Les magiciens ont accès à un éventail de sorts offensifs et défensif
 
 Capacité de départ :
 
-Carnage - Lorsque des barbares frappent avec des attaques de mêlée, ils infligent automatiquement des dégâts réduits à tous les autres ennemis situés à proximité de la cible.</DefaultText>
+Carnage - Lorsque les barbares frappent avec des attaques de mêlée, ils infligent automatiquement des dégâts réduits à tous les autres ennemis situés à proximité de la cible.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11133,7 +11133,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2230</ID>
-      <DefaultText>{0} ne peut consommer d'aliments, de boissons ou de drogues</DefaultText>
+      <DefaultText>{0} ne peut consommer d'aliments, de boissons ou de drogues.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -11178,7 +11178,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2239</ID>
-      <DefaultText>Récupérer immédiatement</DefaultText>
+      <DefaultText>Récupération immédiate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -12228,7 +12228,7 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     </Entry>
     <Entry>
       <ID>2454</ID>
-      <DefaultText>Attack {1} instead of {0} if {1} is lower</DefaultText>
+      <DefaultText>Attaque la {1} au lieu de la {0} si la {1} est plus basse</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -101,12 +101,16 @@ Il se tourne vers ses frères, "Mes frères, l'Archimartyr s'est manifesté ! N
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Merci, étranger", dit le moine en joignant les mains devant lui tout en s'inclinant profondément. "Votre honnêteté est remarquable. Je dois admettre que j'ai été surpris lorsque vous m'avez tendu le message, car je m'attendais à ce que le sceau soit rompu." 
+      <DefaultText>"Merci, étranger", dit le moine en joignant les mains devant lui tout en s'inclinant profondément. "Votre honnêteté est remarquable. Je dois admettre que j'ai été surpris... lorsque vous m'avez tendu le message, car je m'attendais à ce que le sceau soit rompu." 
 
 Le moine rougit et sourit pour la première fois. "Je suis content de voir que la décence n'a pas disparu de ce monde." 
 
 Il sort quelque chose des plis de sa robe. "Tenez, votre honnêteté doit être récompensée."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Merci, étrangère", dit le moine en joignant les mains devant lui tout en s'inclinant profondément. "Votre honnêteté est remarquable. Je dois admettre que j'ai été surpris... lorsque vous m'avez tendu le message, car je m'attendais à ce que le sceau soit rompu." 
+
+Le moine rougit et sourit pour la première fois. "Je suis content de voir que la décence n'a pas disparu de ce monde." 
+
+Il sort quelque chose des plis de sa robe. "Tenez, votre honnêteté doit être récompensée."</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -148,18 +152,14 @@ Il sort quelque chose des plis de sa robe. "Tenez, votre honnêteté doit être 
       <DefaultText>Le poing du moine reste suspendu quelques secondes tandis que les moines s'immobilisent. Finalement, le moine baisse le poing. "Pardonnez-moi... pour ce jugement trop hâtif." 
 
 Le moine fouille dans sa sacoche. "Pour vous remercier d'avoir rapporté cette missive, permettez-moi de vous remettre ceci."</DefaultText>
-      <FemaleText>Le poing de la moniale reste suspendu quelques secondes tandis que les moines s'immobilisent. Finalement, la moniale baisse le poing. "Pardonnez-moi... pour ce jugement trop hâtif." 
-
-La moniale fouille dans sa sacoche. "Pour vous remercier d'avoir rapporté cette missive, permettez-moi de vous remettre ceci."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Le moine vous dévisage, éberlué. "Vous ne vous souvenez pas ? Vous avez trouvé un homme mort et vous... avez oublié ce qui s'est passé ?" 
 
 Il croise les bras et vous lance un regard noir, un sourcil levé.</DefaultText>
-      <FemaleText>La moniale vous dévisage, éberluée. "Vous ne vous souvenez pas ? Vous avez trouvé un homme mort et vous... avez oublié ce qui s'est passé ?" 
-
-Elle croise les bras et vous lance un regard noir, un sourcil levé.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
