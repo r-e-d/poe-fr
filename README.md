@@ -5,7 +5,7 @@ Ce projet a pour but de corriger et d'améliorer la traduction française de Pil
 ## Installation:
 
 ### Sans utiliser l'outil 'git' (recommandé)
-Décompresser le fichier .zip et placer les répertoires data et data_expansion1 dans le dossier approprié :
+Décompresser le fichier .zip et placer les répertoires data, data_expansion1 (si vous avez la première partie de l'extension The White March) et data_expansion2 (si vous avez la deuxième partie de l'extension The White March) dans le dossier approprié :
 
  * Windows : [dossier_PoE]\PillarsOfEternity_Data\
  * Linux : [dossier_Poe]/PillarsOfEternity_Data/
