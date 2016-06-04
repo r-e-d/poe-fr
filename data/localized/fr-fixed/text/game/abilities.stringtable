@@ -4521,7 +4521,7 @@
     </Entry>
     <Entry>
       <ID>921</ID>
-      <DefaultText>Permet au bandit de rompre l'engagement et d'éviter habilement l'attaque suivante pour se précipiter vers un emplacement spécifique.</DefaultText>
+      <DefaultText>Permet au bandit de rompre l'engagement et d'éviter habilement l'attaque suivante pour se précipiter vers un emplacement spécifique et bénéficier d'un bonus temporaire de défense.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4536,7 +4536,7 @@
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Le bandit recherche les possibilités de contre-attaques au combat. Les attaques de mêlée qui visent la déviation et se soldent par un échec peuvent permettre une riposte instantanée avec une attaque maximum. [g]A[/g]ctif uniquement si le personnage est équipé d'armes de mêlée.</DefaultText>
+      <DefaultText>Le bandit recherche les possibilités de contre-attaques au combat. Les attaques de mêlée qui visent la déviation et se soldent par un échec ou une éraflure peuvent permettre une riposte instantanée avec une attaque maximum. [g]A[/g]ctif uniquement si le personnage est équipé d'armes de mêlée.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4546,7 +4546,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui convertit de nombreuses éraflures sur réflexes en échecs.</DefaultText>
+      <DefaultText>Les esquives du bandit deviennent particulièrement efficaces, ce qui convertit une partie des coups ciblant les réflexes en éraflures.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5515,7 +5515,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Lorsque l'attaquant utilise une arme de mêlée à une main, une partie de ses éraflures sont converties en coups.</DefaultText>
+      <DefaultText>Lorsque l'attaquant utilise une arme de mêlée à une main, une partie de ses coups sont converties en critiques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8515,7 +8515,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1721</ID>
-      <DefaultText>En pénétrant à travers l'Entre-deux, le bandit est apparemment capable de se téléporter à travers le champ de bataille pour quelques instants, retournant automatiquement à sa position de départ à la fin de l'effet.</DefaultText>
+      <DefaultText>En pénétrant à travers l'Entre-deux, le bandit est apparemment capable de se téléporter à travers le champ de bataille pour quelques instants, et revient à sa position de départ lorsque l'effet se termine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

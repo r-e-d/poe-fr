@@ -38,7 +38,7 @@ Un rocher surplombe le précipice, tel une ancre solidement fixée.</DefaultText
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Le vent projette [SkillCheck 1] contre la paroi. [SkillCheck 1] lâche la corde et tombe.</DefaultText>
+      <DefaultText>Le vent projette [SkillCheck 0] contre la paroi. [SkillCheck 0] lâche la corde et tombe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@ Un rocher surplombe le précipice, tel une ancre solidement fixée.</DefaultText
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Sans hésiter, [SkillCheck 0] attrape [SkillCheck 1]. Sous le poids, [SkillCheck 0] se déboîte l'épaule, mais sauve [SkillCheck 1] d'une mort certaine.</DefaultText>
+      <DefaultText>Sans hésiter, [SkillCheck 1] attrape [SkillCheck 0]. Sous le poids, [SkillCheck 1] se déboîte l'épaule, mais sauve [SkillCheck 0] d'une mort certaine.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

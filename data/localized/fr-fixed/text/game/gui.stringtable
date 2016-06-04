@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2424</EntryCount>
+  <EntryCount>2426</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12229,6 +12229,16 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2454</ID>
       <DefaultText>Attaque la {1} au lieu de la {0} si la {1} est plus basse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2455</ID>
+      <DefaultText>{0} des coups convertis en critiques (arme en mêlée à une main)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2456</ID>
+      <DefaultText>{0} des Coups reçues converties en Éraflures (Réflexes seuls)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
