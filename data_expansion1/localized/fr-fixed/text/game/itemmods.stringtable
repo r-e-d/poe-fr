@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>64</EntryCount>
+  <EntryCount>65</EntryCount>
   <Entries>
     <Entry>
       <ID>264</ID>
@@ -322,6 +322,11 @@
     <Entry>
       <ID>467</ID>
       <DefaultText>Précis 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Tranchant</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
