@@ -1,6 +1,6 @@
 # Pillars of Eternity : Traduction française corrigée
 
-Ce projet a pour but de corriger et d'améliorer la traduction française de Pillars of Eternity. Les fichiers sont prévus pour la version 3.04.1165 du jeu.
+Ce projet a pour but de corriger et d'améliorer la traduction française de Pillars of Eternity. Les fichiers sont prévus pour la version 3.05.1186 du jeu.
 
 ## Installation:
 
