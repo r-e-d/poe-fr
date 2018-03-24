@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_fulvano_blunderbuss</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous remarquez parmi l'adra et le cuivre quelque chose qui n'est pas à sa place, un objet en bois et en acier niché derrière l'oreille de la statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Vous saisir de l'objet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Le laisser là où il est.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous vous hissez sur la balustrade et vous vous appuyez contre l'oreille démesurée. Vous tendez votre main libre en direction de l'objet jusqu'à ce que vos doigts effleurent, puis agrippent son extrémité en bois. Vous le dégagez et vous redescendez sur la plateforme pour examiner le fruit de vos labeurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Constituée d'un tube en acier en forme d'entonnoir rivé à une crosse robuste, cette arme est un tromblon qui semble avoir vu des jours meilleurs. De nombreuses griffures strient le canon en acier, tandis que le bois dur traité de la crosse est marqué d'entailles et d'ébréchures. Une odeur de fumée et de mer émane de l'arme à feu.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2438</EntryCount>
+  <EntryCount>2475</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7093,7 +7093,7 @@ Parmi les nombreuses expériences des anciens Engwithans, certaines consistaient
       <ID>1402</ID>
       <DefaultText>Ces gants de cuir épais sont résistants aux flammes et peuvent protéger les mains de leur porteur de la chaleur de la forge. Ils sont chauds au toucher.
 
-Ils appartenaient à un armurier de l'Archipel du Feu Éteint. Son savoir-faire lui amenait beaucoup de clients, mais comme nombre d'entre eux étaient des pirates et des criminels, il se trouvait souvent dépouillé de ses meilleures créations. Il fit enchanter ses gants de forge avec des sorts lui permettant de ne jamais se trouver à la merci de voleurs.</DefaultText>
+Ils appartenaient à un armurier de l'Archipel du Feu éteint. Son savoir-faire lui amenait beaucoup de clients, mais comme nombre d'entre eux étaient des pirates et des criminels, il se trouvait souvent dépouillé de ses meilleures créations. Il fit enchanter ses gants de forge avec des sorts lui permettant de ne jamais se trouver à la merci de voleurs.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -14610,6 +14610,269 @@ Ainsi, en contemplant un majestueux pic montagneux, une rangée de piliers d'adr
 Tel est l'attrait d'Abydon en tant que divinité, puisque c'est à travers sa légende que nous reconnaissons les formes familières dans le monde de la nature. Si nous voyons une forme du relief qui ressemble à une colonnade, ou une porte voutée, ou un foyer, nous voyons une main et une raison d'être au travail, sans communes mesures avec les nôtres.
 
 Et même si l'identité propre d'Abydon en tant qu'automate est aliénante pour certains, pour beaucoup d'entre nous, sa forme grossière mais fonctionnelle a quelque chose de réconfortant. Alors que les autres dieux prennent des formes d'oiseaux, de bêtes ou de mers, Abydon prend celle de nos outils et constructions les plus courants. Son avilissement dans un corps de fer élève nos propres travaux et labeurs, et nous offre un immense espoir. Parce que si un dieu peut se reconstruire à partir du fer, quelles merveilles les êtres civilisées pourront-ils créer de leurs propres mains ?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2534</ID>
+      <DefaultText>Ceinture du Canonnier royal du Feu éteint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2535</ID>
+      <DefaultText>À la fois flotte paramilitaire et guilde marchande, la Compagnie royale du Feu éteint lutte pour étendre l'hégémonie des Rauatai à l'ensemble de l'archipel du Feu éteint. Les navires cuirassés de la CRFE sont hérissés d'armement lourd et dotés d'équipages loyaux et compétents – des atouts qui permettent à la compagnie de continuer à jouer un rôle influent dans la région.
+
+Cette ceinture en peau de requin de première qualité étrenne l'outillage géométrique dont les Rauatai sont coutumiers, frappé de sceaux des arcanes dissimulés dans les rainures de chaque angle droit. Bien que sa texture n'ait rien d'inhabituel au toucher, la ceinture confère à son porteur une sensation de chaleur confortable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2536</ID>
+      <DefaultText>Chapeau de capitaine de la Compagnie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2537</ID>
+      <DefaultText>La Compagnie commerciale vailienne, seule compagnie marchande à bénéficier du soutien sans réserve des cinq ducs des Républiques de Vailia, s'est affirmée en tant que puissance florissante dans l'archipel du Feu éteint. Bien qu'elle pratique de nombreux types de commerce, l'intérêt de la CCV pour cette région est principalement dû à la présence d'une forme rare et précieuse d'adra.
+
+Ce tricorne à plume porte la marque de la Compagnie sur la doublure intérieure. Son style élégant met en valeur la prestance et l'allure de celui qui le porte, contribuant à consolider son autorité dans les situations les plus difficiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2538</ID>
+      <DefaultText>Gourdin de guerre des Mataru</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2539</ID>
+      <DefaultText>Les Huana sont une coalition culturelle de tribus autochtones aumaua de l'archipel du Feu éteint, qui résistent aux déprédations des pirates príncipi et aux manigances des compagnies commerciales qui lorgnent les richesses du Feu éteint. Caste militaire des Huana, les Mataru dirigent les tribus et les défendent de leurs nombreux ennemis, ainsi que des dangers de la mer.
+
+Un artisan du Feu éteint a façonné ce robuste gourdin à la tête massive, béni par les prêtres de Ngati et recouvert de symboles marins. Le temps et l'usure ont quasiment effacé ses couleurs vives d'antan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2540</ID>
+      <DefaultText>Lance-pieux à gâchette dorée de Molina la Borgne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2541</ID>
+      <DefaultText>Les redoutés Príncipi sen Patrena sillonnent les mers du Feu éteint, menace constante pour les compagnies commerciales ainsi que pour les contrebandiers et esclavagistes hors-la-loi. Réfugiés de Vailia l'Ancienne à l'origine, certains de ces pirates honorent toujours les traditions de leur patrie d'antan. Les autres sont parmi les boucaniers les plus violents et anarchiques à avoir un jour écumé les mers.
+
+L'arbalète est l'arme de choix de beaucoup de corsaires, en raison du danger que posent les armes à feu à bord des navires. Cette grande arbalète extrêmement lourde tire des carreaux avec une force telle que ses victimes sont projetées au sol. Les touches de dorure sur la crosse et l'étrier différencient cet artéfact d'ingénierie vailienne des modèles d'arbalètes plus répandus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2542</ID>
+      <DefaultText>Sabre des mers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2543</ID>
+      <DefaultText>Les lignes de la lame en acier de cette épée évoquent les vagues tumultueuses d'une mer agitée. La lame est toujours légèrement plus froide au toucher que ce à quoi on s'attend, et est parcourue de gouttes d'eau formant une fine couche qui semble alourdir l'arme. 
+
+Bien que l'on trouve des sabres dans le Dyrwood, ils sont plus souvent utilisés à bord de navires, où les marins évitent toute armure lourde car elle réduit considérablement les chances de survie de toute personne jetée par-dessus bord. Le symbole d'Ondra dont la lame de ce sabre est frappée suggère une telle provenance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2544</ID>
+      <DefaultText>Tromblon de Fulvano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2545</ID>
+      <DefaultText>L'explorateur vailien Fulvano, dont le renom n'atteignit jamais les sommets de sa vantardise, était un excentrique qui souhaitait découvrir le monde. Il voyageait à pied autant que possible, souhaitant obtenir la perspective d'un individu du cru en ce qui concernait les vues, les sons et les odeurs des contrées qu'il traversait. Fulvano déclara cependant souvent que la seule chose que ses voyages avaient prouvée était que le monde au-delà des Républiques de Vailia était un cloaque malodorant qui faisait bien pâle figure comparé à sa terre natale.
+
+Connu plus pour sa soif de voyage que pour ses talents de guerrier, Fulvano avait néanmoins l'œil avisé pour ce qui était de l'équipement, et ce tromblon ne semble pas échapper à la règle. Cette arme à feu fonctionne comme si elle avait été fabriquée hier, nonobstant son extérieur éculé ; son mécanisme de tir et sa visée sont aussi performants que peuvent l'être ceux d'un lance-balles. 
+
+L'état impeccable de l'arme suggère que Fulvano n'a peut-être jamais fait feu avec, ce qui donne de la crédibilité à une citation supposée apocryphe qui lui est souvent attribuée : "Le plomb et l'acier peuvent vous débarrasser d'un ennemi, mais seul le vin peut faire de lui votre ami."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2546</ID>
+      <DefaultText>Uniforme de timonier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2547</ID>
+      <DefaultText>Le temps en haute mer oscille entre les extrêmes de la chaleur torride et sèche et le froid brutal et détrempé des orages nocturnes. Les marins qui peuvent se le permettre préfèrent porter des couches de vêtements, associant des manteaux bien chauds à des chemises ou marinières en tissu léger et respirable. 
+
+Étant donné l'importance de la réputation et de l'infamie dans leur milieu, les pirates en particulier ont tendance à porter des vêtements criards et extravagants qui montrent non seulement leurs biens mal acquis, mais permettent d'identifier les dits pirates, intimidant ainsi leurs victimes et encourageant leurs ennemis à garder leurs distances.
+
+Le timonier dirige le bateau de son gouvernail. C'est un rôle qui requiert une force considérable pour lutter contre celle de l'océan, ainsi qu'une concentration et une détermination à toute épreuve pour rester vigilant pendant les orages violents, les combats sanglants et les périodes d'ennui quasi interminables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2548</ID>
+      <DefaultText>Peu de dangers mettent autant en péril un navire de haute mer qu'un feu non maîtrisé, et c'est d'autant plus vrai lorsque des barils de poudre et d'autres explosifs se trouvent à bord. Bien que les navires de la Compagnie royale du Feu éteint ne disposent pas tous de mages capables de manipuler le feu, ces illustres individus sont très recherchés, au point qu'ils peuvent pratiquement imposer la rémunération qu'ils souhaitent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2549</ID>
+      <DefaultText>Lorsque Yuraska Rona rejoignit le vaisseau cuirassé Griffe du lion, son talent pour contrôler le feu, son entendement quasi-instinctif de la trigonométrie et son aptitude marteau à la main lui valurent une solde conséquente. Sa paie lui importait moins que le fait de voir les contrées qui avaient été le berceau de son peuple, mais elle appréciait de pouvoir retourner au petit domaine désolé de sa famille et leur apporter des caisses remplies de nourriture et d'autres commodités.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2550</ID>
+      <DefaultText>La Griffe du lion était un navire de guerre à l'efficacité redoutable, régulièrement appelé à livrer bataille – d'abord contre les Wahaki, puis contre les marchands d'esclaves illégaux, et enfin contre les flibustiers vailiens. Son calme face au danger et sa compétence hors du commun faisaient de Yuraska un atout irremplaçable pour son navire, et le capitaine lui accorda promptement ses propres quartiers à bord.
+
+Pendant ce temps, ses compagnons d'équipage combattaient et mouraient sur le pont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2551</ID>
+      <DefaultText>Il était quasiment inévitable que des envieux finissent par s'en prendre à elle. Ils enfoncèrent la porte de sa cabine et l'arrachèrent à son hamac, puis la traînèrent jusqu'au pont-batterie. Elle hurla à l'aide et les supplia de s'arrêter, mais n'obtint pour toute réponse qu'un coup au visage et un genou brisé.
+
+Lorsqu'ils la traînèrent vers l'escalier menant au pont principal pour la jeter par-dessus bord, Yuraska eut recours au seul espoir qu'il lui restait. Apercevant les réserves de poudre, elle proféra une incantation et fit jaillir une étincelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2552</ID>
+      <DefaultText>La CCV possède une flotte importante de navires marchands et de vaisseaux d'escorte bien armés qui protègent ses investissements des pirates et des boucaniers. Les officiers qui servent sur ces navires portent des couvre-chefs comme celui-ci pour s'abriter de la férocité des éléments, pour se différencier des équipages des autres groupes qui opèrent dans la région, et pour se distinguer des marins ordinaires sur leurs vaisseaux.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2553</ID>
+      <DefaultText>Pionnier des intérêts de la Compagnie commerciale vailienne dans le Feu éteint, Mercario Menzallini était bien moins dévoué au commerce que sa mère, qui l'avait poussé à marcher sur ses traces au sein de la Compagnie. Il prit la mer en tant que lieutenant sur une galère de la CCV, pénétré d'angoisse et de rancœur, certain que jamais il ne reviendrait à bon port.
+
+Sa crainte s'avéra légitime.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2554</ID>
+      <DefaultText>Lorsque le navire de Menzallini arriva dans la région du Feu éteint, il avait été promu capitaine suite au décès de ce dernier. L'officier qui était capitaine lorsque le navire avait levé l'ancre périt lors d'un affrontement avec un galion aedyrien au large de la pointe sud du continent, tandis que son remplaçant eut l'incroyable malchance d'être projeté par-dessus bord lors de l'assaut d'un ravageur à éperon.
+
+Menzallini se révéla néanmoins être un capitaine extrêmement compétent. Conscient de son manque d'expérience, il prêta attention aux conseils de ses matelots, et leur octroya en retour de meilleures rations et une solde plus conséquente que ce dont ils auraient bénéficié sur d'autres navires.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2555</ID>
+      <DefaultText>Bien que très apprécié de son équipage, les expéditions de Menzallini étaient moins profitables que celles de capitaines plus économes, et la CCV lui ordonna de regagner les Républiques, avec l'intention de lui retirer son commandement. Il en fut cependant prévenu à l'avance par une de ses anciennes navigatrices, qui grâce à la paie généreuse accordée par Menzallini avait pu obtenir un poste de comptable à Vailia. 
+
+Plutôt que de rapatrier son navire et son équipage dans les Républiques, Menzallini fit baisser le pavois de la CCV, offrant de le remettre à ceux qui préféraient rester au sein de la Compagnie et ne souhaitaient pas prendre part à son insurrection. Lorsqu'aucun des membres de son équipage n'accepta l'offre, il plia le pavois et le mit sous clé. Il jeta ensuite son tricorne à la mer, tourna la proue vers l'horizon et mit le cap sur des eaux inexplorées.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2556</ID>
+      <DefaultText>Les tribus du Feu éteint n'approuvent pas toutes les ouvertures faites par la reine des Huana visant à amadouer les compagnies commerciales des Républiques de Vailia et des Rauatai. Les tribus plus guerrières prirent les armes pour résister aux envahisseurs étrangers, ce qui causa de terribles pertes dans les deux camps.
+
+Une marchande vailienne récupéra ce gourdin parmi les décombres de l'un de ces affrontements et le garda comme trophée de ses voyages dans les îles orientales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2557</ID>
+      <DefaultText>Avant de tomber entre des mains vailiennes, ce gourdin avait été transmis de Mataru en Mataru au sein de la tribu des Wahaki. Les prêtres de la tribu affirmaient que le gourdin appartenait à une âme en particulier, dont chaque porteur de l'arme était la réincarnation. 
+
+Cette croyance atypique au sein des traditions des Huana indiquait que le porteur du gourdin était un individu destiné à accomplir de grandes choses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2558</ID>
+      <DefaultText>L'arme était un puissant artéfact, selon les prêtres. Façonnée à l'origine par le prêtre-guerrier Timauko, qui devint plus tard l'un des chefs de la tribu, c'est à l'héritier de son âme qu'elle échut après que Timauko se soit sacrifié pour empêcher un kraken de s'attaquer aux pêcheurs au harpon de la tribu. 
+
+Les prêtres enseignaient que ce gourdin, taillé dans les racines d'un arbre qui poussait au creux d'un affleurement d'adra, tirait de l'esprit du guerrier qui le possédait les souvenirs de l'âme à laquelle il avait appartenu précédemment. Avec chaque Mataru qui devenait le porteur de l'arme, le pouvoir de celle-ci augmentait, et plus elle passait de temps entre les mains d'un guerrier, plus ce dernier pouvait user de son pouvoir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2559</ID>
+      <DefaultText>Durama, la dernière porteuse du gourdin, aida les Wahaki à repousser des Vailiens qui désiraient établir un port dans leurs îles, alors qu'elle n'était encore qu'une enfant. Elle fit honneur à ses ancêtres pendant la bataille, montant à bord d'un clipper vailien et tuant le capitaine et son second, bravant une pluie de projectiles avant de s'échapper en plongeant par-dessus bord.
+
+Les Huana repoussèrent l'assaut des Vailiens, mais un boulet de canon frappa le bateau de Durama et le réduit en un amas sanglant d'éclats de planches et de membres épars. Aucun Huana ne revit son gourdin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2560</ID>
+      <DefaultText>La sanglante vengeance de Molina la Borgne
+
+Molina la Borgne naquit avec deux yeux,
+Pends-le du mât comme un gréement !
+Elle les avait toujours quand elle mit le cap sur le Feu,
+Donne-lui à boire jusqu'à ce qu'il gigue gaiement !
+
+Molina la Borgne de Palmin'a la lointaine,
+O-hé, c'était une dure à cuire !
+Du pont et du cabestan elle était la reine,
+O-hé, c'était une dure à cuire !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2561</ID>
+      <DefaultText>Molina aux deux yeux mit les voiles de Port Majé,
+Pends-le du mât comme un gréement !
+Aborda un navire marchand, plongea dans la mêlée,
+Donne-lui à boire jusqu'à ce qu'il gigue gaiement !
+
+Molina la Borgne de Palmin'a la lointaine,
+O-hé, c'était une dure à cuire !
+À ses matelots elle évita de la potence la peine,
+O-hé, c'était une dure à cuire !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2562</ID>
+      <DefaultText>Molina et Fero croisèrent le fer sous l'artimon,
+Pends-le du mât comme un gréement !
+Il lui prit son œil gauche et une partie de sa vision,
+Donne-lui à boire jusqu'à ce qu'il gigue gaiement !
+
+Molina la Borgne de Palmin'a la lointaine,
+O-hé, c'était une dure à cuire !
+Ceux que fixait son œil étaient occis par les douzaines,
+O-hé, c'était une dure à cuire !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2563</ID>
+      <DefaultText>Cordes aux chevilles Fero fut hissé comme une bête,
+Pends-le du mât comme un gréement !
+Elle rangea son sabre et sortit son arbalète,
+Donne-lui à boire jusqu'à ce qu'il gigue gaiement !
+
+Molina la Borgne de Palmin'a la lointaine,
+O-hé, c'était une dure à cuire !
+Un carreau dans chaque œil elle lui tira dans sa haine,
+O-hé, c'était une dure à cuire !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2564</ID>
+      <DefaultText>Buvez une boisson dans chaque taverne des Contrées orientales pour déverrouiller le niveau suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2565</ID>
+      <DefaultText>Uniforme de matelot de pont</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2566</ID>
+      <DefaultText>Uniforme de maître d'équipage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2567</ID>
+      <DefaultText>Subissez 100 points de dégâts infligés par des ennemis à distance pour déverrouiller le niveau suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2568</ID>
+      <DefaultText>Subissez 200 points de dégâts infligés par des ennemis au corps-à-corps pour déverrouiller le niveau suivant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2569</ID>
+      <DefaultText>Le temps en haute mer oscille entre les extrêmes de la chaleur torride et sèche et le froid brutal et détrempé des orages nocturnes. Les marins qui peuvent se le permettre préfèrent porter des couches de vêtements, associant des manteaux bien chauds à des chemises ou marinières en tissu léger et respirable. 
+
+Étant donné l'importance de la réputation et de l'infamie dans leur milieu, les pirates en particulier ont tendance à porter des vêtements criards et extravagants qui montrent non seulement leurs biens mal acquis, mais permettent d'identifier les dits pirates, intimidant ainsi leurs victimes et encourageant leurs ennemis à garder leurs distances.
+
+Les matelots de pont sont le sang et les muscles d'un navire, capables d'accomplir des tâches très diverses, comme les réparations, le nettoyage et le gréement. Un marin se doit d'être vif et agile, car le moindre pas de travers ou la moindre perte de prise sur une mer agitée peut entraîner une mort atroce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2570</ID>
+      <DefaultText>Le temps en haute mer oscille entre les extrêmes de la chaleur torride et sèche et le froid brutal et détrempé des orages nocturnes. Les marins qui peuvent se le permettre préfèrent porter des couches de vêtements, associant des manteaux bien chauds à des chemises ou marinières en tissu léger et respirable. 
+
+Étant donné l'importance de la réputation et de l'infamie dans leur milieu, les pirates en particulier ont tendance à porter des vêtements criards et extravagants qui montrent non seulement leurs biens mal acquis, mais permettent d'identifier les dits pirates, intimidant ainsi leurs victimes et encourageant leurs ennemis à garder leurs distances.
+
+Premier parmi les matelots d'un navire, le maître d'équipage dirige la majorité des marins à bord. Un rôle qui requiert non seulement une bonne compréhension de toutes les tâches assignées aux matelots, mais aussi d'être constamment au fait de l'état du navire et de son équipage. Un maître d'équipage d'exception associe à ces aptitudes de grandes qualités de meneur d'hommes. Lorsqu'il est apprécié de ses matelots, un maître d'équipage peut éviter qu'un équipage mécontent se transforme en horde mutine.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

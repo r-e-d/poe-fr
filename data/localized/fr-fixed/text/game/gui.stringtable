@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>2426</EntryCount>
+  <EntryCount>2439</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -12239,6 +12239,92 @@ Une fois sélectionné, votre choix ne peut pas être modifié.</DefaultText>
     <Entry>
       <ID>2456</ID>
       <DefaultText>{0} des Coups reçues converties en Éraflures (Réflexes seuls)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2457</ID>
+      <DefaultText>Autoriser l'envoi de données télémétriques</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2458</ID>
+      <DefaultText>Lorsqu'elle est activée, cette option permet l'envoi aux développeurs de données anonymes relatives à l'utilisation du jeu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2459</ID>
+      <DefaultText>Vous pouvez maintenant découvrir des objets à thème Feu éteint, uniques et liés à l'âme présents dans le deuxième volet du jeu – ici dans les Contrées orientales. Consultez les notes de patch pour des infos détaillées au sujet de chaque objet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2460</ID>
+      <DefaultText>Politique de confidentialité d'Obsidian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2461</ID>
+      <DefaultText>Mise à jour Eternity 3.07</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2462</ID>
+      <DefaultText>Objets du Feu éteint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2463</ID>
+      <DefaultText>En choisissant de nous envoyer des données télémétriques, vous pouvez nous aider à rendre nos prochains jeux (comme Pillars of Eternity II : Deadfire) encore meilleurs. Vous pouvez aussi changer ce paramètres à partir des Options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2464</ID>
+      <DefaultText>[b]Objets du Feu éteint[/b]
+
+Vous pouvez maintenant découvrir des objets à thème Feu éteint, uniques et liés à l'âme présents dans le deuxième volet du jeu – ici dans les Contrées orientales. Consultez les notes de patch pour des infos détaillées au sujet de chaque objet.
+
+[b]Nouveaux Portraits[/b]
+
+De nouveaux portraits sont désormais disponibles lors de la création de personnage.
+
+[b]Aidez-nous à rendre nos jeux meilleurs ![/b]
+
+Ici à Obsidian, vos commentaires jouent un rôle essentiel afin de nous permettre de créer les meilleurs jeux possibles. En choisissant de nous envoyer des données télémétriques concernant la façon dont vous jouez à Pillars of Eternity, vous pouvez nous aider à identifier ce qui plaît le plus à nos joueurs, tout en nous fournissant des données précieuses pour la résolution de problèmes pour les patchs et les mises à jour. Vous pouvez modifier ce réglage à tout moment dans le menu options.
+
+Pour en savoir plus, veuillez consulter la [url=https://www.obsidian.net/privacy-policy]Politique de confidentialité d'Obsidian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2465</ID>
+      <DefaultText>Autoriser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2466</ID>
+      <DefaultText>Refuser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2467</ID>
+      <DefaultText>Aidez-nous à améliorer nos prochains jeux !</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2468</ID>
+      <DefaultText>Si vous autorisez l'envoi de données télémétriques, le jeu pourra envoyer les messages d'erreur et des données d'utilisation du jeu aux développeurs. Ces données sont utilisées pour corriger les bugs et pour aider au développement de jeux à l'avenir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2469</ID>
+      <DefaultText>Objets Feu éteint et nouveaux portraits
+
+Des objets à thème Feu éteint, uniques et liés à l'âme et présents dans le deuxième volet du jeu sont maintenant disponibles ici dans les Contrées orientales. De nouveaux portraits sont également disponibles lors de la création de personnage.
+
+Aidez-nous à rendre nos jeux meilleurs !
+
+En autorisant l'envoi de données télémétriques, vous nous aiderez à en savoir plus sur la manière dont vous jouez au jeu, en permettant l'envoi de rapports de bugs et de données d'utilisation aux développeurs. Vous pouvez modifier ce réglage à tout moment dans le menu options. Pour en savoir plus, veuillez consulter la Politique de confidentialité d'Obsidian à la page suivante : https://www.obsidian.net/privacy-policy
+
+Souhaitez-vous autoriser l'envoi de données télémétriques ?
+      </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_sabre_of_the_seas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vous voyez dépasser des racines noueuses de l'arbre immense ce qui semble être au premier abord une branche rabougrie et tordue. En l'examinant de plus près, vous voyez cependant qu'il s'agit de la garde d'une épée, dont la lame a été profondément enfoncée dans le bois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Prendre l'arme.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[La laisser là où elle est.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vous enroulez vos doigts autour de la poignée et vous tirez sur l'arme, que vous parvenez à dégager avec une facilité déconcertante. Lorsque vous la retirez, de l'eau s'écoule de la pointe tel un filet de sang, laissant une traînée de gouttes au pied de l'arbre.
+
+Le sabre brille malgré l'obscurité du Val-Doré, sa lame recourbée ornée de gouttelettes d'eau.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

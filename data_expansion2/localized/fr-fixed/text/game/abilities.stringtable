@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>186</EntryCount>
+  <EntryCount>187</EntryCount>
   <Entries>
     <Entry>
       <ID>1400</ID>
@@ -932,6 +932,11 @@
     <Entry>
       <ID>1870</ID>
       <DefaultText>Manteau éthéré</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1877</ID>
+      <DefaultText>[TEMP] Veiled Soul</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

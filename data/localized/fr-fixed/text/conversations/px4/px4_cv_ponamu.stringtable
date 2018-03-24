@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_ponamu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vous êtes bien aimable de vous arrêter pour me parler, mon ami venu de l'ouest."
+
+Un Aumaua se tient devant vous, les cheveux en bataille et ses vêtements délavés en haillons. Son visage est tout aussi abîmé, recouvert de fines cicatrices qui courent de blessure en blessure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Heureux de vous revoir, mon ami de l'ouest ! Êtes-vous venu jeter un œil à mes marchandises ?"</DefaultText>
+      <FemaleText>"Heureux de vous revoir, mon amie de l'ouest ! Êtes-vous venue jeter un œil à mes marchandises ?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ohé, l'ami ! Ohé !"</DefaultText>
+      <FemaleText>"Ohé, l'amie ! Ohé !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Je n'ai vu personne depuis que mon navire a coulé. Cela vous intéresserait-il de dépenser quelques pièces ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qui êtes-vous ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vous avez fait naufrage ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Qu'avez-vous à vendre ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Montrez-moi ce que vous avez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Partez.] "Au revoir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Je m'appelle Ponamu Méprisé-des-Oiseaux, chroniqueur du peuple des Huana. C'est un nom étrange, je sais, mais nous ne les choisissons pas nous-mêmes, n'est-ce pas ?"
+
+Il laisse échapper un petit rire et passe la main sur son visage balafré.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Oui. Nous acheminions des marchandises du Feu éteint à la Baie du défi, lorsqu'un orage nous a déviés de notre cap et nous a échoués ici. Je suis le seul survivant."
+
+Son expression s'assombrit l'espace d'un instant, puis il secoue la tête et son trouble disparaît.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vous devriez envisager de naviguer parmi les îles du Feu éteint, mon ami. Vous ne trouverez si belles contrées nulle part ailleurs dans ce monde !"</DefaultText>
+      <FemaleText>"Vous devriez envisager de naviguer parmi les îles du Feu éteint, mon amie. Vous ne trouverez si belles contrées nulle part ailleurs dans ce monde !"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"La cargaison du navire, des produits du Feu éteint, quelques effets personnels, tous de première qualité. Je ne les vendrais pas si j'avais le choix, mais comment puis-je retourner chez moi sans le moindre sou ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bien sûr."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

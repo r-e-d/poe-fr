@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1095</EntryCount>
+  <EntryCount>1096</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -5545,6 +5545,11 @@ Nous restons Pargruns. Écrivez nos noms dans vos halls et dans vos cœurs."</De
     <Entry>
       <ID>1200</ID>
       <DefaultText>Un piège</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1201</ID>
+      <DefaultText>Objets Feu éteint récupérés</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

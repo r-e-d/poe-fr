@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1830</EntryCount>
+  <EntryCount>1831</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -9153,6 +9153,11 @@
     <Entry>
       <ID>1906</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1908</ID>
+      <DefaultText>Ponamu Méprisé-des-Oiseaux</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

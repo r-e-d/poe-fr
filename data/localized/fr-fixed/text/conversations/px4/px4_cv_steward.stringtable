@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_steward</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>L'air à proximité de l'Intendante porte une odeur tiède d'épices venues d'ailleurs, mêlée aux émanations saumâtres de la mer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Les nouvelles sont bonnes, mon seigneur."</DefaultText>
+      <FemaleText>"Les nouvelles sont bonnes, ma dame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Votre renommée s'étend bien au-delà des murs de cette place forte. Des présents nous sont parvenus des Contrées orientales. Chacun des donateurs prétend que son offrande est investie de pouvoirs uniques et insolites, mais les légendes associées à ces objets sont malheureusement perdues dans les brumes du temps."
+
+Vous percevez les objets dont on vous a fait don, chacun d'entre eux vide et désirant ardemment que l'on l'utilise.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

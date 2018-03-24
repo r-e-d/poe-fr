@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1852</EntryCount>
+  <EntryCount>1864</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -9288,6 +9288,66 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
       <DefaultText>Quand un guerrier Nalpazca a appris à se libérer des étreintes qui l'enracinaient dans le monde matériel, on considère qu'il est devenu l'anitlei.
 
 Parmi ses nombreux dons, l'anitlei possède une compréhension surnaturelle des souffrances de tous les êtres, et par cette vision peut deviner les intentions de ses adversaires pour réagir avant même qu'ils aient pu les mettre en œuvre. Par conséquent, ils savent exactement où et quand frapper, et peuvent le faire avec assurance et rapidité.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1878</ID>
+      <DefaultText>Confusion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1879</ID>
+      <DefaultText>Inflige l'affliction Confusion à une cible unique pendant un court laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1880</ID>
+      <DefaultText>Charme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1881</ID>
+      <DefaultText>Inflige l'affliction Charme à une cible unique pendant un court laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1882</ID>
+      <DefaultText>Entrave</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1883</ID>
+      <DefaultText>Inflige l'affliction Entrave à une cible unique pendant un court laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1884</ID>
+      <DefaultText>Renversement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1885</ID>
+      <DefaultText>Inflige l'affliction Renversement à une cible unique pendant un court laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1886</ID>
+      <DefaultText>Assommement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1887</ID>
+      <DefaultText>Inflige l'affliction Assommé à une cible unique pendant un court laps de temps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1888</ID>
+      <DefaultText>Affaiblissement</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1889</ID>
+      <DefaultText>Inflige l'affliction Affaibli à une cible unique pendant un court laps de temps.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
