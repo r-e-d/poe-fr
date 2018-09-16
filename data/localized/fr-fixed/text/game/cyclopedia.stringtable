@@ -428,7 +428,7 @@ Les fampyrs ayant besoin d'essence pour assurer leur survie et le sang des être
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>À l'instar des animats, les créatures de chair sont créées par les animanciens et alimentées par une âme captive. Mais contrairement aux animats, ils ne dépendent pas de la volonté et de la loyauté de l'âme à laquelle ils sont liés. Ainsi, les créatures de chair ne sont pas sujettes aux doutes, mais ne sont capables que de suivre des ordres simples. Elles ont également tendance à vivre moins longtemps que les animats. Alors que l'énergie et la foi de l'âme d'un animat peut assurer sa survie pendant des décennies, voire des siècles, l'âme des créatures de chair se dégrade au fil du temps et leur corps finit par ne plus répondre à leur énergie spirituelle. Les détracteurs de l'animancie en général et des créatures spirituelles en particulier y voient là un rejet par l'âme d'un corps jugé impropre et considèrent les créatures de chair comme une abomination.
+      <DefaultText>À l'instar des animats, les créatures de chair sont créées par les animanciens et alimentées par une âme captive. Mais contrairement aux animats, ils ne dépendent pas de la volonté et de la loyauté de l'âme à laquelle ils sont liés. Ainsi, les créatures de chair ne sont pas sujettes aux doutes et uniquement capables de suivre des ordres simples. Elles ont également tendance à vivre moins longtemps que les animats. Alors que l'énergie et la foi de l'âme d'un animat peut assurer sa survie pendant des décennies, voire des siècles, l'âme des créatures de chair se dégrade au fil du temps et leur corps finit par ne plus répondre à leur énergie spirituelle. Les détracteurs de l'animancie en général et des créatures spirituelles en particulier y voient là un rejet par l'âme d'un corps jugé impropre et considèrent les créatures de chair comme une abomination.
 
 Au sein même des animanciens, les créatures de chair sont controversées. Certains apparentent le processus à une "lobotomie spirituelle" et estiment qu'une âme devrait pouvoir accéder à la vie suivante plutôt que d'être liée à un corps irresponsable.</DefaultText>
       <FemaleText />
@@ -503,8 +503,8 @@ Toute compétence ou tout talent qui n'utilise pas d'arme lors de l'attaque gagn
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>La robustesse permet de résister aux attaques portées aux systèmes physiques internes du personnage (poison, maladie, etc.).
-Il dépend de la classe, du niveau, de la puissance et de la constitution du personnage, mais peut aussi être influencé par d'autres effets.</DefaultText>
+      <DefaultText>La Robustesse permet de résister aux attaques visant les systèmes physiques internes du personnage (poison, maladie, etc.).
+Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du personnage, mais peut aussi être influencée par d'autres effets.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -794,9 +794,9 @@ Il dépend de la classe, du niveau, de la puissance et de la constitution du per
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Pillars of Eternity utilise les quatre propriétés défensives suivantes : Déviation, Robustesse, Réflexes et Volonté. Chaque propriété défensive permet de résister à une catégorie d'attaques différente grâce au jet d'attaque. La déviation permet de résister aux attaques armées directes ou similaires. La robustesse permet de s'opposer aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La volonté permet de résister à presque toutes les attaques psychiques.
+      <DefaultText>Il existe quatre types de défense dans Pillars of Eternity : la Déviation, la Robustesse, les Réflexes et la Volonté. Chaque type de défense sert à résister à une catégorie d'attaques différente via le jet d'attaque. La Déviation sert à résister aux attaques armées directes ou aux attaques similaires à celles effectuées au moyen d'une arme. La Robustesse s'oppose aux attaques physiques visant à neutraliser un personnage ou à nuire à son intégrité physique (via un poison, par exemple). Les Réflexes permettent de résister aux attaques physiques à effet de zone, comme les boules de feu et les éclairs. La Volonté s'oppose à presque toutes les attaques psychiques.
 
-La robustesse, les réflexes et la volonté reposent tous sur un couple d'attributs. La robustesse repose sur la puissance et la constitution. Les réflexes reposent sur la dextérité et la perception. Et la volonté repose sur l'intelligence et la détermination. La déviation de base dépend de la classe et de la détermination du personnage. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les afflictions et les objets peuvent tous modifier les propriétés défensives d'un personnage.</DefaultText>
+La Robustesse, les Réflexes et la Volonté reposent tous sur une paire d'attributs. La Robustesse repose sur la Puissance et la Constitution. Les Réflexes reposent sur la Dextérité et la Perception. Et la Volonté repose sur l'Intelligence et la Détermination. La Déviation de base dépend de la classe du personnage et de sa Détermination. À chaque niveau, tous les personnages reçoivent des bonus défensifs. En outre, les sorts, les capacités, les afflictions et les objets peuvent tous modifier les valeurs de défense d'un personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1579,9 +1579,9 @@ Les icones en forme de pierres tombales indiquent un memorial. Ce sont des messa
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Énormément de sorts et de capacités de zone peuvent blesser les ennemis comme les alliés.
+      <DefaultText>Beaucoup de sorts et de capacités de zone peuvent blesser les ennemis et les alliés en même temps.
 
-Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera tout le monde dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
+Si une capacité ou un sort indique un rayon de zone d'effet, celle-ci affectera tous les personnages présents dans cette zone. Les zones d'effet différenciant alliés et ennemis n'affecteront que ce groupe uniquement.
 
 Cependant, une zone d'effet ordinairement hostile envers les alliés ne les affectera pas si ceux-ci sont dans le cercle externe engendré par une forte intelligence. Vous pouvez utiliser ce cercle externe pour frapper les ennemis sans blesser vos alliés.</DefaultText>
       <FemaleText />
