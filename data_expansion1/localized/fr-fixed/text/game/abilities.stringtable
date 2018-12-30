@@ -211,17 +211,17 @@
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>L'incantateur met l'accent sur les invocations de soutien comme Ni terrassé par la hache, ni emporté par la tempête ou sur les conjurations comme Mais le fantôme de Reny Daret ne trouverait pas le repos et Nul ne savait si leurs ossements se trouvaient encore sous cette colline. Favorise les invocations de soutien d'équipe au détriment des conjurations.</DefaultText>
+      <DefaultText>Le chanteur met l'accent sur les invocations de soutien comme Ni terrassé par la hache, ni emporté par la tempête ou sur les conjurations comme Mais le fantôme de Reny Daret ne trouverait pas le repos et Nul ne savait si leurs ossements se trouvaient encore sous cette colline. Favorise les invocations de soutien d'équipe au détriment des conjurations.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1516</ID>
-      <DefaultText>L'incantateur met l'accent sur les invocations offensives comme Et Hel-Hyraf se fracassa sur le bouclier, Le tonnerre roulait comme les vagues des mers noires, Trois fois elle fut trompée, trois fois elle se fit justice, et Des vers blancs grouillaient dans les entrailles des morts. Si celles-ci ne sont pas disponibles, les conjurations sont favorisées au détriment des invocations de soutien.</DefaultText>
+      <DefaultText>Le chanteur met l'accent sur les invocations offensives comme Et Hel-Hyraf se fracassa sur le bouclier, Le tonnerre roulait comme les vagues des mers noires, Trois fois elle fut trompée, trois fois elle se fit justice, et Des vers blancs grouillaient dans les entrailles des morts. Si celles-ci ne sont pas disponibles, les conjurations sont favorisées au détriment des invocations de soutien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1517</ID>
-      <DefaultText>L'incantateur met l'accent sur les convocations comme Mais le fantôme de Reny Daret ne trouverait pas le repos et Nul ne savait si leurs ossements se trouvaient encore sous cette colline. Si celles-ci ne sont pas disponibles, les invocations de soutien sont favorisées au détriment des invocations offensives.</DefaultText>
+      <DefaultText>Le chanteur met l'accent sur les convocations comme Mais le fantôme de Reny Daret ne trouverait pas le repos et Nul ne savait si leurs ossements se trouvaient encore sous cette colline. Si celles-ci ne sont pas disponibles, les invocations de soutien sont favorisées au détriment des invocations offensives.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,12 +276,12 @@
     </Entry>
     <Entry>
       <ID>1528</ID>
-      <DefaultText>Le paladin utilise Imposition des mains lorsque l'endurance d'un allié est inférieure à 50 %. Utilise Exhortation de libération lorsqu'un allié est soumis à un statut hostile de plus de 5 sec. Utilise le sort Exhortation de renforcement sur un allié qui est attaqué par plus de 2 ennemis. Utilise le sort Exhortation de ranimation sur le premier allié qui perd connaissance (s'il ne dispose pas des capacités Deuxième chance ou Indomptable). Utilise Exhortation d'empressement une fois par rencontre sur les alliés dans l'ordre de préférence suivant : bandits, moines, barbares, rôdeurs, paladins, combattants et tous les autres (uniquement si le paramètre Par repos est activé). L'Endurance zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
+      <DefaultText>Le paladin utilise Imposition des mains lorsque l'endurance d'un allié est inférieure à 50 %. Utilise Exhortation de libération lorsqu'un allié est soumis à un statut hostile de plus de 5 sec. Utilise le sort Exhortation de renforcement sur un allié qui est attaqué par plus de 2 ennemis. Utilise le sort Exhortation de ranimation sur le premier allié qui perd connaissance (s'il ne dispose pas des capacités Deuxième chance ou Indomptable). Utilise Exhortation d'empressement une fois par rencontre sur les alliés dans l'ordre de préférence suivant : bandits, moines, barbares, rôdeurs, paladins, combattants et tous les autres (uniquement si le paramètre Par repos est activé). L'Endurance zélée est activée par défaut. Si elle est désactivée, elle est réactivée au début du combat suivant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1529</ID>
-      <DefaultText>Le prêtre utilise le sort Rayonnement sacré lorsque l'endurance d'un membre du groupe est inférieure à 33 % ou si l'endurance d'au moins deux membres est inférieure à 50 %. Si le paramètre Par repos est activé, le prêtre met l'accent sur les sorts de guérison et de soutien comme Armure de la foi, Bénédiction, Méditation sacrée, Régénération mineure d'endurance, Retrait, etc. Les sorts « Prière contre » sont utilisés en réaction lorsque plusieurs membres du groupe souffrent d'un effet correspondant.</DefaultText>
+      <DefaultText>Le prêtre utilise le sort Rayonnement sacré lorsque l'endurance d'un membre du groupe est inférieure à 33 % ou si l'endurance d'au moins deux membres est inférieure à 50 %. Si le paramètre Par repos est activé, le prêtre met l'accent sur les sorts de guérison et de soutien comme Armure de la foi, Bénédiction, Méditation sacrée, Restauration d'endurance mineure, Retrait, etc. Les sorts « Prière contre » sont utilisés en réaction lorsque plusieurs membres du groupe souffrent d'un effet correspondant.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

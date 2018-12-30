@@ -273,7 +273,7 @@ Les rôdeurs sont connus pour se cacher, attendant souvent sans bouger au milieu
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Les lions peuplaient autrefois les plaines situées à l'est et au sud des immenses forêts d'Eir Glanfath. Mais la colonisation des Contrées orientales a repoussé ces grands félins vers les terres situées entre les communautés glanfathanes et dyrwoodanes. En plus d'être particulièrement puissants, les lions se distinguent par leur rugissement capable de susciter la peur des êtres civilisés les plus courageux.</DefaultText>
+      <DefaultText>Les lions peuplaient autrefois les plaines situées à l'est et au sud des immenses forêts d'Eir Glanfath. Mais la colonisation des Contrées orientales a repoussé ces grands félins vers les terres situées entre les communautés glanfathanes et dyrwoodanes. En plus d'être particulièrement puissants, les lions se distinguent par leur rugissement capable de susciter la peur chez les êtres civilisés les plus courageux.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +493,7 @@ Toute compétence ou tout talent qui n'utilise pas d'arme lors de l'attaque gagn
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>La déviation correspond à la défense utilisée pour résister aux attaques de mêlée et aux attaques à distance directe contre le personnage situé en dehors de la zone d'effet. Elle dépend de la classe, du niveau et de la détermination du personnage, mais peut aussi être influencée par les boucliers, par certaines armes, par les talents et par d'autres effets, tels que les sorts ou les objets.</DefaultText>
+      <DefaultText>La Déviation correspond à la défense utilisée pour résister aux attaques directes de corps à corps ou à distance qui ne sont pas des attaques à zone d'effet (ZdE). Elle dépend de la classe, du niveau et de la détermination du personnage, mais peut aussi être influencée par les boucliers, certaines armes, les talents et autres effets, tels que les sorts ou les objets.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -734,7 +734,7 @@ Elle dépend de la classe, du niveau, de la Puissance et de la Constitution du p
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Une Entorse à la cheville réduit les défenses de Réflexe du personnage.</DefaultText>
+      <DefaultText>Une Entorse à la cheville réduit la propriété défensive Réflexes du personnage.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
