@@ -11,9 +11,9 @@ Décompresser le fichier .zip et placer les répertoires data, data_expansion1 (
  * Linux : [dossier_Poe]/PillarsOfEternity_Data/
  * OSX : [dossier_Poe]/PillarsOfEternity.app/Contents/
 
-Ensuite dans les options du jeu, choississez la nouvelle langue :
+Ensuite dans les options du jeu, choisissez la nouvelle langue :
 
-<a href='http://pix.toile-libre.org/?img=1428774262.jpg'><img src='http://pix.toile-libre.org/upload/img/1428774262.jpg' /></a>
+![](lang.jpg)
 
 ### En utilisant l'outil 'git'
 
