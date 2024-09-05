@@ -12326,5 +12326,35 @@ En autorisant l'envoi de données télémétriques, vous nous aiderez à en savo
 Souhaitez-vous autoriser l'envoi de données télémétriques ?</DefaultText>
       <FemaleText />
     </Entry>
+      <Entry>
+      <ID>2470</ID>
+      <DefaultText>Copie du contenu de la Royal Edition en cours. Veuillez patienter.</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2471</ID>
+      <DefaultText>Voulez-vous copier le contenu supplémentaire de la Royal Edition ?</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2472</ID>
+      <DefaultText>Copie terminée</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2473</ID>
+      <DefaultText>Échec de la copie</DefaultText>
+      <FemaleText />
+    </Entry>
+        <Entry>
+      <ID>2474</ID>
+      <DefaultText>Installer la Royal Edition</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>2475</ID>
+      <DefaultText>Royal Edition</DefaultText>
+      <FemaleText />
+    </Entry>
   </Entries>
 </StringTableFile>
